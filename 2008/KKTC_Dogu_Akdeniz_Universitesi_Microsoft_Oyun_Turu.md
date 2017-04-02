@@ -2,11 +2,12 @@
 FallbackID: 2286
 Title: KKTC Doğu Akdeniz Üniversitesi Microsoft Oyun Turu
 PublishDate: 12/24/2008
-EntryID: bee08421-d50f-4b74-b4ca-ef5bb9aae1d1
+EntryID: KKTC_Dogu_Akdeniz_Universitesi_Microsoft_Oyun_Turu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: bee08421-d50f-4b74-b4ca-ef5bb9aae1d1
 ---
 Bugün **KKTC Doğu Akdeniz Üniversitesi**'nde Microsoft Oyun Turu'nun bir
 ayağını daha gerçekleştirdik. Sevgili XNA uzmanımız **Engin Yıldız** ile
