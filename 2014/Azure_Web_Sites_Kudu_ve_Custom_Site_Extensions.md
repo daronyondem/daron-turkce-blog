@@ -1,0 +1,141 @@
+---
+FallbackID: 2897
+Title: Azure Web Sites, Kudu ve Custom Site Extensions
+PublishDate: 3/25/2014
+EntryID: Azure_Web_Sites_Kudu_ve_Custom_Site_Extensions
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Windows Azure
+---
+Azure Web Sites üzerinde bir siteniz varsa doğrudan o sitenin bulunduğu
+donanıma erişiminiz olmadığını da bilirsiniz. Siteniz seçtiğiniz profile
+göre paylaşımlı bir ortamda veya size özel bir sunucuda da barındırılsa
+sonuç olarak o sunucu Azure tarafından yönetilir ve size doğrudan
+açılmaz. Peki bu durumda acaba basit bir FTP bağlantısı dışında başka
+nelere ulaşabilirsiniz sitemizle ilgili dediğiniz karşımıza kod adı ile
+"Kudu" çıkıyor. Kudu'nun esas ismi "Site Control Management". Kudu
+özünde Azure Web Sites üzerine bir extension noktası ekleyerek bu web
+sitelerine ulaşabilecek ve kullanabilecek uygulamalar yazılmasını
+sağlıyor. Örneğin web sitenizin yönetim paneli aslında bir Kudu
+Extension'ı olabilir :) Şu an için epey bir konsept aşamasında ama uzun
+vadede ben Kudu'nun çok ilginç yerlere gidebileceğini düşünüyorum. Gelin
+bir göz atalım.
+
+### Kudu'ya erişmek...
+
+Tabi ki Kudu'ya erişebilmek için ilk olarak bir azure web sites
+deploymentınız olması lazım. Azure'ın size verdiği
+**ahmetmehmet.azurewebsites.net** gibi bir adresine tam ortasına **scm**
+yazarak Kudu Dashboard'a ulaşabiliyorsunuz. Örneğin
+**benimsitem.scm.azurewebsites.net** adresi bu şekilde bir adres olacak.
+Siteye giriş yaptığınız anda size Deployment Credential'larınız
+sorulacak. Bu bilgileri zaten Azure Yönetim Paneli'nden alabilirsiniz.
+
+![Kudu Dashboard](http://cdn.daron.yondem.com/assets/2897/kudu.png)
+*Kudu Dashboard*
+
+Kudu ana sayfasında hemen sitenizin root adresini ve birkaç tane de REST
+API bulabilirsiniz. Bu API'lar doğrudan Kudu'nun sunduğu ve sitenizle
+ilgili bilgiler alabileceğiniz API'lar. Üst tablardan **Environment**
+tabında gittiğinizde sitenizin çalıştığı makinedeki ortam
+değişkenlerini, sistem bilgisini, sunucu değişkenlerini ve daha birçok
+bilgiyi bulabilirsiniz. "Debug Console" ise size basit bir terminal
+penceresi  sağlamanın ötesinde siteniz üzerine bir de FTP arayüzü vermiş
+olacak. Buradan dosya silebilir, klasörleri toplu olarak ZIP şeklinde
+indirebilirsiniz.
+
+![Kudu arayüzünde Azure Web Sites'a
+Terminal](http://cdn.daron.yondem.com/assets/2897/kudu2.png)
+*Kudu arayüzünde Azure Web Sites'a Terminal*
+
+Sitenin "Log Stream" kısmına girdiğinizde sonraki 12 saat için uygulama
+loglarınız saklanacak ve bu ekrandan incelenebilecek. "Web Hooks" kısmı
+ise şu anda epey ilkel durumda. Sadece deployment sonrası sizin
+verdiğiniz bir adres tetiklenebiliyor. İleride "action" tipleri, yani
+sadece "PostDeployment" değil farklı trigger actionları da tanımlanacak
+ve Web Hooks eminim ki çok daha işlevsel olacak.
+
+![Kudu'da Site
+Extensions](http://cdn.daron.yondem.com/assets/2897/kudu3.jpg)
+*Kudu'da Site Extensions*
+
+Sanırım Kudu'nun en ilginizi çekecek tarafı "Site Extensions" olacak.
+Aslında **Kudu** ve **Monaco** (Visual Studio Online) da birer Site
+Extensions. Bu extensionlar doğrudan yüklü geliyorlar. Örneğin Monaco
+alında Azure portalından aktif hale getiriliyor. Bu iki extension
+haricince bir de Extension Gallery'den elle yükleyebileceğiniz
+eklentiler mevcut. Yukarıdaki ekran görüntüsünde bu eklentilerin bir
+listesini görebilirsiniz. Azure tarafından yönetilen Site Extension'lar
+hedef makinede **%ProgramFiles(x86)%\\SiteExtensions** adresinde yer
+alırken Gallery'den gelen Extensionlar site ile aynı root klasörde
+"SiteExtensions" adında bir klasörde yaşar. Buraya isterseniz siz de
+kendi Extension'larınızı yazabilirsiniz. Örnek olarak incelemek
+isterseniz "FileCounter" extensionı hızlıca incelenebilecek basi bir
+extension olarak Gallery'de mevcut. Extensionı yükledikten sonra
+klasörüne girdiğinizde iki önemli dosya bulacaksınız.
+
+![FileCounter
+Extension'ı.](http://cdn.daron.yondem.com/assets/2897/kudu4.png)
+*FileCounter Extension'ı.*
+
+Yukarıdaki
+
+**[C\#]**
+
+```cs
+< %@ language="C#" Debug="true" %>
+< %@ Import Namespace="System.IO" %>
+
+< %
+    // Find the site's web root
+    string folder = Environment.ExpandEnvironmentVariables(@"%HOME%\site\wwwroot");
+    int fileCount = Directory.GetFiles(folder, "*.*", SearchOption.AllDirectories).Length;
+%>
+<h1>World's most amazing file counter</h1>
+<h2>Your site has <%= fileCount %> files!</h2>
+```
+
+Yukarıdaki dosya Extension'ın içindeki ASPX dosyası. Basit bir şekilde
+extensionın yüklendiği sitenin içindeki dosyaların sayısını veriyor. Bu
+basit uygulama ble aslında bizim sitenin dosyalarına nasıl
+erişebileceğimizi gösteriyor. Tüm Extension'lar bu şekilde extend
+ettikleri sitenin klasörüne full erişim hakkına sahipler. Artık
+istediğiniz gibi siteyi extend edebilirsiniz değil mi? :)
+
+**[applicationHost.xdt]**
+
+```xml
+<?xml version="1.0"?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <system.applicationHost>
+    <sites>
+      <site name="%XDT_SCMSITENAME%" xdt:Locator="Match(name)">
+        <application path="/filecounter" xdt:Locator="Match(path)" xdt:Transform="Remove" />
+        <application path="/filecounter" applicationPool="%XDT_APPPOOLNAME%" xdt:Transform="Insert">
+          <virtualDirectory path="/" physicalPath="%XDT_EXTENSIONPATH%" />
+        </application>
+      </site>
+    </sites>
+  </system.applicationHost>
+</configuration>
+```
+
+Tabi ki extension'ın IIS üzerinde yaşayabilmesi için bazı ayarlar da
+gerekiyor. Extend ettiği sitenin **applicationHost.config** dosyasını
+transforme edebilmek için her extension beraberinde bir **XDT** ile
+gelir. Doğal olarak her extensionın ilk yapacağı iş kendisi için IIS'te
+bir Application yaratmak. Yukarıdaki örnek XDT de aynen bunu yapıyor.
+[Github'da bu konuda daha birçok
+örnek](https://github.com/projectkudu/kudu/wiki/Xdt-transform-samples)
+bulabilirsiniz.
+
+İşte Kudu böyle bir şey :) Gallery umuyorum ki zamanla genişleyecek
+hatta o gallerynin paralı extensionlar sunacağı günleri de göreceğimizi
+düşünüyorum. Şimdilik Monaco'nun (Visual Studio Online) bu mimari
+üzerinde geliştiriliyor olması benim için geleceği adına güzel mesajlar
+veriyor. Hayırlısı diyelim :)
+
+Görüşmek üzere.
+
+
