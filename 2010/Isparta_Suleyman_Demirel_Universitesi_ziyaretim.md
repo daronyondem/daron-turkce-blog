@@ -2,11 +2,12 @@
 FallbackID: 2514
 Title: Isparta Süleyman Demirel Üniversitesi ziyaretim...
 PublishDate: 4/28/2010
-EntryID: c136868a-c9c5-4020-8cea-86cb03eb145b
+EntryID: Isparta_Suleyman_Demirel_Universitesi_ziyaretim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.0, Silverlight 4, Visual Studio 2010, Windows Phone 7, Windows Phone
+old.EntryID: c136868a-c9c5-4020-8cea-86cb03eb145b
 ---
 Son iki gündür Isparta, Süleyman Demirel Üniversitesi'ndeyim. Isparta'ya
 neredeyse her yıl gider oldum :) Tabi burada öğrencilerin ilgisi çok
