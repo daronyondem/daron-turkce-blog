@@ -2,11 +2,12 @@
 FallbackID: 1895
 Title: Silverlight 1.0 Projeleri ve Visual Studio 2008
 PublishDate: 12/24/2007
-EntryID: b1dce46a-cc11-4a1c-a3ac-0c4fa89b64b0
+EntryID: Silverlight_1_0_Projeleri_ve_Visual_Studio_2008
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: b1dce46a-cc11-4a1c-a3ac-0c4fa89b64b0
 ---
 Eğer **Visual Studio 2008**'e geçiş yaptıysanız yeni bir proje
 yarattığınızda **Silverlight 1.0** seçeneğinin var olmadığını görerek
