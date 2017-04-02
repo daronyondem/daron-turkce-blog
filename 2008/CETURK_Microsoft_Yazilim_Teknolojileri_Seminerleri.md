@@ -2,11 +2,12 @@
 FallbackID: 2171
 Title: CETURK Microsoft Yazılım Teknolojileri Seminerleri
 PublishDate: 9/1/2008
-EntryID: 06b8d9ad-1692-4bb6-a081-6d936031e8d2
+EntryID: CETURK_Microsoft_Yazilim_Teknolojileri_Seminerleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: WPF
+old.EntryID: 06b8d9ad-1692-4bb6-a081-6d936031e8d2
 ---
 **INETA Türkiye** olarak INETA üyesi topluluklara desteğimiz devam
 ediyor. CETURK topluluğu geçen sene düzenlediğimiz "[Microsoft Vizyonu
