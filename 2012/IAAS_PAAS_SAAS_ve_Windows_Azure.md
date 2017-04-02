@@ -1,0 +1,171 @@
+---
+FallbackID: 2753
+Title: IAAS, PAAS, SAAS ve Windows Azure
+PublishDate: 3/13/2012
+EntryID: IAAS_PAAS_SAAS_ve_Windows_Azure
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Windows Azure
+---
+**[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/tr/post/IAAS_PAAS_SAAS_ve_Windows_Azure_SDK2_2)
+bulabilirsiniz.]**
+
+Windows Azure tarafına hızlı bir giriş yapmadan önce bu yazımızda daha
+fazla "Ne? nedir?" gibi :) veya "bulut da ne ola ki" gibi sorular yavaş
+yavaş cevaplayabilir hale gelmek için genel kavramlara göz atacağız.
+Manzarayı netleştirdikten sonra Windows Azure'un bu manzara içerisindeki
+duruşunu da görüp ileriki yazılara doğru detaylara saldıracağız ;)
+
+### Dertlerin paylaşımı...
+
+Bugün Windows ortamı için bir uygulama yazdığımızda diske bir dosya
+yazmak veya diskten bir dosya okumak istediğimizde .NET platformunda
+System.IO altındaki sınıflardan faydalanıyoruz. Bu sınıfları kullanarak
+rahatlıkla bilgisayarın diskine erişim sağlayıp istediğimiz işlemleri
+yapabiliyoruz. Peki programınızın çalıştığı bilgisayarda diskin IDE/SATA
+vs gibi farklı donanım bağlantıları ile bilgisayara bağlı olması ile
+ilgilenmemiz gerekiyor mu? Kesinlikle hayır. Bunun nedeni işletim
+sisteminin donanım sürücüleri aracılığı ile donanım iletişimini
+yönetirken tüm bu detayları bizden saklıyor olması. Tabi bu konu bu
+kadar basit değil ve arada birçok katman var fakat bizim kabaca
+edindiğimiz deneyim kullandığımız işletim sistemi ve diğer platformlar
+sayesinde kodumuzu yazarken sisteme bağlı bir diskin hangi donanımsal
+arabirimler ile bağlandığını umursamamız gerekmediği. İşte Windows Azure
+da dağıtık uygulamalarda aynen bu kolaylığı sağlıyor ve sizi birçok
+dertten kurtarıyor.
+
+### Bir sonraki twitter'ı yazsam?
+
+Kulağa çok radikal gelebilir fakat bir sonraki twitter veya facebook
+veya belki de daha adını koyamadığımız yeni bir girişimin eşindiğinde
+olabilirsiniz. Belki de sadece elinizdeki bir web uygulamasını alıp
+milyonlarca insanın kullanabileceği web ortamına koymak ve hatta bunu
+servis olarak satmak istiyorsunuz. Senaryolar çok genişletilebilir ve
+hatta bunları da ilerleyen zamanlarda detaylı olarak konuşacağız fakat
+burada önemli nokta benim bir yazılım geliştirici veya firma olarak
+hazırladığım uygulamanın artık tek bir fiziksel sunucunun gücü ile
+yetinemiyor olması. Peki şimdi size soruyorum....
+
+-   Bir load balancer nasıl ayarlanır?
+-   RAID 0 ile RAID 5 arasında farklar nelerdir?
+-   Hyper-V ile VMWare sanallaştırma ürünleri arasındaki farklar
+    nelerdir? Hangisi seçmeli?
+-   Dağıtık uygulamalarca cache'leme nasıl yapılır?
+
+Bu soruları çoğaltmak mümkün. Önemli olan şu; çoğu yazılımcının veya
+şirketin bu konularda derin deneyimleri yok, bilgi birikimleri yok.
+Diğer yandan bu kararların hepsinin verilmesi için ayrı uzmanların firma
+içerisinde bulunması ve hatta alınan bu kararlar sonrasında, örneğin
+sanallaştırma çözümü olarak Hyper-V kullanmaya karar verdiyseniz,
+seçilen ürün ve teknolojilerle ilgili sistem yönetimini yapabilecek
+kadronun da sürekli şirket içerisinde istihdam edilmesi gerekecek.
+
+Aslında elimizdeki resme kuş bakışı bakacak olursak, yazılım geliştiren
+bir kişi / firma olarak hiç uzmanlık alanınızda olmayan ve özünde işiniz
+olmayan tüm bu ek detaylar ile uğraşmak yerine tüm bunları bir hizmet
+olarak alsanız çok daha rahat ve ucuz olmaz mı?
+
+![IAAS, PAAS ve
+SAAS](http://cdn.daron.yondem.com/assets/2753/azure1.jpg)\
+*IAAS, PAAS ve SAAS*
+
+Azure'un varoluş şekli ve nedenini anlamak için yukarıdaki manzarayı çok
+değerli. Normal şartlarda yazdığımız bir uygulamayı müşteri ile
+buluşturmak için slaytta en solda göreceğiniz manzara geçerli oluyor.
+Birden çok sunucunun gücüne ihtiyacımız olacağını da düşünürsek
+müşterideki doğru networking ayarlarının uygulamasından tutun doğru disk
+seçimi ve disk yapılandırmasına kadar tüm detayları uygulamamızı istenen
+performansla çalıştırabilmek adına düzenlemek zorunda kalıyoruz. Oysa bu
+konular dahil işletim sisteminin yüklenmesi ve ayarlanması,
+sanallaştırma tercihleri ve yönetilmesi gibi birçok konu bir yazılım
+geliştirici ve sağlayıcı olarak çok da bizim uzmanlık alanımızda değil.
+Fakat maalesef en alttan başlayıp SQL sunucusunun ve belki de .NET
+Framework'ün kurulumuna kadar tüm adımları takip edip en sonunda da
+artık kendi uygulamamızın datası ile kodunu ortama taşıyıp müşteriye
+teslim edebiliyoruz.
+
+Hikaye sanırım epey uzun ve meşakketli gelmiştir. Tüm bunların yerine
+belki de bir sonraki adıma atlayıp "IAAS" modelini uygulayabiliriz.
+**IAAS** yani Infrastructure As A Service yapısında altyapıyı farklı
+birileri bize servis olarak sağlıyorlar. Yani artık network ayarlarından
+ve yönetiminden tutun, disk seçimi, sunucu yönetimi ve sanallaştırma
+gibi konularla benim ilgilenmeme gerek kalmıyor. Bu konularda bir
+uzmanlık sahibi olmam, doğru stratejileri seçmem ve yönetimi için ekip
+istihdam etmem gerekmiyor. Tabi tüm bunları yapan ve bana bu hizmeti
+servis olarak sağlayan kuruma da servislerini kullandığım kadar ücretini
+ödüyorum. IAAS servis sağlayıcıları olarak Amazon EC2 veya VMWare
+vCloud'u örnek verebiliriz.
+
+Herşey biraz daha yoluna girmiş gibi gözükse de hala elimdeki yazılımı
+alıp arkasına da onlarca sunucunun gücünü alarak yazılımımı bir servis
+olarak satmayı düşündüğümde veya bir diğer senaryoda bir sonraki
+twitter'ı yazacaksam eğer IAAS modelinde işletim sistemini benim kurup
+yönetmem, üzerinde .NET Framework gibi runtime kurulumlarını yapmam
+hatta SQL sunucumu da kurmam vs gibi dertler var. Ya ben bu dertlerden
+de kurtulmak istiyorsam? :) Geriye ne kaldı ki diyebilirsiniz, işte tam
+da üstüne basmak istediğimiz nokta zaten bu. Geriye kalan tek şey benim
+yazdığım kod, firmamın ürettiği çözüm! Zaten benim de satmak istediğim
+şey bu. Yazdığım kodu, hizmeti satabilmek için gereken tüm diğer
+(uzmanlık alanım) dışı konularla uğraşmak, o noktalara odaklanmak
+istemiyorum.
+
+### Karşınızda PAAS!
+
+Aşağıda aynı slaytı tekrar koyuyorum ki manzaranın gidişatını net bir
+şekilde takip edebilelim. Üçüncü kolonda göreceğiniz "PAAS" yani
+"Platform As A Service" seçeneğinde artık sadece networking vs değil
+işletim sisteminden tutun, runtime'lara ve SQL'inize kadar herşey kurulu
+olarak geliyor. Sadece kurulu olarak gelmiyor tüm bu altyapının bakımı,
+yönetimi de servis sağlayıcı tarafından sağlanıyor. Artık benim sunucu
+satın almam, networkü ayarlamam, yönetmem, sanallaştırma çözümlerini
+seçmem, yönetmem, işletim sistemi lisansları almam, işetim sistemini
+ayarlamam, yönetmem, runtime kurulumlarını yapıp güvenlik ayarlarını
+yapmam ve patch yönetimine el atmam vs gibi hiçbir konuyla en ufak bir
+ilişkim kalmıyor. Elimdeki uygulamamı ve datamı alıp direk bana sağlanan
+PAAS ortamına koyup işimi bitiriyorum.
+
+![IAAS, PAAS ve
+SAAS](http://cdn.daron.yondem.com/assets/2753/azure1.jpg)\
+*IAAS, PAAS ve SAAS*
+
+Manzara kulağa ne kadar hoş gelse de tabi herşey toz pembe değil :)
+İleriki yazılarda nelerin değiştiği, nelerin kolaylaştığı veya
+zorlaştığı gibi konulara da el atacağız. Yukarıdaki slayta göre toplam
+kabaca 7 katmanı / işi servis sağlayıcıya atmış olmak bize maddi olarak
+birçok getiri sağlasa da tabi ki bir bağımlılık ve belirli senaryolarda
+bu bağımlılığın getirdiği sıkıntılar da kendini gösterecektir. Önemli
+olan da bu sıkıntılar ile faydaları ölçüp doğru seçimi yaparak "Cloud'a
+taşınıp taşınmamamız" gerektiği kararını verebilmek. Bu kararı
+verebilecek noktada şimdilik çok uzağız :) Daha bu ilk yazımız.
+
+### SAAS nedir peki?
+
+Yukarıdaki görsele baktıkça bir de olayın "Software As A Service" ayağı
+olduğunu görüyorsunuzdur. Yine tahmin edebileceğiniz üzere SAAS
+modelinde herşey doğrudan sağlayıcı tarafından sunuluyor. Buna güzel bir
+örnek olarak Gmail veya Hotmail verilebilir. Biz bu uygulamaları
+doğrudan mail için kullanıyoruz, parasını veriyoruz ve bitiyor. SAAS
+özellikle IAAS veya PAAS ile beraber düşünüldüğünde yazılım geliştirici
+bir firma veya kişi olarak anlamlı bir resim çizecektir. Örneğin siz
+yazılımınızı alıp IAAS veya PAAS ortamına koyup kendi müşterilerinize
+SAAS sağlıyor olabilirsiniz. Örneğin PAAS ortamında size PAAS servisini
+sağlayan firmaya kullandığınız kadar kaynağa karşılık ödemeyi yapıp
+üzerine koyduğunuz kendi yazılımınızla beraber bu ortamı SAAS olarak
+kendi müşterilerinize farklı fiyatlandırmalar ile satabilirsiniz. Kabaca
+aradaki fark da sizin yazılımınız yarattığı değer ve karınız olacaktır.
+
+### Windows Azure nasıl giriyor işin içine?
+
+Windows Azure tam da işin PAAS kısmında devreye giriyor. Windows Azure
+dediğimiz ürün bir PAAS ürünü. Yani .NET, Java her ne ise kodunuzu ve
+datanızı alıp Windows Azure'un PAAS ortamına koyup SAAS olarak
+müşterilerinizle paylaşabiliyorsunuz. PAAS tarafındaki Microsoft dışına
+bakarsak Google AppEngine veya SalesForce.com güzel örnekler olacaktır.
+PAAS sayesinde bir sürü dertten kurtulup, sonraki yazılarda detaylı
+olarak inceleyeceğimiz bir çok esneklik ile de ciddi kar edebilirsiniz
+;) yazıları takip etmeye devam edin.
+
+
