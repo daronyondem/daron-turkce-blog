@@ -2,11 +2,12 @@
 FallbackID: 2387
 Title: Windows 7 için JumpList hazırlamak.
 PublishDate: 8/13/2009
-EntryID: c4091ac2-7471-440e-9326-8d6703f43741
+EntryID: Windows_7_icin_JumpList_hazirlamak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows 7, WPF
+old.EntryID: c4091ac2-7471-440e-9326-8d6703f43741
 ---
 Windows 7 Taskbarındaki en kuvvetli araçlardan biri JumpList'ler.
 Taskbardaki herhangi bir programın üzerine sağ tuş ile tıklarsanız
