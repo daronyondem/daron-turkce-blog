@@ -2,11 +2,12 @@
 FallbackID: 2270
 Title: WPF uygulamalarında özel dosyaları Resource olarak saklamak ve kullanmak
 PublishDate: 12/9/2008
-EntryID: 43a5de7c-99d4-4299-8850-e6173bca8981
+EntryID: WPF_uygulamalarinda_ozel_dosyalari_Resource_olarak_saklamak_ve_kullanmak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: WPF
+old.EntryID: 43a5de7c-99d4-4299-8850-e6173bca8981
 ---
 Uygulamalarda kullandığımız ikonlar veya görselleri çoğu zaman uygulama
 klasöründe saklamayı sevmeyiz. Hem bu görselleri kısmen korumak için hem
