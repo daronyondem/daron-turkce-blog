@@ -2,11 +2,12 @@
 FallbackID: 2149
 Title: riatalks.com aktivitesindeki Silverlight oturumumum.
 PublishDate: 8/10/2008
-EntryID: 5c3bc9b1-525f-4833-a1e0-b41e1575f9f3
+EntryID: riatalks_com_aktivitesindeki_Silverlight_oturumumum
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 5c3bc9b1-525f-4833-a1e0-b41e1575f9f3
 ---
 Cuma ve cumartesi günlerimi riatalks.com aktivitesinde geçirdim. Benim
 de cuma akşam üstü bir Silverlight sunumum vardı. Her konuşmacıya 45
