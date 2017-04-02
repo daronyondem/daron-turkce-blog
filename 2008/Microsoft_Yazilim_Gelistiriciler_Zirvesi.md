@@ -2,11 +2,12 @@
 FallbackID: 2257
 Title: Microsoft Yazılım Geliştiriciler Zirvesi
 PublishDate: 11/24/2008
-EntryID: 5c8a0b18-4858-4f35-9170-205af93e7bba
+EntryID: Microsoft_Yazilim_Gelistiriciler_Zirvesi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 5c8a0b18-4858-4f35-9170-205af93e7bba
 ---
 ![Microsoft Yazılım Geliştiriciler
 Zirvesi](http://cdn.daron.yondem.com/assets/2257/24112008_1.jpg)
