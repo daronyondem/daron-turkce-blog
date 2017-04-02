@@ -2,11 +2,12 @@
 FallbackID: 2426
 Title: Visual Studio 2010'da Code Snippet'lar.
 PublishDate: 10/21/2009
-EntryID: 00c801e1-1e4b-405a-b975-ec7cce1cac10
+EntryID: Visual_Studio_2010_da_Code_Snippetlar
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Studio 2010
+old.EntryID: 00c801e1-1e4b-405a-b975-ec7cce1cac10
 ---
 Code Snipper'lar her zaman bir programcının hayatını kolaylaştıran
 araçlar olmuştur. Bu konuda Visual Studio 2010 ile gelen yeniliklerle
