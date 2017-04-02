@@ -2,11 +2,12 @@
 FallbackID: 1987
 Title: Silverlight uygulamaları ve IIS MIME Type ayarı.
 PublishDate: 3/12/2008
-EntryID: 4eb9e998-e9ca-4919-9dd8-9be5bac0eb22
+EntryID: Silverlight_uygulamalari_ve_IIS_MIME_Type_ayari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
+old.EntryID: 4eb9e998-e9ca-4919-9dd8-9be5bac0eb22
 ---
 Silverlight uygulamalarında kullandığımız XAML dosyalarının bazı
 durumlarda IIS tarafından istemciye gönderilmediğinden daha önceki
