@@ -2,11 +2,12 @@
 FallbackID: 2133
 Title: Bilişim sektöründe güvenlik üzerine bir röportaj
 PublishDate: 7/25/2008
-EntryID: 30343c08-afc9-48d7-9308-cd0d8e814f04
+EntryID: Bilisim_sektorunde_guvenlik_uzerine_bir_roportaj
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 30343c08-afc9-48d7-9308-cd0d8e814f04
 ---
 Bu aralar sizleri röportaja boğduğumun farkındayım :) Ama bu sefer
 konumuz biraz farklı. Kısa zaman önce üyesi olduğum [Bilişim Güvenliği
