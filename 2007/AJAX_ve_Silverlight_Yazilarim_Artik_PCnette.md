@@ -2,11 +2,12 @@
 FallbackID: 1788
 Title: AJAX ve Silverlight Yazılarım Artık PCnet'te..
 PublishDate: 9/21/2007
-EntryID: e89b02ca-bfac-422d-99bc-ee254e2ba2c9
+EntryID: AJAX_ve_Silverlight_Yazilarim_Artik_PCnette
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Haberler
+old.EntryID: e89b02ca-bfac-422d-99bc-ee254e2ba2c9
 ---
 ![](http://cdn.daron.yondem.com/assets/1788/pcnet.png)Önümüzdeki ay,
 yani Ekim itibari ile [PCnet](http://www.pcnet.com.tr)'te AJAX ve
