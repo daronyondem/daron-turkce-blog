@@ -2,11 +2,12 @@
 FallbackID: 1903
 Title: Expression Media ve Folder Watching Özelliği
 PublishDate: 12/31/2007
-EntryID: 6aa58f4a-8cfc-4db5-8edd-6b91f3a3f446
+EntryID: Expression_Media_ve_Folder_Watching_Ozelligi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Media
+old.EntryID: 6aa58f4a-8cfc-4db5-8edd-6b91f3a3f446
 ---
 **Expression Media**'dan daha önceki Expression Studio Savaşları yazı
 dizimde sizlere bahsetmiştim. **Expression Studio** içerisinde yer alan
