@@ -2,11 +2,12 @@
 FallbackID: 2546
 Title: Silverlight ve Balder ile 3D
 PublishDate: 2/1/2011
-EntryID: df5efb20-5a04-497b-85d8-48d5c6678956
+EntryID: Silverlight_ve_Balder_ile_3D
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Balder, Silverlight 4
+old.EntryID: df5efb20-5a04-497b-85d8-48d5c6678956
 ---
 Geçenlerde bir proje için Silverlight üzerinde 3D denemeleri yapmam
 gerekti. Bu vesile ile elde ettiğim bazı demoları sizlerle de paylaşmaya
