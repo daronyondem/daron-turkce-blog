@@ -2,11 +2,12 @@
 FallbackID: 2395
 Title: Silverlight ve Smooth Streaming
 PublishDate: 8/23/2009
-EntryID: 8e6ac226-d4ba-4ab2-8082-eac8d8320109
+EntryID: Silverlight_ve_Smooth_Streaming
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: 8e6ac226-d4ba-4ab2-8082-eac8d8320109
 ---
 Silverlight ilk çıktığı günden itibaren video konusunda ayrı bir iddaya
 sahip oldu. 1.0 sürümünden başlayarak Silverlight'ın CPU ve RAM
