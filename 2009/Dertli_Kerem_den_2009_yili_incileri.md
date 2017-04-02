@@ -2,11 +2,12 @@
 FallbackID: 2481
 Title: Dertli Kerem'den 2009 yılı incileri...
 PublishDate: 12/30/2009
-EntryID: bf3af63f-8594-4734-b990-1300337254dc
+EntryID: Dertli_Kerem_den_2009_yili_incileri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Dertli Kerem
+old.EntryID: bf3af63f-8594-4734-b990-1300337254dc
 ---
 Neredeyse bir yıl olmuş [Dertli
 Kerem](http://daron.yondem.com/tr/CategoryView.aspx?category=Dertli+Kerem)
