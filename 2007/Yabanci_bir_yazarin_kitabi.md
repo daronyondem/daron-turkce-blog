@@ -2,11 +2,12 @@
 FallbackID: 1789
 Title: Yabancı bir yazarın kitabı...
 PublishDate: 9/21/2007
-EntryID: 0faf6d15-e268-469b-8fcb-26ea3d3a21e8
+EntryID: Yabanci_bir_yazarin_kitabi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Genel
+old.EntryID: 0faf6d15-e268-469b-8fcb-26ea3d3a21e8
 ---
 Bundan birkaç hafta önce bir dostumun anekdot kıvamında anlattığı bir
 durumu bugün kısmen tekrar yaşadım ve bu konu ile ilgili artık bir yazı
