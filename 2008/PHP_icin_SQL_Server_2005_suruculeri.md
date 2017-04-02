@@ -2,11 +2,12 @@
 FallbackID: 2136
 Title: PHP için SQL Server 2005 sürücüleri
 PublishDate: 7/28/2008
-EntryID: a586152d-f5a8-4db5-a4df-50d075fbf7a3
+EntryID: PHP_icin_SQL_Server_2005_suruculeri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: SQL Server 2005
+old.EntryID: a586152d-f5a8-4db5-a4df-50d075fbf7a3
 ---
 Microsoft'un **Windows Server 2008** ile beraber gelen **IIS 7.0
 i**çerisinde PHP'nin Linux sunuculardan daha hızlı çalıştığı konusundaki
