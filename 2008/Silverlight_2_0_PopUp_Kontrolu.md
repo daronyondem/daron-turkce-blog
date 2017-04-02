@@ -2,11 +2,12 @@
 FallbackID: 2030
 Title: Silverlight 2.0 PopUp Kontrolü
 PublishDate: 4/21/2008
-EntryID: a31e194e-8840-4a60-a120-57f03db3f041
+EntryID: Silverlight_2_0_PopUp_Kontrolu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: a31e194e-8840-4a60-a120-57f03db3f041
 ---
 Silverlight 2.0 Beta 1 ile gelen yeni Silverlight kontrollerinden biri
 olan PopUp kontrolü ile beraber Silverlight uygulamaları içerisinde
