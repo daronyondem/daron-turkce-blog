@@ -2,11 +2,12 @@
 FallbackID: 1947
 Title: www.weebr.com Silverlight Showcase'de.
 PublishDate: 2/5/2008
-EntryID: f7b75879-21aa-4c23-a821-f4d059c4c841
+EntryID: www_weebr_com_Silverlight_Showcase_de
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: f7b75879-21aa-4c23-a821-f4d059c4c841
 ---
 Bundan aylaaaar önce :) Türkiye'nin ilk Silverlight eğitimini Microsoft
 binasında Microsoft iş ortakları için hazırlamıştık. O günlerde konuya
