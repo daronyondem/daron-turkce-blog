@@ -2,11 +2,12 @@
 FallbackID: 1979
 Title: Yeni Görevim: INETA Türkiye Başkanlığı
 PublishDate: 3/5/2008
-EntryID: 3411a3af-2850-40d6-8faa-1e8fa698330c
+EntryID: Yeni_Gorevim_INETA_Turkiye_Baskanligi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 3411a3af-2850-40d6-8faa-1e8fa698330c
 ---
 ![INETA
 Logo](http://cdn.daron.yondem.com/assets/1979/05032008_1.png)Sanırım
