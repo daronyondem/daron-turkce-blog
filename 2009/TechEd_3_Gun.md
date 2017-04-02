@@ -2,11 +2,12 @@
 FallbackID: 2445
 Title: TechEd 3. Gün
 PublishDate: 11/11/2009
-EntryID: 93948349-0320-453d-9e6d-3db95d44c4c4
+EntryID: TechEd_3_Gun
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 93948349-0320-453d-9e6d-3db95d44c4c4
 ---
 İşte üçüncü gün :) Dün akşam geç yatmış olmanın etkisi ile bugün biraz
 geç geldim TechEd'e. Doğrudan Silverlight Booth'a geçerek görevimin
