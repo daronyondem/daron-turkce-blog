@@ -2,11 +2,12 @@
 FallbackID: 2239
 Title: Microsoft Ankara Hoster Eğitimi
 PublishDate: 11/7/2008
-EntryID: f088bab6-38e8-4dab-af35-0445c827ebde
+EntryID: Microsoft_Ankara_Hoster_Egitimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, Eğitimler, IIS 7.0, ASP.NET
+old.EntryID: f088bab6-38e8-4dab-af35-0445c827ebde
 ---
 Bugün **Microsoft Ankara** ofisinde hosting sağlayıcılara yönelik bir
 eğitimimiz var. IIS 7 ile beraber gelen yeni özelliklerin yanı sıra
