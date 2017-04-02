@@ -2,11 +2,12 @@
 FallbackID: 2072
 Title: ASP.NET ve Culture ayarları
 PublishDate: 5/31/2008
-EntryID: 54009553-010c-4955-a841-f9416cd73734
+EntryID: ASP_NET_ve_Culture_ayarlari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
+old.EntryID: 54009553-010c-4955-a841-f9416cd73734
 ---
 ASP.NET uygulamalarında **Date.Now()** gibi çoğu sınıf o anki
 **CurrentCulture** üzerinden gerekli bilgileri alarak çalışır. Yani
