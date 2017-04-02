@@ -2,11 +2,12 @@
 FallbackID: 1721
 Title: Sonunda...
 PublishDate: 4/6/2007
-EntryID: e91569cf-8600-4000-a8eb-963f0ccbde12
+EntryID: Sonunda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Genel
+old.EntryID: e91569cf-8600-4000-a8eb-963f0ccbde12
 ---
 Uzun süredir Türkçe bir blog sitesinin ihtiyacı ile yanıp tutuşmasam da
 kıvranıyordum diyebilirim. Tek bir blog içerisinde hem Türkçe hem
