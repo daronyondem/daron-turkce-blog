@@ -2,11 +2,12 @@
 FallbackID: 2235
 Title: SeminerTV Silverlight 2.0 ile karşınızda!
 PublishDate: 11/3/2008
-EntryID: 3e728750-377c-4603-865a-aa4a977000ff
+EntryID: SeminerTV_Silverlight_2_0_ile_karsinizda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 3e728750-377c-4603-865a-aa4a977000ff
 ---
 Bugün güzel bir Pazar gününü Expression Encoder'a SP1 ile beraber gelen
 video şablonlarını inceleyerek ve özelleştirerek değerlendirdim.
