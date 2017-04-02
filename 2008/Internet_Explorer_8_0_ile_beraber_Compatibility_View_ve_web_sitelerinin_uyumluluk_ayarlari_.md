@@ -2,11 +2,12 @@
 FallbackID: 2181
 Title: Internet Explorer 8.0 ile beraber "Compatibility View" ve web sitelerinin uyumluluk ayarları.
 PublishDate: 9/10/2008
-EntryID: 0dba3012-ce4b-4019-a77c-74290742ce5f
+EntryID: Internet_Explorer_8_0_ile_beraber_Compatibility_View_ve_web_sitelerinin_uyumluluk_ayarlari_
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
+old.EntryID: 0dba3012-ce4b-4019-a77c-74290742ce5f
 ---
 Internet Explorer ile diğer web tarayıcıları arasında kod uyumsuzluk
 sorunları web programcıları olarak hepimiz biliyoruz. Hazırladığımız
