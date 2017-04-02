@@ -2,11 +2,12 @@
 FallbackID: 2296
 Title: Silverlight 2.0 içerisinde Carousel kullanımı.
 PublishDate: 1/4/2009
-EntryID: 69adf720-73e4-4dc9-a7fb-325bcc7f0088
+EntryID: Silverlight_2_0_icerisinde_Carousel_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 69adf720-73e4-4dc9-a7fb-325bcc7f0088
 ---
 Carousel kontrolleri son dönemin modası diyebiliriz. Çoğu yazılımın
 arayüzünde Carousel kontrolleri görmeye başladık. Özellikle web
