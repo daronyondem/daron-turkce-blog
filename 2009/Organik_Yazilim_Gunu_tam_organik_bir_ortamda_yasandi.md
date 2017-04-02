@@ -2,11 +2,12 @@
 FallbackID: 2374
 Title: Organik Yazılım Günü tam organik bir ortamda yaşandı!
 PublishDate: 6/29/2009
-EntryID: a4826903-7a38-4992-aa04-eff13790ad8b
+EntryID: Organik_Yazilim_Gunu_tam_organik_bir_ortamda_yasandi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: a4826903-7a38-4992-aa04-eff13790ad8b
 ---
 Dün çok ilginç bir gün geçirdik hep beraber :) Sabah 08.30 gibi aldığım
 telefonda Yıldız Teknik Üniversitesi'nde bir trafo arızası nedeniyle
