@@ -2,11 +2,12 @@
 FallbackID: 1855
 Title: Expression Design ve rakipler
 PublishDate: 11/20/2007
-EntryID: 4918cfdc-60cf-448f-8a1c-e6859205bc2f
+EntryID: Expression_Design_ve_rakipler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Design
+old.EntryID: 4918cfdc-60cf-448f-8a1c-e6859205bc2f
 ---
 Expression Studio ailesindeki ürünlerle ilgili "özel" alakamı blogumu
 takip eden herkes farkındadır :) Bu ilgi ve alaka çerçevesinde aslında
