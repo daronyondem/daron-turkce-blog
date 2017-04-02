@@ -2,11 +2,12 @@
 FallbackID: 2276
 Title: Silverlight 2 DataGrid yenilendi! Aralık 2008 sürümü karşınızda.
 PublishDate: 12/15/2008
-EntryID: 36631106-ca05-4c00-b143-4d933cefad78
+EntryID: Silverlight_2_DataGrid_yenilendi_Aralik_2008_surumu_karsinizda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 36631106-ca05-4c00-b143-4d933cefad78
 ---
 Silverlight 2.0 ile beraber gelen DataGrid'in aslında SDK paketi ile
 beraber geldiğini biliyoruz. Yani normal şartlarda DataGrid Silverlight
