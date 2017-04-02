@@ -2,11 +2,12 @@
 FallbackID: 2250
 Title: Silverlight 2.0 içerisinde Toolkit'den ViewBox kullanımı.
 PublishDate: 11/18/2008
-EntryID: 32e59795-7e82-4763-9196-ed9cf07767bb
+EntryID: Silverlight_2_0_icerisinde_Toolkit_den_ViewBox_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 32e59795-7e82-4763-9196-ed9cf07767bb
 ---
 WPF'den Silverlight dünyasına geçince eksiğini hissettiğimiz
 kontrollerin Silverlight Toolkit projesi ile sağlanmaya çalışıldığına
