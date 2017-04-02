@@ -2,11 +2,12 @@
 FallbackID: 1800
 Title: SMTP Authentication ile Mail Gönderimi
 PublishDate: 10/4/2007
-EntryID: ce85955a-9a3c-4fc7-9288-5840d315fae8
+EntryID: SMTP_Authentication_ile_Mail_Gonderimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 3.0, ASP.NET, Visual Basic 2005, Visual Basic .NET
+old.EntryID: ce85955a-9a3c-4fc7-9288-5840d315fae8
 ---
 Geçenlerde bir programcı dostumun kodlarına bakarken mail gönderim
 işlemleri için hala eski **System.Web.Mai**l sınıflarını kullandığını
