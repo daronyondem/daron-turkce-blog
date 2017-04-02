@@ -2,11 +2,12 @@
 FallbackID: 1731
 Title: CSS Optimizasyonu
 PublishDate: 4/23/2007
-EntryID: 7d486108-9d61-4b41-9034-91eded6de3a5
+EntryID: CSS_Optimizasyonu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: CSS
+old.EntryID: 7d486108-9d61-4b41-9034-91eded6de3a5
 ---
 CSS'in varlığı başlı başına bir optimizasyon ihtiyacından kaynaklanır.
 HTML kodları arasında onlarca defa aynı görsel tanımlamaları yapmama
