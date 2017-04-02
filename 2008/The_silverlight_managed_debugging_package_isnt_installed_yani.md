@@ -2,11 +2,12 @@
 FallbackID: 2261
 Title: The silverlight managed debugging package isn't installed, yani?
 PublishDate: 11/29/2008
-EntryID: dac6d77c-4d4a-4e25-98fa-9bc9956174b2
+EntryID: The_silverlight_managed_debugging_package_isnt_installed_yani
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: dac6d77c-4d4a-4e25-98fa-9bc9956174b2
 ---
 Son dönemde mail olarak aldığım en sık Silverlight development
 sorunlarından biri ile ilgili hızlı bir çözümü sizlerle paylaşmak
