@@ -2,11 +2,12 @@
 FallbackID: 2113
 Title: Silverlight 2.0 içerisinde sağ tuş menüsünü değiştirmek.
 PublishDate: 7/5/2008
-EntryID: 1e3d3365-05eb-4346-9df8-392e3554b28f
+EntryID: Silverlight_2_0_icerisinde_sag_tus_menusunu_degistirmek
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 1e3d3365-05eb-4346-9df8-392e3554b28f
 ---
 Silverlight uygulamalarında sağ tuş uygulamaya tıkladığımızda karşımıza
 Silverlight'a ait özel "Silverlight Configuration" menüsü gelir. Bu
