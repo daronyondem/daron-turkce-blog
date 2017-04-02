@@ -2,11 +2,12 @@
 FallbackID: 1972
 Title: 15 dakikada hazırlanan XLINQ ile online aktivite kayıt sistemi
 PublishDate: 2/29/2008
-EntryID: 74e0f3a3-2c6c-4e80-9667-8adaec06e7bd
+EntryID: 15_dakikada_hazirlanan_XLINQ_ile_online_aktivite_kayit_sistemi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, LINQ, ASP.NET
+old.EntryID: 74e0f3a3-2c6c-4e80-9667-8adaec06e7bd
 ---
 Ücretsiz 24 saatlik Silverlight eğitimi ile ilgili duyuru içerisindeki
 kayıt formunu görmüşsünüzdür. Maalesef bu form sistemini yapmamı
