@@ -2,11 +2,12 @@
 FallbackID: 2470
 Title: INETA NEXT Diyarbakır'dan Geçti!
 PublishDate: 12/8/2009
-EntryID: 4a7bccd8-4f4f-4604-8132-893aa111746b
+EntryID: INETA_NEXT_Diyarbakir_dan_Gecti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 4.0, C#, Silverlight 4, Visual Basic 2010, WPF, Visual Basic .NET, ASP.NET
+old.EntryID: 4a7bccd8-4f4f-4604-8132-893aa111746b
 ---
 Bu hafta sonu iki gün boyunca [INETA NEXT](http://www.inetatr.org)
 turumuzun ilk ayağı olan Diyarbaklır'daydık. Sevgili [Muammer
