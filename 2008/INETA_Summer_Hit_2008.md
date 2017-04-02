@@ -2,11 +2,12 @@
 FallbackID: 2123
 Title: INETA Summer Hit 2008
 PublishDate: 7/15/2008
-EntryID: 7a13b13a-ce73-4ca0-b106-5da96c78a08c
+EntryID: INETA_Summer_Hit_2008
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Seminer
+old.EntryID: 7a13b13a-ce73-4ca0-b106-5da96c78a08c
 ---
 Yaz aylarının seminerler ve eğitimler açısından biraz sakin geçtiğinin
 farkındayım. Bu nedenle bir süre önce ayaklanarak tatile gidemeyen
