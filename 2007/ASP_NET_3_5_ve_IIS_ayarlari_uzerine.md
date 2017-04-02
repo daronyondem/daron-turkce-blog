@@ -2,11 +2,12 @@
 FallbackID: 1901
 Title: ASP.NET 3.5 ve IIS ayarları üzerine...
 PublishDate: 12/29/2007
-EntryID: 61e4a87c-c5ad-476e-8168-6684d2f414b2
+EntryID: ASP_NET_3_5_ve_IIS_ayarlari_uzerine
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, IIS 6.0, ASP.NET
+old.EntryID: 61e4a87c-c5ad-476e-8168-6684d2f414b2
 ---
 .NET Framework 3.5 ile beraber ASP.NET 3.5'i de kullanmaya başladığımız
 bugünlerde artık projelerimizi yavaş yavaş sunuculara aktarmaya doğru da
