@@ -2,11 +2,12 @@
 FallbackID: 2142
 Title: Expression Blend 2.5 XAML Intellisense Add-In
 PublishDate: 8/3/2008
-EntryID: 43a371f7-1ad2-4e44-9c79-e57e5bb9a23b
+EntryID: Expression_Blend_2_5_XAML_Intellisense_Add-In
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend
+old.EntryID: 43a371f7-1ad2-4e44-9c79-e57e5bb9a23b
 ---
 Expression Blend içerisinde eksikliği en çok eleştiri alan özelliklerden
 biri XAML Intellisense bulunmaması. Konsept olarak Expression ürün
