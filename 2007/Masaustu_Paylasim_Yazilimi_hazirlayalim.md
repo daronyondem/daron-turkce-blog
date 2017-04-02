@@ -2,11 +2,12 @@
 FallbackID: 1767
 Title: Masaüstü Paylaşım Yazılımı hazırlayalım...
 PublishDate: 8/29/2007
-EntryID: 3ecdca82-ba86-4154-a47c-4ae0ce61681a
+EntryID: Masaustu_Paylasim_Yazilimi_hazirlayalim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Basic 2005, Visual Basic .NET
+old.EntryID: 3ecdca82-ba86-4154-a47c-4ae0ce61681a
 ---
 Masaüstü paylaşım yazılımları özellikle teknik sorunlarda müşterilere
 yardımcı olma noktasında gerçekten cankurtaran özelliğine sahipler. Peki
