@@ -2,11 +2,12 @@
 FallbackID: 2081
 Title: Silverlight 2.0 Beta 2 ile beraber gelen TabControl incelemesi
 PublishDate: 6/9/2008
-EntryID: 113d1d6a-d19a-4f29-84d8-7868273e9141
+EntryID: Silverlight_2_0_Beta_2_ile_beraber_gelen_TabControl_incelemesi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 113d1d6a-d19a-4f29-84d8-7868273e9141
 ---
 **Silverlight 2.0 Beta 2** ile beraber gelen yeni kontrollerden biri
 olan **TabControl** özellikle Windows uygulamalarından alışmış olduğumuz
