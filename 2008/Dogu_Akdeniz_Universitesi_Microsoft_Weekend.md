@@ -2,11 +2,12 @@
 FallbackID: 2033
 Title: Doğu Akdeniz Üniversitesi Microsoft Weekend
 PublishDate: 4/23/2008
-EntryID: 36e12169-4db4-4c1a-8782-769add50fb70
+EntryID: Dogu_Akdeniz_Universitesi_Microsoft_Weekend
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 36e12169-4db4-4c1a-8782-769add50fb70
 ---
 Geçen hafta sonu **KKTC, Doğu Akdeniz Üniversitesi**'nde süper bir
 **Microsoft WeekEnd** düzenledik. DAÜ **ACM** grubunun organizasyonu ve
