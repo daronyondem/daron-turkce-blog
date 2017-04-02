@@ -2,11 +2,12 @@
 FallbackID: 2145
 Title: Microsoft Yaz Okulu, İstanbul
 PublishDate: 8/6/2008
-EntryID: be9d7dd4-a496-4c9e-a16b-33078f84a4c7
+EntryID: Microsoft_Yaz_Okulu_Istanbul
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
+old.EntryID: be9d7dd4-a496-4c9e-a16b-33078f84a4c7
 ---
 Son iki gündür **Microsoft İstanbul** ofislerinde Microsoft'un Yaz
 Okulu'nda Silverlight ve WPF anlattım. Yaz okulundaki gençler gerçekten
