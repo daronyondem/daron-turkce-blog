@@ -2,11 +2,12 @@
 FallbackID: 1756
 Title: Silverlight Beta'dan RC'ye değişiklikler
 PublishDate: 8/16/2007
-EntryID: c605d39d-1317-4bcb-86b1-0bdf3e076d15
+EntryID: Silverlight_Beta_dan_RC_ye_degisiklikler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: c605d39d-1317-4bcb-86b1-0bdf3e076d15
 ---
 **Silverlight** ile ilgili uzun süredir herhangi bir yazı yazmadığımın
 farkındayım. Açıkcası Beta sürecinde olan yazılımlarla ilgili çok derin
