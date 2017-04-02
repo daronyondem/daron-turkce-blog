@@ -2,11 +2,12 @@
 FallbackID: 2366
 Title: IIS 7 Search Engine Optimization Toolkit
 PublishDate: 6/3/2009
-EntryID: 4294ed70-c96c-45ed-b50a-66e330a1ae95
+EntryID: IIS_7_Search_Engine_Optimization_Toolkit
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IIS 7.0
+old.EntryID: 4294ed70-c96c-45ed-b50a-66e330a1ae95
 ---
 Arama Motoru Optimizasyonu konusu bazı durumlarda çok önemli bir hal
 alabiliyor. Bu konuya ciddi yatırım yapan kişiler / kurumsal bulmak hiç
