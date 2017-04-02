@@ -2,11 +2,12 @@
 FallbackID: 2217
 Title: Silverlight 2.0 ile Twitter ve TwitXR Combo Widget
 PublishDate: 10/16/2008
-EntryID: 07723ca6-b23a-4c81-889e-8ce58025caf5
+EntryID: Silverlight_2_0_ile_Twitter_ve_TwitXR_Combo_Widget
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 07723ca6-b23a-4c81-889e-8ce58025caf5
 ---
 Bugün sizlerle yeni bir açık kaynak kodlu **Silverlight 2.0** uygulamamı
 paylaşacağım. Hatırlarsanız bundan aylar önce [Silverlight 1.0 ile bir
