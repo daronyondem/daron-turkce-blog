@@ -2,11 +2,12 @@
 FallbackID: 2016
 Title: Winforms kontrollerinin WPF uygulamalarında kullanımı.
 PublishDate: 4/9/2008
-EntryID: 5314b222-d27e-4b4d-9435-74c4c38ef61c
+EntryID: Winforms_kontrollerinin_WPF_uygulamalarinda_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: WPF
+old.EntryID: 5314b222-d27e-4b4d-9435-74c4c38ef61c
 ---
 Daha önceki bir
 [yazımda](http://daron.yondem.com/tr/post/399ae928-b165-4690-8346-cdb60f82c9b4)
