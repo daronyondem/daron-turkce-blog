@@ -2,11 +2,12 @@
 FallbackID: 2538
 Title: Microsoft Open Door 2010, Beyrut Maceraları
 PublishDate: 10/8/2010
-EntryID: d310bffa-102a-4b74-9f09-f4d2b73f8ad8
+EntryID: Microsoft_Open_Door_2010_Beyrut_Maceralari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4, Windows Phone 7, Microsoft Open Door, Windows Phone
+old.EntryID: d310bffa-102a-4b74-9f09-f4d2b73f8ad8
 ---
 Yaz dönemindeki yoğun proje süreci kışa girişte hafifler derken aslında
 hiç de öyle olmamasının takiben :) bir de üzerine yolculuklarla ilginç
