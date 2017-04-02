@@ -2,11 +2,12 @@
 FallbackID: 2216
 Title: Silverlight 2.0 Çıktı!
 PublishDate: 10/15/2008
-EntryID: ef0db6fe-3583-45a0-a813-677cd5ad1938
+EntryID: Silverlight_2_0_Cikti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Silverlight 2.0, Visual Studio 2008
+old.EntryID: ef0db6fe-3583-45a0-a813-677cd5ad1938
 ---
 Silverlight 2.0 sonunda yayınlandı. Bana çook uzun gelen bu bekleyişin
 sonunda hem bazı şeyleri tekrar ederek hem de SL 2.0 ile ilgili yeni
