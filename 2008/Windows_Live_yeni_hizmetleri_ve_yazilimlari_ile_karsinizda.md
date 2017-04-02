@@ -2,11 +2,12 @@
 FallbackID: 2277
 Title: Windows Live yeni hizmetleri ve yazılımları ile karşınızda!
 PublishDate: 12/16/2008
-EntryID: 69944ab6-6344-4fab-8974-ed65a8a21713
+EntryID: Windows_Live_yeni_hizmetleri_ve_yazilimlari_ile_karsinizda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: live.com
+old.EntryID: 69944ab6-6344-4fab-8974-ed65a8a21713
 ---
 Windows Live hizmetlerinin yeni serisi yayına geçti. Yeni seriyi
 [www.windowslive.com](http://www.windowslive.com) adresinden
