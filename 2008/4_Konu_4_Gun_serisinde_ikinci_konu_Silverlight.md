@@ -2,11 +2,12 @@
 FallbackID: 2006
 Title: "4 Konu, 4 Gün" serisinde ikinci konu : Silverlight
 PublishDate: 3/31/2008
-EntryID: 779de5eb-92f9-4b08-a331-15da8bc34860
+EntryID: 4_Konu_4_Gun_serisinde_ikinci_konu_Silverlight
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Eğitimler, Silverlight
+old.EntryID: 779de5eb-92f9-4b08-a331-15da8bc34860
 ---
 **TBD** ve **INETA** işbirliğinde yaptığımız "**4 Konu, 4 Gün**"
 eğitimlerinin ikinci gününde bugün Silverlight'a değindik. Yine çok
