@@ -2,11 +2,12 @@
 FallbackID: 2304
 Title: INETA EGE HIT gerçekleşti, görev tamamlandı :)
 PublishDate: 1/12/2009
-EntryID: d4ccae72-6a2b-4156-acc0-8ead4821e49f
+EntryID: INETA_EGE_HIT_gerceklesti_gorev_tamamlandi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, LINQ, Silverlight 2.0, WPF, ASP.NET
+old.EntryID: d4ccae72-6a2b-4156-acc0-8ead4821e49f
 ---
 Bu hafta sonu İzmir'deydik. Daha önce sizlere duyurmuş olduğum [INETA
 EGE
