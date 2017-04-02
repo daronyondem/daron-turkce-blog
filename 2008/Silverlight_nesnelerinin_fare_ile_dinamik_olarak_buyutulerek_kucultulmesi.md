@@ -2,11 +2,12 @@
 FallbackID: 1960
 Title: Silverlight nesnelerinin fare ile dinamik olarak büyütülerek küçültülmesi.
 PublishDate: 2/17/2008
-EntryID: 33ceddaf-3f67-4e5d-a8a1-1cba7344c3cd
+EntryID: Silverlight_nesnelerinin_fare_ile_dinamik_olarak_buyutulerek_kucultulmesi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 33ceddaf-3f67-4e5d-a8a1-1cba7344c3cd
 ---
 Silverlight animasyonları içerisindeki nesnelerin dinamik olarak
 kullanıcılar tarafından boyutlandırılmasını sağlayabilirsiniz. Bunun
