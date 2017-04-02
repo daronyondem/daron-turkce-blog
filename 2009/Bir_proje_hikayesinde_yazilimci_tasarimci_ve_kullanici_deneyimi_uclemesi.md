@@ -2,11 +2,12 @@
 FallbackID: 2321
 Title: Bir proje hikayesinde yazılımcı, tasarımcı ve kullanıcı deneyimi üçlemesi!
 PublishDate: 2/7/2009
-EntryID: 795f9a3c-fac8-4cd4-b068-2d0bf5a0adaf
+EntryID: Bir_proje_hikayesinde_yazilimci_tasarimci_ve_kullanici_deneyimi_uclemesi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
+old.EntryID: 795f9a3c-fac8-4cd4-b068-2d0bf5a0adaf
 ---
 Her zaman söylerim; web yazılım dünyası "grafik tasarım yapmak zorunda
 kalan yazılımcıların" kurbanı oluyor :) Kimseyi suçlamıyorum çünkü çok
