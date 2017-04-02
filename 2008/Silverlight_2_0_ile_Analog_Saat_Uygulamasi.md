@@ -2,11 +2,12 @@
 FallbackID: 2102
 Title: Silverlight 2.0 ile Analog Saat Uygulaması
 PublishDate: 6/23/2008
-EntryID: f229ac3b-1499-4982-b80e-fddef455c124
+EntryID: Silverlight_2_0_ile_Analog_Saat_Uygulamasi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: f229ac3b-1499-4982-b80e-fddef455c124
 ---
 **Silverlight 2.0 Beta 2** kullanarak analog bir saat gösterimi
 yapacağımız bu yazı içerisinde StoryBoard kullanımını ve
