@@ -2,11 +2,12 @@
 FallbackID: 1758
 Title: Visual Studio 2005 Hotfix Patch
 PublishDate: 8/22/2007
-EntryID: 19c06ecb-be08-4150-9634-4286cd4f1e50
+EntryID: Visual_Studio_2005_Hotfix_Patch
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET
+old.EntryID: 19c06ecb-be08-4150-9634-4286cd4f1e50
 ---
 F5 tuşu ile Visual Studio içerisinde Debug başlattığınızda projeleriniz
 1 dakikaya yakın bir bekleme süresi sonunda çalışır hale geliyorsa
