@@ -2,11 +2,12 @@
 FallbackID: 2110
 Title: Microsoft Istanbul'da Silverlight 2.0 ve WPF Eğitimi
 PublishDate: 7/2/2008
-EntryID: 779d1856-4474-4e0c-b8bb-50a83b8aa0ca
+EntryID: Microsoft_Istanbul_da_Silverlight_2_0_ve_WPF_Egitimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Eğitimler, Silverlight 2.0, WPF
+old.EntryID: 779d1856-4474-4e0c-b8bb-50a83b8aa0ca
 ---
 Bugün **Microsoft İstanbul** ofisinde **Turkcell, Tekfen, Finansbank**
 gibi kurumlardan katılımcıların bulunduğu **Silverlight 2.0 ve WPF**
