@@ -2,11 +2,12 @@
 FallbackID: 2260
 Title: Trabzon, Karadeniz Teknik Üniversitesi'ndeydim.
 PublishDate: 11/28/2008
-EntryID: a5c39ab2-812c-43e7-8489-f0ed15cb3a5b
+EntryID: Trabzon_Karadeniz_Teknik_Universitesindeydim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Seminer
+old.EntryID: a5c39ab2-812c-43e7-8489-f0ed15cb3a5b
 ---
 Bugün Microsoft'un **Gençsen Geleceksin** etkinlik serisinin **Trabzon**
 ayağı için **Karadeniz Teknik Üniversitesi'**ndeydim. Etkinlik konsepti
