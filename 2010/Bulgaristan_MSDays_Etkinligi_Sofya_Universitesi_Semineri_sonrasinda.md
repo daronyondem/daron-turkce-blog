@@ -2,11 +2,12 @@
 FallbackID: 2500
 Title: Bulgaristan MSDays Etkinliği, Sofya Üniversitesi Semineri sonrasında...
 PublishDate: 4/1/2010
-EntryID: cf847935-b068-4007-96af-66a3a7da2933
+EntryID: Bulgaristan_MSDays_Etkinligi_Sofya_Universitesi_Semineri_sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: MultiTouch, Silverlight 4
+old.EntryID: cf847935-b068-4007-96af-66a3a7da2933
 ---
 Son üç gündür Bulgaristan, Sofya'dayım. Çoook önceleri sizlere
 duyurduğum
