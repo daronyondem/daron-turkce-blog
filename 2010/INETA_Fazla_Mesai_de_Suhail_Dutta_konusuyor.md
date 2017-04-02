@@ -2,11 +2,12 @@
 FallbackID: 2518
 Title: INETA Fazla Mesai'de Suhail Dutta konuşuyor!
 PublishDate: 5/4/2010
-EntryID: 9e0c8f8b-c217-4743-9658-6d9e4df91870
+EntryID: INETA_Fazla_Mesai_de_Suhail_Dutta_konusuyor
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Studio 2010
+old.EntryID: 9e0c8f8b-c217-4743-9658-6d9e4df91870
 ---
 Bu hafta Perşembe günü (06.05.2010) yeni bir INETA serisine başlıyoruz!
 "**INETA FAZLA MESAİ**" olarak adlandırdığımız bu seride amacımız
