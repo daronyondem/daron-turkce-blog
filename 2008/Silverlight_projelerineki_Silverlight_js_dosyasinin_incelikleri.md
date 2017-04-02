@@ -2,11 +2,12 @@
 FallbackID: 1951
 Title: Silverlight projelerineki Silverlight.js dosyasının incelikleri.
 PublishDate: 2/9/2008
-EntryID: 6ff37001-ac18-4698-900a-bee025187001
+EntryID: Silverlight_projelerineki_Silverlight_js_dosyasinin_incelikleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 6ff37001-ac18-4698-900a-bee025187001
 ---
 Her Silverlight projesinde yer alan en önemli dosyalardan biri
 **Silverlight.js** dosyasıdır. Bu dosya içerisinde özünde üç farklı
