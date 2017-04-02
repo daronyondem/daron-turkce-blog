@@ -2,11 +2,12 @@
 FallbackID: 1899
 Title: Visual Basic Refactoring
 PublishDate: 12/28/2007
-EntryID: 89a98349-9c27-460b-91a3-744e0725897f
+EntryID: Visual_Basic_Refactoring
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, Visual Basic 2005, Visual Basic 2008, Visual Studio 2005, Visual Studio 2008, Visual Basic .NET
+old.EntryID: 89a98349-9c27-460b-91a3-744e0725897f
 ---
 Bugün sizlere biraz **Refactoring'den** bahsetmek isriyorum.
 Refactoring'i kaba bir şekilde tanımlamak gerekirse herhangi bir kodun
