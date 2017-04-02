@@ -2,11 +2,12 @@
 FallbackID: 1999
 Title: Silverlight Eğitimi 2. Gün
 PublishDate: 3/24/2008
-EntryID: 0fbfee37-9d39-45e6-b54e-6e25f1eeeb9e
+EntryID: Silverlight_Egitimi_2_Gun
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Eğitimler, Silverlight
+old.EntryID: 0fbfee37-9d39-45e6-b54e-6e25f1eeeb9e
 ---
 Dün INETA ve NETRON sponsorluğundaki Silverlight eğitimimizin ikinci
 gününü "Silverlight ile Veri Uygulamaları" konusu ile tamamladık. Eğitim
