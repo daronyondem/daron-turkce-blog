@@ -2,11 +2,12 @@
 FallbackID: 1857
 Title: Silverlight 1.0 Font Embedding
 PublishDate: 11/21/2007
-EntryID: 7f0cd1bc-bbda-4471-ab48-6d3218fd2fad
+EntryID: Silverlight_1_0_Font_Embedding
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 7f0cd1bc-bbda-4471-ab48-6d3218fd2fad
 ---
 Biraz önce mail ile süper bir soru aldım :) Soru şöyle: **"Silverlight
 içerisinde font dahil edip istemci tarafında kullanma şansımız var mı?"
