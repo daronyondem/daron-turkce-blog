@@ -2,11 +2,12 @@
 FallbackID: 2350
 Title: Silverlight 3.0 içerisinde DataForm kullanımı.
 PublishDate: 4/15/2009
-EntryID: a9c82093-92f2-41af-b020-a205200e0d96
+EntryID: Silverlight_3_0_icerisinde_DataForm_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: a9c82093-92f2-41af-b020-a205200e0d96
 ---
 DataForm kontrolüne hızlı bir şekilde göz atıldığında aslında
 ASP.NET'teki DetailsView kontrolüne benzetilebilir. Bu önyargı ile
