@@ -2,11 +2,12 @@
 FallbackID: 2045
 Title: Silverlight 2.0 ile Oyun Programlama'ya Giriş
 PublishDate: 5/4/2008
-EntryID: f7ad69bc-8772-45b8-b6a0-fe83baf2c866
+EntryID: Silverlight_2_0_ile_Oyun_Programlama_ya_Giris
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: f7ad69bc-8772-45b8-b6a0-fe83baf2c866
 ---
 Silverlight 2.0 ile beraber .NET programlama geldiğinde göre hemen
 aklımıza gelen konulardan biri de "Oyun Programlama" oluyor. Silverlight
