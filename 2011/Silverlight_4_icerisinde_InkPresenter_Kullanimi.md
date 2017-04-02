@@ -1,0 +1,282 @@
+---
+FallbackID: 2547
+Title: Silverlight 4 içerisinde InkPresenter Kullanımı
+PublishDate: 2/3/2011
+EntryID: Silverlight_4_icerisinde_InkPresenter_Kullanimi
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight 4
+old.EntryID: e9816163-dc3a-4765-a1a4-fd62d627bf61
+---
+Geçenlerde birisi sorduğunda "InkPresenter konusunda benim blogda yazı
+olacak" diye cevap vermiştim. Sonra gelip şans eseri bir bakiyim dedim
+ne yazdığımı hatırlamadığım için ve bir de gördüm ki 2008 yılında :)
+[Silverlight 1.0 ve JavaScript ile
+InkPresenter](http://daron.yondem.com/tr/post/8d45130d-a7b2-4ce4-a4ad-f550eeea494f)
+kullanımı göstermişim :) Eh demek ki yeni bir yazı yazmanın zamanı
+gelmiş bu konuda.
+
+**InkPresenter!**
+
+Silverlight içerisinde InkPresenter kontrolünün Silverlight 1.0'dan bu
+yana pek değiştiğini söyleyemem. Aslında kontrol o zaman da bu zaman da
+görevini doğru bir şekilde yerine getiriyordu. Şu anki tek fark
+JavaScript yerine C\# veya VB kullanabiliyor olmamız. Böylece biraz daha
+fantastik işler yapılabiliyor. Tabi konuya girmeden önce belki
+InkPresenter'da neyin nesi :) ondan bahsetmek gerek.
+
+Varsayalım ki bir web uygulamasında kişiler mouse ile çizim
+yapabilmesini istiyorsunuz veya belki de touch destekli bir
+bilgisayardan yola çıkarak web uygulamasında yazı yazabilmelerini vs
+istiyorsunuz. İşte böyle bir durumda InkPresenter kontrolü bize hızlı
+bir altyapı sunabiliyor.
+
+**Yola çıkalım...**
+
+Hemen yeni bir SL projesi yarattıktan sonra Blend ile de projeyi açarak
+sahneye Asset Library'den bir InkPresenter bulup atıyoruz.
+
+![InkPresenter
+sahnede.](http://cdn.daron.yondem.com/assets/2547/02022011_1.png)\
+*InkPresenter sahnede.*
+
+InkPresenter kontrolünü sahneye aldıktan sonra tüm sahneyi kaplayacak
+şekilde konumlandırabilir veya tabi ki uygulamanın bir kısmına da
+yerleştirebilirsiniz. InkPresenter kendi alanı içerisinde çizim
+yapılabilmesini sağlayacaktır.
+
+**[XAML]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+<UserControl x:Class="InkP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+ 
+    <Grid x:Name="LayoutRoot" Background="White">
+       <InkPresenter x:Name="InkPresent"/>
+    </Grid>
+</UserControl>
+```
+
+Ben **InkPresent** adını verdiğim kontrolü tüm sahneyi kaplayacak
+şekilde yerleştirdim. Şimdi sıra geldi bu kontrolü çizim yapılabilecek
+hale getirmeye.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+        public MainPage()
+        {
+            InitializeComponent();
+            InkPresent.MouseLeftButtonDown += new 
+        MouseButtonEventHandler(InkPresent_MouseLeftButtonDown);
+        }
+        
+        System.Windows.Ink.Stroke newStroke;
+ 
+        void InkPresent_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            InkPresent.CaptureMouse();
+            newStroke = new System.Windows.Ink.Stroke();
+            newStroke.StylusPoints.Add(e.StylusDevice.GetStylusPoints(InkPresent));
+            InkPresent.Strokes.Add(newStroke);
+        }
+```
+
+Kodumuzda ilk olarak InkPresent kontrolünün **MouseLeftButtonDown**
+eventine bir listener ataçlıyoruz. Böylece farenin tuşuna basıldığında
+yani bir çizim için başlama noktasında durumdan haberdar olabiliyor.
+**MouseLeftButtonDown'da** InkPresenter kontrolü üzerinden
+**CaptureMouse** metodunu çalıştırıyoruz. Böylece artık tüm mouse
+eventleri doğrudan bu kontrole gelecek ki herhangi bir kaçak vs olmasın.
+Bu durum özellikle kullanıcının fareyi InkPresenter alanının dışına
+çıkarması durumunda da fareye bizim sahip olmamasını sağlayacak.
+
+Bir sonraki adımda **newStroke** adında tanımlı global bir **Stroke**
+nesnesini initialize ediyoruz. Kullanıcı daha düğmeye yeni bastığı için
+yeni bir çizgi yaratmalıyız. Yarattığımız çizgiyi dışarıda bir
+değişkende tutuyoruz ki sonraki adımlarda bu çizgi çizildiği sürece
+çizgiye yeni noktalar ekleyebilelim.
+
+MouseLeftButtonDown kodumuza geri dönersek. Çizgimizi yarattık ve hemen
+çizginin ilk noktasını da eklemek gerek. Her **Stroke** nesnesinin bir
+**StylusPoints** kolleksiyonu bulunuyor. Bu kolleksiyonu tek tek
+**StylusPoint'ler** eklenerek çizgi oluşturulabiliyor. Biz de
+örneğimizde **e.StylusDevice.GetStylusPoints** diyerek
+**InkPresenter'a** denk gelen, o anda tetiklenmiş tüm noktaları alarak
+çizgimizin **StylusPoints** kolleksiyonuna ekliyoruz.
+
+Artık çizgimizi yarattık ve o andaki noktaları da ekledik. Son olarak bu
+çizgiyi InkPresenter'a vermek gerek ki InkPresenter çizgiyi
+gösterebilsin. Bunun için InkPresent nesnesinin **Strokes**
+kolleksiyonuna elimizdeki Stroke nesnesini teslim ediyoruz.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+        void InkPresent_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (newStroke != null)
+            {
+                newStroke.StylusPoints.Add(e.StylusDevice.GetStylusPoints(InkPresent));
+            }
+        }
+```
+
+Farenin tuşuna basıldığında çizgimizi yarattık ve farenin tuşu basılı
+tutularak hala kullanıcı tarafından çizgi çiziliyor olabilir. Bu durumda
+ise yine InkPresenter'ın **MouseMove** eventini dineyerek eğer hali
+hazirda bizim global değişkende bir Stoke var ise yeni noktaları bu
+Stroke'a eklememiz gerekecek.
+
+Global değişkende Stroke var ise yani null değilse demek ki daha önce
+biri farenin tuşuna bastı ve yeni bir çizgi yarattı. Bu çizgiye yeni
+noktalarımızı aynı MouseLeftButtonDown'da yaptığımız gibi hızlıca
+ekliyoruz.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+        void InkPresent_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            newStroke = null;
+            InkPresent.ReleaseMouseCapture();
+        }
+```
+
+Eğer kullanıcı farenin tuşu bıraktıysa, yani MouseLeftButtonUp eventi
+çalıştıysa bu sefer de hemen newStroke değişkenini null'a eşitliyoruz.
+Böylece artık yeri geldiğinde MouseMove'da hali hazırda bir çizgi
+çizilmediğini bilebiliyor. MouseLeftButtonDown ise zamanı geldiğinde
+yeni bir çizgi yaratarak yine tüm bu sürecin baştan başlamsını
+sağlayabilecek.
+
+Son olarak **ReleaseMouseCapture** metodunu da çağırarak mouse eventleri
+üzerindeki sahipliğimizi bırakıyoruz.
+
+*Dikkat: Unutmadan hatırlatiyim :) Eğer InkPresenter kontrolünün
+BackGround özelliğine bir renk vermezseniz mouse eventlerinin hiçbiri
+çalışmayacağı için çizim yapamazsınız. En kötü senaryoda şeffaf bir renk
+bile vererek bu sorunu aşabilirsiniz.*
+
+[![Get Microsoft
+Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)](http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50826.0)\
+*Çizim yapabileceğimiz alanımız yukarıda sizi bekliyor.*
+
+Bu noktaya kadar herşey güzel. Peki ya farklı özelliklerde çizim yapmak
+gibi bir ihtiyacımız olursa. Örneğin belki de bir araç çubuğu yaratarak
+yeri geldiğinde farklı renklerde ve kalınlıklarda çizim yapılabilmesini
+sağlayacağız. Bunu nasıl yapabiliriz?
+
+Aslında her çizginin **DrawingAttributes** adında bir özelliği var. Bu
+özellik altında çizginin rengi, kalınlığı gibi noktalar
+belirlenebiliyor. Biz uygulamamıza bir de **DrawingAttributes** tipinde
+global değişken ekleyelim.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+        System.Windows.Ink.DrawingAttributes Att;
+```
+
+Her seferinde yeni bir çizgi yarattığımızda bu değişkeni alarak yeni
+çizginin özelliğine aktarırız. Böylece bu değişken eğer değişirse yeni
+yaratılacak tüm çizgiler de bu değişmiş yeni özelliklerle yaratılıyor
+olur.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+        void InkPresent_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            InkPresent.CaptureMouse();
+            newStroke = new System.Windows.Ink.Stroke();
+            newStroke.DrawingAttributes = Att;
+            newStroke.StylusPoints.Add(e.StylusDevice.GetStylusPoints(InkPresent));
+            InkPresent.Strokes.Add(newStroke);
+        }
+```
+
+MouseLeftButtonDown eventindeki kodumuza yukarıdaki satırı ekleyerek
+gerekli tanımlamayı yapmış olduk. Tabi uygulamamız ilk açıdığında global
+**Att** değişkenimize varsayılan çizim ayarlarını da aktarmakta fayda
+olacaktır.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+        void MainPage_Loaded(object sender, RoutedEventArgs e)
+        {
+            Att = new System.Windows.Ink.DrawingAttributes();
+        }
+```
+
+Sıra geldi yerine göre kalın veya farklı renklerde çizimlerin
+ayarlanabilmesi için ekrana birkaç kontrol eklemeye. Bu noktada çok
+konuyu karıştırmayacağım. İki basit düğme ekleyerek konsepti görmemiz
+yeterli olacaktır diye tahmin ediyorum.
+
+**[XAML]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+    <Grid x:Name="LayoutRoot" Background="White">
+       <Rectangle Stroke="Black"/>
+       <InkPresenter x:Name="InkPresent" Background="Transparent"/>
+       <Button x:Name="btnNormal" Content="Normal Çiz" HorizontalAlignment="Right" 
+            VerticalAlignment="Top" Width="75" Margin="0,8,87,0"/>
+       <Button x:Name="btnKalinKirmizi" Content="Kalın Kırmızı" HorizontalAlignment="Right" 
+            VerticalAlignment="Top" Width="75" Margin="0,8,8,0"/>
+    </Grid>
+```
+
+Hemen sahneye iki düğme ekleyip birine "Normal Çiz" diğerine ise "Kalın
+Kırmızı Çiz" gibi işlevsellikler ekleyeceğiz. Her iki düğmenin Click
+durumunda yapacağımz şey aslında bizim global **Att** değişkenini
+değiştirmek olacak.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+        void btnKalinKirmizi_Click(object sender, RoutedEventArgs e)
+        {
+            Att = new System.Windows.Ink.DrawingAttributes();
+            Att.Color = Colors.Red;
+            Att.Width = 10;
+        }
+ 
+        void btnNormal_Click(object sender, RoutedEventArgs e)
+        {
+            Att = new System.Windows.Ink.DrawingAttributes();
+            Att.Color = Colors.Black;
+            Att.Width = 3;
+        }
+```
+
+İşte bu kadar. Her iki düğme de kendilerine basıldığında Att değişkenini
+yenileyerek gerekli renk ve kalınlık değerlerini bu değişkenlere
+aktarıyorlar. Artık bu noktadan sonra yaratılan her yeni çizgi bu global
+değişkene aktarılmış yeni değerleri yaratılıyor olacak.
+
+[![Get Microsoft
+Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)](http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50826.0)\
+*InkPresenter'da özel çizim modları.*
+
+Artık InkPresenter'da çizimimizi yapabilir ve kullanıcılara farklı
+şekillerde çizimler yapma hakkı tanıyabiliyoruz.
+[Yarın](http://daron.yondem.com/tr/post/9ecd02b9-ebc9-49d6-a0bf-377b553f0a98)
+bu çizimleri nasıl kaydedebileceğimize göz atarak örneğimizi biraz daha
+ileri götüreceğiz.
+
+Makale sonunda oluşan örneğin kodlarını aşağıdan indirebilirsiniz;
+
+[Örnek Proje Kaynak Kodları - 02022011\_4.zip (273,38
+KB)](http://cdn.daron.yondem.com/assets/2547/02022011_4.zip)
+
+Hepinize kolay gelsin.
+
+

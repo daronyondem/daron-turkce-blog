@@ -1,0 +1,78 @@
+---
+FallbackID: 1863
+Title: Expression Encoder Webineri sonrasında...
+PublishDate: 11/27/2007
+EntryID: Expression_Encoder_Webineri_sonrasinda
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Expression Encoder, Webiner
+old.EntryID: ce909793-2426-4b3c-9bb6-d3874128bd9e
+---
+Bugün bir sıkıntılarla başlasa da **Expression Encoder** webinerini
+başarılı bir şekilde gerçekleştirdik. Yurt dışında olduğum için maalesef
+internet bağlantısı noktasında biraz sıkıntımız oldu ve 15 dakikalık bir
+gecikme ile webinere başlayabildik. Buradan webinere katılan ve beni
+beklemek zorunda kalan herkesten özür diliyorum.
+
+Webinere ait sunum dosyasını aşağıdan indirebilirsiniz.
+
+[Webiner Sunumu - 26112007\_1.pptx (2,33
+MB)](http://cdn.daron.yondem.com/assets/1863/26112007_1.pptx)
+
+Webiner sonrası gelen sorularla cevapları buradan da sizlerle
+paylaşıyorum.
+
+***Soru****: Silverlight'ın tüm platformlarda desteği var mı?\
+* ***Cevap****: Tamamen cross-browser ve cross-platform. Şu an platform
+olarak PC ve MAC kullanılabilir, çok yakında Linux geliyor.\
+* ***Soru****: Expression Visual Studio 2008 ile entegre geldi mi? Henüz
+indirip bakamadım\
+* ***Cevap****: Hayır, Expression Studio tamamen tasarımcılara yönelik
+bir yazılım paketi. VS 2008 ise yazılımcılara yönelik olduğu için her
+iki paket arasında çok ciddi entegrasyonlar bulunsa da dağıtım anlamında
+bir beraberlik şu an için yok.\
+* ***Soru****: Videolarda kesme işlemleri gerçekleştirebiliyor muyuz?\
+* ***Cevap****: Timeline'ın en başında ve sonunda bulunan "[" ve "]"
+işaretlerinin yerlerini değiştirerek kesme işlemleri yapabilirsiniz.\
+* ***Soru****: Tüm web kullanıcıları herhangi bir kurulum yapmadan mı
+izleyecek? Yoksa bir şeyler yükletecek miyiz?\
+* ***Cevap****: Silverlight uygulamalarının istemcilerde çalışması için
+Silverlight 1.0 Plug-In'in yüklü olması gerekiyor. Sadece 1.1MB.
+Expression Encoder'ın yarattığı Silverlight Player otomatik olarak
+istemcide Silverlight yüklü olup olmadığını anlayarak gerekli
+yönlendirmeleri online olarak yapacaktır.\
+* ***Soru****: Programın ücreti hakkında bilgi alabilir miyiz?\
+* ***Cevap****: Sunumun başında sanırım bahsetmeyi unuttum :)
+Microsoft'da çalışmıyorum. O nedenle tavsiyem bu konuda bir Microsoft
+partner kurumuna başvurmanız.\
+* ***Soru****: Önceki seminerlerinizin dokümanlarına ve videolarına
+ulaşma sansımız var mı?\
+* ***Cevap****: http://daron.yondem.com adresinden ulaşabilirsiniz.
+Önceki webcastları da direk* [*www.nedirtv.com*](http://www.nedirtv.com)
+*üzerinde bulabilirsiniz.\
+* ***Soru****: Movie Maker'de yapılan her şeyi Expression Encoder
+programı ile yapabildiğimizi söyleyebilir miyiz?\
+* ***Cevap****: Movie Maker'da yapabildiğiniz her şeyi yapma şansınız
+yok. Örneğin "transition" efektleri yok. İki yazılımın hedefleri biraz
+farklı bu anlamda.\
+* ***Soru****: Bahsettiğiniz Silverlight Streaming Servisleri ile Encode
+ettiğimiz videoyu upload etmeye gerek yok değil mi?\
+* ***Cevap****: Expression Encoder kendisi upload ediyor eğer gerekli
+plug-in yüklü ise.\
+* ***Soru****: Publisher plugin'i değil mi?\
+* ***Cevap****: Evet :)\
+* ***Soru****: Peki web sitesine html kodu olmadan nasıl yüklerim
+videoyu, yani siteye eğer bir video paylaşım sitesi aracılığı ile
+videolar yükleniyorsa?\
+* ***Cevap****: Javascript ile yapılabilir ama bahsettiğiniz durumda o
+da olmaz. Paylaşım sitesinin bu sisteme destek veriyor olması gerekir.\
+* ***Soru****: Video encode edildikten sonra bir video paylaşım sitesine
+upload etmek istedim, bunu yapabilir miyim?\
+* ***Cevap****: Expression Encoder encode edilen videoyu WMV dosyası
+olarak kaydediyor. Tabi ki istediğiniz gibi aktarabilirsiniz.*\
+
+Webinere katılan herkese tekrar teşekkür ediyorum. Bir başka webinerde
+görüşmek dileğiyle.
+
+

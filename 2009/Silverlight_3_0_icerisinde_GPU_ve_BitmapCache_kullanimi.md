@@ -1,0 +1,426 @@
+---
+FallbackID: 2369
+Title: Silverlight 3.0 içerisinde GPU ve BitmapCache kullanımı.
+PublishDate: 6/6/2009
+EntryID: Silverlight_3_0_icerisinde_GPU_ve_BitmapCache_kullanimi
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight 3.0
+old.EntryID: 27ca0d6d-2a2d-4c9b-8706-da5c32267213
+---
+Bazı yazılımsal işlemleri özel donanım desteği her zaman performansı
+arttırır. Aslında bunun çok basit bir nedeni var özünde. Yapacağımız
+yazılımsal işleve özel bir donanım kullanıyor olmanın yanı sıra
+özellikle bugün bilgisayarlarımızda normal şartlarda söz konusu işlemi
+yapmakla yükümlü birimi başka işlemler için serbest bırakıyor olmamız da
+önemli bir nokta. Neden mi bahsediyorum? Örneğin bilgisayarlarımızdaki
+ekran kartları! Hatırlayanlarınız vardır :) Eskiden oyunlardaki 3D
+hesaplamaları vs bilgisayarlarımızın normal işlemcileri üstlenirdi.
+Sonrasında ekran kartlarında GPU denilen bir birim ortaya çıktı ve 3D
+dahil birçok görsel hesaplamalayı işlemcilerimizin üzerinden aldı.
+Böylece hem işlemcilerimiz rahatladı :) diğer işlemler ile çok daha
+rahat ilgilenir oldular hem de söz konusu 3D işlemleri yapmaya özel
+tasarlanmış bir donanım artık söz konusu işlemlerden sorumlu olduğu için
+çok daha yüksek performans alınabildi.
+
+**Silverlight ile alakası nedir?**
+
+Aslına bakarsak Silverlight içerisinde de bolca görsel işlem yapıyoruz.
+En basit örnek olarak bir video oynatmayı bile ele alabiliriz. Biz
+videomuzu bir MediaElement ile sahneye koyduğumuzda video dosyasının
+orijinal yükseklik ve genişliği ile hiç ilgilenmeyiz. Oysa arkaplanda
+oynatılacak olan video uygun şekillerde MediaElement içerisine
+yerleştirilir ve aslında gerçek zamanlı olarak videonun içindeki her
+kare resim tekrar boyutlandırılır. Özellikle Full HD gibi yoğun data
+içeren yüksek çözünürlüklü videolarda aslında ciddi bir işlem gücü
+gerekiyor ve şu ana kadar da bu işlemleri Silverlight tarafında
+bilgisayarımızın işlemcisi üstleniyordu.
+
+Oysa zaten bugün hali hazırda neredeyse her bilgisayarda en kötüsünden
+bir GPU yok mu? Neredeyse GPU'suz bilgisayar satın alamaz hale geldik.
+Tabi bu güzel bir gelişme ama bu gelişmeden Silverlight'ın da
+faydalanması gerek! İşte Silverlight 3.0 ile beraber "**GPU
+Acceleration**" denilen GPU (donanım) destekli işlemler ile uygulamanın
+hızlandırılması artık mümkün.
+
+**Video uygulamalarında Hardware Acceleration...**
+
+Hemen basit bir şekilde elimizdeki High Definition bir videoyu oynatan
+Silverlight uygulaması hazırlayalım. Ekrana bir MediaElement koyarak
+Source özelliğini ayarlamamız yeterli olacaktır.
+
+**[XAML]**
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">UserControl</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Class</span><span
+style="color: blue;">="SilverlightApplication10.MainPage"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml/presentation"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">x</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml"</span>
+
+   <span style="color: red;"> Width</span><span
+style="color: blue;">="400"</span><span style="color: red;">
+Height</span><span style="color: blue;">="300"\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Grid</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Name</span><span
+style="color: blue;">="LayoutRoot"</span><span style="color: red;">
+Background</span><span style="color: blue;">="White"\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">MediaElement</span><span style="color: red;">
+Source</span><span style="color: blue;">="Wildlife.wmv" /\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">Grid</span><span style="color: blue;">\></span>
+
+<span style="color: blue;">\</</span><span
+style="color: #a31515;">UserControl</span><span
+style="color: blue;">\></span>
+
+Yukarıdaki XAML kodu ile uygulamamızı çalıştırdığımda herhangi bir sorun
+yok. Video rahatlıkla oynuyor fakat kendi makinemde yaptığım testte CPU
+kullanımı %25 civarında geziyor. Acaba sadece bu videonun en azından
+tekrar boyutlandırma işini işlemciden alıp GPU'ya aktarsak işlemci
+kullanımı ne kadar düşer?
+
+Silverlight içerisinde varsayılan ayarları ile GPU kullanımı gelmiyor.
+GPU kullanımını bir uygulamada açmak için söz konusu uygulamanın HTML
+sayfa içerisine yerleştirildiği OBJECT taglarına ekstra bir parametre
+geçmeniz gerekiyor.
+
+**[HTML]**
+
+        <span style="color: blue;">\<</span><span
+style="color: #a31515;">object</span> <span
+style="color: red;">data</span><span
+style="color: blue;">="data:application/x-silverlight-2,"</span> <span
+style="color: red;">type</span><span
+style="color: blue;">="application/x-silverlight-2"</span> <span
+style="color: red;">width</span><span
+style="color: blue;">="100%"</span> <span
+style="color: red;">height</span><span
+style="color: blue;">="100%"\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="source"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="ClientBin/SilverlightApplication10.xap"/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="onerror"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="onSilverlightError"</span> <span
+style="color: blue;">/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="background"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="white"</span> <span
+style="color: blue;">/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="minRuntimeVersion"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="3.0.40307.0"</span> <span
+style="color: blue;">/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="autoUpgrade"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="true"</span> <span
+style="color: blue;">/\></span>
+
+            <span style="color: blue;"> **\<**</span><span
+style="color: #a31515;">**param**</span> <span style="color: red;">
+**name**</span><span
+style="color: blue;">**="EnableGPUAcceleration"**</span> <span
+style="color: red;"> **value**</span><span
+style="color: blue;">**="true"**</span> <span style="color: blue;">
+**/\>**</span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">a</span> <span
+style="color: red;">href</span><span
+style="color: blue;">="http://go.microsoft.com/fwlink/?LinkID=141205"</span>
+<span style="color: red;">style</span><span
+style="color: blue;">="</span><span
+style="color: red;">text-decoration</span>: <span
+style="color: blue;">none</span>;<span style="color: blue;">"\></span>
+
+                 <span style="color: blue;">\<</span><span
+style="color: #a31515;">img</span> <span
+style="color: red;">src</span><span
+style="color: blue;">="http://go.microsoft.com/fwlink/?LinkId=108181"</span>
+<span style="color: red;">alt</span><span style="color: blue;">="Get
+Microsoft Silverlight"</span> <span
+style="color: red;">style</span><span
+style="color: blue;">="</span><span
+style="color: red;">border-style</span>: <span
+style="color: blue;">none"/\></span>
+
+            <span style="color: blue;">\</</span><span
+style="color: #a31515;">a</span><span style="color: blue;">\></span>
+
+        <span style="color: blue;">\</</span><span
+style="color: #a31515;">object</span><span
+style="color: blue;">\></span>
+
+Yukarıdaki HTML kodları arasında da görebileceğiniz üzere artık
+Silverlight uygulamamızı gösterecek olan OBJECT taglarına ek olarak bir
+de **EnableGPUAcceleration** parametresi veriyor ve söz konusu değeri de
+**True** olarak set ediyoruz. Böylece artık Silverlight uygulamamız GPU
+desteğine kavuşacak fakat ek olarak uygulama içerisinde hangi
+kontrollerin GPU tarafından oluşturulması gerektiğini de belirtmemiz
+gerekiyor. Bunun için kontrol bazında **CacheMode** ayarlanıyor. Şu anda
+sadece **CacheMode** olarak **BitmapCache** destekliyor. BitmapCache'in
+tam olarak ne yaptığına bir sonraki örneğimizde göz atacağız. Şimdilik
+MediaElement'imize nasıl BitmapCach uygulanır onu görelim.
+
+**[XAML]**
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">UserControl</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Class</span><span
+style="color: blue;">="SilverlightApplication10.MainPage"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml/presentation"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">x</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml"</span>
+
+   <span style="color: red;"> Width</span><span
+style="color: blue;">="400"</span><span style="color: red;">
+Height</span><span style="color: blue;">="300"\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Grid</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Name</span><span
+style="color: blue;">="LayoutRoot"</span><span style="color: red;">
+Background</span><span style="color: blue;">="White"\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">MediaElement</span><span style="color: red;">
+Source</span><span style="color: blue;">="Bear.wmv" \></span>
+
+<span style="color: #a31515;">**           ** </span><span
+style="color: blue;">**\<**</span><span
+style="color: #a31515;">**MediaElement.CacheMode**</span><span
+style="color: blue;">**\>**</span>
+
+<span style="color: #a31515;">**               ** </span><span
+style="color: blue;">**\<**</span><span
+style="color: #a31515;">**BitmapCache**</span><span
+style="color: blue;">**/\>**</span>
+
+<span style="color: #a31515;">**           ** </span><span
+style="color: blue;">**\</**</span><span
+style="color: #a31515;">**MediaElement.CacheMode**</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">MediaElement</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">Grid</span><span style="color: blue;">\></span>
+
+<span style="color: blue;">\</</span><span
+style="color: #a31515;">UserControl</span><span
+style="color: blue;">\></span>
+
+Silverlight içerisinde tüm nesnelerin artık bir CacheMode özelliği var.
+Bu özelliğe bir BitmapCache vererek donanım desteğini arkanıza
+alabilirsiniz. Yukarıdaki örneği donanım desteği ile çalıştırdığımda
+benim makinemde CPU kullanımı %25'ten %20'lere indi. Tabi bu yaptığınız
+işleme ve GPU'nuzun gücüne göre değişecektir.
+
+![Silverlight'ta CPU kullanımı
+farkları.](http://cdn.daron.yondem.com/assets/2369/05062009_1.gif)\
+*Silverlight'ta CPU kullanımı farkları.*
+
+Unutmadan birkaç detaya göz atalım. Silverlight'ın donanım desteğini
+arkasına alabilmesi için hedef makinede DirectX9.0c yüklü olması
+gerekiyor. Eğer söz konusu yükleme makinede yok ise yine eski tarz
+yazılım bazlı sisteme geri dönülüyor. Mac ortamı için ekstra bir şart
+daha var; maalesef Mac ortamında donanım desteği sadece tam ekran
+modunda çalışabiliyor.
+
+Şu an için GPU'ya aktarılan işlemler Transform, Rectangular Clipping ve
+Blending işlemleri. İleriki sürümlerde farklı işlemlerin de GPU tarafına
+aktarılabilmesine dair eklentiler vaatler arasında.
+
+**BitmapCache nedir?**
+
+Aslında BitmapCache çok dikkatli yaklaşılması gereken bir teknik.
+Örneğin her noktada BitmapCache kullanmaya başlarsak aslında performans
+kazanalım derken kaybetmemize de neden olabilir.
+
+Bildiğiniz üzere Silverlight içerisinde sürekli olarak ekran vektörel
+olarak çiziliyor. Bazı durumlarda özellikle hızlı animasyonlarda anime
+ettiğiniz nesnenin görsel olarak sürekli yeniden çizilmesini
+istemeyebilirsiniz. Oysa o görsel vektörel bir tekrar çizme sürecinden
+geçirmek yerine daha önce çizilmiş vektörel sonucu bitmap olarak
+kullanmak performans noktasında ciddi katkı sağlayabilir.
+
+![BitmapCache'in performansa
+faydası.](http://cdn.daron.yondem.com/assets/2369/05062009_2.gif)\
+*BitmapCache'in performansa faydası.*
+
+Yukarıdaki grafik testini yaparken çok sayıda notka içeren bir vektörel
+çizim kullandım. Söz konusu vektörel çizim XAML kodunu makaleye
+yapıştırmıyorum çünkü hem anlamsız hem de gereğinden uzun :) Vektörel
+çizimi bir animasyon ile ekranda sürekli olarak büyütüp küçülttüm. Bu
+süreçte Normal şartlarda Silverlight her karede vektörel çizim vektör
+verisinden tekrar çizdi. BitmapCache ile GPU desteğini açtığımda ise ilk
+başta çizilen vektörel datadan bir Bitmap kopya alıp artık Bitmap koyayı
+büyütüp küçültmeye başladı. Aradaki %10'a yakın performans farkını
+yukarıdaki görebilirsiniz.
+
+![BitmapCache
+Mantığı.](http://cdn.daron.yondem.com/assets/2369/05062009_3.gif)\
+*BitmapCache Mantığı.*
+
+Tabi unutmamak gerek ki vektörel yerine bitmap işlemler yaptırdığınızda
+sistemin ilk aldığı bitmap içerisinde kalite geçerli olacaktır ve nesne
+büyüdükçe tekrar çizilmediği için normal animasyonlardaki kalite elde
+edilemeyecektir. Fakat bazı durumlarda bu kalite farkının kullanıcı
+tarafından algılanması pek mümkün olmayabiliyor. İşte böyle durumlarda
+BitmapCache hayat kurtarabilir.
+
+**Neresi Cache'den geliyor? Neresi gelmiyor?**
+
+BitmapCache ayarlarını yaptıktan sonra uygulamanızı test ederken
+gerçekten ekranda nerelerin Cache'lenip Cache'lenmediğini görmek
+isterseniz yine HTML OBJECT tagına geri dönüp aşağıdaki parametreyi
+ekleyebilirsiniz. Böylece artık Silverlight uygulamanız çalışırken
+Cache'lenmeye yerleri ayrı renklerde gösterecektir.
+
+**[HTML]**
+
+        <span style="color: blue;">\<</span><span
+style="color: #a31515;">object</span> <span
+style="color: red;">data</span><span
+style="color: blue;">="data:application/x-silverlight-2,"</span> <span
+style="color: red;">type</span><span
+style="color: blue;">="application/x-silverlight-2"</span> <span
+style="color: red;">width</span><span
+style="color: blue;">="100%"</span> <span
+style="color: red;">height</span><span
+style="color: blue;">="100%"\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="source"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="ClientBin/SilverlightApplication12.xap"/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="onerror"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="onSilverlightError"</span> <span
+style="color: blue;">/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="background"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="white"</span> <span
+style="color: blue;">/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="minRuntimeVersion"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="3.0.40307.0"</span> <span
+style="color: blue;">/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="autoUpgrade"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="true"</span> <span
+style="color: blue;">/\></span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">param</span> <span
+style="color: red;">name</span><span
+style="color: blue;">="EnableGPUAcceleration"</span> <span
+style="color: red;">value</span><span
+style="color: blue;">="true"</span> <span
+style="color: blue;">/\></span>
+
+**           ** <span style="color: blue;">**\<**</span><span
+style="color: #a31515;">**param**</span> <span style="color: red;">
+**name**</span><span
+style="color: blue;">**="EnableCacheVisualization"**</span> <span
+style="color: red;"> **value**</span><span
+style="color: blue;">**="true"**</span> <span style="color: blue;">
+**/\>**</span>
+
+            <span style="color: blue;">\<</span><span
+style="color: #a31515;">a</span> <span
+style="color: red;">href</span><span
+style="color: blue;">="http://go.microsoft.com/fwlink/?LinkID=141205"</span>
+<span style="color: red;">style</span><span
+style="color: blue;">="</span><span
+style="color: red;">text-decoration</span>: <span
+style="color: blue;">none</span>;<span style="color: blue;">"\></span>
+
+                 <span style="color: blue;">\<</span><span
+style="color: #a31515;">img</span> <span
+style="color: red;">src</span><span
+style="color: blue;">="http://go.microsoft.com/fwlink/?LinkId=108181"</span>
+<span style="color: red;">alt</span><span style="color: blue;">="Get
+Microsoft Silverlight"</span> <span
+style="color: red;">style</span><span
+style="color: blue;">="</span><span
+style="color: red;">border-style</span>: <span
+style="color: blue;">none"/\></span>
+
+            <span style="color: blue;">\</</span><span
+style="color: #a31515;">a</span><span style="color: blue;">\></span>
+
+        <span style="color: blue;">\</</span><span
+style="color: #a31515;">object</span><span
+style="color: blue;">\></span>
+
+Hepinize kolay gelsin.
+
+

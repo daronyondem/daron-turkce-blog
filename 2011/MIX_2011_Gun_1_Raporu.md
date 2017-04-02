@@ -1,0 +1,113 @@
+---
+FallbackID: 2557
+Title: MIX 2011 Gün 1 Raporu :)
+PublishDate: 4/13/2011
+EntryID: MIX_2011_Gun_1_Raporu
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: ASP.NET MVC 3, Windows Azure, EF 4.1, IE 10, MVC, Razor, Internet Explorer, ASP.NET
+old.EntryID: fb536cf6-5a7c-4af3-b61c-bc5c3a3f82dc
+---
+Bugünlerde **MIX 2011** konferansı nedeniyle Amerika, Las Vegas'tayım.
+Konferansın birinci ve ikinci gününde KeyNote konuşmalarında yapılan
+duyuruları sizle gün gün paylaşacağım :) Haberleri daha anlık takip
+etmek isteyenler [twitter'dan](http://www.twitter.com/daronyondem) da
+takip edebilirler.
+
+MIX özünde Microsoft'un hem web konferansı hem de designer ve developer
+konferansı veya benim tabirimle aslında "devigner" konferansı :) O
+nedenle MIX'ten benim bu sene beklentilerim WP7, HTML5, SL5, Kinect
+şeklinde. Geçen sene NUI (Natural User Interfaces) üzerinde durulmasını
+ve aslında konferansın ana temalarından biri olan Kullanıcı Deneyimi
+(UX)'nin de bir alt basamağı olmasını da göz önüne alırsak Kinect de çok
+uygun bir konu olacaktır.
+
+**Peki ilk günde neler oldu?**
+
+Günün en bomba haberlerinden biri **Internet Explorer 10**'un ilk
+Preview'unun duyurulmasıydı. CSS3 Multi-column Layout, CSS3 Grid Layout,
+CSS3 Flexible Box gibi bazı draft HTML5 implementasyonlarının bulunduğu
+IE10 Preview HTML5 konusuna MS'in verdiği önemi tekrar ortaya koyuyor.
+Preview ayrı bir tarayıcı olarak yüklendiği ve IE9'un yerini almayacağı
+için hemen [buradan](http://bit.ly/ie10preview1_download) indirip test
+edebilirsiniz isterseniz ;)
+
+![Internet Explorer 10 Preview 1
+çıktı!](http://cdn.daron.yondem.com/assets/2557/12042011_1.jpg)\
+*Internet Explorer 10 Preview 1 çıktı!*
+
+Bir diğer duyuru ise **ASP.NET MVC 3** ile ilgili araçların yenilendiği.
+Dikkat dikkat :) MVC3 ile ilgili bir değişiklik yok, değişen tek şey
+Visual Studio içerisindeki MVC 3 ile ilişkili araçlar. İsteyenler hemen
+[indirip](http://bit.ly/mvc3toolupdate) kurulumu başlatabilirler, hali
+hazırdaki hiçbir projeniz etkilenmeyecektir. Yeni araçlar ve yeni
+şablonlar ile beraber her yeni MVC3 projesi artık jQuery, Modernizr, ve
+EF Code First 4.1 güncellemelerini içeriyor. Bu arkadaşların projelere
+implementasyonu ise NuGet ile yapılıyor. Eski projelerinize
+dependency'leri NuGet ile eklemek için aşağıdaki komut setini
+kullanabilirsiniz ;)
+
+PM\> install-package jQuery\
+PM\> install-package jQuery.vsdoc\
+PM\> install-package jQuery.Validation\
+PM\> install-package jQuery.UI.Combined\
+PM\> install-package EntityFramework\
+PM\> install-package Modernizr
+
+MVC3 Tooling Update ile ilgili yakında başka bir yazı yazmayı
+planladığım için çok detayına girmek istemiyorum. Code First EF ile
+beraber artık araçlar Controller vs kodlarını auto generate
+edebiliyorlar. Ek olarak view engine seçim ekranına bir de HTML5
+seçeneği gelmiş durumda. Eğer bu seçeneği işaretlerseniz tüm HTML markup
+HTML5 olarak yaratılıyor.
+
+![Duyuruların sonu gelmiyor... Steven Sinofsky ve Dean Hachamovitch
+sahnede.](http://cdn.daron.yondem.com/assets/2557/12042011_3.jpg)\
+*Duyuruların sonu gelmiyor... Steven Sinofsky ve Dean Hachamovitch
+sahnede.*
+
+MVC3 güncellemesinden bahsederken dikkatinizi çekmiştir diye tahmin
+ediyorum :) **Entity Framework 4.1** güncellemesi de artık karşımızda.
+Code First diyorum detaylarına girmiyorum! [Tıklayın,
+indirin](http://bit.ly/ef41codefirst) ;)
+
+Duyuruların sonu gelmedi :) Azure ayağında **Windows Azure AppFabric
+Access Control**'de bir güncelleme geldi. Zaten ADFS desteği ile bizi
+kendine aşık :) eden ACS'e Twitter ve Facebook update'leri geldi!!!
+Haberleri sırasıyla paylaşiyim; 30 gün içinde **Windows Azure AppFabric
+Caching** release oluyor, her verdiğim Azure eğitiminde en sık sorulan
+soruya cevap niteliğinde :) **Windows Azure Traffic Manager** CTP'si
+geldi. Azure ortamında Smooth Streaming için **Windows Azure Content
+Delivery Network Preview** çıktı! Say say bitmiyor :)
+
+![Umbraco için Azure
+Accelrator](http://cdn.daron.yondem.com/assets/2557/12042011_2.jpg)\
+*Umbraco için Azure Accelrator*
+
+Azure ayağında şu ana kadar gördüğüm en süper implementasyonu da yine
+MIX'teki duyuru ile görmüş oldum :) **Umbraco'nun** şu anda **Azure
+Accelerator** ile yaptığı ve bir sonraki sürümlerine doğrudan entegre
+edecekleri mekanizma Azure'un tüm değerini tam olarak ortaya koyuyor.
+Bir site düşünün ki aldığı yükü kendi ölçüp, değerlendirip, kendi
+kendine kaç sunucuya expand edeceğine karar verip bunu transparan bir
+şekilde Azure API'leri ile yapabiliyor. İşte Umbraco ekibi bunu yapmış!
+İnanılmaz diyeceğim ama aslında herşey zaten hazır :) Onun yerine
+"Muhteşem" diyeceğim :) Hemen accelerator'ı indirip azure deploymentı
+yapmak isteyenleriniz olsun :) herşey
+[CodePlex'te](http://bit.ly/azure_umbraco%20%20).
+
+**Özetlemek gerekirse :)**
+
+[Internet Explore 10 Preview 1](http://bit.ly/ie10preview1_download)\
+ [ASP.NET MVC 3 Tooling Update](http://bit.ly/mvc3toolupdate)\
+[Entity Framework 4.1 Update](http://bit.ly/ef41codefirst)\
+Windows Azure AppFabric Access Control Update\
+Windows Azure AppFabric Caching Release çok yakında!\
+Windows Azure Traffic Manager CTP\
+Windows Azure Content Delivery Network Preview\
+ [Umbraco Azure Accelerator](http://bit.ly/azure_umbraco)\
+
+İlk günden bu kadar :) Bakalım yarın neler olacak. Görüşmek üzere.
+
+

@@ -1,0 +1,132 @@
+---
+FallbackID: 2840
+Title: Service Bus Relay Services
+PublishDate: 4/4/2013
+EntryID: Service_Bus_Relay_Services
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Windows Azure
+---
+Diyelim ki şirket içerisinde bir uygulama var ve bu uygulamanın açtığı
+bazı WCF servisleri mevcut. Uygulamalarınızdan biri de Azure'da duruyor.
+Azure'daki uygulamanızın bu servisleri kullanması lazım fakat şirket
+içindeki uygulamayı doğrudan dışarıya açamıyorsunuz. Bir diğer senaryo
+da aslında WCF servisinizi açacağınız kişileri tanımıyor olmanız
+olabilir. Yani istemcileri doğrudan şirketin kapısında karşılamak
+istemeyebilirsiniz özetle :) İşte bu gibi durumlarda Azure Service Bus
+içerisinde Relay Services bulunuyor. Kullanımı da epey kolay aslında
+bakarsanız.
+
+![Service Bus Relay Services
+Mimarisi](http://cdn.daron.yondem.com/assets/2840/servicebus_relay.gif)
+
+Yukarıdaki manzarada da görebileceğiniz üzere şirketinizde bulunan
+FireWall ve NAT arkasındaki bir servisi alıp dışarıya açma işini
+gerçekleştiriyor "Relay Services". Araya ACS'i de alırsanız güvenlik
+kontrolünü de bir adım dışarı taşıyabilirsiniz. Örneğimizi yapabilmek
+için önce bir Azure ortamında kendimize "Service Bus" endpointi
+yaratmamız gerek.
+
+![Service Bus endpointimizi
+yaratırken.](http://cdn.daron.yondem.com/assets/2840/servicebus_relay2.png)\
+*Service Bus endpointimizi yaratırken.*
+
+Endpoint hazır olduktan sonra hemen en alttaki "Access Key" düğmesine
+basarak bu endpointi kullanabilmek için ihtiyacımız olan key'i
+alabilirsiniz. Bu key ve namespace adı birazdan örneklerimizde
+kullanacağımız bilgiler olacak.
+
+### Service Bus Nuget Paketi
+
+Örneğimize geçmeden önce son bir bilgi daha verelim :) Yapacağımız tüm
+örneklerde Service Bus kütüphanesini kullanacağız. Bu kütüphaneyi
+edinmenin en kolay yolu Nuget. Aşağıdaki ekran görüntüsünde de
+görebileceğiniz üzere basit bir "Service Bus" araması istediğimiz
+kütüphaneyi bulmak için yeterli.
+
+![Service Bus kütüphanesi
+Nuget'te.](http://cdn.daron.yondem.com/assets/2840/servicebus_relay3.png)\
+*Service Bus kütüphanesi Nuget'te.*
+
+### Mutfağa geçelim....
+
+Herşey hazır olduğuna göre artık mini örneğimizi yapmanın zamanı gelmiş
+demektir. Örneğimizde iki tane WPF uygulaması ve bir de "Class Library"
+kullanacağız. Kütüphanemiz host edeceğimiz servisin kodunu barındıracak.
+Gelin o kısmı bir hızlı halledelim çünkü aslında pek de Service Bus
+Relay ile alakası yok o kısmın. Klasik bir WCF servisi yazacağız en
+basitinden.
+
+**[C\# / ICalculator.cs]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white; margin-left: 40px;"}
+namespace Service{    [ServiceContract(Namespace = "urn:ps")]    public interface ICalculator    {        [OperationContract]        int AddNumbers(int a, int b);    }     public interface ICalculatorChannel : ICalculator, IClientChannel { }}
+```
+
+**[C\# / Calculator.cs]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white; margin-left: 40px;"}
+namespace Service{    public class Calculator : ICalculator    {        public int AddNumbers(int a, int b)        {            return a + b;        }    }}
+```
+
+Dediğim gibi bu kısma çok göz atmayacağız. Zaten klasik servis yazma
+hikayesi. Eğer siz de hızlıca bir örnek yapıp test etmek istiyorsanız
+yukarıdaki kodu kullanabilirsiniz. Kodumuz iki sayıyı alıp, toplayıp
+geri döndürüyor. Şimdi bu servisi yeni bir WPF uygulaması ile host
+edeceğiz. WPF uygulamasında servisimizi host ederken WCF için birden çok
+endpoint kullanacağız.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white; margin-left: 40px;"}
+ServiceHost sh = new ServiceHost(typeof(Calculator)); void MainWindow_Loaded(object sender, RoutedEventArgs e){    sh.AddServiceEndpoint(       typeof(ICalculator), new NetTcpBinding(),       "net.tcp://localhost:9358/Calculator");     sh.AddServiceEndpoint(       typeof(ICalculator), new NetTcpRelayBinding(),       ServiceBusEnvironment.CreateServiceUri("sb", "daronsample", "Calculator"))        .Behaviors.Add(new TransportClientEndpointBehavior        {            TokenProvider = TokenProvider.CreateSharedSecretTokenProvider("owner",     "t82Pp3ZfjCJMFh/As9tdbAPuW6b/rxhhUye1ceO7DP4=")        });     sh.Open();}
+```
+
+Tamamen örnek amaçlı olarak yola çıktığımız için ben hızlıca Host'u WPF
+uygulaması açıldığı gibi ayağa kaldırdım. İki tane endpointimizin
+olacağını söylemiştim. Bunlardan biri local bir **NetTcp** endpointi,
+diğeri ise **NetTcpRelay** endpointi. Bu endpointlerin kullandıkları
+binding tiplerinden de aradaki farklılığı anlamışsınızdır. İkinci
+endpoint, yani **NewTcpRelayBinding** kullanan endpoint bizim Relay
+Service'i kullanacak olan endpoint. Azure'daki Relay Endpoint'ine erişim
+sağlanabilmesi için endpoint'e bir de **SharedSecretToken** vermemiz
+gerekiyor. Bu token azure portalından aldığımız Key'i içermeli.
+Unutmadan, hemen token kısmına geçtim ama dikkat edilmesi gereken bir
+diğer nokta da endpoint'in URL'i. Local bir endpoint yaratırken elle URL
+verirken Service Bus endpointi yaratırken sb:// ile başlayan bir
+endpoint adresi yaratmamız gerekiyor. Bunun için de yine ServiceBus
+kütüphanesi ile beraber gelen metodları kullanıyoruz.
+
+Aslında uzun uzun anlatmış olsam da olay bu kadar ve epey de kolay. Tabi
+siz örneği tamamlarken hostu kapatmayı unutmayın :)
+
+Örneğimizin tamamlanması için bir de Relay Services'a bağlanıp oradan
+açılmış servisleri kullanabilen bir uygulama hazırlamamız gerekiyor.
+Biraz önce hazırladığımız uygulama kendi içerisindeki bir servisi alıp
+Service Bus Relay Services üzerinden açıyordu. Şimdiki uygulama da o
+şekilde açılmış bir servisi alıp kullanacak.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white; margin-left: 40px;"}
+var cf = new ChannelFactory<ICalculatorChannel>(    new NetTcpRelayBinding(),     new EndpointAddress(        ServiceBusEnvironment.CreateServiceUri("sb", "daronsample", "Calculator"))); cf.Endpoint.Behaviors.Add(    new TransportClientEndpointBehavior {        TokenProvider = TokenProvider.CreateSharedSecretTokenProvider("owner",     "t82Pp3ZfjCJMFh/As9tdbAPuW6b/rxhhUye1ceO7DP4=")     }); using (var ch = cf.CreateChannel()){    MessageBox.Show(ch.AddNumbers(4, 5).ToString());}
+```
+
+İşte bu kadar. Yarattığımız ChannelFactory aynı host uygulamasındaki
+gibi doğru token bilgilerini ve doğru endpoint URL'i aldıktan sonra
+herşey eskisi gibi devam ediyor. Uygulamalarımız eskisi gibi fakat Relay
+Services üzerinden giderek uzak noktadaki bir servisi kullanabiliyorlar.
+
+![Azure portalında gözüken
+bağlantılar.](http://cdn.daron.yondem.com/assets/2840/servicebus_relay4.png)\
+*Azure portalında gözüken bağlantılar.*
+
+Son olarak yukarıda azure portalı içerisinde son manzarayı da
+görebilirsiniz. Service Bus'ın detaylarına baktığımızda "Relays" tabında
+"Calculator" metodunu ve bir tane dinleyicisi olduğunu görebiliyoruz.
+İşte bu kadar basit :)
+
+Görüşmek üzere.
+
+

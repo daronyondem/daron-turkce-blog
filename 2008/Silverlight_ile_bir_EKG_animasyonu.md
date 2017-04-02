@@ -1,0 +1,414 @@
+---
+FallbackID: 1958
+Title: Silverlight ile bir EKG animasyonu
+PublishDate: 2/15/2008
+EntryID: Silverlight_ile_bir_EKG_animasyonu
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight
+old.EntryID: 08fe4e04-3241-4cb0-9fdb-39a13e37e70c
+---
+Bu makalemizde Silverlight ile bir EKG animasyonu yapacağız. Önce EKG
+çizimimizi **Expression Design** ile yapmalıyız. Bunun için 300\*200px
+yeni bir dosya yaratarak "**Pen Tool**" ile sahneye bir doğru çizelim.
+Sonrasında çizdiğimiz doğruya "**Add Anchor Point**" aracını kullanarak
+birkaç nokta ekleyelim. Son olarak bu eklediğimiz noktalardan
+istediklerimizi "**Direct Selection Tool**" ile seçerek yukarı veya
+aşağı sürükleyerek bir EKG çizimi yaratabiliriz.
+
+![Expression Design içerisinde EKG
+çizimimiz.](http://cdn.daron.yondem.com/assets/1958/14022008_1.png)\
+*Expression Design içerisinde EKG çizimimiz.*
+
+Çizimimiz tamamlandığında göre sıra geldi bu çizimi vektörel olarak
+**Expression Blend** tarafına almaya. **File / Export** menüsünden yola
+çıkarak Silverlight Canvas seçeneği üzerinden bir XAML çıktısı alıyoruz.
+XAML dosyası içerisindeki **Layer1** adındaki Canvas elementini Blend
+içerisine kopyalayacağız. Tabi bunun için önce **Expression Blend 2**
+ile yeni bir Silverlight projesi yaratmamız gerekiyor.
+
+Expression Design'dan aldığımız XAML kodunu Blend 2 içerisine
+yapıştırdığımızda Silverlight uygulamamızın XAML kodu aşağıdaki şekilde
+oluyor.
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">Canvas</span>
+
+<span style="color: red;">  xmlns</span><span
+style="color: blue;">="http://schemas.microsoft.com/client/2007"</span>
+
+<span style="color: red;">  xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">x</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml"</span>
+
+<span style="color: red;">  Width</span><span
+style="color: blue;">="300"</span><span style="color: red;">
+Height</span><span style="color: blue;">="200"</span>
+
+<span style="color: red;">  Background</span><span
+style="color: blue;">="White"</span>
+
+<span style="color: red;">  x</span><span
+style="color: blue;">:</span><span style="color: red;">Name</span><span
+style="color: blue;">="Page"</span>
+
+<span style="color: blue;">  \></span>
+
+<span style="color: #a31515;">  </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Canvas</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Name</span><span
+style="color: blue;">="Layer\_1"</span><span style="color: red;">
+Width</span><span style="color: blue;">="300"</span><span
+style="color: red;"> Height</span><span
+style="color: blue;">="200"</span><span style="color: red;">
+Canvas.Left</span><span style="color: blue;">="0"</span><span
+style="color: red;"> Canvas.Top</span><span
+style="color: blue;">="0"\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Path</span><span style="color: red;">
+Width</span><span style="color: blue;">="300.488"</span><span
+style="color: red;"> Height</span><span
+style="color: blue;">="194.519"</span><span style="color: red;">
+Canvas.Left</span><span style="color: blue;">="-0.594986"</span><span
+style="color: red;"> Canvas.Top</span><span
+style="color: blue;">="5.19727"</span><span style="color: red;">
+Stretch</span><span style="color: blue;">="Fill"</span><span
+style="color: red;"> StrokeThickness</span><span
+style="color: blue;">="2"</span><span style="color: red;">
+StrokeLineJoin</span><span style="color: blue;">="Round"</span><span
+style="color: red;"> Stroke</span><span
+style="color: blue;">="\#FF000000"</span><span style="color: red;">
+Data</span><span style="color: blue;">="F1 M 0.405014,137.11L
+30.6097,137.11L 42.6763,76.7877L 53.0284,146.736L 59.0672,127.484L
+67.733,137.11L 153.962,137.11L 181.568,6.19727L 203.997,198.717L
+223.839,65.2365L 241.092,151.87L 248.857,137.11L
+298.893,137.11"/\></span>
+
+<span style="color: #a31515;">  </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">Canvas</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">\</</span><span
+style="color: #a31515;">Canvas</span><span
+style="color: blue;">\></span>
+
+Kod içerisinde Path olarak gözüken kısım bizim çizimimiz ta kendisi.
+**Layer\_1** adındaki Canvas da Expression Design tarafındaki
+Layer'ımız. Şimdi sıra geldi ince ayarlar yapmaya. İlk olarak
+Silverlight animasyonunun fonunu siyah yapalım, sonra da Path nesnemizin
+Stroke rengini parlak yeşile çevirelim. Böylece koyu bir arkaplan
+üzerinde yeşil kalp atışları gözükecek. Kalp atışlarının normal EKG gibi
+gözükmesi için bir maske kullanacağız. Maske olarak kullanılmak üzere
+sahnenin kenarına ekranın dışına bir dikdörtgen çizelim.
+
+![Maskemiz kenarda bizi
+bekliyor.](http://cdn.daron.yondem.com/assets/1958/14022008_2.png)\
+*Maskemiz kenarda bizi bekliyor.*
+
+Maskemizi çizdiğimize göre sıra geldi onu gerçekten Path'imize maske
+olarak atamaya. Bunun için Expression Blend 2 içerisinde "**Objects and
+Timeline**" panelinde hem Path'in içerisinde bulunduğu Canvas'ı hem de
+dikdörtgenimizi seçerek sağ tuş ile tıklıyoruz. Gelen menüden "**Path /
+Make Clipping Path"** komutunu vererek dikdörtgenin bir maske haline
+gelmesini sağlıyoryz.
+
+!["Make Clipping Path" ile
+maskeleme.](http://cdn.daron.yondem.com/assets/1958/14022008_3.png)\
+*"Make Clipping Path" ile maskeleme.*
+
+Şimdi sora geldi gerekli animasyonu yaratmaya. Animasyonumuzda maske
+olarak ayarladığımız dikdörgenin ekranın solundan sağına doğru dolaşması
+gerekiyor. Bunun için yeni bir **StoryBoard** yaratalım. Sahne ilk
+açıldığında animasyonun otomatik başlaması için "Create as a resource"
+seçeneğini deaktif bırakalım.
+
+Animasyonu maskemize vereceğimiz için bir şekilde maskemizi seçebiliyor
+olmamız gerekir. Maskeleme yaptığınız herhangi bir nesneyi seçerek araç
+çubuğundan "**Direct Selection Tool**"'u seçtiğinizde maskeye müdahale
+edebildiğinizi göreceksiniz. Bu şekilde animasyonumuz içerisinde iki
+farklı KeyFrame kaydederek maskeyi farklı konumlara getirebiliriz.
+
+Artık animasyonumuz hazır. Son olarak StoryBoard'un **RepeatBehavior**
+özelliğini de **Forever** yaparsanız sürekli tekrar edecektir.
+Uygulamanın son haline ait XAML kodu aşağıdaki şekilde.
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">Canvas</span>
+
+<span style="color: red;">  xmlns</span><span
+style="color: blue;">="http://schemas.microsoft.com/client/2007"</span>
+
+<span style="color: red;">  xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">x</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml"</span>
+
+<span style="color: red;">  Width</span><span
+style="color: blue;">="300"</span><span style="color: red;">
+Height</span><span style="color: blue;">="200"</span>
+
+<span style="color: red;">  **Background**</span><span
+style="color: blue;">**="\#FF000000"**</span>
+
+<span style="color: red;">  x</span><span
+style="color: blue;">:</span><span style="color: red;">Name</span><span
+style="color: blue;">="Page"</span>
+
+<span style="color: blue;">  \></span>
+
+<span style="color: #a31515;">  </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Canvas.Triggers</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">EventTrigger</span><span style="color: red;">
+RoutedEvent</span><span style="color: blue;">="Canvas.Loaded"\></span>
+
+<span style="color: #a31515;">      </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">BeginStoryboard</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Storyboard</span><span style="color: red;">
+**RepeatBehavior**</span><span
+style="color: blue;">**="Forever"**</span><span style="color: red;">
+**x**</span><span style="color: blue;">**:**</span><span
+style="color: red;">**Name**</span><span
+style="color: blue;">**="Storyboard1"**\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">PointAnimationUsingKeyFrames</span><span
+style="color: red;"> BeginTime</span><span
+style="color: blue;">="00:00:00"</span><span style="color: red;">
+Storyboard.TargetName</span><span
+style="color: blue;">="Layer\_1"</span><span style="color: red;">
+Storyboard.TargetProperty</span><span
+style="color: blue;">="(UIElement.Clip).(PathGeometry.Figures)[0].(PathFigure.StartPoint)"\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">SplinePointKeyFrame</span><span
+style="color: red;"> KeyTime</span><span
+style="color: blue;">="00:00:00"</span><span style="color: red;">
+Value</span><span style="color: blue;">="-31.5,-28.5"/\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">SplinePointKeyFrame</span><span
+style="color: red;"> KeyTime</span><span
+style="color: blue;">="00:00:02"</span><span style="color: red;">
+Value</span><span style="color: blue;">="308,-29.5"/\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">PointAnimationUsingKeyFrames</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">PointAnimationUsingKeyFrames</span><span
+style="color: red;"> BeginTime</span><span
+style="color: blue;">="00:00:00"</span><span style="color: red;">
+Storyboard.TargetName</span><span
+style="color: blue;">="Layer\_1"</span><span style="color: red;">
+Storyboard.TargetProperty</span><span
+style="color: blue;">="(UIElement.Clip).(PathGeometry.Figures)[0].(PathFigure.Segments)[0].(LineSegment.Point)"\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">SplinePointKeyFrame</span><span
+style="color: red;"> KeyTime</span><span
+style="color: blue;">="00:00:00"</span><span style="color: red;">
+Value</span><span style="color: blue;">="-9.5,-28.5"/\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">SplinePointKeyFrame</span><span
+style="color: red;"> KeyTime</span><span
+style="color: blue;">="00:00:02"</span><span style="color: red;">
+Value</span><span style="color: blue;">="330,-29.5"/\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">PointAnimationUsingKeyFrames</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">PointAnimationUsingKeyFrames</span><span
+style="color: red;"> BeginTime</span><span
+style="color: blue;">="00:00:00"</span><span style="color: red;">
+Storyboard.TargetName</span><span
+style="color: blue;">="Layer\_1"</span><span style="color: red;">
+Storyboard.TargetProperty</span><span
+style="color: blue;">="(UIElement.Clip).(PathGeometry.Figures)[0].(PathFigure.Segments)[1].(LineSegment.Point)"\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">SplinePointKeyFrame</span><span
+style="color: red;"> KeyTime</span><span
+style="color: blue;">="00:00:00"</span><span style="color: red;">
+Value</span><span style="color: blue;">="-9.5,228.5"/\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">SplinePointKeyFrame</span><span
+style="color: red;"> KeyTime</span><span
+style="color: blue;">="00:00:02"</span><span style="color: red;">
+Value</span><span style="color: blue;">="330,227.5"/\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">PointAnimationUsingKeyFrames</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">PointAnimationUsingKeyFrames</span><span
+style="color: red;"> BeginTime</span><span
+style="color: blue;">="00:00:00"</span><span style="color: red;">
+Storyboard.TargetName</span><span
+style="color: blue;">="Layer\_1"</span><span style="color: red;">
+Storyboard.TargetProperty</span><span
+style="color: blue;">="(UIElement.Clip).(PathGeometry.Figures)[0].(PathFigure.Segments)[2].(LineSegment.Point)"\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">SplinePointKeyFrame</span><span
+style="color: red;"> KeyTime</span><span
+style="color: blue;">="00:00:00"</span><span style="color: red;">
+Value</span><span style="color: blue;">="-31.5,228.5"/\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">SplinePointKeyFrame</span><span
+style="color: red;"> KeyTime</span><span
+style="color: blue;">="00:00:02"</span><span style="color: red;">
+Value</span><span style="color: blue;">="308,227.5"/\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">PointAnimationUsingKeyFrames</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">Storyboard</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">      </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">BeginStoryboard</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">EventTrigger</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">  </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">Canvas.Triggers</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Canvas</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Name</span><span
+style="color: blue;">="Layer\_1"</span><span style="color: red;">
+Width</span><span style="color: blue;">="300"</span><span
+style="color: red;"> Height</span><span
+style="color: blue;">="200"</span><span style="color: red;">
+Canvas.Left</span><span style="color: blue;">="0"</span><span
+style="color: red;"> Canvas.Top</span><span
+style="color: blue;">="0"\></span>
+
+<span style="color: #a31515;">      </span><span style="color: blue;">
+**\<**</span><span style="color: #a31515;">**Canvas.Clip**</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">PathGeometry</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">PathFigure</span><span style="color: red;">
+IsClosed</span><span style="color: blue;">="True"</span><span
+style="color: red;"> StartPoint</span><span
+style="color: blue;">="-31.5,-28.5"\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">LineSegment</span><span style="color: red;">
+Point</span><span style="color: blue;">="-9.5,-28.5"/\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">LineSegment</span><span style="color: red;">
+Point</span><span style="color: blue;">="-9.5,228.5"/\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">LineSegment</span><span style="color: red;">
+Point</span><span style="color: blue;">="-31.5,228.5"/\></span>
+
+<span style="color: #a31515;">          </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">PathFigure</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">PathGeometry</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">      </span><span style="color: blue;">
+**\</**</span><span style="color: #a31515;">**Canvas.Clip**</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Path</span><span style="color: red;">
+Width</span><span style="color: blue;">="300.488"</span><span
+style="color: red;"> Height</span><span
+style="color: blue;">="194.519"</span><span style="color: red;">
+Canvas.Left</span><span style="color: blue;">="-0.594986"</span><span
+style="color: red;"> Canvas.Top</span><span
+style="color: blue;">="5.19727"</span><span style="color: red;">
+Stretch</span><span style="color: blue;">="Fill"</span><span
+style="color: red;"> StrokeThickness</span><span
+style="color: blue;">="2"</span><span style="color: red;">
+StrokeLineJoin</span><span style="color: blue;">="Round"</span><span
+style="color: red;"> **Stroke**</span><span
+style="color: blue;">**="\#FF23FF00"**</span><span style="color: red;">
+Data</span><span style="color: blue;">="F1 M 0.405014,137.11L
+30.6097,137.11L 42.6763,76.7877L 53.0284,146.736L 59.0672,127.484L
+67.733,137.11L 153.962,137.11L 181.568,6.19727L 203.997,198.717L
+223.839,65.2365L 241.092,151.87L 248.857,137.11L
+298.893,137.11"/\></span>
+
+<span style="color: #a31515;">  </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">Canvas</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">\</</span><span
+style="color: #a31515;">Canvas</span><span
+style="color: blue;">\></span>
+
+Hepinize kolay gelsin.
+
+

@@ -1,0 +1,62 @@
+---
+FallbackID: 1926
+Title: Visua Basic 2008 ve LINQ2XML için XML2Schema Aracı
+PublishDate: 1/21/2008
+EntryID: Visua_Basic_2008_ve_LINQ2XML_icin_XML2Schema_Araci
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: LINQ, Visual Basic 2008, Visual Basic .NET
+old.EntryID: dce935ca-763c-4233-a4e1-6fdd3302ba4d
+---
+Daha önceki yazılarımda sadece VB'de çalışan ve benim "*inline XML*"
+diyebileceğim VB kodları içerisinde doğrudan XML yazımının
+kullanılmasından bahsetmiştim. İşin kötü tarafında bu noktada Visual
+Studio'nun Intellisense desteği maalesef bizim hedef XML'in içeriğini
+inceleyerek otomatik bir Intellisense oluşturamıyor. "Çok şey
+istiyorsunuz!" dediğinizi duyar gibiyim ama benim gibi çok isteyen olmuş
+ki Visual Basic 2008 için özel "**XML to Schema Tool for Visual Basic
+2008**" üretilmiş. Aşağıdaki adresten aracı bilgisayarınıza indirerek
+hemen yükleyebilirsiniz. (LINQ2XML kullanacaklara ŞİDDETLE tavsiye
+ediyorum :))
+
+<http://www.microsoft.com/downloads/details.aspx?FamilyID=9ac5a653-563a-4204-a4eb-dddcae80b244&displaylang=en>
+
+LINQ2XML ile XML dosyaları üzerinde çalışmak gerçekten kolaylaştı.
+Üzerine bir de VB'nin kolaylıkları ve yukarıdaki araç eklenince iş
+gerçekten çocuk oyuncağına dönüşüyor.
+
+**Nasıl kullanacağız?**
+
+Herhangi bir proje yarattıktan sonra doğrudan "Solution Explorer"
+içerisinde projeye sağ tuş ile tıkladıktan sonra "Add / New Item"
+diyerek karşınıza gelen menüden "**XML to Schema**" seçeneğini
+seçebilirsiniz.
+
+![XML to Schema
+dosyası.](http://cdn.daron.yondem.com/assets/1926/20012008_1.png)\
+*XML to Schema dosyası.*
+
+Dosyası eklediğiniz anda karşınıza bir seçenek daha gelecek. Bu
+seçenekler arasında hedeflediğiniz, yani kullanacağınız esas XML
+dosyasının konumu soruluyor. İsterseniz "**Add from File**" ile
+sisteminizdeki bir dosyayı veya "**Add from Web**" ile doğrudan
+internetteki bir dosyayı veya "**Add as XML**" ile kullanacağınız XML
+verisini Visual Studio içerisinde yazabilirsiniz. Biz örneğimizde her
+zamanki gibi TCMB döviz kurlarını alalım.
+
+![TCMB döviz kurlarını
+alıyoruz.](http://cdn.daron.yondem.com/assets/1926/20012008_2.png)\
+*TCMB döviz kurlarını alıyoruz.*
+
+XSD dosyasını bu şekliyle projemize ekledikten sonra artık sıra geldi
+kodumuzu yazmaya. Artık bir önceki adımda eklediğimiz XML dosyasının
+içeriğinden oluşturulan Intellisense'i kullanabiliriz.
+
+![LINQ2XML Intellisense
+desteği.](http://cdn.daron.yondem.com/assets/1926/20012008_3.png)\
+*LINQ2XML Intellisense desteği.*
+
+Hepinize kolay gelsin ;)
+
+

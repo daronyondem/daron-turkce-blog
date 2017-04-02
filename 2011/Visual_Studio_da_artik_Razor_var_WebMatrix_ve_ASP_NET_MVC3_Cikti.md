@@ -1,0 +1,79 @@
+---
+FallbackID: 2543
+Title: Visual Studio'da artık Razor var! WebMatrix ve ASP.NET MVC3 Çıktı!
+PublishDate: 1/15/2011
+EntryID: Visual_Studio_da_artik_Razor_var_WebMatrix_ve_ASP_NET_MVC3_Cikti
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: ASP.NET MVC 3, Razor, WebMatrix, ASP.NET
+old.EntryID: d0639cad-b27d-4d06-a4d2-19d3c1a84d94
+---
+Dün WebMatrix ve beraber ASP.NET MVC3 release oldu! Artık her ikisi de
+rahatlıkla projelerde kullanılabilir durumda. Her iki ürünün aynı anda
+release olması özünde çok mantıkı. Sonuç olarak Razor syntax'ı hem MVC3
+de bir View Engine olarak çok değerli hem de ASP.NET Web pages konsepti
+ile WebMatrix'in can damarı. WebMatrix IDE'sine bakıldığında çok büyük
+değişikliker yok. İlginizi çekeceğinizi düşündüğüm esas konu Visual
+Studio tarafında :)
+
+![Razor ile Web Site
+Development](http://cdn.daron.yondem.com/assets/2543/14012011_1.png)\
+*Razor ile Web Site Development*
+
+Artık Visual Studio içerisinde "File / New Web Site" dediğimizde
+seçeneklere bir template daha eklenmiş oldu. Yeni bir web sitesi
+yaratırken aynı WebMatrix'ten olduğu gibi Visual Studio içerisinden de
+Razor'ı kullanabiliyorsunuz. Diyeceksiniz ki "Zaten MVC3 ile geliyordu?"
+evet ama orada Razor sadece bir view engine. MVC3 haricinde Razor ile
+normal bir ASP.NET Web Site yaratma şansınız da var. Bu durumda da
+WebMatrix IDE'sinde olduğu gibi kodları CSHTML / VBHTML dosyaları ile
+mixliyorsunuz.
+
+Visual Studio içerisinde Razor ile ASP.NET projeleri yaratıldığında
+WebMatrix'teki SQL Compact Edition'a karışılık doğrudan SQLEXPRESS
+kullanılıyor. Bu seçenek WebMatrix IDE'sinde sadece bir migration
+seçeneği olarak gelirken Visual Studio'dan bu tarz projelere başlayanlar
+için bir anlamda migration yapılmış olarak başlıyor proje.
+
+![Visual Studio içerisinden Razor projesi
+yaratınca.](http://cdn.daron.yondem.com/assets/2543/14012011_2.png)\
+*Visual Studio içerisinden Razor projesi yaratınca.*
+
+Yukarıdaki manzara da görebileceğiniz üzere projenin içinde bir
+adminitrasyon kısmı da mevcut. Bu kısımda sadece kullanıcı kaydı vs
+işlemleri için örnekler bulunuyor. Maalesef ki "File / New Web Site"
+menüsünde Razor ile "Empty Web Site" seçeneği yok. Sanırım ilk başlayan
+her projede lazım olur :) mantığı ile bunları mecburi kılmışlar fakat
+tabi ki hepsini silip ortamı temizlemek de mümkün.
+
+Razor tabanlı ASP.NET projelerini Visual Studio tarafına almanın veya bu
+tarafta geliştirmenin en büyük iki avantajı şu anda WebMatrix tarafında
+zayıf/eksik olan Intellisense, debugging özellikleri olarak görülebilir.
+Ayrıca Razor - ASP.NET Web Pages ile beraber LINQ2SQL veya Entity
+Framework gibi ASP.NET'in diğer avantajlarından da faydalanmak
+isterseniz IDE olarak Visual Studio desteği kritik. Normalde bu yapıları
+WebMatrix içerisinden kullanmak neredeyse mümkün değil.
+
+Aslında genele baktığınızda manzara şimdi çok daha garip geliyor
+olabilir. Razor ile ASP.NET Web Pages WebMatrix içerisinde farklı bir
+seviyede konumlandırılırken Visual Studio içerisinde çok daha farklı bir
+seviyeye çıkmış oluyor. Hatta daha da ileri gidip bir sonraki adımda
+MVC3'te view engine oluyor. Bu karışıklığın kısa vadede ciddi akılları
+karıştıracağı kesin. Microsoft tarafında genel anlamda öngörülen senaryo
+şu; developer WebMatrix ile sektöre girer, Razor'ı kullanırken data
+access dahil herşeyi WebMatrix'teki SQL Compact ile çözer ve ilerler.
+Yapılan sitenin yoğunluğu, kompleksiliği ve orantılı olarak developer'ın
+da uzmanlığı arttıkça yavaş yavaş Visual Studio tarafına migration
+başlar. SQLEXPRESS'e geçilir ve hafiften Visual Studio ile beraber diğer
+ASP.NET özelliklerine de bulaşılır. Sonrasında duruma göre proje ciddi
+bir derleme/toplama sürecinden geçerek ASP.NET MVC ortamına alınabilir
+veya ekip know-how olarak o tarafa daha kolaylıkla upgrade edilir.
+
+WebMatrix'i hala bilgisayarınıza yüklemediyseniz, edinmek için aşağıdaki
+"Enter The Matrix" linkine tıklayabilirsiniz :)
+
+[Enter The
+Matrix](http://www.microsoft.com/web/gallery/install.aspx?appid=webmatrix)
+
+

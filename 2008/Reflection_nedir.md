@@ -1,0 +1,548 @@
+---
+FallbackID: 2195
+Title: Reflection nedir?
+PublishDate: 9/24/2008
+EntryID: Reflection_nedir
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: .NET Framework 3.0, .NET Framework 3.5, ASP.NET 3.5, LINQ, Silverlight 2.0, Visual Basic 2005, Visual Basic 2008, Visual Studio 2005, Visual Studio 2008, WCF, WF, WPF, Visual Basic .NET, ASP.NET
+old.EntryID: 91811a42-498f-4a1e-bd17-43df2d73277e
+---
+Başlık olarak “**Reflection**” yazdıktan sonra ardına sayfalarca
+açıklama ve örnek konulabilir. Hatta bu konuda ayrı bir kitap bile
+yazılabilir. Reflection’ın çok farklı kullanımlar var. Özetleyerek hızlı
+bir şekilde tanımlamak istersek aslında Reflection bize hakkında bilgi
+sahibi olmadığınız programatik nesnelerle ilgili çalışma zamanında
+(run-time) bilgi alabilmemize olanak tanıyan bir metottur. Peki böyle
+bir şeye neden ihtiyacımız olsun? En basit örnek gerçek zamanlı olarak
+uygulamalara farklı DLL dosyalarının bağlandığı durumları
+gösterebiliriz. Böyle bir durumda kaynak konumdaki sınıflar veya
+metotlar ile ilgili herhangi bir bilgi bulunmaz. Söz konusu bu
+bilgilerin program çalışırken elde edilerek kullanılması gerekir. Gelin
+ilk olarak Reflection’ın yapısını ve sistemini tanımak adına tek bir
+uygulama içerisinde nasıl kullanılabileceğimize göz atalım. Örnek
+uygulamamızda aşağıdaki şekli ile tanımlanmış bir Urun sınıfı
+kullanacağız.
+
+**[VB]**
+
+<span style="color: blue;">Public</span> <span
+style="color: blue;">Class</span> Urun
+
+ 
+
+    <span style="color: blue;">Private</span> PAdi <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+
+    <span style="color: blue;">Public</span> <span
+style="color: blue;">Property</span> Adi() <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+
+        <span style="color: blue;">Get</span>
+
+            <span style="color: blue;">Return</span> PAdi
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">Get</span>
+
+        <span style="color: blue;">Set</span>(<span
+style="color: blue;">ByVal</span> value <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>)
+
+            PAdi = value
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">Set</span>
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Property</span>
+
+ 
+
+    <span style="color: blue;">Sub</span> <span
+style="color: blue;">New</span>()
+
+ 
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Sub</span>
+
+ 
+
+    <span style="color: blue;">Sub</span> <span
+style="color: blue;">New</span>(<span style="color: blue;">ByVal</span>
+adi <span style="color: blue;">As</span> <span
+style="color: blue;">String</span>)
+
+        <span style="color: blue;">Me</span>.Adi = adi
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Sub</span>
+
+ 
+
+    <span style="color: blue;">Function</span> Uyari() <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+
+        <span style="color: blue;">Return</span> <span
+style="color: #a31515;">"Ürünün adı: "</span> & <span
+style="color: blue;">Me</span>.Adi
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Function</span>
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Class</span>
+
+**[C\#]**
+
+<span style="color: blue;">public</span> <span
+style="color: blue;">class</span> <span
+style="color: #2b91af;">Urun</span>
+
+{
+
+ 
+
+    <span style="color: blue;">private</span> <span
+style="color: blue;">string</span> PAdi;
+
+    <span style="color: blue;">public</span> <span
+style="color: blue;">string</span> Adi
+
+    {
+
+        <span style="color: blue;">get</span> { <span
+style="color: blue;">return</span> PAdi; }
+
+        <span style="color: blue;">set</span> { PAdi = <span
+style="color: blue;">value</span>; }
+
+    }
+
+ 
+
+    <span style="color: blue;">public</span> Urun()
+
+    {
+
+ 
+
+    }
+
+ 
+
+    <span style="color: blue;">public</span> Urun(<span
+style="color: blue;">string</span> adi)
+
+    {
+
+        <span style="color: blue;">this</span>.Adi = adi;
+
+    }
+
+ 
+
+    <span style="color: blue;">public</span> <span
+style="color: blue;">string</span> Uyari()
+
+    {
+
+        <span style="color: blue;">return</span> <span
+style="color: #a31515;">"Ürünün adı: "</span> + <span
+style="color: blue;">this</span>.Adi;
+
+    }
+
+}
+
+Uygulamamız içerisinde iki adet düğme yer alacak ve kullanacağımız
+Windows penceresinde global olarak tanımlanmış bir de **Object** tipinde
+değişkenimiz bulunacak.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> BirUrun <span
+style="color: blue;">As</span> <span style="color: blue;">Object   
+</span>
+
+**[C\#]**
+
+<span style="color: blue;">object</span> BirUrun;
+
+Uygulama içerisindeki düğmelerden birine basıldığında global **BirUrun**
+değişkenimiz yeni bir **Urun** değişkenine dönüştürülecek.
+
+**[VB]**
+
+<span style="color: blue;">Private</span> <span
+style="color: blue;">Sub</span> Button1\_Click(<span
+style="color: blue;">ByVal</span> sender <span
+style="color: blue;">As</span> System.Object, <span
+style="color: blue;">ByVal</span> e <span style="color: blue;">As</span>
+System.EventArgs) <span style="color: blue;">Handles</span>
+Button1.Click
+
+    BirUrun = <span style="color: blue;">New</span> Urun
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Sub</span>
+
+**[C\#]**
+
+    <span style="color: blue;">private</span> <span
+style="color: blue;">void</span> button1\_Click\_1(<span
+style="color: blue;">object</span> sender, EventArgs e)
+
+    {
+
+        BirUrun = <span style="color: blue;">new</span> Urun();
+
+    }
+
+Programımız içerisinde diğer düğmeye basıldığında **BirUrun** adındaki
+değişkenimizin **Adi** özelliğini değiştirerek **Uyari** adındaki
+metodunu kullanmak istiyoruz. Fakat Visual Studio içerisinde maalesef ki
+**BirUrun** adındaki değişkenle beraber **Urun** tipine ait Intellisense
+desteği gelmeyecektir. Aslında bu durumun haklı bir nedeni var. İkinci
+düğmeye basıldığında **BirUrun** adındaki değişkenin tipininin
+**Object** mi yoksa **Urun** mü olacağı belli değil. İşte tam da
+istediğimiz ortamı yaratmış olduk. Kullanacağımız nesnenin tipi belirsiz
+ve biz ona ait bazı özellikleri kullanmak istiyoruz. Bu durumda ilk
+olarak ikinci düğmeye basıldığında gerçekten **BirUrun** değişkeninin
+tipi **Urun** mü yoksa değil mi sorusunu kontrol etmemiz lazım.
+
+**[VB]**
+
+       <span style="color: blue;">If</span> <span
+style="color: blue;">TypeOf</span> (BirUrun) <span
+style="color: blue;">Is</span> Urun <span
+style="color: blue;">Then</span>
+
+ 
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">If</span>
+
+**[C\#]**
+
+        <span style="color: blue;">if</span> ((BirUrun) <span
+style="color: blue;">is</span> Urun)
+
+        {
+
+ 
+
+        }
+
+Buraya kadar her şey çok kolay. Bundan sonra eğer **IF** kontrollerimize
+olumlu sonuç dönüyorsa ilk olarak gidip nesnenin **Adi** özelliğini
+bulmamız ve ona bir değer aktarmamız gerekiyor.
+
+**[VB]**
+
+BirUrun.GetType.GetProperty(<span
+style="color: #a31515;">"Adi"</span>).SetValue(BirUrun, <span
+style="color: #a31515;">"Daron"</span>, <span
+style="color: blue;">Nothing</span>)
+
+**[C\#]**
+
+BirUrun.GetType().GetProperty(<span
+style="color: #a31515;">"Adi"</span>).SetValue(BirUrun, <span
+style="color: #a31515;">"Daron"</span>, <span
+style="color: blue;">null</span>);   
+
+Yukarıdaki kod ile elimizdeki nesnenin tipini bilmeden onun **Adi**
+adındaki özelliğini (**property**) yakalayarak değerini **Daron** olarak
+değiştiriyoruz. Kodumuzu detaylı olarak adım adım bakacak olursak ilk
+aşamada nesnenin tipini **GetType** ile alıyoruz. Sonrasında ise tipini
+yakaladığımız nesnenin **GetProperty** ile **Adi** adındaki özelliğini
+alarak **SetValue** ile söz konusu özelliğin değerini değiştiriyoruz.
+**SetValue** metodu toplam üç parametre alıyor; bunlardan ilki değer
+değişikliği yapılacak nesnenin kendisi, ikincisi yeni atanacak olan
+değer, üçüncüsü ise eğer değiştirilecek olan özellik (**property**)
+indeksli ise söz konusu indeks değeri. Bizim örneğimizde indeksli bir
+özellik olmadığı için bu parametreyi boş geçiyoruz.
+
+Değer atamamızı tamamladığımıza göre bu sefer de sıra geldi **BirUrun**
+değişkenimize ait **Uyari** metodunu çalıştırmaya. Metodumuz bize bir
+**String** döndürecek biz de onu doğrudan bir mesaj kutusu ile
+kullanıcıya göstereceğiz.
+
+**[VB]**
+
+BirUrun.GetType.InvokeMember(<span
+style="color: #a31515;">"Uyari"</span>,
+Reflection.BindingFlags.InvokeMethod, <span
+style="color: blue;">Nothing</span>, BirUrun, <span
+style="color: blue;">Nothing</span>)
+
+**[C\#]**
+
+BirUrun.GetType().InvokeMember(<span
+style="color: #a31515;">"Uyari"</span>,
+System.Reflection.BindingFlags.InvokeMethod, <span
+style="color: blue;">null</span>, BirUrun, <span
+style="color: blue;">null</span>).ToString();
+
+Reflection kullanarak türü bilinmeyen bir nesnenin bir metodunu
+çalıştırmak için **InvokeMember** metodundan faydalanmamız gerekiyor.
+**InvokeMember** aslında çok geniş kullanımı olan bir metod, biz
+şimdilik sadece bir çeşit kullanımına değineceğiz. Örneğimizde
+**InvokeMember** bir metod çalıştıracağı için ilk parametresinde
+çalıştırılacak olan metodun adını ikincisinde
+**BindingFlags.InvokeMethod** ile bir **Metod** çalıştırılacağını
+belirtiyoruz. Üçüncü parametre bizim şimdilik kullanım alanımız dışında
+kalan Binding’lerle ilgili, aynı şekilde beşinci parametre de boş
+bırakılarak geçilecek. Dördüncü parametrede ise hedef nesnemiz olan
+**BirUrun** değişkenimizi atayacağız. Böylece metodumuzu da çalıştırmış
+olduk.
+
+**Dinamik DLL Kullanımı**
+
+Kabaca Reflection’ın nasıl kullanılabildiğine dair bir örnek yaptıktan
+sonra artık sıra geldi harici bir DLL dosyasının çalışma anında
+programımıza ekleyerek içerisindeki yapıları kullanmaya. Bu çeşit bir
+işlevselliği özellikle gerçek zamanlı DLL derlemesi ile
+birleştirdiğinizde çok farklı bir dünyaya kapı açmış olacaksınız. Hedef
+olarak kullanacağımız DLL dosyasını aşağıdaki kodlardan yaratacağız.
+
+**[VB]**
+
+<span style="color: blue;">Public</span> <span
+style="color: blue;">Class</span> Deneme
+
+    <span style="color: blue;">Function</span> Metin() <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+
+        <span style="color: blue;">Return</span> <span
+style="color: #a31515;">"Çalışıyor"</span>
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Function</span>
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Class</span>
+
+**[C\#]**
+
+    <span style="color: blue;">public</span> <span
+style="color: blue;">class</span> <span
+style="color: #2b91af;">Deneme</span>
+
+    {
+
+        <span style="color: blue;">string</span> Metin()
+
+        {
+
+            <span style="color: blue;">return</span> <span
+style="color: #a31515;">"Çalışıyor"</span>;
+
+        }
+
+Yarattığımız DLL dosyasını uygulamamız ile aynı konuma yerleştirdikten
+sonra aşağıdaki kod ile DLL’imizi kullanmaya başlayabiliyoruz.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> BirAssembly <span
+style="color: blue;">As</span> Reflection.Assembly =
+Reflection.Assembly.LoadFrom(<span
+style="color: #a31515;">"ornek2.dll"</span>)
+
+**[C\#]**
+
+System.Reflection.Assembly BirAssembly =
+System.Reflection.Assembly.LoadFrom(<span
+style="color: #a31515;">"ornek2.dll"</span>);
+
+Artık yukarıda tanımladığımız Assembly üzerinden **Reflection**
+kullanarak ilerleyebiliriz. İlk olarak **Deneme** adında sınıfımızdan
+bir **instance** almamız gerekecek. Bunun için **Deneme** tipini
+bulmamız lazım.
+
+**[VB / C\#]**
+
+BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>)
+
+Assembly üzerinden modülümüzü yakalıyor sonra da **Deneme** adındaki
+tipinizi buluyoruz. Tabi tipi bulmak yeterli değil, söz konusu tipte bir
+değişken yaratmamız gerekiyor. **Activator** sınıfını kullanarak bu tip
+üzerinden bir instance yaratarak **Sinif** adında bir değişkene
+aktaracağız.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> Sinif =
+Activator.CreateInstance(BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>))   
+
+**[C\#]**
+
+<span style="color: blue;">object</span> Sinif =
+Activator.CreateInstance(BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>));
+
+Yarattığımız sınıfın maalesef özellikleri otomatik olarak gelmeyecek. O
+nedenle **Metin** adındaki metodumuzu da elle bularak çalıştırmak
+zorundayız.
+
+**[VB]**
+
+BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>).GetMethod(<span
+style="color: #a31515;">"Metin"</span>).Invoke(Sinif, <span
+style="color: blue;">Nothing</span>)
+
+**[C\#]**
+
+BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>).GetMethod(<span
+style="color: #a31515;">"Metin"</span>).Invoke(Sinif, <span
+style="color: blue;">null</span>)
+
+Yine **Assembly** üzerinden yola çıkarak bu sefer daha da ileri
+gidiyoruz. **Deneme** sınıfımızı bulduktan sonra içerisinde **Metin**
+adındaki metodumuzu buluyor ve doğrudan **Invoke** ile söz konusu metodu
+çalıştırıyoruz. **Invoke** metodu bizden iki parametre istiyor;
+bunlardan ilki ana sınıfın kendisi. Bir önceki adımda yakaladığımız
+sınıfı buraya parametre olarak aktarıyoruz. Diğeri ise bizim
+kullanmayacağımız Binding parametresi.
+
+Metin metodumuz çalıştırıldığında geriye bir String değişkeni
+döndürüyor. Bu değişkeni de bir mesaj kutusu ile kullanıcıya göstermek
+istersek uygulamamızın tam kodunun aşağıdaki şekilde sonlanması
+gerekiyor.
+
+**[VB]**
+
+<span style="color: blue;">Public</span> <span
+style="color: blue;">Class</span> Form2
+
+ 
+
+    <span style="color: blue;">Private</span> <span
+style="color: blue;">Sub</span> Button1\_Click(<span
+style="color: blue;">ByVal</span> sender <span
+style="color: blue;">As</span> System.Object, <span
+style="color: blue;">ByVal</span> e <span style="color: blue;">As</span>
+System.EventArgs) <span style="color: blue;">Handles</span>
+Button1.Click
+
+        <span style="color: blue;">Dim</span> BirAssembly <span
+style="color: blue;">As</span> Reflection.Assembly =
+Reflection.Assembly.LoadFrom(<span
+style="color: #a31515;">"ornek2.dll"</span>)
+
+ 
+
+        <span style="color: blue;">Dim</span> Sinif =
+Activator.CreateInstance(BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>))
+
+        MsgBox(BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>).GetMethod(<span
+style="color: #a31515;">"Metin"</span>).Invoke(Sinif, <span
+style="color: blue;">Nothing</span>))
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Sub</span>
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Class</span>
+
+**[C\#]**
+
+<span style="color: blue;">namespace</span> CSReflection
+
+{
+
+    <span style="color: blue;">public</span> <span
+style="color: blue;">partial</span> <span
+style="color: blue;">class</span> <span
+style="color: #2b91af;">Form2</span> : Form
+
+    {
+
+        <span style="color: blue;">public</span> Form2()
+
+        {
+
+            InitializeComponent();
+
+        }
+
+ 
+
+        <span style="color: blue;">private</span> <span
+style="color: blue;">void</span> button1\_Click(<span
+style="color: blue;">object</span> sender, EventArgs e)
+
+        {
+
+            System.Reflection.<span
+style="color: #2b91af;">Assembly</span> BirAssembly =
+System.Reflection.<span
+style="color: #2b91af;">Assembly</span>.LoadFrom(<span
+style="color: #a31515;">"ornek2.dll"</span>);
+
+ 
+
+            <span style="color: blue;">object</span> Sinif =
+Activator.CreateInstance(BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>));
+
+            MessageBox.Show(BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetType(<span
+style="color: #a31515;">"Deneme"</span>).GetMethod(<span
+style="color: #a31515;">"Metin"</span>).Invoke(Sinif, <span
+style="color: blue;">null</span>).ToString());
+
+        }
+
+    }
+
+}
+
+Böylece harici bir DLL dosyasını yükleyerek istediğimiz metodu dinamik
+olarak kullanabildik. Farklı durumlarda isterseniz bir DLL içerisinde
+tüm metod, sınıf ve özelliklerin listelerini alabilir hatta bunları LINQ
+sorguları ile tarayabilirsiniz.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> Metodlar = <span
+style="color: blue;">From</span> Gelenler <span
+style="color: blue;">In</span> BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetTypes <span
+style="color: blue;">Where</span> Gelenler.GetMethod(<span
+style="color: #a31515;">"Metin"</span>) <span
+style="color: blue;">IsNot</span> <span
+style="color: blue;">Nothing</span>
+
+**[C\#]**
+
+var Metodlar = from Gelenler <span style="color: blue;">in</span>
+BirAssembly.GetModule(<span
+style="color: #a31515;">"Ornek2.dll"</span>).GetTypes() where
+Gelenler.GetMethod(<span style="color: #a31515;">"Metin"</span>) !=
+<span style="color: blue;">null</span> select Gelenler;
+
+Örneğin yukarıdaki LINQ sorgumuz ile harici DLL dosyası içerisinde
+**Metin** adında metodu olan tüm sınıfların bir listesini alıyoruz.
+
+Hepinize kolay gelsin.
+
+

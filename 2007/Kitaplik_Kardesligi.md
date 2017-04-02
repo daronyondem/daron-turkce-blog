@@ -1,0 +1,224 @@
+---
+FallbackID: 1832
+Title: Kitaplık Kardeşliği :)
+PublishDate: 10/31/2007
+EntryID: Kitaplik_Kardesligi
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Genel
+old.EntryID: 50ea2bef-d059-42eb-93c7-ae316803a229
+---
+Özellikle yabancı bloglarda bir süredir "yeni moda" diyebileceğim bir
+akım olarak blog sahipleri kütüphanelerinin fotoğraflarını çekerek
+okudukları kitapları kısaca tanıtıyorlar. Ben de bu modayı Türkçe Blog
+dünyasına taşımak üzere kendi kitaplığımın bilgisayar kitapları
+bölümünün fotoğraflarını sizlerle paylaşacağım. Kitapları konusuna göre
+ayırmaya çalıştığım için arada İngilizce kitaplar hatta epey eski Türkçe
+kitaplar da var.
+
+![Kitaplığım Raf
+1](http://cdn.daron.yondem.com/assets/1832/31102007_1.jpg)
+
+Soldan sağa doğru kitapları sırasıyla değerlendireceğim.
+
+**Ajax In Action** kitabı adından da anlaşılacağı üzere İngilizce bir
+kitap. Kitap ağırlıklı olarak AJAX uygulamalarına yönelik taktikler
+içeriyor. Giriş seviyesine hitap eden kitabı sanırım bundan yaklaşık iki
+yıl önce almıştım.
+
+**ASP.net AJAX** Pusula Yayıncılık'tan çıkan [benim
+kitabım](PermaLink.aspx?guid=955bda47-4d8a-4544-8a11-3d416693ac8a) :)
+
+**AJAX Patterns and Best Practices**, AJAX ile ilgili İngilizce olup
+paramı ziyan ettiğimi düşündüğüm kitaplardan biri.
+
+**Foundation of Atlas** da yine İngilizce bir kitap. AJAX Extension'ın
+yayınlanmadan önceki sürümleri ile ilgili bilgiler içeren, şu an pek
+işlevsel olmayan bir kitap.
+
+**pro AJAX and the .NET Framework 2.0** kitabı adının aksine pek de
+profesyonellere yönelik bir kitap değil. Herhangi bir AJAX kitabından
+farklı bir içeriği yok.
+
+**ASP.NET AJAX Control Toolkit** kitabı Türkçe bir kitap. [Nuri
+Çankaya](http://www.nuricankaya.com/), [Burak
+Batur](http://burakbatur.blogspot.com/) ve Ömer Çelik tarafından kaleme
+alınmış. Control Toolkit ile ilgili örnekler sunan Türkiye'nin ilk AJAX
+kitabı.
+
+**Programming Atlas** yine İngilizce kitaplardan biri. Şu an için
+içeriği tamamen gereksiz olan ASP.NET AJAX Extension'ın Atlas'dan
+sonrasında değişen bir sürü eski özelliğini anlatan eski bir dost
+diyebilirim kitaba.
+
+**AJAX Hacks** yayınlandığı günlerdeki bir kaç AJAX sorununun çözümünü
+içeren toplamda 15 sayfalık içeriği hariç orijinalliği olmayan İngilizce
+bir kitap. Ama o zamanlarda o 15 sayfa için değerdi :)
+
+**Professional AJAX** gerçekten başarılı bir kitap. AJAX'ı platform
+bağımsız olarak detayları ile anlatabilen nadir İngilizce kitaplardan.
+
+**Web 2.0 Programming** adından beklediğimi bana veremeyen bir ASP.NET
+programcısının kullanabileceği pratik bilgiler ve uygulamalar içermeyen
+bir ürün.
+
+**QuickBasic 4.5** :) Hayatımın kitaplarından. Süper!
+
+**Visual Basic 4.0** tam bir Memik Yanık şaheseri. Herhalde Memik
+Yanık'ın bildiği bir konuyu birilerine anlatamama ihtimali yoktur.
+Kitabın dili gerçekten çok başarılı. Tabi bugün için artık demodu bir
+konu :)
+
+**Visual Basic .NET** [Yeliz Korkmaz](http://www.yelizkorkmaz.com/)'a
+ait başarılı bir giriş seviyesi VB kitabı. Satın aldığım dönemde "Acaba
+içinde bilmediğim bir şeyler var mıdır?" dediğim fakat sonrasında
+sanırım birkaç method bulduğum bir kitap. Tabi burada suç yazarda değil
+:) VB.NET'i üç sene kullandıktan sonra giriş seviyesi kitap alan bende.
+
+Bir huyum vardır. Eğitimlere veya seminerlere katılırken, kitap alırken
+seviyelerine pek dikkat etmem ve bilmediğim en ufak bir şeyle
+karşılaşabilirim ümidiyle ilerlerim. Sadece tek bir sayfasından
+faydalandığım kitaplar olmuştur ama bu bile yetmez mi? Tabi, daha
+fazlasını herkes ister ama bilgi o kadar değerli ki, bence bu bile
+yeter.
+
+**Kurumsal .NET Uygulamaları** [Aykut
+Taşdelen'](http://www.aykuttasdelen.net/)in kaleme aldığı gerçekten
+güzel bir eser. Türkiye'de özellikle teknik konularda yüksek seviyeli
+içerik bulmak zor. Eğer klasik .NET kitaplarından sıkıldıysanız, daha
+fazlasını arayanlara bu kitabı tavsiye edebilirim.
+
+**Visual Basic .NET 2005** bir Palmiye klasiği. Palmiye Yayıncılık'ın
+kitaplarının benim gözümde apayrı bir yeri vardır. Çok farklı bir
+kitleye hitap ediyorlar. Eğer .NET dünyasında yeni gireceksiniz hızlı
+bir giriş için tercih edebilirsiniz. Benim yine bu kitaptan yakaladığım
+birkaç metod vardı VB'de :) "*Yıllardır nasıl olmuş da görmemişim
+bunları.*" dediğim.
+
+**Object Oriented Programming with VB.NET**. Bu kapsamda kitaplığımda
+yan yana üç kitap var. Her biri farklı yayıncıların. Her kitapta da
+eksikler var. Esas mesele bu kitapların Türkçe'sine acilen Türkiye'de
+ihtiyaç var. Özellikle VB.NET programcılarının Nesne Tabanlı
+Programlama'dan haberleri yok.
+
+**ASP.NET 2.0** kitabı 1100 sayfalık İngilizce bir ASP.NET 2.0 KİTABI :)
+Kitap budur diyorum ve üzerine ekliyorum; ASP.NET 3.5 acaba ASP.NET
+2.0'ın üzerine AJAX, LINQ vs eklenince kaç sayfalık bir kitap olacak :)
+
+**ASP.NET & XML** kitabını XML'in markalaştığı yıllarda almıştım
+sanırım. Kitabın adında XML'in kullanımının belki bir nedeni de budur
+zaten. Giriş seviyesi için ASP.NET 1.1'i anlatan başarılı Türkçe bir
+kitap.
+
+**A First Look at ASP.NET 2.0** sanırım dünyadaki ilk İngilizce ASP.NET
+2.0 kitaplarından. Yanlış hatırlamıyorsam ASP.NET 2.0'ın betası
+üzerinden yazılmıştı.
+
+**ASP.NET** bir [Nuri Çankaya](http://www.nuricankaya.com/) klasiği.
+Eski bir ASP geliştiricisinin hızlıca ASP.NET'e geçişini sağlayabilecek
+ilk Türkçe ASP.NET kitabı.
+
+**ASP.NET 2005** de yine bir Palmiye Yayıncılık kitabı. Kurumun diğer
+kitaplarının artılarını taşıyor.
+
+**MCAD-MCSD** orijinal Microsoft MCAD-MCSD hazırlık kitaplarının ikinci
+cildi :) Muhteşem kitaplardır, ansiklopedi tadında.
+
+![Kitaplık Raf
+2](http://cdn.daron.yondem.com/assets/1832/31102007_2.jpg)
+
+İşte benim sevdiğim rafa geldik :)
+
+**Hacking Exposed** kitabı Ethical Hacking eğitiminde verilen başarılı
+bir güvenlik kitabı. Kitap İngilizce ve epey ağır bir içeriği var.
+
+**Flash MX 2004** :) Bana şu anda "Hey gidi günler hey!!" dedirten
+kitaplardan biri :) "Bir zamanlar Flash vardı!" desem sanırım çok
+iddialı olur :) ama Silverlight varken bir daha bu kitapları almak
+zorunda kalacağımı sanmıyorum.
+
+**Flash ActionScript** defalarca okumaya çalışmama rağmen bir türlü
+okuyamadığım İngilizceden çeviri bir kitap. Keşke öğrenebilseydim. Ya
+bende bir sorun var, ya kitapta, ya da ActionScript'in kendisinde.
+
+**Flash MX** yanlış hatırlamıyorsam bundan dört sene kadar önce bir
+Flash eğitiminde verilmişti. Açıkcası pek incelemedim :)
+
+**Yazılım Mühendisliği** ile ilgili toplamda iki kitap var. Kitapların
+kabaca aynı içeriğe sahip olduklarını söyleyebilirim. Türkiye'de
+bulunması zor akademik bilgi içeriyorlar.
+
+**Veri Yapıları ve Algoritmalar** sadece meraktan aldığım bir ders
+kitabı. Yanlış hatırlamıyorsam bir üniversitenin müfredatında vardı.
+Alıp inceledim "Ne öğretiyorlar bu çocuklara?" diye. Başarılı bir kitap,
+yani sorun bizim çocuklarda :) Tabi uygulama yapmadan kitaplar tek
+başlarına işe yaramaz, o da ayrı bir konu.
+
+**Pragmatic Programmer** MUHTEŞEM bir kitap. Bir programcının belki de
+hayatı boyunca yaptığı tüm hataları (ben dahil) tek tek okuyucunun
+yüzüne vuruyor. Kitap İngilizce, keşke birileri şu kitabı çevirse. Saçma
+sapan teknik kitapları çevirmeye çalışmaktansa bence çok daha faydalı
+bir iş yapılmış olur.
+
+**Mythical Man Month**'u maalesef daha okuyamadım :)
+
+**Rapid Development** ve **Code Complete** bence her programcının "en az
+bir kere" okuması gereken kitaplar. Belirli aralıklarla içerisindeki
+bilgilerin kaybolması olası, o nedenle tekrar tekrar okumakta fayda var
+:)
+
+**SQL Server 2005** yine [Yeliz Korkmaz](http://www.yelizkorkmaz.com/)
+imzalı başarılı bir giriş seviyesi SQL kitabı. Kitap sanırım ilk Türkçe
+SQL 2005 kitabı.
+
+**MSSQL Server** Yaşar Gözüdeli imzalı başarılı bir SQL kitabı.
+Özellikle Stored Procedure bölümlerini yeni başlayanlara tavsiye ederim.
+
+**A First Look At SQL Server 2005 for Developers** kitabı SQL Server
+2005'in Beta sürümü üzerinden hazırlanmış İngilizce bir kitap. Şu an pek
+bir geçerliliği yok.
+
+**A First Look At ADO.NET** kitabıda yine İngilizce olup ADO.NET'in 2.0
+sürümünü inceleyen Beta seviyesi bir kitap.
+
+**Pro SQL Server2005** adını hak eden SQL 2005 ile ilgili benim bugüne
+kadar karşılaştığım en geniş kaynak diyebileceğim İngilizce bir kitap.
+
+**SQL Server 2005 Integration Services** :) kitabı eğer adıyla kendini
+anlatamıyorsa benim de anlatmam burada biraz zor olacak gibi. İngilizce
+olup uzmanlara yönelik başarılı bir kitap diyelim.
+
+**Applying UML and Patterns** kitabı UML diyagramlarını gerçek hayat
+projeleri ve yazılım tasarımları ile birleştiren çok başarılı İngilizce
+bir kitap.
+
+**UML Distilled** kitabı daha çok hızlı okuyuculara UML dünyasına hızlı
+bir giriş sağlayacak olan çerez kıvamında İngilizce bir kitap.
+
+**UML Weekend Crash Course** da aynı UML Distilled gibi hızlandırılmış
+bir UML eğitimini andırıyor. Kitap İngilizce.
+
+**Web Parts and Custom Controls** kitabı aslında neredeyse tüm ASP.NET
+kitaplarında detayları bulunmayan bir dünyaya kapı açıyor ve çok geniş
+çapta bilgiler veriyor. İngilizce olan bu kitabı "*ASP.NET'i bitirdim"*
+diyen herkese tavsiye ederim.
+
+**XSLT ve XPATH** çok başarılı bir çeviri kitap. Maalesef konu o kadar
+popüler değil ve bahsedilen teknolojilerin kullanımı çok kolay sayılmaz.
+O nedenle pek ilgi görmüyor sektörde.
+
+**3DS MAX 3** :) Uzun yıllar önceki 3D modelleme heveslerimin doğumu ile
+batımı arasındaki döneme denk gelen bana eski günleri hatırlatan bir
+kitap. Kitapla ilgili yorum yapamam :) Aslında bana 3DS MAX
+öğretemediğine göre yine "ya kitapta ya bende" bir şeyler eksik, ama bu
+sefer büyük ihtimal sorun bende :)
+
+İşte böyle :) Olabildiğince kitap okumaya zaman ayırıyorum. Ama artık
+günümüzde neredeyse günde iki, üç saat nette blog yazılarını makaleleri
+okuduğumuzu düşünürsek aslında kitap okumaya da hem zaman kalmıyor hem
+de belki gerek kalmıyor. Bakalım gelecek neler getirecek.
+
+Sevgilerimle...
+
+

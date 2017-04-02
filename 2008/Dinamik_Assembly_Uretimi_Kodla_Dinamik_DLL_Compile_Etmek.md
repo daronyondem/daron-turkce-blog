@@ -1,0 +1,287 @@
+---
+FallbackID: 2193
+Title: Dinamik Assembly Üretimi (Kodla Dinamik DLL Compile Etmek)
+PublishDate: 9/22/2008
+EntryID: Dinamik_Assembly_Uretimi_Kodla_Dinamik_DLL_Compile_Etmek
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: .NET Framework 3.0, .NET Framework 3.5, ASP.NET 3.5, Silverlight 2.0, Visual Basic 2005, Visual Basic 2008, Visual Studio 2005, Visual Studio 2008, WCF, WPF, Visual Basic .NET, ASP.NET
+old.EntryID: 554d026a-ffe4-4b8c-a8d5-6e895da252e8
+---
+Bir uygulama düşünün kendini programlayabilen. Konumuz “Star Trek” veya
+“Geleceğe Dönüş” değil. Emin olun gerçek dünyadan ve yapılabileceklerden
+bahsediyorum. Uygulamalarınızın dış sistemlerle ciddi bir bağlantı
+içerisinde olduğu durumlarda bazen kendi içlerinde dış sistemlere uygun
+kodlar üreterek kullanmaları gerekebilir. Bunu bazen uygulamaların kendi
+içlerindeki yapay zeka ile yapabilecekleri gibi bazen ise başka bir dış
+kaynaktan aldıkları yeni parametrelerden yola çıkarak kendi kodlarında
+değişiklik yapabilirler. Eğer bunların hiçbiri size gerçekçi gelmiyorsa
+başka bir seçenek olarak da harici uygulamaların kullanabileceği DLL
+dosyaları yaratacak bir uygulama yazmak istediğinizde yapmanız
+gerekenlerden bahsedebiliriz. Aslında her ikisi de aynı kapıya çıkıyor.
+
+Bize dinamik olarak uygulamalar tarafından kullanılabilecek DLL
+dosyaları yaratacak bir kod lazım. Kullanacağımız nesnelerin çoğunun
+bulunduğu esas namespace **System.CodeDom.Compiler** olacak. Bunun
+haricinde C\# veya VB için ayrı ayrı uygun namespace’leri kullanmamız
+gerek. Eğer VB kodu derleyecekseniz VB sınıflarını C\# kodu
+derleyecekseniz tabi ki C\# sınıflarını kullanmalısınız. Çapraz işlem
+yaparak C\# kodunuz ile VB kodundan DLL üretme şansınız da var. Biz
+örneklerimizde C\# ile C\#’dan derleme, VB kodu ile de VB’den derleme
+yapacağız.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> KodUretici <span
+style="color: blue;">As</span> <span style="color: blue;">New</span>
+Microsoft.VisualBasic.VBCodeProvider
+
+<span style="color: blue;">Dim</span> Derleyici <span
+style="color: blue;">As</span> System.CodeDom.Compiler.CodeCompiler =
+KodUretici.CreateCompiler()
+
+ 
+
+<span style="color: blue;">Dim</span> Referanslarim <span
+style="color: blue;">As</span> <span
+style="color: blue;">String</span>() = {<span
+style="color: #a31515;">"System.dll"</span>}
+
+<span style="color: blue;">Dim</span> AssemblyAdi <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+= <span style="color: #a31515;">"Ornek.dll"</span>
+
+**[C\#]**
+
+Microsoft.CSharp.CSharpCodeProvider KodUretici = <span
+style="color: blue;">new</span> Microsoft.CSharp.CSharpCodeProvider();
+
+System.CodeDom.Compiler.ICodeCompiler Derleyici =
+KodUretici.CreateCompiler();
+
+ 
+
+String[] Referanslarim =  {<span
+style="color: #a31515;">"System.dll"</span>};
+
+String AssemblyAdi= <span style="color: #a31515;">"Ornek.dll"</span>;
+
+Kodumuzun başlangıcında ilk olarak birer **CodeProvider** nesnesi
+yaratıyoruz. Elimizdeki hazır kodu derleyecek olan nesneler olarak bu
+sınıflar VB ve C\# için farklılaşıyor. CodeProvider’lar üzerinden birer
+de derleyici nesnesi aldıktan sonra sıra geliyor derleyeceğimiz kodun
+referanslarına karar vermeye. Referansları DLL isimleri ile bir
+**String** dizisine aktarmanız şart. Windows uygulamalarında en azından
+**System.dll**’in web uygulamalarında da **System.Web.dll**’in referans
+alınmış olması gerekiyor. Son olarak üreteceğimiz DLL dosyasının adını
+da başka bir değişkene aktararak yolumuza devam edelim.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> DerlemeParametreleri <span
+style="color: blue;">As</span> <span style="color: blue;">New</span>
+System.CodeDom.Compiler.CompilerParameters(Referanslarim, AssemblyAdi)
+
+DerlemeParametreleri.GenerateExecutable = <span
+style="color: blue;">True</span>
+
+DerlemeParametreleri.GenerateInMemory = <span
+style="color: blue;">False</span>
+
+**[C\#]**
+
+System.CodeDom.Compiler.CompilerParameters DerlemeParametreleri = <span
+style="color: blue;">new</span>
+System.CodeDom.Compiler.CompilerParameters(Referanslarim, AssemblyAdi);
+
+DerlemeParametreleri.GenerateExecutable = <span
+style="color: blue;">false</span>;
+
+ DerlemeParametreleri.GenerateInMemory = <span
+style="color: blue;">false</span>;
+
+Derleme işlemini yaparken yapmamız gereken ayarlar var. Bu ayarları
+derleyicimize bir **CompilerParameters** nesnesi olarak aktaracağız.
+**DerlemeParametreleri** değişkenimizi yaratırken referanslarımızı ve
+DLL adını aktardıktan sonra özel olarak **GenerateExecutable**
+özelliğini **false** olarak ayarlıyoruz. Böylece derleyicimiz bize tek
+başına çalışabilir bir dosya yaratmaktansa bir DLL dosyası yaratacak.
+Bir sonraki adımda da **GenerateInMemory** özelliğini **false** yaparak
+yaratılacak dosyanın uygulamamız ile aynı konuma, diske yazdırılmasını
+sağlıyoruz. Aksi halde yaratılan **Assembly** sadece hafızada tutulacak
+ve diske yazılmayacaktır. Sıra geldi dinamik olarak derlemeyeceğimiz
+kodu bir değişkene aktarmaya.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> Kodum <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+= <span style="color: #6464b9;">\<</span><span
+style="color: #844646;">Kod</span><span
+style="color: #6464b9;">\></span><span style="color: #555555;">Public
+Class Deneme</span>
+
+    <span style="color: #555555;">Function Metin() As String</span>
+
+        <span style="color: #555555;">Return "Çalışıyor"</span>
+
+    <span style="color: #555555;">End Function</span>
+
+<span style="color: #555555;">End Class</span><span
+style="color: #6464b9;">\</</span><span
+style="color: #844646;">Kod</span><span
+style="color: #6464b9;">\></span>.Value
+
+**[C\#]**
+
+System.IO.StreamReader Okuyucu = <span style="color: blue;">new</span>
+System.IO.StreamReader(<span
+style="color: #a31515;">"Class1.cs"</span>);
+
+<span style="color: blue;">string</span> Kodum = Okuyucu.ReadToEnd();
+
+Okuyucu.Close();
+
+Bu noktada VB ile C\# arasında farklı işlemler yaptım. VB’de doğrudan
+yaratacağım kodu uygulamanın içerisine gömerken C\#’da derleyeceğim C\#
+kodunu harici bir **Class1.cs** dosyasından çektim. Siz kendi
+uygulamalarınızda ister bu kodları farklı dosyalardan çekin ister metin
+işlemleri ile dinamik kod yaratın. İhtiyaçlarınıza göre uygun çözümü
+üretmek tamamen size kalmış. Önemli olan tek nokta aslında bu kodlarda
+hiçbir hatanın olmaması gerektiği, aksi halde derleme işlemi
+yapılamayacaktır.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> Sonuc <span
+style="color: blue;">As</span> System.CodeDom.Compiler.CompilerResults =
+KodUretici.CompileAssemblyFromSource(DerlemeParametreleri, Kodum)
+
+**[C\#]**
+
+System.CodeDom.Compiler.CompilerResults Sonuc =
+KodUretici.CompileAssemblyFromSource(DerlemeParametreleri, Kodum);
+
+Tüm ayarlarımız tamamlandığında göre doğrudan **CodeProvider**
+nesnemizin **CompileAssemblyFromSource** metodunu kullanarak derleme
+işlemini başlatabiliriz. Tabi bu esnada daha önce hazırlamış olduğumuz
+**DerlemeParametrelerini** de metoda parametre olarak aktarıyoruz.
+Derleme işlemimizi baştan sona tamamlayan kodumuzu bir bütün olarak
+inceleyelim.
+
+**[VB]**
+
+<span style="color: blue;">Dim</span> KodUretici <span
+style="color: blue;">As</span> <span style="color: blue;">New</span>
+Microsoft.VisualBasic.VBCodeProvider
+
+<span style="color: blue;">Dim</span> Derleyici <span
+style="color: blue;">As</span> System.CodeDom.Compiler.CodeCompiler =
+KodUretici.CreateCompiler()
+
+ 
+
+<span style="color: blue;">Dim</span> Referanslarim <span
+style="color: blue;">As</span> <span
+style="color: blue;">String</span>() = {<span
+style="color: #a31515;">"System.dll"</span>}
+
+<span style="color: blue;">Dim</span> AssemblyAdi <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+= <span style="color: #a31515;">"Ornek.dll"</span>
+
+ 
+
+<span style="color: blue;">Dim</span> DerlemeParametreleri <span
+style="color: blue;">As</span> <span style="color: blue;">New</span>
+System.CodeDom.Compiler.CompilerParameters(Referanslarim, AssemblyAdi)
+
+        DerlemeParametreleri.GenerateExecutable = <span
+style="color: blue;">True</span>
+
+        DerlemeParametreleri.GenerateInMemory = <span
+style="color: blue;">False</span>
+
+ 
+
+<span style="color: blue;">Dim</span> Kodum <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+= <span style="color: #6464b9;">\<</span><span
+style="color: #844646;">Kod</span><span
+style="color: #6464b9;">\></span><span style="color: #555555;">Public
+Class Deneme</span>
+
+    <span style="color: #555555;">Function Metin() As String</span>
+
+        <span style="color: #555555;">Return "Çalışıyor"</span>
+
+    <span style="color: #555555;">End Function</span>
+
+<span style="color: #555555;">End Class</span><span
+style="color: #6464b9;">\</</span><span
+style="color: #844646;">Kod</span><span
+style="color: #6464b9;">\></span>.Value
+
+ 
+
+<span style="color: blue;">Dim</span> Sonuc <span
+style="color: blue;">As</span> System.CodeDom.Compiler.CompilerResults =
+KodUretici.CompileAssemblyFromSource(DerlemeParametreleri, Kodum)
+
+**[C\#]**
+
+Microsoft.CSharp.CSharpCodeProvider KodUretici = <span
+style="color: blue;">new</span> Microsoft.CSharp.CSharpCodeProvider();
+
+System.CodeDom.Compiler.ICodeCompiler Derleyici =
+KodUretici.CreateCompiler();
+
+ 
+
+String[] Referanslarim =  {<span
+style="color: #a31515;">"System.dll"</span>};
+
+String AssemblyAdi= <span style="color: #a31515;">"Ornek.dll"</span>;
+
+ 
+
+System.CodeDom.Compiler.CompilerParameters DerlemeParametreleri = <span
+style="color: blue;">new</span>
+System.CodeDom.Compiler.CompilerParameters(Referanslarim, AssemblyAdi);
+
+DerlemeParametreleri.GenerateExecutable = <span
+style="color: blue;">false</span>;
+
+DerlemeParametreleri.GenerateInMemory = <span
+style="color: blue;">false</span>;
+
+ 
+
+System.IO.StreamReader Okuyucu = <span style="color: blue;">new</span>
+System.IO.StreamReader(<span
+style="color: #a31515;">"Class1.cs"</span>);
+
+<span style="color: blue;">string</span> Kodum = Okuyucu.ReadToEnd();
+
+Okuyucu.Close();
+
+ 
+
+System.CodeDom.Compiler.CompilerResults Sonuc =
+KodUretici.CompileAssemblyFromSource(DerlemeParametreleri, Kodum);
+
+Dinamik olarak DLL dosyası derlemek işte bu kadar kolay. Dinamik kod
+yaratma araçları son dönemde çok popüler. Veritabanına bağlanarak
+veritabanındaki nesneleri algılayıp uygun “Veri Katmanı” kodunu dinamik
+olarak oluşturan hazır uygulamalar olduğu gibi bazı durumlarda özel
+kodlar yazmak da gerekebiliyor. Böyle bir durumda artık siz de
+uygulamalarınıza farklı kaynaklardaki şartlara uygun kodu dinamik olarak
+üretebilir ve bir DLL olarak farklı uygulamalara aktarabileceğiniz gibi
+kendi uygulamalarınızda da kullanabilirsiniz. Yarattığınız DLL dosyasını
+hemen uygulamanızda kullanmak isterseniz bu sefer dinamik olarak
+Assembly kullanımını ve Reflection konusuna eğilmenizde fayda var.
+
+Hepinize kolay gelsin.
+
+

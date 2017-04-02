@@ -1,0 +1,17 @@
+---
+FallbackID: 2986
+Title: İlk Blog Yazısından Bu Yana 10 Yıl
+PublishDate: 11/12/2015
+EntryID: Ilk_Blog_Yazisindan_Bu_Yana_10_Yil
+IsActive: True
+Section: software
+MinutesSpent: 24
+Tags: ASP.NET, Silverlight, Windows Azure
+---
+Bundan [10 yıl önce](http://daron.yondem.com/software/post/be1d28be-75f3-4c8a-bdba-20f7ff2752b0) başlamış macera :) Evet, bugün tam **10 yıl** oluyor ilk bloğumu açıp, ilk *"[Merhaba Dünya](http://daron.yondem.com/software/post/be1d28be-75f3-4c8a-bdba-20f7ff2752b0)"* diyeli :) Bu sürede tabi ki hayatımda neler, neler değişti.... Duygusallığı bir kenara bırakıp on yıl boyunca bu blogda paylaştıklarıma sayılarla bir göz atiyim istedim, malum işimiz gücümüz sayılar zaten :) 
+
+10 yılda **1231 tane blog post** atmışım. Ortalama üç günde bir bir şeyler yazmışım :) Tüm bunları **132 farklı konuda** yapmışım 10 yıl süresinde. Merak ettiğinizi biliyorum :) 10 yıl boyunca **en çok Silverlight hakkında** yazmışım, toplamda 486 post var Silverlight ile ilgili. Sonrasında **142 post ile Azure** takip ediyor, **137 post ile de ASP.NET**. Son olarak da postların içeriğini toplasam ne kadarmış bakalım dediğimde ortalama **2590 A4 sayfalık içerik** olduğunu gördüm :)
+
+Önümüzdeki 10 senede ne kadar yazarım acaba? Malum, yaşlanıyorum :) Zaman gösterecek.
+
+Kendinize çok iyi bakın. Umarım bu kadar emeğin bir ucundan size de faydam olmuştur.

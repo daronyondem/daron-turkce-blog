@@ -1,0 +1,163 @@
+---
+FallbackID: 2549
+Title: Silverlight 4 ile JPEG Kaydetmek / Encoding
+PublishDate: 2/5/2011
+EntryID: Silverlight_4_ile_JPEG_Kaydetmek_Encoding
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight 4
+old.EntryID: aa938a62-c92e-4edc-9f04-85cb79b0da56
+---
+Son iki gündür InkPresenter üzerinden ilerleyerek [ilk aşamada çizim
+özelliklerini
+inceledik](http://daron.yondem.com/tr/post/e9816163-dc3a-4765-a1a4-fd62d627bf61),
+sonrasında da [yapılan çizimlerin XML olarak kaydedilebilmesini ve geri
+yükenebilmesini
+sağladık](http://daron.yondem.com/tr/post/9ecd02b9-ebc9-49d6-a0bf-377b553f0a98).
+Bugün yine aynı InkPresenter örneği üzerinden giderek farklı bir sorunu
+çözeceğiz.
+
+**JPEG Kaydetmek?!**
+
+Belki de Silverlight'ın en önemli eksiklerinden biri Encoder ayağında
+JPEG Encoder desteğinin de olmaması. Bu konuda ilk zamanlarında pek
+çözümler bulunmasa da artık bugün Open Source Silverlight JPEG
+Encoder'ları mevcut. Bu yazımızda deneyeceğimiz şey daha önce
+InkPresenter ile yaptığımız çizim mekanizmasına çizimleri JPEG olarak
+kullanıcının kaydedebilmesini sağlamak olacak.
+
+**FJCore**
+
+Tamamen Silverlight için yazılmış bir JPEG Encoder'ı olan FJCore'u hemen
+[GoogleCode](http://code.google.com/p/fjcore/) üzerinden
+indirebilirsiniz. Kaynak kodlarını indirerek compile etmeye üşenenler
+için assembly downloadunu ayrıca sizlerle aşağıda paylaşıyorum.
+
+[FJCore - FJ.Core.DLL -04022011\_2.zip (24,96
+KB)](http://cdn.daron.yondem.com/assets/2549/04022011_2.zip)
+
+Download işlemi tamamlandıktan sonra InkPresenter projemize referans
+olarak FJ.Core.dll dosyasını eklemeyi unutmayın. Artık JPEG encoding
+yapabilir durumdayız. Ekrandaki düğmelerimizi de düzenleyerek "JPEG
+Kaydet" diye yeni bir düğme daha ekliyoruz.
+
+**[XAML]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+    <Grid x:Name="LayoutRoot" Background="White">
+       <Rectangle Stroke="Black"/>
+       <InkPresenter x:Name="InkPresent" Background="White" Margin="1"/>
+       <Button x:Name="btnNormal" Content="Normal Çiz" HorizontalAlignment="Right" 
+        VerticalAlignment="Top" Width="75" Margin="0,8,87,0"/>
+       <Button x:Name="btnKalinKirmizi" Content="Kalın Kırmızı" HorizontalAlignment="Right" 
+        VerticalAlignment="Top" Width="75" Margin="0,8,8,0"/>
+       <Button x:Name="btnSave" Content="XML Kaydet" HorizontalAlignment="Right" 
+        VerticalAlignment="Bottom" Width="75" Margin="0,0,87,8"/>
+       <Button x:Name="btnLoad" Content="XML Yükle" HorizontalAlignment="Right" 
+        VerticalAlignment="Bottom" Width="75" Margin="0,0,8,8"/>
+       <Button x:Name="btnSaveJPEG" Content="JPEG Kaydet" VerticalAlignment="Bottom" 
+        Margin="159,0,166,8"/>
+    </Grid>
+```
+
+JPEG kaydetme düğmesine basıldığında ilk yapmamız gereken
+[WritableBitmap](http://daron.yondem.com/tr/post/8b42751d-bd28-4dde-9d78-5bae5933c73b)
+ile ekrandaki InkPresenter'ın görselliğini almak. Aldığımız görseli
+sonrasında FJCore'a ileterek JPEG'e çevrilmesini isteyeceğiz.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+        void btnSaveJPEG_Click(object sender, RoutedEventArgs e)
+        {
+            WriteableBitmap bitmap = new WriteableBitmap(InkPresent, null);
+ 
+            if (bitmap != null)
+            {
+                SaveFileDialog saveDlg = new SaveFileDialog();
+                saveDlg.Filter = "JPEG Files (*.jpeg)|*.jpeg";
+                saveDlg.DefaultExt = ".jpeg";
+ 
+                if ((bool)saveDlg.ShowDialog())
+                {
+                    using (Stream fs = saveDlg.OpenFile())
+                    {
+                        SaveToFile(bitmap, fs);
+                    }
+                }
+            }
+        }
+```
+
+Gördüğünüz üzere **WritableBitmap** kullanımı epey kolay. Kodumuz
+içerisinde bir **SaveFileDialog** açarak kullanıcının JPEG dosyasını
+bilgisayarına kaydetmesini sağlıyoruz. Kodumuz içerisinde kullandığımız
+SaveToFile metodu ile eldeki Bitmap'in **FJCore'a** uygun şekilde
+iletilmesi için gerekli transformasyonları ve esas encoding işleminin
+yapılmasını üstleniyor.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white; margin-left: 40px;"}
+private static void SaveToFile(WriteableBitmap bitmap, Stream fs)
+{
+    int width = bitmap.PixelWidth;
+    int height = bitmap.PixelHeight;
+    int bands = 3;
+    byte[][,] raster = new byte[bands][,];
+ 
+    for (int i = 0; i < bands; i++)
+    {
+        raster[i] = new byte[width, height];
+    }
+ 
+    for (int row = 0; row < height; row++)
+    {
+        for (int column = 0; column < width; column++)
+        {
+            int pixel = bitmap.Pixels[width * row + column];
+            raster[0][column, row] = (byte)(pixel >> 16);
+            raster[1][column, row] = (byte)(pixel >> 8);
+            raster[2][column, row] = (byte)pixel;
+        }
+    }
+ 
+    FluxJpeg.Core.ColorModel model = new FluxJpeg.Core.ColorModel 
+        { colorspace = FluxJpeg.Core.ColorSpace.RGB };
+    FluxJpeg.Core.Image img = new FluxJpeg.Core.Image(model, raster);
+ 
+    MemoryStream stream = new MemoryStream();
+    FluxJpeg.Core.Encoder.JpegEncoder encoder = new 
+        FluxJpeg.Core.Encoder.JpegEncoder(img, 100, stream);
+    encoder.Encode();
+ 
+    stream.Seek(0, SeekOrigin.Begin);
+ 
+    byte[] binaryData = new Byte[stream.Length];
+    long bytesRead = stream.Read(binaryData, 0, (int)stream.Length);
+    fs.Write(binaryData, 0, binaryData.Length);
+}
+```
+
+Bu kodların çok detaylarına girmeyeceğim :) nedeni ise hiç değiştirme
+ihtiyacı duymayacağınızdan emin olmam.
+
+Eh artık uygulamamızın JPEG kaydetme özelliği de var. Unutmayın ki bu
+şekilde Silverlight içerisindeki herhangi bir kontrlün görselliğini
+alarak kullanıcıya kaydetme şansı verebilirsiniz. Tabi diğer yandan
+isterseniz bu JPEG'leri sunucuya gönderip orada kaydetmek de mümkün
+olacaktır.
+
+[![Get Microsoft
+Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)](http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50826.0)\
+*Çizim yapıp JPEG kaydetmeyi deneyin!*
+
+Örnek kodları aşağıdan indirebilirsiniz;
+
+[Örnek Proje Kaynak Kodları - 04022011\_1.zip (363,64
+KB)](http://cdn.daron.yondem.com/assets/2549/04022011_1.zip)
+
+Hepinize kolay gelsin.
+
+

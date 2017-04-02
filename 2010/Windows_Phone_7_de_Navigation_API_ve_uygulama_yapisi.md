@@ -1,0 +1,347 @@
+---
+FallbackID: 2517
+Title: Windows Phone 7'de Navigation API ve uygulama yapısı.
+PublishDate: 5/4/2010
+EntryID: Windows_Phone_7_de_Navigation_API_ve_uygulama_yapisi
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight 4, Windows Phone 7, Windows Phone
+old.EntryID: 0a36608a-7227-4374-aea3-6e7e31061a4a
+---
+Bu makalemizde Windows Phone 7 içerisinde uygulama geliştirirken
+kullanabileceğimiz hazır gelen navigasyon sistemine göz atacağız. Fakat
+bunun öncesinde tavsiyem benzerliklerinden dolayı Silverlight 3.0
+içerisindeki [Navigation
+API](http://daron.yondem.com/tr/post/50b7d2c8-13f5-4f82-b458-4f887a538448)'yi
+bir incelemeniz. Sonrasında WP7 tarafında devam edebiliriz.
+
+![WP7 Kullanıcı Arayüzü
+Yapısı](http://cdn.daron.yondem.com/assets/2517/03052010_3.png)\
+*WP7 Kullanıcı Arayüzü Yapısı*
+
+Her yeni yaratılan WP7 uygulamasında root element bir
+**PhoneApplicationFrame** olarak gelir. Bu çerçeve içerisinde birden çok
+sayfa farklı navigasyonlarda rahatlıkla gösterilebilir. Bu yapı kendi
+içerisinde SystemTray ve ApplicationBar'ı da sunar. Ayrıca PhonePage
+olarak geçen uygulama içerisindeki her sayfa da bu Frame tarafından
+gösterilir. Sayfalar ile kabaca iki bölüme ayrılır. Sayfa başlığının
+bulunduğu Title kısmı ve sayfanın tüm iç kontrollerinin bulunacağı
+Content bölümü.
+
+**[XAML]**
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">Application</span>
+
+   <span style="color: red;"> x</span><span
+style="color: blue;">:</span><span style="color: red;">Class</span><span
+style="color: blue;">="WindowsPhoneApplication4.App"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml/presentation"</span>   
+  
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">x</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span
+style="color: red;">system</span><span
+style="color: blue;">="clr-namespace:System;assembly=mscorlib"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">mpc</span><span
+style="color: blue;">="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span
+style="color: red;">phoneNavigation</span><span
+style="color: blue;">="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Navigation"\></span>
+
+ 
+
+<span style="color: #a31515;">    </span><span
+style="color: green;">\<!--RootFrame points to and loads the first page
+of your application--\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Application.RootVisual</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">phoneNavigation</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">PhoneApplicationFrame</span><span
+style="color: red;"> x</span><span style="color: blue;">:</span><span
+style="color: red;">Name</span><span
+style="color: blue;">="RootFrame"</span><span style="color: red;">
+Source</span><span style="color: blue;">="/MainPage.xaml"/\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">Application.RootVisual</span><span
+style="color: blue;">\></span>
+
+Yukarıda gördüğünüz kod herhangi bir WP7 uygulamasının App.XAML
+dosyasında ilk yaratıldığında bulunan kod. Kod içerisinde uygulamanın
+RootVisual'ı olarak bir PhoneApplicationFrame atandığını görebiliyoruz.
+Söz konusu **PhoneApplicationFrame** Microsoft.Phone.Controls.Navigation
+assembly'si altında **Microsoft.Phone.Controls** namespace'inde
+bulunuyor. Bahsettiğimiz namespace zaten **phoneNavigation** adında bir
+XML namespace olarak XAML dosyasında tanımlanmış durumda.
+PhoneAppFrame'in ilk açılıştaki **Source** değeri uygulama ilk
+açıldığında gösterilecek sayfayı yani **PhoneApplicationPage'i**
+hedefliyor. Söz konusu tanımlama XAP dosyasının iç yapısına ait bir Uri.
+Tam da bu noktada eğer istersek farklı UriMapping kuralları da
+tanımlayabiliyoruz ve buradaki Navigation API'yi aynı normal Silverlight
+uygulamalarında olduğu gibi kullanabiliyoruz.
+
+**[XAML]**
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">Application</span>
+
+   <span style="color: red;"> x</span><span
+style="color: blue;">:</span><span style="color: red;">Class</span><span
+style="color: blue;">="WindowsPhoneApplication4.App"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml/presentation"</span>   
+  
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">x</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span
+style="color: red;">system</span><span
+style="color: blue;">="clr-namespace:System;assembly=mscorlib"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">mpc</span><span
+style="color: blue;">="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"</span>
+
+   <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span
+style="color: red;">phoneNavigation</span><span
+style="color: blue;">="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Navigation"</span>
+
+   **** <span style="color: red;"> **xmlns**</span><span
+style="color: blue;">**:**</span><span
+style="color: red;">**nav**</span><span
+style="color: blue;">**="clr-namespace:System.Windows.Navigation;assembly=Microsoft.Phone.Controls.Navigation"\>**</span>
+
+ 
+
+<span style="color: #a31515;">    </span><span
+style="color: green;">\<!--RootFrame points to and loads the first page
+of your application--\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">Application.RootVisual</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">phoneNavigation</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">PhoneApplicationFrame</span><span
+style="color: red;"> x</span><span style="color: blue;">:</span><span
+style="color: red;">Name</span><span
+style="color: blue;">="RootFrame"</span><span style="color: red;">
+Source</span><span style="color: blue;">="/MainPage.xaml"\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">phoneNavigation</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">PhoneApplicationFrame.UriMapper</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">                </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">nav</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">UriMapper</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">                    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">nav</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">UriMapper.UriMappings</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">                        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">nav</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">UriMapping</span><span style="color: red;">
+Uri</span><span style="color: blue;">="/urun/{ID}"</span><span
+style="color: red;"> MappedUri</span><span
+style="color: blue;">="/Sayfalar/Page1.xaml?ID={ID}"/\></span>
+
+<span style="color: #a31515;">                    </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">nav</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">UriMapper.UriMappings</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">                </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">nav</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">UriMapper</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">phoneNavigation</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">PhoneApplicationFrame.UriMapper</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">phoneNavigation</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">PhoneApplicationFrame</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">Application.RootVisual</span><span
+style="color: blue;">\></span>
+
+Yukarıdaki XAML kodu içerisinde önemli birkaç nokta var. Bunlardan ilki
+XAML NameSpace olarak tanımladığımız **nav** namespace'i. NAV
+NameSpace'i de yine Microsoft.Phone.Controls.Navigation assembly'si
+içerisinde fakat bu sefer **System.Windows.Navigation** altında gelen
+sınıfları kullanmanız gerekiyor. İstediğimiz şey bizim PhoneAppFrame
+için bir UriMapper tanımlamak. Böylece uygulama içerisinde vereceğimiz
+farklı linkler doğrudan XAP dosyası içerisinde path'lere (Uri'lere)
+dönüşebilecek ve uygun XAML dosyası (PhoneAppPage) sahneye gerekli
+parametrelerle getirilebilecek.
+
+Örneğimizde sadece bir adet mapping var. Herhangi bir şekilde
+**/urun/1** veya **/urun/2** gibi bir adrese yönlendirme yapıldığında
+söz konusu sondaki ID'yi alarak XAP dosyası içerisinde **Sayfalar**
+klasöründe bulunan **Page1.XAML** adındaki bir dosyaya ID parametresi
+olarak gönderiyoruz. Yazım esnasında {Degisken} şeklinde tanımladığınız
+her deyim aslında birer local değişken gibi davranarak sizin gelen
+path'den bir değeri alarak yarattığınız hedef path'e aktarmnızı
+sağlıyor. Bu şekilde tanımlanan Mapping'ler kullandığınız PhoneAppFrame
+içerisindeki tüm navigasyonlarda otomatik olarak uygulanacaktır.
+
+![Sayfalar klasörü ve içerisindeki
+View'lerimiz....](http://cdn.daron.yondem.com/assets/2517/03052010_1.png)\
+*Sayfalar klasörü ve içerisindeki View'lerimiz....*
+
+Tabi bu noktaya kadar biz ne Sayfalar klasörü yarattık ne de içinde
+Page1.xaml adında bir dosya var. O nedenle şimdi gelin XAP içerisinde
+bir Sayfalar klasörünü yukarıdaki ekran görüntüsündeki gibi yaratalım ve
+içerisine de yeni bir "Windows Phone Portrait Page" ekleyelim.
+
+![Uygulamamız yeni bir Page
+ekliyoruz.](http://cdn.daron.yondem.com/assets/2517/03052010_2.png)\
+*Uygulamamız yeni bir Page ekliyoruz.*
+
+Eklediğimiz bu sayfa bizim daha önce App.XAML içerisinde tanımladığımız
+UriMapper'daki kurallar sayesinde çağrılacak. Hatırlarsanız mapping
+kuralı içerisinde **Sayfalar/Page1.xaml?ID={ID}** demiştik ve {ID}
+yerine de mapping esnasından uygun değer yerleştirilecekti. Peki
+Page1.XAML nasıl olacak da bu ID değerine ulaşacak. Her zamanki gibi
+Navigation API ile beraber gelen sistemi kullanacağız.
+
+**[C\#]**
+
+        <span style="color: blue;">void</span> Page1\_Loaded(<span
+style="color: blue;">object</span> sender, RoutedEventArgs e)
+
+        {
+
+            ListName.Text = <span
+style="color: blue;">this</span>.NavigationContext.QueryString[<span
+style="color: #a31515;">"ID"</span>].ToString();
+
+        }
+
+Yukarıda gördüğünüz kod **Page1.XAML** içerisinde gelen ID parametresini
+yakalamanın yolu. Normal bir ASP.NET uygulamasını QueryString almaktan
+pek farklı değil. Artık sayfa içerisinde gelen parametreye göre farklı
+bilgiler gösterebilir, işlemler yapabilirsiniz. Şimdilik örneğimizde
+sadece gelen ID'yi ekrana yansıtıyoruz ki test edebilelim.
+
+Mapping sistemimiz hazır, hedef sayfamız hazır ve kendisine gelen
+parametreyi dinliyor. Son adım olarak ana sayfada bu hedef sayfaya link
+vermek kaldı.
+
+**[XAML]**
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">Grid</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Name</span><span
+style="color: blue;">="ContentGrid"</span><span style="color: red;">
+Grid.Row</span><span style="color: blue;">="1"\></span>
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">HyperlinkButton</span><span style="color: red;">
+Content</span><span style="color: blue;">="HyperlinkButton"</span>
+
+                            <span style="color: red;">
+Height</span><span style="color: blue;">="30"</span><span
+style="color: red;"> HorizontalAlignment</span><span
+style="color: blue;">="Left"</span>
+
+                            <span style="color: red;">
+Margin</span><span style="color: blue;">="230,217,0,0"</span><span
+style="color: red;"> Name</span><span
+style="color: blue;">="hyperlinkButton1"</span>
+
+                            <span style="color: red;">
+VerticalAlignment</span><span style="color: blue;">="Top"</span><span
+style="color: red;"> Width</span><span
+style="color: blue;">="200"</span>
+
+                            <span style="color: red;">
+NavigateUri</span><span style="color: blue;">="/urun/1"/\></span>
+
+<span style="color: blue;">\</</span><span
+style="color: #a31515;">Grid</span><span style="color: blue;">\></span>
+
+Kodumuzda basit bir **HyperlinkButton** kullanarak tek yapmamız gereken
+**NavigateUri** özelliğine istediğimiz Uri'yi vermek. Örneğimizde
+**/Urun/1** adresini verdiğimiz bu adres **UriMapper** tarafından
+**/Sayfalar/Page1.xaml?ID=1** şekline çevrilecek ve uygulama ekranında
+Page1.XAML'ı **1** ID değerini almış olarak göreceğiz. Eğer bu
+yönlendirme işlemini doğrudan bir kod ile yapmak isterseniz aşağıdaki
+gibi yine **NavigationService** üzerinden **Navigate** metodunu
+kullanarak Frame'i yönlendirebilirsiniz.
+
+**[C\#]**
+
+        <span style="color: blue;">private</span> <span
+style="color: blue;">void</span> button1\_Click(<span
+style="color: blue;">object</span> sender, RoutedEventArgs e)
+
+        {
+
+            <span
+style="color: blue;">this</span>.NavigationService.Navigate(<span
+style="color: blue;">new</span> Uri(<span
+style="color: #a31515;">"/urun/2"</span>, UriKind.Relative));
+
+        }
+
+Hepinize kolay gelsin.
+
+

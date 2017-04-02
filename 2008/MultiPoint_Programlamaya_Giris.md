@@ -1,0 +1,372 @@
+---
+FallbackID: 2267
+Title: MultiPoint Programlama'ya Giriş
+PublishDate: 12/6/2008
+EntryID: MultiPoint_Programlamaya_Giris
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: WPF, MultiPoint SDK
+old.EntryID: 957721ed-ace9-454e-8294-ebb5839317e9
+---
+Makalemize ilk olarak MultiPoint programlamanın ne olduğunu tanımlayarak
+başlayalım. Bugün bilgisayarlarımızda alıştığımız sistem sadece tek bir
+Pointer / İmleç kontrol etmeye dayanır. Örneğin bilgisayarınıza iki fare
+bile bağlasanız aslında her ikisi de aynı imleci kontrol eder. Oysa
+geleceğe baktığımızda artık birden çok Pointer'ın bulunduğu sistemlere
+doğru ilerliyoruz hatta birden çok imlecin tabi ki farklı kullanıcılar
+tarafından kullanıldığını da görebiliyoruz. Özellikle i-Phone ile
+popülerleşen Surface Programming mantığına kısmen yakın olsa da
+MultiPoint programlamada her bir Point'in kesinlikle ayrı kimliklere ait
+olduğu varsayılır. Bu varsayımla en azından hangi noktaların hangi
+kimliğe ait olduğunu bulma gibi bir dertlerle uğraşmaya gerek kalmıyor.
+
+Özetle bu yazımızda amaçladığımız şey bilgisayarımıza bağlı farelerin
+farklı imleçler şeklinde ekrana yansımasını sağladıktan sonra
+oluşturacağımız bir düğme kontrolüne de hangi kullanıcının tıkladığını
+algılayabilecek kodu yazmak.
+
+**MultiPoint SDK**
+
+Windows ortamında .NET ile MultiPoint uygulamaları geliştirmek
+istiyorsanız donanımla doğrudan uğraşmamak adına işinizi
+kolaylaştırabilmek için Microsoft tarafından bir SDK paketi yayınlanmış
+durumda. MultiPoint SDK olarak geçen paketi bilgisayarınıza
+yüklediğimizde projelerimizde kullanacağımız kütüphaneleri de edinmiş
+oluyoruz.
+
+<http://www.microsoft.com/downloads/details.aspx?FamilyID=a137998b-e8d6-4fff-b805-2798d2c6e41d&displaylang=en>
+
+**Yeni bir MultiPoint projesi yaratalım.**
+
+Visual Studio içerisinde yeni bir WPF projesi yaratalım ve MultiPoint
+kütüphanelerini referans olarak ekleyelim. MultiPoint DLL'lerini
+doğrudan MultiPoint'in yüklendiği klasörün içinde Bin klasöründe
+bulabilirsiniz. DLL'lerin yanı sıra yarattığımız projeye sağ tuş
+tıklayarak "Add Existing Item" diyip yine Bin klasöründeki
+**Microsoft.MultiPoint.MultiPointSDK.dll.config** dosyasını de
+eklemeliyiz. Artık her şey hazır, sıra geldi kodlamaya.
+
+İlk olarak uygulamamız için MultiPointSDK'dan bir Instance almamız
+gerekiyor. Söz konusu değişkenin uygulama genelinde kullanılabilmesi
+için **Application.xaml'**ın arkasında tanımlanmasında fayda var.
+
+**[VB]**
+
+<span style="color: blue;">Class</span> Application
+
+ 
+
+    <span style="color: blue;">Public</span> <span
+style="color: blue;">Shared</span> MultiPointObject <span
+style="color: blue;">As</span>
+Microsoft.MultiPoint.MultiPointSDK.MultiPointSDK =
+Microsoft.MultiPoint.MultiPointSDK.MultiPointSDK.GetInstance
+
+ 
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Class</span>
+
+**[C\#]**
+
+<span style="color: blue;">using</span>
+Microsoft.MultiPoint.MultiPointSDK;
+
+ 
+
+<span style="color: blue;">class</span> <span
+style="color: #2b91af;">Application</span>
+
+{
+
+    <span style="color: blue;">public</span> <span
+style="color: blue;">static</span> MultiPointSDK MultiPointObject =
+MultiPointSDK.GetInstance;
+
+}
+
+Application.xaml'ın arkasında yukarıdaki kodumuzu yazdıktan sonra WPF
+uygulamamızın ana penceresine geçerek **MultiPointObject** değişkenimizi
+kullanabiliriz.
+
+**[VB]**
+
+Application.MultiPointObject.RegisterMouseDevice()
+
+Application.MultiPointObject.CurrentWindow = <span
+style="color: blue;">Me</span>
+
+Application.MultiPointObject.DrawMouseDevices()
+
+MultiPointSDK.SystemCursorPosition = <span
+style="color: blue;">New</span> Point(<span
+style="color: blue;">Me</span>.Left + 10, <span
+style="color: blue;">Me</span>.Top + 10)
+
+MultiPointSDK.HideSystemCursor()
+
+**[C\#]**
+
+Application.MultiPointObject.RegisterMouseDevice();
+
+Application.MultiPointObject.CurrentWindow = <span
+style="color: blue;">this</span>;
+
+Application.MultiPointObject.DrawMouseDevices();
+
+MultiPointSDK.SystemCursorPosition = <span
+style="color: blue;">new</span> Point(<span
+style="color: blue;">this</span>.Left + 10, <span
+style="color: blue;">this</span>.Top + 10);
+
+MultiPointSDK.HideSystemCursor();
+
+Bir sonraki adımda WPF uygulamamızın ana ekranında Page.Load event'ı
+içerisinde yukarıdaki kodları yazıyoruz. Böylece o an sisteme bağlı
+fareleri algılayarak ekrana getirebiliyoruz. Bu işlemi yaparken normal
+imleci de görünmez hale getiriyoruz. Aslında MultiPoint API'ları bizim
+yerimize donanım olarak var olan her bir fare için ayrı ayrı imleçler
+yaratıyor. Sistemde o an var olan tüm farelerin bir listesini
+**Application.MultiPointObject.MouseDeviceList** dizisinde bulabilir ve
+her bir **MultiPointMouseDevice** için ayrı ayrı **DeviceVisual**
+tanımlayarak imleçleri değiştirebilirsiniz.
+
+**Kendi kontrollerimizi yaratmamız gerek....**
+
+Aslında sıfırdan kontrol yaratmaktan bahsetmiyoruz fakat maalesef ki
+hali hazırdaki WPF kontrollerinin hiçbiri **MultiPoint** desteklemiyor.
+Yani hiçbiri farklı imleçler ve onların kimliklerinden haberdar
+olamıyor. Bu nedenle bizim kendi kontrollerimizi hazırlamamız gerekecek.
+Bu kontrolleri yaratırken **IMultiPointMouseEvents** ve
+**IMultiPointGenericDeviceEvents** interfacelerini implemente edersek
+aslında çoğu işlemi yine MultiPoint kütüphanelerine paslamış oluyoruz.
+Gelin bir Button yaratarak nasıl ilerleyebileceğimizi görelim.
+
+**[VB]**
+
+<span style="color: blue;">Public</span> <span
+style="color: blue;">Class</span> MultiPointColorButton
+
+    <span style="color: blue;">Inherits</span>
+System.Windows.Controls.Button
+
+    <span style="color: blue;">Implements</span> IMultiPointMouseEvents
+
+    <span style="color: blue;">Implements</span>
+IMultiPointGenericDeviceEvents
+
+ 
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Class</span>
+
+**[C\#]**
+
+<span style="color: blue;">public</span> <span
+style="color: blue;">class</span> <span
+style="color: #2b91af;">MultiPointColorButton</span> :
+System.Windows.Controls.Button, IMultiPointMouseEvents,
+IMultiPointGenericDeviceEvents
+
+{
+
+}
+
+Yukarıdaki kodları yeni yarattığınız bir VB veya C\# dosyasına
+yapıştırabilirsiniz. Aslında işlemler çok basit; sistemde tanımlı
+herhangi bir kontrol olarak Button kontrolünü alıp MultiPoint
+kütüphanelerinden gerekli arayüzleri dahil ediyoruz. Böylece otomatik
+olarak birçok yeni event tanımlanmış oluyor. İkinci adımda işin biraz
+karışık kısmına doğru geçiş yapacağız. MultiPoint kütüphanesi ile gelen
+eventları her bir fare cihazı için ayrı ayrı oluşturuluyor bizim bunları
+doğru bir şekilde ayrı bir genel geçer eventlar tanımlayarak onlara
+bağlamamız gerek.
+
+**[VB]**
+
+    <span style="color: blue;">Public</span> <span
+style="color: blue;">Custom</span> <span
+style="color: blue;">Event</span> CustomClick <span
+style="color: blue;">As</span> RoutedEventHandler
+
+        <span style="color: blue;">AddHandler</span>(<span
+style="color: blue;">ByVal</span> value <span
+style="color: blue;">As</span> RoutedEventHandler)
+
+            MultiPointMouseEvents.AddMultiPointMouseDownHandler(<span
+style="color: blue;">Me</span>, value)
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">AddHandler</span>
+
+        <span style="color: blue;">RemoveHandler</span>(<span
+style="color: blue;">ByVal</span> value <span
+style="color: blue;">As</span> RoutedEventHandler)
+
+            MultiPointMouseEvents.RemoveMultiPointMouseDownHandler(<span
+style="color: blue;">Me</span>, value)
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">RemoveHandler</span>
+
+        <span style="color: blue;">RaiseEvent</span>(<span
+style="color: blue;">ByVal</span> sender <span
+style="color: blue;">As</span> <span style="color: blue;">Object</span>,
+<span style="color: blue;">ByVal</span> e <span
+style="color: blue;">As</span> System.Windows.RoutedEventArgs)
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">RaiseEvent</span>
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Event</span>
+
+**[C\#]**
+
+    <span style="color: blue;">public</span> <span
+style="color: blue;">event</span> RoutedEventHandler CustomClick {
+
+        <span style="color: blue;">add</span> {
+MultiPointMouseEvents.AddMultiPointMouseDownHandler(<span
+style="color: blue;">this</span>, <span
+style="color: blue;">value</span>); }
+
+        <span style="color: blue;">remove</span> {
+MultiPointMouseEvents.RemoveMultiPointMouseDownHandler(<span
+style="color: blue;">this</span>, <span
+style="color: blue;">value</span>); }
+
+    }
+
+Yukarıdaki kodlarda kendi tanımladığımız eventların ataçlanması ve
+detaçlanması noktasında yapılacak işlemleri de biz belirliyoruz ve
+elimizde **MultiPoint** kütüphanesinden gelen metodları kullanıyoruz.
+Kodumuzda da görebileceğiniz gibi MultiPoint ile kullanılabilecek her
+durum için ayrı ayrı event bağlama metodları **MultiPointMouseEvents**
+sınıfı altında bulunuyor. Biz şimdilik Button kontrolümüze sadece
+MultiPoint için **Click** event'ını tanımlamış olduk. Kullanacağınız tüm
+event'ları bu şekilde tanımlamak zorundasınız.
+
+**Peki nasıl kullanacağız?**
+
+İsterseniz kod tarafında otomatik olarak bu kontrollerden yaratıp
+uygulamanıza ekleyebilirsiniz. Eğer XAML tarafında yarattığımız bu
+**Button** kontrolünü kullanmak isterseniz XAML'da uygulamanızın XML
+NameSpace'larını yaratmanız gerek. Bir anlamda XAML tarafına kodumuzu
+"import" etmek olarak tanımlayabiliriz bu işlemi.
+
+**[XAML]**
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">Window</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Class</span><span
+style="color: blue;">="Window1"</span>
+
+  <span style="color: red;"> xmlns</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml/presentation"</span>
+
+  <span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">x</span><span
+style="color: blue;">="http://schemas.microsoft.com/winfx/2006/xaml"</span>
+
+** ** <span style="color: red;"> **xmlns**</span><span
+style="color: blue;">**:**</span><span
+style="color: red;">**Daron**</span><span
+style="color: blue;">**="clr-namespace:MPP"**</span>
+
+  <span style="color: red;"> Title</span><span
+style="color: blue;">="MultiPointPaint"</span><span style="color: red;">
+Height</span><span style="color: blue;">="480"</span><span
+style="color: red;"> Width</span><span
+style="color: blue;">="640"</span><span style="color: red;"> </span>
+<span style="color: blue;">\></span>
+
+Yukarıda gördüğünüz kod yarattığımız uygulamanın ana penceresinin XAML
+kodunun başlangıcı. Burada ben Daron adında bir XML namespace yaratarak
+onu da arka planda adı MPP olan uygulamamın ana sınıfına bağladım. Zaten
+tüm bu kodlar otomatik olarak Intellisense içerisinde geliyor.
+
+**[XAML]**
+
+<span style="color: #a31515;">    </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">**Daron**</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">**MultiPointColorButton**</span><span
+style="color: red;"> Background</span><span
+style="color: blue;">="\#FF000000"</span><span style="color: red;">
+Content</span><span style="color: blue;">="Exit"</span><span
+style="color: red;"> x</span><span style="color: blue;">:</span><span
+style="color: red;">Name</span><span
+style="color: blue;">="btnExit"</span><span style="color: red;">
+VerticalAlignment</span><span style="color: blue;">="Center"</span><span
+style="color: red;"> HorizontalAlignment</span><span
+style="color: blue;">="Center"</span><span style="color: red;">
+Width</span><span style="color: blue;">="50"/\></span>
+
+Bir önceki adımda kodunu yazdığımız ve adını da
+**MultiPointColorButton** verdiğimiz düğmemizi XAML tarafında yukarıdaki
+şekilde kullanabiliyoruz. Eğer XML NameSpace tanımını doğru yaptıysanız
+XAML kodları içerisinde de NameSpace'in adını yazdıktan sonra
+içerisindeki bütün kontrollerin listesi Intellisense'de görebilirsiniz.
+
+Düğmemizi de yarattığımıza göre son olarak code-behind tarafına geçip
+daha önce tanımladığımız **CustomClick** adındaki özel event'ı
+kullanarak düğmeye tıklayan imleçleri ve kullanıcıları algılayabiliriz.
+
+**[VB]**
+
+<span style="color: blue;">Private</span> <span
+style="color: blue;">Sub</span> Color\_CustomClick(<span
+style="color: blue;">ByVal</span> sender <span
+style="color: blue;">As</span> <span style="color: blue;">Object</span>,
+<span style="color: blue;">ByVal</span> e <span
+style="color: blue;">As</span> System.Windows.RoutedEventArgs)
+
+        <span style="color: blue;">Dim</span> MyDeviceInfo <span
+style="color: blue;">As</span> DeviceInfo = <span
+style="color: blue;">CType</span>(e,
+MultiPointMouseEventArgs).DeviceInfo
+
+        <span style="color: blue;">Dim</span> MyMultiPointMouseDevice
+<span style="color: blue;">As</span> MultiPointMouseDevice = <span
+style="color: blue;">CType</span>(MyDeviceInfo.DeviceVisual,
+MultiPointMouseDevice)
+
+        MessageBox.Show(MyMultiPointMouseDevice.DeviceId)
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Sub</span>
+
+**[C\#]**
+
+<span style="color: blue;">private</span> <span
+style="color: blue;">void</span> Color\_CustomClick(<span
+style="color: blue;">object</span> sender,
+System.Windows.RoutedEventArgs e)
+
+{
+
+    DeviceInfo MyDeviceInfo = ((MultiPointMouseEventArgs)e).DeviceInfo;
+
+    MultiPointMouseDevice MyMultiPointMouseDevice =
+(MultiPointMouseDevice)MyDeviceInfo.DeviceVisual;
+
+    MessageBox.Show(MyMultiPointMouseDevice.DeviceId);
+
+}
+
+Kod içerisinde de görebildiğiniz üzere aslında event-listener'lara gelen
+RoutedEventArgs'ın kendisi bir **MultiPointMouseEventArgs**. Biz bu
+parametre üzerinden **DeviceInfo'nın** **DeviceVisual'ını**
+**MultiPointMouseDevice** olarak alabiliyoruz. Sonuç olarak bu değişken
+üzerinden de **DeviceID** geliyor. Tahmin edebileceğiniz gibi sisteme
+bağlı her cihazın kendine özel bir **DeviceID'si** var ve biz de bu
+ID'ler üzerinden imleçlerin kimliklerini ayırt edebiliyoruz. Artık
+gerisi sizin hayal gücünüze kalmış ;)
+
+Hepinize kolay gelsin.
+
+

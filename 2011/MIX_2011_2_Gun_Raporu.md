@@ -1,0 +1,139 @@
+---
+FallbackID: 2558
+Title: MIX 2011 2. Gün Raporu
+PublishDate: 4/15/2011
+EntryID: MIX_2011_2_Gun_Raporu
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Windows Phone 7, Silverlight 5, Kinect, Surface, Windows Phone
+old.EntryID: 99736c98-eba4-4182-a4f9-0a108b0782a5
+---
+Dün MIX2011'in lk gün duyurularını sizlerle paylaşmıştım. Şimdi de geldi
+sıra ikinci güne. Tahmin ettiğim üzere ikinci gün KeyNote çok daha
+heyecanlı oldu. WP7, SL5 gibi top konuların hepsi ikinci güne
+saklanmıştı. Aslında bu durum ikinci gün KeyNote'unun DJ performansı ile
+başlamasından bile belliydi :) Birinci gün böyle bir hareket yoktu :)
+
+![MIX 2011 Gün 2 KeyNote
+başlıyor...](http://cdn.daron.yondem.com/assets/2558/13042011_1.jpg)\
+*MIX 2011 Gün 2 KeyNote başlıyor...*
+
+Güne hemen Windows Phone 7 ile başladık. Mango kod adı ile adlandırılan
+ve bu yılın sonuna doğru gelecek olan update ana konumuzdu. Update ile
+beraber ilk defa birçok şey alenen duyuruldu :) Hemen haberini veriyim,
+Mango update'inde telefona gelecek tüm özelliklerin developer araçları
+bir ay içerisinde çıkmış olacak.
+
+Mango update'inde KeyNote içerisinde bahsedilen ilk şey WP7 arayüzünde
+tüm uygulamaların listelendiği kısımda arama yapılabilmesi oldu. Basit
+ve önemli bir eksikti bu durum. Giderileceğini görmek güzel oldu.
+Marketplace arama ekranların kategoriler Pivot kontrolü olarak geliyor.
+Böylece artık arama sonuçları karışık gelmeyecek :)
+
+En ilginç noktalardan biri Mango ile beraber Internet Explorer 9'un
+WP7'ye de geleceği. Demolarda HTML5'teki audio ve video elementlerinin
+doğrudan WP7'de çalıştığını gösterildi. Bunun yanı sıra tabi ki IE9 ile
+beraber tarayıcı içi hardware acceleration da WP7'ye gelmiş oluyor. Bu
+konuda performansı kanıtlamak için demoda bir Android ve iPhone'u
+sahneye alındı :) Sonucu aşağıdaki resimde de görebilirsiniz.
+
+![iPhone, Android ve WP7'de HTML5
+testi.](http://cdn.daron.yondem.com/assets/2558/13042011_2.jpg)\
+*iPhone, Android ve WP7'de HTML5 testi.*
+
+Gelelim daha ilginç ve güzel gelişmelere. WP7'de mango update ile
+beraber Socket desteği, SQL CE, Contact ve Calendar erişimi için
+API'ler, kamera'dan RAW video erişimi, Gyro desteği!, Pusula erişimi
+için API, Multitasking, Background Alarm, Background Audio, Background
+Task ve Background Download destekleri gelecek! Liste epey uzun ve
+süper! :) Tabi bu kadar yenilik telefona gelirken araçları da es geçmiş
+değiller. Malum developer araçlarında da ciddi eksikler vardı.
+
+![Windows Phone 7 araçlarında Accelerometer ve Location simülasyon
+araçları.](http://cdn.daron.yondem.com/assets/2558/13042011_3.jpg)\
+*Windows Phone 7 araçlarında Accelerometer ve Location simülasyon
+araçları.*
+
+Benim en çok sevindiğim Accelerometer ve Location API'leri için gerekli
+simülatörlerin eklenmesi oldu. Bu özellikleri kullanan uygulamaları test
+etmek gerçekten sıkıcı oluyordu. Ek olarak WP7'ye özel süper profiling
+araçları geliştirilmiş! GPU ve CPU'nun ayrı ayrı test datalarının
+toplanabildiği ve analiz edilebildiği ekranlar yapılmış.
+
+**Silverlight 5 Beta Çıktı!**
+
+KeyNote içerisindeki en büyük duyurulardan biri de Silverlight 5'in
+Beta'sı oldu. Bu yazın release olmasını beklediğim Silverlight 5'in
+Beta'sını şu anda makinalarınıza
+[indirebilirsiniz](http://bit.ly/sl5betaout). Dikkat :) Production
+makinelere yüklememekte büyük fayda var. SL5 ile gelen özellikleri
+saymak çok uzun sürebilir! :) Fakat hem benim favorilerimi hem de
+KeyNote'da özellikle üzerinde durulanları hızlıca sayiyim. Birincisi 3D!
+Artık gerçek anlamda XNA API'leri ile beraber 3D Silverlight içerisinde
+kullanılabiliyor. Bir diğer muhteşem haber ise XAML debugging :) artık
+XAML bindinglerinize debug point koyabiliyorsunuz! Databinding,
+kontroller ve bunu takiben MVVP implementasyonu ile ilgili de birçok
+yenilik söz konusu. WCF için WS-Trust desteğinin de geldiğini söyleyerek
+listeyi kısa tutmaya çalışacağım. Yakın zamanda bu konularda ayrı
+makalelerle tek tek yenilikleri inceliyor oluruz.
+
+**Kinect SDK**
+
+KeyNote'un devamında sahnede Kinect vardı. Gelmiş geçmiş en hızlı satan
+elektronik cihaz olduğunun altı çizilerek :) herkesin beklediği SDK'in
+önümüzdeki ilkbaharda çıkacağı duyuruldu! Tabi önemli bir detay var ki
+ilkbaharda çıkacak olan SDK ticari kullanıma kapalı olacak ve ticari
+kullanıma açılma şekli veya zamanlaması ile ilgili şu anda bir tarih
+verilmiyor. Yine de Kinect SDK ile güzel işler çıkartılabiliyor gibi
+duruyor. SDK'in kullanımı Windows 7'deki Sensor API'ye çok benziyor.
+
+![Körler için Kinect ile
+çözüm!](http://cdn.daron.yondem.com/assets/2558/13042011_4.jpg)\
+*Körler için Kinect ile çözüm!*
+
+Keynote kafalarına birer Kinect takıp :) körler için yönlendirme
+mekanizması geliştiren genç bir ekibin minik sunumu ile sonlandı :)
+Fikir muhteşem olduğu kadar sunum da eğlenceliydi açıkçası :) Umarım
+ileride Kinect biraz daha minik bir hal alır ve böylece bu proje de
+gerçek olabilir.
+
+Keynote kapanışında artık bu tarz konferanslarda alışılmış hale gelen :)
+(Biliyorum garip ama öyle) katılımcıların hediye beklentisini Microsoft
+her katılımcıya bir Kinect hediye ederek karşıladı. Hatırlarsanız PDC
+2009'da laptop, PDC 2010'da Windows Phone hediye edilmişti. Ben de
+Kinect'imi SDK çıkana kadar saklamak üzere aldım. Malum XBOX yok bende
+:) pek almaya da niyetim yok şimdilik. O nedenle Kinect SDK'i
+bekleyeceğim.
+
+**Surface 2**
+
+MIX'in ikinci gününde ufak bir sürpriz daha oldu. Surface 2'yi yakından
+inceleme şansım oldu. O kocaman masa :) tamamen ufacık, incecik bir hale
+gelmiş. Bu sefer doğrudan Samsung tarafında üretilen Surface böylece
+daha geniş bir pazara yayılabilecek. Cihaz en-boy olarak aynı boyutlarda
+kalsa da Full HD çözünürlüğe upgrade edilmiş. 2.9GHz Athlon II X2
+işlemci ve AMD Radeon HD 6700M ekran kartı ile beraber gelen Surface 2
+8'e yükseltilebilen 4GB RAM ile beraber geliyor. Dahili 360GB 7200rpm
+diskin yanı sıra ekstra bir slota ek bir HDD de konabiliyor. Cihazın
+liste fiyatı ise 7600\$ olarak belirlenmiş.
+
+![Karşınızda Surface
+2!](http://cdn.daron.yondem.com/assets/2558/13042011_5.jpg)\
+*Karşınızda Surface 2!*
+
+Böylece artık Surface 2 her tür ortama uyum sağlayabilir bir hal almış.
+En basitinden artık altına ayak sokulabilir :) bir masa olmanın yanı
+sıra içinde bir de Accelerometer barındırıyor. Böylece duvara monte
+edilme senaryosu ile masa üstü kullanım gibi senaryolar arası geçişlerde
+yazılımların bunu algılayabilmesi de sağlanmış.
+
+Böylece MIX maceramızı 2011 için de bitirmiş olduk. MIX üçüncü günü ile
+yarın devam edecek fakat herhangi bir KeyNote yok, yani sadece normal
+oturumlar olacak. O nedenle büyük bir duyuru vs beklemiyorum. Yine bir
+hareket olursa tabi ki [twitter](http://www.twitter.com/daronyondem)
+sonrasında da blogdan paylaşırım ;)
+
+Görüşmek üzere.
+
+

@@ -1,0 +1,550 @@
+---
+FallbackID: 2065
+Title: Vista Gradientları XAML Kodları
+PublishDate: 5/23/2008
+EntryID: Vista_Gradientlari_XAML_Kodlari
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight, Silverlight 2.0, WPF
+old.EntryID: 381ac071-65ee-494f-b2a9-d971af95f3bf
+---
+Özellikle "*developer*" tabanlı olanlar için hazırlanan bir uygulamanın
+görsel arayüzünü süslemek hem bir "çin işkencesi" oluyor hem de ortaya
+zaten güzel bir ürün de çıkmıyor. Bu gibi durumlarda eğer projelerinizde
+bir tasarımcı ile çalışma şansınız da yoksa en azından internetteki
+hazır renk şemalarından faydalanabilir, birbiri ile uyumlu renkler
+üreten web sitelerinden faydalanabilirsiniz.
+
+Veya daha da pratik bir yol var, bir yerlerde beğendiğiniz renkleri
+"ödünç" alabilirsiniz :) Peki nerden? Hemen önünüzde Windows Vista
+duruyor, tasarımı da hiç fena sayılmaz :)
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">Canvas</span>
+
+<span style="color: blue;">  </span><span
+style="color: red;">xmlns</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">http://schemas.microsoft.com/client/2007</span>"
+
+<span style="color: blue;">  </span><span
+style="color: red;">xmlns:x</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">http://schemas.microsoft.com/winfx/2006/xaml</span>"
+
+<span style="color: blue;">  </span><span
+style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">640</span>"<span style="color: blue;"> </span><span
+style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span style="color: blue;">375.082</span>"
+
+<span style="color: blue;">  </span><span
+style="color: red;">Background</span><span
+style="color: blue;">=</span>"<span style="color: blue;">White</span>"
+
+<span style="color: blue;">  </span><span
+style="color: red;">x:Name</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">Page</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">  \<</span><span
+style="color: #a31515;">Rectangle</span><span style="color: blue;">
+</span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">572.131</span>"<span style="color: blue;">
+</span><span style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">78.885</span>"<span style="color: blue;">
+</span><span style="color: red;">Canvas.Left</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">31.148</span>"<span style="color: blue;">
+</span><span style="color: red;">Canvas.Top</span><span
+style="color: blue;">=</span>"<span style="color: blue;">8</span>"<span
+style="color: blue;"> </span><span
+style="color: red;">Stroke</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF000000</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \<</span><span
+style="color: #a31515;">Rectangle.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">      \<</span><span
+style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;"> </span><span
+style="color: red;">StartPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5,1</span>"<span style="color: blue;">
+</span><span style="color: red;">EndPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5,0</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">        \<</span><span
+style="color: #a31515;">LinearGradientBrush.GradientStops</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF000000</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">0</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF9AC6CF</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.0494537</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF54A1AA</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.0714264</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF146478</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5</span>"<span style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF408C9A</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.505493</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF87B6C0</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.928574</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFBCCDD7</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.950546</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFAEBFCA</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.983521</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFAEBFCA</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">        \</</span><span
+style="color: #a31515;">LinearGradientBrush.GradientStops</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">      \</</span><span
+style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \</</span><span
+style="color: #a31515;">Rectangle.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">  \</</span><span
+style="color: #a31515;">Rectangle</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">  \<</span><span
+style="color: #a31515;">Rectangle</span><span style="color: blue;">
+</span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">572.131</span>"<span style="color: blue;">
+</span><span style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">78.885</span>"<span style="color: blue;">
+</span><span style="color: red;">Canvas.Left</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">31.148</span>"<span style="color: blue;">
+</span><span style="color: red;">Canvas.Top</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">99.784</span>"<span style="color: blue;">
+</span><span style="color: red;">Stroke</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF000000</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \<</span><span
+style="color: #a31515;">Rectangle.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">      \<</span><span
+style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;"> </span><span
+style="color: red;">StartPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5,1</span>"<span style="color: blue;">
+</span><span style="color: red;">EndPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5,0</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">        \<</span><span
+style="color: #a31515;">LinearGradientBrush.GradientStops</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF000104</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">0</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF02070B</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.494507</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF33373D</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.494507</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF757A7C</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.917587</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFA0A1A3</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.956039</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF48494A</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">        \</</span><span
+style="color: #a31515;">LinearGradientBrush.GradientStops</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">      \</</span><span
+style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \</</span><span
+style="color: #a31515;">Rectangle.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">  \</</span><span
+style="color: #a31515;">Rectangle</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">  \<</span><span
+style="color: #a31515;">Rectangle</span><span style="color: blue;">
+</span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">572.131</span>"<span style="color: blue;">
+</span><span style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">78.885</span>"<span style="color: blue;">
+</span><span style="color: red;">Canvas.Left</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">31.148</span>"<span style="color: blue;">
+</span><span style="color: red;">Canvas.Top</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">189.929</span>"<span style="color: blue;">
+</span><span style="color: red;">Stroke</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF000000</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \<</span><span
+style="color: #a31515;">Rectangle.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">      \<</span><span
+style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;"> </span><span
+style="color: red;">StartPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5,1</span>"<span style="color: blue;">
+</span><span style="color: red;">EndPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5,0</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">        \<</span><span
+style="color: #a31515;">LinearGradientBrush.GradientStops</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFD4D4D4</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">0</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFF0F2F4</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.0659332</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFF6F5F8</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.598907</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFFFFFFF</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.609894</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFFFFFFF</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.978027</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFC7C7C7</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.994507</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFC7C7C7</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">        \</</span><span
+style="color: #a31515;">LinearGradientBrush.GradientStops</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">      \</</span><span
+style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \</</span><span
+style="color: #a31515;">Rectangle.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">  \</</span><span
+style="color: #a31515;">Rectangle</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">  \<</span><span
+style="color: #a31515;">Rectangle</span><span style="color: blue;">
+</span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">572.131</span>"<span style="color: blue;">
+</span><span style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">78.885</span>"<span style="color: blue;">
+</span><span style="color: red;">Canvas.Left</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">31.148</span>"<span style="color: blue;">
+</span><span style="color: red;">Canvas.Top</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">281.713</span>"<span style="color: blue;">
+</span><span style="color: red;">Stroke</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF000000</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \<</span><span
+style="color: #a31515;">Rectangle.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">      \<</span><span
+style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;"> </span><span
+style="color: red;">StartPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5,1</span>"<span style="color: blue;">
+</span><span style="color: red;">EndPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.5,0</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">        \<</span><span
+style="color: #a31515;">LinearGradientBrush.GradientStops</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFDFE4F4</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">0</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFB8BCC2</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.0439606</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFE0E6F4</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.0769196</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFD4DBE8</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.648346</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFE8ECF4</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.714279</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">          \<</span><span
+style="color: #a31515;">GradientStop</span><span style="color: blue;">
+</span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFFFFFFF</span>"<span style="color: blue;">
+</span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"<span
+style="color: blue;">/\></span>
+
+<span style="color: blue;">        \</</span><span
+style="color: #a31515;">LinearGradientBrush.GradientStops</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">      \</</span><span
+style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \</</span><span
+style="color: #a31515;">Rectangle.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">  \</</span><span
+style="color: #a31515;">Rectangle</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">\</</span><span
+style="color: #a31515;">Canvas</span><span
+style="color: blue;">\></span>
+
+İşte size Vista'daki gradientların Silverlight veya WPF ile
+kullanılabilecek XAML kodları. Yukarıdaki örnek Silverlight 1.0
+uygulamasında dört farklı gradientı gösterebilmek için dört adet
+dikdörtgen kullandım.
+
+![Vista
+Gradientları](http://cdn.daron.yondem.com/assets/2065/23052008_1.png)\
+*Vista Gradientları*
+
+Hepinize kolay gelsin.
+
+

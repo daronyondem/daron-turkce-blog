@@ -1,0 +1,32 @@
+---
+FallbackID: 1826
+Title: Türkiye'nin ilk Silverlight ve Expression Studio Eğitimi
+PublishDate: 10/26/2007
+EntryID: Turkiyenin_ilk_Silverlight_ve_Expression_Studio_Egitimi
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Eğitimler, Expression Studio, Silverlight
+old.EntryID: c599684d-04ea-4aca-a7cb-971c384ba71a
+---
+Türkiye'nin ilk **Silverlight** ve **Expression Studio** eğitimini
+Microsoft İstanbul ofislerinde bugün sonlandırdık. Üç günlük yoğun bir
+maraton sonrasında yaptığım anketlerde gelen olumlu yorumlardan yola
+çıkarak süper bir eğitim geçirdiğimizi söyleyebilirim. Bu ilk kurumsal
+eğitimde özellikle yazılımda zengin medya sektörünün guruları ile
+eğlenceli bir ortamda beraber olmak çok zevkliydi.
+[Bilgeadam](http://www.bilgeadam.com/),
+[Netron](http://www.netron.com.tr/),
+[LuckyEye](http://www.luckyeye.com/), [Enocta](http://www.enocta.com/),
+[MagiClick](http://www.magiclick.com/),
+[Yogurt](http://www.yogurt.com.tr/), [Digital
+Graphics](http://www.dg.com.tr/), [Pure](http://www.pure.com.tr/) ve
+[Project House](http://www.ph.com.tr/)'un katıldığı eğitim boyunca
+Expression Studio serisini, Silverlight 1.0, 1.1 ve WPF'i inceleme
+şansımız oldu.
+
+![](http://cdn.daron.yondem.com/assets/1826/27102007_1.jpg)
+
+Eğitime katılan herkese tekrar teşekkürler.
+
+

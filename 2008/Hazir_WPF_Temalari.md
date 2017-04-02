@@ -1,0 +1,68 @@
+---
+FallbackID: 2244
+Title: Hazır WPF Temaları
+PublishDate: 11/11/2008
+EntryID: Hazir_WPF_Temalari
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: WPF
+old.EntryID: 81345b60-8a45-473a-9a50-a144f6c4fb30
+---
+Hem WPF hem Silverlight maalesef ki "yazılımcılar tarafından tasarlanan
+uygulamalar" havuzuna çok daha garip :) balıkların atılmasını sağladı.
+Bu süreçte sadece tasarımcıların WPF veya Silverlight tarafına
+geçememesi sorunu değil, ek olarak şirketlerin yazılım arayüzü
+tasarımına kaynak ayırmakta sıkıntılarının da büyük katkısı var. Tüm
+bunları düşündüğümüzde yazılımcıların en azından kolay yolda
+hazırladıkları arayüzlere makyaj yapabilmeleri için yeni araçların
+oluşması, hazır şablonların yaratılması çok önemli.
+
+Geçenlerde size [Silverlight
+Toolkit](http://daron.yondem.com/tr/post/97b6c373-f3b6-4343-acd5-f6cddb3c9d19)
+ile beraber gelen tasarım şablonlarından bahsetmiştim. Bu sefer de aynı
+senaryoyu WPF tarafına taşıyalım ve CodePlex üzerindeki [WPF
+Themes](http://www.codeplex.com/wpfthemes) projesi ile tanışalım.
+
+[Rudi
+Grobler](http://dotnet.org.za/rudi/archive/2008/11/06/wpf-themes-released.aspx)
+tarafından hazırlanan projenin ilk çıkış noktasına aslında Silverlight
+Toolkit ile beraber gelen şablonlar olmuş. Bu şablonları WPF tarafına
+taşımaya karar veren Rudi sonrasında farklı şablonlar da oluşturarak şu
+an toplam 12 farklı şablonun bulunduğu kütüphaneyi oluşturmuş. Hepsine
+[buradan](http://www.codeplex.com/wpfthemes) ulaşabilirsiniz.
+
+**Nasıl kullanırız?**
+
+Bahsettiğimiz tüm görsel şablonlar esasen Silverlight üzerinden
+hazırlananlardan çevrildikleri için işin kolayına kaçıp :)
+VisualStateManager kullanmaya devam etmişler. Malum VisualStateManager
+ilk önce Silverlight 2.0 ile geldi ve hala WPF'de yok. WPF'de
+VisualStateManager yapısını kullanabilmek için yine CodePlex üzerinden
+[WPF Toolkit](http://www.codeplex.com/wpfthemes)'i indirmeniz gerekiyor.
+
+WPF Toolkit'i indirirken kaynak kodları ile beraber indirin. Aksi halde
+bir yükleme dosyası ile sisteminizde GAC'ye tüm toolkit'i yüklemek
+zorunda kalırsınız ve bu ileride nahoş durumlara yol açabilir. En iyisi
+kaynak kodları indirip Assembly'leri elle Compile edip istediğiniz yerde
+kendi kararınız ile kullanmak. WPF Toolkit'i bilgisayarınıza indirdikten
+sonra Visual Studio ile kaynak kodlarına ait projeyi açın. Projeyi Build
+edin ve ortaya çıkan DLL'lerden **WPFToolkit.dll** adındaki dosyayı
+istediğiniz bir WPF projenize referans olarak ekleyin.
+
+Artık Toolkit içerisinden VisualStateManager yapısını
+kullanabileceğimize göre sıra geldi WPF Themes ile gelen temaları
+denemeye. WPF Themes projesini bilgisayarınıza indirdikten sonra paket
+içerisindeki **WPF.Themes** klasöründe farklı temalara ait ayrı ayrı
+klasörler göreceksiniz. Her bir klasörün içerisinde **Theme.xaml**
+adında bir dosya bulunur. Tek yapmanız gereken bu dosyayı WPF projesine
+"**Add Existing Item**" diyerek eklemek. Otomatik olarak projenizdeki
+tüm kontroller bir anda eklediğiniz temadan etkilenecektir.
+
+![WPF Themes paketinden benim favorim : DavesGlossyControls
+:)](http://cdn.daron.yondem.com/assets/2244/11112008_1.png)\
+*WPF Themes paketinden benim favorim : DavesGlossyControls :)*
+
+Hepinize kolay gelsin.
+
+

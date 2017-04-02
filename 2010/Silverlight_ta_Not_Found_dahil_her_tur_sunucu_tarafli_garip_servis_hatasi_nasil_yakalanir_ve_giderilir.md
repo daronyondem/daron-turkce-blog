@@ -1,0 +1,253 @@
+---
+FallbackID: 2532
+Title: Silverlight'ta "Not Found" dahil her tür sunucu taraflı garip servis hatası nasıl yakalanır/giderilir
+PublishDate: 9/1/2010
+EntryID: Silverlight_ta_Not_Found_dahil_her_tur_sunucu_tarafli_garip_servis_hatasi_nasil_yakalanir_ve_giderilir
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight 4
+old.EntryID: 325cbae9-d872-4c21-8cea-3815b70ed935
+---
+Silverlight ile web tabanlı iş uygulamaları geliştirirken eskiden
+JavaScript ile yazdığımız istemci taraflı kodları C\# veya VB tarafına
+alıyoruz. Bu geçiş sonrasında istemci taraflı kod yazarken hissettiğimiz
+kolaylık ve daha bir çok Silverlight güzelliği sonrasında bir de
+bakıyoruz ki herşeyi olabildiğince istemci tarafında halletmeye
+çalışmaya başlamışız. Arama mekanizmalarından tutun filtrelemelere kadar
+eldeki veri miktarı ve optimizasyon elverdikçe herşeyi istemcinin
+işlemcisi ile yapmanın rahatlığına kavuşmak gerçekten de güzel oluyor.
+Diğer yandan bu uygulamaların artık bir web sitesi değil de tarayıcı
+içerisinde çalışan "yaşayan" uygulamalar olması alacağımız olası
+hataları da çok doğru bir şekilde değerlendirmemizi gerektiriyor. Aksi
+halde Silverlight'ın tarayıcı içerisinde çalıştığı acı gerçeğini
+hatırlatan script hataları nedeniyle uygulamamız dağılıyor ve en
+istemediğimiz şeyi kullanıcıya yaptırmak zorunda kalıyoruz "F5'e
+basmak!"
+
+Tüm bu senaryoyu uzun uzun neden anlatıyorum. Şimdi diyelim ki en
+basitinden bir uygulama geliştirdiniz ve uygulama farklı noktalarda /
+zamanlarda bir web servisine ulaşarak data iletişimi gerçekleştiriyor.
+Uygulama kullanıcı tarafından açıldı. İlk veri iletişimi başarılı oldu
+ve program kullanıma hazır. Kullanım süresince ikinci bir veri iletişimi
+gerekti Silverlight ile sunucudaki servis arasında ve bu da tamamen
+başarılı bir şekilde gerçekleşti. Süper. Sonra artık Silverlight
+uygulamamız yaşayan, yani işlevsel açıdan kullanıcı tarafından
+kullanılan bir programa dönüştüğü için birçok veri iletişimi de
+senaryomuzu takip etti. Geldik 85. veri iletişimine! Tam da kullanıcının
+yaklaşık son 5 dakikadır yaptığı tüm ayarlar, çalışmalar bir web servisi
+ile sunucuya kaydedilecekti ki.... internet bağlantısı koptu! Servis
+hata vardı! DNS çatladı siteyi bulamadı! Silverlight uygulamanızın suçu
+olmayan bir saçmalık gerçekleşti sunucu tarafında ve servise
+ulaşamıyorsunuz! Ne yaparsınız?
+
+Soru basit gibi duruyor değil mi? Servise ulaşamıyoruz veya garip
+hatalar veriyor. Eğer hiçbirşey yapmazsanız uygulamanız çakılacak,
+dağılacak. Eh ne yaparız? Bir Try/Catch işi görür gibi...
+
+**[VB]**
+
+``` {style="font-family: consolas"}
+Partial Public Class MainPage
+    Inherits UserControl
+ 
+    Public Sub New()
+        InitializeComponent()
+    End Sub
+ 
+ 
+    Private Sub Button1_Click(ByVal sender As System.Object, 
+ByVal e As System.Windows.RoutedEventArgs) Handles Button1.Click
+        Dim Servis As New ServiceReference1.WebService1SoapClient
+        AddHandler Servis.HelloWorldCompleted, AddressOf ServiceCompleted
+        Try
+            Servis.HelloWorldAsync()
+        Catch ex As Exception
+            MessageBox.Show("Hata var paşam!")
+        End Try
+    End Sub
+ 
+    Private Sub ServiceCompleted(ByVal sender As Object, 
+ByVal e As ServiceReference1.HelloWorldCompletedEventArgs)
+        MessageBox.Show(e.Result)
+    End Sub
+ 
+End Class
+```
+
+Yukarıdaki örnekte basit bir string dönen hatta her web servisi
+yarattığınızda otomatik gelen "Hello World" servisinin Silverlight
+tarafındaki kullanımını görüyoruz. Asenkron olarak sunucudan web servis
+isteğini başlattığımı kodu bir Try/Catch içerisine aldık ki herhangi bir
+hata olursa hatayı yakalayıp uygun aksyonu alabilelim. Herşey normal ve
+güzel gibi dursa da bu kodu çalıştırdığımızda aslında hiçbirşeyin
+değişmediği görüyoruz ve hala aşağıdaki uyarı ile başbaşa durumdayız.
+
+![Script hata penceresi pek de sevecen
+değil...](http://cdn.daron.yondem.com/assets/2532/01092010_1.png)\
+*Script hata penceresi pek de sevecen değil...*
+
+Peki biz Try/Catch koymuştuk. Hata orada olmuyorsa nerede olabilir?
+Hemen bir debug edelim bakalım.
+
+![Bu kodu ben yazmadım
+ki?](http://cdn.daron.yondem.com/assets/2532/01092010_2.png)\
+*Bu kodu ben yazmadım ki?*
+
+Yukarıdaki ekran görüntüsünden de göreceğiniz üzere hata çok ilginç bir
+yerde. Hatta ilk gördüğünüzde eminim ki tepkiniz "Tamam da Reference.vb
+ne? Ben yazmadım öyle birşey" olacak :) Acaba bir "bug" ile mi karşı
+karşıyayız. Ama olamaz çünkü ortada bir hata olması da çok normal.
+Servise ulaşılamıyor. Fakat biz bu hatayı nasıl yakalayacağız? Servis
+request'i başlattığımızda oluşmuyor Completed event'inin içinde de bir
+şekilde yakalama şansım yok çünkü hata oluştuğunda Completed eventleri
+de çalıştırılmıyor.
+
+**Farklı bir bakış açısı....**
+
+Bu durumda olaya biraz farklı bakmamız gerekecek. Aslında reference.vb
+dosyasının içeriği incelendiğinde kısmen durum anlaşılabiliyor. Panik
+yapmadan kodu bir okumak gerek. Yapmamız gereken şey servisi kullanım
+şeklimizi daha doğrusu Visual Studio'nun bizim için yarattığı bu service
+proxy'yi kullanım şeklimizi değiştirmemiz gerek.
+
+**[VB]**
+
+``` {style="font-family: consolas"}
+    <WebMethod()> _
+    Public Function HelloWorld(ByVal Name As String) As String
+        Return "Hello " & Name
+    End Function
+```
+
+Ufak bir değişiklik yapıp sunucu tarafındaki servisimizi parametre
+alacak şekilde düzenledim. Böylece bir sonraki adımdaki örneğimiz çok
+daha net olacaktır.
+
+Artık servisleri Async uzantısı ile biten metodları aracılığı ile
+çağırmayacağız. Onun yerine bir servise giden isteği başatılması ve
+sonlandırılması işlemini kendi ellerimize yapacağız. Gelin nasıl
+olacağına bakalım.
+
+**[VB]**
+
+``` {style="font-family: consolas"}
+    Dim Servis As New ServiceReference1.WebService1SoapClient
+ 
+    Private Sub Button1_Click(ByVal sender As System.Object, 
+ByVal e As System.Windows.RoutedEventArgs) Handles Button1.Click
+        Dim ReqBody As New ServiceReference1.HelloWorldRequestBody
+        ReqBody.Name = "Herhangi bir isim / parametre"
+        Dim Request As New ServiceReference1.HelloWorldRequest(ReqBody)
+        Servis.ServiceReference1_WebService1Soap_BeginHelloWorld(Request,
+ AddressOf RequestBasladi, Nothing)
+    End Sub
+ 
+    Private Sub RequestBasladi(ByVal Cevap As IAsyncResult)
+        Dim Sonuc As String = Servis. _
+ServiceReference1_WebService1Soap_EndHelloWorld(Cevap). _
+Body.HelloWorldResult
+        MessageBox.Show(Sonuc)
+    End Sub
+```
+
+Üst kısımda gördüğünüz düğmenin Click event'in çalışan kod aslında bir
+önceki örneğimizde basit bir şekilde servisi çağırmak için kullandığımız
+**Async** uzantılı metodun yaptığı yapıyor. Farklı olan ise talebin
+gönderimi ile sonucunun alınmasını tek tek bizim elle yapacak olmamız.
+Button1'in Click durumunda ilk olarak bir **RequestBody** yani talep
+gövdesi yaratıyoruz. Bu gövde içerisinde talep için göndermemiz gereken
+tüm parametrelerin bulunması gerekeceği için bizim örneğimizde
+"**Name**" parametresini hemen aktarıyoruz. Sonrasında bu gövdeden talep
+nesnemizi yani **Request'imi** yaratıp elimizdeki **SoapClient**
+üzerinden göndermek için de **BeginHelloWorld** metodunu kullanıyoruz.
+BeginHelloWorld'ün ilk parametresi gönderilecek talep gövdesinin ta
+kendisi. İkinci parametre gönderim işlemi tamamlanıp sonuç geldiğinde
+çalıştırılacak olan Callback metodu. Bunu kabaca **Completed** eventine
+benzetebilirsiniz ama farkını biraz göreceğiz. Son olarak örneğimizde
+**Nothing** olarak geçtiğimiz parametre ise eski **UserState'e** denk
+geliyor.
+
+RequestBasladi metodu çalıştığında aslında request çoktan sunucu
+tarafında sonlanmış bile oluyor. Sunucu servisi çalıştırmış ve sonucu
+göndermiş durumda. Tabi eğer bir sonuç var ise. Aslında daha bir sonuç
+olup olmadığı bilmiyoruz. Öğrenmek için **EndHelloWorld** metodunu
+çağırıyoruz. **EndHelloWorld** metodu hangi talebi sonlandıracağını
+bilmiyor o nedenle bu **Callback** metodunda parametre olarak gelen
+**AsyncResult'ı** kendisine hemen veriyoruz. Son olarak sunucudan geri
+dönen paketin gövdesinden (Body) HelloWorldResult'ı yani sonucumuzu
+alıyoruz.
+
+Şimdi diyeceksiniz ki "Ne değişti?" Değişen ilk şey şu oldu. Eğer
+yukarıdaki kod içerisinde **EndHelloWorld** kısmını bir **Try/Catch**
+içerisinde alırsanız her tür hatayı yakalayabilirsiniz. İşlemi
+sonlandıran siz olduğunuz için sonlandırma esnasından hataları da artık
+yakalayabilir durumdayız. Fakat karşılaşacağınız bir diğer sorun ise şu
+olacak...
+
+![Nasıl yani? Ne Threadi? Ben
+yapmadım?](http://cdn.daron.yondem.com/assets/2532/01092010_3.png)\
+*Nasıl yani? Ne Threadi? Ben yapmadım?*
+
+Güzel hata değil mi? Şimdi diyor ki "*Bir thread'den bir başkasına bir
+hareketler yapıyorsun. Olmaz o iş.*" diyor da biz bir hareket falan
+yapmamıştık? Thread falan derken? Thread yarattığımızı da
+hatırlamıyorum. Bu durumun nedeni kullandığımız Callback mekanizması
+veya asenkron yapı. BeginHelloWorld metodunu çalıştırırken hatırlarsanız
+bir Callback tanımlamıştık. İşte o Callback belli ki UI-Thread dışında
+bir yerlerde çalışıyor. Böyle bir durumda da Silverlight içerisinde
+UI-Thread'e ulaşmanın yolu Dispatcher üzerinden gitmek. Kodumuzu
+aşağıdaki gibi değiştirdiğimizde herşey mutlu mesut sonlanıyor.
+
+**[VB]**
+
+``` {style="font-family: consolas"}
+    Dim Servis As New ServiceReference1.WebService1SoapClient
+ 
+    Private Sub Button1_Click(ByVal sender As System.Object, 
+ByVal e As System.Windows.RoutedEventArgs) 
+Handles Button1.Click
+        Dim ReqBody As New ServiceReference1.HelloWorldRequestBody
+        ReqBody.Name = "Herhangi bir isim / parametre"
+        Dim Request As New ServiceReference1.HelloWorldRequest(ReqBody)
+        Servis.ServiceReference1_WebService1Soap_BeginHelloWorld(
+Request, AddressOf RequestBasladi, Nothing)
+    End Sub
+ 
+    Private Sub RequestBasladi(ByVal Cevap As IAsyncResult)
+        Dim Sonuc As String = ""
+        Try
+            Sonuc = Servis.
+ServiceReference1_WebService1Soap_EndHelloWorld(Cevap). _
+Body.HelloWorldResult
+        Catch ex As Exception
+            Dispatcher.BeginInvoke(Sub()
+                 MessageBox.Show("Hata olmuş tekrar deneyeceğim!")
+                 Button1_Click(Nothing, Nothing)
+                                   End Sub)
+        End Try
+        Dispatcher.BeginInvoke(Sub()
+                                   MessageBox.Show(Sonuc)
+                               End Sub)
+    End Sub</pr
+```
+
+Gördüğünüz gibi **EndHelloWorld** metodunu bir Try/Catch içerisinde
+aldım ve hata olması durumunda bunu kullanıcıya bildirip aynı işlemin
+tekrar denenmesini sağlamak için tembelce **Button\_Click'i** tekrar
+çağırdım. Siz bu senaryoda kullanıcıya mesajınızı daha medeni bir
+şekilde gösterip (**ChildWindow** gibi) belki de bir timer koyup tekrar
+deneme işlemini bir süre sonra yapabilirsiniz. Herşey yolunda giderse
+zaten **Dispatcher** üzerinden tekrar UI-Thread'e geçilmiş ve sonuç
+gösterilmiş olacak.
+
+Böylece web servislerini kullanırken her tür hatayı tek tek
+yakalayabilir ve anında farklı senaryolarla tepki vererek uygulamanızı
+tarayıcı içerisinde sürekli ayakta tutabilirsiniz. Yukarıdaki
+örneğimizde kullanıcının internet bağlantısı kesilip sonra tekrar gelse
+bile bir sorun olmayacak ve denemelerden birisi bir şekilde başarılı
+olacaktır.
+
+Hepinize kolay gelsin.
+
+

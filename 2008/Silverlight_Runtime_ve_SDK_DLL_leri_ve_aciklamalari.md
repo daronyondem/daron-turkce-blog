@@ -1,0 +1,70 @@
+---
+FallbackID: 2103
+Title: Silverlight Runtime ve SDK DLL'leri ve açıklamaları
+PublishDate: 6/24/2008
+EntryID: Silverlight_Runtime_ve_SDK_DLL_leri_ve_aciklamalari
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight 2.0
+old.EntryID: 1c242192-af12-4ec3-be3b-3b4b8c72a88f
+---
+Silverlight 2.0 ile beraber artık tüm yazdığımız kodların DLL olarak XAP
+dosyaları içerisinde istemciye gönderildiği bir ortamda harici DLL
+kütüphaneleri de kullanabiliyor olmak büyük avantajlar getiriyor. Tabi
+ki bu avantajlardan ürünün kendisi de faydalanıyor ve **Silverlight 2.0
+Beta 2 Runtime** ve **SDK** ile beraber gelen çoğu harici kontrol normal
+şartlarda Expression Blend 2.5 içerisinde gözükmese de aslında DLL'ler
+şeklinde bilgisayarlarımızda bulunuyor. Bu yazımızda Silverlight 2.0
+Runtime'ın ve SDK'nın derinliklerine inip bahsettiğimiz DLL'leri
+inceleyerek neler yapabileceğimize göz atacağız.
+
+Silverlight Runtime yüklemesinde bilgisayarınızda *C:\\Program
+Files\\Microsoft Silverlight\\2.0.30523.6* konumuna yerleştirilecek olan
+DLL'leri söz konusu klasörü açarak bir inceleyelim.
+
+![Silverlight 2 Beta 2 Runtime
+DLL'leri.](http://cdn.daron.yondem.com/assets/2103/24062008_1.gif)\
+*Silverlight 2 Beta 2 Runtime DLL'leri.*
+
+Yukarıdaki DLL'lere baktığımızda özellikle eski VB sınıflarını
+desteklemek adına **Microsoft.VisualBasic.dll**'in Silverlight RunTime
+ile beraber de dağıtıldığını görüyoruz. Buradaki DLL'lerden bazılarına
+özellikle eğilmek gerekirse dikkati çekenler arasında **System.XML.dll**
+yer alıyor. Windows'takine kıyasla bu DLL içerisinde artık XSL veya
+XPath sınıfları bulunmuyor, tabi ki bunun çok mantıklı bir nedeni var;
+özellikle XPATH yerine artık elimizde XLINQ olduğu için bu sınıfları
+muhafaza etmek saçma olurdu. **System.Core.dll** ve
+**System.Xml.Linq.dll** işte tam bu noktada yardımımıza koşuyor ve
+LINQ'in neredeyse tüm özelliklerini Silverlight tarafına taşıyor. Son
+olarak **System.Windows.Browser.dll** ise bir Silverlight uygulamasının
+içerisinde bulunduğu tarayıcı ile ilgili işlemler yapabilmesi için
+gerekli sınıfları içeriyor.
+
+Şimdi de gelin SDK ile beraber gelen DLL'lere göz atalım; bunun için
+bilgisayarınızda **C:\\Program Files\\Microsoft
+SDKs\\Silverlight\\v2.0\\Libraries\\Client** klasörüne ufak bir yolculuk
+yapmanız yeterli olacaktır.
+
+![Silverlight 2 SDK paketindeki DLL
+Kütüphanaleri](http://cdn.daron.yondem.com/assets/2103/24062008_2.gif)\
+*Silverlight 2 SDK paketindeki DLL Kütüphanaleri*
+
+SDK içerisinde DLL'leri RunTime içerisindekilerden daha heyecan verici.
+İlk olarak **IronPython** ve **IronRuby** programlama altyapısını sunan
+DLL'lerini burada bulabiliyoruz. Tüm bu DLL'ler arasında bize DataGrid
+gibi farklı kontroller sunan DLL'ler ise **System.Windows.Controls**
+sınıfındaki dosyalar. **System.Windows.Controls.dll** içerisinde
+standart Silverlight kontrolleri,
+**System.Windows.Controls.Extended.dll** içerisinde Calendar,
+DatePicker, Slider, WatermarkedTextBox gibi kontroller,
+**System.Windows.Controls.Data.dll** içerisinde ise daha WPF'de bile
+olmayan DataGrid bulunuyor.
+
+Tüm bu DLL kütüphaneleri Silverlight uygulamalarınız çalışması için
+hayati önem taşırken özellikle ek kontrolleri kullanabilmek adına
+gerekli DLL'leri projenize referans olarak da eklemeniz gerekecektir.
+
+Hepinize kolay gelsin.
+
+

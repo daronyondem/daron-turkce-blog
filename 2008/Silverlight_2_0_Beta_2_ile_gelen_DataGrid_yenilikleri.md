@@ -1,0 +1,1073 @@
+---
+FallbackID: 2087
+Title: Silverlight 2.0 Beta 2 ile gelen DataGrid yenilikleri
+PublishDate: 6/10/2008
+EntryID: Silverlight_2_0_Beta_2_ile_gelen_DataGrid_yenilikleri
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight 2.0
+old.EntryID: fdba63c3-cf68-4f61-9527-aef452123c3b
+---
+Silverlight 2.0 Beta 1 ile beraber gelen DataGrid kontrolünün ana
+yapılarını daha
+[önce](http://daron.yondem.com/tr/post/40cdfeb2-aae3-4259-9edf-73135b7becd1)
+incelemiştik. Bu yazımızda da **Silverlight 2.0 Beta 2** ile beraber
+gelen DataGrid yeniliklerine göz atacağız.
+
+**Sıralama İşlemleri**
+
+Maalesef Silverlight 2.0 Beta 1 ile beraber gelen DataGrid içerisinde
+herhangi bir otomatik sıralama yapısı gelmiyordu. Oysa çoğu ASP.NET'teki
+GridView'den de alışık olduğumuz üzere bazı durumlarda kolonların en üst
+başlık kısımlarını tıklanabilir hale getirerek kolon içerisindeki veriye
+göre satırları sıralatabiliyor olmak çok önemli bir işlevsellik. Artık
+Silverlight 2.0 Beta 2 ile beraber gelen DataGrid içerisinde bu özelliği
+sağlayan hazır bir yapı var.
+
+Peki neler yapmamız gerekiyor? Aslında yapmanız gereken neredeyse hiçbir
+şey yok. **IList** sınıfından türetilmiş herhangi bir listeyi DataGrid'e
+bağladığınızda sıralama (sorting) işlemleri otomatik olarak
+yapılabilecektir. Zaten baktığımızda DataGrid'lerimizi bu yapıyı
+destekleyen **List** veya **ObservableCollection** listeleri bağlıyoruz.
+
+Normal şartlarda listeleme için kullanılan veri tıklanan kolona bağlı
+olan ve **DisplayMemberBinding'de** gözüken veri kaynağı oluyor. Oysa
+bazı durumlarda bu senaryo da düzgün çalışmayacaktır. Örneğin normal
+kolonlar yerine bir **TemplateColumn** kullanıyorsanız **DisplayMember**
+olmadığı için sıralama işlemi de yapılamayacaktır. Bu gibi durumlarda
+kolonun görsel kısmından bağımsız olarak **SortMemberPath** özelliğini
+ayarlayarak kolonda ne gözükürse gözüksün arka planda sıralama işleminin
+farklı bir kolona veya veriye göre yapılmasını sağlayabilirsiniz.
+
+**Görsel Değişiklikler**
+
+Özellikle listeleme işlemini yaptığınız kolonların başlıklarında oklar
+meydana gelecektir. Bu okların tasarımından tutun, meydana gelme
+animasyonlarına kadar her şeyi tek tek değiştirebilirsiniz. Bunun için
+MSDN'den aşağıdaki adresi incelemeniz yeterli olacaktır.
+
+<http://msdn.microsoft.com/tr-tr/library/cc278066(en-us,vs.95).aspx>
+
+Bu adreste hali hazırda DataGrid içerisinde kullanılan tüm kaynakların,
+stillerin ve animasyonların kodları bulunuyor. Bunları alıp özelleştirip
+rahatlıkla uygulamanıza ekleyebilirsiniz. Örneğin aşağıda sadece
+kolonların başlıklarına ait kısımların özelleştirildiği bir XAML kodunu
+inceleyebilirsiniz. Satır arası yorumlarıma özellikle dikkat etmenizde
+fayda var.
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">UserControl</span><span style="color: blue;">
+</span><span style="color: red;">xmlns:my</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">x:Class</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SilverlightApplication5.Page</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">xmlns</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">http://schemas.microsoft.com/winfx/2006/xaml/presentation</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">xmlns:x</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">http://schemas.microsoft.com/winfx/2006/xaml</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span style="color: blue;">400</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">300</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">    \<</span><span
+style="color: #a31515;">UserControl.Resources</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">        \<</span><span
+style="color: #a31515;">Style</span><span style="color: blue;">
+</span><span style="color: red;">x:Key</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">KolonBasi</span>"<span style="color: blue;">
+</span><span style="color: red;">TargetType</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">local:DataGridColumnHeader</span>"
+
+<span style="color: blue;">              </span><span
+style="color: red;">xmlns:local</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">clr-namespace:System.Windows.Controls;</span>
+
+<span style="color: blue;">             
+assembly=System.Windows.Controls.Data</span>"
+
+<span style="color: blue;">              </span><span
+style="color: red;">xmlns:controls</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">clr-namespace:System.Windows.Controls;</span>
+
+<span style="color: blue;">             
+assembly=System.Windows</span>"<span style="color: blue;">\></span>
+
+ 
+
+<span style="color: blue;">            \<</span><span
+style="color: #a31515;">Setter</span><span style="color: blue;">
+</span><span style="color: red;">Property</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SeparatorBrush</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                \<</span><span
+style="color: #a31515;">Setter.Value</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                    \<</span><span
+style="color: #a31515;">SolidColorBrush</span><span
+style="color: blue;"> </span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFA4A4A4</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                \</</span><span
+style="color: #a31515;">Setter.Value</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">            \</</span><span
+style="color: #a31515;">Setter</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">            \<</span><span
+style="color: #a31515;">Setter</span><span style="color: blue;">
+</span><span style="color: red;">Property</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SeparatorVisibility</span>"
+
+<span style="color: blue;">                    </span><span
+style="color: red;">Value</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">Visible</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">            \<</span><span
+style="color: #a31515;">Setter</span><span style="color: blue;">
+</span><span style="color: red;">Property</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">Template</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                \<</span><span
+style="color: #a31515;">Setter.Value</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                    \<</span><span
+style="color: #a31515;">ControlTemplate</span><span
+style="color: blue;"> </span><span
+style="color: red;">TargetType</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">local:DataGridColumnHeader</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                      \<!--</span><span
+style="color: green;"> Gridi boyayan Gradient. </span><span
+style="color: blue;">--\></span>
+
+<span style="color: blue;">                        \<</span><span
+style="color: #a31515;">Grid</span><span style="color: blue;">
+</span><span style="color: red;">Name</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">RootElement</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">Grid.Background</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;"> </span><span
+style="color: red;">StartPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.276463,-0.00385181</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">EndPoint</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.276463,0.71</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">GradientStop</span><span
+style="color: blue;"> </span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFF9FAFA</span>"
+
+<span style="color: blue;">                                             
+    </span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">0</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">GradientStop</span><span
+style="color: blue;"> </span><span style="color: red;">Name</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor2</span>"
+
+<span style="color: blue;">                                             
+    </span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFEDF1F4</span>"
+
+<span style="color: blue;">                                             
+    </span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.37259</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">GradientStop</span><span
+style="color: blue;"> </span><span style="color: red;">Name</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor3</span>"
+
+<span style="color: blue;">                                             
+    </span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFE2E8EF</span>"
+
+<span style="color: blue;">                                             
+    </span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.372881</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">GradientStop</span><span
+style="color: blue;"> </span><span style="color: red;">Name</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor4</span>"
+
+<span style="color: blue;">                                             
+    </span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFC3C9CD</span>"
+
+<span style="color: blue;">                                             
+    </span><span style="color: red;">Offset</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\</</span><span style="color: #a31515;">LinearGradientBrush</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                            \</</span><span
+style="color: #a31515;">Grid.Background</span><span
+style="color: blue;">\></span>
+
+ 
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">Grid.Resources</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                             
+\<!--</span><span style="color: green;"> Normal duruma getirme
+animasyonu. </span><span style="color: blue;">--\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;"> </span><span style="color: red;">x:Key</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Normal
+State</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">ColorAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor2</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">(Color)</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFEDF1F4</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">ColorAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor3</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">(Color)</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFE2E8EF</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">ColorAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor4</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">(Color)</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFC3C9CD</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                               
+\</</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                             
+\<!--</span><span style="color: green;"> Fare üzerine gelince çalışan
+animasyon. </span><span style="color: blue;">--\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;"> </span><span style="color: red;">x:Key</span><span
+style="color: blue;">=</span>"<span style="color: blue;">MouseOver
+State</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">ColorAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor2</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">(Color)</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFE6EFF7</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">ColorAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor3</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">(Color)</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFD3E4F5</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">ColorAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">StopColor4</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">(Color)</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF87A5BA</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                               
+\</</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                             
+\<!--</span><span style="color: green;"> Sıralama bozulduğunda
+gösterilen animasyon. </span><span style="color: blue;">--\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;"> </span><span style="color: red;">x:Key</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Unsorted
+State</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">DoubleAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortIconElement</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Opacity</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">0.0</span>"<span style="color: blue;"> /\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">DoubleAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortIconTransform</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">ScaleY</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">BeginTime</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.0</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\</</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                             
+\<!--</span><span style="color: green;"> Sıralama anındaki animasyon
+</span><span style="color: blue;">--\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;"> </span><span style="color: red;">x:Key</span><span
+style="color: blue;">=</span>"<span style="color: blue;">SortedAscending
+State</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">DoubleAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortIconElement</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Opacity</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">1.0</span>"<span style="color: blue;"> /\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">DoubleAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortIconTransform</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">ScaleY</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span style="color: blue;">-1</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\</</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                             
+\<!--</span><span style="color: green;"> Sıralama anındaki animasyon
+</span><span style="color: blue;">--\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;"> </span><span style="color: red;">x:Key</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortedDescending State</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">DoubleAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortIconElement</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Opacity</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">1.0</span>"<span style="color: blue;"> /\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">DoubleAnimation</span><span
+style="color: blue;"> </span><span
+style="color: red;">Storyboard.TargetName</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortIconTransform</span>"
+
+<span style="color: blue;">                                             
+      </span><span
+style="color: red;">Storyboard.TargetProperty</span><span
+style="color: blue;">=</span>"<span style="color: blue;">ScaleY</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">Duration</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">00:00:0.3</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">To</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\</</span><span style="color: #a31515;">Storyboard</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                            \</</span><span
+style="color: #a31515;">Grid.Resources</span><span
+style="color: blue;">\></span>
+
+ 
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">Grid.RowDefinitions</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">RowDefinition</span><span
+style="color: blue;"> </span><span
+style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span style="color: blue;">\*</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">RowDefinition</span><span
+style="color: blue;"> </span><span
+style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span style="color: blue;">\*</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">RowDefinition</span><span
+style="color: blue;"> </span><span
+style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">Auto</span>"<span style="color: blue;"> /\></span>
+
+<span style="color: blue;">                            \</</span><span
+style="color: #a31515;">Grid.RowDefinitions</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">Grid.ColumnDefinitions</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">ColumnDefinition</span><span
+style="color: blue;"> </span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span style="color: blue;">\*</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">ColumnDefinition</span><span
+style="color: blue;"> </span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">Auto</span>"<span style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">ColumnDefinition</span><span
+style="color: blue;"> </span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">Auto</span>"<span style="color: blue;"> /\></span>
+
+<span style="color: blue;">                            \</</span><span
+style="color: #a31515;">Grid.ColumnDefinitions</span><span
+style="color: blue;">\></span>
+
+ 
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">Rectangle</span><span style="color: blue;">
+</span><span style="color: red;">Stretch</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Fill</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">StrokeThickness</span><span
+style="color: blue;">=</span>"<span style="color: blue;">2</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Stroke</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFFFFFFF</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Grid.ColumnSpan</span><span
+style="color: blue;">=</span>"<span style="color: blue;">2</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Grid.RowSpan</span><span
+style="color: blue;">=</span>"<span style="color: blue;">2</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">Rectangle</span><span style="color: blue;">
+</span><span style="color: red;">Grid.Row</span><span
+style="color: blue;">=</span>"<span style="color: blue;">2</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Grid.ColumnSpan</span><span
+style="color: blue;">=</span>"<span style="color: blue;">3</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Height</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">HorizontalAlignment</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Stretch</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Fill</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFA4A4A4</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">Rectangle</span><span style="color: blue;">
+</span><span style="color: red;">Grid.RowSpan</span><span
+style="color: blue;">=</span>"<span style="color: blue;">2</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Grid.Column</span><span
+style="color: blue;">=</span>"<span style="color: blue;">2</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">VerticalAlignment</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Stretch</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Fill</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">{TemplateBinding SeparatorBrush}</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">Visibility</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">{TemplateBinding SeparatorVisibility}</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                          \<!--</span><span
+style="color: green;"> Kolonun için kolon adı buraya yazılıyor Bind
+edilmiş </span><span style="color: blue;">--\></span>
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">controls:ContentPresenter</span><span
+style="color: blue;"> </span><span
+style="color: red;">Margin</span><span
+style="color: blue;">=</span>"<span style="color: blue;">3,0,3,0</span>"
+
+<span style="color: blue;">                                             
+        </span><span style="color: red;">Content</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">{TemplateBinding Content}</span>"
+
+<span style="color: blue;">                                             
+        </span><span style="color: red;">VerticalAlignment</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">Center</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                          \<!--</span><span
+style="color: green;"> Sıralam oku görseli burada </span><span
+style="color: blue;">--\></span>
+
+<span style="color: blue;">                            \<</span><span
+style="color: #a31515;">Path</span><span style="color: blue;">
+</span><span style="color: red;">Name</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortIconElement</span>"
+
+<span style="color: blue;">                                 
+</span><span style="color: red;">Margin</span><span
+style="color: blue;">=</span>"<span style="color: blue;">3,0,3,0</span>"
+
+<span style="color: blue;">                                 
+</span><span style="color: red;">Opacity</span><span
+style="color: blue;">=</span>"<span style="color: blue;">0</span>"
+
+<span style="color: blue;">                                 
+</span><span style="color: red;">Grid.Column</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"
+
+<span style="color: blue;">                                 
+</span><span style="color: red;">Stretch</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Uniform</span>"
+
+<span style="color: blue;">                                 
+</span><span style="color: red;">Width</span><span
+style="color: blue;">=</span>"<span style="color: blue;">8</span>"
+
+<span style="color: blue;">                                 
+</span><span style="color: red;">Data</span><span
+style="color: blue;">=</span>"<span style="color: blue;">F1
+M -5.215,0.0L 5.215,0.0L 0,6.099L -5.215,0.0 Z </span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">Path.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">SolidColorBrush</span><span
+style="color: blue;"> </span><span style="color: red;">Color</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FF313131</span>"<span style="color: blue;">
+/\></span>
+
+<span style="color: blue;">                               
+\</</span><span style="color: #a31515;">Path.Fill</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                               
+\<</span><span style="color: #a31515;">Path.RenderTransform</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                                   
+\<</span><span style="color: #a31515;">ScaleTransform</span><span
+style="color: blue;"> </span><span style="color: red;">Name</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">SortIconTransform</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">CenterX</span><span
+style="color: blue;">=</span>"<span style="color: blue;">4</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">CenterY</span><span
+style="color: blue;">=</span>"<span style="color: blue;">2.5</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">ScaleX</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"
+
+<span style="color: blue;">                                             
+      </span><span style="color: red;">ScaleY</span><span
+style="color: blue;">=</span>"<span style="color: blue;">1</span>"<span
+style="color: blue;"> /\></span>
+
+<span style="color: blue;">                               
+\</</span><span style="color: #a31515;">Path.RenderTransform</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                            \</</span><span
+style="color: #a31515;">Path</span><span style="color: blue;">\></span>
+
+<span style="color: blue;">                        \</</span><span
+style="color: #a31515;">Grid</span><span style="color: blue;">\></span>
+
+<span style="color: blue;">                    \</</span><span
+style="color: #a31515;">ControlTemplate</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                \</</span><span
+style="color: #a31515;">Setter.Value</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">            \</</span><span
+style="color: #a31515;">Setter</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">        \</</span><span
+style="color: #a31515;">Style</span><span style="color: blue;">\></span>
+
+ 
+
+<span style="color: blue;">    \</</span><span
+style="color: #a31515;">UserControl.Resources</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \<</span><span
+style="color: #a31515;">Grid</span><span style="color: blue;">
+</span><span style="color: red;">x:Name</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">LayoutRoot</span>"
+
+<span style="color: blue;">          </span><span
+style="color: red;">Background</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">White</span>"<span style="color: blue;">\></span>
+
+<span style="color: blue;">        \<!--</span><span
+style="color: green;"> Stilimizi gride bağladık. </span><span
+style="color: blue;">--\></span>
+
+<span style="color: blue;">        \<</span><span
+style="color: #a31515;">my:DataGrid</span><span style="color: blue;">
+</span><span style="color: red;">x:Name</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Veri</span>"
+
+<span style="color: blue;">                    </span><span
+style="color: red;">ColumnHeaderStyle</span><span
+style="color: blue;">=</span>"<span style="color: blue;">{StaticResource
+KolonBasi}</span>"
+
+<span style="color: blue;">                    </span><span
+style="color: red;">AutoGenerateColumns</span><span
+style="color: blue;">=</span>"<span style="color: blue;">False</span>"
+
+<span style="color: blue;">                    </span><span
+style="color: red;">AlternatingRowBackground</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFFFFF00</span>"
+
+<span style="color: blue;">                    </span><span
+style="color: red;">HorizontalGridlinesBrush</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFD4FF00</span>"
+
+<span style="color: blue;">                    </span><span
+style="color: red;">RowBackground</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFE3E3E3</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">            \<</span><span
+style="color: #a31515;">my:DataGrid.Columns</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">                \<</span><span
+style="color: #a31515;">my:DataGridTextColumn</span><span
+style="color: blue;"> </span><span
+style="color: red;">Header</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Adi</span>"
+
+<span style="color: blue;">                                     
+</span><span style="color: red;">DisplayMemberBinding</span><span
+style="color: blue;">=</span>"<span style="color: blue;">{Binding
+Adi}</span>"<span style="color: blue;"> /\></span>
+
+<span style="color: blue;">            \</</span><span
+style="color: #a31515;">my:DataGrid.Columns</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">        \</</span><span
+style="color: #a31515;">my:DataGrid</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \</</span><span
+style="color: #a31515;">Grid</span><span style="color: blue;">\></span>
+
+<span style="color: blue;">\</</span><span
+style="color: #a31515;">UserControl</span><span
+style="color: blue;">\></span>
+
+**Otomatik boyutlandırma**
+
+Yeni bir Silverlight uygulaması yarattığınızda sahnede yer alan
+LayoutRoot aslında bir Grid nesnesidir. Silverlight 2.0 Beta 1'den
+farklı olarak Beta 2 ile beraber gelen DataGrid'in kendi içerisindeki
+veriye göre kendini otomatik boyutlandırma şansı var. Varsayılan
+ayarları ilebir DataGrid yarattığınızda bu özellik açık geliyor. Tabi
+DataGrid'in istediği kadar büyüyebilmesi için uygun kontroller içerisine
+yerleştirilerek herhangi bir şekilde boyutlarının sınırlandırılmamış
+olması gerekiyor. Programatik olarak bir nesnenin yükseklik veya
+genişliğini otomatik olarak ayarlamak istiyorsanız <span
+style="color: blue;">Double</span>.NaN 'a eşitlemeniz yeterli olacaktır.
+
+DataGrid'in genişliğini otomatik olarak ayarlamanın yanı sıra artık
+kolonlar da içlerindeki veriye göre otomatik olarak
+boyutlandırılabiliyorlar. Bu boyutlandırma için ise 4 farklı teknik
+kullanılabiliyor. Birincisi "**Auto**" değerini vererek işlemi tamamen
+otomatiğe bırakmak, ikincisi **SizeToHeader** diyerek kolonun kendi
+başlığı kadar genişleyebilmesini sağlamak, üçüncüsü **SizeToCells**
+diyerek kolonun başlığından bağımsız olarak içeriğindeki veri kadar
+genişlemesini sağlamak ve dördüncüsü de doğrudan sayısal bir değer
+vererek kolonun genişliğini ayarlamak. Aşağıda örnek bir kullanımı
+görebilirsiniz.
+
+<span style="color: blue;">\<</span><span
+style="color: #a31515;">my:DataGrid</span><span style="color: blue;">
+</span><span style="color: red;">x:Name</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Veri</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">ColumnHeaderStyle</span><span
+style="color: blue;">=</span>"<span style="color: blue;">{StaticResource
+KolonBasi}</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">AutoGenerateColumns</span><span
+style="color: blue;">=</span>"<span style="color: blue;">False</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">AlternatingRowBackground</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFFFFF00</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">HorizontalGridlinesBrush</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFD4FF00</span>"
+
+<span style="color: blue;">            </span><span
+style="color: red;">RowBackground</span><span
+style="color: blue;">=</span>"<span
+style="color: blue;">\#FFE3E3E3</span>"<span
+style="color: blue;">\></span>
+
+<span style="color: blue;">  \<</span><span
+style="color: #a31515;">my:DataGrid.Columns</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">    \<</span><span
+style="color: #a31515;">my:DataGridTextColumn</span><span
+style="color: blue;"> </span><span style="color: red;">
+**Width**</span><span style="color: blue;">**=**</span>"<span
+style="color: blue;">**SizeToHeader**</span>"
+
+<span style="color: blue;">                          </span><span
+style="color: red;">Header</span><span
+style="color: blue;">=</span>"<span style="color: blue;">Adi</span>"
+
+<span style="color: blue;">                          </span><span
+style="color: red;">DisplayMemberBinding</span><span
+style="color: blue;">=</span>"<span style="color: blue;">{Binding
+Adi}</span>"<span style="color: blue;"> /\></span>
+
+<span style="color: blue;">  \</</span><span
+style="color: #a31515;">my:DataGrid.Columns</span><span
+style="color: blue;">\></span>
+
+<span style="color: blue;">\</</span><span
+style="color: #a31515;">my:DataGrid</span><span
+style="color: blue;">\></span>
+
+Aynı işlemi kod ile yaptığınızda ise doğrudan DataGridLength sınıfı
+üzerinden gerekli seçeneklere ulaşabiliyorsunuz. Sayısal bir değer
+atayarak kolonun genişliğini sabitlemek istediğinizde ise maalesef sizi
+ufak bir sorun bekliyor. Kolon genişliğini **DataGridLength** olarak
+atamanız lazım, **integer** veya **double** kesinlikle kabul edilmiyor.
+Bu durumda yardımımıza **DataGridLengthConverter** adında bir sınıf
+yetişiyor.
+
+**[VB]**
+
+kolon.Width = (<span style="color: blue;">New</span>
+DataGridLengthConverter).**ConvertFrom**(50)
+
+**[C\#]**
+
+kolon.Width = (DataGridLength)(<span style="color: blue;">new</span>
+DataGridLengthConverter()).**ConvertFrom**(100);
+
+DataGridLengthConverter sınıfındaki ConvertFrom metodu ile elimizdeki
+herhangi bir değişkenden DataGridLenght yaratarak kolonlarımızın
+genişliğini kod tarafından da düzenleyebiliyoruz.
+
+Hepinize kolay gelsin.
+
+

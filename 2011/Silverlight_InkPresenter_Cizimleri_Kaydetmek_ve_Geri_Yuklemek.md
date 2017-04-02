@@ -1,0 +1,237 @@
+---
+FallbackID: 2548
+Title: Silverlight InkPresenter Çizimleri Kaydetmek ve Geri Yüklemek
+PublishDate: 2/4/2011
+EntryID: Silverlight_InkPresenter_Cizimleri_Kaydetmek_ve_Geri_Yuklemek
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Silverlight 4
+old.EntryID: 9ecd02b9-ebc9-49d6-a0bf-377b553f0a98
+---
+Dün[InkPresenter kontrolü bir
+giriş](http://daron.yondem.com/tr/post/e9816163-dc3a-4765-a1a4-fd62d627bf61)
+yapmıştık. Kontrol içerisinde nasıl çizim yapılabileceğini ve farklı
+çizim özelliklerinin nasıl kullanılabileceğine göz atmıştık. Bugün ise
+yapılan bu çizimler yeri geldiğinde istemci tarafında veya belki de
+sunucu tarafında nasıl kaydedilebileceğine göz atacağız.
+
+Hatırlarsanız InkPresenter kontrolünde çizim yapılabilmesi için Stroke
+nesneleri yaratıyor Stroke'lar içerisine StylusPoint'ler ekliyor ve
+sonra da Stroke'ları InkPresenter'a veriyorduk. Aynı şekilde bir
+InkPresenter içerisinde gösterilen tüm Stroke'ları alabilir ve bunların
+içerisindeki noktaları da tek tek gezerek programatik olarak
+bulabiliriz. Böyle bir durumda bizim bu noktalara ve çizgilere ait
+ihtiyaç duyduğumuz verileri alıp kaydedebiliyor olmamız istediğimiz
+işlevselliği sağlamak için yeterli olacaktır.
+
+**InkPresenter'daki çizimleri kaydetmek.**
+
+Dünkü projemize bire bir devam ettiğimizi düşünürsek ilk olarak ekrana
+bir "Kaydet" ve bir de "Yükle" düğmesi eklemekte fayda var.
+
+**[XAML]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+    <Grid x:Name="LayoutRoot" Background="White">
+       <Rectangle Stroke="Black"/>
+       <InkPresenter x:Name="InkPresent" Background="Transparent"/>
+       <Button x:Name="btnNormal" Content="Normal Çiz" HorizontalAlignment="Right" 
+        VerticalAlignment="Top" Width="75" Margin="0,8,87,0"/>
+       <Button x:Name="btnKalinKirmizi" Content="Kalın Kırmızı" HorizontalAlignment="Right" 
+        VerticalAlignment="Top" Width="75" Margin="0,8,8,0"/>
+       <Button x:Name="btnSave" Content="Kaydet" HorizontalAlignment="Right" 
+        VerticalAlignment="Bottom" Width="75" Margin="0,0,87,8"/>
+       <Button x:Name="btnLoad" Content="Yükle" HorizontalAlignment="Right" 
+        VerticalAlignment="Bottom" Width="75" Margin="0,0,8,8"/>
+    </Grid>
+```
+
+Düğmelerimizi ekledikten sonra hemen kaydetme işlemine başlayalım. Daha
+önce de bahsettiğimiz gibi InkPresenter içerisinde tüm Stroke'lara
+Strokes kolleksiyonu üzerinden erişebiliriz. Her bir Stroke içerisinde
+de StylusPoints kolleksiyonunu gezmek yeterli olacaktır. Tüm bu yapıyı
+kaydetmek için bir XML dokümanı oluşturmak en doğrusu olabilir.
+Kaydedeceğimiz XML dokümanının yapısı aşağıdaki şekilde olabilir.
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white; margin-left: 40px;"}
+<Strokes>
+  <Stroke>
+    <Color A="255" R="0" G="0" B="0" />
+    <Points>
+      <Point X="69" Y="109" />
+      <Point X="70" Y="109" />
+    </Points>
+    <Width>3</Width>
+    <Height>3</Height>
+  </Stroke>
+  <Stroke>
+    <Color A="255" R="255" G="0" B="0" />
+    <Points>
+      <Point X="227" Y="86" />
+      <Point X="226" Y="90" />
+    </Points>
+    <Width>10</Width>
+    <Height>3</Height>
+  </Stroke>
+</Strokes>
+```
+
+Gördüğünüz gibi doküman içerisinde birden çok Stroke bulunabiliyor. Her
+Stroke'un rengini ayrı bir XElement olarak kaydedebiliriz. Sonrasında da
+Points adında bir XElement daha açarak bunun da içine her çizgideki
+noktaları X ve Y koordinatları ile tek tek eklersek işlem tamamdır.
+Şimdi sıra geldi bu XML'i yaratacak kodu yazmaya.
+
+İlk olarak projemize "System.XML.LINQ"'i referans olarak ekleyelim.
+Böylece XLINQ nesnelerini kullanabiliriz.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white; margin-left: 40px;"}
+var xmlElements =
+    new XElement("Strokes", InkPresent.Strokes.Select(stroke =>
+            new XElement("Stroke",
+                new XElement("Color",
+                    new XAttribute("A", stroke.DrawingAttributes.Color.A),
+                    new XAttribute("R", stroke.DrawingAttributes.Color.R),
+                    new XAttribute("G", stroke.DrawingAttributes.Color.G),
+                    new XAttribute("B", stroke.DrawingAttributes.Color.B)
+                ),
+                new XElement("Points", stroke.StylusPoints
+                    .Select(point =>
+                        new XElement("Point",
+                            new XAttribute("X", point.X),
+                            new XAttribute("Y", point.Y)
+                        )
+                    )
+                ),
+                new XElement("Width", stroke.DrawingAttributes.Width),
+                new XElement("Height", stroke.DrawingAttributes.Height)
+            )
+        )
+    );
+```
+
+İşte herşey bitti :) InkPresent içerisindeki Stroke'ları gezip birer
+XElement yaratmak sonra renk bilgilerini DrawingAttributes üzerinden
+almak, üzerine de Points kolleksiyonunu gezip tek tek noktaları koymak
+işimizi görecektir. Tabi DrawingAttributes üzerinden Height ve Width
+değerlerini de kenara kaydediyoruz ki farklı kalınlıklarda yazılmış
+çizgilerle ilgili bilgileri de kaydetmiş olalım.
+
+Kaydedilen bu XML elementi listesini isterseniz bir web servisi ile
+sunucuya gönderebilir veya benim yapacağımız gibi bir SaveFileDialog ile
+kullanıcının kendi bilgisayarına kaydetmesini de sağlayabilirsiniz.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white; margin-left: 40px;"}
+SaveFileDialog saveDlg = new SaveFileDialog();
+saveDlg.Filter = "XML Files (*.xml)|*.xml";
+saveDlg.DefaultExt = ".xml";
+ 
+if ((bool)saveDlg.ShowDialog())
+{
+    using (Stream fs = saveDlg.OpenFile())
+    {
+        System.IO.StreamWriter sw = new System.IO.StreamWriter(fs);
+        sw.WriteLine(xmlElements.ToString());
+        sw.Flush();
+        sw.Close();
+        fs.Close();
+    }
+}
+```
+
+Kaydetme işlemini tamamladığımıza göre sıra geliyor kaydedilen bu
+dosyayı okuyup InkPresenter kontrolünde dosyadaki çizimi göstermeye.
+"Yükle" düğmemiz zaten hazırdı.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+ string XMLString = "";
+ OpenFileDialog loadDlg = new OpenFileDialog();
+ loadDlg.Filter = "XML Files (*.xml)|*.xml";
+ loadDlg.Multiselect = false;
+ loadDlg.ShowDialog();
+ if (loadDlg.File != null)
+ {
+     XMLString += loadDlg.File.OpenText().ReadToEnd();
+ 
+ }
+```
+
+Yükle düğmesine tıklandığında bir OpenFileDialog açarak XML dosyalarının
+seçilebilmesini sağlıyoruz. Eğer bir dosya verilmiş ise tüm dosya
+içeriğini XMLString adında bir String değişkene aktarıyoruz. Sıra
+geliyor bu String'i bir XDocument'a Parse edip sonrasında XML içerisinde
+gezerek gerekli Stroke ve StylusPoint'leri yaratmaya.
+
+**[C\#]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+string XMLString = "";
+OpenFileDialog loadDlg = new OpenFileDialog();
+loadDlg.Filter = "XML Files (*.xml)|*.xml";
+loadDlg.Multiselect = false;
+loadDlg.ShowDialog();
+if (loadDlg.File != null)
+{
+    XMLString += loadDlg.File.OpenText().ReadToEnd();
+ 
+    InkPresent.Strokes.Clear();
+    XDocument XDoc = XDocument.Parse(XMLString);
+    System.Windows.Ink.Stroke LoadedStroke;
+    StylusPoint LoadedPoint;
+ 
+    foreach (XElement XStroke in XDoc.Element("Strokes").Elements("Stroke"))
+    {
+        LoadedStroke = new System.Windows.Ink.Stroke();
+        LoadedStroke.DrawingAttributes.Height = double.Parse(XStroke.Element("Height").Value);
+        LoadedStroke.DrawingAttributes.Width = double.Parse(XStroke.Element("Width").Value);
+        LoadedStroke.DrawingAttributes.Color = 
+        Color.FromArgb(byte.Parse(XStroke.Element("Color").Attribute("A").Value),
+                                 byte.Parse(XStroke.Element("Color").Attribute("R").Value),
+                                 byte.Parse(XStroke.Element("Color").Attribute("G").Value),
+                                 byte.Parse(XStroke.Element("Color").Attribute("B").Value));
+ 
+        foreach (XElement XPoint in XStroke.Element("Points").Elements("Point"))
+        {
+            LoadedPoint = new StylusPoint();
+            LoadedPoint.X = double.Parse(XPoint.Attribute("X").Value);
+            LoadedPoint.Y = double.Parse(XPoint.Attribute("Y").Value);
+            LoadedStroke.StylusPoints.Add(LoadedPoint);
+        }
+        InkPresent.Strokes.Add(LoadedStroke);
+    }
+}
+```
+
+Yukarıdaki kodu satır satır okuyacak olursak; ilk olarak eldeki
+InkPresenter kontrolünün Strokes kolleksiyonunu temizleyerek yeni bir
+çizim yüklenebilecek hale getiriyoruz. Sonrasında XMLString'den bir
+XDocument Pars ederek For döngülerinde Stroke'lar dönüyor bir diğer iç
+For döngüsünde ise her Stroke'un içindeki noktaları dönerek gerekli
+Stroke ve Point nesneleri nested bir şekilde yaratıyoruz. Yaratılan,
+içinde noktaları hazır olan her Stroke'u ayrıca InkPresenter'a veriyoruz
+ki hemen ekranda gözüksünler.
+
+Artık herşey bitti. Uygulamamız çizim yapılabilir durumunda çizimlerin
+kaydedilebildiği ve tekrar yüklenebildiği bir hale geldi. Siz de
+aşağıdan uygulamayı test edebilirsiniz ;)
+
+[![Get Microsoft
+Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)](http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50826.0)\
+*Örnekteki çizimlerinizi bilgisayarınıza kaydedebilir veya geri
+yükleyebilirsiniz.*
+
+Örneğin kaynak kodlarını aşağıdan indirebilirsiniz.
+
+[Örnek Proje Kaynak Kodları - 03022011\_2.zip (280,44
+KB)](http://cdn.daron.yondem.com/assets/2548/03022011_2.zip)
+
+Hepinize kolay gelsin.
+
+

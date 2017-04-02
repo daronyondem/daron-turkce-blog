@@ -1,0 +1,459 @@
+---
+FallbackID: 2400
+Title: Expression Blend ile Databinding
+PublishDate: 9/4/2009
+EntryID: Expression_Blend_ile_Databinding
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Expression Blend, Silverlight 3.0
+old.EntryID: a9fd3d00-378d-43a8-a9c3-f7224c2b3797
+---
+İster Silverlight tarafında olsun ister WPF teknolojinin ve araçların
+sürekli bahsedilen en önemli özelliklerinden biri tasarımcı ile
+yazılımcı arasındaki ilişkiyi düzenlediği yönünde. Tabi ki eskisine
+kıyasla çok sayıda artı özellik bu iki profil arasındaki "kavgaların"
+azalmasını sağlıyor fakat diğer yandan özellikle yazılımcının da
+Expression Blend uyumlu binding yapılabilir nesnelerini tanımlayabiliyor
+olması çok önemli. Tabi aynı derecede bir tasarımcının da Blend
+içerisinden yola çıkarak programcının arka planda kendisine sağladığı
+CLR nesnelerine ulaşabilmesi şart.
+
+Tüm bu senaryo ile ilgili ufak bir örnek yapacağımız bu yazımızda ilk
+olarak bir programcı olarak tasarımcının uygulama tasarımında istediği
+gibi işlevsellikleri ayarlayabileceği ve binding'leri set ederek hangi
+datanın nerede gözükeceğine karar verebileceği bir altyapı
+oluşturacağız. Sonrasonda tasarımcı profili ile Expression Blend'e
+geçerek arka tarafta programcının hazırlamış olduğu nesneleri alıp
+uygulama arayüzünde istediğimiz yerlere yerleştireceğiz.
+
+**Visual Studio tarafından başlayalım!**
+
+Varsayalım ki elinizde bir Insan listesi var ve bunu bir şekilde
+tasarımcının ellerine aktarmak istiyorsunuz. Sizin bir programcı olarak
+yapmanız gereken bu listeyi bir veri kaynağından alıp (bu ister SQL
+ister başka bir kaynak olabilir) Expression Blend tarafında
+kullanılabilir hale getirmek. Yani verinizin User Interface tarafında
+kullanılabilmesini sağlamanız gerekiyor. İlk olarak gelin basit bir
+şekilde **Insan** nesnemizi tanımlayalım.
+
+**[VB]**
+
+<span style="color: blue;">Public</span> <span
+style="color: blue;">Class</span> Insan
+
+ 
+
+    <span style="color: blue;">Private</span> \_Soyadi <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+
+    <span style="color: blue;">Public</span> <span
+style="color: blue;">Property</span> Soyadi() <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+
+        <span style="color: blue;">Get</span>
+
+            <span style="color: blue;">Return</span> \_Soyadi
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">Get</span>
+
+        <span style="color: blue;">Set</span>(<span
+style="color: blue;">ByVal</span> value <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>)
+
+            \_Soyadi = value
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">Set</span>
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Property</span>
+
+ 
+
+ 
+
+    <span style="color: blue;">Private</span> \_Adi <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+
+    <span style="color: blue;">Public</span> <span
+style="color: blue;">Property</span> Adi() <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>
+
+        <span style="color: blue;">Get</span>
+
+            <span style="color: blue;">Return</span> \_Adi
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">Get</span>
+
+        <span style="color: blue;">Set</span>(<span
+style="color: blue;">ByVal</span> value <span
+style="color: blue;">As</span> <span style="color: blue;">String</span>)
+
+            \_Adi = value
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">Set</span>
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Property</span>
+
+ 
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Class</span>
+
+Gördüğünüz gibi nesnemizin şimdilik iki basit özelliği var. Amacımız bu
+nesneden birden çok sayıda yaratıp bir liste olarak tasarımcıya
+aktarmak. Bunun için ayrı bir sınıf tanımlamamız uygun olur. Söz konusu
+sınıf içerisinde de **ObservableCollection** dönecek bir metod yer
+alacak.
+
+**[VB]**
+
+<span style="color: blue;">Public</span> <span
+style="color: blue;">Class</span> AllData
+
+ 
+
+    <span style="color: blue;">Private</span> \_All <span
+style="color: blue;">As</span> <span style="color: blue;">New</span>
+System.Collections.ObjectModel.ObservableCollection(<span
+style="color: blue;">Of</span> Insan)
+
+    <span style="color: blue;">Public</span> <span
+style="color: blue;">Property</span> All() <span
+style="color: blue;">As</span>
+System.Collections.ObjectModel.ObservableCollection(<span
+style="color: blue;">Of</span> Insan)
+
+        <span style="color: blue;">Get</span>
+
+            <span style="color: blue;">Return</span> \_All
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">Get</span>
+
+        <span style="color: blue;">Set</span>(<span
+style="color: blue;">ByVal</span> value <span
+style="color: blue;">As</span>
+System.Collections.ObjectModel.ObservableCollection(<span
+style="color: blue;">Of</span> Insan))
+
+            \_All = value
+
+        <span style="color: blue;">End</span> <span
+style="color: blue;">Set</span>
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Property</span>
+
+ 
+
+    <span style="color: blue;">Sub</span> <span
+style="color: blue;">New</span>()
+
+        \_All.Add(<span style="color: blue;">New</span> Insan() <span
+style="color: blue;">With</span> {.Adi = <span
+style="color: #a31515;">"1asdasd"</span>, .Soyadi = <span
+style="color: #a31515;">"2222"</span>})
+
+        \_All.Add(<span style="color: blue;">New</span> Insan() <span
+style="color: blue;">With</span> {.Adi = <span
+style="color: #a31515;">"2asdasd"</span>, .Soyadi = <span
+style="color: #a31515;">"4222"</span>})
+
+        \_All.Add(<span style="color: blue;">New</span> Insan() <span
+style="color: blue;">With</span> {.Adi = <span
+style="color: #a31515;">"3asdasd"</span>, .Soyadi = <span
+style="color: #a31515;">"5222"</span>})
+
+        \_All.Add(<span style="color: blue;">New</span> Insan() <span
+style="color: blue;">With</span> {.Adi = <span
+style="color: #a31515;">"4asdasd"</span>, .Soyadi = <span
+style="color: #a31515;">"6222"</span>})
+
+    <span style="color: blue;">End</span> <span
+style="color: blue;">Sub</span>
+
+ 
+
+<span style="color: blue;">End</span> <span
+style="color: blue;">Class</span>
+
+**AllData** adındaki bu sınıfın içerisinde **All** adında da bir
+**Property** var. Bu property geriye bir **ObservableCollection**
+döndürüyor. Bildiğiniz üzere **ObservableCollection'lar** **TwoWay**
+binding destekleyen collection nesneleridir. Yani görsel arayüzdeki
+değer değişiklikleri de otomatik olarak arka plandaki nesneye yansır.
+Expression Blend'de bu nesne bind edildiğinde Blend nesneyi çağırmadan
+önce bir Instance yani kopyasını alacaktır. İşte tam da bu kopyayı
+yaratırken sınıfımızın **constructor'ında** datamızı
+**ObservableCollection'ımıza** ekleyebiliriz. Kod yönetimi açısından tüm
+bu kodları harici bir VB veya C\# dosyasında yazmanızda fayda var.
+
+İşimiz bu kadar artık bu veriyi gösterme işi tasarımcının işi.
+Expression Blend tarafına geçerek geri kalanı bir tasarımcı profili ile
+yapalım.
+
+**Expression Blend tarafına geçiyoruz!**
+
+Aynı projeyi Expression Blend ile açtıktan sonra sağ barda "Data" tabını
+bulabilirsiniz. Data tabında "Add Live Data Source" komutunu verdikten
+sonra "Define New Object Data Source" diyebilirsiniz.
+
+![Expression Blend içerisinde Data Source'umuzu
+tanımlıyoruz.](http://cdn.daron.yondem.com/assets/2400/03092009_1.png)\
+*Expression Blend içerisinde Data Source'umuzu tanımlıyoruz.*
+
+Karşınızda çıkacak ekranda AllData adındaki sınıfımızı seçmeniz yeni
+DataSource'u yaratmanız için yeterli olacaktır. Artık sıra geldi bu
+DataSource içerisinde hangi Property'yi nasıl kullanacağınıza.
+
+![Nesnelerimiz Expression Blend tarafından
+algılandı.](http://cdn.daron.yondem.com/assets/2400/03092009_2.png)\
+*Nesnelerimiz Expression Blend tarafından algılandı.*
+
+Artık Data tabındaki veri kaynağı ile ilgili tüm detayları görebiliriz.
+Tasarımcı olarak Data tabından veriyi sahneye koymak için birkaç yolumuz
+var. Bunlardan ilki liste görünüşünü kullanmak. Şu an yukarıdaki ekran
+görüntüsünde **List Mode** gözüküyor. Bu durumda
+**ObservableCollection'ı** alıp sahneye bıraktığınızda otomatik olarak
+bir ListBox yaratılacak ve veri ListBox'a bağlanacaktır.
+
+![Sürükle, bırak! Ve karşında
+ListBox!](http://cdn.daron.yondem.com/assets/2400/03092009_3.jpg)\
+*Sürükle, bırak! Ve karşında ListBox!*
+
+Artık bu ListBox'ın ItemTemplate'inin vs tasarımını değiştirmek tabi ki
+makalemizin sınırları dışında. Fakat unutmamak gerek ki artık canlı
+veriye bağlı ve tamamiyle tasarımı özelleştirilebilir bir ListBox
+tasarımcımızın ellerinde. Ayrıca tek seçenek ListBox da değil. Eğer
+sahnede bir Grid veya başka bir kontrol olsaydı doğrudan Collection'ı
+onun üzerine sürükleyip bırakarak da Data Binding işlemi rahatlıkla
+yapılabilirdi.
+
+![Details Mode
+karşınızda.](http://cdn.daron.yondem.com/assets/2400/03092009_4.png)\
+*Details Mode karşınızda.*
+
+List Mode'un yanı sıra Blend içerisinde kullanabileceğimiz bir diğer
+Data modu da Details Mode olarak karşımıza çıkıyor. Bu moddayken veri
+kaynağından nesneleri ancak Property'ler olarak sürükleyip
+bırakabilirsiniz çünkü artık amacınız bir liste göstermek değil. Artık
+amacımız nesnelerin detaylarınız göstermek. Tek tek her Property'yi
+sahnedek ayrı nesnelere Bind edebileceğiniz gibi nesnelerin
+yaratılmasını Blend'e de bırakabilirsiniz. Örneğin gelin hem Adi hem de
+Soyadi Property'lerini seçerek sahneye sürükleyip bırakalım.
+
+![Details Mode ile otomatik detay görünümü
+yaratabilirsiniz.](http://cdn.daron.yondem.com/assets/2400/03092009_5.jpg)\
+*Details Mode ile otomatik detay görünümü yaratabilirsiniz.*
+
+Gördüğünüz gibi sürükle bırak sonrasında otomatik olarak bir Grid
+yaratılarak içerisinde hem **Property** isimlerini taşıyan hem de
+değerleri taşıyan birer **TextBlock** yerleştirildi. İşin en güzel
+tarafı binding işlemini aynı nesne kopyasına yaptığımız için ListBox
+içerisinde hangi nesne seçilirse onun detaylarının bu Grid içerisinde
+gösterilecek olması. Yani tüm işlevsellik tamamlanmış durumda!
+
+**Arka planda Blend neler yaptı?**
+
+Blend aslında basit bir şekilde Binding mekanizmalarının tasarımcılar
+tarafında rahatlıkla kullanılabilmesini sağlıyor. Maalesef şu an için bu
+mekanizmaları yazılımcılar olarak bizim elle yazmaktan başka şansımız
+ki. Visual Studio 2010 ile bu durumda toparlanacak ve bizler de tüm bu
+ayarları yapabileceğimiz menülere sahip olacağız.
+
+XAML tarafına bir göz atacak olursak dikkatimizi çeken birkaç nokta
+olabilir.
+
+**[XAML]**
+
+<span style="color: gray;">\<UserControl</span>
+
+<span style="color: gray">   </span> <span style="color: gray;">
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"</span><span
+style="color: gray"> </span>
+
+<span style="color: gray">   </span> <span style="color: gray;">
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"</span>
+
+<span style="color: gray">   </span> <span style="color: gray;">
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"</span><span
+style="color: gray"> </span>
+
+<span style="color: gray">   </span> <span style="color: gray;">
+mc:Ignorable="d"</span><span style="color: red;"> xmlns</span><span
+style="color: blue;">:</span><span style="color: red;">local</span><span
+style="color: blue;">="clr-namespace:SilverlightApplication2"</span><span
+style="color: gray;">
+xmlns:dataFormToolkit="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data.DataForm.Toolkit"
+x:Class="SilverlightApplication2.MainPage"</span>
+
+<span style="color: gray">   </span> <span style="color: gray;">
+d:DesignWidth="640" d:DesignHeight="480"\></span>
+
+<span style="color: #808080;">    \<UserControl.Resources</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">local</span><span
+style="color: blue;">:</span><span
+style="color: #a31515;">AllData</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Key</span><span
+style="color: blue;">="AllDataDataSource"</span><span
+style="color: red;"> d</span><span style="color: blue;">:</span><span
+style="color: red;">IsDataSource</span><span
+style="color: blue;">="True"/\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">DataTemplate</span><span style="color: red;">
+x</span><span style="color: blue;">:</span><span
+style="color: red;">Key</span><span
+style="color: blue;">="InsanTemplate"\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">StackPanel</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">                </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">TextBlock</span><span style="color: red;">
+Text</span><span style="color: blue;">="{</span><span
+style="color: #a31515;">Binding</span><span style="color: red;">
+Adi</span><span style="color: blue;">}"/\></span>
+
+<span style="color: #a31515;">                </span><span
+style="color: blue;">\<</span><span
+style="color: #a31515;">TextBlock</span><span style="color: red;">
+Text</span><span style="color: blue;">="{</span><span
+style="color: #a31515;">Binding</span><span style="color: red;">
+Soyadi</span><span style="color: blue;">}"/\></span>
+
+<span style="color: #a31515;">            </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">StackPanel</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">        </span><span
+style="color: blue;">\</</span><span
+style="color: #a31515;">DataTemplate</span><span
+style="color: blue;">\></span>
+
+<span style="color: #808080;">    \</UserControl.Resources</span><span
+style="color: blue;">\></span>
+
+<span style="color: #a31515;">   </span><span style="color: #808080;">
+</span> <span style="color: #808080;">\<Grid
+x:Name="LayoutRoot"</span><span style="color: red;">
+DataContext</span><span style="color: blue;">="{</span><span
+style="color: #a31515;">Binding</span><span style="color: red;">
+Source</span><span style="color: blue;">={</span><span
+style="color: #a31515;">StaticResource</span><span style="color: red;">
+AllDataDataSource</span><span style="color: blue;">}}"</span><span
+style="color: gray;"> \></span>
+
+<span style="color: #a31515;">        </span> <span
+style="color: gray;">\<ListBox x:Name="listBox"
+Margin="47,96,0,84"</span><span style="color: red;">
+ItemTemplate</span><span style="color: blue;">="{</span><span
+style="color: #a31515;">StaticResource</span><span style="color: red;">
+InsanTemplate</span><span style="color: blue;">}"</span><span
+style="color: red;"> ItemsSource</span><span
+style="color: blue;">="{</span><span
+style="color: #a31515;">Binding</span><span style="color: red;">
+All</span><span style="color: blue;">}"</span><span style="color: red;">
+</span> <span style="color: gray;"> HorizontalAlignment</span><span
+style="color: gray;">="Left" Width="200"/\></span>
+
+<span style="color: #a31515;">        </span> <span
+style="color: gray;">\<Grid</span><span style="color: red;">
+DataContext</span><span style="color: blue;">="{</span><span
+style="color: #a31515;">Binding</span><span style="color: red;">
+SelectedItem</span><span style="color: blue;">,</span><span
+style="color: red;"> ElementName</span><span
+style="color: blue;">=listBox}"</span><span style="color: red;"> </span>
+<span style="color: gray;"> Margin</span><span
+style="color: gray;">="310,94,76,186"</span><span style="color: red;">
+d</span><span style="color: blue;">:</span><span
+style="color: red;">DataContext</span><span
+style="color: blue;">="{</span><span
+style="color: #a31515;">Binding</span><span style="color: red;">
+All</span><span style="color: blue;">[</span>0<span
+style="color: blue;">]}"</span><span style="color: red;"> </span> <span
+style="color: gray;"> Background</span><span
+style="color: gray;">="White"\></span>
+
+<span style="color: #a31515;">           </span><span
+style="color: #808080;"> </span> <span
+style="color: #808080;">\<TextBlock HorizontalAlignment="Left"
+VerticalAlignment="Top" Width="100" Height="16" Text="Adi"/\></span>
+
+<span style="color: #808080;">            \<TextBlock</span><span
+style="color: red;"> Text</span><span
+style="color: blue;">="{</span><span
+style="color: #a31515;">Binding</span><span style="color: red;">
+Adi</span><span style="color: blue;">}"</span><span style="color: red;">
+</span> <span style="color: gray;"> HorizontalAlignment</span><span
+style="color: gray;">="Left" VerticalAlignment="Top" Width="150"
+Height="16" Margin="104,0,0,0"/\></span>
+
+<span style="color: gray;">            \<TextBlock
+HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"
+Height="16" Margin="0,20,0,0" Text="Soyadi"/\></span>
+
+<span style="color: gray;">            \<TextBlock</span><span
+style="color: red;"> Text</span><span
+style="color: blue;">="{</span><span
+style="color: #a31515;">Binding</span><span style="color: red;">
+Soyadi</span><span style="color: blue;">}"</span><span
+style="color: gray;"> HorizontalAlignment="Left" VerticalAlignment="Top"
+Width="150" Height="16" Margin="104,20,0,0"/\></span>
+
+<span style="color: #a31515;">      </span> <span
+style="color: #808080;">  </span><span
+style="color: #808080;">\</Grid\></span>
+
+<span style="color: #808080;">    \</Grid\></span>
+
+<span style="color: #808080;">\</UserControl</span><span
+style="color: blue;">\></span>
+
+Yukarıda tüm uygulamanın XAML kodunu inceleyebilirsiniz. Özellikle
+renkli kısımlara bakacak olursak Blend'in neler yapmaya çalıştığını net
+bir şekilde görebiliriz. İlk olarak en üstte bizim arkadaki
+uygulamamızın bir XML namespace olarak Import edilmiş. Sonra söz konusu
+yerden **AllData** sınıfından bir instance alınıp Resrouce'lar arasına
+**AllDataDataSource** adı ile koyulmuş. Bu DataSource uygulama genelinde
+Grid'e bağlanmış. Grid içerisinde **ListBox** ise **All** metoduna
+bağlanmış. ListBox aldığı her Insan nesnesini yine Resource'lar
+içerisinde tanımlı **InstanTemplate** ile gösterebiliyor.
+**InsanTemplate** içerisinde ise her Insan'ın Property'leri uygun
+kontrollere bağlanmış durumda. Son olarak detayları gösterecek olan
+nesnelerin bulunduğu Grid'in **DataContext'i** bizim **ListBox'ın**
+**SelectedItem'ına** element binding ile bağlanmış. SelectedItem zaten
+bir **Insan** nesnesi olarak geleceğine göre **Grid** içerisindeki
+kontrolleri de doğrudan bu **Insan** nesnesinin **Property'lerine**
+bağlayabiliriz. Son ufak bir detay ise Grid'in **DataContext'inin** yanı
+sıra bir de **d:DataContext** diye bir Property'sinin **All**
+listesindeki **Index** numarası sıfır olan kayda bind edilmiş olması.
+**d:** XML namespace'i tamamen **design view** için gerekli özellikleri
+tanımlar. Yani tasarımcı Blend içerisinde uygulamayı görürken ve
+uygulama çalışmazken bu Grid'in doğrudan **All** listesindeki ilk
+nesneyi göstermesini sağlamak için Blend böyle bir kod eklemiş durumda.
+
+Sonuç olarak gördüğünüz gibi aslında her iki tarafın da kurallara uyması
+halinde Expression Blend ve Visual Studio ile beraber tasarımcılar ve
+yazılımcıların beraber rahatça çalışması olması.
+
+Hepinize kolay gelsin.
+
+

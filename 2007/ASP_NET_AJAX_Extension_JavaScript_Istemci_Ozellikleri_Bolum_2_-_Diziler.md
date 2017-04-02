@@ -1,0 +1,708 @@
+---
+FallbackID: 1781
+Title: ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 2 - Diziler)
+PublishDate: 9/9/2007
+EntryID: ASP_NET_AJAX_Extension_JavaScript_Istemci_Ozellikleri_Bolum_2_-_Diziler
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: AJAX
+old.EntryID: 07216bfd-b001-406e-ab2f-cf8ec2b8df02
+---
+Bir önceki yazımda ASP.NET AJAX Extension'a ait istemci taraflı
+JavaScript özelliklerini incelerken sınıf yapılarına, kütüphanelere,
+üyelere ve sıralara yani enumaration yapısa örnekler ile göz atmıştık.
+Sıra geldi JavaScript dizileri ile çalışırken hayatımızı gerçekten
+kolaylaştıran yepyeni AJAX Extension JavaScript komutlarına.
+
+**Array.add**
+
+Herhangi bir JavaScript dizisini tanımlarken dizinin uzunluğunu
+belirterek değerler atamak yerine yepyeni Array.add metodumuzu
+kullanabilirsiniz. .add metodu toplamda iki parametre alıyor, bunlardan
+ilki ekleme işleminin yapılacak dizi değişkenin adı, diğeri de tabi ki
+eklenecek olan değerin ta kendisi.
+
+<span style="background:yellow; ">\<%</span><span
+style="color:blue; ">@</span><span> <span
+style="color:#A31515; ">Page</span> <span
+style="color:red; ">Language</span><span
+style="color:blue; ">="VB"</span> <span
+style="background:yellow; ">%\></span></span>\
+  \
+ <span style="color:blue; ">\<!</span><span
+style="color:#A31515; ">DOCTYPE</span><span> <span
+style="color:red; ">html</span> <span style="color:red; ">PUBLIC</span>
+<span style="color:blue; ">"-//W3C//DTD XHTML 1.0
+Transitional//EN"</span> <span
+style="color:blue; ">"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"\></span></span>\
+ <span style="color:blue; "> </span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">html</span><span> <span
+style="color:red; ">xmlns</span><span
+style="color:blue; ">="http://www.w3.org/1999/xhtml"</span> <span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">head</span><span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span>Untitled Page<span
+style="color:blue; ">\</</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">script</span> <span
+style="color:red; ">language</span><span
+style="color:blue; ">="javascript"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="text/javascript"\></span></span>\
+ <span>    <span style="color:blue; ">function</span> Goster()</span>\
+ <span>    {</span>\
+ <span>        <span style="color:blue; ">var</span> Adamlar = [<span
+style="color:#A31515; ">'Ahmet'</span>, <span
+style="color:#A31515; ">'Mehmet'</span>, <span
+style="color:#A31515; ">'Faruk'</span>, <span
+style="color:#A31515; ">'Sedat'</span>];</span>\
+ <span>        Array.add(Adamlar, <span
+style="color:#A31515; ">'Daron'</span>);</span>\
+ <span>        alert(Adamlar.toString());</span>\
+ <span>    }</span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">script</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">head</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">form</span> <span
+style="color:red; ">id</span><span style="color:blue; ">="form1"</span>
+<span style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span> <span
+style="color:red; ">ID</span><span
+style="color:blue; ">="ScriptManager1"</span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>        <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">input</span> <span
+style="color:red; ">id</span><span
+style="color:blue; ">="Button1"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="button"</span> <span
+style="color:red; ">value</span><span
+style="color:blue; ">="button"</span> <span
+style="color:red; ">onclick</span><span
+style="color:blue; ">="Goster();"</span> <span
+style="color:blue; ">/\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">form</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">html</span><span style="color:blue; ">\></span>\
+
+Kodumuz içerisinde farklı insanların isimlerinin bir listesini taşıyan
+Adamlar adında bir değişken tanımladıktan sonra Array.add metodu ile
+yeni bir değeri dizi içerisine ekliyoruz. Son olarak yine JavaScript
+tarafında ASP.NET AJAX Extension sayesinde kullanabildiğimiz .toString
+metodu ile diziyi bir metne çevirerek kullanıcıya bir mesaj kutusu
+içerisinde gösteriyoruz.
+
+**Array.addRange**
+
+Birden çok diziyi birbiri ile birleştirmek JavaScript tarafında zahmetli
+bir iş olabilir. Eğer sayfada bir ScriptManager var ise işimiz çok daha
+kolay. Array.addRange metodu ile herhangi bir diziye bir başka diziti
+ekleyebiliyoruz. Metod toplamda iki parametre alıyor. Aldığını ikinci
+parametredeki diziyi birinci parametredeki dizinin sonuna ekliyor.
+
+<span style="background:yellow; ">\<%</span><span
+style="color:blue; ">@</span><span> <span
+style="color:#A31515; ">Page</span> <span
+style="color:red; ">Language</span><span
+style="color:blue; ">="VB"</span> <span
+style="background:yellow; ">%\></span></span>\
+  \
+ <span style="color:blue; ">\<!</span><span
+style="color:#A31515; ">DOCTYPE</span><span> <span
+style="color:red; ">html</span> <span style="color:red; ">PUBLIC</span>
+<span style="color:blue; ">"-//W3C//DTD XHTML 1.0
+Transitional//EN"</span> <span
+style="color:blue; ">"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"\></span></span>\
+ <span style="color:blue; "> </span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">html</span><span> <span
+style="color:red; ">xmlns</span><span
+style="color:blue; ">="http://www.w3.org/1999/xhtml"</span> <span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">head</span><span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span>Untitled Page<span
+style="color:blue; ">\</</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">script</span> <span
+style="color:red; ">language</span><span
+style="color:blue; ">="javascript"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="text/javascript"\></span></span>\
+ <span>    <span style="color:blue; ">function</span> Yarat()</span>\
+ <span>    {</span>\
+ <span>        <span style="color:blue; ">var</span> Kayitlar = [<span
+style="color:#A31515; ">"Elma"</span>, <span
+style="color:#A31515; ">"Armut"</span>, <span
+style="color:#A31515; ">"Ananas"</span>];</span>\
+ <span>        <span style="color:blue; ">var</span> YeniKayitlar =
+[<span style="color:#A31515; ">"Muz"</span>, <span
+style="color:#A31515; ">"Havuç"</span>];</span>\
+ <span>        Array.addRange(Kayitlar, YeniKayitlar);</span>\
+ <span>        alert(Kayitlar.toString());</span>\
+ <span>    }</span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">script</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">head</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">form</span> <span
+style="color:red; ">id</span><span style="color:blue; ">="form1"</span>
+<span style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span> <span
+style="color:red; ">ID</span><span
+style="color:blue; ">="ScriptManager1"</span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>        <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">input</span> <span
+style="color:red; ">id</span><span
+style="color:blue; ">="Button1"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="button"</span> <span
+style="color:red; ">value</span><span
+style="color:blue; ">="Týkla"</span> <span
+style="color:red; ">onclick</span><span
+style="color:blue; ">="Yarat();"</span> <span
+style="color:blue; ">/\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">form</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">html</span><span style="color:blue; ">\></span>\
+
+Kayitlar ve YeniKayitlar adlarında yarattığımız dizilerden YeniKayitlar
+dizisini Kayitlar dizisine Array.addRange metodu ile ekliyoruz. Son
+olarak da tüm kayıtları içeren Kayitlar dizisini kullanıcıya
+gösteriyoruz.
+
+**Array.contains**
+
+Bir dizi içerisinde belirli bir kaydın veya değerin var olup olmadığını
+bulmak için kullanabileceğimiz belki de en pratik yöntem Array.contains
+metodu. Metod iki adet parametre alıyor, bunlardan ilki içerisinde arama
+yapılacak dizinin kendisi, ikincisi de aranak olarak değişken veya
+değer. Hızlı bir örnek ile nasıl çalıştığına göz atalım.
+
+<span style="background:yellow; ">\<%</span><span
+style="color:blue; ">@</span><span> <span
+style="color:#A31515; ">Page</span> <span
+style="color:red; ">Language</span><span
+style="color:blue; ">="VB"</span> <span
+style="background:yellow; ">%\></span></span>\
+  \
+ <span style="color:blue; ">\<!</span><span
+style="color:#A31515; ">DOCTYPE</span><span> <span
+style="color:red; ">html</span> <span style="color:red; ">PUBLIC</span>
+<span style="color:blue; ">"-//W3C//DTD XHTML 1.0
+Transitional//EN"</span> <span
+style="color:blue; ">"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"\></span></span>\
+ <span style="color:blue; "> </span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">html</span><span> <span
+style="color:red; ">xmlns</span><span
+style="color:blue; ">="http://www.w3.org/1999/xhtml"</span> <span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">head</span><span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span>Untitled Page<span
+style="color:blue; ">\</</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">script</span> <span
+style="color:red; ">language</span><span
+style="color:blue; ">="javascript"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="text/javascript"\></span></span>\
+ <span>    <span style="color:blue; ">function</span> Yarat()</span>\
+ <span>    {</span>\
+ <span>        <span style="color:blue; ">var</span> Aylar = [<span
+style="color:#A31515; ">"Ocak"</span>, <span
+style="color:#A31515; ">"Şubat"</span>, <span
+style="color:#A31515; ">"Mart"</span>];</span>\
+ <span>        <span style="color:blue; ">var</span> Sonuc =
+Array.contains(Aylar, <span
+style="color:#A31515; ">"Mart"</span>);</span>\
+ <span>        alert(Sonuc.toString());</span>\
+ <span>    }</span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">script</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">head</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">form</span> <span
+style="color:red; ">id</span><span style="color:blue; ">="form1"</span>
+<span style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span> <span
+style="color:red; ">ID</span><span
+style="color:blue; ">="ScriptManager1"</span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>        <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">input</span> <span
+style="color:red; ">id</span><span
+style="color:blue; ">="Button1"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="button"</span> <span
+style="color:red; ">value</span><span
+style="color:blue; ">="Tıkla"</span> <span
+style="color:red; ">onclick</span><span
+style="color:blue; ">="Yarat();"</span> <span
+style="color:blue; ">/\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">form</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">html</span><span style="color:blue; ">\></span>\
+
+Aylar adında bir dizi içerisinde yılın ilk üç ayını yerleştirdikten
+sonra dizi içerisinde Mart ayının olup olmadığını kontrol ederek sonucu
+kullanıcıya gösteriyoruz. Array.contains metodu JavaScript tarafında
+geriye Boolean tipinde True veya False değerleri döndürür.
+
+**Array.indexOf**
+
+.NET Tarafından alışık olduğumuz indexOf metodunu artık JavaScript
+tarafında da kullanabiliyoruz. Herhangi bir dizi içerisinde arattığımız
+objenin varsa kaçıncı index numarasında yer aldığını döndüren bu metod
+ile ilgili de hemen bir örnek yapalım.
+
+<span style="background:yellow; ">\<%</span><span
+style="color:blue; ">@</span><span> <span
+style="color:#A31515; ">Page</span> <span
+style="color:red; ">Language</span><span
+style="color:blue; ">="VB"</span> <span
+style="background:yellow; ">%\></span></span>\
+\
+ <span style="color:blue; ">\<!</span><span
+style="color:#A31515; ">DOCTYPE</span><span> <span
+style="color:red; ">html</span> <span style="color:red; ">PUBLIC</span>
+<span style="color:blue; ">"-//W3C//DTD XHTML 1.0
+Transitional//EN"</span> <span
+style="color:blue; ">"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"\></span></span>\
+ <span style="color:blue; "> </span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">html</span><span> <span
+style="color:red; ">xmlns</span><span
+style="color:blue; ">="http://www.w3.org/1999/xhtml"</span> <span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">head</span><span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span>Untitled Page<span
+style="color:blue; ">\</</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">script</span> <span
+style="color:red; ">language</span><span
+style="color:blue; ">="javascript"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="text/javascript"\></span></span>\
+ <span>    <span style="color:blue; ">function</span> Yarat()</span>\
+ <span>    {</span>\
+ <span>        <span style="color:blue; ">var</span> HaftaIci = [<span
+style="color:#A31515; ">"Ocak"</span>, <span
+style="color:#A31515; ">"Şubat"</span>, <span
+style="color:#A31515; ">"Mart"</span>, <span
+style="color:#A31515; ">"Perþembe"</span>, <span
+style="color:#A31515; ">"Cuma"</span>];</span>\
+ <span>        <span style="color:blue; ">var</span> Kacinci =
+Array.indexOf(HaftaIci, <span
+style="color:#A31515; ">"Mart"</span>);</span>\
+ <span>        alert(Kacinci); <span style="color:green; ">// Sonuç =
+2</span></span>\
+ <span>        Kacinci = Array.indexOf(HaftaIci, <span
+style="color:#A31515; ">"Ocak"</span>, 1);</span>\
+ <span>        alert(Kacinci); <span style="color:green; ">// Sonuç
+= -1</span></span>\
+ <span>    }</span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">script</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">head</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">form</span> <span
+style="color:red; ">id</span><span style="color:blue; ">="form1"</span>
+<span style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span> <span
+style="color:red; ">ID</span><span
+style="color:blue; ">="ScriptManager1"</span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>        <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">input</span> <span
+style="color:red; ">id</span><span
+style="color:blue; ">="Button1"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="button"</span> <span
+style="color:red; ">value</span><span
+style="color:blue; ">="Tıkla"</span> <span
+style="color:red; ">onclick</span><span
+style="color:blue; ">="Yarat();"</span> <span
+style="color:blue; ">/\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">form</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">html</span><span style="color:blue; ">\></span>\
+
+Kodumuz içerisinde Array.indexOf ile ilgili iki farklı kullanım şeklini
+inceleyebilirsiniz. İlk kullanımızda Array.indexOf metoduna toplam iki
+parametre verdik. Bunlar ilki içerisinde arama yapılacak dizinin
+kendisi, ikincisi de aranacak objeydi. İkinci kullanım şeklimizde ise
+bir üçüncü parametre daha veriyoruz. Bu üçüncü parametre opsyonel bir
+parametre olmakla birlikten dizi içerisindeki arama işleminin kaçıncı
+indeks numarasından başlayacağını belirtmemizi sağlıyor. Bu nedenle
+ikinci kullanımda aslında Ocak ayı dizi içerisinde bulunsa da biz 1
+indeks numaralı yani ikinci kayıttan aramaya başladığımız için geriye
+olumsuz sonuç dönüyor.
+
+**Array.insert**
+
+JavaScript ile diziler üzerinde çalışırken belki de en ciddi sorunlardan
+biri dizilerin herhangi bir yerine, ortasına vs yeni bir değer veya
+değişken eklemeye çalışmaktır. Eski yöntemlere hiç bulaşmadan
+Array.insert metodu ile bu işlemin ne kadar da kolaylaştığını sizinle
+paylaşmak istiyorum.
+
+<span style="background:yellow; ">\<%</span><span
+style="color:blue; ">@</span><span> <span
+style="color:#A31515; ">Page</span> <span
+style="color:red; ">Language</span><span
+style="color:blue; ">="VB"</span> <span
+style="background:yellow; ">%\></span></span>\
+\
+ <span style="color:blue; ">\<!</span><span
+style="color:#A31515; ">DOCTYPE</span><span> <span
+style="color:red; ">html</span> <span style="color:red; ">PUBLIC</span>
+<span style="color:blue; ">"-//W3C//DTD XHTML 1.0
+Transitional//EN"</span> <span
+style="color:blue; ">"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"\></span></span>\
+ <span style="color:blue; "> </span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">html</span><span> <span
+style="color:red; ">xmlns</span><span
+style="color:blue; ">="http://www.w3.org/1999/xhtml"</span> <span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">head</span><span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span>Untitled Page<span
+style="color:blue; ">\</</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">script</span> <span
+style="color:red; ">language</span><span
+style="color:blue; ">="javascript"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="text/javascript"\></span></span>\
+ <span>    <span style="color:blue; ">function</span> Yarat()</span>\
+ <span>    {</span>\
+ <span>        <span style="color:blue; ">var</span> Aylar = [<span
+style="color:#A31515; ">"Ocak"</span>, <span
+style="color:#A31515; ">"Subat"</span>, <span
+style="color:#A31515; ">"Nisan"</span>];</span>\
+ <span>        Array.insert(Aylar, 2, <span
+style="color:#A31515; ">'Mart'</span>);</span>\
+ <span>        alert(Aylar.toString()); </span>\
+ <span>        <span style="color:green; ">// Sonuç = Ocak, Subat, Mart,
+Nisan</span></span>\
+ <span>    }</span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">script</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">head</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">form</span> <span
+style="color:red; ">id</span><span style="color:blue; ">="form1"</span>
+<span style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span> <span
+style="color:red; ">ID</span><span
+style="color:blue; ">="ScriptManager1"</span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>        <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">input</span> <span
+style="color:red; ">id</span><span
+style="color:blue; ">="Button1"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="button"</span> <span
+style="color:red; ">value</span><span
+style="color:blue; ">="Tıkla"</span> <span
+style="color:red; ">onclick</span><span
+style="color:blue; ">="Yarat();"</span> <span
+style="color:blue; ">/\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">form</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">html</span><span style="color:blue; ">\></span>\
+
+Yine ayların adlarından oluşan bir liste üzerinde çalışalım. Dizimiz
+içerisinde Mart ayı eksik olduğu için diziyi tanımladıktan sonra araya
+eklememiz gerekiyor. Array.insert metoduna verdiğimiz üç parametre ile
+bu işlemi kolayca halledebiliyoruz. Parametrelerimizden ilki ekleme
+işlemini yapacağımız dizinin kendisi, ikincisi eklenecek öğenin kaçıncı
+sıraya yapılacağına dair indeks numarası ve üçüncüsü de eklenecek olan
+öğenin ta kendisi.
+
+**Array.remove**
+
+Bir dizi içerisinde belirli bir değeri silmek ve diziden çıkarmak için
+Array.remove metodunu kullanabiliyoruz. Metoda toplamda iki adet
+parametre veriyoruz. Bunlardan ilki değeri çıkartacağımız JavaScript
+dizisi, diğeri de çıkartmak istediğimiz değer. Gelin örneğimizde
+kullanım şekillerine bakalım.
+
+<span style="background:yellow; ">\<%</span><span
+style="color:blue; ">@</span><span> <span
+style="color:#A31515; ">Page</span> <span
+style="color:red; ">Language</span><span
+style="color:blue; ">="VB"</span> <span
+style="background:yellow; ">%\></span></span>\
+  \
+ <span style="color:blue; ">\<!</span><span
+style="color:#A31515; ">DOCTYPE</span><span> <span
+style="color:red; ">html</span> <span style="color:red; ">PUBLIC</span>
+<span style="color:blue; ">"-//W3C//DTD XHTML 1.0
+Transitional//EN"</span> <span
+style="color:blue; ">"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"\></span></span>\
+ <span style="color:blue; "> </span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">html</span><span> <span
+style="color:red; ">xmlns</span><span
+style="color:blue; ">="http://www.w3.org/1999/xhtml"</span> <span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">head</span><span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span>Untitled Page<span
+style="color:blue; ">\</</span><span
+style="color:#A31515; ">title</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">script</span> <span
+style="color:red; ">language</span><span
+style="color:blue; ">="javascript"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="text/javascript"\></span></span>\
+ <span>    <span style="color:blue; ">function</span> Yarat()</span>\
+ <span>    {</span>\
+ <span>        <span style="color:blue; ">var</span> Arabalar = [<span
+style="color:#A31515; ">'FIAT'</span>, <span
+style="color:#A31515; ">'FORD'</span>, <span
+style="color:#A31515; ">'BMW'</span>, <span
+style="color:#A31515; ">'MERCEDES'</span>];</span>\
+ <span>        Array.remove(Gunler, <span
+style="color:#A31515; ">"FORD"</span>);</span>\
+ <span>        alert(Gunler.toString());</span>\
+ <span>        <span style="color:green; ">// Sonuç = FIAT, BMW,
+MERCEDES</span></span>\
+ <span>        Array.removeAt(Gunler, 2);</span>\
+ <span>        alert(Gunler.toString()); </span>\
+ <span>        <span style="color:green; ">// Sonuç = FIAT,
+BMW</span></span>\
+ <span>    }</span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">script</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">head</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">form</span> <span
+style="color:red; ">id</span><span style="color:blue; ">="form1"</span>
+<span style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>    <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span> <span
+style="color:red; ">ID</span><span
+style="color:blue; ">="ScriptManager1"</span> <span
+style="color:red; ">runat</span><span
+style="color:blue; ">="server"\></span></span>\
+ <span>        <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">asp</span><span
+style="color:blue; ">:</span><span
+style="color:#A31515; ">ScriptManager</span><span
+style="color:blue; ">\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">div</span><span
+style="color:blue; ">\></span></span>\
+ <span>        <span style="color:blue; ">\<</span><span
+style="color:#A31515; ">input</span> <span
+style="color:red; ">id</span><span
+style="color:blue; ">="Button1"</span> <span
+style="color:red; ">type</span><span
+style="color:blue; ">="button"</span> <span
+style="color:red; ">value</span><span
+style="color:blue; ">="Týkla"</span> <span
+style="color:red; ">onclick</span><span
+style="color:blue; ">="Yarat();"</span> <span
+style="color:blue; ">/\></span></span>\
+ <span>    <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">form</span><span
+style="color:blue; ">\></span></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">body</span><span style="color:blue; ">\></span>\
+ <span style="color:blue; ">\</</span><span
+style="color:#A31515; ">html</span><span style="color:blue; ">\></span>\
+
+Kodumuz içerisinde Array.remove ve Array.removeAt metodlarını kullandık.
+Array.remove'un parametrelerinden bahsetmiştik. Array.removeAt ise
+diziden çıkarılacak veri yerine çıkarılması istenen verinin dizi
+içerisindeki indeks numarasını alıyor. Söz konusu indeks numarasındaki
+değer diziden çıkartıldıktan sonra dizinin indeksleri tabi ki
+yenileniyor. 2 numaralı indeksteki veriyi sildiğinde artık dizinin boyu
+bir kısalmış olur ve bir numaralı indeksten itibaren tüm değerler bir
+üst indeks numarasına alınıyor.
+
+ASP.NET AJAX Extension ile beraber gelen yeniliklerden dizilerle ilgili
+olan metodları inceledikten sonra serimizin bir sonraki yazısında farklı
+değişken tipleri ile ilgili gelen yeni metodlara ve daha fazlasına
+bakıyor olacağız.
+
+Hepinize kolay gelsin.
+
+

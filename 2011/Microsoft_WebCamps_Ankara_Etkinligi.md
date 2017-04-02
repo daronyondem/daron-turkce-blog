@@ -1,0 +1,33 @@
+---
+FallbackID: 2542
+Title: Microsoft WebCamps Ankara Etkinliği
+PublishDate: 1/12/2011
+EntryID: Microsoft_WebCamps_Ankara_Etkinligi
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: WebMatrix
+old.EntryID: e1da472e-5549-4e54-88bc-b15dcd3e5bcc
+---
+Bugün Microsoft'un [WebCamps](http://www.webcamps.ms) etkinlik serisinin
+ilk ayağını Ankara'da yaptık. Evet, yanlış duymadınız :) Hani hep "Neden
+önce İstanbul?" diyordunuz ya :) Bu sefer önce Ankara oldu. Gün boyunca
+WebMatrix'in yanı sıra tabi ki Silverlight'a da göz atma şansımız oldu.
+WebMatrix veya Visual Studio fark etmez, nereden bir site çıksa üzerine
+bir Silverlight güzel gider :) Daha önce Mısır'da sunduğum WebCamps
+sonrasında Türkiye ayağına biraz daha farklı başladık diyebilirim :)
+umarım herkes gün sonunda memnun ayrılmıştır.
+
+![Microsoft WebCamps
+Ankara](http://cdn.daron.yondem.com/assets/2542/11012011_1.jpg)\
+*Microsoft WebCamps Ankara*
+
+Eminim ki etkinliğin İstanbul ayağını merak ediyorsunuz. İstanbul ayağı
+1 Şubat günü gerçekleşecek. Bu konuda duyuruyu twitter ve facebook
+üzerinden ayrıca çıkacağım. Gün içinde Ankara'daki tüm
+katılımcılarımıza, dostlara beni yalnız bırakmadıkları için çok teşekkür
+ediyorum.
+
+Görüşmek üzere!
+
+
