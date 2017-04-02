@@ -2,11 +2,12 @@
 FallbackID: 2043
 Title: Expression Studio 2 Geldi!!
 PublishDate: 5/1/2008
-EntryID: 8ae4ba53-3f12-477c-ac14-397533ada6fb
+EntryID: Expression_Studio_2_Geldi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web
+old.EntryID: 8ae4ba53-3f12-477c-ac14-397533ada6fb
 ---
 Heyecanla beklediğimiz an geldi. Sonunda Expression Studio 2 gerçek, son
 sürümü ile karşımızda! Benim gibi heyecanlananlar hemen yeni paketin
