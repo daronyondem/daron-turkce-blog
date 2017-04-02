@@ -2,11 +2,12 @@
 FallbackID: 1900
 Title: Doğu Akdeniz Üniversitesi Silverlight Semineri
 PublishDate: 12/29/2007
-EntryID: 8cf97161-9665-4d63-a3e8-e37cfcf84b8f
+EntryID: Dogu_Akdeniz_Universitesi_Silverlight_Semineri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Seminer, Silverlight
+old.EntryID: 8cf97161-9665-4d63-a3e8-e37cfcf84b8f
 ---
 Dün **KKTC, Doğu Akdeniz Üniversitesi**'nde 3 saatlik bir
 **Silverlight** semineri düzenledik. Seminer boyunca gelen sorular ve
