@@ -2,11 +2,12 @@
 FallbackID: 2140
 Title: PC Magazine Silverlight 2.0 yazısı
 PublishDate: 7/31/2008
-EntryID: de6f1a81-35a0-4d95-ab0f-5ec63487dc17
+EntryID: PC_Magazine_Silverlight_2_0_yazisi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: de6f1a81-35a0-4d95-ab0f-5ec63487dc17
 ---
 **![PC Magazine
 Logo](http://cdn.daron.yondem.com/assets/2140/pcmag_logo.gif)PC
