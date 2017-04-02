@@ -2,11 +2,12 @@
 FallbackID: 1978
 Title: Türkiye'deki ilk Silverlight 1.0 Oyun!
 PublishDate: 3/5/2008
-EntryID: 12404a33-2171-465c-a761-bd1540056a70
+EntryID: Turkiyedeki_ilk_Silverlight_1_0_Oyun
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Eğitimler, Silverlight
+old.EntryID: 12404a33-2171-465c-a761-bd1540056a70
 ---
 Hatırlarsanız sizlere **Microsoft Student2Business** programı kapsamında
 Microsoft İstanbul ofislerinde yaptığımız
