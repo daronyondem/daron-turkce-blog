@@ -2,11 +2,12 @@
 FallbackID: 1890
 Title: Fuar nedir?
 PublishDate: 12/19/2007
-EntryID: c178321b-c90f-4a62-9166-4fca8282654b
+EntryID: Fuar_nedir
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: c178321b-c90f-4a62-9166-4fca8282654b
 ---
 "*Nerede o eski fuarlar?*" diyemeyecek kadar genç olduğumu düşünürken
 aslında zamanın tahmin ettiğimden çok daha hızlı geçtiği gerçeğini
