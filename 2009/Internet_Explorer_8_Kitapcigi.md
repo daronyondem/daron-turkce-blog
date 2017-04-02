@@ -2,11 +2,12 @@
 FallbackID: 2341
 Title: Internet Explorer 8 Kitapçığı
 PublishDate: 3/25/2009
-EntryID: 76dd338b-91ca-4b44-8cbf-5e112c5d1b6d
+EntryID: Internet_Explorer_8_Kitapcigi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
+old.EntryID: 76dd338b-91ca-4b44-8cbf-5e112c5d1b6d
 ---
 **![Internet Explorer 8
 Kitapçığı](http://cdn.daron.yondem.com/assets/2341/24032009_1.jpg)Internet
