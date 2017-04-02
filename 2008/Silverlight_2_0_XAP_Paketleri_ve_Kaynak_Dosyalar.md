@@ -2,11 +2,12 @@
 FallbackID: 2037
 Title: Silverlight 2.0 XAP Paketleri ve Kaynak Dosyalar
 PublishDate: 4/27/2008
-EntryID: 9e2fab0a-49ea-48f4-ac2f-7b0dc2a0f16f
+EntryID: Silverlight_2_0_XAP_Paketleri_ve_Kaynak_Dosyalar
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 9e2fab0a-49ea-48f4-ac2f-7b0dc2a0f16f
 ---
 Silverlight 2.0 uygulamalarında tüm uygulamaya ait VB veya C\# kodu ile
 beraber XAML dosyalarının da birer DLL olarak düzenlendiğini ve
