@@ -2,11 +2,12 @@
 FallbackID: 2187
 Title: DreamSpark Türkiye'de de hayata geçti.
 PublishDate: 9/16/2008
-EntryID: 967ea136-c22d-4efe-b371-96c7bafd28bc
+EntryID: DreamSpark_Turkiyede_de_hayata_gecti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 967ea136-c22d-4efe-b371-96c7bafd28bc
 ---
 Bundan birkaç ay önce Microsoft tarafından duyurulan bir program olan
 DreamSpark programı benim ülkemizdeki öğrenciler adına heyecanla
