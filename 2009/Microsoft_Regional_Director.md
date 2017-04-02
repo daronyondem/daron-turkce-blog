@@ -2,11 +2,12 @@
 FallbackID: 2324
 Title: Microsoft Regional Director
 PublishDate: 2/17/2009
-EntryID: 8221aab4-375d-4109-b025-573f4a5091a1
+EntryID: Microsoft_Regional_Director
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 8221aab4-375d-4109-b025-573f4a5091a1
 ---
 Son iki aydır duyurmaya fırsat bulamadığım bir haberi sizlerle paylaşmak
 istiyorum. Ocak 2009 başlangıcı ile karşınızda bir **Microsoft Regional
