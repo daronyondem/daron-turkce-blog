@@ -2,11 +2,12 @@
 FallbackID: 1948
 Title: Silverlight ve Fırça (Brush) Yapıları
 PublishDate: 2/6/2008
-EntryID: 83152c85-1cd2-4192-b216-92aaaf6303cd
+EntryID: Silverlight_ve_Firca_Brush_Yapilari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 83152c85-1cd2-4192-b216-92aaaf6303cd
 ---
 İster Silverlight uygulamaları olsun ister WPF uygulamaları, her şekilde
 XAML kodları içerisindeki Brush (fırça) tanımlamaları görsel anlamda çok
