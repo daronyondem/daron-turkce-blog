@@ -2,11 +2,12 @@
 FallbackID: 2295
 Title: Tek bir tıkla projeni sunucuda çalıştır... Cassini Web Server Launcher
 PublishDate: 1/3/2009
-EntryID: 2efde635-a690-4339-91b1-02dc870a08de
+EntryID: Tek_bir_tikla_projeni_sunucuda_calistir_Cassini_Web_Server_Launcher
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Silverlight, Silverlight 2.0, ASP.NET
+old.EntryID: 2efde635-a690-4339-91b1-02dc870a08de
 ---
 Yeni yılda hayatınızı kolaylaştırma yolunda iddialıyım :) Bu sefer de
 benim işimi çok kolaylaştıran bir aracı sizlerle paylaşacağım.
