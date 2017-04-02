@@ -2,11 +2,12 @@
 FallbackID: 1748
 Title: AJAX Control Toolkit v.1.0.10606.0 Yenilikleri
 PublishDate: 7/10/2007
-EntryID: 38bebfa3-3b3e-466f-8004-1a2373587698
+EntryID: AJAX_Control_Toolkit_v_1_0_10606_0_Yenilikleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, ASP.NET
+old.EntryID: 38bebfa3-3b3e-466f-8004-1a2373587698
 ---
 Biraz gecikmiş de olsam sizlere **AJAX Control Toolkit**’in yeni
 sürümünü duyurmak ve bazı yeniliklerden bahsetmek istiyorum. **ASP.NET
