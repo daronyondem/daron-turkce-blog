@@ -2,11 +2,12 @@
 FallbackID: 2567
 Title: Ürdün, Irbid, Mobile Startup Week-End Sonrasında...
 PublishDate: 4/24/2011
-EntryID: f216f1c8-aed1-47ea-8e7c-49ace22fd31a
+EntryID: Urdun_Irbid_Mobile_Startup_Week-End_Sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
+old.EntryID: f216f1c8-aed1-47ea-8e7c-49ace22fd31a
 ---
 Son üç gündür Ürdün'deyim :) Daha önceleri Amman şehrini birçok defa
 ziyaret ettiğim Ürdün'ün bu sefer Irbid şehrinde yapılan **Mobile
