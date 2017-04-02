@@ -2,11 +2,12 @@
 FallbackID: 2294
 Title: Web sayfalarında otomatik kod renklendirmek.
 PublishDate: 1/2/2009
-EntryID: f0112688-45d8-41cb-a281-73d68c5205f9
+EntryID: Web_sayfalarinda_otomatik_kod_renklendirmek
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: f0112688-45d8-41cb-a281-73d68c5205f9
 ---
 Yılın ilk yazısında yıl boyunca tüm yazılarınızda kullanabileceğiniz bir
 kolaylıktan bahsetmek istiyorum; kod renklendirmek! Özellikle teknik
