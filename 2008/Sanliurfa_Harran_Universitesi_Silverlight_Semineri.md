@@ -2,11 +2,12 @@
 FallbackID: 2028
 Title: Şanlıurfa Harran Üniversitesi Silverlight Semineri
 PublishDate: 4/19/2008
-EntryID: ce840a3a-69f0-4375-ba9d-a8e492b6c435
+EntryID: Sanliurfa_Harran_Universitesi_Silverlight_Semineri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: ce840a3a-69f0-4375-ba9d-a8e492b6c435
 ---
 Dün Şanlıurfa **Harran Üniversitesi**'nde **Silverlight**
 seminerindeydim. Gerçekten muhteşem iki gün geçirdim Şanlıurfa'da.
