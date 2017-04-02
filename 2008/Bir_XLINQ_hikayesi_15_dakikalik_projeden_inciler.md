@@ -2,11 +2,12 @@
 FallbackID: 1973
 Title: Bir XLINQ hikayesi... 15 dakikalık projeden inciler.
 PublishDate: 3/1/2008
-EntryID: cf67faed-f400-4400-99fa-6d14e8f6cb0c
+EntryID: Bir_XLINQ_hikayesi_15_dakikalik_projeden_inciler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, LINQ, ASP.NET
+old.EntryID: cf67faed-f400-4400-99fa-6d14e8f6cb0c
 ---
 Dün verdiğim sözü tutmanın zamanı geldi. Sizlerle kodlarını paylaştığım
 mini projenin içerisindeki önemli birkaç noktayı öne çekerek mini bir
