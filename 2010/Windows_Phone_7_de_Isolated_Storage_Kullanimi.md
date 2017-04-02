@@ -2,11 +2,12 @@
 FallbackID: 2519
 Title: Windows Phone 7'de Isolated Storage Kullanımı
 PublishDate: 5/5/2010
-EntryID: a23b0ea1-4bc0-474f-8036-42e1eff6a6c7
+EntryID: Windows_Phone_7_de_Isolated_Storage_Kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
+old.EntryID: a23b0ea1-4bc0-474f-8036-42e1eff6a6c7
 ---
 Windows Phone 7 içerisinden kullanıcılara doğrudan bir dosya sistemi
 gösterimi yapılmıyor aynı şekilde yazılım geliştiriciler de herhangi bir
