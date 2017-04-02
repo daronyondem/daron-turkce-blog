@@ -2,11 +2,12 @@
 FallbackID: 2394
 Title: Silverlight 3.0 içerisinde kendi Behavior'larınızı yazmanın yolu.
 PublishDate: 8/22/2009
-EntryID: f46c0a0d-7572-4f65-ba14-4869b913933d
+EntryID: Silverlight_3_0_icerisinde_kendi_Behaviorlarinizi_yazmanin_yolu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: f46c0a0d-7572-4f65-ba14-4869b913933d
 ---
 Dün Expression Blend 3 içerisinde Behaviorlara göz attık. Bugün de gelin
 bir yazılımcı gözü ile nasıl Behavior yaratabiliriz inceleyelim.
