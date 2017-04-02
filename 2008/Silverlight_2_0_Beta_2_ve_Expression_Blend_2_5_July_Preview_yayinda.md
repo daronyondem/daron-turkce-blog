@@ -2,11 +2,12 @@
 FallbackID: 2080
 Title: Silverlight 2.0 Beta 2 ve Expression Blend 2.5 July Preview yayında!
 PublishDate: 6/8/2008
-EntryID: 40717b53-b43e-4d16-a59d-9c2451e0831c
+EntryID: Silverlight_2_0_Beta_2_ve_Expression_Blend_2_5_July_Preview_yayinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Silverlight 2.0
+old.EntryID: 40717b53-b43e-4d16-a59d-9c2451e0831c
 ---
 Hafta sonuna gelmesi gerçekten muhteşem :) Ne kadar heyecanlı olduğumu
 anlatamam. Silverlight 2.0 Beta 2 ile beraber gelen yenilikler ve diğer
