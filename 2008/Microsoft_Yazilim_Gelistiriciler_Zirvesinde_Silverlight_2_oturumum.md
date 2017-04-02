@@ -2,11 +2,12 @@
 FallbackID: 2265
 Title: Microsoft Yazılım Geliştiriciler Zirvesi'nde Silverlight 2 oturumum.
 PublishDate: 12/4/2008
-EntryID: 45849e6a-2fb3-4dcf-a1d7-3e348431164a
+EntryID: Microsoft_Yazilim_Gelistiriciler_Zirvesinde_Silverlight_2_oturumum
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Seminer, Silverlight 2.0
+old.EntryID: 45849e6a-2fb3-4dcf-a1d7-3e348431164a
 ---
 Bugün **Microsoft'un Yazılım Geliştiriciler Zirvesi** gerçekleştirildi.
 Benim de sizlere daha önce duyurduğumuz üzere Silverlight 2.0 oturumunu
