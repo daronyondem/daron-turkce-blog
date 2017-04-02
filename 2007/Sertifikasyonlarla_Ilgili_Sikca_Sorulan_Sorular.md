@@ -2,11 +2,12 @@
 FallbackID: 1822
 Title: Sertifikasyonlarla İlgili Sıkça Sorulan Sorular
 PublishDate: 10/24/2007
-EntryID: 2b5813fd-9853-46fb-adaf-cc88bfa74e09
+EntryID: Sertifikasyonlarla_Ilgili_Sikca_Sorulan_Sorular
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Eğitimler, Genel
+old.EntryID: 2b5813fd-9853-46fb-adaf-cc88bfa74e09
 ---
 Çok farklı konularda mailler alıyorum. İlk olarak buradan bana mail
 atarak yardım isteyen, fikir alışverişinde bulunan herkese teşekkür
