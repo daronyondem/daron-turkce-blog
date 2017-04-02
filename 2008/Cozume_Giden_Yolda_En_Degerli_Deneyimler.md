@@ -2,11 +2,12 @@
 FallbackID: 2117
 Title: Çözüme Giden Yolda En Değerli Deneyimler
 PublishDate: 7/9/2008
-EntryID: 47682f9a-81a7-4635-a604-94c3b0338a5e
+EntryID: Cozume_Giden_Yolda_En_Degerli_Deneyimler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 47682f9a-81a7-4635-a604-94c3b0338a5e
 ---
 Dünyada ilk defa bir ülkedeki tüm MVP'ler toplanarak bir kitap yazdı.
 Bahsettiğim MVP'ler tabi ki **Türk MVP**'ler :) Kitabı daha inceleme
