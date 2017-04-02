@@ -2,11 +2,12 @@
 FallbackID: 2279
 Title: Abdurrahman-Nermin Bilimli Anadolu Teknik Lisesi sunumlarım.
 PublishDate: 12/17/2008
-EntryID: 278c6459-eb9e-4591-8794-6fe1d5a0afc3
+EntryID: Abdurrahman-Nermin_Bilimli_Anadolu_Teknik_Lisesi_sunumlarim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: LINQ, Seminer, Silverlight 2.0, WPF
+old.EntryID: 278c6459-eb9e-4591-8794-6fe1d5a0afc3
 ---
 Bugün **Abdurrahman – Nermin Bilimli Anadolu Teknik Lisesi**'ndeydim.
 Cevher gibi VB.NET bilen gençlerin arasında 5 saat geçirdim. Tüm bu
