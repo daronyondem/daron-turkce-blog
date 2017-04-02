@@ -2,12 +2,11 @@
 FallbackID: 2686
 Title: Silverlight'ta Dependency Property'ler
 PublishDate: 9/4/2011
-EntryID: Silverlightta_Dependency_Propertyler-2
+EntryID: Silverlightta_Dependency_Propertyler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, Silverlight 3.0, Silverlight 4, Silverlight 5, WPF
-old.EntryID: Silverlightta_Dependency_Propertyler
 ---
 Bugüne kadar Silverlight ve WPF konusunda birçok seminerde hep
 kenarından sıyırdığımız :) ve sürekli olarak "şimdilik oraya girmeyelim"
