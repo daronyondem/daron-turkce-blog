@@ -2,11 +2,12 @@
 FallbackID: 1938
 Title: Lütfen herkes okusun!
 PublishDate: 2/1/2008
-EntryID: 400665bd-95b2-4783-a577-02677c9217ad
+EntryID: Lutfen_herkes_okusun
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Dertli Kerem
+old.EntryID: 400665bd-95b2-4783-a577-02677c9217ad
 ---
 Attığım başlıktan yaratıcılık fışkırmadığının farkındayım, fakat açık ve
 net bir şekilde bu yazıyı herkesin okumasını istiyorum çünkü çok farklı
