@@ -2,11 +2,12 @@
 FallbackID: 2315
 Title: INETA Professional Hit ve Katılım konusunda.
 PublishDate: 1/23/2009
-EntryID: 703339ac-93c0-4bf7-a19b-395f00c37dab
+EntryID: INETA_Professional_Hit_ve_Katilim_konusunda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 703339ac-93c0-4bf7-a19b-395f00c37dab
 ---
 Son günlerde **INETA Professional Hit**'in katılımı ile ilgili ufak
 sorunlar oldu. Sizlerle gelişmeleri buradan ayrıca paylaşmak istiyorum.
