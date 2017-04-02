@@ -2,11 +2,12 @@
 FallbackID: 2002
 Title: yazgelistir.com'daki yeni makalelerim.
 PublishDate: 3/26/2008
-EntryID: f60d717a-b286-4fec-bac3-90f9d0b37492
+EntryID: yazgelistir_com_daki_yeni_makalelerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Silverlight
+old.EntryID: f60d717a-b286-4fec-bac3-90f9d0b37492
 ---
 Blogumdaki bazı yazıları
 [yazgelistir.com](http://www.yazgelistir.com/Hakkinda/YazarDetay.aspx?UyeId=1000073305)
