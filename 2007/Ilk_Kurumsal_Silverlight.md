@@ -2,11 +2,12 @@
 FallbackID: 1797
 Title: İlk Kurumsal Silverlight
 PublishDate: 10/1/2007
-EntryID: 22ed2164-f1bf-4fd4-a25e-1cab7bb7059b
+EntryID: Ilk_Kurumsal_Silverlight
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, Silverlight
+old.EntryID: 22ed2164-f1bf-4fd4-a25e-1cab7bb7059b
 ---
 Silverlight ile çalışmalarım yoğun olarak devam ediyor. Bu kapsamda
 [DEVELOAD](http://www.deveload.com) bünyesinde de Silverlight konusuna
