@@ -2,11 +2,12 @@
 FallbackID: 2316
 Title: INETA Profession Hit Bitti
 PublishDate: 1/29/2009
-EntryID: e54f1ea9-e53f-4af1-b571-3371152db862
+EntryID: INETA_Profession_Hit_Bitti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ADO.NET Data Services, AJAX, ASP.NET 3.5, Silverlight 2.0, WCF, ASP.NET
+old.EntryID: e54f1ea9-e53f-4af1-b571-3371152db862
 ---
 Bu hafta sonu **INETA Professional Hit** etkinliğimizi gerçekleştirdik.
 Kayıt alımındaki sorunlara karşın etkinlik boyunca gelen olumlu tepkiler
