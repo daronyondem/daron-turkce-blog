@@ -2,11 +2,12 @@
 FallbackID: 1729
 Title: AJAX ve Güvenlik Sorunları
 PublishDate: 4/20/2007
-EntryID: 4ca7f74e-dcc3-4f5e-8b97-3b84d6ca2d44
+EntryID: AJAX_ve_Guvenlik_Sorunlari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX
+old.EntryID: 4ca7f74e-dcc3-4f5e-8b97-3b84d6ca2d44
 ---
 **AJAX** artık neredeyse her web projesinde kullanılır oldu. Bazı
 projelerde ufak noktalarda kendini gösteren AJAX yeni nesil projelerde
