@@ -2,11 +2,12 @@
 FallbackID: 2372
 Title: Organik Yazılım Günü'nde görüşürüz!
 PublishDate: 6/17/2009
-EntryID: 4227becb-f4b2-4f05-9b5b-fcd61f5f44ea
+EntryID: Organik_Yazilim_Gunu_nde_gorusuruz
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 4227becb-f4b2-4f05-9b5b-fcd61f5f44ea
 ---
 Uzun süredir bu anı bekliyordum :) Açık kaynak kodu üreten ve tüketen
 bir yazılımcı olarak bu konuda bilgi ve birikimlerimizi birbirimiz ile
