@@ -2,11 +2,12 @@
 FallbackID: 2436
 Title: Windows 7 için Taskbar Toolbar hazırlamak.
 PublishDate: 10/29/2009
-EntryID: ad49fa71-b44c-475a-8450-666671ae079a
+EntryID: Windows_7_icin_Taskbar_Toolbar_hazirlamak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows 7
+old.EntryID: ad49fa71-b44c-475a-8450-666671ae079a
 ---
 Windows 7 ile beraber gelen taskbar özelliklerinden biri olan Taskbar
 Toolbar'lar ilginç bir kullanıcı deneyimi sağlıyor. Uygulama arayüzüne
