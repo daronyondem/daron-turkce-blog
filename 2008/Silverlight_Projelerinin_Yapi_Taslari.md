@@ -2,11 +2,12 @@
 FallbackID: 1949
 Title: Silverlight Projelerinin Yapı Taşları
 PublishDate: 2/7/2008
-EntryID: a3b41570-d13d-49b4-a8f1-193324d0895d
+EntryID: Silverlight_Projelerinin_Yapi_Taslari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: a3b41570-d13d-49b4-a8f1-193324d0895d
 ---
 Bir Silverlight projesi farklı dosyalardan ve yapılardan oluşur. Bu
 yapılar neredeyse tamamı ister **Visual Studio** içerisinde ister
