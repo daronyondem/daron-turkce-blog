@@ -2,11 +2,12 @@
 FallbackID: 2233
 Title: Fatih Üniversitesi'nde Silverlight ve WPF anlattım.
 PublishDate: 10/31/2008
-EntryID: 5823637c-2959-428f-8d63-7bbe022678b3
+EntryID: Fatih_Universitesi_nde_Silverlight_ve_WPF_anlattim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Seminer, Silverlight 2.0, WPF
+old.EntryID: 5823637c-2959-428f-8d63-7bbe022678b3
 ---
 Bugün **Fatih Üniversitesi**'nde **Silverlight** ve **WPF** anlattım.
 Gerçekten çok sıcak bir atmosfer vardı üniversite içerisinde, kendimi
