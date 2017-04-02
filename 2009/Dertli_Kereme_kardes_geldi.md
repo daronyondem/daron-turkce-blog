@@ -2,11 +2,12 @@
 FallbackID: 2317
 Title: Dertli Kerem'a kardeş geldi :)
 PublishDate: 2/1/2009
-EntryID: 3e163ee7-94da-4aaf-8a55-10e4f57f8fbb
+EntryID: Dertli_Kereme_kardes_geldi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Dertli Kerem
+old.EntryID: 3e163ee7-94da-4aaf-8a55-10e4f57f8fbb
 ---
 Bloğun son dönemde teknik yazılardan iyice mahrum kaldığının
 farkındayım. Size söz en kısa vadede bu durumu düzelteceğim ama kendimi
