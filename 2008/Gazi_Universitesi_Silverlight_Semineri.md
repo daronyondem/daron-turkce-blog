@@ -2,11 +2,12 @@
 FallbackID: 2025
 Title: Gazi Üniversitesi Silverlight Semineri
 PublishDate: 4/16/2008
-EntryID: 427aa2a1-ce93-4200-a8db-c955ae5751e4
+EntryID: Gazi_Universitesi_Silverlight_Semineri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 427aa2a1-ce93-4200-a8db-c955ae5751e4
 ---
 Bugün Ankara, Gazi Üniversitesi'nde 4 saatlik bir Silverlight seminerim
 vardı. Seminerin başından sonuna kadar salonda kalarak beni 4 saat
