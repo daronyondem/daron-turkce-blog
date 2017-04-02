@@ -18,29 +18,16 @@ de benim gibi artık Access 2007 veritabanlarına geçiş yapmayı
 düşünüyorsanız aşağıdaki yeni "Connection String"imizi
 kullanabilirsiniz.
 
-<span style="color: blue;">Provider</span><span
-style="color: black;">=</span><span
-style="color: navy;">Microsoft.ACE.OLEDB.12.0</span><span
-style="color: black;">;</span><span style="color: blue;">Data
-Source</span><span style="color: black;">=</span><span
-style="color: navy;">C:\\veritabani1.accdb</span><span
-style="color: black;">;</span><span style="color: blue;">Persist
-Security Info</span><span style="color: black;">=</span><span
-style="color: navy;">False</span><span style="color: black;">;</span>
+```
+Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\veritabani1.accdb;Persist Security Info=False;
+```
 
 Ek olarak, eğer veritabanı bağlantınızda şifre kullanacaksanız, şifre
 bilgisini de aşağıdaki şekilde ekleyebilirsiniz.
 
-<span style="color: blue;">Provider</span><span
-style="color: black;">=</span><span
-style="color: navy;">Microsoft.ACE.OLEDB.12.0</span><span
-style="color: black;">;</span><span style="color: blue;">Data
-Source</span><span style="color: black;">=</span><span
-style="color: navy;">C:\\veritabani1.accdb</span><span
-style="color: black;">;</span><span style="color: blue;">Jet
-OLEDB:Database Password</span><span style="color: black;">=</span><span
-style="color: navy;">MyDbPassword</span><span style="color: black;">;
-</span>
+```
+Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\veritabani1.accdb;Jet OLEDB:Database Password=MyDbPassword;
+```
 
 Tüm bunları yapmış olmak aslında yeterli değil. Eğer **Access 2007**
 veritabanını **Office 2007** yüklü olmayan bir bilgisayarda kullanmak
