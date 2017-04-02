@@ -2,11 +2,12 @@
 FallbackID: 2340
 Title: MIX 2. Gün
 PublishDate: 3/20/2009
-EntryID: 0d6e2f91-2641-4a31-9cf8-59782990b2f7
+EntryID: MIX_2_Gun
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
+old.EntryID: 0d6e2f91-2641-4a31-9cf8-59782990b2f7
 ---
 Güzel bir gün daha geldi ve geçti :) MIX'in 2. gününe damgasını vuran
 tabi ki Internet Explorer 8 oldu. Internet Explorer 8'in yayın alınması
