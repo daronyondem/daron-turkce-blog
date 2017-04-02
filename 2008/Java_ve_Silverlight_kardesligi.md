@@ -2,11 +2,12 @@
 FallbackID: 2155
 Title: Java ve Silverlight kardeşliği.
 PublishDate: 8/16/2008
-EntryID: 691ca224-0f26-4d50-8fe4-b69299d2dfd8
+EntryID: Java_ve_Silverlight_kardesligi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 691ca224-0f26-4d50-8fe4-b69299d2dfd8
 ---
 Silverlight'ın sunucu tarafındaki programlama dillerinden ve sunucu
 platformundan tamamen bağımsız olduğundan sürekli bahsediyoruz. Bu
