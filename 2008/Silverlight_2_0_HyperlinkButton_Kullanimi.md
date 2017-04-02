@@ -2,11 +2,12 @@
 FallbackID: 2071
 Title: Silverlight 2.0 HyperlinkButton Kullanımı
 PublishDate: 5/30/2008
-EntryID: 5c22215e-da05-4d22-addd-c8bd6e257dcb
+EntryID: Silverlight_2_0_HyperlinkButton_Kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 5c22215e-da05-4d22-addd-c8bd6e257dcb
 ---
 Silverlight 1.0 içerisinde harici sayfalara linkler verecek düğmeler
 yaratmak için el ile kod yazmak gerekiyordu, eğer bir de gerçekten bir
