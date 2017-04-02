@@ -2,11 +2,12 @@
 FallbackID: 1885
 Title: Biraz gülümseme...
 PublishDate: 12/14/2007
-EntryID: 1f1908b1-29fb-442c-81e9-fa046158393d
+EntryID: Biraz_gulumseme
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 1f1908b1-29fb-442c-81e9-fa046158393d
 ---
 Uzun zamandır aldığım mailler arasında belki de beni en çok
 güldürenlerden biri oldu aşağıdaki görüntü. Sizlerle de paylaşmak
