@@ -2,11 +2,12 @@
 FallbackID: 2557
 Title: MIX 2011 Gün 1 Raporu :)
 PublishDate: 4/13/2011
-EntryID: fb536cf6-5a7c-4af3-b61c-bc5c3a3f82dc
+EntryID: MIX_2011_Gun_1_Raporu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET MVC 3, Windows Azure, EF 4.1, IE 10, MVC, Razor, Internet Explorer, ASP.NET
+old.EntryID: fb536cf6-5a7c-4af3-b61c-bc5c3a3f82dc
 ---
 Bugünlerde **MIX 2011** konferansı nedeniyle Amerika, Las Vegas'tayım.
 Konferansın birinci ve ikinci gününde KeyNote konuşmalarında yapılan
