@@ -2,11 +2,12 @@
 FallbackID: 1957
 Title: Silverlight animasyonlarında fare imlecini değiştirmek.
 PublishDate: 2/13/2008
-EntryID: d2cefb91-0eff-41e6-80e7-ba3539cc9e69
+EntryID: Silverlight_animasyonlarinda_fare_imlecini_degistirmek
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: d2cefb91-0eff-41e6-80e7-ba3539cc9e69
 ---
 **Silverlight** uygulamaları içerisinde ister **sürükle&bırak**
 sistemleri kullanın ister doğrudan **InkPresenter** gibi fare imlecinin
