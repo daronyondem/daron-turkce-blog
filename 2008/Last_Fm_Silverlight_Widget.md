@@ -2,11 +2,12 @@
 FallbackID: 2091
 Title: Last.Fm Silverlight Widget!
 PublishDate: 6/14/2008
-EntryID: 3f829c71-b593-4d0b-93f2-0782e0e905b1
+EntryID: Last_Fm_Silverlight_Widget
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 3f829c71-b593-4d0b-93f2-0782e0e905b1
 ---
 Yaklaşık 2 saat kadar önce
 [last.fm](http://www.lastfm.com.tr/user/daronyondem/) üyesi oldum :)
