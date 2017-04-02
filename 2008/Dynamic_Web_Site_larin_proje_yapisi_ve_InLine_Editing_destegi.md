@@ -2,11 +2,12 @@
 FallbackID: 2214
 Title: Dynamic Web Site'ların proje yapısı ve InLine Editing desteği.
 PublishDate: 10/13/2008
-EntryID: 780ceee6-8011-4b82-981d-5e3bddeb30c9
+EntryID: Dynamic_Web_Site_larin_proje_yapisi_ve_InLine_Editing_destegi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
+old.EntryID: 780ceee6-8011-4b82-981d-5e3bddeb30c9
 ---
 Bir [önceki
 yazımda](http://daron.yondem.com/tr/post/a562c8ca-165a-41ba-b82b-0996aa8ea267)
