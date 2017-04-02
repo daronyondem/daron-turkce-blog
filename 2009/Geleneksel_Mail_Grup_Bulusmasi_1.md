@@ -2,11 +2,12 @@
 FallbackID: 2323
 Title: Geleneksel Mail Grup Buluşması 1 
 PublishDate: 2/16/2009
-EntryID: 912c2c49-e62d-462c-a8d5-8720ca437b9d
+EntryID: Geleneksel_Mail_Grup_Bulusmasi_1
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 912c2c49-e62d-462c-a8d5-8720ca437b9d
 ---
 Bundan tam iki ay önce sizlere blogumdan minik bir
 [duyuru](http://daron.yondem.com/tr/post/2d73cf4a-a22e-429a-9e75-ed20b8044837)
