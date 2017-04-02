@@ -2,11 +2,12 @@
 FallbackID: 2220
 Title: 360 derecelik HD View'ler artık Silverlight 2.0 ile yayında.
 PublishDate: 10/19/2008
-EntryID: b0b8011a-f059-4214-bda5-73596f754e1a
+EntryID: 360_derecelik_HD_View_ler_artik_Silverlight_2_0_ile_yayinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: b0b8011a-f059-4214-bda5-73596f754e1a
 ---
 HD Photo mantığı aslında adından da az çok anlaşılabileceği üzere yüksek
 çözünürlüklü (High Definition) fotoğraf yayını ile ilgili bir kavram.
