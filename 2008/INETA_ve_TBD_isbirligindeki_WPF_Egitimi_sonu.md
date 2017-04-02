@@ -2,11 +2,12 @@
 FallbackID: 2014
 Title: INETA ve TBD işbirliğindeki WPF Eğitimi sonu.
 PublishDate: 4/7/2008
-EntryID: 5b2c61bf-b83c-4a04-a872-08bd5496c39e
+EntryID: INETA_ve_TBD_isbirligindeki_WPF_Egitimi_sonu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, WPF
+old.EntryID: 5b2c61bf-b83c-4a04-a872-08bd5496c39e
 ---
 Ücretsiz eğitimler devam ediyor. Bugün de tam günlük bir **WPF** ve
 **Expression Blend** eğitimi ile TBD ve INETA işbirliğinde toplandık.
