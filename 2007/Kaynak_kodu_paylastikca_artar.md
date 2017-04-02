@@ -2,11 +2,12 @@
 FallbackID: 1830
 Title: Kaynak kodu paylaştıkça artar...
 PublishDate: 10/31/2007
-EntryID: 021a07b8-b4ac-486e-af58-cf695bc8bd6e
+EntryID: Kaynak_kodu_paylastikca_artar
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Genel
+old.EntryID: 021a07b8-b4ac-486e-af58-cf695bc8bd6e
 ---
 Açık kaynak kodu özellikle Microsoft taraflı yazılım geliştiricilerin
 biraz endişe ile baktıkları bir alandır. Bu durum söz konusu
