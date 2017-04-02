@@ -2,11 +2,12 @@
 FallbackID: 2318
 Title: Silverlight 2.0 içerisinde harici Class Library yapılarının asenkron kullanımı.
 PublishDate: 2/4/2009
-EntryID: 4bd2158a-5c4b-496e-ae05-2990cadd2a67
+EntryID: Silverlight_2_0_icerisinde_harici_Class_Library_yapilarinin_asenkron_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 4bd2158a-5c4b-496e-ae05-2990cadd2a67
 ---
 Silverlight projeleriniz büyüdükçe projenin bazı bölümlerini sonradan
 istemci tarafına aktarmayı daha uygun bir seçenek olarak görebilirsiniz.
