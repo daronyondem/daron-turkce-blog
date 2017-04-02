@@ -2,11 +2,12 @@
 FallbackID: 2067
 Title: Ankara, EMO Eğitimleri
 PublishDate: 5/26/2008
-EntryID: 3b0e6e52-aafe-4891-8db3-48b7efc01880
+EntryID: Ankara_EMO_Egitimleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, Expression Blend, Expression Design, Expression Encoder, LINQ, Silverlight, Silverlight 2.0, WPF
+old.EntryID: 3b0e6e52-aafe-4891-8db3-48b7efc01880
 ---
 Özellikle beni microbloğum [twitter.com](http://twitter.com/daronyondem)
 üzerinden takip edenlerin farkında olacağı üzere hafta sonunu Ankara'da
