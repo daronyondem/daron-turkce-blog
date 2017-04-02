@@ -2,11 +2,12 @@
 FallbackID: 2253
 Title: Silverlight 2.0 ile Oyun Programlama Semineri video kaydı karşınızda.
 PublishDate: 11/21/2008
-EntryID: 13fa1172-d2a2-405c-bb68-f81c40739e5b
+EntryID: Silverlight_2_0_ile_Oyun_Programlama_Semineri_video_kaydi_karsinizda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 13fa1172-d2a2-405c-bb68-f81c40739e5b
 ---
 Hatırlarsanız geçen hafta sonu Cumartesi günü Microsoft Türkiye'de [Oyun
 Turu](http://daron.yondem.com/tr/post/05675b05-d628-4a42-85cf-e35fccfdbb37)'nun
