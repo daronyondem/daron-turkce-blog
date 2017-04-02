@@ -2,11 +2,12 @@
 FallbackID: 2226
 Title: INETA Capital Hit Panel video kaydı...
 PublishDate: 10/25/2008
-EntryID: 833fce0c-c3e7-4567-be2e-c62302929fe4
+EntryID: INETA_Capital_Hit_Panel_video_kaydi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Seminer
+old.EntryID: 833fce0c-c3e7-4567-be2e-c62302929fe4
 ---
 [INETA Capital
 Hit](http://daron.yondem.com/tr/post/75fd8290-6f44-4c10-b48c-e183a0130d87)'te
