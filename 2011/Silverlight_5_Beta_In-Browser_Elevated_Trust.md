@@ -2,11 +2,12 @@
 FallbackID: 2568
 Title: Silverlight 5 Beta In-Browser Elevated Trust
 PublishDate: 4/25/2011
-EntryID: 892fdbe4-864e-4e9b-a5c2-3dfa9d7d1218
+EntryID: Silverlight_5_Beta_In-Browser_Elevated_Trust
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
+old.EntryID: 892fdbe4-864e-4e9b-a5c2-3dfa9d7d1218
 ---
 Silverlight'ın masaüstündeki Elevated Trust özelliği duyurulduğundan
 beridir bu konuda çerçevesinde en çok sorulan soru "Acaba tarayıcı
