@@ -2,11 +2,12 @@
 FallbackID: 2466
 Title: Microsoft MEA VP Marco Comastri ile RD ve MVP toplantımız.
 PublishDate: 12/3/2009
-EntryID: f8af49d6-9885-410b-9fdf-7edc6423659f
+EntryID: Microsoft_MEA_VP_Marco_Comastri_ile_RD_ve_MVP_toplantimiz
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: f8af49d6-9885-410b-9fdf-7edc6423659f
 ---
 Bugün RD ve MVP'ler olarak Microsoft MEA (Ortadoğu Afrika) bölgesi
 Başkan Yardımcısı **Marco Comastri** ile bir toplantımız oldu.
