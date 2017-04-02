@@ -2,11 +2,12 @@
 FallbackID: 1764
 Title: Live Search XML Web Servisleri'ni Kullanarak Kendi Arama Motorunuzu Yaratın
 PublishDate: 8/28/2007
-EntryID: 5b00b378-2c9d-46d3-927c-b7e80dd3252a
+EntryID: Live_Search_XML_Web_Servislerini_Kullanarak_Kendi_Arama_Motorunuzu_Yaratin
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET
+old.EntryID: 5b00b378-2c9d-46d3-927c-b7e80dd3252a
 ---
 Hiç kendi arama motorunuzu programlamayı düşündünüz mü? Peki bu konuda
 hiç araştırma yaptınız mı? Emin olun hiç kolay bir iş değil. Onun yerine
