@@ -2,11 +2,12 @@
 FallbackID: 2163
 Title: Ücretsiz Silverlight 2.0 ile hazırlanmış charting kontrolleri : Visifire
 PublishDate: 8/24/2008
-EntryID: 7f296587-2b2d-402b-a003-8beaa8b04da1
+EntryID: Ucretsiz_Silverlight_2_0_ile_hazirlanmis_charting_kontrolleri_Visifire
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 7f296587-2b2d-402b-a003-8beaa8b04da1
 ---
 Silverlight 2.0 ile hazırlanmış ASP.NET sunucu kontrollerine adım adım
 yaklaştığımız bu günlerde "**Charting**" kontrolleri cephesinde
