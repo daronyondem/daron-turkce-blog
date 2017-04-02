@@ -2,11 +2,12 @@
 FallbackID: 2376
 Title: Silverlight 3.0 içerisinde DataPager ve istemci/sunucu taraflı sayfalama
 PublishDate: 7/2/2009
-EntryID: 97826af2-6e81-421b-9bcf-94502e4f64f2
+EntryID: Silverlight_3_0_icerisinde_DataPager_ve_istemci-sunucu_tarafli_sayfalama
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: 97826af2-6e81-421b-9bcf-94502e4f64f2
 ---
 Sayfalama senaryoları her zaman ihtiyacımız olan işlevselliklerden
 olmuştur. En basit kullanımı ile bir DataGrid içerisindeki verinin
