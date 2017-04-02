@@ -2,11 +2,12 @@
 FallbackID: 1950
 Title: Silverlight, WPF, AJAX Eğitimi ardından...
 PublishDate: 2/8/2008
-EntryID: 52a599c9-a1ae-4193-8188-3b4e5d6f80a1
+EntryID: Silverlight_WPF_AJAX_Egitimi_ardindan
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, Silverlight, WPF
+old.EntryID: 52a599c9-a1ae-4193-8188-3b4e5d6f80a1
 ---
 Bugün **Microsoft İstanbul** ofislerinde bir başka iş ortakları
 eğitimini daha bitirdik. **Silverlight, WPF** ve **AJAX** konularına
