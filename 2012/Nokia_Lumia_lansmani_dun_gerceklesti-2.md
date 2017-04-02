@@ -2,11 +2,12 @@
 FallbackID: 2830
 Title: Nokia Lumia lansmanı dün gerçekleşti!
 PublishDate: 11/22/2012
-EntryID: Nokia_Lumia_lansmani_dun_gerceklesti
+EntryID: Nokia_Lumia_lansmani_dun_gerceklesti-2
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Nokia, Windows Phone 8
+old.EntryID: Nokia_Lumia_lansmani_dun_gerceklesti
 ---
 Dün Nokia'nın Lumia Türkiye lansmanı vardı! Evet sonunda Nokia Windows
 Phone 8'ler Türkiye'de. Aslına bakarsanız birkaç haftadır satışlar
