@@ -2,11 +2,12 @@
 FallbackID: 2077
 Title: WPF Browser Application ve Web Servisleri ile Veri Uygulamaları
 PublishDate: 6/5/2008
-EntryID: 76cbf299-63a5-443e-8d00-249ac9c7b425
+EntryID: WPF_Browser_Application_ve_Web_Servisleri_ile_Veri_Uygulamalari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, WPF, ASP.NET
+old.EntryID: 76cbf299-63a5-443e-8d00-249ac9c7b425
 ---
 WPF teknolojisi Windows uygulamalarında bize iki ve üç boyutlu
 animasyonlarla zengin kullanıcı arayüzleri hazırlama şansı tanırken
