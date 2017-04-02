@@ -2,11 +2,12 @@
 FallbackID: 1849
 Title: Aptana : Ücretsiz, Kahraman JavaScript Editörü
 PublishDate: 11/15/2007
-EntryID: 6633ebd4-c30f-4a05-ba8b-1b55c3d80849
+EntryID: Aptana_Ucretsiz_Kahraman_JavaScript_Editoru
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, JavaScript, Silverlight
+old.EntryID: 6633ebd4-c30f-4a05-ba8b-1b55c3d80849
 ---
 **Visual Studio 2008**'e adım adım yaklaştığımız şu günlerde belki de
 biraz geç bir yazı yazıyorum. İster AJAX ister Silverlight
