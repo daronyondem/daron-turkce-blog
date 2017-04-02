@@ -2,11 +2,12 @@
 FallbackID: 1870
 Title: Expression Encoder ve rakipleri
 PublishDate: 12/1/2007
-EntryID: f1cc262a-c5ef-4480-a3be-714ce8829313
+EntryID: Expression_Encoder_ve_rakipleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Encoder
+old.EntryID: f1cc262a-c5ef-4480-a3be-714ce8829313
 ---
 İşte geldik Expression Studio Savaşları yazı dizisinin :) son ürününe:
 **Expression Encoder**. Özellikle bu ürünü en sona saklamamın nedeni
