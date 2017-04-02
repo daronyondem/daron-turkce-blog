@@ -2,11 +2,12 @@
 FallbackID: 2492
 Title: 2009 Yılı Gold RD Ödülüm ve Türkiye'den yeni bir RD
 PublishDate: 2/25/2010
-EntryID: 61c6bfa0-bc94-4fd6-a258-ed17f13525a3
+EntryID: 2009_Yili_Gold_RD_Odulum_ve_Turkiye_den_yeni_bir_RD
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 61c6bfa0-bc94-4fd6-a258-ed17f13525a3
 ---
 Bugün çok güzel bir haber aldım :) 2009 yılında RD olduğum dönemde
 bulunan dünya çapında toplam 117 RD'nin 34'ünün aldığı **Gold Global
