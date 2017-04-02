@@ -2,11 +2,12 @@
 FallbackID: 2314
 Title: INETA Professional Hit Katılımcıları
 PublishDate: 1/24/2009
-EntryID: 7cc1a930-64e6-4188-be14-605821576531
+EntryID: INETA_Professional_Hit_Katilimcilari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 7cc1a930-64e6-4188-be14-605821576531
 ---
 Sanırım son attığımız maillerde bazı sorunlar olmuş. Bugün iki, üç
 kişiden mail almadıklarına dair mailler aldım. Yarınki aktivitemiz için
