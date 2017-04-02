@@ -2,11 +2,12 @@
 FallbackID: 2041
 Title: Silverlight Şarkısı
 PublishDate: 4/30/2008
-EntryID: cab619b4-e238-4f76-b790-ac0f3b38704c
+EntryID: Silverlight_Sarkisi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
+old.EntryID: cab619b4-e238-4f76-b790-ac0f3b38704c
 ---
 Silverlight çılgınlığı aldı başını gidiyor :) Spike Xavier ve Dan Wahlin
 tarafından hazırlanmış Silverlight şarkısını aşağıdaki adresten
