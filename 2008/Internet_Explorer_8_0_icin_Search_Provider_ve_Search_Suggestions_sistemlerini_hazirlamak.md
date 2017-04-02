@@ -2,11 +2,12 @@
 FallbackID: 2186
 Title: Internet Explorer 8.0 için Search Provider ve Search Suggestions sistemlerini hazırlamak.
 PublishDate: 9/15/2008
-EntryID: 565a18db-b3ae-4ef3-b96d-d7f495e594e8
+EntryID: Internet_Explorer_8_0_icin_Search_Provider_ve_Search_Suggestions_sistemlerini_hazirlamak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
+old.EntryID: 565a18db-b3ae-4ef3-b96d-d7f495e594e8
 ---
 Internet Explorer 7.0 ile beraber alıştığımız "**Search Providers**"
 yapısına IE 8.0 içerisinde bazı eklemeler yapıldı. Bu eklemelerin içinde
