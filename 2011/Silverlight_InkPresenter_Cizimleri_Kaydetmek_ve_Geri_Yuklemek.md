@@ -2,11 +2,12 @@
 FallbackID: 2548
 Title: Silverlight InkPresenter Çizimleri Kaydetmek ve Geri Yüklemek
 PublishDate: 2/4/2011
-EntryID: 9ecd02b9-ebc9-49d6-a0bf-377b553f0a98
+EntryID: Silverlight_InkPresenter_Cizimleri_Kaydetmek_ve_Geri_Yuklemek
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4
+old.EntryID: 9ecd02b9-ebc9-49d6-a0bf-377b553f0a98
 ---
 Dün[InkPresenter kontrolü bir
 giriş](http://daron.yondem.com/tr/post/e9816163-dc3a-4765-a1a4-fd62d627bf61)
