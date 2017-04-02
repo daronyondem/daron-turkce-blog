@@ -2,11 +2,12 @@
 FallbackID: 2307
 Title: Windows 7 T-Shirt tasarımım.
 PublishDate: 1/14/2009
-EntryID: 35c9cde8-4e56-489a-a18d-1c0e19a5c66c
+EntryID: Windows_7_T-Shirt_tasarimim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows 7
+old.EntryID: 35c9cde8-4e56-489a-a18d-1c0e19a5c66c
 ---
 Bir başka T-Shirt tasarımım ile karşınızdayım :) Bir önceki SilverMan
 T-Shirt'ünün gördüğü ilgiden sonra tekstil sektörüne atılmasam da
