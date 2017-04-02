@@ -2,11 +2,12 @@
 FallbackID: 1809
 Title: Online Silverlight Video Oynatıcı Yaratıcısı...
 PublishDate: 10/11/2007
-EntryID: 5173ac96-aaca-4160-955f-23d1455e0ec1
+EntryID: Online_Silverlight_Video_Oynatici_Yaraticisi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 5173ac96-aaca-4160-955f-23d1455e0ec1
 ---
 Silverlight teknolojisinden en hızlı ve kolay şekilde
 faydalanabileceğimiz noktalardan biri online video yayını. Özellikle WMV
