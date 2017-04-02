@@ -2,11 +2,12 @@
 FallbackID: 1783
 Title: ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 4 - DOM Fonksiyonları)
 PublishDate: 9/11/2007
-EntryID: f8a9905e-7d02-4a0b-b672-2ee0e7f74c7e
+EntryID: ASP_NET_AJAX_Extension_JavaScript_Istemci_Ozellikleri_Bolum_4_-_DOM_Fonksiyonlari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX
+old.EntryID: f8a9905e-7d02-4a0b-b672-2ee0e7f74c7e
 ---
 Bir önceki yazımızda ASP.NET AJAX Extension ile beraber gelen istemci
 tarafındaki sayısal, metin ve tarih değişkenleri ile ilgili
