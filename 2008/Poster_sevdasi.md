@@ -2,11 +2,12 @@
 FallbackID: 1942
 Title: Poster sevdası...
 PublishDate: 2/3/2008
-EntryID: 2941218f-fef5-4b5a-8611-a24959fa5654
+EntryID: Poster_sevdasi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 2941218f-fef5-4b5a-8611-a24959fa5654
 ---
 Blogumda en çok tıklanan linkler arasında poster download linkleri var
 :) Buradan yola çıkarak sizlere bir poster arşivi toparladım. Posterlere
