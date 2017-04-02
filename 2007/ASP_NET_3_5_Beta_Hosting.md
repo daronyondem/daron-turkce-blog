@@ -2,11 +2,12 @@
 FallbackID: 1752
 Title: ASP.NET 3.5 Beta Hosting
 PublishDate: 8/3/2007
-EntryID: d53f9f49-a98b-48d3-856c-ea1806b12b01
+EntryID: ASP_NET_3_5_Beta_Hosting
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, ASP.NET
+old.EntryID: d53f9f49-a98b-48d3-856c-ea1806b12b01
 ---
 **ASP.NET 3.5** sürümünün giderek yaklaştığı şu günlerde yavaş yavaş
 Beta Hosting hizmetleri de kendini göstermeye başladı. [Crsytal
