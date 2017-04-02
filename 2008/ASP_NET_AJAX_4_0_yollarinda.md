@@ -2,11 +2,12 @@
 FallbackID: 2137
 Title: ASP.NET AJAX 4.0 yollarında....
 PublishDate: 7/28/2008
-EntryID: 9840eb9e-f46a-47d1-8f8e-929871a26500
+EntryID: ASP_NET_AJAX_4_0_yollarinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX
+old.EntryID: 9840eb9e-f46a-47d1-8f8e-929871a26500
 ---
 **ASP.NET 3.5** ile artık Framework'e dahil olan AJAX Extension
 konusunda gelişmeler devam ediyor. **ASP.NET AJAX 4.0**'a ait
