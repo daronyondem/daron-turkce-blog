@@ -2,11 +2,12 @@
 FallbackID: 1881
 Title: İstanbul Üniversitesi Silverlight Semineri ardından.
 PublishDate: 12/12/2007
-EntryID: ecbbb994-a159-4413-8ee9-8e1b4954e32f
+EntryID: Istanbul_Universitesi_Silverlight_Semineri_ardindan
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Seminer
+old.EntryID: ecbbb994-a159-4413-8ee9-8e1b4954e32f
 ---
 ![İstanbul Üniversitesi "Silverlight"
 Semineri](http://cdn.daron.yondem.com/assets/1881/11122007_1.jpg)Dün
