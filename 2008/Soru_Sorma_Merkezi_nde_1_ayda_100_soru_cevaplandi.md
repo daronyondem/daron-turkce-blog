@@ -2,11 +2,12 @@
 FallbackID: 2124
 Title: Soru Sorma Merkezi'nde 1 ayda 100 soru cevaplandı!
 PublishDate: 7/15/2008
-EntryID: c0aace0f-da50-435a-85e2-7142b0ab4e32
+EntryID: Soru_Sorma_Merkezi_nde_1_ayda_100_soru_cevaplandi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: c0aace0f-da50-435a-85e2-7142b0ab4e32
 ---
 Tam bir ay olmuş! Geçen ayın 14'ünde açılışını yaptığımız [Soru Sorma
 Merkezi](http://daron.yondem.com/tr/sorusor/)'nin üzerinden bir ay geçti
