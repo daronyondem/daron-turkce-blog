@@ -2,11 +2,12 @@
 FallbackID: 2386
 Title: Microsoft Yaz Okulu, İstanbul ayağı...
 PublishDate: 8/12/2009
-EntryID: 6314f263-8393-41b9-9d2b-6cee8cff72e3
+EntryID: Microsoft_Yaz_Okulu_Istanbul_ayagi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: 6314f263-8393-41b9-9d2b-6cee8cff72e3
 ---
 Son iki gündir **Microsoft Yaz Okulu**'nun İstanbul ayağında Silverlight
 anlatıyordum. İstanbul yaz okulu öğrencileri doğrudan Microsoft
