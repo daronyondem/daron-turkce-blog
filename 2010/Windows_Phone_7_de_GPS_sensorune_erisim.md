@@ -2,11 +2,12 @@
 FallbackID: 2526
 Title: Windows Phone 7'de GPS sensörüne erişim.
 PublishDate: 5/13/2010
-EntryID: ec8facbd-6ae8-4547-ba12-211dc5ad9fcd
+EntryID: Windows_Phone_7_de_GPS_sensorune_erisim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
+old.EntryID: ec8facbd-6ae8-4547-ba12-211dc5ad9fcd
 ---
 GPS sensörleri gün geçtikçe her yerde karşımıza çıkıyor. Kişisel olarak
 konuşmam gerekirse bir cep telefonu satın alırken GPS sensörüne sahip
