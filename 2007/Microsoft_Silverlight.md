@@ -2,11 +2,12 @@
 FallbackID: 1727
 Title: Microsoft Silverlight
 PublishDate: 4/17/2007
-EntryID: b28d270f-2ed4-4f25-b38d-98ce0d30cddd
+EntryID: Microsoft_Silverlight
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: b28d270f-2ed4-4f25-b38d-98ce0d30cddd
 ---
 ![](http://cdn.daron.yondem.com/assets/1727/silverlight.gif)
 
