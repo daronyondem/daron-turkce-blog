@@ -2,11 +2,12 @@
 FallbackID: 2561
 Title: Silverlight 5 Beta Markup Extensions
 PublishDate: 4/18/2011
-EntryID: b94a07d5-3909-46b8-938a-82c60a0e6869
+EntryID: Silverlight_5_Beta_Markup_Extensions
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
+old.EntryID: b94a07d5-3909-46b8-938a-82c60a0e6869
 ---
 XAML tarafındaki binding mekanizmalarını biliyoruz. Örneğin herhangi bir
 property'yi XAML tarafında tanımlı bir nesnenin bir attribute'üne
