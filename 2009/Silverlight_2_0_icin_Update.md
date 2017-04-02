@@ -2,11 +2,12 @@
 FallbackID: 2325
 Title: Silverlight 2.0 için Update
 PublishDate: 2/19/2009
-EntryID: 9fc7c78e-df02-49a9-91ad-938bb22623cd
+EntryID: Silverlight_2_0_icin_Update
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 9fc7c78e-df02-49a9-91ad-938bb22623cd
 ---
 Bugün Silverlight 2.0 Runtime için yeni bir update çıktı. İstemci
 tarafında Silverlight Runtime kendini otomatik olarak update edecek
