@@ -2,11 +2,12 @@
 FallbackID: 2022
 Title: SharePoint Server üzerinde Silverlight kullanımı.
 PublishDate: 4/13/2008
-EntryID: 690517ba-c893-49f8-a744-07894794ca6f
+EntryID: SharePoint_Server_uzerinde_Silverlight_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, SharePoint
+old.EntryID: 690517ba-c893-49f8-a744-07894794ca6f
 ---
 **SharePoint Server** artık sadece bir şirket içi iletişim ve paylaşım
 alanı olmanın ötesinde internete açık web sitelerinin altyapısında da
