@@ -2,11 +2,12 @@
 FallbackID: 2573
 Title: Silverlight 5 Beta'da Ancestor Relative Binding
 PublishDate: 4/30/2011
-EntryID: 07aaf12e-e4dc-48a9-9acc-4968c0b65e6b
+EntryID: Silverlight_5_Beta_da_Ancestor_Relative_Binding
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
+old.EntryID: 07aaf12e-e4dc-48a9-9acc-4968c0b65e6b
 ---
 Geldik bir başka Silverlight 5 yeniliğine... WPF'ten bilenler yazıyı
 okuyarak işkence çekmesinler diye hemen söyleyelim Ancestor Relative
