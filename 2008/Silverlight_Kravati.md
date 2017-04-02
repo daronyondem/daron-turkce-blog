@@ -2,11 +2,12 @@
 FallbackID: 2068
 Title: Silverlight Kravatı! :)
 PublishDate: 5/27/2008
-EntryID: 3a63e202-1215-4a78-80b0-5db0360ebf72
+EntryID: Silverlight_Kravati
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
+old.EntryID: 3a63e202-1215-4a78-80b0-5db0360ebf72
 ---
 [Super
 SilverMan](http://daron.yondem.com/tr/post/02fbfef5-7ce2-4870-84b9-3f2c36ef2a6d)
