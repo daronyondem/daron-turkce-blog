@@ -2,11 +2,12 @@
 FallbackID: 1735
 Title: Internet Explorer ve Flash'lardaki Çerçeve (Aktivasyon) Sorunu
 PublishDate: 4/28/2007
-EntryID: b359c340-e08c-4466-a49b-4e304438824f
+EntryID: Internet_Explorer_ve_Flashlardaki_Cerceve_Aktivasyon_Sorunu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: HTML, JavaScript
+old.EntryID: b359c340-e08c-4466-a49b-4e304438824f
 ---
 Bu konuyu uzun süre önce, daha Türkçe blog sitemi açmadığım zamanlarda
 (17 Nisan 2006) İngilizce blog sitemde incelemiştim. İngilizce makaleye
