@@ -2,11 +2,12 @@
 FallbackID: 2207
 Title: Silverlight 2.0 içerisinde ProgressBar kullanımı.
 PublishDate: 10/6/2008
-EntryID: 4b0c6f27-26d8-4e3f-bf12-af03d43afb45
+EntryID: Silverlight_2_0_icerisinde_ProgressBar_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 4b0c6f27-26d8-4e3f-bf12-af03d43afb45
 ---
 .NET Framework'ün ufak bir paketini içerse de Silverlight ile web
 tarayıcısı içerisinde büyük mucizeler yaratmak mümkün. .NET'in
