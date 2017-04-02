@@ -2,11 +2,12 @@
 FallbackID: 2267
 Title: MultiPoint Programlama'ya Giriş
 PublishDate: 12/6/2008
-EntryID: 957721ed-ace9-454e-8294-ebb5839317e9
+EntryID: MultiPoint_Programlamaya_Giris
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: WPF, MultiPoint SDK
+old.EntryID: 957721ed-ace9-454e-8294-ebb5839317e9
 ---
 Makalemize ilk olarak MultiPoint programlamanın ne olduğunu tanımlayarak
 başlayalım. Bugün bilgisayarlarımızda alıştığımız sistem sadece tek bir
