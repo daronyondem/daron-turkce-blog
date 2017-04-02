@@ -2,11 +2,12 @@
 FallbackID: 1991
 Title: Silverlight T-Shirt isteyenler buraya!
 PublishDate: 3/16/2008
-EntryID: 02fbfef5-7ce2-4870-84b9-3f2c36ef2a6d
+EntryID: Silverlight_T-Shirt_isteyenler_buraya
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
+old.EntryID: 02fbfef5-7ce2-4870-84b9-3f2c36ef2a6d
 ---
 Seminerlerde, videolarda ve geçen gün lansmanda üzerimdeki **Silverlight
 T-Shirt**'ü büyük beğeni kazandı :) O kadar ki bir an tekstil sektörüne
