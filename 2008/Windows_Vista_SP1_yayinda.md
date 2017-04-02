@@ -2,11 +2,12 @@
 FallbackID: 1995
 Title: Windows Vista SP1 yayında!
 PublishDate: 3/20/2008
-EntryID: a8c03edf-08f6-4217-9836-311004b8fa76
+EntryID: Windows_Vista_SP1_yayinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: a8c03edf-08f6-4217-9836-311004b8fa76
 ---
 **Windows Vista** için **SP1** yayınlandı. Bağımsız yükleme paketi
 yaklaşık 450MB, Windows Update üzerinde ise takriben 65MB'lık biryükleme
