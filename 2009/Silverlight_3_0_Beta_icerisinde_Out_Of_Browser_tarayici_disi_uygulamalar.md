@@ -2,11 +2,12 @@
 FallbackID: 2358
 Title: Silverlight 3.0 Beta içerisinde (Out Of Browser) tarayıcı dışı uygulamalar.
 PublishDate: 4/27/2009
-EntryID: 4283a271-24a9-4a62-aed6-d38d291dd9a2
+EntryID: Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: 4283a271-24a9-4a62-aed6-d38d291dd9a2
 ---
 Silverlight 3.0 Beta ile beraber gelen ilginç özelliklerden biri de
 herhangi bir Silverlight uygulamasını doğrudan masaüstüne alabiliyor
