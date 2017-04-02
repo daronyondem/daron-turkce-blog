@@ -2,11 +2,12 @@
 FallbackID: 1871
 Title: AJAX ve WCF Servisleri 
 PublishDate: 12/1/2007
-EntryID: df5fa85e-a9c9-4a12-b30a-a6498c437029
+EntryID: AJAX-ve-WCF-Servisleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, WCF
+old.EntryID: df5fa85e-a9c9-4a12-b30a-a6498c437029
 ---
 **ASP.NET 3.5**'in gelmesi ile beraber yavaş yavaş yeni AJAX
 uygulamalarımızı da bu yeni platforma taşımamız gerekiyor. Çoğunuzun
