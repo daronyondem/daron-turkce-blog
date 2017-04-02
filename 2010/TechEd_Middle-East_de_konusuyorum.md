@@ -2,11 +2,12 @@
 FallbackID: 2489
 Title: TechEd Middle-East'de konuşuyorum!
 PublishDate: 2/10/2010
-EntryID: 6110df43-11cd-4c54-8227-4bdfe98e5dc3
+EntryID: TechEd_Middle-East_de_konusuyorum
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: C#, IE 8.0, MultiTouch, Visual Basic 2010, Visual Basic .NET, Internet Explorer
+old.EntryID: 6110df43-11cd-4c54-8227-4bdfe98e5dc3
 ---
 Hatırlarsanız sizlerle daha önce bu sene Berlin'de yapılan TechEd
 Europe'dan izlenimlerini aktarmıştım. (Gün
