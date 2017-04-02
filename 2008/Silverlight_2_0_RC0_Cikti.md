@@ -2,11 +2,12 @@
 FallbackID: 2197
 Title: Silverlight 2.0 RC0 Çıktı!
 PublishDate: 9/26/2008
-EntryID: 5bcec32b-257f-4ae6-aaf4-51f2aacb2979
+EntryID: Silverlight_2_0_RC0_Cikti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 5bcec32b-257f-4ae6-aaf4-51f2aacb2979
 ---
 Silverlight'ın RTW (Release To Web) olmasına yani tam olarak son haline
 gelmesine çok az kaldı. Bugün **RC0 (Release Candidate)** sürümü sadece
