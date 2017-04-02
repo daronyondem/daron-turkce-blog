@@ -2,11 +2,12 @@
 FallbackID: 2160
 Title: IIS 7.0 ve ASP.NET yenilikleri.
 PublishDate: 8/20/2008
-EntryID: c1a37cdf-9edc-4c68-a3f9-92198b0cfaed
+EntryID: IIS_7_0_ve_ASP_NET_yenilikleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, IIS 7.0, ASP.NET
+old.EntryID: c1a37cdf-9edc-4c68-a3f9-92198b0cfaed
 ---
 Server 2008 ile beraber IIS 7.0'ın gelmesi özellikle ASP.NET
 geliştiricileri için büyük kolaylıklar sunuyor. Bu yazımda sizlere bu
