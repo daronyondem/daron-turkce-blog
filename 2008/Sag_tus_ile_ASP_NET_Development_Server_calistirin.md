@@ -2,11 +2,12 @@
 FallbackID: 2098
 Title: Sağ tuş ile ASP.NET Development Server çalıştırın
 PublishDate: 6/20/2008
-EntryID: 55fa9a42-90a7-4cbf-8602-0616cc8c353f
+EntryID: Sag_tus_ile_ASP_NET_Development_Server_calistirin
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
+old.EntryID: 55fa9a42-90a7-4cbf-8602-0616cc8c353f
 ---
 Çok önceleri İngilizce bloguma yazdığım fakat ilginç bir şekilde
 Türkçe'ye yazmadığım bir araçtan bahsetmek istiyorum. Özellikle
