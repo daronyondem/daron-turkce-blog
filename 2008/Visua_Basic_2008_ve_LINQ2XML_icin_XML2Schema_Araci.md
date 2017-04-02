@@ -2,11 +2,12 @@
 FallbackID: 1926
 Title: Visua Basic 2008 ve LINQ2XML için XML2Schema Aracı
 PublishDate: 1/21/2008
-EntryID: dce935ca-763c-4233-a4e1-6fdd3302ba4d
+EntryID: Visua_Basic_2008_ve_LINQ2XML_icin_XML2Schema_Araci
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: LINQ, Visual Basic 2008, Visual Basic .NET
+old.EntryID: dce935ca-763c-4233-a4e1-6fdd3302ba4d
 ---
 Daha önceki yazılarımda sadece VB'de çalışan ve benim "*inline XML*"
 diyebileceğim VB kodları içerisinde doğrudan XML yazımının
