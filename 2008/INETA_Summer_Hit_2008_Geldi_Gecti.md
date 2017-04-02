@@ -2,11 +2,12 @@
 FallbackID: 2144
 Title: INETA Summer Hit 2008 Geldi... Geçti...
 PublishDate: 8/4/2008
-EntryID: 26e2f35a-9799-44b6-b039-52b73b375542
+EntryID: INETA_Summer_Hit_2008_Geldi_Gecti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, LINQ, Seminer, Silverlight 2.0, Internet Explorer
+old.EntryID: 26e2f35a-9799-44b6-b039-52b73b375542
 ---
 Bugün **INETA Summer Hit 2008**'in ikinci gününü de mutlu bir şekilde
 sonlandırdık. Yaz aylarında bir hafta sonu etkinliğinde 350 üstü
