@@ -2,11 +2,12 @@
 FallbackID: 2293
 Title: Herkese yeni yıl hediyesi : Silverlight 2.0 E-Kart
 PublishDate: 1/1/2009
-EntryID: dde31a40-26c9-4af0-874c-0112fae557d9
+EntryID: Herkese_yeni_yil_hediyesi_Silverlight_2_0_E-Kart
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: dde31a40-26c9-4af0-874c-0112fae557d9
 ---
 Veeee yılbaşı geldi :) Yeni bir yıl yeni heyecanlar ve tabi eskitilen
 bir yıl ve yaşananlar. Neyse geyiği bırakıp konuya dönelim :) Malumunuz
