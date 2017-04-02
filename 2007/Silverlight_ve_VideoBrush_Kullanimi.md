@@ -2,11 +2,12 @@
 FallbackID: 1828
 Title: Silverlight ve VideoBrush Kullanımı
 PublishDate: 10/30/2007
-EntryID: 7f3952db-0bfb-4172-8e44-057cbbd00b98
+EntryID: Silverlight_ve_VideoBrush_Kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Silverlight
+old.EntryID: 7f3952db-0bfb-4172-8e44-057cbbd00b98
 ---
 Dünkü Silverlight ve MediaElement örneğimize **VideoBrush** ile devam
 edeceğiz. İlk olarak MediaElement nesnemizi biraz daha ufaltarak yansıma
