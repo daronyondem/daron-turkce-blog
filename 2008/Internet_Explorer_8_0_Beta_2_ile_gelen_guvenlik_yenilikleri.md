@@ -2,11 +2,12 @@
 FallbackID: 2170
 Title: Internet Explorer 8.0 Beta 2 ile gelen güvenlik yenilikleri
 PublishDate: 8/31/2008
-EntryID: b5a6af1b-2b5b-42ca-ae4b-ccd1c99441d3
+EntryID: Internet_Explorer_8_0_Beta_2_ile_gelen_guvenlik_yenilikleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
+old.EntryID: b5a6af1b-2b5b-42ca-ae4b-ccd1c99441d3
 ---
 **Internet Explorer 8.0 Beta 2** kısa bir süre önce yayınlandı. Bu
 yazımda "Güvenlik" çerçevesinde IE 8.0 ile beraber gelen
