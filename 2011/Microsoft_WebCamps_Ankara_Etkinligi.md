@@ -2,11 +2,12 @@
 FallbackID: 2542
 Title: Microsoft WebCamps Ankara Etkinliği
 PublishDate: 1/12/2011
-EntryID: e1da472e-5549-4e54-88bc-b15dcd3e5bcc
+EntryID: Microsoft_WebCamps_Ankara_Etkinligi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: WebMatrix
+old.EntryID: e1da472e-5549-4e54-88bc-b15dcd3e5bcc
 ---
 Bugün Microsoft'un [WebCamps](http://www.webcamps.ms) etkinlik serisinin
 ilk ayağını Ankara'da yaptık. Evet, yanlış duymadınız :) Hani hep "Neden
