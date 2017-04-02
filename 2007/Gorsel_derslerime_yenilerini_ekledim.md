@@ -2,11 +2,12 @@
 FallbackID: 1766
 Title: Görsel derslerime yenilerini ekledim.
 PublishDate: 8/29/2007
-EntryID: 0a2717f2-570b-4243-9611-e3189b31d7b2
+EntryID: Gorsel_derslerime_yenilerini_ekledim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Görsel Ders
+old.EntryID: 0a2717f2-570b-4243-9611-e3189b31d7b2
 ---
 Görsel dersler, yani makale yerine konuyu sesli videolar ile anlatmak
 gerçekten çok zevkli. Umarım beni makale yazmaktan soğutmaz :) Hem
