@@ -2,11 +2,12 @@
 FallbackID: 2562
 Title: Silverligh 5 Beta ve DoubleClick
 PublishDate: 4/19/2011
-EntryID: 43f7136f-f81d-4907-9713-041cfd64b4f9
+EntryID: Silverligh_5_Beta_ve_DoubleClick
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
+old.EntryID: 43f7136f-f81d-4907-9713-041cfd64b4f9
 ---
 Yıllardır :) Silverlight'ta DoubleClick neden yok diye bekliyoruz da
 bekliyoruz :) Tabi bekliyoruz derken aslında birka satır kodla olay
