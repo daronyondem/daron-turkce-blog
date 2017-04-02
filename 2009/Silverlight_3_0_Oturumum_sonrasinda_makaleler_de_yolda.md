@@ -2,11 +2,12 @@
 FallbackID: 2346
 Title: Silverlight 3.0 Oturumum sonrasında makaleler de yolda...
 PublishDate: 4/12/2009
-EntryID: 307389eb-4a3b-4da4-be93-37896b29f2e2
+EntryID: Silverlight_3_0_Oturumum_sonrasinda_makaleler_de_yolda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: 307389eb-4a3b-4da4-be93-37896b29f2e2
 ---
 Bugün INETA NEXT'in ilk gününde Silverlight 3.0 oturumunu
 gerçekleştirdim. Benim de ilk Silverlight 3.0 oturumumda. Zamanlama
