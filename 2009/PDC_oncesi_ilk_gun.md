@@ -2,11 +2,12 @@
 FallbackID: 2448
 Title: PDC öncesi ilk gün!
 PublishDate: 11/17/2009
-EntryID: 76531f24-40fb-4713-b72d-30d6b3321081
+EntryID: PDC_oncesi_ilk_gun
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 76531f24-40fb-4713-b72d-30d6b3321081
 ---
 PDC öncesinde Los Angeles ısınma turlarını yaptığım bugünlerde ikinci
 ziyaretimde sonunda Los Angeles'ta bir yerleri görme fırsatım oldu :)
