@@ -2,11 +2,12 @@
 FallbackID: 1798
 Title: Kodları Visual Studio Renkleri ile HTML'e Çevirmek
 PublishDate: 10/3/2007
-EntryID: 40fe1d7b-1de7-4019-a833-a253fb501af9
+EntryID: Kodlari_Visual_Studio_Renkleri_ile_HTMLe_Cevirmek
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 3.0, AJAX, ASP.NET, CSS, HTML, JavaScript, Silverlight, Visual Basic 2005, Visual Studio 2005, Visual Basic .NET
+old.EntryID: 40fe1d7b-1de7-4019-a833-a253fb501af9
 ---
 İster internet üzerinden yayınlanan makalelerde olsun ister blog
 sitenize yollayacağınız bir ipucunda, maalesef sayfanıza HTML kodu veya
