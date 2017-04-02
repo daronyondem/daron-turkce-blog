@@ -2,11 +2,12 @@
 FallbackID: 1892
 Title: Visual Studio 2008 ve ASP.NET 2.0 AJAX Extensions 1.0 kullanımı
 PublishDate: 12/21/2007
-EntryID: ec34028c-d7ea-4c8d-83e6-23546676b17d
+EntryID: Visual_Studio_2008_ve_ASP_NET_2_0_AJAX_Extensions_1_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, Visual Studio 2008
+old.EntryID: ec34028c-d7ea-4c8d-83e6-23546676b17d
 ---
 Visual Studio 2008 ve ASP.NET3.5 ile beraber AJAX Extensions'ın artık
 dahili olduğundan daha önceki yazılarımda bahsetmiştim. Diğer yandan
