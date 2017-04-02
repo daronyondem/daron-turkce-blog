@@ -2,11 +2,12 @@
 FallbackID: 2571
 Title: Silverlight UI Ninja Eğitimi sonrasında...
 PublishDate: 4/27/2011
-EntryID: a0de2036-d62f-4d8c-85f1-ebd868044dbc
+EntryID: Silverlight_UI_Ninja_Egitimi_sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4
+old.EntryID: a0de2036-d62f-4d8c-85f1-ebd868044dbc
 ---
 Dün akşam Silverlight UI Ninja eğitimini tamamladık. Bazı tasarım
 tricklerini paylaştığım hafiften kendi "best practice"lerimi ortaya
