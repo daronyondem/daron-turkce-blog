@@ -2,11 +2,12 @@
 FallbackID: 2545
 Title: Microsoft WebCamps Istanbul
 PublishDate: 2/2/2011
-EntryID: 604bfc93-1dd2-47bc-b76f-db6bd387878b
+EntryID: Microsoft_WebCamps_Istanbul
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows Azure, Silverlight 4, WebMatrix
+old.EntryID: 604bfc93-1dd2-47bc-b76f-db6bd387878b
 ---
 Bugün sabaha karşı altıda Ürdün uçağı İstanbul'a indi ve memlekete
 vardım :) Sonrasında koşa koşa bir eve uğrayıp hemen WebCamps
