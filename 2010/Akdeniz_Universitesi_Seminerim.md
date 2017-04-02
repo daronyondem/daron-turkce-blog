@@ -2,11 +2,12 @@
 FallbackID: 2508
 Title: Akdeniz Üniversitesi Seminerim
 PublishDate: 4/7/2010
-EntryID: bcfe85c4-b663-4911-8896-a5c8686d17de
+EntryID: Akdeniz_Universitesi_Seminerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.0, ASP.NET 4.0, Silverlight 4, Visual Studio 2010, WPF, ASP.NET
+old.EntryID: bcfe85c4-b663-4911-8896-a5c8686d17de
 ---
 Bugün Akdeniz Üniversitesi İnternet Haftası'ndaydım. Geçen
 [sene](http://daron.yondem.com/tr/post/646cc301-2972-4bfd-9e39-b00cd67be81b)
