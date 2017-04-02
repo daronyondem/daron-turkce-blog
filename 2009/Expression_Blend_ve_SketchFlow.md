@@ -2,11 +2,12 @@
 FallbackID: 2403
 Title: Expression Blend ve SketchFlow
 PublishDate: 9/6/2009
-EntryID: e0d0be38-40f8-4f2a-bd25-ae1ec516ceb9
+EntryID: Expression_Blend_ve_SketchFlow
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Silverlight 3.0, WPF
+old.EntryID: e0d0be38-40f8-4f2a-bd25-ae1ec516ceb9
 ---
 Neredeyse her tür yazılım projesinde prototip geliştirmek çoğu zaman
 başvurduğumuz bir süreç oluyor. Bazen bu prototipleri sadece yapacağımız
