@@ -2,11 +2,12 @@
 FallbackID: 2429
 Title: Silverlight ile RSS kullanımı
 PublishDate: 10/23/2009
-EntryID: a911c5d3-9fe7-41e8-b8b9-68c32fc9563a
+EntryID: Silverlight_ile_RSS_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Görsel Ders, Silverlight 3.0
+old.EntryID: a911c5d3-9fe7-41e8-b8b9-68c32fc9563a
 ---
 Silverlight ile RSS kullanımı konusunda bolca soru alıyorum. Bu görsel
 dersimizde Silverlight ile bir RSS kaynağının kullanımını ayrıca sunucu
