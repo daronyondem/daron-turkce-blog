@@ -2,11 +2,12 @@
 FallbackID: 2218
 Title: FaceBook maduriyetim üzerine...
 PublishDate: 10/17/2008
-EntryID: 826daa4c-b7c7-4eaa-ac56-182f6952295a
+EntryID: FaceBook_maduriyetim_uzerine
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Dertli Kerem
+old.EntryID: 826daa4c-b7c7-4eaa-ac56-182f6952295a
 ---
 Şu FaceBook'dan vaz geçemedik gitti bir türlü. Bir çılgınlık aldı başını
 gidiyor. Bir PostBack ile 100 event invitation gönderme sınırı olup son
