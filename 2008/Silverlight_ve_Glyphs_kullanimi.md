@@ -2,11 +2,12 @@
 FallbackID: 1934
 Title: Silverlight ve Glyphs kullanımı
 PublishDate: 1/29/2008
-EntryID: b131244e-b2af-44a6-836a-3815cb36fe6c
+EntryID: Silverlight_ve_Glyphs_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: b131244e-b2af-44a6-836a-3815cb36fe6c
 ---
 Daha önceki yazılarımda Silverlight 1.0 ile beraber sunucu tarafına
 yerleştirilen font dosyalarının istemcide "yükleme bağımsız" ve
