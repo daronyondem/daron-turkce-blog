@@ -2,11 +2,12 @@
 FallbackID: 2398
 Title: Silverlight Code Camp
 PublishDate: 9/2/2009
-EntryID: eb77e575-f459-43c0-a292-b215a832d7b0
+EntryID: Silverlight_Code_Camp
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: eb77e575-f459-43c0-a292-b215a832d7b0
 ---
 Son beş gündür KKTC'deydim. "**Silverlight Code Camp**" adında EESTEC
 Famagusta'nın organizasyonundaki etkinlikte gönüllü eğitmen olarak yer
