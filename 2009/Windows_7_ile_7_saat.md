@@ -2,11 +2,12 @@
 FallbackID: 2375
 Title: Windows 7 ile 7 saat
 PublishDate: 7/1/2009
-EntryID: f8c6865a-8b79-49fa-aecb-267b37738d75
+EntryID: Windows_7_ile_7_saat
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows 7
+old.EntryID: f8c6865a-8b79-49fa-aecb-267b37738d75
 ---
 [![Windows 7 ile 7
 Saat](http://cdn.daron.yondem.com/assets/2375/30062009_1.gif)](http://www.inetatr.org/)
