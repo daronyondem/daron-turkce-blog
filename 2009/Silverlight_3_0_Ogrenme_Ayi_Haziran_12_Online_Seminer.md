@@ -2,11 +2,12 @@
 FallbackID: 2364
 Title: Silverlight 3.0 Öğrenme Ayı : Haziran, 12 Online Seminer!
 PublishDate: 6/1/2009
-EntryID: 0a51c06a-9567-4eba-86d1-c0461e921ec2
+EntryID: Silverlight_3_0_Ogrenme_Ayi_Haziran_12_Online_Seminer
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, Silverlight 3.0
+old.EntryID: 0a51c06a-9567-4eba-86d1-c0461e921ec2
 ---
 Haziran ayı ile beraber yaz dönemi geldi. Tatile gidemeyenler olarak :)
 gelin bu dönemi yenilenme/gelişme dönemi olarak değerlendirelim :) Bu
