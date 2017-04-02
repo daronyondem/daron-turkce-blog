@@ -2,11 +2,12 @@
 FallbackID: 2103
 Title: Silverlight Runtime ve SDK DLL'leri ve açıklamaları
 PublishDate: 6/24/2008
-EntryID: 1c242192-af12-4ec3-be3b-3b4b8c72a88f
+EntryID: Silverlight_Runtime_ve_SDK_DLL_leri_ve_aciklamalari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 1c242192-af12-4ec3-be3b-3b4b8c72a88f
 ---
 Silverlight 2.0 ile beraber artık tüm yazdığımız kodların DLL olarak XAP
 dosyaları içerisinde istemciye gönderildiği bir ortamda harici DLL
