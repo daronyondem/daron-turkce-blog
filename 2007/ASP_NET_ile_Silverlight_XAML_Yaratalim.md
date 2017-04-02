@@ -2,11 +2,12 @@
 FallbackID: 1876
 Title: ASP.NET ile Silverlight XAML Yaratalım
 PublishDate: 12/7/2007
-EntryID: 0d42ab86-63c7-48ea-a845-5a8d9cea1afb
+EntryID: ASP_NET_ile_Silverlight_XAML_Yaratalim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 0d42ab86-63c7-48ea-a845-5a8d9cea1afb
 ---
 Silverlight'ın en sevdiğim yanı görsel anlamdaki her şeyi XAML ile yani
 özünde XML ile tanımlıyor olmamız. Böylece hali hazırda herhangi bir
