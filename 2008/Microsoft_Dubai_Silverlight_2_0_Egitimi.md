@@ -2,11 +2,12 @@
 FallbackID: 2105
 Title: Microsoft Dubai Silverlight 2.0 Eğitimi
 PublishDate: 6/27/2008
-EntryID: 8c0720eb-1398-43a7-bb22-17bc31126339
+EntryID: Microsoft_Dubai_Silverlight_2_0_Egitimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Eğitimler, Silverlight 2.0
+old.EntryID: 8c0720eb-1398-43a7-bb22-17bc31126339
 ---
 Son iki gündür Dubai'deydim. **Microsoft Dubai** tarafından iş ortakları
 için düzenlenen **Silverlight 2.0** eğitimini sundum. Gerçekten muhteşem
