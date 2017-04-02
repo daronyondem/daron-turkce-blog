@@ -2,11 +2,12 @@
 FallbackID: 2141
 Title: Deep Zoom Composer yeni sürümü ve PhotoZoom Live Labs
 PublishDate: 8/2/2008
-EntryID: e920cb29-b872-40e3-a0b9-2d17eb2d0fd1
+EntryID: Deep_Zoom_Composer_yeni_surumu_ve_PhotoZoom_Live_Labs
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: e920cb29-b872-40e3-a0b9-2d17eb2d0fd1
 ---
 Silverlight 2.0 içerisinde [MultiScaleImage ve
 DeepZoom](http://daron.yondem.com/tr/post/84a4bed5-dcdf-48a6-8cc7-2b193eeda808)
