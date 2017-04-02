@@ -2,11 +2,12 @@
 FallbackID: 2058
 Title: twitter.com'da ben ve twitter'dan veri çeken Silverlight uygulamam
 PublishDate: 5/17/2008
-EntryID: 02884a23-9355-4a2b-885a-4577f2003d08
+EntryID: twitter_com_da_ben_ve_twitter_dan_veri_ceken_Silverlight_uygulamam
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 02884a23-9355-4a2b-885a-4577f2003d08
 ---
 Uzun süredir "*Yahu nedir ki bu twitter??*" şeklinde düşünerek takip
 ediyordum olan biteni. Bugün biraz zaman bulunca twitter.com üzerinden
