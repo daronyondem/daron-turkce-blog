@@ -2,11 +2,12 @@
 FallbackID: 2168
 Title: Microsoft Gelişim Atölyesi'nde Silverlight ve WPF Eğitimlerim
 PublishDate: 8/29/2008
-EntryID: e93f8eff-7af9-4ce1-ae16-a4b8f42a1ec2
+EntryID: Microsoft_Gelisim_Atolyesi_nde_Silverlight_ve_WPF_Egitimlerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
+old.EntryID: e93f8eff-7af9-4ce1-ae16-a4b8f42a1ec2
 ---
 Bugün Microsoft Türkiye organizasyonundaki [Gelişim
 Atölyesi'](http://www.msgelisimatolyesi.com/GelisimAtolyesiKampi/)nde
