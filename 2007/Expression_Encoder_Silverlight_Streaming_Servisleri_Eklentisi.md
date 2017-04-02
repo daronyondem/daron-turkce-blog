@@ -2,11 +2,12 @@
 FallbackID: 1835
 Title: Expression Encoder Silverlight Streaming Servisleri Eklentisi
 PublishDate: 11/3/2007
-EntryID: ea3ed226-82b6-4260-bd49-7c0444c7fbf4
+EntryID: Expression_Encoder_Silverlight_Streaming_Servisleri_Eklentisi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Expression Encoder
+old.EntryID: ea3ed226-82b6-4260-bd49-7c0444c7fbf4
 ---
 Silverlight Streaming Servisleri ile ilgili daha önceki
 [yazılarımda](PermaLink.aspx?guid=e27332ab-82c3-4084-a220-181fb7f0b885)
