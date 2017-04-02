@@ -2,11 +2,12 @@
 FallbackID: 2563
 Title: Silverlight 5 Beta ile masaüstünde birden çok pencere!
 PublishDate: 4/20/2011
-EntryID: b1325503-80ab-40fc-b20c-3aaa703d8a7e
+EntryID: Silverlight_5_Beta_ile_masaustunde_birden_cok_pencere
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
+old.EntryID: b1325503-80ab-40fc-b20c-3aaa703d8a7e
 ---
 Ufaktan ufaktan Silverlight 5 dünyasına girdiğimiz bu günlerde
 Silverlight'ın masaüstündeki gücünü arttıran güzel bir yenilikten
