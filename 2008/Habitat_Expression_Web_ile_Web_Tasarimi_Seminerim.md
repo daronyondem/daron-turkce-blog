@@ -2,11 +2,12 @@
 FallbackID: 2112
 Title: Habitat, Expression Web ile Web Tasarımı Seminerim
 PublishDate: 7/3/2008
-EntryID: 9182e0f1-6eba-42c9-89a8-3dba7375512a
+EntryID: Habitat_Expression_Web_ile_Web_Tasarimi_Seminerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Web, Seminer
+old.EntryID: 9182e0f1-6eba-42c9-89a8-3dba7375512a
 ---
 Bugün İzmir'e MVP ekibi olarak ufak bir yolculuğumuz oldu. Sevgili
 **Kadir Çamoğlu**, ben ve Microsoft'tan **Baransel Doğan** ile beraber
