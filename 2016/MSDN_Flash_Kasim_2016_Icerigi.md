@@ -1,0 +1,51 @@
+---
+FallbackID: 3034
+Title: MSDN Flash Kasım 2016 İçeriği
+PublishDate: 11/30/2016
+EntryID: MSDN_Flash_Kasim_2016_Icerigi
+IsActive: True
+Section: software
+MinutesSpent: 42
+Tags: .NET Core, Azure App Insights, Azure App Services, Azure Bot Services, Azure Container Services, Azure Data Lake, Azure DocumentDB, Azure Functions, Azure Storage Services, DocumentDB, Unity, Visual Studio 2017, Visual Studio for Mac, Xamarin
+---
+
+Hatırlarsanız geçen ay epey sakin geçmişti. Bu ay ise tam tersine, inanılmaz yoğun bir ay oldu. Özellikle Microsoft Connect etkinliği ile beraber duyuruların sonu gelmedi. Her zamanki gibi yine hızlı bir liste yapalım, sonra da birkaç tane duyurunun detaylarına göz atarız.
+
+* [Visual Studio for Mac](https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-for-mac/ ) karşınızda!  
+* [Visual Studio 2017](https://msdn.microsoft.com/magazine/mt790181 ) RC çıktı! 
+* Samsung işbirliği ile [.NET Core Tizen](http://www.aka.ms/tizen)’de.  
+* [Linux üzerinde SQL Server Preview](https://www.microsoft.com/en-us/sql-server/sql-server-vnext-including-Linux ) oldu. 
+* [Visual Studio Docker Toolking RC](http://daron.yondem.com/software/post/Visual_Studio_2017_RC_ile_Docker_Entegrasyonu)!  
+* [Google .NET Foundation’a katıldı](https://cloudplatform.googleblog.com/2016/11/Google-Cloud-to-join-NET-Foundation-Technical-Steering-Group.html).  
+* [Azure Container Services GA](https://azure.microsoft.com/en-us/services/container-service/)
+* [Azure Bot Services Preview](https://azure.microsoft.com/en-us/services/bot-service/ ) olarak yayında. 
+* [Azure Application Insights GA](https://azure.microsoft.com/en-us/services/application-insights/ ) oldu. 
+* Visual Studio Team Services Container desteği çıktı.
+* [Visual Studio Team Foundation Server 2017 RTM]( https://www.visualstudio.com/en-us/news/releasenotes/tfs2017-relnotes ) oldu.
+* [Xamarin for Visual Studio; Xamarin Inspector](https://blog.xamarin.com/xamarin-inspector-preview/ ), entegre iOS Simülatörü, Xamarin Profiler artık tam desteğe sahip. Xamarin Forms Previewer da önizlemede. 
+* [NET Core Runtime](https://blogs.msdn.microsoft.com/dotnet/2016/11/16/announcing-net-core-1-1/), [ASP.NET Core](https://blogs.msdn.microsoft.com/webdev/2016/11/16/announcing-asp-net-core-1-1/), [Entity Framework Core 1.1](https://blogs.msdn.microsoft.com/dotnet/2016/11/16/announcing-entity-framework-core-1-1/) yayınlandı. 
+* [Visual Studio Mobile Center Preview](https://msdn.microsoft.com/magazine/mt790198 ) olarak yayında! 
+* [Azure Functions artık yayında (GA)](https://blogs.msdn.microsoft.com/appserviceteam/2016/10/26/azure-functions-portal-and-host-improvements/ )
+* [DocumentDB için Local Emülator Preview](https://aka.ms/documentdb-emulator-docs) olarak yayınlandı. 
+* [Document DB .NET Core SDK]( https://aka.ms/documentdb-dotnetcore) çıktı. 
+* [Azure Data Lake artık yayında (GA)](https://channel9.msdn.com/Shows/Data-Exposed/Azure-Data-Lake-GA)
+* [Azure App Services için Continuous Delivery desteği](https://blogs.msdn.microsoft.com/visualstudioalm/2016/11/17/azure-app-services-continuous-delivery/) geldi.  
+* [Visual Studio Tools for Unity 3 Preview](https://blogs.msdn.microsoft.com/visualstudio/2016/11/17/visual-studio-tools-for-unity-3-preview/)’da. 
+* [Azure cool blob storage altı yeni veri merkezinde daha hizmete girdi](https://azure.microsoft.com/en-us/blog/general-availability-azure-cool-blob-storage-additional-regions/ ). 
+* [Xamarin için Azure Storage Client Library](https://www.nuget.org/packages/WindowsAzure.Storage/7.2.0) yayınlandı. (GA)  
+* [Microsoft artık Linux Foundation Platinum Member oldu.](https://www.linuxfoundation.org/announcements/microsoft-fortifies-commitment-to-open-source-becomes-linux-foundation-platinum)
+
+Liste uzun demiştim. Geçen ayki sessizlikten sonra bu ay okuyacak, karıştıracak, deneyecek çok şey var. Aşağıda birkaç ana başlığı ayrıca sizler için toplamaya çalıştım. Bol haberli bu ayın tadını çıkartın. Görüşürüz.
+
+Daron Yöndem   
+@daronyondem  
+MVP, Microsoft Regional Director
+
+### Visual Studio for Mac!  
+Sanırım bu haberin başında uzun bir es vermem gerekiyor. Derin bir nefes alıp, haberi sindirmeye çalışmak gerek. Microsoft’un artık Mac ortamı için bir Visual Studio sürümü var. İşin özüne inecek olursak Xamarin Studio adını değiştirdi ve üzerine de .NET Core ile back-end API development özellikleri geldi diyebiliriz. Zamanla Razor gibi view engine’lerin de VS for Mac’e geleceğinden bahsediliyor. Detayları merak edenler [buraya bir göz atabilirler](https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-for-mac/).  
+### Visual Studio 2017 RC çıktı!
+Visual Studio’nun yeni sürümüne çok yaklaştım.  RC sürümündeki yenilikler arasında dikkati çekenler ilk aşamada yazılım geliştirici üretkenliğini arttırma amaçlı özellikler oluyor. Bir adım daha ileri gittiğinizde VS 2017 RC ile beraber birçok yeni toolkit’in de geldiğini görebilirsiniz. Bunlardan en popüleri belki de Docker Toolkit. Visual Studio 2017 RC yeniliklerine hızlıca bakmak isteyenler [bu yazıyı okuyabilirler](https://msdn.microsoft.com/magazine/mt790181). 
+### Linux üzerinde SQL Server Preview oldu.
+SQL Server’ın Linux ortamına gelmesi ile ilgili haberler ilk günden beridir büyük şaşkınlık yaratıyor. Oysa .NET Core ile artık uygulamaların platform bağımsız olduğunu düşünürseniz beraberlerinde bir veritabanı motorunun da bulunması çok önemli. O nedenle SQL Server’ın Linux’e taşınıyor olması .NET Core geliştiricileri için büyük değere sahip. SQL Server’ın Linux tarafındaki [Preview haline ulaşmak için buradan ilerleyebilirsiniz](https://www.microsoft.com/en-us/sql-server/sql-server-vnext-including-Linux ). 
+### Visual Studio Team Foundation Server 2017 RTM oldu.
+Özellikle kendi sunucularında TFS kullananlar için 2017 sürümünün RTM olması çok değerli. Package Management tarafında artık Private Nuger feedleri oluşturabilirsiniz. Git tarafında birçok yeni özellik geliyor, squash merge, iterative reviews bunlardan birkaçı. Java build templates, Xamarin build tasks, Docker desteği… Daha fazlasını merak edenler hemen [bu linkten devam edebilirler](https://blogs.msdn.microsoft.com/bharry/2016/11/16/news-from-connect-2016/ ). 
