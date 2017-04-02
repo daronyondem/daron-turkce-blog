@@ -2,11 +2,12 @@
 FallbackID: 1845
 Title: XBAP - WPF Browser Application
 PublishDate: 11/11/2007
-EntryID: 1bc7bc98-85e8-4bec-a681-bd9087118aa8
+EntryID: XBAP_-_WPF_Browser_Application
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 3.0, Visual Studio 2008, WPF
+old.EntryID: 1bc7bc98-85e8-4bec-a681-bd9087118aa8
 ---
 **XBAP da ne ola ki?**
 
