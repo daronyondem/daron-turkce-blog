@@ -2,11 +2,12 @@
 FallbackID: 1785
 Title: Haberler...
 PublishDate: 9/12/2007
-EntryID: 7fbe4600-4298-4d30-a350-6839069a2b4a
+EntryID: Haberler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Haberler, Silverlight
+old.EntryID: 7fbe4600-4298-4d30-a350-6839069a2b4a
 ---
 Yazılım sektörü ile ilgili dünyadaki ve Türkiye'deki gelişmelerle ilgili
 ufak bir haber geçidi oluşturmaya karar verdim :) Gelin beraberce
