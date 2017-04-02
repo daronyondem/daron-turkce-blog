@@ -2,11 +2,12 @@
 FallbackID: 2288
 Title: SilverNight videoları!
 PublishDate: 12/27/2008
-EntryID: 769c7981-94fe-446a-96c5-088db8ad7fa6
+EntryID: SilverNight_videolari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 769c7981-94fe-446a-96c5-088db8ad7fa6
 ---
 Sonunda hazırlayabildim :) SilverNight'ta çektiğimiz videoların maalesef
 eğitim kısmını yayınlayamıyorum. Videolarda sunumdaki kodların hiçbiri
