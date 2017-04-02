@@ -2,11 +2,12 @@
 FallbackID: 2208
 Title: Panoramik fotoğraflar için ücretsiz araç : Microsoft Image Composite Editor
 PublishDate: 10/7/2008
-EntryID: 10a48f93-2f5b-439f-ab64-c8402f6c1246
+EntryID: Panoramik_fotograflar_icin_ucretsiz_arac_Microsoft_Image_Composite_Editor
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 10a48f93-2f5b-439f-ab64-c8402f6c1246
 ---
 Panoramic fotoğraf çekmek benim en sevdiğim hobilerimden biridir.
 Fotoğraf çekmeyi zaten severim, hatta çoğu turistik gezimin amacı
