@@ -2,11 +2,12 @@
 FallbackID: 1956
 Title: Source Outliner aracı.
 PublishDate: 2/12/2008
-EntryID: cc932bbb-aa85-4bc1-8db1-6c488c587e80
+EntryID: Source_Outliner_araci
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Studio 2008
+old.EntryID: cc932bbb-aa85-4bc1-8db1-6c488c587e80
 ---
 Code-Behind dosyaları hayatımızı kolaylaştırsa da bazı durumlarda
 istediğimiz kodu bulmak gerçekten zor olabiliyor. Bu tarz durumlarda
