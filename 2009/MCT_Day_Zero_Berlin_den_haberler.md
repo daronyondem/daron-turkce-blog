@@ -2,11 +2,12 @@
 FallbackID: 2442
 Title: MCT Day Zero, Berlin'den haberler.
 PublishDate: 11/9/2009
-EntryID: 99cf3e5e-5234-44a3-a692-5d4c12f91dc2
+EntryID: MCT_Day_Zero_Berlin_den_haberler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 99cf3e5e-5234-44a3-a692-5d4c12f91dc2
 ---
 Bugün Berlin'de **MCT Day Zero** etkinliğine katıldım. Günün adı merak
 uyandırıcı olduğu için hemen açıkliyim :) Yarın Berlin'de TechEd Europe
