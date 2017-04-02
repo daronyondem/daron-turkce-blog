@@ -2,11 +2,12 @@
 FallbackID: 2290
 Title: MSP Days geldi geçti...
 PublishDate: 12/28/2008
-EntryID: 6f712346-a0b8-4dba-9eb1-1f61deff3f09
+EntryID: MSP_Days_geldi_gecti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: MultiPoint SDK
+old.EntryID: 6f712346-a0b8-4dba-9eb1-1f61deff3f09
 ---
 Son iki gündür daha önce de sizlere duyurmuş olduğum Microsoft'un MSP
 Days etkinliğindeydim. **Ankara, Çankaya Üniversitesi**'nde düzenlenen
