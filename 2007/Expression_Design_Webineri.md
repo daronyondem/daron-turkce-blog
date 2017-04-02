@@ -2,11 +2,12 @@
 FallbackID: 1848
 Title: Expression Design Webineri
 PublishDate: 11/14/2007
-EntryID: e23aa671-1d9d-4ad2-8030-3fad8a2a7746
+EntryID: Expression_Design_Webineri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Design, Webiner
+old.EntryID: e23aa671-1d9d-4ad2-8030-3fad8a2a7746
 ---
 **![](http://cdn.daron.yondem.com/assets/1848/expression_design_logo.png)16
 Kasım, Cuma** günü saat **15.15-16.00** arasında **Expression Design**
