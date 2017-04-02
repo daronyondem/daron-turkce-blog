@@ -2,11 +2,12 @@
 FallbackID: 2523
 Title: ODTÜ BÖTE Kurultayı oturumum.
 PublishDate: 5/10/2010
-EntryID: 01f43855-f27b-4d99-a103-3f2575f792cd
+EntryID: ODTU_BOTE_Kurultayi_oturumum
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4
+old.EntryID: 01f43855-f27b-4d99-a103-3f2575f792cd
 ---
 Bugün Ankara'da [BÖTE Kurultayı](http://botekurultayi.com/)'ndaydım.
 Kullanıcı deneyimine bir göz atıp sonra da özellikle Silverlight ve WPF
