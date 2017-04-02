@@ -2,11 +2,12 @@
 FallbackID: 2224
 Title: Dertli Kerem Google gerilmeleri!
 PublishDate: 10/23/2008
-EntryID: 15ed20ce-9fee-4f81-b58f-062dda2e00aa
+EntryID: Dertli_Kerem_Google_gerilmeleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Dertli Kerem
+old.EntryID: 15ed20ce-9fee-4f81-b58f-062dda2e00aa
 ---
 Bugün neredeydim bilin bakalım? **Google Internet Reklamcılığı**
 seminerlerine gittim. Reklamcılık ile herhangi bir alakam yok fakat
