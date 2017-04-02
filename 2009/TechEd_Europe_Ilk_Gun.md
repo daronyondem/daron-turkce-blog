@@ -2,11 +2,12 @@
 FallbackID: 2443
 Title: TechEd Europe İlk Gün!
 PublishDate: 11/10/2009
-EntryID: a80de69a-3d18-4a9e-a1f2-1c1a26ef6d78
+EntryID: TechEd_Europe_Ilk_Gun
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: a80de69a-3d18-4a9e-a1f2-1c1a26ef6d78
 ---
 Bugün TechEd Europe'un ilk günüydü. Günün açılışının günün sonuna
 koyarak ilginç bir konsept uyguladılar yine :) İlk önce normal
