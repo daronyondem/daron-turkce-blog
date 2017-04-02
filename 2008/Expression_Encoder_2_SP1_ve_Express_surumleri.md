@@ -2,11 +2,12 @@
 FallbackID: 2234
 Title: Expression Encoder 2 SP1 ve Express sürümleri!
 PublishDate: 11/1/2008
-EntryID: 2509bd07-9f80-463a-bc6b-81512d057a6c
+EntryID: Expression_Encoder_2_SP1_ve_Express_surumleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Encoder, Silverlight 2.0
+old.EntryID: 2509bd07-9f80-463a-bc6b-81512d057a6c
 ---
 Güzel haberlerim var. Expression Encoder 2 sonrasında Silverlight 2
 çıkmasına rağmen maalesef Encoder'dan aldığımız şablonlar hala
