@@ -2,11 +2,12 @@
 FallbackID: 1814
 Title: SQL Server Database Publishing Wizard
 PublishDate: 10/16/2007
-EntryID: d865738a-4fb1-4101-b289-518215a39dbe
+EntryID: SQL_Server_Database_Publishing_Wizard
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET, Visual Studio 2005, SQL Server 2005
+old.EntryID: d865738a-4fb1-4101-b289-518215a39dbe
 ---
 Yeni hazırladığınız web sitenizi SQL2005 veritabanı üzerine kurguladınız
 ve lokal olarak kendi makinenizde yarattığınız SQL veritabanına
