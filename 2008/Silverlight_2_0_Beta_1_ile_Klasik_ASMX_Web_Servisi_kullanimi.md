@@ -2,11 +2,12 @@
 FallbackID: 2032
 Title: Silverlight 2.0 Beta 1 ile Klasik ASMX Web Servisi kullanımı
 PublishDate: 4/23/2008
-EntryID: 19fe09b2-2987-4369-a5d5-58e0641c8d6b
+EntryID: Silverlight_2_0_Beta_1_ile_Klasik_ASMX_Web_Servisi_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 19fe09b2-2987-4369-a5d5-58e0641c8d6b
 ---
 Silverlight 2.0 ile beraber .NET dillerini kullanabilirker aslında
 sunucu tarafındaki veriye ulaşma yapısı biraz değişiyor. Normal
