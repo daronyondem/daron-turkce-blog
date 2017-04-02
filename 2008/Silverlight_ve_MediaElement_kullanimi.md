@@ -2,11 +2,12 @@
 FallbackID: 1944
 Title: Silverlight ve MediaElement kullanımı.
 PublishDate: 2/4/2008
-EntryID: 62c3f483-42ef-4888-972c-b58dcc8b2e7f
+EntryID: Silverlight_ve_MediaElement_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 62c3f483-42ef-4888-972c-b58dcc8b2e7f
 ---
 Silverlight uygulamalarında videonun yeri çok önemli, tarayıcı ve
 platform bağımsız olarak istemci tarafında klasik WMV dosyalarını
