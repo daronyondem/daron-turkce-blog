@@ -2,11 +2,12 @@
 FallbackID: 1827
 Title: Silverlight MediaElement ve JavaScript
 PublishDate: 10/29/2007
-EntryID: 7bc99221-292d-4a23-a7cf-2f4aa892984a
+EntryID: Silverlight_MediaElement_ve_JavaScript
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Silverlight
+old.EntryID: 7bc99221-292d-4a23-a7cf-2f4aa892984a
 ---
 Silverlight 1.0 uygulamalarında Video yayınının gücünden daha önceki
 yazılarımda bahsetmiştim. Gelin şimdi hep beraber sıfırdan bir
