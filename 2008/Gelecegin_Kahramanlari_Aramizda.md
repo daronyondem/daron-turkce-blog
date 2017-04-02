@@ -2,11 +2,12 @@
 FallbackID: 2057
 Title: Geleceğin Kahramanları Aramızda :)
 PublishDate: 5/16/2008
-EntryID: efad8c52-c791-4b08-b8ee-f74e3612cc6a
+EntryID: Gelecegin_Kahramanlari_Aramizda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Seminer
+old.EntryID: efad8c52-c791-4b08-b8ee-f74e3612cc6a
 ---
 Bugün çok ilginç bir deneyim yaşadım. İlk olarak bir meslek lisesini
 ziyaret ettim. **Bağcılar Ticaret Meslek Lisesi** zaten son dönemde
