@@ -2,11 +2,12 @@
 FallbackID: 2459
 Title: Silverlight 4 Beta ile WebCam desteği ve fotoğraf çekimi!
 PublishDate: 11/27/2009
-EntryID: ff35845f-2340-4b8e-8456-4e7008c51a84
+EntryID: Silverlight_4_Beta_ile_WebCam_destegi_ve_fotograf_cekimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4
+old.EntryID: ff35845f-2340-4b8e-8456-4e7008c51a84
 ---
 Silverlight 2 sonrasında CLR'a geçiş ve 3 ile gelen yeni özellikler
 çerçevesinde en sık aldığım sorulardan biri Mikrofon ve Ses kartı
