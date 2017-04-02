@@ -2,11 +2,12 @@
 FallbackID: 1755
 Title: ASP.NET Uygulamalarına Programatik Restart
 PublishDate: 8/15/2007
-EntryID: 0d758743-6f8e-421f-a10c-bcbfe3e95e62
+EntryID: ASP_NET_Uygulamalarina_Programatik_Restart
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET
+old.EntryID: 0d758743-6f8e-421f-a10c-bcbfe3e95e62
 ---
 Web uygulamaları adı üzerinde birer "uygulama" yani "application" dır.
 **IIS** üzerinde her bir web uygulaması için bir "**Application**"
