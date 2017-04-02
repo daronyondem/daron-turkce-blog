@@ -2,11 +2,12 @@
 FallbackID: 2092
 Title: sosyalleşmek isteyeceğiniz 28 web ünlüsü
 PublishDate: 6/13/2008
-EntryID: 10c0d1b5-8768-4b83-a4a9-4f35b3e6f1a1
+EntryID: sosyallesmek_isteyeceginiz_28_web_unlusu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 10c0d1b5-8768-4b83-a4a9-4f35b3e6f1a1
 ---
 Samimi olmam gerek :) Siberkultur.com'u sevgili **Eren Emre Kanal** ile
 Microsoft Partner Eğitimi'nde tanıştıktan sonra takip etmeye başladım.
