@@ -2,11 +2,12 @@
 FallbackID: 1817
 Title: Visual Studio 2008 ve Language Integrated Query
 PublishDate: 10/20/2007
-EntryID: 3828ccde-9e6e-48ef-8335-948d4e839521
+EntryID: Visual_Studio_2008_ve_Language_Integrated_Query
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: LINQ, Visual Studio 2008
+old.EntryID: 3828ccde-9e6e-48ef-8335-948d4e839521
 ---
 Son zamanlarda özellikle **Silverlight**, **WPF** ve **Expression
 Studio** ürün ailesi ile ilgili sizleri blogum ve webinerler aracılığı
