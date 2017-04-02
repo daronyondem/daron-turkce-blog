@@ -2,11 +2,12 @@
 FallbackID: 2056
 Title: Visual Studio 2008 ve .NET Framework 3.5 SP1 Beta 
 PublishDate: 5/15/2008
-EntryID: 8e408fc8-e8aa-4497-bf3e-ae8f50381e0c
+EntryID: Visual_Studio_2008_ve_NET_Framework_3_5_SP1_Beta
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 3.5, Visual Studio 2008
+old.EntryID: 8e408fc8-e8aa-4497-bf3e-ae8f50381e0c
 ---
 Visual Studio 2008 ve .NET Framework'ün 3.5 sürümünün üzerinden uzun bir
 süre geçmeden **SP1'in Beta 1**'i de karşımıza çıktı. İlginç olan SP1'in
