@@ -2,11 +2,12 @@
 FallbackID: 2553
 Title: TechEd ME 2011 sonrasında...
 PublishDate: 3/11/2011
-EntryID: de8ce4f0-dcc8-48c0-b9bf-72e495a4b8be
+EntryID: TechEd_ME_2011_sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4, TechEd, Windows Phone 7, Windows Phone
+old.EntryID: de8ce4f0-dcc8-48c0-b9bf-72e495a4b8be
 ---
 Bir TechEd Middle East daha geçti! Bu sene [üç
 oturumla](http://daron.yondem.com/tr/post/5295172f-0650-44fa-b0b5-cb3973cd96e0)
