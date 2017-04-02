@@ -2,11 +2,12 @@
 FallbackID: 2349
 Title: Fırat Üniversitesi Seminerlerim
 PublishDate: 4/15/2009
-EntryID: 7916241e-2353-46c6-bac6-f560d71c51e5
+EntryID: Firat_Universitesi_Seminerlerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0, WPF
+old.EntryID: 7916241e-2353-46c6-bac6-f560d71c51e5
 ---
 Bugün Elazığ, Fırat Üniversitesi'ndeydim. İlk önce bir **WPF** oturumu
 yaptık ve ufak bir mola sonrasında da **Silverlight 3.0** dünyasına
