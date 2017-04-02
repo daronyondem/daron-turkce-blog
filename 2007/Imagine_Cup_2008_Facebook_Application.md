@@ -2,11 +2,12 @@
 FallbackID: 1896
 Title: Imagine Cup 2008 Facebook Application
 PublishDate: 12/24/2007
-EntryID: 5fe43277-0fad-4a1a-b33b-88b068262ac2
+EntryID: Imagine_Cup_2008_Facebook_Application
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 5fe43277-0fad-4a1a-b33b-88b068262ac2
 ---
 Sektörü takip ediyorsanız Microsoft'un **Imagine Cup 2008** yarışmasını
 duymuşsunuzdur. Uluslararası bir yarışma olma özelliğine sahip
