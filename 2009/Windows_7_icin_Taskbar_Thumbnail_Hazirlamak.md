@@ -2,11 +2,12 @@
 FallbackID: 2434
 Title: Windows 7 için Taskbar Thumbnail Hazırlamak
 PublishDate: 10/27/2009
-EntryID: bbe7d8e8-c994-44ae-a75b-685502be01d5
+EntryID: Windows_7_icin_Taskbar_Thumbnail_Hazirlamak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows 7
+old.EntryID: bbe7d8e8-c994-44ae-a75b-685502be01d5
 ---
 Windows 7 ile beraber gelen taskbar özelliklerinden biri olan Taskbar
 Thumbnail yapıları özellikle navigasyon adına çok önemli bir yapı taşı
