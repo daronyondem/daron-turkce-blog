@@ -2,11 +2,12 @@
 FallbackID: 2494
 Title: TechEd-ME Dubai sonrasında...
 PublishDate: 3/4/2010
-EntryID: 1c3d0743-2a95-4997-9088-887ed944ff6c
+EntryID: TechEd-ME_Dubai_sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, MultiTouch, Silverlight 4, TechEd, WPF, Internet Explorer
+old.EntryID: 1c3d0743-2a95-4997-9088-887ed944ff6c
 ---
 Blogumu takip edenlerin bileceği üzere son üç gündür Dubai'deydim. Hatta
 hala dönmüş değilim :) [TechEd ME](http://www.teched.ae) (Middle East)
