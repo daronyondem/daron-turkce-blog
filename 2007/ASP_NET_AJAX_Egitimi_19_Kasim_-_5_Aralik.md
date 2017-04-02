@@ -2,11 +2,12 @@
 FallbackID: 1837
 Title: ASP.NET AJAX Eğitimi 19 Kasım - 5 Aralık
 PublishDate: 11/5/2007
-EntryID: 3a823ea5-abec-4efb-a1a8-4fd24e2c2ca7
+EntryID: ASP_NET_AJAX_Egitimi_19_Kasim_-_5_Aralik
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, Eğitimler, Haberler
+old.EntryID: 3a823ea5-abec-4efb-a1a8-4fd24e2c2ca7
 ---
 ![](http://cdn.daron.yondem.com/assets/1837/ajax_logo.png)[Gelişim
 Platformu](http://www.gelisimplatformu.org/) ve [MayaSoft Bilişim
