@@ -2,11 +2,12 @@
 FallbackID: 1959
 Title: Silverlight nesnelerini fare ile döndür / çevir / yuvarla :)
 PublishDate: 2/16/2008
-EntryID: a2b9ef4b-0d68-47e3-9f9b-5d28f2e84ff2
+EntryID: Silverlight_nesnelerini_fare_ile_dondur_cevir_yuvarla
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: a2b9ef4b-0d68-47e3-9f9b-5d28f2e84ff2
 ---
 Silverlight içerisinde fare ile nesneler arasında bir etkileşim kurmak
 için JavaScript ile çok farklı kodlar yazılabilir. Bu makalede herhangi
