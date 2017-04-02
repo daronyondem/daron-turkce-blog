@@ -2,11 +2,12 @@
 FallbackID: 2425
 Title: Samsun 19 Mayıs Üniversitesi seminerlerim.
 PublishDate: 10/21/2009
-EntryID: d2c1adbb-9c83-4acb-941e-a43d497970c7
+EntryID: Samsun_19_Mayis_Universitesi_seminerlerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: LINQ, Silverlight 3.0, WPF
+old.EntryID: d2c1adbb-9c83-4acb-941e-a43d497970c7
 ---
 Bugün Samsun 19 Mayıs Üniversitesi'ndeydim. Bilişim günleri etkinliğinin
 ikinci gününde Silverligjt, WPF ve LINQ üzerine oturumlarım oldu. Uzun
