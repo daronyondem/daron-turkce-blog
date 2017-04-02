@@ -2,11 +2,12 @@
 FallbackID: 1967
 Title: Silverlight uygulamalarında MouseScroll (Roller) kullanımı.
 PublishDate: 2/24/2008
-EntryID: db7b3ae4-b89b-443f-b58d-bc50a9116249
+EntryID: Silverlight_uygulamalarinda_MouseScroll_Roller_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: db7b3ae4-b89b-443f-b58d-bc50a9116249
 ---
 Silverlight uygulamalarında kullanıcı ile Silverlight nesneleri arasında
 bir iletişim sağlayabilmek için fare tıklamalarını kullanmak gerçekten
