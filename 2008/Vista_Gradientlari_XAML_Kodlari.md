@@ -2,11 +2,12 @@
 FallbackID: 2065
 Title: Vista Gradientları XAML Kodları
 PublishDate: 5/23/2008
-EntryID: 381ac071-65ee-494f-b2a9-d971af95f3bf
+EntryID: Vista_Gradientlari_XAML_Kodlari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, WPF
+old.EntryID: 381ac071-65ee-494f-b2a9-d971af95f3bf
 ---
 Özellikle "*developer*" tabanlı olanlar için hazırlanan bir uygulamanın
 görsel arayüzünü süslemek hem bir "çin işkencesi" oluyor hem de ortaya
