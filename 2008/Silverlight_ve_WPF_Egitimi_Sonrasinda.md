@@ -2,11 +2,12 @@
 FallbackID: 1916
 Title: Silverlight ve WPF Eğitimi Sonrasında
 PublishDate: 1/11/2008
-EntryID: 26978882-63cc-445a-9f9e-609591d43282
+EntryID: Silverlight_ve_WPF_Egitimi_Sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, WPF
+old.EntryID: 26978882-63cc-445a-9f9e-609591d43282
 ---
 Bu hafta **Microsoft İstanbul** binasında gerçekleştirilen Microsoft İş
 Ortakları'ndan seçilmiş .NET yazılım geliştiricilere hitap eden **Visual
