@@ -2,11 +2,12 @@
 FallbackID: 1825
 Title: WPF için XAML Çeviri Araçları
 PublishDate: 10/25/2007
-EntryID: 2eec6209-a81b-41fb-b563-2d9436bede12
+EntryID: WPF_icin_XAML_Ceviri_Araclari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: WPF
+old.EntryID: 2eec6209-a81b-41fb-b563-2d9436bede12
 ---
 WPF programlama tekniklerinde görsel tasarım için XAML kodları
 oluşturmak zorundayız. **Expression Studio** içerisinde yer alan
