@@ -2,11 +2,12 @@
 FallbackID: 1867
 Title: Expression Blend ve rakipleri
 PublishDate: 11/30/2007
-EntryID: d8fc60b8-9bba-4f15-83b0-1e4adadd31be
+EntryID: Expression_Blend_ve_rakipleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend
+old.EntryID: d8fc60b8-9bba-4f15-83b0-1e4adadd31be
 ---
 **Expression Savaşları** yazı dizimde sonlara sakladığım **Expression
 Blend** benim en büyük favorim :) Kendimi kaptırıp WPF'in ne kadar
