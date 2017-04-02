@@ -2,11 +2,12 @@
 FallbackID: 1804
 Title: Haberler... Haberler... Haberler...
 PublishDate: 10/6/2007
-EntryID: d0c62125-588d-4124-8864-e909ff97caff
+EntryID: Haberler_Haberler_Haberler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Haberler
+old.EntryID: d0c62125-588d-4124-8864-e909ff97caff
 ---
 Belirsiz aralıklarla :) sektörden biriktirdiğim haberleri sizlerle
 paylaşacağımı söylemiş hatta bunlardan ilkini geçenler bir yazı olarak
