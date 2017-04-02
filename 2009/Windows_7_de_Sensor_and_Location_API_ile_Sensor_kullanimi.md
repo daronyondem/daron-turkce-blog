@@ -2,11 +2,12 @@
 FallbackID: 2440
 Title: Windows 7'de Sensor and Location API ile Sensör kullanımı
 PublishDate: 11/5/2009
-EntryID: 29e6cf2c-659a-4da7-baff-d9eca2476c24
+EntryID: Windows_7_de_Sensor_and_Location_API_ile_Sensor_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows 7
+old.EntryID: 29e6cf2c-659a-4da7-baff-d9eca2476c24
 ---
 Windows 7 ile beraber gelen ve daha pek de hissedemediğimiz
 değişiklikler biri de "**Sensor and Location API**" adını taşıyor.
