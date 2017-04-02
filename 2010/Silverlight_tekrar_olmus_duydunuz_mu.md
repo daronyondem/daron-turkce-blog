@@ -2,11 +2,12 @@
 FallbackID: 2539
 Title: Silverlight tekrar ölmüş duydunuz mu?
 PublishDate: 11/4/2010
-EntryID: c9e3f82a-1536-4dd6-924f-51ed444c0388
+EntryID: Silverlight_tekrar_olmus_duydunuz_mu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4
+old.EntryID: c9e3f82a-1536-4dd6-924f-51ed444c0388
 ---
 Bazen düşünüyorum acaba developer camiasında neden bu kadar çok dedikodu
 var diye :) Şimdi konu nereden çıktı diyeceksiniz. Bu yazıyı yazmamın
