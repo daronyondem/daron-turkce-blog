@@ -2,11 +2,12 @@
 FallbackID: 1976
 Title: Türkçe bloglardan teknik içerikli seçmelerim...
 PublishDate: 3/3/2008
-EntryID: 227ecf54-ce53-4be9-a87b-803d15519c60
+EntryID: Turkce_bloglardan_teknik_icerikli_secmelerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 227ecf54-ce53-4be9-a87b-803d15519c60
 ---
 Bundan aylar önceydi sanırım, internette farklı bloglarda karşılaştığım
 güzel teknik ağırlıklı yazıları sizlerle toplu olarak paylaşacağımı
