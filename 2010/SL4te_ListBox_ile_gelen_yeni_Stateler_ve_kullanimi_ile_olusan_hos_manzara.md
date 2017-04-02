@@ -2,11 +2,12 @@
 FallbackID: 2533
 Title: SL4'te ListBox ile gelen yeni State'ler ve kullanımı ile oluşan hoş manzara.
 PublishDate: 9/3/2010
-EntryID: 9954fdcd-b67a-42a7-b82b-9ab7b86b7e1b
+EntryID: SL4te_ListBox_ile_gelen_yeni_Stateler_ve_kullanimi_ile_olusan_hos_manzara
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4
+old.EntryID: 9954fdcd-b67a-42a7-b82b-9ab7b86b7e1b
 ---
 Silverlight içerisinde uzun süredir sahip olduğumuz primitive
 kontrollerden biri sayılabilecek ListBox'ı eminim ki bolca
