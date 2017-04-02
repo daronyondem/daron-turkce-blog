@@ -2,11 +2,12 @@
 FallbackID: 2305
 Title: Bu hafta sonu INETA Week-End ile yavru vatandayız!
 PublishDate: 1/13/2009
-EntryID: 8c973c99-7603-47d3-ab93-9e355c842674
+EntryID: Bu_hafta_sonu_INETA_Week-End_ile_yavru_vatandayiz
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 8c973c99-7603-47d3-ab93-9e355c842674
 ---
 Önümüzdeki hafta sonuna girerken Cuma gününden başlayarak KKTC'de
 **INETA Week-End** ile tekrar karşınızda olacağız. 16-17-18 Ocak
