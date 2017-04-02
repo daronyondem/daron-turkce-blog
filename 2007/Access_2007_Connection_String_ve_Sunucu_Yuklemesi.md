@@ -2,11 +2,12 @@
 FallbackID: 1754
 Title: Access 2007 Connection String ve Sunucu Yüklemesi
 PublishDate: 8/14/2007
-EntryID: 52761662-3578-4fd0-bbd1-a261011d5f6f
+EntryID: Access_2007_Connection_String_ve_Sunucu_Yuklemesi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET, Access 2007
+old.EntryID: 52761662-3578-4fd0-bbd1-a261011d5f6f
 ---
 Yeni **Office 2007** ile beraber gelen yeni dosya formatlarına da
 alışmaya başladık. Bu yeni dosya formatlarından biri de **Access 2007**
