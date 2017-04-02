@@ -2,11 +2,12 @@
 FallbackID: 2359
 Title: Konya, Selçuk Üniversitesi Seminerlerim
 PublishDate: 4/28/2009
-EntryID: 5afd64b9-f821-4ac9-8bcb-3b0fddc22c95
+EntryID: Konya_Selcuk_Universitesi_Seminerlerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, MultiTouch, Silverlight 3.0, WPF
+old.EntryID: 5afd64b9-f821-4ac9-8bcb-3b0fddc22c95
 ---
 Bugün **Konya, Selçuk Üniversitesi**'ndeydim. WPF MultiTouch,
 Silverlight 3.0 ve AJAX oturumları ile yoğun ve bir o kadar da eğlenceli
