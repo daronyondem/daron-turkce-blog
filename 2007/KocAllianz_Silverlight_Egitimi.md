@@ -2,11 +2,12 @@
 FallbackID: 1852
 Title: KoçAllianz Silverlight Eğitimi
 PublishDate: 11/18/2007
-EntryID: b438a1ce-4357-4eb9-a9cf-628455e5998c
+EntryID: KocAllianz_Silverlight_Egitimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: b438a1ce-4357-4eb9-a9cf-628455e5998c
 ---
 Dün akşam son dersimizle beraber **KoçAllianz IT** ekibiyle
 **Silverlight** safarimizi noktaladık :) Özellikle "safari" olarak
