@@ -2,11 +2,12 @@
 FallbackID: 2148
 Title: INETA Summer Hit 2008 Video
 PublishDate: 8/8/2008
-EntryID: 14562511-9010-4ca8-b9b2-873fe32ff5ca
+EntryID: INETA_Summer_Hit_2008_Video
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 14562511-9010-4ca8-b9b2-873fe32ff5ca
 ---
 **INETA Summer Hit** boyunca sinsi röportajlarımız da devam etti.
 Aktiviteyi özetleyen bu video içerisinde bahsettiğim mini röportajları
