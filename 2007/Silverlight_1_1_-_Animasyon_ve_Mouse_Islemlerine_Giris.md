@@ -2,11 +2,12 @@
 FallbackID: 1840
 Title: Silverlight 1.1 - Animasyon ve Mouse İşlemlerine Giriş
 PublishDate: 11/7/2007
-EntryID: 3c788ab3-8528-4de0-8026-62c106768ea9
+EntryID: Silverlight_1_1_-_Animasyon_ve_Mouse_Islemlerine_Giris
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 3c788ab3-8528-4de0-8026-62c106768ea9
 ---
 Nerden çıktı Silverlight 1.1? Aslına bakarsanız Silverlight 1.1 üzerine
 uzun bir süre makale yazmayı düşünmüyordum. Bunun nedeni daha
