@@ -2,11 +2,12 @@
 FallbackID: 2146
 Title: INETA Summer Hit 2008 Fotoğrafları
 PublishDate: 8/7/2008
-EntryID: fea77806-5c57-4510-9008-ac286f29f8f0
+EntryID: INETA_Summer_Hit_2008_Fotograflari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Seminer
+old.EntryID: fea77806-5c57-4510-9008-ac286f29f8f0
 ---
 Bugün sonunda herkesten **INETA Summer Hit** boyunca çektikleri fotoları
 toparlamayı başardım ve güzel çıkanlardan bir arşiv düzenledim. Arşivden
