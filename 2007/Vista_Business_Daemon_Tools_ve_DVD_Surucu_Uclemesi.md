@@ -2,11 +2,12 @@
 FallbackID: 1794
 Title: Vista Business, Daemon Tools ve DVD Sürücü Üçlemesi
 PublishDate: 9/27/2007
-EntryID: d48edeb1-04f1-4f67-90f3-ec7bc50a9e5a
+EntryID: Vista_Business_Daemon_Tools_ve_DVD_Surucu_Uclemesi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Genel
+old.EntryID: d48edeb1-04f1-4f67-90f3-ec7bc50a9e5a
 ---
 Mutluyum! Çünkü artık DVD sürücüm çalışıyor :) Nerden çıktı
 diyebilirsiniz, buyrun anlatiyim.
