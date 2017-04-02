@@ -2,11 +2,12 @@
 FallbackID: 1795
 Title: facebook.com'dayım...
 PublishDate: 9/29/2007
-EntryID: e9ce14b5-f95c-4188-8050-89220a94dc34
+EntryID: facebook-comdayim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Genel
+old.EntryID: e9ce14b5-f95c-4188-8050-89220a94dc34
 ---
 "Ne kadar da gereksiz!" demeyin, çünkü aynı şeyi aslında ben de
 diyordum. Geçmiş zaman kullandığımın farkındayım ama daha facebook'a
