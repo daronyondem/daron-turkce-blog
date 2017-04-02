@@ -2,11 +2,12 @@
 FallbackID: 1853
 Title: Visual Studio 2008 Kısayol Tuşları Posterleri
 PublishDate: 11/18/2007
-EntryID: c5bf8040-675c-4690-9f6e-3440aa569854
+EntryID: Visual_Studio_2008_Kisayol_Tuslari_Posterleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Basic 2005, Visual Studio 2008, Visual Basic .NET
+old.EntryID: c5bf8040-675c-4690-9f6e-3440aa569854
 ---
 Visual Studio 2008'in gün gün yaklaştığını hissettiren yeni posterler
 karşınızdayım :) Aşağıdaki adreslerden Visual Basic 2008 ve Visual C\#
