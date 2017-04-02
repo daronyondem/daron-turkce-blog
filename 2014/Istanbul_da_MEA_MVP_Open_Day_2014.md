@@ -1,0 +1,52 @@
+---
+FallbackID: 2895
+Title: İstanbul'da MEA MVP Open Day 2014
+PublishDate: 3/23/2014
+EntryID: Istanbul_da_MEA_MVP_Open_Day_2014
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: MVP, MVP Summit
+---
+[2008 yılından beridir MVP
+Programı'ndayım](http://daron.yondem.com/tr/post/2013_icin_de_RD__MVP_ve_NDC_unvanlarini_aldim).
+Bu süreçte neredeyse olabildiğince [Global MVP
+Summit](http://daron.yondem.com/tr/search/MVP%20Summit)'i de kaçırmamaya
+çalıştım. Geçen hafta sonu ise ilk defa MEA'ya özel bir MVP etkinliği
+gerçekleşti. Bölgede yaptığım bir çok konuşmadan, konuştuğum
+[konferanslardan](http://daron.yondem.com/tr/search/TechEd) tanıdığım
+bir çok dostu görme, yenileri ile tanışma şansım oldu. Etkinlik sadece
+MVP'lere açıktı ve içeriğini de pek paylaşma şansımız yok ama size
+etkinlikteki kendi oturumumdan bahsedebilirim :)
+
+![MEA MVP Open Day'de "Personal Branding"
+Oturumum](http://cdn.daron.yondem.com/assets/2895/mvpopenday_tr.jpg)
+*MEA MVP Open Day'de "Personal Branding" Oturumum*
+
+Etklinlikteki oturumum "Personal Branding" başlığını taşıyordu. 40
+dakikalık bir oturumda MVP'lerin nasıl kişisel markalarını
+oluşturabileceklerinden, yapmaları gerekenlerden ve olası hatalardan
+bahsettim. Açıkçası oturumun içeriğini doğrudan MVP'lere hitaben
+hazırladığım için [buradan ulaşabileceğiniz
+sunumun](https://speakerdeck.com/daronyondem/personal-brending) bir
+kısmı anlamsız olacaktır :) ama umuyorum ki yakın zamanda bu konuda daha
+genel bir kitleye de sunum yapma şansım olacak. O zaman daha genel geçer
+bir içerik paylaşabilirim diye tahmin ediyorum.
+
+![MVP MEA Programı'ndan bir
+ödül...](http://cdn.daron.yondem.com/assets/2895/mvpopenday_tr2.jpg)
+*MVP MEA Programı'ndan bir ödül...*
+
+MVP'leri bilirsiniz, yardımcı olabilecekleri bir şey varsa eğer konusuna
+vs bakmadan ellerinden geleni yaparlar. İşte sanırım ben de biraz fazla
+kaçırımışım ki MVP MEA Programı bana ayrıca bir teşekkür daha iletti :)
+İtiraf ediyorum, sanırım insan 100 yıl MVP programında kalmış olsa da
+hala bu gibi ödüller isteyebiliyor ve ödüllerden motivasyon
+sağlayabiliyor. Umarım bu güzel bir şeydir :)
+
+Buradan son olarak tabi ki MEA MVP Programı'ndan ilk olarak Türkiye MVP
+Lead'i **Eylem Arslan**'a sonra da MEA Lead'i **Hande Kayadeniz
+Torkan**'a etkinliği gerçekeştirmek için gösterdikleri çabay için
+teşekkür ediyorum. Ama benden plaket beklemeyin :)
+
+
