@@ -2,11 +2,12 @@
 FallbackID: 2396
 Title: Silverlight 3.0 için Trigger Action Behavior'ları geliştirmek.
 PublishDate: 8/24/2009
-EntryID: 635a040f-cf75-43c4-8cf6-c1541ab6c907
+EntryID: Silverlight_3_0_icin_Trigger_Action_Behaviorlari_gelistirmek
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Silverlight 3.0
+old.EntryID: 635a040f-cf75-43c4-8cf6-c1541ab6c907
 ---
 Blend içerisinde kullanılabilecek Behavior çeşitlerinden biri de
 Trigger'lı Behavior'lar. Bu tip Behavior'lara genelde Action da
