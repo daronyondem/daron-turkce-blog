@@ -2,11 +2,12 @@
 FallbackID: 2079
 Title: Silverlight 2.0 içerisinde createFromXaml alternatifi ve alt seviyeli dinamik nesne üretimi
 PublishDate: 6/7/2008
-EntryID: b703f1b0-7ec1-4e1e-8fad-6dcf825775e4
+EntryID: Silverlight_2_0_icerisinde_createFromXaml_alternatifi_ve_alt_seviyeli_dinamik_nesne_uretimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: b703f1b0-7ec1-4e1e-8fad-6dcf825775e4
 ---
 **Silverlight 1.0** içerisinde JavaScript tarafında sahip olduğumuz
 createFromXaml metodu çoğu durumda işimizi kolaylaştırıyordu. Dinamik
