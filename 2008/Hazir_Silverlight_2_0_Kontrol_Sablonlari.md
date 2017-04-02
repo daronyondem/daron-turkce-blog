@@ -2,11 +2,12 @@
 FallbackID: 2066
 Title: Hazır Silverlight 2.0 Kontrol Şablonları
 PublishDate: 5/25/2008
-EntryID: 2bd3aaae-d404-4b20-829e-495d9e470b24
+EntryID: Hazir_Silverlight_2_0_Kontrol_Sablonlari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 2bd3aaae-d404-4b20-829e-495d9e470b24
 ---
 **Silverlight 2.0** ile beraber gelen **Resource** yapısından ve kontrol
 şablonlarından daha önceki [bir
