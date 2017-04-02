@@ -2,11 +2,12 @@
 FallbackID: 2496
 Title: MIX Gün 2 : Internet Explorer 9, OData
 PublishDate: 3/18/2010
-EntryID: 619ab009-08e7-4d56-9017-1b85cc2d806a
+EntryID: MIX_Gun_2_Internet_Explorer_9_OData
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 9, OData, Internet Explorer
+old.EntryID: 619ab009-08e7-4d56-9017-1b85cc2d806a
 ---
 MIX'in 2. gününde tahmin ettiğim üzere ağırlık **Internet Explorer 9**
 üzerindeydi. Geçen
