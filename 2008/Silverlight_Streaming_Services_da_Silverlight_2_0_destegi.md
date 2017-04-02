@@ -2,11 +2,12 @@
 FallbackID: 2003
 Title: Silverlight Streaming Services'da Silverlight 2.0 desteği.
 PublishDate: 3/28/2008
-EntryID: 38ad98af-ef3f-463c-96dc-99e3b6a735a5
+EntryID: Silverlight_Streaming_Services_da_Silverlight_2_0_destegi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 38ad98af-ef3f-463c-96dc-99e3b6a735a5
 ---
 Yavaş yavaş Silverlight 2.0 yazılarına başladığımız bugünlerde derinlere
 inmeden önce **Silverlight 2.0** konusunda **Silverlight Streaming
