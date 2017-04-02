@@ -2,11 +2,12 @@
 FallbackID: 1796
 Title: PCnet Ekim Sayısı
 PublishDate: 10/2/2007
-EntryID: 9132a55d-e429-4641-933e-9706ee44abdb
+EntryID: PCnet_Ekim_Sayisi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Haberler
+old.EntryID: 9132a55d-e429-4641-933e-9706ee44abdb
 ---
 ![](http://cdn.daron.yondem.com/assets/1796/pcnet.png)PCnet Ekim
 sayısında **"ASP.NET ve AJAX"** ve **"İnternette Zengin Medya Dünyası:
