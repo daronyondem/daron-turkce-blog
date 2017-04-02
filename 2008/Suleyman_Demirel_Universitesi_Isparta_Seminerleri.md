@@ -2,11 +2,12 @@
 FallbackID: 2001
 Title: Süleyman Demirel Üniversitesi, Isparta Seminerleri
 PublishDate: 3/26/2008
-EntryID: a4013ca9-3c14-4bec-b037-a8f21e92cd52
+EntryID: Suleyman_Demirel_Universitesi_Isparta_Seminerleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, LINQ, Seminer, Silverlight, WPF, ASP.NET
+old.EntryID: a4013ca9-3c14-4bec-b037-a8f21e92cd52
 ---
 Son iki gündür Isparta, **Süleyman Demirel Üniversitesi**'ndeydim. İki
 gün boyunca **Silverlight, WPF, ASP.NET 3.5 AJAX ve LINQ** konularına
