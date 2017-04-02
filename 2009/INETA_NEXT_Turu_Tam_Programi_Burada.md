@@ -2,11 +2,12 @@
 FallbackID: 2462
 Title: INETA NEXT Turu Tam Programı Burada!
 PublishDate: 11/30/2009
-EntryID: 0f3fe5dd-2518-42ff-af58-125b8d055aed
+EntryID: INETA_NEXT_Turu_Tam_Programi_Burada
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.0, ASP.NET 4.0, C#, IIS 7.0, Seminer, Silverlight 4, Visual Basic 2010, Visual Studio 2010, WCF, WF, Windows 7, WPF, Visual Basic .NET, ASP.NET
+old.EntryID: 0f3fe5dd-2518-42ff-af58-125b8d055aed
 ---
 INETA NEXT etkinliklerimizle ilgili duyuruyu bundan yaklaşık bir hafta
 önce sizinle paylaşmıştım. Maalesef o zamanlarda içeriği paylaşma
