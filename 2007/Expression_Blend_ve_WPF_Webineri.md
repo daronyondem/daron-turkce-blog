@@ -2,11 +2,12 @@
 FallbackID: 1813
 Title: Expression Blend ve WPF Webineri
 PublishDate: 10/16/2007
-EntryID: 46a6dff6-6847-4088-b0a2-75de53a1bc88
+EntryID: Expression_Blend_ve_WPF_Webineri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Webiner
+old.EntryID: 46a6dff6-6847-4088-b0a2-75de53a1bc88
 ---
 Expression Studio ailesini detaylı olarak incelemeye devam ediyoruz. 18
 Ekim 2007 Perşembe günü Türkiye'nin ilk Expression Blend webinerini
