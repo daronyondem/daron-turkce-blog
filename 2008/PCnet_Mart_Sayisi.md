@@ -2,11 +2,12 @@
 FallbackID: 1975
 Title: PCnet Mart Sayısı
 PublishDate: 3/1/2008
-EntryID: 4bda152d-c8ea-46a0-9e0b-5947fc802892
+EntryID: PCnet_Mart_Sayisi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Expression Blend, Silverlight, ASP.NET
+old.EntryID: 4bda152d-c8ea-46a0-9e0b-5947fc802892
 ---
 ![](http://cdn.daron.yondem.com/assets/1975/pcnet.png)PCnet'in Mart
 sayısındaki yazılarımı her ay olduğu gibi yine buradan sizlere duyurmak
