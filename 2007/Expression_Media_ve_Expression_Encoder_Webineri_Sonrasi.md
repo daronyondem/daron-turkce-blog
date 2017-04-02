@@ -2,11 +2,12 @@
 FallbackID: 1811
 Title: Expression Media ve Expression Encoder Webineri Sonrası...
 PublishDate: 10/13/2007
-EntryID: 66f48e1b-5512-4cc3-8107-1e2ad6088b8c
+EntryID: Expression_Media_ve_Expression_Encoder_Webineri_Sonrasi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Studio, Webiner
+old.EntryID: 66f48e1b-5512-4cc3-8107-1e2ad6088b8c
 ---
 Dün çok güzel bir webiner ile toplam bir buçuk saat içerisinde
 **Expression Media** ve **Expression Encoder**'ın neredeyse tüm
