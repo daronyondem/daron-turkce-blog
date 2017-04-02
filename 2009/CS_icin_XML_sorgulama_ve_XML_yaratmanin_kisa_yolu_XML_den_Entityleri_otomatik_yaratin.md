@@ -2,11 +2,12 @@
 FallbackID: 2362
 Title: C# için XML sorgulama ve XML yaratmanın kısa yolu! XML'den Entityleri otomatik yaratın.
 PublishDate: 5/4/2009
-EntryID: 4d512ded-066f-4c51-94a7-b6a6a6ff7fc5
+EntryID: CS_icin_XML_sorgulama_ve_XML_yaratmanin_kisa_yolu_XML_den_Entityleri_otomatik_yaratin
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: LINQ, C#
+old.EntryID: 4d512ded-066f-4c51-94a7-b6a6a6ff7fc5
 ---
 Bu hafta sonu epey yoğun bir tempo ile Ankara'da **Bilkent
 Üniversitesi**'ndeki iki etkinlik ve **Çankaya Üniversitesi**'ndeki bir
