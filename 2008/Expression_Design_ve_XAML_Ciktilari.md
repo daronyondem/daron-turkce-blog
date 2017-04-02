@@ -2,11 +2,12 @@
 FallbackID: 1939
 Title: Expression Design ve XAML Çıktıları
 PublishDate: 1/31/2008
-EntryID: 8332611c-6d2d-4f97-92d4-9d29f0711a6e
+EntryID: Expression_Design_ve_XAML_Ciktilari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Design, Silverlight, WPF
+old.EntryID: 8332611c-6d2d-4f97-92d4-9d29f0711a6e
 ---
 İster **Silverlight** ister **WPF** uygulamalarında vektörel çizimlere
 animasyonlar katıyor olmak hayati öneme sahip. Bu çerçevede bizim
