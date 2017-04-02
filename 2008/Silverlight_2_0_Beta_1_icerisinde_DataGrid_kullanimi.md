@@ -2,11 +2,12 @@
 FallbackID: 2078
 Title: Silverlight 2.0 Beta 1 içerisinde DataGrid kullanımı!
 PublishDate: 6/6/2008
-EntryID: 40cdfeb2-aae3-4259-9edf-73135b7becd1
+EntryID: Silverlight_2_0_Beta_1_icerisinde_DataGrid_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 40cdfeb2-aae3-4259-9edf-73135b7becd1
 ---
 **Silverlight 2.0 Beta 1** ile beraber gelen ilginç kontrollerden biri
 de DataGrid kontrolüdür. Aslında kontrolün kendisinde herhangi bir
