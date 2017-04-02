@@ -2,11 +2,12 @@
 FallbackID: 2029
 Title: Visual Studio 2008 Sertifikasyon Sınavları
 PublishDate: 4/19/2008
-EntryID: 82948e92-cbeb-4f02-9c7c-ae20973c34f0
+EntryID: Visual_Studio_2008_Sertifikasyon_Sinavlari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 3.0, .NET Framework 3.5, ASP.NET 3.5, Visual Basic 2008, Visual Studio 2008, WCF, WPF, WF, Visual Basic .NET, ASP.NET
+old.EntryID: 82948e92-cbeb-4f02-9c7c-ae20973c34f0
 ---
 .NET Framework 3.0 ile beraber gelen WPF, WCF ve WF sonrasında VS 2008
 ve .NET Framework 3.5 derken aslında epey bir yenilik ile karşı karşıya
