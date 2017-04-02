@@ -2,11 +2,12 @@
 FallbackID: 2382
 Title: Mailgrup Ankara buluşması...
 PublishDate: 7/31/2009
-EntryID: 2365cc4c-11b0-480a-a793-2f85d1585a69
+EntryID: Mailgrup_Ankara_bulusmasi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 2365cc4c-11b0-480a-a793-2f85d1585a69
 ---
 Bugünlerde Ankara'dayım :) Neden olduğu sanırım yarınki postum daha net
 anlatacaktır. Hazır Ankara'dayken mailgrup olarak uzun süredir hayalini
