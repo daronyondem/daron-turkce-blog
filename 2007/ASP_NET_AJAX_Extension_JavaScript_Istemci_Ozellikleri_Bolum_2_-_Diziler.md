@@ -2,11 +2,12 @@
 FallbackID: 1781
 Title: ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 2 - Diziler)
 PublishDate: 9/9/2007
-EntryID: 07216bfd-b001-406e-ab2f-cf8ec2b8df02
+EntryID: ASP_NET_AJAX_Extension_JavaScript_Istemci_Ozellikleri_Bolum_2_-_Diziler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX
+old.EntryID: 07216bfd-b001-406e-ab2f-cf8ec2b8df02
 ---
 Bir önceki yazımda ASP.NET AJAX Extension'a ait istemci taraflı
 JavaScript özelliklerini incelerken sınıf yapılarına, kütüphanelere,
