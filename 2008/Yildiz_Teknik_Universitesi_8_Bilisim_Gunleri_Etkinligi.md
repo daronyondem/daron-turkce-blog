@@ -2,11 +2,12 @@
 FallbackID: 2242
 Title: Yıldız Teknik Üniversitesi 8. Bilişim Günleri Etkinliği
 PublishDate: 11/10/2008
-EntryID: 9cdef5e2-6b47-49c6-932d-35ed9cc92fbb
+EntryID: Yildiz_Teknik_Universitesi_8_Bilisim_Gunleri_Etkinligi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
+old.EntryID: 9cdef5e2-6b47-49c6-932d-35ed9cc92fbb
 ---
 [Yıldız Teknik Üniversitesi Bilişim
 Kulübü](http://www.bilisim.yildiz.edu.tr/), bu yıl 8.'sini düzenleyeceği
