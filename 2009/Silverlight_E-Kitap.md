@@ -2,11 +2,12 @@
 FallbackID: 2337
 Title: Silverlight E-Kitap
 PublishDate: 3/17/2009
-EntryID: 27e515c9-1800-4469-8497-f95ab0542000
+EntryID: Silverlight_E-Kitap
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 27e515c9-1800-4469-8497-f95ab0542000
 ---
 Dün süper bir mail aldım :) Sevgili [Volkan
 Albayrak](http://volkanalbayrak.blogspot.com/) blogumu takip ederken tüm
