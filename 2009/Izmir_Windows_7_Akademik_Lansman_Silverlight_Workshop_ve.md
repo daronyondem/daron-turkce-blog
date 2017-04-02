@@ -2,11 +2,12 @@
 FallbackID: 2435
 Title: İzmir Windows 7 Akademik Lansman, Silverlight Workshop ve... :)
 PublishDate: 10/28/2009
-EntryID: 215894fb-6c8d-4482-a4d4-dc07ce01c7e6
+EntryID: Izmir_Windows_7_Akademik_Lansman_Silverlight_Workshop_ve
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0, Windows 7
+old.EntryID: 215894fb-6c8d-4482-a4d4-dc07ce01c7e6
 ---
 Bugün ÇOK yoğun bir gündü :) hem benim için hem de İzmir için :) Sabah
 9'da Ege Üniversitesi Bilgisayar Mühendisliğin'de Silverlight Workshop
