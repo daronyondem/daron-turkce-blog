@@ -2,11 +2,12 @@
 FallbackID: 2271
 Title: SilverNight talihlileri belli oldu!
 PublishDate: 12/10/2008
-EntryID: 18f0cbc6-eaff-46a8-8afc-2e9a0328ea08
+EntryID: SilverNight_talihlileri_belli_oldu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 18f0cbc6-eaff-46a8-8afc-2e9a0328ea08
 ---
 Bugün [SilverNight'ın](http://www.silvernight.ms) çekiliş günüydü :)
 Malum artık çekiliş için kayıtları kapattık ve gözümüzü de kapatıp
