@@ -2,11 +2,12 @@
 FallbackID: 2369
 Title: Silverlight 3.0 içerisinde GPU ve BitmapCache kullanımı.
 PublishDate: 6/6/2009
-EntryID: 27ca0d6d-2a2d-4c9b-8706-da5c32267213
+EntryID: Silverlight_3_0_icerisinde_GPU_ve_BitmapCache_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0
+old.EntryID: 27ca0d6d-2a2d-4c9b-8706-da5c32267213
 ---
 Bazı yazılımsal işlemleri özel donanım desteği her zaman performansı
 arttırır. Aslında bunun çok basit bir nedeni var özünde. Yapacağımız
