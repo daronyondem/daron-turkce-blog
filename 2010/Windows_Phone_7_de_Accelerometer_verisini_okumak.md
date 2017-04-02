@@ -2,11 +2,12 @@
 FallbackID: 2525
 Title: Windows Phone 7'de Accelerometer verisini okumak.
 PublishDate: 5/12/2010
-EntryID: 70081645-0bb4-4051-9bcc-41294381d539
+EntryID: Windows_Phone_7_de_Accelerometer_verisini_okumak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
+old.EntryID: 70081645-0bb4-4051-9bcc-41294381d539
 ---
 Cep telefonlarının en önemli parçalarından biri de artık
 Accelerometer'lar. Telefonu farklı yönlenere çevirdiğimizde durumu
