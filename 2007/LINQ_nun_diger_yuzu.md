@@ -2,11 +2,12 @@
 FallbackID: 1897
 Title: LINQ'nun diğer yüzü :)
 PublishDate: 12/26/2007
-EntryID: 86729470-1741-4039-8fe4-b66371f1b2cf
+EntryID: LINQ_nun_diger_yuzu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: LINQ
+old.EntryID: 86729470-1741-4039-8fe4-b66371f1b2cf
 ---
 Bir süredir okuduğum yazılarda ve konuştuğum kişilerde **LINQ**
 denildiğinde akla sadece veritabanına kolay yoldan sorgu yollama gibi
