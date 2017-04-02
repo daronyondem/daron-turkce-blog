@@ -2,11 +2,12 @@
 FallbackID: 2151
 Title: .NET Framework 3.5 SP1 çıktı!
 PublishDate: 8/11/2008
-EntryID: 48685930-be51-4d6b-99c5-14c368529ea0
+EntryID: NET_Framework_3_5_SP1_cikti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 48685930-be51-4d6b-99c5-14c368529ea0
 ---
 Visual Studio 2008 SP1 ile beraber .NET Framework 3.5 SP1 de yayınlandı.
 .NET Framework tarafında gerçekten güzel gelişmeler var. İlk olarak son
