@@ -2,11 +2,12 @@
 FallbackID: 2521
 Title: INETA Fazla Mesai'dan Suhail Dutta geçti!
 PublishDate: 5/8/2010
-EntryID: efeb77b6-3bf0-44df-be70-8a7cebc3cb43
+EntryID: INETA_Fazla_Mesai_den_Suhail_Dutta_gecti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.0, Visual Studio 2010
+old.EntryID: efeb77b6-3bf0-44df-be70-8a7cebc3cb43
 ---
 Dün akşam daha önce duyurduğumuz üzere [INETA Fazla
 Mesai](http://daron.yondem.com/tr/post/9e0c8f8b-c217-4743-9658-6d9e4df91870)
