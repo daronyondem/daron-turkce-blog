@@ -2,11 +2,12 @@
 FallbackID: 1974
 Title: Blog Gadget'ım beğenilerinize sunulur :)
 PublishDate: 3/2/2008
-EntryID: 181c76cb-6dda-4a48-9cab-c46b1ddb2a3b
+EntryID: Blog_Gadget_im_begenilerinize_sunulur
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 181c76cb-6dda-4a48-9cab-c46b1ddb2a3b
 ---
 Geçenlerde bir öğrencimin tavsiyesi üzerine kolları sıvayarak bir Vista
 Gadget hazırlamaya karar verdim. Tabi söz konusu tavsiye "*Bir Gadget
