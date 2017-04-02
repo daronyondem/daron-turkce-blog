@@ -2,11 +2,12 @@
 FallbackID: 2127
 Title: Dertli Kerem Geri Döndü! Nereye gitmişti ki?
 PublishDate: 7/19/2008
-EntryID: 0222d77d-9277-4aa9-a01b-bb2ca2106a6f
+EntryID: Dertli_Kerem_Geri_Dondu_Nereye_gitmisti_ki
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Dertli Kerem
+old.EntryID: 0222d77d-9277-4aa9-a01b-bb2ca2106a6f
 ---
 Sanırım artık herkes benim "Derli Kerem" serimi biliyor :) Bir yenisi
 daha karşınızda...
