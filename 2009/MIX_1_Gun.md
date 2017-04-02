@@ -2,11 +2,12 @@
 FallbackID: 2339
 Title: MIX 1. Gün
 PublishDate: 3/18/2009
-EntryID: d8e96864-352b-433d-b7f0-5ea584db31d7
+EntryID: MIX_1_Gun
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Expression Web, MVC, Silverlight 3.0
+old.EntryID: d8e96864-352b-433d-b7f0-5ea584db31d7
 ---
 Ve MIX'in ilk günü bitti :) Muhteşem haberler ve gelişmeler var
 paylaşmak istediğim fakat maalesef gün içinde bloga yazı yazacak zamanım
