@@ -2,11 +2,12 @@
 FallbackID: 2063
 Title: Silverlight 2.0 GridSplitter Kullanımı
 PublishDate: 5/22/2008
-EntryID: 10ca87be-00bd-41f6-ac4c-8b89dfe95fcc
+EntryID: Silverlight_2_0_GridSplitter_Kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 10ca87be-00bd-41f6-ac4c-8b89dfe95fcc
 ---
 Silverlight 2.0 içerisinde **Grid** kullanımı HTML içerisinden alışık
 olduğumuz Table yapısından pek farklı değil. Kolonlar ve satırlar
