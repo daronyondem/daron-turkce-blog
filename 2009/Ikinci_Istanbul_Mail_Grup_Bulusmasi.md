@@ -2,11 +2,12 @@
 FallbackID: 2409
 Title: 2. Istanbul Mail Grup Buluşması
 PublishDate: 9/13/2009
-EntryID: 83c94ae6-109b-4cf8-9cbd-2e64d78027b7
+EntryID: Ikinci_Istanbul_Mail_Grup_Bulusmasi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 83c94ae6-109b-4cf8-9cbd-2e64d78027b7
 ---
 Dokuz aylık mail grubumuzun ikinci İstanbul buluşmasını bir iftarda
 toplanarak yaptık. Benim için her zamanki gibi çok zevkli bir buluşma
