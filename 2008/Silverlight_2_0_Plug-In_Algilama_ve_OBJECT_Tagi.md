@@ -2,11 +2,12 @@
 FallbackID: 2119
 Title: Silverlight 2.0 Plug-In Algılama ve OBJECT Tagı
 PublishDate: 7/11/2008
-EntryID: 93e2a455-2966-4863-aad6-e1e1f1390c45
+EntryID: Silverlight_2_0_Plug-In_Algilama_ve_OBJECT_Tagi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 93e2a455-2966-4863-aad6-e1e1f1390c45
 ---
 **Silverlight 2.0 Beta 2** ile beraber 1.0 sürümüne göre uygulamaların
 dağıtım sistemi değişti ve karşımıza
