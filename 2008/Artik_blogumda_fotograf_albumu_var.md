@@ -2,11 +2,12 @@
 FallbackID: 1961
 Title: Artık blogumda fotoğraf albümü var ;)
 PublishDate: 2/18/2008
-EntryID: 1b507dc9-0092-467c-85db-87d24e05c5a2
+EntryID: Artik_blogumda_fotograf_albumu_var
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 1b507dc9-0092-467c-85db-87d24e05c5a2
 ---
 "Yıllardır" diyebileceğim kadar uzun bir süredir bloguma şöyle güzel bir
 fotoğraf galerisi eklemenin özlemi ile yanıp tutuşuyordum :) Maalesef
