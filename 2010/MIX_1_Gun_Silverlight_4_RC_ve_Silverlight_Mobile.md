@@ -2,11 +2,12 @@
 FallbackID: 2495
 Title: MIX 1. Gün - Silverlight 4 RC ve Silverlight Mobile!
 PublishDate: 3/16/2010
-EntryID: 10fab4d4-960f-4f20-b1db-0b54abbee4dd
+EntryID: MIX_1_Gun_Silverlight_4_RC_ve_Silverlight_Mobile
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4, Windows Phone 7, Windows Phone
+old.EntryID: 10fab4d4-960f-4f20-b1db-0b54abbee4dd
 ---
 Son birkaç gündür [Twitter](http://www.twitter.com/daronyondem) üzerinde
 beni takip edenler biliyorlar Microsoft'un yıllık **MIX** konferansı
