@@ -2,11 +2,12 @@
 FallbackID: 1832
 Title: Kitaplık Kardeşliği :)
 PublishDate: 10/31/2007
-EntryID: 50ea2bef-d059-42eb-93c7-ae316803a229
+EntryID: Kitaplik_Kardesligi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Genel
+old.EntryID: 50ea2bef-d059-42eb-93c7-ae316803a229
 ---
 Özellikle yabancı bloglarda bir süredir "yeni moda" diyebileceğim bir
 akım olarak blog sahipleri kütüphanelerinin fotoğraflarını çekerek
