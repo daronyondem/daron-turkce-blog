@@ -2,11 +2,12 @@
 FallbackID: 1983
 Title: KKTC Doğu Akdeniz Üniversitesi Bilişim Haftası Seminerlerim
 PublishDate: 3/9/2008
-EntryID: 3facf213-7838-4230-81f2-7687e1f7a635
+EntryID: KKTC_Dogu_Akdeniz_Universitesi_Bilisim_Haftasi_Seminerlerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 3facf213-7838-4230-81f2-7687e1f7a635
 ---
 Bu hafta başı 3, 4 Mart tarihlerinde **KKTC Doğu Akdeniz
 Üniversitesi**'nde "Bilişim Haftası" çerçevesinde iki seminerim oldu.
