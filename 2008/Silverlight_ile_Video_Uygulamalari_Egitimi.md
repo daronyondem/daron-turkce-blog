@@ -2,11 +2,12 @@
 FallbackID: 2010
 Title: Silverlight ile Video Uygulamaları Eğitimi
 PublishDate: 4/3/2008
-EntryID: f5af3e04-6435-4e46-890a-5344a6e029e2
+EntryID: Silverlight_ile_Video_Uygulamalari_Egitimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: f5af3e04-6435-4e46-890a-5344a6e029e2
 ---
 INETA ve NETRON işbirliği ile yürüttüğümüz 3 günlük Silverlight eğitimi
 serisinin son gününü Cumartesi NETRON Altunizade şubesinde
