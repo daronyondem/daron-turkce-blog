@@ -2,11 +2,12 @@
 FallbackID: 2469
 Title: Silverlight 4.0 Beta'da OOB Yenilikleri - Görsel Ders
 PublishDate: 12/7/2009
-EntryID: 6d958013-2158-4c96-b9ca-33be4f981f52
+EntryID: Silverlight_4_0_Beta_da_OOB_Yenilikleri_Gorsel_Ders
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4
+old.EntryID: 6d958013-2158-4c96-b9ca-33be4f981f52
 ---
 Bu görsel dersimizde Silverligh 4 Beta ile beraber gelen Out Of Browser
 yeniliklerini inceliyoruz. Efsanevi hareketler var :) Benden söylemesi.
