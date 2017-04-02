@@ -2,11 +2,12 @@
 FallbackID: 2095
 Title: Silverlight 1.0 projeleri ve FireFox 3 güncellemesi
 PublishDate: 6/17/2008
-EntryID: b3eb559f-8dfc-449a-a0b4-a81090a19b9f
+EntryID: Silverlight_1_0_projeleri_ve_FireFox_3_guncellemesi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: b3eb559f-8dfc-449a-a0b4-a81090a19b9f
 ---
 FireFox 3 yarına downloada sunuluyor. Kişisel olarak FireFox kullanmamın
 iki nedeni var; birincisi güzel eklentileri var, ikincisi sırayla
