@@ -2,11 +2,12 @@
 FallbackID: 1923
 Title: Silverlight ile örnek kitap bölümleri Pusula Yayıncılık sitesinde.
 PublishDate: 1/18/2008
-EntryID: f2b5e6e2-469a-4179-be4e-15c4e0b15338
+EntryID: Silverlight_ile_ornek_kitap_bolumleri_Pusula_Yayincilik_sitesinde
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: f2b5e6e2-469a-4179-be4e-15c4e0b15338
 ---
 Uzun süredir seminerlerimde, eğitimlerimde sürekli **Silverlight'ın**
 hem istemci hem de sunucu tarafında platform bağımsız olduğunu söyleyip
