@@ -2,11 +2,12 @@
 FallbackID: 2053
 Title: Silverlight 2.0 Calendar ve DatePicker kontrolleri.
 PublishDate: 5/11/2008
-EntryID: 6baea5ad-5be9-48e9-bf60-3077c691c3cc
+EntryID: Silverlight_2_0_Calendar_ve_DatePicker_kontrolleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 6baea5ad-5be9-48e9-bf60-3077c691c3cc
 ---
 Silverlight 2.0 ile beni en çok şaşırtan özelliklerden biri de WPF'in
 web sürümü diyebileceğimiz ve WPF'e kıyasla bir çok eksiği olan bir
