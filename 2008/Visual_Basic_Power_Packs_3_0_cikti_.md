@@ -2,11 +2,12 @@
 FallbackID: 1965
 Title: Visual Basic Power Packs 3.0 çıktı.
 PublishDate: 2/22/2008
-EntryID: d4966f23-e416-49de-8180-f3f1f9bf30a9
+EntryID: Visual_Basic_Power_Packs_3_0_cikti_
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Basic 2005, Visual Basic 2008, Visual Basic .NET
+old.EntryID: d4966f23-e416-49de-8180-f3f1f9bf30a9
 ---
 **Visual Basic Power Packs** paketinin 3.0 sürümü yayınlandı. C\#'cılar
 çatlasın :P Paket içerisinde özellikle yeni olan **DataRepeater**
