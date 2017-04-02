@@ -2,11 +2,12 @@
 FallbackID: 2154
 Title: ScriptManager'da EnableHistory ile AJAX uygulamalarında tarayıcı geçmişi desteği.
 PublishDate: 8/15/2008
-EntryID: 306e7425-d52e-46f4-a6e1-dfaf893ef598
+EntryID: ScriptManager_da_EnableHistory_ile_AJAX_uygulamalarinda_tarayici_gecmisi_destegi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX
+old.EntryID: 306e7425-d52e-46f4-a6e1-dfaf893ef598
 ---
 AJAX kullanılan sitelerde tarayıcıların "Geri" düğmesinin çalışmaması
 sorunu ile ilgili farklı JavaScript kütüphanelerinde çözümler bulunsa da
