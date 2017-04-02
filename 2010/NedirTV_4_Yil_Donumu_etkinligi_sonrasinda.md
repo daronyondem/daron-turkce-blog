@@ -2,11 +2,12 @@
 FallbackID: 2510
 Title: NedirTV 4. Yıl Dönümü etkinliği sonrasında...
 PublishDate: 4/11/2010
-EntryID: 05a1a9b8-d4a5-4e55-9961-11fbb6fad37b
+EntryID: NedirTV_4_Yil_Donumu_etkinligi_sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: HTML5, IE 9, Internet Explorer
+old.EntryID: 05a1a9b8-d4a5-4e55-9961-11fbb6fad37b
 ---
 Bugün [NedirTV 4. Yıl
 Dönümü](http://daron.yondem.com/tr/post/3554f8b7-23d3-426f-bc10-b9f6f3075fa2)
