@@ -2,11 +2,12 @@
 FallbackID: 1808
 Title: Bir İletişim Dili Olarak Programlama Dilleri
 PublishDate: 10/9/2007
-EntryID: 0fa6bd8d-4d56-4331-b6de-b05096e29164
+EntryID: Bir_Iletisim_Dili_Olarak_Programlama_Dilleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Genel
+old.EntryID: 0fa6bd8d-4d56-4331-b6de-b05096e29164
 ---
 Programlamayı eğer bir meslek olarak yapıyorsanız bu yazımdan sonra bana
 büyük ihtimal ile "rahatsız bu adam" gözüyle bakacaksınız. Benim için
