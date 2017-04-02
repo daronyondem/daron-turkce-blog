@@ -2,11 +2,12 @@
 FallbackID: 2075
 Title: Silverlight 2.0 Beta 1 içerisinde ToggleButton kullanımı
 PublishDate: 6/3/2008
-EntryID: 7c6bdbb7-6971-43b7-ad1f-9a74ecfe404a
+EntryID: Silverlight_2_0_Beta_1_icerisinde_ToggleButton_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 7c6bdbb7-6971-43b7-ad1f-9a74ecfe404a
 ---
 Checkbox ve RadioButton kontrolleri neredeyse her projede en az bir defa
 kullandığımız kontroller arasında yerlerini alırlar. Bu kontroller gibi
