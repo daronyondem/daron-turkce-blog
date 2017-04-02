@@ -2,11 +2,12 @@
 FallbackID: 2005
 Title: SL 2.0'da ZIP içerisinden asenkron kaynak kullanımı.
 PublishDate: 3/30/2008
-EntryID: 9f91558d-a5a0-484e-a600-8e74cd499491
+EntryID: SL_2_0_da_ZIP_icerisinden_asenkron_kaynak_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 9f91558d-a5a0-484e-a600-8e74cd499491
 ---
 Silverlight 1.0 içerisinde sunucu tarafından ZIP dosyaları alarak
 bunların içerisindeki dosyaları istemci tarafında çıkartarak
