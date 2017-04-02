@@ -2,11 +2,12 @@
 FallbackID: 1970
 Title: Rakibinizi sevemezsiniz!
 PublishDate: 2/27/2008
-EntryID: e0151d7f-b7a6-4459-9c3a-48848c9ddb8f
+EntryID: Rakibinizi_sevemezsiniz
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: e0151d7f-b7a6-4459-9c3a-48848c9ddb8f
 ---
 Başlığı okuyanlar bir an için "*yanlış blogdamıyım acaba?*" sorusunu
 sordularsa :) uzun süredir benim blogu okuduğunuz için size teşekkür
