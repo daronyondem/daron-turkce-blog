@@ -2,11 +2,12 @@
 FallbackID: 2520
 Title: Windows Phone 7'de ApplicationBar ve Menü Kullanımı
 PublishDate: 5/7/2010
-EntryID: 1578f4ec-0e47-45bc-9e70-62d015181798
+EntryID: Windows_Phone_7_de_ApplicationBar_ve_Menu_Kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
+old.EntryID: 1578f4ec-0e47-45bc-9e70-62d015181798
 ---
 Windows Phone 7 ile beraber gelen uygulama için navigasyon sistemlerinin
 bir parçası da işletim sisteminin sunduğu menü altyapısı. Bu konuda
