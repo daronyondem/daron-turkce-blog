@@ -2,11 +2,12 @@
 FallbackID: 1989
 Title: Channel 10'de ben :)
 PublishDate: 3/13/2008
-EntryID: e712a27c-98a4-47eb-998e-903f22b57a2a
+EntryID: Channel_10_de_ben
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: e712a27c-98a4-47eb-998e-903f22b57a2a
 ---
 ![Channel
 10](http://cdn.daron.yondem.com/assets/1989/13032008_1.jpg)Microsoft'un
