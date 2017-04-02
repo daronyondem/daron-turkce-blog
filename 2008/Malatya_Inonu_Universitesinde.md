@@ -2,11 +2,12 @@
 FallbackID: 1996
 Title: Malatya İnönü Üniversitesinde...
 PublishDate: 3/20/2008
-EntryID: 0785ca06-895f-412f-b507-a792633e3335
+EntryID: Malatya_Inonu_Universitesinde
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 0785ca06-895f-412f-b507-a792633e3335
 ---
 Bugün sabahtan Malatya yollarındaydık. Sevgili [Murat
 Duman](http://www.muratduman.net/) ile beraber **Gençsen Geleceksin**
