@@ -2,11 +2,12 @@
 FallbackID: 2185
 Title: Internet Explorer 8.0 için Web Slice hazırlayalım.
 PublishDate: 9/14/2008
-EntryID: cc7cd7ab-96e7-484d-baf4-cd9b21bc7392
+EntryID: Internet_Explorer_8_0_icin_Web_Slice_hazirlayalim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
+old.EntryID: cc7cd7ab-96e7-484d-baf4-cd9b21bc7392
 ---
 IE8.0 ile gelen ve biz web yazılım geliştiricilerin önümüzdeki dönemde
 belki de en fazla uygulayacağımız yeniliklerden biri **Web Slice**
