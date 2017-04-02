@@ -2,11 +2,12 @@
 FallbackID: 1936
 Title: Live Platform Posteri
 PublishDate: 1/31/2008
-EntryID: 1bf567bd-c4b1-4d47-a624-0d003e7f2db6
+EntryID: Live_Platform_Posteri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: live.com
+old.EntryID: 1bf567bd-c4b1-4d47-a624-0d003e7f2db6
 ---
 ![](http://cdn.daron.yondem.com/assets/1936/30012008_2.jpg)Biz
 yazılımcılar poster sevdalarını ancak aşağıdaki gibi geek posterler ile
