@@ -2,11 +2,12 @@
 FallbackID: 1884
 Title: Fanatizmin Zararları
 PublishDate: 12/14/2007
-EntryID: 79b28f8a-8223-4187-b8e3-9114e962237d
+EntryID: Fanatizmin_Zararlari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 79b28f8a-8223-4187-b8e3-9114e962237d
 ---
 **Fanatizm** başlığını attıktan sonra nasıl bunu benim blogun konseptine
 bağlayacağımı merak ediyorsanız aslında hiç de zor değil çünkü toplumca
