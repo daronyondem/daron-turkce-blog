@@ -2,11 +2,12 @@
 FallbackID: 2490
 Title: Silverlight ile FileUpload
 PublishDate: 2/14/2010
-EntryID: b4d1540e-f1ca-408f-a871-43aeef92a760
+EntryID: Silverlight_ile_FileUpload
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, Silverlight 3.0, Silverlight 4
+old.EntryID: b4d1540e-f1ca-408f-a871-43aeef92a760
 ---
 Bu görsel dersimizde Silverlight ile sunucuya FileUpload işlemi yapmanın
 yollarından birini inceliyoruz.
