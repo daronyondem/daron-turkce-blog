@@ -2,11 +2,12 @@
 FallbackID: 1982
 Title: Expression Studio 2 Beta'ları yayında.
 PublishDate: 3/7/2008
-EntryID: 52a90f73-8481-4b1c-948f-0d2b29502004
+EntryID: Expression_Studio_2_Beta_lari_yayinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web
+old.EntryID: 52a90f73-8481-4b1c-948f-0d2b29502004
 ---
 **Expression Studio** yazılım paketi Microsoft'un tasarımcıları
 hedefleyen ve bizim **WPF, Silverlight** dünyasında harikalar
