@@ -2,11 +2,12 @@
 FallbackID: 2329
 Title: Erzurum, Atatürk Üniversitesi Seminerlerim
 PublishDate: 2/28/2009
-EntryID: b9628f2b-b3a2-4bd0-ba85-8794101eec91
+EntryID: Erzurum_Ataturk_Universitesi_Seminerlerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, LINQ, Silverlight 2.0, WPF, ASP.NET
+old.EntryID: b9628f2b-b3a2-4bd0-ba85-8794101eec91
 ---
 Son iki gündür **Erzurum, Atatürk Üniversitesi**'ndeydim. **Silverlight,
 WPF, AJAX, LINQ** konularına değindiğimiz ikin günlük bir serinin
