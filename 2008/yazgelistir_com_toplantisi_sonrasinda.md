@@ -2,11 +2,12 @@
 FallbackID: 1935
 Title: yazgelistir.com toplantısı sonrasında...
 PublishDate: 1/29/2008
-EntryID: 965eb599-aede-4568-8303-260c69972b9f
+EntryID: yazgelistir_com_toplantisi_sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 965eb599-aede-4568-8303-260c69972b9f
 ---
 ![yazgelistir.com
 ödülüm!](http://cdn.daron.yondem.com/assets/1935/29012008_1.jpg)Dün
