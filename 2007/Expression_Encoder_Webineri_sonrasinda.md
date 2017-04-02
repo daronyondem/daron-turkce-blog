@@ -2,11 +2,12 @@
 FallbackID: 1863
 Title: Expression Encoder Webineri sonrasında...
 PublishDate: 11/27/2007
-EntryID: ce909793-2426-4b3c-9bb6-d3874128bd9e
+EntryID: Expression_Encoder_Webineri_sonrasinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Encoder, Webiner
+old.EntryID: ce909793-2426-4b3c-9bb6-d3874128bd9e
 ---
 Bugün bir sıkıntılarla başlasa da **Expression Encoder** webinerini
 başarılı bir şekilde gerçekleştirdik. Yurt dışında olduğum için maalesef
