@@ -2,11 +2,12 @@
 FallbackID: 2138
 Title: Haberler...
 PublishDate: 7/29/2008
-EntryID: 06ad7d0d-bb6e-45b8-aeff-8b13f6a80cbf
+EntryID: Haberler
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Haberler
+old.EntryID: 06ad7d0d-bb6e-45b8-aeff-8b13f6a80cbf
 ---
 Genelde bloga haber postları girmiyorum. Ama son dönemde duyurmak
 istediğim birkaç şey oldu, ben de en iyisi bunları toplu bir post olarak
