@@ -13,7 +13,7 @@ Yeni **Office 2007** ile beraber gelen yeni dosya formatlarına da
 alışmaya başladık. Bu yeni dosya formatlarından biri de **Access 2007**
 ile beraber gelen **accdb** uzantılı veritabanı dosyaları. Yeni bir
 veritabanından bahsediyorsak tabi ki bu veritabanı için yeni bir de
-**"Connection String"**imizin olması gerekiyor. Eğer projelerinizde siz
+**Connection String**imizin olması gerekiyor. Eğer projelerinizde siz
 de benim gibi artık Access 2007 veritabanlarına geçiş yapmayı
 düşünüyorsanız aşağıdaki yeni "Connection String"imizi
 kullanabilirsiniz.
