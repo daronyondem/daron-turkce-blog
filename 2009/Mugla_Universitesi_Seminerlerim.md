@@ -2,11 +2,12 @@
 FallbackID: 2360
 Title: Muğla Üniversitesi Seminerlerim
 PublishDate: 4/28/2009
-EntryID: c84ef580-6a37-4033-a225-34e889d00508
+EntryID: Mugla_Universitesi_Seminerlerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, LINQ, Silverlight 3.0, WPF
+old.EntryID: c84ef580-6a37-4033-a225-34e889d00508
 ---
 Bugün **Muğla Üniversitesi**'ndeydim. LINQ, WPF, Silverlight ve AJAX
 oturumları yaparak yine bir günde bolca bilgi paylaşımı gerçekleşti
