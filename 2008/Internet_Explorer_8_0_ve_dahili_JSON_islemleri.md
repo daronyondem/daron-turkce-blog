@@ -2,11 +2,12 @@
 FallbackID: 2184
 Title: Internet Explorer 8.0 ve dahili JSON işlemleri
 PublishDate: 9/13/2008
-EntryID: 5fd841c9-c9df-4e1c-a0d0-0f35e19c839a
+EntryID: Internet_Explorer_8_0_ve_dahili_JSON_islemleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
+old.EntryID: 5fd841c9-c9df-4e1c-a0d0-0f35e19c839a
 ---
 AJAX ile programlama yaparken en sık kullandığımız veri taşıma
 formatlarından biri JSON (JavaScript Object Notation). Detaylarına
