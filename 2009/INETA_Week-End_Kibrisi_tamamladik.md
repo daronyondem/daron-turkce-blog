@@ -2,11 +2,12 @@
 FallbackID: 2310
 Title: INETA Week-End Kıbrıs'ı tamamladık.
 PublishDate: 1/19/2009
-EntryID: cc8e1337-02e6-4b90-9dc9-47ae1114fc7e
+EntryID: INETA_Week-End_Kibrisi_tamamladik
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: cc8e1337-02e6-4b90-9dc9-47ae1114fc7e
 ---
 Bu hafta sonu Microsoft'tan **Tayfun Akçay** ile beraber KKTC'de **Doğu
 Akdeniz Üniversitesi**'ni ziyaret ettik. Toplam üç gün süren bir
