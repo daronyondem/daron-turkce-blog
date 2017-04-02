@@ -2,11 +2,12 @@
 FallbackID: 2069
 Title: Linux üzerinde Silverlight denemelerim...
 PublishDate: 5/27/2008
-EntryID: 1d36f44d-8fe3-49ac-9c68-048d8391a408
+EntryID: Linux_uzerinde_Silverlight_denemelerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: 1d36f44d-8fe3-49ac-9c68-048d8391a408
 ---
 Bugün ufak bir maceraya atılarak sanal makineye bir **Ubuntu** kopyası
 yükledim :) Yanlış okumadınız bir Linux kopyasından bahsediyorum.
