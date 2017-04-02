@@ -2,11 +2,12 @@
 FallbackID: 1889
 Title: Expression Blend 2 December Preview
 PublishDate: 12/17/2007
-EntryID: d59655f6-9a21-4956-8ee1-1006834dfc26
+EntryID: Expression_Blend_2_December_Preview
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Silverlight, WPF
+old.EntryID: d59655f6-9a21-4956-8ee1-1006834dfc26
 ---
 Silverlight uygulamaları hazırlarken Expression Blend'in 2.0 sürümünü
 kullanmamız gerekirken maalesef 2.0 sürümünün hala Preview aşamasında
