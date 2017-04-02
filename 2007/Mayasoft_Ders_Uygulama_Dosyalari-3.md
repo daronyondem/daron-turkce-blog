@@ -2,11 +2,12 @@
 FallbackID: 1734
 Title: Mayasoft Ders Uygulama Dosyaları
 PublishDate: 4/27/2007
-EntryID: fd0b8d68-f27c-4c07-8a70-5abf7fdab6c7
+EntryID: Mayasoft_Ders_Uygulama_Dosyalari-3
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Eğitimler
+old.EntryID: fd0b8d68-f27c-4c07-8a70-5abf7fdab6c7
 ---
 **Mayasoft Bilişim Akademi**'sinde vermekte olduğum **Web Tasarım**
 eğitimine ait **25.04.2007** tarihli dersin uygulama dosyalarını
