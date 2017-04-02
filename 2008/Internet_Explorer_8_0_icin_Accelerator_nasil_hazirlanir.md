@@ -2,11 +2,12 @@
 FallbackID: 2189
 Title: Internet Explorer 8.0 için Accelerator nasıl hazırlanır?
 PublishDate: 9/18/2008
-EntryID: 5d3e474f-e916-4dfb-8e7a-c9d9c980ccbc
+EntryID: Internet_Explorer_8_0_icin_Accelerator_nasil_hazirlanir
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
+old.EntryID: 5d3e474f-e916-4dfb-8e7a-c9d9c980ccbc
 ---
 Internet Explorer 8.0 ile beraber yazılımcılar olarak karşılaştığımız
 bir diğer uygulama geliştirme alanı da "Accelerators" yapısı.
