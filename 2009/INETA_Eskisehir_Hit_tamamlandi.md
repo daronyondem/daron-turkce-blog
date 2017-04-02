@@ -2,11 +2,12 @@
 FallbackID: 2333
 Title: INETA Eskişehir Hit tamamlandı.
 PublishDate: 3/10/2009
-EntryID: 76edc641-ece6-48bd-bf3f-b164eb6e8422
+EntryID: INETA_Eskisehir_Hit_tamamlandi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Silverlight 2.0, WPF, ASP.NET
+old.EntryID: 76edc641-ece6-48bd-bf3f-b164eb6e8422
 ---
 Blogdan da duyurduğum üzere geçen hafta sonunu Eskişehir'de geçirdik.
 Yine çok zevkli bir etkinlikte iki gün boyunca yoğun bir tempo ile
