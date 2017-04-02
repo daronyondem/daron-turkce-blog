@@ -2,11 +2,12 @@
 FallbackID: 1829
 Title: Silverlight Eğitiminin Süper Özeti
 PublishDate: 10/30/2007
-EntryID: 9665e843-9c97-42a0-a721-b2ccc9c006a6
+EntryID: Silverlight_Egitiminin_Super_Ozeti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Haberler, Silverlight
+old.EntryID: 9665e843-9c97-42a0-a721-b2ccc9c006a6
 ---
 Geçen hafta Microsoft İstanbul ofislerinde düzenlediğimiz [Silverlight
 ve Expression Studio
