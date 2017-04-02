@@ -2,11 +2,12 @@
 FallbackID: 1990
 Title: Visual Basic'teki IIF ile yeni IF arasında "I" farkı hakkında :)
 PublishDate: 3/15/2008
-EntryID: 73b33b62-b2dc-4c63-a247-86e217f6cd1a
+EntryID: Visual_Basic_teki_IIF_ile_yeni_IF_arasinda_I_farki_hakkinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Basic 2008, Visual Basic .NET
+old.EntryID: 73b33b62-b2dc-4c63-a247-86e217f6cd1a
 ---
 **IIF** metodunu neredeyse her VB programcısı bilir. **IIF** toplam üç
 parametre alır, bunlardan ilki kontrol edilecek koşulun kendisidir.
