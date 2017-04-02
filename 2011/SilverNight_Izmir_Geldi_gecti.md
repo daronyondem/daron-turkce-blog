@@ -2,11 +2,12 @@
 FallbackID: 2574
 Title: SilverNight İzmir :) Geldi, geçti...
 PublishDate: 5/1/2011
-EntryID: 3101def8-aea5-44d3-857c-99b4b5d0ff16
+EntryID: SilverNight_Izmir_Geldi_gecti
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 3.0, Silverlight 4
+old.EntryID: 3101def8-aea5-44d3-857c-99b4b5d0ff16
 ---
 Dün gece sabahladık! Ege Üniversitesi'nde Ege'deki öğrencilere özel bir
 SilverNight etkinliği ile sabaha kadar oyun programladık :) Çoğunuzun bu
