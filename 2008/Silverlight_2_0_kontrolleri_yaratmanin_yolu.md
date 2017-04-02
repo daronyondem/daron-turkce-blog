@@ -2,11 +2,12 @@
 FallbackID: 2114
 Title: Silverlight 2.0 kontrolleri yaratmanın yolu.
 PublishDate: 7/6/2008
-EntryID: e17f6d54-d4a5-4cc8-84cf-f00bf27fcb8f
+EntryID: Silverlight_2_0_kontrolleri_yaratmanin_yolu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: e17f6d54-d4a5-4cc8-84cf-f00bf27fcb8f
 ---
 Silverlight 2.0 içerisinde kullandığımız standart kontrollerin yanı sıra
 istersek kendi kontrollerimizi de hazırlama şansımız var. Daha önceleri
