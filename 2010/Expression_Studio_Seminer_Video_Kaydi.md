@@ -2,11 +2,12 @@
 FallbackID: 2504
 Title: Expression Studio Seminer Video Kaydı
 PublishDate: 4/3/2010
-EntryID: b473a9ab-ad0d-4974-8f75-8f69a58d9b9f
+EntryID: Expression_Studio_Seminer_Video_Kaydi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Studio, Silverlight 3.0, WPF
+old.EntryID: b473a9ab-ad0d-4974-8f75-8f69a58d9b9f
 ---
 Geçen haftalarda Microsoft ofisinde iş ortakları için özel olarak
 düzenlenen bir seri seminerin son parçasını da sizlerle paylaşıyorum. Bu
