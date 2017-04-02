@@ -2,11 +2,12 @@
 FallbackID: 2365
 Title: Web servislerimi Windows uygulamasında nasıl host ederim?
 PublishDate: 6/2/2009
-EntryID: efc4285f-96db-4fdd-8768-7169d787e939
+EntryID: Web_servislerimi_Windows_uygulamasinda_nasil_host_ederim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: WCF
+old.EntryID: efc4285f-96db-4fdd-8768-7169d787e939
 ---
 Dün bana gelen sorulardan birini cevaplamak üzerine hızlı bir makale
 yazmaya karar verdim :) Gelen soruya doğrudan girmeden önce senaryoya
