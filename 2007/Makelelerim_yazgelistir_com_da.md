@@ -2,11 +2,12 @@
 FallbackID: 1771
 Title: Makelelerim yazgelistir.com'da...
 PublishDate: 9/3/2007
-EntryID: 94ae928e-27bf-425a-bc77-33a2ed7efc43
+EntryID: Makelelerim_yazgelistir_com_da
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Genel
+old.EntryID: 94ae928e-27bf-425a-bc77-33a2ed7efc43
 ---
 Microsoft Türkiye'nin Yazılım Geliştiriciler için Türkiye'deki paylaşım
 web sitesi olan yazgelistir.com'da yazar olarak makalelerim bir kısmını
