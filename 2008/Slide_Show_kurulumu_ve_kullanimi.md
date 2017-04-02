@@ -2,11 +2,12 @@
 FallbackID: 1964
 Title: Slide.Show kurulumu ve kullanımı
 PublishDate: 2/20/2008
-EntryID: e7c89bc0-0ce4-432b-82c1-325a97dbea6f
+EntryID: Slide_Show_kurulumu_ve_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight
+old.EntryID: e7c89bc0-0ce4-432b-82c1-325a97dbea6f
 ---
 Silverlight çıktığından bu yana özellikle yurt dışında bir çok ücretsiz
 ve açık kaynak kodlu proje yayınlandı. Bunların arasında gerçek hayatta
