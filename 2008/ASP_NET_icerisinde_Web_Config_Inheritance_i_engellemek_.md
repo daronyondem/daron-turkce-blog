@@ -2,11 +2,12 @@
 FallbackID: 2064
 Title: ASP.NET içerisinde Web.Config Inheritance'ı engellemek.
 PublishDate: 5/23/2008
-EntryID: ea94b572-7e9c-4099-ae20-9503e26a9d9b
+EntryID: ASP_NET_icerisinde_Web_Config_Inheritance_i_engellemek_
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
+old.EntryID: ea94b572-7e9c-4099-ae20-9503e26a9d9b
 ---
 Herhangi bir web sitesine bir ASP.NET uygulaması yerleştirdiğinizde
 otomatik olarak uygulama ile beraber Web.Config dosyasını da sunucuya
