@@ -2,11 +2,12 @@
 FallbackID: 2164
 Title: PhotoSynth yayında!
 PublishDate: 8/24/2008
-EntryID: 926df620-96fc-4a25-9023-cf88f9e391c7
+EntryID: PhotoSynth_yayinda
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 926df620-96fc-4a25-9023-cf88f9e391c7
 ---
 Uzun süredir Beta sürecinde olan **Microsofot LivelLabs** projelerinden
 **[Photosynth](http://photosynth.net/Default.aspx)** yayına geçti.
