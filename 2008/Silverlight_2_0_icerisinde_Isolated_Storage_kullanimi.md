@@ -2,11 +2,12 @@
 FallbackID: 2042
 Title: Silverlight 2.0 içerisinde Isolated Storage kullanımı
 PublishDate: 5/1/2008
-EntryID: efebcb20-60cb-4964-ba43-0b1949fb5e23
+EntryID: Silverlight_2_0_icerisinde_Isolated_Storage_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: efebcb20-60cb-4964-ba43-0b1949fb5e23
 ---
 Web uygulamalarında Cookie kullanımı alışık olduğumuz bir yapıdır. Bu
 yapının bir benzeri Silverlight 2.0 Beta 1 ile beraber de karşımıza
