@@ -2,11 +2,12 @@
 FallbackID: 2550
 Title: TechEd Middle East 2011'de konuşuyorum!
 PublishDate: 2/5/2011
-EntryID: 5295172f-0650-44fa-b0b5-cb3973cd96e0
+EntryID: TechEd_Middle_East_2011_de_konusuyorum
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4, TechEd, Windows Phone 7, Windows Phone
+old.EntryID: 5295172f-0650-44fa-b0b5-cb3973cd96e0
 ---
 Geçen sene de [konuşmacı olduğum TechEd
 Middle-East](http://daron.yondem.com/tr/post/6110df43-11cd-4c54-8227-4bdfe98e5dc3)
