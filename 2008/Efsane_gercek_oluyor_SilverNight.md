@@ -2,11 +2,12 @@
 FallbackID: 2259
 Title: Efsane gerçek oluyor: SilverNight!
 PublishDate: 11/27/2008
-EntryID: 42c1be08-8cfd-4d03-a353-a1e924514bd1
+EntryID: Efsane_gercek_oluyor_SilverNight
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 42c1be08-8cfd-4d03-a353-a1e924514bd1
 ---
 [![SilverNight
 karşınızda!](http://cdn.daron.yondem.com/assets/2259/27112008_1.gif)](http://www.silvernight.ms/)
