@@ -2,11 +2,12 @@
 FallbackID: 2560
 Title: Open in Expression Blend Silverlight 5 Sorunu
 PublishDate: 4/17/2011
-EntryID: 61b1da8a-1009-4620-835c-8969f090d41e
+EntryID: Open_in_Expression_Blend_Silverlight_5_Sorunu
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
+old.EntryID: 61b1da8a-1009-4620-835c-8969f090d41e
 ---
 Yine, yeni, yeniden :) Expression Blend ile ilgili ne zaman bir preview,
 beta çıksa bu sorunla karşılaşıyoruz. Visual Studio içerisinden "Open in
