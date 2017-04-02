@@ -2,11 +2,12 @@
 FallbackID: 2569
 Title: Silverlight 5 Beta'da Implicit Data Templates 
 PublishDate: 4/26/2011
-EntryID: 5e88aad3-9476-4c35-97c4-41e305e82518
+EntryID: Silverlight_5_Beta_da_Implicit_Data_Templates
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
+old.EntryID: 5e88aad3-9476-4c35-97c4-41e305e82518
 ---
 Silverlight 5 Beta ile beraber gelen yeni özelliklerden biri de Implicit
 Data Templates. Özelliğin güzelliğine gelmeden önce :) biraz elimizde
