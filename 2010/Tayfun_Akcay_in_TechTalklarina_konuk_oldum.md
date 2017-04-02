@@ -2,11 +2,12 @@
 FallbackID: 2498
 Title: Tayfun Akçay'ın TechTalk'larına konuk oldum ;)
 PublishDate: 3/25/2010
-EntryID: 33adf9c4-5949-4fdb-8584-148ebb1616f9
+EntryID: Tayfun_Akcay_in_TechTalklarina_konuk_oldum
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: IE 9, OData, Silverlight 4, Visual Studio 2010, Windows Phone 7, Internet Explorer, Windows Phone
+old.EntryID: 33adf9c4-5949-4fdb-8584-148ebb1616f9
 ---
 Sevgili [Tayfun Akçay](http://gunluk.tayfunakcay.com) bir süre önce
 [TechTalk](http://gunluk.tayfunakcay.com/Category/TechTalk.aspx)
