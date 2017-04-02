@@ -2,11 +2,12 @@
 FallbackID: 2455
 Title: Silverlight 4 Beta ile Commanding Yapısı
 PublishDate: 11/23/2009
-EntryID: 0c092e07-395b-41c1-ae03-e986464095d9
+EntryID: Silverlight_4_Beta_ile_Commanding_Yapisi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 4
+old.EntryID: 0c092e07-395b-41c1-ae03-e986464095d9
 ---
 Silverlight 4 Beta ile beraber gelen özelliklerden biri de Command
 yapıları. Command yapıları özellikle WPF developer'larının alışık
