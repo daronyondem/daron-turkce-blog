@@ -2,11 +2,12 @@
 FallbackID: 2493
 Title: Kahramanmaraş Maceralarım :)
 PublishDate: 2/27/2010
-EntryID: 66ecd683-6830-4374-85e9-ee981cffd81d
+EntryID: Kahramanmaras_Maceralarim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, WPF
+old.EntryID: 66ecd683-6830-4374-85e9-ee981cffd81d
 ---
 İki gündür Kahramanmaraş'tayım :) Evet dondurması ve acısı ile ünlü
 Kahramanmaraş'tan bahsediyorum. Tabi maalesef acı miktarı konusunda hala
