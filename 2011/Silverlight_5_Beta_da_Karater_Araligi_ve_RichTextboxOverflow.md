@@ -2,11 +2,12 @@
 FallbackID: 2566
 Title: Silverlight 5 Beta'da Karater Aralığı ve RichTextboxOverflow
 PublishDate: 4/23/2011
-EntryID: 2dd0c513-99ca-439d-b1aa-344f6b41246b
+EntryID: Silverlight_5_Beta_da_Karater_Araligi_ve_RichTextboxOverflow
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
+old.EntryID: 2dd0c513-99ca-439d-b1aa-344f6b41246b
 ---
 İtiraf etmem gerek ki Silverlight'ın metin gösterme konusunda
 özellikleri gerçekten çok yavaş gelişti. Richtextbox'ın çok uzun bir
