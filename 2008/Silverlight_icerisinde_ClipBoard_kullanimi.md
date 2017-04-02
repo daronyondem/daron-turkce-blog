@@ -2,11 +2,12 @@
 FallbackID: 2101
 Title: Silverlight içerisinde ClipBoard kullanımı
 PublishDate: 6/23/2008
-EntryID: 5cc7deaf-3c67-4afb-8431-d13959c57062
+EntryID: Silverlight_icerisinde_ClipBoard_kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
+old.EntryID: 5cc7deaf-3c67-4afb-8431-d13959c57062
 ---
 Silverlight uygulamaları içerisinden "**Clipboard**"a ulaşmak
 istediğinizde maalesef hazır bir altyapı ile en azından şimdilik
