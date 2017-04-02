@@ -2,11 +2,12 @@
 FallbackID: 2090
 Title: Ekşi Sözlük'te ben :)
 PublishDate: 6/13/2008
-EntryID: 54398059-9605-4396-af42-9bae71f9e144
+EntryID: Eksi_Sozlukte_ben
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 54398059-9605-4396-af42-9bae71f9e144
 ---
 Geçenlerde kim söyledi tam olarak hatırlamıyorum ama "hocam ekşisözlükte
 sana " + *birseyler* + " yazmislar" dedi :) Tam bu noktadaki *birseyler*
