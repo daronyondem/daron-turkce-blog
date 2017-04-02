@@ -2,11 +2,12 @@
 FallbackID: 1846
 Title: LOLCODE.NET
 PublishDate: 11/12/2007
-EntryID: 9ee71b5f-f9b5-49d5-801e-28827d0b677a
+EntryID: LOLCODE_NET
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 9ee71b5f-f9b5-49d5-801e-28827d0b677a
 ---
 Anında mesajlaşma programları sayesinde neredeyse her dilin yeni bir
 sürümü :) çıktı. "*Selam*" demek yerine "*slm*" yazmak bunlardan sadece
