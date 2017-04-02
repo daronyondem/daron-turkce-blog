@@ -2,11 +2,12 @@
 FallbackID: 1917
 Title: IIS 7.0 ve ASP.NET ile Gelen Yenilikler Webineri
 PublishDate: 1/12/2008
-EntryID: cb6ad9d1-16ce-4ba6-84cc-44fb172ebcda
+EntryID: IIS_7_0_ve_ASP_NET_ile_Gelen_Yenilikler_Webineri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, Webiner, IIS 7.0, ASP.NET
+old.EntryID: cb6ad9d1-16ce-4ba6-84cc-44fb172ebcda
 ---
 **14 Ocak,** Pazartesi günü saat **15.15-16.00** arasında **IIS 7.0 ve
 ASP.NET ile Gelen Yenilikler** webineri ile karşınızda olacağım. Webiner
