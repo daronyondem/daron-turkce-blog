@@ -2,11 +2,12 @@
 FallbackID: 2082
 Title: Karşınızda İbrahim Yöndem! :) Alkış?
 PublishDate: 6/10/2008
-EntryID: 1ddfc6b9-eb99-448e-8e49-4ce24d005988
+EntryID: Karsinizda_Ibrahim_Yondem_Alkis
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 1ddfc6b9-eb99-448e-8e49-4ce24d005988
 ---
 Arama motorlarından siteme gelen aramalardaki komiklikleri artık çok "uç
 noktada" örnekler olmadıkça sizlerle paylaşmıyorum. Emin olun neredeyse
