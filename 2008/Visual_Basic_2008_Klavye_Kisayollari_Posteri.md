@@ -2,11 +2,12 @@
 FallbackID: 2272
 Title: Visual Basic 2008 Klavye Kısayolları Posteri
 PublishDate: 12/11/2008
-EntryID: 7aeeb9ae-ef82-46fe-8f68-f6680294ca0a
+EntryID: Visual_Basic_2008_Klavye_Kisayollari_Posteri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Basic 2008, Visual Basic .NET
+old.EntryID: 7aeeb9ae-ef82-46fe-8f68-f6680294ca0a
 ---
 Özellikle kod yazarken mouse kullanmak zorunda kalmak pek de hoş
 olmuyor. Klavye ile başbaşa ilerlemek çok daha hızlı kod yazılmasını
