@@ -2,11 +2,12 @@
 FallbackID: 2331
 Title: ODTÜ ve Bilkent'te Silverlight ile oyun programlama seminerlerim.
 PublishDate: 3/2/2009
-EntryID: 9ce16738-e307-4785-b6ef-ab8448109f52
+EntryID: ODTU_ve_Bilkent_te_Silverlight_ile_oyun_programlama_seminerlerim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0
+old.EntryID: 9ce16738-e307-4785-b6ef-ab8448109f52
 ---
 Bugün **Microsoft Oyun Turu**'nun son ayağında **Ankara Bilkent** ve
 **ODTÜ'deydik**. XNA ve Silverlight ile Oyun programlama konularını
