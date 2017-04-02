@@ -2,11 +2,12 @@
 FallbackID: 1980
 Title: Bilişim kahramanlarının ayak sesleri
 PublishDate: 3/5/2008
-EntryID: 9e0560ce-938f-4695-a79e-8750c64a13ea
+EntryID: Bilisim_kahramanlarinin_ayak_sesleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: 
+old.EntryID: 9e0560ce-938f-4695-a79e-8750c64a13ea
 ---
 **Visual Studio 2008, Server 2008 ve SQL 2008** ürünlerini içeren
 Microsoft 2008 lansmanı **12 Mart** tarihinde **Lütfi Kırdar Kongre ve
