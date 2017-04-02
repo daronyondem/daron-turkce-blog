@@ -2,11 +2,12 @@
 FallbackID: 2406
 Title: Visual Studio 2010 Yeniliklerine bir öngezi!
 PublishDate: 9/9/2009
-EntryID: 84bb0898-3131-40df-b664-c4e252178cd7
+EntryID: Visual_Studio_2010_Yeniliklerine_bir_ongezi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Visual Studio 2010
+old.EntryID: 84bb0898-3131-40df-b664-c4e252178cd7
 ---
 Visual Studio 2010 Beta çıkalı epey oluyor. Performans açısından şu an
 için bir beklenti çok yanlış olsa da gelen yeni bazı özelliklerden
