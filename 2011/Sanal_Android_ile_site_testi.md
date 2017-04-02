@@ -1,0 +1,117 @@
+---
+FallbackID: 2696
+Title: Sanal Android ile site testi
+PublishDate: 9/13/2011
+EntryID: Sanal_Android_ile_site_testi
+IsActive: True
+Section: software
+MinutesSpent: 0
+Tags: Android, CSS, HTML, HTML5
+---
+Blogun yeni tasarımını ve yazılımını yayınladığım gün twitter üzerinden
+bazı arkadaşlar özellikle Android işletim sistemli cihazlarda tasarımla
+ilgili ilginç sorunlar yaşadıklarını bildirdiler. iPhone ve Windows
+Phone tarafında sitenin background resmindeki fixed background CSS ayarı
+dışında bir sorun gözükmüyordu :) Bu da çok hayati bir sorun olmadığı
+için pek önemsemedim fakat Android tarafında blogun durumu pek başarılı
+değil :)
+
+![Blogumun Android'deki garip
+hali!](http://cdn.daron.yondem.com/assets/2696/androidde_site.jpg)\
+*Blogumun Android'deki garip hali!*
+
+Elimde Android'li herhangi bir cihaz olmadığı için testing amacıyla
+Android tarafındaki emülatörleri bir araştıriyim istedim. Belki sizin de
+bir gün ihtiyacınız olur diyerek araştırmalarım sonucu ilerlediğim yolu
+paylaşmak istiyorum.
+
+İlk olarak makinemize **Java SE Development Kit**'i yüklememiz
+gerekiyor. Sonrasında üzerine **Android SDK**'yı da yüklersek aslında
+yükleme senaryomuz bitmiş oluyor. Bu arada aman dikkat Android SDK'yı
+C'de öyle bir yere yükleyin ki yüklediğin adresin içinde boşluk geçmesin
+:) SDK'nın böyle bir bugı varmış. Ben direk **C:\\Android** altına
+yükledim ki sorun olmasın. **Program Files** altında sıkıntı oluyor.
+Linkleri aşağıda bulabilirsiniz.
+
+1.  [Java SE Development Kit (JDK)
+    64-bit](http://download.oracle.com/otn-pub/java/jdk/6u25-b06/jdk-6u25-windows-x64.exe)
+2.  [Android SDK](http://developer.android.com/sdk/index.html)
+
+Android SDK'nın yüklemesi bitince "SDK Manager" diye bir uygulama
+açılacak. SDK Manager içerisinden sisteminize yüklenebilecek paketlerin
+bir listesi gelecektir. Ben tüm Android cihazlarına göre yeri geldiğinde
+test yapabilmek adına tüm paketleri seçtim. Açıkçası aralarında eminim
+ki gereksiz olanlar da vardır ama pek irdelemedim itiraf etmek
+gerekirse.
+
+### Android 3.2 Testi
+
+İlk olarak en güncel sürümlerden birine bakiyim istedim. Android 3.2 ile
+bir sanal makine yarattım. Bunun için SDK Manager içerisinde Virtual
+Devices tabında "New" düğmesine tıklayarak ilerliyoruz.
+
+![Android 3.2 ile sanal makine
+yaratalım.](http://cdn.daron.yondem.com/assets/2696/android32.png)\
+*Android 3.2 ile sanal makine yaratalım.*
+
+Sanal makinemizi yaratırken **Target** olarak verdiğimiz sistem işletim
+sistemi sürümü oluyor. Bu sürümler ilk SDK Manager açılırken gelen
+listeden yüklediklerinizden biri olabilir ancak. O nedenle eksik
+birşeyler varsa o yüklemelere ve downloadlara göz atmak gerek.
+Çözünürlüğümüzü ve istiyorsak SD kart miktarını da seçenek "Create AVD"
+diyip sanal makineyi yaratıyoruz.
+
+![Ekran boyutunu gerçeğe uygun
+ayarlayalım.](http://cdn.daron.yondem.com/assets/2696/android_ekranboyutu.png)\
+*Ekran boyutunu gerçeğe uygun ayarlayalım.*
+
+Sanal makineyi çalıştırmadan önce karşınıza son olarak yukarıdaki ekran
+gelecek. Burada "Scale display..." derseniz sanal makinenin
+bilgisayarınızın ekranında gerçek cihaz boyutunda gösterilmesi için
+gerekli ayarlar yapılabiliyor. Monitörünüz dpi ayarı ile inch olarak
+boyutunu girerseniz sanal makine gerçek boyutu ile ekranınıza
+gelecektir.
+
+![Blogun Android 3.2'deki durumu
+iyi.](http://cdn.daron.yondem.com/assets/2696/android32_durum.jpg)\
+*Blogun Android 3.2'deki durumu iyi.*
+
+Görüldüğü üzere Android 3.2 ile ilgili bir sorunumuz yok :) Blog sağ
+salim karşımızda. Şimdi sıra geldi diğer sürümlerdeki testleri yapmaya.
+Yeni bir sanal makine yaratarak bu sefer Target olarak 2.3 sürümünü
+verdiğimde blogumun postun en başındaki sorunla baş başa kaldığını
+gördüm. Birkaç test sonrası aşağıdaki gibi bir CSS tanımı ile blogun
+sağındaki kolonu kaldırıp sol kısmı okunabilir şekilde bırakmayı
+başardım.
+
+**[CSS]**
+
+``` {style="font-family: Consolas; font-size: 13; color: black; background: white;"}
+@media screen and (max-device-width:940px)
+{
+    #rightbadge
+    {
+        display:none;
+    }
+    #place
+    {
+        margin-top:5px;
+        position:absolute; 
+        left:0px; 
+        width:700px;
+        height:auto;
+        margin-left:10px; 
+    }
+}
+```
+
+Burada özellikle önemli olan kısım **max-device-width** şeklinde css
+media query'si. Böylece artık sorunumuzu da çözmüş olduk :)
+
+![Android 2.3'de blogun düzeltilmiş
+hali.](http://cdn.daron.yondem.com/assets/2696/android23_durum.jpg)\
+*Android 2.3'de blogun düzeltilmiş hali.*
+
+Görüşmek üzere!
+
+
