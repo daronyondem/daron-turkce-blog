@@ -1,13 +1,12 @@
----
+﻿---
 FallbackID: 2702
 Title: Dertli Kerem'in ölen teknoloji gerilimleri
 PublishDate: 9/19/2011
-EntryID: Dertli_Keremin_olen_teknoloji_gerilimleri
+EntryID: Dertli_Keremin_teknoloji_gerilimleri
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.5, Dertli Kerem, HTML5, JavaScript, Metro UI, Silverlight 5, Windows 8, Windows Phone, Windows Phone 7, WinRT, WPF
-old.EntryID: Dertli_Keremin_teknoloji_gerilimleri
 ---
 Vouw 2010 yılında hiç [Dertli
 Kerem](http://daron.yondem.com/tr/tag/Dertli_Kerem) yazısı yazmamışım.

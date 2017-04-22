@@ -1,13 +1,12 @@
----
+﻿---
 FallbackID: 2798
 Title: Microsoft OpenDoor ile Kuwait'teydim.
 PublishDate: 2/17/2012
-EntryID: Microsoft_OpenDoor_ile_Kuwaitteydim
+EntryID: Microsoft_OpenDoor_ile_Kuwait_teydim
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: HTML5, IE 10, Internet Explorer, Windows 8, Windows Azure, Windows Phone, Windows Phone 7.5
-old.EntryID: Microsoft_OpenDoor_ile_Kuwait_teydim
 ---
 Bu haftayı Kuveyt'de Microsoft OpenDoor konferansında geçirdim :) Bu
 aralar yine "leyleği havada görmüş" durumdayım. Geçen
