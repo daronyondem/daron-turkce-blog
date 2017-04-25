@@ -1,5 +1,5 @@
 ﻿---
-Title: Sabancı Mesleki ve Teknik Anadolu Lisesi Ziyaretim
+Title: Samsun 19 Mayıs Üniversitesi Kariyer Günleri
 EntryID: Samsun-Kariyer-Gunleri
 PublishDate: 4/22/2017
 IsActive: True
