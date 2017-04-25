@@ -38,7 +38,7 @@ projeye sağ tuş ile tıklayarak gelen menüden "*Add new Item*" dedikten
 sonra "*AJAX-Enabled WCF Service*" seçeneğini seçmemiz gerekiyor.
 
 ![Projemize yeni bir WCF servisi
-ekliyoruz.](http://cdn.daron.yondem.com/assets/1871/01122007_1.png)\
+ekliyoruz.](media/1871/01122007_1.png)
 *Projemize yeni bir WCF servisi ekliyoruz.*
 
 Projemize yukarıdaki şekli ile bir WCF servisi eklediğimizde VWD
