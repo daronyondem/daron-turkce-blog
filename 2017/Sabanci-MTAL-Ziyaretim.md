@@ -1,4 +1,4 @@
----
+﻿---
 Title: Sabancı Mesleki ve Teknik Anadolu Lisesi Ziyaretim
 EntryID: Sabanci-MTAL-Ziyaretim
 PublishDate: 4/6/2017
@@ -14,5 +14,3 @@ Dün İzmit'te **Sabancı Mesleki ve Teknik Anadolu Lisesi**'ni ziyaret ettim. Y
 Hocalarımızın karşılamasından tutun, öğrenci kardeşlerimin ilgisine kadar süper bir gündü :) Liseli olmak güzel, lisede hoca olmak zor diyerek bu blog postu kısa tutuyorum :) Sercan'ın eline sağlık, bu azmiyle devam etmesi dileği ile ;)
 
 Görüşürüz.
-
-Sabanci-MTAL-Ziyaretim
