@@ -42,7 +42,7 @@ Global deployment demişken, CosmosDB tarafında bir datacenter'a deployment yap
 
 SLA'e geri dönecek olursak, o taraftaki ilginç detaylardan biri Throughput ve Latency ile ilgili. Tüm okumalarda %99 ihtimalle 10ms altında, %50 ihtimalle 2ms altında cevap verme garantisi veriyor CosmosDB. Aynı şekilde Indekslenmiş alanlara yapılan 1KB boyutundaki yazmalarda ise 15ms (%99) ve 6ms (%50) gibi bir hız garantisi söz konusu. Tabi bunlar sadece asgari limitler, genelde bunlardan çok daha hızlı tepki alabileceğini söylemem gerek. *Peki Request sayısı artarsa hala garanti geçerli mi? Neye göre bu garanti?* gibi aklınıza onlarca soru geldiğinden eminim. O noktada da CosmosDB'nin fiyatlandırmasına göz atmamız gerek ki durumu anlayalım.
 
-![Global Deploment](media/Azure-Cosmos-DB-101/Latency.png)
+![Global Deploment](media/Azure-Cosmos-DB-101/latency.png)
 
 ### Fiyatlandırma
 
