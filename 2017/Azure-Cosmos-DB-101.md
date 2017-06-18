@@ -12,7 +12,7 @@ Tags: Azure Cosmos DB
 
 Aslına bakarsanız CosmosDB çok yeni bir ürün sayılmaz. Eğer hali hazırda **DocumentDB** kullananlarınız varsa Azure hesaplarındaki tüm DocumentDB hesaplarının Build 2017'de duyurulmadan önceki gece bir anda CosmosDB hesabına dönüştüğünü fark etmiş olabilirsiniz. İşin özünde CosmosDB aslında gelişmiş bir DocumentDB. *"Eeee sadece pazarlama için adını mı değiştirdiler?"* Bu sefer hayır :) DocumentDB adında da anlaşılacağı üzere buram buram Document Type NoSQL kokuyor. Oysa artık DocumentDB Data-Model olarak **sadece document type değil, key-value, tabular ve graph desteker durumda**. Tabi durum böyle olunca ürünün adını DocumentDB bırakmak pek doğru olmazdı. O nedenle yeni adı ile CosmosDB karşımızda... 
 
-Her ne kadar yeni bir ürün gibi gözükse de aslında 2012'den itibarin Microsoft'un Office, Skype, Active Directory, Xbox ve MSN hizmetlerinin kullandığı bir ürün var CosmosDB'nin arkasında. 2010'da ilk protitipi'nin testleri yapılmış. Bugün CosmosDB **Ring 0** hizmetlerden biri, yani herhangi bir Azure DataCenter'ı açılırsa CosmosDB'nin hizmet olarak orada bulunması şart, aksi halde DataCenter devreye alınamıyor :) 
+Her ne kadar yeni bir ürün gibi gözükse de aslında 2010 yılında başlayan Project Florence ile Microsoft'un Office, Skype, Active Directory, Xbox ve MSN hizmetlerinin kullandığı bir ürün var CosmosDB'nin arkasında. 2014-2015'te bu ürün DocumentDB olarak şekilleniyor ve dışarıya açılıyor. Bugün CosmosDB **Ring 0** hizmetlerden biri, yani herhangi bir Azure DataCenter'ı açılırsa CosmosDB'nin hizmet olarak orada bulunması şart, aksi halde DataCenter devreye alınamıyor :) 
 
 ![Azure Cosmos DB'de Multi Model ve Multi API](media/Azure-Cosmos-DB-101/cosmos-db.jpg)
 
