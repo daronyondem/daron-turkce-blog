@@ -1,9 +1,9 @@
----
+﻿---
 Title: 4 RD Fazla Mesai'de
 PublishDate: 6/21/2017
 IsActive: True
 Section: software
-MinutesSpent: 105
+MinutesSpent: 10
 Tags: Serverless, Azure Functions
 ---
 
