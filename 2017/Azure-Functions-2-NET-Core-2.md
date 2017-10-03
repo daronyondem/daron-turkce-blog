@@ -9,7 +9,7 @@ Tags: Serverless, Azure Functions, .NET Core
 
 Visual Studio 2017 yüklediyseniz Azure Functions araçlarının artık nihai olgunluğa geldiğini görmüşsünüzdür :) Aslında o konuda da bir yazı borcum var size ama **Preview seven** bir insan olduğum için hali hazırdaki araçlar olgunlaşınca yine bir Preview buldum kendime, hatta bu sefer "[Early Preview](https://github.com/Azure/azure-webjobs-sdk-script/wiki/Azure-Functions-runtime-2.0-known-issues)". Bu yazıda Azure Functions runtime 2.0 üzerinde .NET Core 2 çalıştıracağız, aslında bakarsanız biz **.NET Standard 2.0** ile ilerleyeceğiz fakat Azure Functions Runtime 2.0 Preview kullanacak olursak alt tarafta .NET Core 2'ye yaslanma şansımız oluyor. Bu durum özellikle cross-platform development yapanlar için önemli. Mac'te localde Azure Functions kullanıp C# yazacağım diyenlerden bahsediyorum :) Eğer platform derdiniz yoksa rahat rahat .NET Framework 4.6.1 ve .NET Standard 2 ile ilerleyebilirsiniz. Bu durumda aslına bakarsanız Azure Functions Runtime 2 Preview kullanmanıza da gerek kalmaz. Fakat .NET Core 2 kullanmasanız da [Microsoft.NET.Sdk.Functions](https://www.nuget.org/packages/Microsoft.NET.Sdk.Functions) şu an .NET Standard 2 desteklemediği için functions.json dosyasını elle yaratmamız gerekecek. 
 
-## Azure'da Functions 2.0 Runtime
+### Azure'da Functions 2.0 Runtime
 
 Functions 2.0 Runtime her ne kadar "Early Preview" olsa da aslında şu an Azure'da var :) Yeni bir Function App yarattıktan sonra **"Application Settings"** e gidip "~1" olan değeri **"beta"** olarak değiştirmeniz gerekiyor. 
 
@@ -19,7 +19,7 @@ Bu işlemi tamamlayıp ayarları kaydettiğiniz aşağıdaki gibi bir uyarı ba�
 
 ![Azure Functions Runtime 2.0 devreye girdi.](media/Azure-Functions-2-NET-Core-2/azure-functions-beta-2.jpg)
 
-## .NET Standard 2.0 ile Azure Function  
+### .NET Standard 2.0 ile Azure Function  
 
 Şu an güncel tooling bu senaryoyu desteklemediği için herşeyi elle yapmamız gerekecek. İlk adımda **Visual Studio 2017 15.3.5** kullanarak bir **.NET Standard 2 Class Library** yaratacağız. Bunu yapmadan önce sisteminizde [.NET Core 2](https://www.microsoft.com/net/core#windowscmd) yüklü olduğundan emin olun. Projeyi yarattığınız gibi .NET Standard 2.0'da olup olmadığını bir kontrol etmekte fayda var. Sonrasında ilk iş [Microsoft.Azure.WebJobs paketinin 3.0.0-beta3](https://www.nuget.org/packages/Microsoft.Azure.WebJobs/3.0.0-beta3)'ünü yüklemek.
 
@@ -52,7 +52,6 @@ namespace Functions2
             {
                 return new OkObjectResult($"Merhaba {value.FirstOrDefault()}");
             }
-
             return new BadRequestObjectResult("Bad Request");
         }
     }
