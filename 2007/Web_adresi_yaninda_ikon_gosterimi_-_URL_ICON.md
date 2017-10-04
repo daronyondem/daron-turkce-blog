@@ -34,30 +34,12 @@ düzenlenmiş olması şart. Yükleme işlemini de tamamladıktan sonra son
 olarak aşağıdaki gibi kodumuzu **HTML** sayfanızın **Header** bölümüne
 eklemelisiniz.
 
-<span style="color: blue;"> \<</span><span
-style="color: rgb(163, 21, 21);">head</span><span
-style="color: blue;">\></span>
-
-\
- <span> <span>  </span> <span style="color: blue;"> \<</span><span
-style="color: rgb(163, 21, 21);">link</span> <span style="color: red;">
-rel</span><span style="color: blue;">="shortcut icon"</span> <span
-style="color: red;"> href</span><span
-style="color: blue;">="/favicon.ico"</span> <span style="color: blue;">
-/\></span></span>
-
-\
- <span> <span>  </span> <span style="color: blue;"> \<</span><span
-style="color: rgb(163, 21, 21);">title</span><span
-style="color: blue;">\></span>İkon Sayfam<span
-style="color: blue;">\</</span><span
-style="color: rgb(163, 21, 21);">title</span><span
-style="color: blue;">\></span></span>
-
-\
- <span style="color: blue;"> \</</span><span
-style="color: rgb(163, 21, 21);">head</span><span
-style="color: blue;">\></span>
+```html
+<head>
+	<link rel="shortcut icon" href="favicon.ico" />
+	<title>İkon Sayfam <\title>
+<\head>
+```
 
 Kolay gelsin ;)
 
