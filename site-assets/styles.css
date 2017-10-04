@@ -1,13 +1,13 @@
 
-@media all {body {font-size: 24px;}}
-@media all and (max-width:1000px){body {font-size: 24px;}}
-@media all and (max-width:960px){body {font-size: 23px;}}
-@media all and (max-width:920px){body {font-size: 22px;}}
-@media all and (max-width:880px){body {font-size: 21px;}}
-@media all and (max-width:840px){body {font-size: 20px;}}
-@media all and (max-width:800px){body {font-size: 19px;}}
-@media all and (max-width:760px){body {font-size: 18px;}}
-@media all and (max-width:720px){body {font-size: 17px;}}
+@media all {body {font-size: 16px;}}
+@media all and (max-width:1000px){body {font-size: 16px;}}
+@media all and (max-width:960px){body {font-size: 16px;}}
+@media all and (max-width:920px){body {font-size: 16px;}}
+@media all and (max-width:880px){body {font-size: 16px;}}
+@media all and (max-width:840px){body {font-size: 16px;}}
+@media all and (max-width:800px){body {font-size: 16px;}}
+@media all and (max-width:760px){body {font-size: 16px;}}
+@media all and (max-width:720px){body {font-size: 16px;}}
 @media all and (max-width:680px){body {font-size: 16px;}}
 @media all and (max-width:640px){body {font-size: 15px;}}
 @media all and (max-width:600px){body {font-size: 14px;}}
