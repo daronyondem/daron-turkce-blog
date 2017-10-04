@@ -30,7 +30,7 @@ de "Search Engine Optimization" adında tab ile karşılaşıyor olmanız
 gerekir. Söz konusu tab altında üç farklı komut göreceksiniz.
 
 ![IIS Manager içerisinde yeni
-seçenekler.](http://cdn.daron.yondem.com/assets/2366/03062009_1.jpg)\
+seçenekler.](media/IIS_7_Search_Engine_Optimization_Toolkit/03062009_1.jpg)\
 *IIS Manager içerisinde yeni seçenekler.*
 
 Gelin şimdi bu bölümlerin ne işe yaradıklarını tek tek inceleyerek bu
@@ -55,7 +55,7 @@ başına analiz için söz konusu adreslerden ne kadar verinin
 alınabileceğini sınırlayabilirsiniz.
 
 ![SEO Toolkit'ten ilk
-rapor.](http://cdn.daron.yondem.com/assets/2366/03062009_2.gif)\
+rapor.](media/IIS_7_Search_Engine_Optimization_Toolkit/03062009_2.gif)\
 *SEO Toolkit'ten ilk rapor.*
 
 Analiz bittiğinde ilk karşılaştığınız rapor en sık karşılaşılan
@@ -85,7 +85,7 @@ oluşturduğumuz Web Analizi'nde yakalanan adresler üzerinden de bu
 ayarları yapabiliyor olmamız.
 
 ![Robots.txt dosyasını IIS Manager üzerinden
-yaratalım.](http://cdn.daron.yondem.com/assets/2366/03062009_3.gif)\
+yaratalım.](media/IIS_7_Search_Engine_Optimization_Toolkit/03062009_3.gif)\
 *Robots.txt dosyasını IIS Manager üzerinden yaratalım.*
 
 **Sitemaps and SiteMap Indexes**

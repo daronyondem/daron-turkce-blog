@@ -18,7 +18,7 @@ sertifikasyon ve ünvanlandırma tekniğini değiştirdiğini görmüştük. Ayn
 durum sistem uzmanlığı dalında da geçerli. **Artık MCSE veya MCSA yok!**
 
 ![Windows Server 2008
-sertifikasyonları.](http://cdn.daron.yondem.com/assets/1924/19012008_1.jpg)\
+sertifikasyonları.](media/Windows_Server_2008_sertifikasyonlari/19012008_1.jpg)\
 *Windows Server 2008 sertifikasyonları.*
 
 Aslında durum "unvan pazarı" sorununu ortadan kaldırıyor gibi gözükse de
@@ -31,7 +31,7 @@ competency'leri ile beraber unvanlarını da kullanmak zorunda kalacaklar
 ki bu durum aslında daha da kalabalığa neden olacak.
 
 ![Server 2008 ailesi
-sınavları.](http://cdn.daron.yondem.com/assets/1924/19012008_2.jpg)\
+sınavları.](media/Windows_Server_2008_sertifikasyonlari/19012008_2.jpg)\
 *Server 2008 ailesi sınavları.*
 
 Sınavlar maalesef daha yayında değil. Yayına giren sınavları ve durumu
@@ -40,11 +40,11 @@ adresinden takip edebilirsiniz. Her zamanki gibi eski sertifikasyon
 sahiplerine upgrade sınavları da sunuluyor.
 
 ![MCSA'den MCITP:Server Administrator'a upgrade
-sınavları.](http://cdn.daron.yondem.com/assets/1924/19012008_3.jpg)\
+sınavları.](media/Windows_Server_2008_sertifikasyonlari/19012008_3.jpg)\
 *MCSA'den MCITP:Server Administrator'a upgrade sınavları.*
 
 ![MCSE'den MCITP:Enterprise Administrator'a upgrade
-sınavları.](http://cdn.daron.yondem.com/assets/1924/19012008_4.jpg)\
+sınavları.](media/Windows_Server_2008_sertifikasyonlari/19012008_4.jpg)\
 *MCSE'den MCITP:Enterprise Administrator'a upgrade sınavları.*
 
 Umarım yakında Visual Studio 2008 tarafı da netleşir ve okullu

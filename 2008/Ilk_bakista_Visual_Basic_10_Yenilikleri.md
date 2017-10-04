@@ -15,7 +15,7 @@ teknolojilerine yön verme ve inceleme adına heyecanlı günler yaşadığımı
 itiraf edebilirim.
 
 ![Visual Studio 2008 ve .NET Framework 4.0 yeni
-logoları.](http://cdn.daron.yondem.com/assets/2232/30102008_1.jpg)\
+logoları.](media/Ilk_bakista_Visual_Basic_10_Yenilikleri/30102008_1.jpg)\
 *Visual Studio 2008 ve .NET Framework 4.0 yeni logoları.*
 
 Tüm bu yenilikler arasında tabi ki Visual Basic'in de artık 10'uncu
@@ -135,7 +135,7 @@ tanımında değişkenin bir Array olduğunu veya ne Array'i olduğunu
 belirtmenize gerek kalmıyor.
 
 ![Type Inference'ın bu kadarı
-:)](http://cdn.daron.yondem.com/assets/2232/30102008_2.jpg)\
+:)](media/Ilk_bakista_Visual_Basic_10_Yenilikleri/30102008_2.jpg)\
 *Type Inference'ın bu kadarı :)*
 
 Unutmayın bu şekilde tanımlamalar performans kaybına neden olmaz.

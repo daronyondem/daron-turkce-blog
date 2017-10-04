@@ -18,7 +18,7 @@ ile karşılaşıyoruz. Bu sorunların detaylarına inerek eğitim boyunca
 ASP.NET hosting yaparken nelere dikkat edilmesi gerektiğine değindim.
 
 ![Microsoft Hosting Çözümleri Eğitimi,
-İzmir](http://cdn.daron.yondem.com/assets/2161/21082008_2.jpg)\
+İzmir](media/Microsoft_Hosting_Cozumleri_Egitimi_Izmir/21082008_2.jpg)\
 *Microsoft Hosting Çözümleri Eğitimi, İzmir*
 
 Seminerlerde özellikle bana "*ASP.NET 3.5 destekli hosting nasıl
@@ -35,6 +35,6 @@ tarafındaki Mime Type ayarlarından ve detaylarından bahsettik.
 Eğitimde kullandığım sunumu aşağıdan indirebilirsiniz.
 
 [Hosting Çözümleri Eğitimi Sunumu - 21082008\_1.pptx (206,66
-KB)](http://cdn.daron.yondem.com/assets/2161/21082008_1.pptx)
+KB)](media/Microsoft_Hosting_Cozumleri_Egitimi_Izmir/21082008_1.pptx)
 
 

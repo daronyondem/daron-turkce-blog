@@ -15,7 +15,7 @@ olan "**IE10 ile HTML5 Dünyasında Bir Gezinti**" konusunu işledik. Milli
 maça rağmen :) 70 kişiyi bulmuşuz. Katılan herkese çok teşekkürler.
 
 ![Silverlight Geliştiricileri için Windows Phone 7.5'e Giriş
-Webineri](http://cdn.daron.yondem.com/assets/2727/ie10_dp.jpg)\
+Webineri](media/Internet_Explorer_10_ve_HTML5_Video/ie10_dp.jpg)\
 Webiner kaydını indirmek için
 [SeminerTV'ye](http://daron.yondem.com/tr/seminertv/) uğrayın!
 
@@ -24,7 +24,7 @@ Webiner kaydını yine başarılı bir şekilde almayı başardım :) Hemen
 Webiner boyunca incelediğimiz örnek kodları da aşağıda paylaşıyorum.
 
 [IE10 HTML5 Örnekleri - IE10\_DP\_Ornekler.zip (1.64
-MB)](http://cdn.daron.yondem.com/assets/2727/IE10_DP_Ornekler.zip)
+MB)](media/Internet_Explorer_10_ve_HTML5_Video/IE10_DP_Ornekler.zip)
 
 Bu webinerde **Windows 8 Developer Preview Build 8102** ve\
 **Internet Explorer 10 Developer Preview 10.0.8102** kullanılmıştır.

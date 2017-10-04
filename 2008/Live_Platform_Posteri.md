@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: live.com
 old.EntryID: 1bf567bd-c4b1-4d47-a624-0d003e7f2db6
 ---
-![](http://cdn.daron.yondem.com/assets/1936/30012008_2.jpg)Biz
+![](media/Live_Platform_Posteri/30012008_2.jpg)Biz
 yazılımcılar poster sevdalarını ancak aşağıdaki gibi geek posterler ile
 bastırabiliyorlar. Yazılımcı olup da evinde manken posteri olan yoktur
 herhalde :) Ayrıca eşi olanların da rahatlıkla kullanabileceği bir

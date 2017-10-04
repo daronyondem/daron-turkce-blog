@@ -21,7 +21,7 @@ açarak aslında apayrı işler yapabiliyoruz. Aynı program içerisinde
 program kullanmaktan çok da farklı olmuyor.
 
 ![Internet Explorer içerisinden farklı tablar
-taskbarda...](http://cdn.daron.yondem.com/assets/2388/12082009_1.jpg)\
+taskbarda...](media/Windows_7_icerisinde_Taskbar_Thumbnailleri_yonetmek/12082009_1.jpg)\
 *Internet Explorer içerisinden farklı tablar taskbarda...*
 
 Şöyle bir düşünsek acaba bizim de hazırladığımız programlarda
@@ -193,7 +193,7 @@ artık **AddThumbnailPreview** ile **TabbedThumbnail** 'imizi taskbara
 ekleyebiliriz.
 
 ![Tek uygulama, taskbarda iki
-thumbnail!](http://cdn.daron.yondem.com/assets/2388/12082009_2.jpg)\
+thumbnail!](media/Windows_7_icerisinde_Taskbar_Thumbnailleri_yonetmek/12082009_2.jpg)\
 *Tek uygulama, taskbarda iki thumbnail!*
 
 Yukarıdaki şekli ile uygulamamızdaki iki farklı resim için de
@@ -433,6 +433,6 @@ style="color: #2b91af;">Canvas</span>.SetZIndex(Resim2, 11);
         }
 
 [Örneklere ait kaynak kodlar - 12082009\_3.rar (3,23
-MB)](http://cdn.daron.yondem.com/assets/2388/12082009_3.rar)
+MB)](media/Windows_7_icerisinde_Taskbar_Thumbnailleri_yonetmek/12082009_3.rar)
 
 

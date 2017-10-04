@@ -19,7 +19,7 @@ içerisinde Relay Services bulunuyor. Kullanımı da epey kolay aslında
 bakarsanız.
 
 ![Service Bus Relay Services
-Mimarisi](http://cdn.daron.yondem.com/assets/2840/servicebus_relay.gif)
+Mimarisi](media/Service_Bus_Relay_Services/servicebus_relay.gif)
 
 Yukarıdaki manzarada da görebileceğiniz üzere şirketinizde bulunan
 FireWall ve NAT arkasındaki bir servisi alıp dışarıya açma işini
@@ -29,7 +29,7 @@ için önce bir Azure ortamında kendimize "Service Bus" endpointi
 yaratmamız gerek.
 
 ![Service Bus endpointimizi
-yaratırken.](http://cdn.daron.yondem.com/assets/2840/servicebus_relay2.png)\
+yaratırken.](media/Service_Bus_Relay_Services/servicebus_relay2.png)\
 *Service Bus endpointimizi yaratırken.*
 
 Endpoint hazır olduktan sonra hemen en alttaki "Access Key" düğmesine
@@ -46,7 +46,7 @@ görebileceğiniz üzere basit bir "Service Bus" araması istediğimiz
 kütüphaneyi bulmak için yeterli.
 
 ![Service Bus kütüphanesi
-Nuget'te.](http://cdn.daron.yondem.com/assets/2840/servicebus_relay3.png)\
+Nuget'te.](media/Service_Bus_Relay_Services/servicebus_relay3.png)\
 *Service Bus kütüphanesi Nuget'te.*
 
 ### Mutfağa geçelim....
@@ -119,7 +119,7 @@ herşey eskisi gibi devam ediyor. Uygulamalarımız eskisi gibi fakat Relay
 Services üzerinden giderek uzak noktadaki bir servisi kullanabiliyorlar.
 
 ![Azure portalında gözüken
-bağlantılar.](http://cdn.daron.yondem.com/assets/2840/servicebus_relay4.png)\
+bağlantılar.](media/Service_Bus_Relay_Services/servicebus_relay4.png)\
 *Azure portalında gözüken bağlantılar.*
 
 Son olarak yukarıda azure portalı içerisinde son manzarayı da

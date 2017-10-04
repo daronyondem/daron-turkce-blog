@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: Expression Studio, Silverlight, Webiner
 old.EntryID: 1bbf70f5-cd3d-4150-a381-5a30f4b420b3
 ---
-![](http://cdn.daron.yondem.com/assets/1824/nedirtv_logo.png)Silverlight
+![](media/Expression_Studio_ve_Silverlight_Gorsel_Ders/nedirtv_logo.png)Silverlight
 uygulamaları geliştirirken **Expression Studio** içerisinde yer alan,
 faydalanabileceğimiz birçok yazılım bulunuyor. Expression Studio
 yazılımları ile Silverlight uygulamalarının ilişkilerini incelediğimiz

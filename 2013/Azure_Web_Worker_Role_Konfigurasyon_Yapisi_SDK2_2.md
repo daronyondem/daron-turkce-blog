@@ -14,7 +14,7 @@ gösterir. Peki Azure projesi içerisindeki bu diğer dosyaların anlamı ne?
 İşte şimdi bu soruyu cevaplayacağız :)
 
 ![Solution Explorer'daki config dosyaları bize
-bakıyor...](http://cdn.daron.yondem.com/assets/2879/webworker1.gif)\
+bakıyor...](media/Azure_Web_Worker_Role_Konfigurasyon_Yapisi_SDK2_2/webworker1.gif)\
 *Solution Explorer'daki config dosyaları bize bakıyor...*
 
 Azure projenizi yarattığınız anda hemen bir **csdef** ve iki **cscfg**
@@ -406,7 +406,7 @@ bahsettiğimiz ayarların bazılarını düzenleyebilmenizi sağlayacak bir GUI
 gelecektir.
 
 ![Visual Studio içerisinden
-konfigürasyonlar.](http://cdn.daron.yondem.com/assets/2879/webworker2.gif)\
+konfigürasyonlar.](media/Azure_Web_Worker_Role_Konfigurasyon_Yapisi_SDK2_2/webworker2.gif)\
 *Visual Studio içerisinden konfigürasyonlar.*
 
 Yukarıdaki ekran görüntüsünde gördüklerimize hızlıca göz atalım. Bazları

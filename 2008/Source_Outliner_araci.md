@@ -15,7 +15,7 @@ aslında tüm nesnelerin bir listesini tutan bir pencere olsa da oradan
 takip etsek diye hayal kuruyorsanız :) hayalleriniz gerçek oluyor.
 
 ![Source Outliner
-Penceresi](http://cdn.daron.yondem.com/assets/1956/12022008_1.png)\
+Penceresi](media/Source_Outliner_araci/12022008_1.png)\
 *Source Outliner Penceresi*
 
 **Source Outliner** aracını aşağıdaki adresten bilgisayarınıza indirip

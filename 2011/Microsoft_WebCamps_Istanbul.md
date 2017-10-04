@@ -16,7 +16,7 @@ ettim :) 5 dakikalık bir gecikmeyle de olsa WebCamps etkinliği güzel
 başlayıp güzel bitti diyebilirim.
 
 ![Microsoft WebCamps
-Istanbul](http://cdn.daron.yondem.com/assets/2545/01022011_1.jpg)\
+Istanbul](media/Microsoft_WebCamps_Istanbul/01022011_1.jpg)\
 *Microsoft WebCamps Istanbul*
 
 WebCamps serisinin İstanbul ayağı da

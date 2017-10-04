@@ -17,7 +17,7 @@ makinelerinizde eminim ki Visual Studio'dan Expression Blend'in
 Silverlight 5 destekleyen sürümüne geçmek isteyeceksiniz.
 
 ![Expression Blend for Silverlight 5'e nasıl
-bağlanırız?](http://cdn.daron.yondem.com/assets/2560/16042011_2.png)\
+bağlanırız?](media/Open_in_Expression_Blend_Silverlight_5_Sorunu/16042011_2.png)\
 *Expression Blend for Silverlight 5'e nasıl bağlanırız?*
 
 Bunu gerçekleştirmenin yolu biraz Registry'ye bulaşmak. Söz konusu
@@ -34,6 +34,6 @@ hayatımıza ;)
 
 ["Open in Expression Blend for Silverlight 5" Registry Dosyaları -
 16042011\_1.rar (1,61
-KB)](http://cdn.daron.yondem.com/assets/2560/16042011_1.rar)
+KB)](media/Open_in_Expression_Blend_Silverlight_5_Sorunu/16042011_1.rar)
 
 

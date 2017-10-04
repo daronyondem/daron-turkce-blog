@@ -285,7 +285,7 @@ görebilirsiniz. Hemen herhangi bir kontrole ataçlayarak sağ tarafta da
 ayarladığımız özellikleri inceleyebilirsiniz.
 
 ![Blend içerisinde kendi
-Behavior'ımız.](http://cdn.daron.yondem.com/assets/2394/21082009_1.png)\
+Behavior'ımız.](media/Silverlight_3_0_icerisinde_kendi_Behaviorlarinizi_yazmanin_yolu/21082009_1.png)\
 *Blend içerisinde kendi Behavior'ımız.*
 
 Aşağıdaki XAML koduna baktığımızda ise iki farklı XML NameSpace'i
@@ -397,6 +397,6 @@ yazılımcılar olarak sizin iş yükünüzü de azaltıyor.
 Hepinize kolay gelsin ;)
 
 [Örneğe ait kaynak kodlar - 21082009\_2.rar (47,29
-KB)](http://cdn.daron.yondem.com/assets/2394/21082009_2.rar)
+KB)](media/Silverlight_3_0_icerisinde_kendi_Behaviorlarinizi_yazmanin_yolu/21082009_2.rar)
 
 

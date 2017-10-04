@@ -15,7 +15,7 @@ görseli birazdan bahsedeceğim bir Microsoft posterinde yakaladım. Bence
 herşeyi açıklıyor.
 
 ![.NET Framework sürümleriyle gelen yeni
-özellikler.](http://cdn.daron.yondem.com/assets/1839/05112007_1.png)\
+özellikler.](media/NET_Framework_surumleri_arasindaki_farklar_ve_surpriz_poster/05112007_1.png)\
 *.NET Framework sürümleriyle gelen yeni özellikler.*
 
 .NET Framework 3.0 ile beraber zaten tanıdığımız 2.0 sürümüne WPF, WCF,

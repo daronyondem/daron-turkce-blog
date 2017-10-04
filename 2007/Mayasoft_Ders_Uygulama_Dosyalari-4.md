@@ -15,6 +15,6 @@ aşağıdaki linkten indirebilirsiniz. Uygulamayı sonlandırmadığımız için
 dosyaları indirerek çalışmaya haftaya kadar devam edebilirsiniz.
 
 [02052007\_1.rar - Ders Uygulama Dosyaları (354.19
-KB)](http://cdn.daron.yondem.com/assets/1739/02052007_1.rar)
+KB)](media/Mayasoft_Ders_Uygulama_Dosyalari-4/02052007_1.rar)
 
 

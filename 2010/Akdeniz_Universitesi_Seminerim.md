@@ -21,7 +21,7 @@ yaptı hepmize ;) Her zamanki gibi çok eğlenceli bir gündü özellikle
 sanabiliyorsunuz :)
 
 ![Akdeniz Üniversitesi
-Seminerim](http://cdn.daron.yondem.com/assets/2508/06042010_3.jpg)\
+Seminerim](media/Akdeniz_Universitesi_Seminerim/06042010_3.jpg)\
 *Akdeniz Üniversitesi Seminerim*
 
 Etkinlikte emeği geçen tüm öğrenci kardeşlerime ve tabi ki bizleri gün

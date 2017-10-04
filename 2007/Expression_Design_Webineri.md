@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: Expression Design, Webiner
 old.EntryID: e23aa671-1d9d-4ad2-8030-3fad8a2a7746
 ---
-**![](http://cdn.daron.yondem.com/assets/1848/expression_design_logo.png)16
+**![](media/Expression_Design_Webineri/expression_design_logo.png)16
 Kasım, Cuma** günü saat **15.15-16.00** arasında **Expression Design**
 webineri ile tekrar karşınızda olacağım. Webiner süresince Expression
 Design ile beraber gelen vektörel çizim araçlarını, katmanlı çalışma

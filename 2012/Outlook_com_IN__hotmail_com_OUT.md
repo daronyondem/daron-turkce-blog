@@ -26,7 +26,7 @@ tavsiye ederim. Böylece ileride "XX45023" gibi saçma sapan e-mailler
 almak zorunda kalmazsınız :)
 
 ![Yeni outlook.com'un metro
-arayüzü.](http://cdn.daron.yondem.com/assets/2815/outlook2.png)
+arayüzü.](media/Outlook_com_IN__hotmail_com_OUT/outlook2.png)
 *Yeni outlook.com'un metro arayüzü.*
 
 Ad-soyad ikilisine göre adrese el koymanın ötesinde ben yeni Metro
@@ -39,7 +39,7 @@ klasörlerde toplayabiliyorsunuz. Bu özellikle ad.soyad ve adsoyad gibi
 alternatifleri beraber almak isteyenlerin işine yarayacaktır.
 
 ![Alias almak için ayarlara
-geçebilirsiniz.](http://cdn.daron.yondem.com/assets/2815/outlook1.png)
+geçebilirsiniz.](media/Outlook_com_IN__hotmail_com_OUT/outlook1.png)
 *Alias almak için ayarlara geçebilirsiniz.*
 
 Yukarıdaki ekran görüntüsündeki komut ile ayarlara geçtikten sonra

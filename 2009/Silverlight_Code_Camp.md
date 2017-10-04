@@ -15,7 +15,7 @@ aldım. Bu süreçte tabi ki çok da eğleceli bir beş gün geçirme şansım
 oldu.
 
 ![Silverlight Code Camp,
-KKTC](http://cdn.daron.yondem.com/assets/2398/01092009_5.jpg)\
+KKTC](media/Silverlight_Code_Camp/01092009_5.jpg)\
 *Silverlight Code Camp, KKTC*
 
 Farklı ülkelerden katılımcıların bulunduğu bu uluslararası eğitimde

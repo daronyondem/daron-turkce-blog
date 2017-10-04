@@ -13,7 +13,7 @@ INETA tarafındaki aktiviteleri duyurdukça gelen yorumlar arasında
 sürekli "*İzmir'e de gelin hocam*" serzenişleri oluyor. Geliyoruz! :)
 
 ![INETA EGE Hit
-karşınızda.](http://cdn.daron.yondem.com/assets/2289/27122008_1.jpg)\
+karşınızda.](media/INETA_EGE_HIT/27122008_1.jpg)\
 *INETA EGE Hit karşınızda.*
 
 Programımız yoğun, her gün üç ayrı oturumumuz var. **10-11 Ocak** hafta
@@ -25,6 +25,6 @@ Duyuruyu bloguna koymak isteyenlere bir de banner hazırladık ;) Haydi
 bakalım Ege ;)
 
 ![INETA EGE
-HIT!](http://cdn.daron.yondem.com/assets/2289/27122008_2.gif)
+HIT!](media/INETA_EGE_HIT/27122008_2.gif)
 
 

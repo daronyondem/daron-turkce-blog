@@ -70,7 +70,7 @@ olarak sunucudan indirilerek font içerisindeki karakter tablosundan 134.
 karakter alınarak ekranda gösterilecektir.
 
 ![Glyphs ile font dosyasından alınan vektörel
-görsel.](http://cdn.daron.yondem.com/assets/1934/28012008_1.png)\
+görsel.](media/Silverlight_ve_Glyphs_kullanimi/28012008_1.png)\
 *Glyphs ile font dosyasından alınan vektörel görsel.*
 
 Fontlardan tek tek görsel almanın yanı sıra isterseniz **Glyphs**

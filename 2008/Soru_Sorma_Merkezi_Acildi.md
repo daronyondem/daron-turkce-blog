@@ -49,6 +49,6 @@ yüksek performanslı editlenebilir grid yapısını incelemenizi tavsiye
 ederim.
 
 [Soru Sorma Merkezi Kaynak Kodları - 14062008\_1.rar (169,74
-KB)](http://cdn.daron.yondem.com/assets/2093/14062008_1.rar)
+KB)](media/Soru_Sorma_Merkezi_Acildi/14062008_1.rar)
 
 

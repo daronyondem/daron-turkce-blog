@@ -104,7 +104,7 @@ gösterilmesini sağlıyoruz. Bu şekilde istediğiniz Silverlight kontrolüne
 ToolTipService ekleyebilirsiniz.
 
 ![Basit bir
-Tooltip.](http://cdn.daron.yondem.com/assets/2088/11062008_1.png)\
+Tooltip.](media/Silverlight_2_0_icerisinde_ToolTip_Kontrolu_ve_Tooltip_sablonlari/11062008_1.png)\
 *Basit bir Tooltip.*
 
 Eğer Tooltip'in görünümünü değiştirmek isterseniz Background, FontSize,
@@ -282,7 +282,7 @@ bırakıyorum. Tooltip'e ait **VerticalOffset** ve **HorizontalOffset**
 ayarlayabilirsiniz.
 
 ![Özelleştirilmiş
-Tooltip](http://cdn.daron.yondem.com/assets/2088/11062008_2.png)\
+Tooltip](media/Silverlight_2_0_icerisinde_ToolTip_Kontrolu_ve_Tooltip_sablonlari/11062008_2.png)\
 *Özelleştirilmiş Tooltip*
 
 Biraz daha ileri giderek ToolTip'in Content özelliğine istersek farklı
@@ -400,7 +400,7 @@ style="color: #a31515;">UserControl</span><span
 style="color: blue;">\></span>
 
 ![Tooltip içerisinde stream
-video!](http://cdn.daron.yondem.com/assets/2088/11062008_3.jpg)\
+video!](media/Silverlight_2_0_icerisinde_ToolTip_Kontrolu_ve_Tooltip_sablonlari/11062008_3.jpg)\
 *Tooltip içerisinde stream video!*
 
 **Özel Tooltip!**
@@ -790,7 +790,7 @@ kontrolüne aktarılan tüm Content bir ScrollViewer içerisinde
 gösterilecek.
 
 ![Custom
-Tooltip](http://cdn.daron.yondem.com/assets/2088/11062008_4.png)\
+Tooltip](media/Silverlight_2_0_icerisinde_ToolTip_Kontrolu_ve_Tooltip_sablonlari/11062008_4.png)\
 *Custom Tooltip*
 
 Siz de bu şekilde farklı ToolTip kontrolleri tasarlayarak

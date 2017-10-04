@@ -36,7 +36,7 @@ Hedefimiz bu Button'un farklı durumlarda fon rengini değiştirmek.
 Expression Blend 2.5 içerisinde nasıl yapacağız?
 
 ![Düğmemizi Template'ini
-düzenliyoruz.](http://cdn.daron.yondem.com/assets/2089/12062008_1.png)\
+düzenliyoruz.](media/Silverlight_2_0_icerisinde_VisualStateManager_kullanimi/12062008_1.png)\
 *Düğmemizi Template'ini düzenliyoruz.*
 
 İlk olarak sahnedeki düğmemizin "Template"'ini düzenlememiz lazım.
@@ -49,7 +49,7 @@ yola devam edeceğiz. Eğer sıfırdan bir düğme tasarlamak isterseniz bu
 ekranda "Create Empty" demeniz gerekecektir.
 
 ![Düğme Template'imize bir isim
-verelim.](http://cdn.daron.yondem.com/assets/2089/12062008_2.png)\
+verelim.](media/Silverlight_2_0_icerisinde_VisualStateManager_kullanimi/12062008_2.png)\
 *Düğme Template'imize bir isim verelim.*
 
 Düğmemizin "Template"'ini yaratırken Expression Blend bize minik bir
@@ -71,7 +71,7 @@ Biz şimdilik "**This document**" diyerek şablonumuza isim olarak da
 "**DugmeStil**" değerini verelim.
 
 ![Düğmemizin farklı durumlarında tasarım değişiklikleri
-yapacağız.](http://cdn.daron.yondem.com/assets/2089/12062008_3.png)\
+yapacağız.](media/Silverlight_2_0_icerisinde_VisualStateManager_kullanimi/12062008_3.png)\
 *Düğmemizin farklı durumlarında tasarım değişiklikleri yapacağız.*
 
 Yukarıdaki ekran görüntüsünde de inceleyebileceğiz üzere düğmemizin
@@ -82,7 +82,7 @@ ekleniyor. Buradan herhangi bir durumu fare ile seçtikten sonra düğme
 gerçekleştirebilirsiniz.
 
 ![Düğmemizin fon gölge rengini
-değiştiriyoruz.](http://cdn.daron.yondem.com/assets/2089/12062008_4.png)\
+değiştiriyoruz.](media/Silverlight_2_0_icerisinde_VisualStateManager_kullanimi/12062008_4.png)\
 *Düğmemizin fon gölge rengini değiştiriyoruz.*
 
 Biz örneğimizde düğmenin üzerindeki mavi gölgenin rengini değiştirmeye
@@ -93,7 +93,7 @@ sağlanmış. Söz konusu Rectangle'ın Fill rengi aşağıdaki gibi DataBound
 gözüküyor.
 
 ![DataBound görsel değeri lokal bir değere
-aktarıyoruz.](http://cdn.daron.yondem.com/assets/2089/12062008_5.png)\
+aktarıyoruz.](media/Silverlight_2_0_icerisinde_VisualStateManager_kullanimi/12062008_5.png)\
 *DataBound görsel değeri lokal bir değere aktarıyoruz.*
 
 Yukarıdaki görselde Rectangle'ın Fill değerinin tanımlandığı bölgenin
@@ -107,7 +107,7 @@ değişikliği yapıp gölgeyi kırmızı hale getirebiliriz. Renk paletinden
 yeni bir renk seçmeniz yeterli.
 
 ![Transition efektlerini ve süreleri
-ayarlayalım.](http://cdn.daron.yondem.com/assets/2089/12062008_6.png)\
+ayarlayalım.](media/Silverlight_2_0_icerisinde_VisualStateManager_kullanimi/12062008_6.png)\
 *Transition efektlerini ve süreleri ayarlayalım.*
 
 Normal şartlarda bir düğmenin üzerine geldiğinde yeni görsel duruma
@@ -135,7 +135,7 @@ bulunması gerekiyor. Tek yapacağınız başlangıç noktasında söz konusu
 nesneyi görünmez ayarlamaktır.
 
 ![Şablon düzenleme modundan geri
-çıkalım.](http://cdn.daron.yondem.com/assets/2089/12062008_7.png)\
+çıkalım.](media/Silverlight_2_0_icerisinde_VisualStateManager_kullanimi/12062008_7.png)\
 *Şablon düzenleme modundan geri çıkalım.*
 
 **Arka planda neler oluyor?**

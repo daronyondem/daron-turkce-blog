@@ -19,7 +19,7 @@ karşımıza gelen ekranda "Manage Applications" seçeneğini seçerek
 Silverlight uygulamamızı bir ZIP dosyası olarak yükleyebiliyoruz.
 
 ![Silverlight Streaming
-Services](http://cdn.daron.yondem.com/assets/1812/15102007_1.png)\
+Services](media/Silverlight_Streaming_Servisleri/15102007_1.png)\
  *Silverlight Streaming Services sitesine giriş yaptığımıza karşımıza
 çıkan ekran.*
 
@@ -27,7 +27,7 @@ Bir sonraki ekranda bizden ZIP dosyamız ve uygulamamıza verilmek üzere
 bir isim isteniyor.
 
 ![Silverlight Streaming Servisleri'ne ZIP dosyamızı
-yüklüyoruz.](http://cdn.daron.yondem.com/assets/1812/15102007_2.png)
+yüklüyoruz.](media/Silverlight_Streaming_Servisleri/15102007_2.png)
 
 Yükledim ama çalışmıyor diyenler varsa büyük ihtimal ile benim
 yazılarımı ilk defa okuyorlar demektir.Yazılarımı okurken bir yandan
@@ -255,7 +255,7 @@ web sitenize eklemeniz için ihtiyaç duyacağınız kodları size aktarıyor
 olacak.
 
 ![Silverlight Streaming Servisleri'nden uygulamamızı kendi sitemize
-aktarıyoruz.](http://cdn.daron.yondem.com/assets/1812/15102007_3.png)\
+aktarıyoruz.](media/Silverlight_Streaming_Servisleri/15102007_3.png)\
 *Silverlight Streaming Servisleri'nden uygulamamızı kendi sitemize
 aktarıyoruz.*
 

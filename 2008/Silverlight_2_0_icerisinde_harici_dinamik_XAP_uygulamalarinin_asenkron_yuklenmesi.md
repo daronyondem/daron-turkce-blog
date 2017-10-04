@@ -43,7 +43,7 @@ bastığımızda bu Silverlight uygulaması da compile edilerek ASP.NET
 sitesi içerisine kopyalanacaktır.
 
 ![İkinci Silverlight uygulamamızı Solution içerisine
-eklerken...](http://cdn.daron.yondem.com/assets/2111/02072008_1.png)\
+eklerken...](media/Silverlight_2_0_icerisinde_harici_dinamik_XAP_uygulamalarinin_asenkron_yuklenmesi/02072008_1.png)\
 *İkinci Silverlight uygulamamızı Solution içerisine eklerken...*
 
 **Sonradan yüklenecek Silverlight uygulamamızı hazırlayalım...**

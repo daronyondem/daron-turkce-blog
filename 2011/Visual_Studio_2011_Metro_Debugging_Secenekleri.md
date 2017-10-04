@@ -17,7 +17,7 @@ ile ilgili testleri de yapmak gerekecek. Bu senaryoda ilk seçenek Visual
 Studio ile beraber gelen simülatörü kullanmak.
 
 ![Simülatör'de
-debugging!](http://cdn.daron.yondem.com/assets/2703/debug_in_simulator.png)\
+debugging!](media/Visual_Studio_2011_Metro_Debugging_Secenekleri/debug_in_simulator.png)\
 *Simülatör'de debugging!*
 
 Simülatörü seçerek debug etmeye başladığınızda uygulamanız artık
@@ -28,7 +28,7 @@ eventlerini toucha convert edip transfer ederek simülasyonu halletmiş
 oluyor :) Çakalca bir hareket desek yalan olmaz :)
 
 ![Simülatörün
-getirdikleri.](http://cdn.daron.yondem.com/assets/2703/debug_in_simulator2.png)\
+getirdikleri.](media/Visual_Studio_2011_Metro_Debugging_Secenekleri/debug_in_simulator2.png)\
 *Simülatörün getirdikleri.*
 
 Simülatörün sağ tarafında göreceğiniz listede **Touch, Pinch** ve
@@ -42,7 +42,7 @@ döndürülmesi ve çözünürlük değiştirilmesi gibi işlemleri de yine
 toolbarda bulabilirsiniz. Şu an için tek eksik sanırım GPS simülasyonu.
 
 ![Remote
-debugging!](http://cdn.daron.yondem.com/assets/2703/debug_in_simulator3.png)\
+debugging!](media/Visual_Studio_2011_Metro_Debugging_Secenekleri/debug_in_simulator3.png)\
 *Remote debugging!*
 
 Debugging konusunda bir diğer seçenek ise "Remote Debugging". Varsayalım

@@ -28,7 +28,7 @@ durumun sorun yaratacağını düşündüğünüz senaryolarda CDN seçeneğini
 tekrar değerlendirmeniz faydalı olabilir.
 
 ![Yeni bir CDN Endpoint
-eklerken.](http://cdn.daron.yondem.com/assets/2787/cdn.png)
+eklerken.](media/Windows_Azure_da_CDN_Kullanimi/cdn.png)
 *Yeni bir CDN Endpoint eklerken.*
 
 Azure web yönetim panelinde "Hosted Services" tabı altında "CDN"
@@ -36,7 +36,7 @@ seçeneğini bulabilirsiniz. Hemen ribbon'dan "New Endpoint" diyerek ilk
 CDN Endpoint'imizi yaratma yollarında ilerleyebiliriz.
 
 ![Endpointin kaynağını
-belirlerken.](http://cdn.daron.yondem.com/assets/2787/cdn2.png)
+belirlerken.](media/Windows_Azure_da_CDN_Kullanimi/cdn2.png)
 *Endpointin kaynağını belirlerken.*
 
 Endpoint'imizi yaratırken kaynak olarak blob / storage account veya web

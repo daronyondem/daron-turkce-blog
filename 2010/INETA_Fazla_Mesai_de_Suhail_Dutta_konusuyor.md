@@ -26,7 +26,7 @@ oturumun sonrasında benim de bir saatlik bir **Parallel Programlama**
 oturumum olacak ;)
 
 ![INETA Fazla Mesai'de Shuail
-Dutta!](http://cdn.daron.yondem.com/assets/2518/04052010.png)\
+Dutta!](media/INETA_Fazla_Mesai_de_Suhail_Dutta_konusuyor/04052010.png)\
 *INETA Fazla Mesai'de Shuail Dutta!*
 
 Microsoft Istanbul ofisinde olacak bu etkinliğe katılım tamamen

@@ -23,7 +23,7 @@ son hayallerimden biri de yine dünya çapında bilinen bir yayınevinde
 yazar olmaktı.
 
 ![Real World .NET, C\#, and Silverlight: Indispensible Experiences from
-15 MVPs](http://cdn.daron.yondem.com/assets/2725/realworld.jpg)\
+15 MVPs](media/Wrox_tan_ilk_kitabim/realworld.jpg)\
 *İlk Wrox kitabımın kapağı!*
 
 Bundan yaklaşık iki yıl önceydi, yukarıda kapağını gördüğünüz kitaba

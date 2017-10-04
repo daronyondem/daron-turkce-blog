@@ -17,7 +17,7 @@ Davutpaşa Kampüsü'ndeki enerjisi Beşiktaş Kampüsü'nden açık ara önde :
 Böylece mini bir gaz da vermiş olayım :)
 
 ![YTÜ, Davutpaşa Kampüsü, LINQ, Silverlight ve WPF
-Seminerleri](http://cdn.daron.yondem.com/assets/2258/26112008_1.jpg)\
+Seminerleri](media/YTU_Davutpasa_kampusu_seminerleri/26112008_1.jpg)\
 *YTÜ, Davutpaşa Kampüsü, LINQ, Silverlight ve WPF Seminerleri*
 
 Çok eğlendiğim, süper yorumlar almanın yanı sıra seminerler esnasında

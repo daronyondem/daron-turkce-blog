@@ -626,7 +626,7 @@ Uygulamayı da malum VB ile yazdım :) C\#'cılara selamlar :)
 
 [Silverlight 2.0 Twitter / TwitXR Widget\
 Kaynak Kodlar ve Proje - 15102008\_1.rar (558,89
-KB)](http://cdn.daron.yondem.com/assets/2217/15102008_1.rar)
+KB)](media/Silverlight_2_0_ile_Twitter_ve_TwitXR_Combo_Widget/15102008_1.rar)
 
 Hepinize kolay gelsin.
 

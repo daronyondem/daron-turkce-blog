@@ -25,7 +25,7 @@ raporlar sonucu bile Windows 7'de 5000 satıra yakın kod değişikliği
 yapılmış.
 
 ![Windows 7 geliştirilme sürecinden
-istatistikler.](http://cdn.daron.yondem.com/assets/2451/18112009_1.jpg)\
+istatistikler.](media/PDC_Gun_2/18112009_1.jpg)\
 *Windows 7 geliştirilme sürecinden istatistikler.*
 
 Windows 7 ile beraber gelen bazı özelliklerin donanıma bağlı olduğunu
@@ -39,7 +39,7 @@ tanıtıyorlar ki?*" sorusu geçti. İşte tam da bu noktada söz konusu
 laptoptan her katılımcıya bir adet hediye edileceği duyuruldu!
 
 ![PCD'de her katılımcıya bir laptop
-hediye!](http://cdn.daron.yondem.com/assets/2451/18112009_2.jpg)\
+hediye!](media/PDC_Gun_2/18112009_2.jpg)\
 *PCD'de her katılımcıya bir laptop hediye!*
 
 Duyuru yapıldıktan sonra yaklaşık bir 10 saniye kadar salonda sessizlik
@@ -74,7 +74,7 @@ harici bir sensör kit kullanmıştım :) artık dahililer de piyasada yerini
 bulacak demek ki.
 
 ![Entegre Ctrl+Alt+Del tuşu
-:)](http://cdn.daron.yondem.com/assets/2451/18112009_3.jpg)\
+:)](media/PDC_Gun_2/18112009_3.jpg)\
 *Entegre Ctrl +Alt+Del tuşu :)*
 
 Cihazda en ilgimi çeken özellikle entegre bir tek tuş ile Ctrl+Alt+Del
@@ -98,7 +98,7 @@ demolarda DHTML animasyonlarında kendini bariz bir şekilde belli
 ediyordu.
 
 ![Internet Explorer 9
-yolda...](http://cdn.daron.yondem.com/assets/2451/18112009_4.jpg)\
+yolda...](media/PDC_Gun_2/18112009_4.jpg)\
 *Internet Explorer 9 yolda...*
 
 HTML 5 konusunda desteğine devam edecek olan Microsoft ekibi bu konudaki
@@ -124,7 +124,7 @@ toparlandığını görebiliyoruz. Community'yi dinleme konusunda Microsoft
 yine muhteşem bir iş çıkarıyor diyebilirim.
 
 ![Silverlight 4 Beta
-karşınızda!](http://cdn.daron.yondem.com/assets/2451/18112009_5.jpg)\
+karşınızda!](media/PDC_Gun_2/18112009_5.jpg)\
 *Silverlight 4 Beta karşınızda!*
 
 Gelin hızlıce Silverlight 4 Beta ile gelen yeniliklere göz atalım.
@@ -186,7 +186,7 @@ relax haliydi diyebiliriz. İçerik olarak çok radikal birşey olmasa da
 ortam gerçekten hoştu.
 
 ![Underground PDC böyle
-olur!](http://cdn.daron.yondem.com/assets/2451/18112009_6.jpg)\
+olur!](media/PDC_Gun_2/18112009_6.jpg)\
 *Underground PDC böyle olur!*
 
 Etkinlik LA Lakers kızlarının sahnede yerlerini alması ile başladı :)
@@ -197,7 +197,7 @@ Lakers kızlarının yanına giderek MSDEV logolu dövme yaptırabiliyorlardı
 tabi beraber fotoğraf çekilmek isteyenler de az değildi :)
 
 ![Scott
-sahnede!](http://cdn.daron.yondem.com/assets/2451/18112009_7.jpg)\
+sahnede!](media/PDC_Gun_2/18112009_7.jpg)\
 *Scott sahnede!*
 
 Sonrasında Scott sahneyi aldı ve tekrar Silverlight 4 ile ilgili oturum

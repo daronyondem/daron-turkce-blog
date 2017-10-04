@@ -236,7 +236,7 @@ ile gelip gelmediğini kontrol etmek. Eğer durum öyle ise parametresinde
 bulunan veriyi Decode etmemiz gerekiyor.
 
 ![Protok üzerinden gelen Uri bilgisi bu
-şekilde.](http://cdn.daron.yondem.com/assets/2857/uriassociation_1.png)\
+şekilde.](media/Windows_Phone_8_de_Uri_Association/uriassociation_1.png)\
 *Protok üzerinden gelen Uri bilgisi bu şekilde.*
 
 Decoding sonrası da tam da elimize bizim istediğimiz ve en üstte

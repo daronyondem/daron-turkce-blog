@@ -36,7 +36,7 @@ sizlerle de paylaşmak istedim.\
 Yöndem diye arama yapıp bloguma gelenler olmuşş. Ahh Daronn ahhh."*
 
 !["İbrahim Yöndem" aramasının kanıtı
-:)](http://cdn.daron.yondem.com/assets/2082/10062008_1.jpg)\
+:)](media/Karsinizda_Ibrahim_Yondem_Alkis/10062008_1.jpg)\
 *"İbrahim Yöndem" aramasının kanıtı :)*
 
 Hep diyorum, tekrar diyorum, Allah sonumuzu hayır etsin :)

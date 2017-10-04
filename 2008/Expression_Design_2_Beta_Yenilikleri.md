@@ -40,7 +40,7 @@ Slice başına isterseniz herhangi bir Slice'ın WPF veya Silverlight XAML
 olarak da çıktsını alabilmeniz.
 
 ![Slice'lara ait farklı ayarlardan bir
-kısmı.](http://cdn.daron.yondem.com/assets/1997/21032008_1.jpg)\
+kısmı.](media/Expression_Design_2_Beta_Yenilikleri/21032008_1.jpg)\
 *Slice'lara ait farklı ayarlardan bir kısmı.*
 
 **Peki bunlar ne anlama geliyor?**
@@ -69,7 +69,7 @@ yerleştirildiğini ve otomatik olarak XAML dosyalarının da bağlandığını
 görüyorsunuz. Bu gerçekten MUHTEŞEM!
 
 ![File / Export menüsünden bir
-kare.](http://cdn.daron.yondem.com/assets/1997/21032008_3.png)\
+kare.](media/Expression_Design_2_Beta_Yenilikleri/21032008_3.png)\
 *File / Export menüsünden bir kare.*
 
 Slicelar için seçtiğiniz farklı formatlara göre tabi ki farklı ayarlar
@@ -85,7 +85,7 @@ mantığında olduğu gibi bu Slice'lar da düzenleyebiliyorsunuz. Hatta
 düzenlediğiniz mantığa göre HTML çıktıları alıyorsunuz.
 
 ![Layer mantığında Slice'ları da
-düzenleyebiliyoruz.](http://cdn.daron.yondem.com/assets/1997/21032008_2.png)\
+düzenleyebiliyoruz.](media/Expression_Design_2_Beta_Yenilikleri/21032008_2.png)\
 *Layer mantığında Slice'ları da düzenleyebiliyoruz.*
 
 Arka sırada bıraktığınız Slice'lar HTML dosyanız içerisinde de z-index

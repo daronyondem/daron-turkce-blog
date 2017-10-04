@@ -88,7 +88,7 @@ göreceksiniz, hemen yanında "Activate" düğmesi ile özelliği aktif hale
 getirebilirsiniz.
 
 ![SilverlightPart özelliğini aktif hale
-getirdik.](http://cdn.daron.yondem.com/assets/2022/12042008_1.png)\
+getirdik.](media/SharePoint_Server_uzerinde_Silverlight_kullanimi/12042008_1.png)\
 *SilverlightPart özelliğini aktif hale getirdik.*
 
 Artık herhangi bir sayfada WebPart olarak SilverlightPart'ımızı
@@ -112,7 +112,7 @@ uygulamasının yaratılması ve sayfaya yerleştirilmesi işini
 yaratacak.
 
 ![SilverlightPart
-ayarları.](http://cdn.daron.yondem.com/assets/2022/12042008_2.png)\
+ayarları.](media/SharePoint_Server_uzerinde_Silverlight_kullanimi/12042008_2.png)\
 *SilverlightPart ayarları.*
 
 Tüm ayarlarımızı tamamladığımıza göre artık "OK" düğmesine basarak

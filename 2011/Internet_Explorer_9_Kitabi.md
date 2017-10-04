@@ -15,7 +15,7 @@ tasarımcı ve yazılımcılar için update niteliğinde bir
 hazırlamıştım. Kitap basılmış ve hepsiburada'da :) [birinci
 sıraya](http://daron.yondem.com/tr/post/d8e0b765-c485-4b24-9d39-9dd541c6ad87)
 yerleşmişti :) İlginç olan ise hepsiburada'da kitap satılırken aslında
-[PDF'ini](http://cdn.daron.yondem.com/assets/2576/ie8_ebook_tr.pdf) de
+[PDF'ini](media/Internet_Explorer_9_Kitabi/ie8_ebook_tr.pdf) de
 ücretsiz dağıtıyor olmamızdı :)
 
 Bu sene de malum Internet Explorer 9'un gelişi ile beraber birçok
@@ -27,7 +27,7 @@ HTML5 kitabı değil, zaten daha HTML5'in sınırları da belli değil o da
 ayrı konu :) Neyse konumuza dönersek, kitabımız IE9 çerçevesinde
 yenilikleri içeren bir kitap diyelim özetle.
 
-![IE9 Kitabı](http://cdn.daron.yondem.com/assets/2576/02052011_1.jpg)\
+![IE9 Kitabı](media/Internet_Explorer_9_Kitabi/02052011_1.jpg)\
 *IE9 Kitabı*
 
 Tabi ufak bir notu atladım. Geçen sene ben bu kitabın hem İngilizce hem
@@ -38,6 +38,6 @@ dışında da dağıtımı yapılıyor. Kitabın PDF'ini hemen aşağıdaki link
 indirebilirsiniz ;)
 
 [Internet Explore 9 Kitabı - 02052011\_2.pdf (7,90
-MB)](http://cdn.daron.yondem.com/assets/2576/02052011_2.pdf)
+MB)](media/Internet_Explorer_9_Kitabi/02052011_2.pdf)
 
 

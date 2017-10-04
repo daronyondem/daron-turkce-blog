@@ -67,7 +67,7 @@ derneğiz! suya ihtiyacımız var :D Ben ticari kuruluşların aktiviteleri
 ile karşılaştırıyorum.
 
 ![Elazığ tatilimde çektiğim bir foto, Google Elazığ şubesi olsa gerek
-:P](http://cdn.daron.yondem.com/assets/2224/22102008_1.jpg)\
+:P](media/Dertli_Kerem_Google_gerilmeleri/22102008_1.jpg)\
 *Elazığ tatilimde çektiğim bir foto, Google Elazığ şubesi olsa gerek :P*
 
 **Gelelim içeriğe...**

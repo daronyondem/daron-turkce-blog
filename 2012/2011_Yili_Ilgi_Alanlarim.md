@@ -29,7 +29,7 @@ vardığım sonuca şaşırdığım için bunu paylaşmak istedim. Bakalım
 dönüp 5-10 yıla topluca bakmak ilginç olabilir :)
 
 ![2011 Yılı İlgi
-Alanlarım](http://cdn.daron.yondem.com/assets/2751/2011_rapor.jpg)\
+Alanlarım](media/2011_Yili_Ilgi_Alanlarim/2011_rapor.jpg)\
 *2011 Yılı İlgi Alanlarım*
 
 Yukarıda gördüğünüz sonuç sadece gönüllü yaptığım seminerler,

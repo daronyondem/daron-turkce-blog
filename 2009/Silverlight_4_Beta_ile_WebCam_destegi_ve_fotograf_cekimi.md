@@ -121,7 +121,7 @@ aldığımız tüm kameraları **SupportedFormats** dizilerindeki sağladıklar�
 tek kamera olduğu için aşağıdaki ekran görüntüsü ile karşılaştım.
 
 ![Webcam'in desteklediğini
-ayarlar.](http://cdn.daron.yondem.com/assets/2459/26112009_1.png)\
+ayarlar.](media/Silverlight_4_Beta_ile_WebCam_destegi_ve_fotograf_cekimi/26112009_1.png)\
 *Webcam'in desteklediğini ayarlar.*
 
 **Peki istediğimiz webcamden görüntüyü alıp nasıl gösterebiliriz?**
@@ -147,7 +147,7 @@ varsa tekrar kullanıcıdan izin istemek saçma olur. Eğer yoksa hemen bir
 alt satırda **RequestDeviceAccess** ile iznimizi istiyoruz.
 
 ![Kullanıcıdan kameraya bağlanma izni
-istiyoruz.](http://cdn.daron.yondem.com/assets/2459/26112009_2.png)\
+istiyoruz.](media/Silverlight_4_Beta_ile_WebCam_destegi_ve_fotograf_cekimi/26112009_2.png)\
 *Kullanıcıdan kameraya bağlanma izni istiyoruz.*
 
 İznimizi aldıktan sonra rahatlık istediğimiz bir Device'ı seçerek
@@ -196,7 +196,7 @@ görüntü veya ses yakalama işlemini başlatmak için **Start** metodunu
 **Dikdortgen** olarak bir Rectangle'a basit bir şekilde aktarabiliriz.
 
 ![Kamera görüntüsü
-karşınızda.](http://cdn.daron.yondem.com/assets/2459/26112009_3.jpg)\
+karşınızda.](media/Silverlight_4_Beta_ile_WebCam_destegi_ve_fotograf_cekimi/26112009_3.jpg)\
 *Kamera görüntüsü karşınızda.*
 
 Yukarıda gördüğünüz üzere kamera görüntüsünü almakla kalmayıp
@@ -452,7 +452,7 @@ nesnesine source aktarabilmek adına **Dispatcher** üzerinden UI Thread'e
 ulaşıyoruz. Tüm bunları lamdalarla yapınca iş epey kolayca halloluyor.
 
 ![Fotoğrafımızı yakalayap sağa
-koyduk.](http://cdn.daron.yondem.com/assets/2459/26112009_4.jpg)\
+koyduk.](media/Silverlight_4_Beta_ile_WebCam_destegi_ve_fotograf_cekimi/26112009_4.jpg)\
 *Fotoğrafımızı yakalayap sağa koyduk.*
 
 Gördüğünüz gibi aldığımız görüntü ana kaynaktan olduğu için Blur efekti
@@ -486,7 +486,7 @@ Rectangle tipindeki Dikdortgen'imizi veriyoruz. Böylece Blur vs
 efektleri uygulanmış hali ile görüntüyü alabiliyoruz.
 
 ![PixelShader efekti ile görüntüyü
-aldık.](http://cdn.daron.yondem.com/assets/2459/26112009_5.jpg)\
+aldık.](media/Silverlight_4_Beta_ile_WebCam_destegi_ve_fotograf_cekimi/26112009_5.jpg)\
 *PixelShader efekti ile görüntüyü aldık.*
 
 Artık aldığınız bu fotoğrafları işlemek veya doğrudan sunucuya bir web

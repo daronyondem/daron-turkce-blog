@@ -56,7 +56,7 @@ kalacaktır (çünkü page blobda).
 yaratabileceğimze ve kullanabileceğimize göz atalım.
 
 ![AzureDrive
-yollarında.](http://cdn.daron.yondem.com/assets/2779/clouddrive.png)
+yollarında.](media/Windows_Azure_Drive/clouddrive.png)
 *AzureDrive yollarında.*
 
 Projenizde AzureDrive konseptini kullanacaksanız ilk olarak yukarıdaki
@@ -72,7 +72,7 @@ de olsa sanal makine ile gelen ve para ödemediğimiz bir kaynak
 LocalStorage.
 
 ![AzureDrive için önbellek =
-LocalStorage](http://cdn.daron.yondem.com/assets/2779/clouddrive2.png)
+LocalStorage](media/Windows_Azure_Drive/clouddrive2.png)
 *AzureDrive için önbellek = LocalStorage*
 
 LocalStorage alanını verirken planladığınız alandan biraz daha büyük bir
@@ -178,7 +178,7 @@ Snapshot mantığı ile aynı. Eğer eski bir snapshot'a dönmek isterseniz o
 snapshot'ın blob adresini kullanarak CloudDrive yaratmanız yeterli.
 
 ![Lokal emülatördeki
-durum.](http://cdn.daron.yondem.com/assets/2779/clouddrive3.png)
+durum.](media/Windows_Azure_Drive/clouddrive3.png)
 *Lokal emülatördeki durum.*
 
 Lokal emülatör ile çalıştığınızda VHD dosyası blob'a kaydedilmeyecektir.
@@ -202,7 +202,7 @@ tavsiye ederim, özellikle Azure ile ilgili bolca çalışacaksanız ürünün
 lisans ücreti de kabul edilebilir boyutlarda.
 
 ![Cloud Storage Studio
-süper!](http://cdn.daron.yondem.com/assets/2779/clouddrive4.png)
+süper!](media/Windows_Azure_Drive/clouddrive4.png)
 *Cloud Storage Studio süper!*
 
 Hepinize kolay gelsin.

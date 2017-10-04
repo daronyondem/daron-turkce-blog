@@ -44,7 +44,7 @@ Direk registry dosyasını download etmek isteyenler için de linkimiz
 mevcut :)
 
 [ASP.NET Web Server Here Registry Dosyaları - registry.zip (703
-Bytes)](http://cdn.daron.yondem.com/assets/2860/registry.zip)
+Bytes)](media/ASP_NET_4_Server_Here_Context_Menu/registry.zip)
 
 Görüşmek üzere.
 

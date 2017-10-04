@@ -23,7 +23,7 @@ zamanda Multitouch oturumlarım ile ilgili de sağlıklı bir işleyişi
 oturtacağım :)
 
 ![Imagine Cup Türkiye Finali'nde WPF ve MultiTouch
-Oturumum](http://cdn.daron.yondem.com/assets/2352/17042009_3.jpg)\
+Oturumum](media/Imagine_Cup_Turkiye_Finalinde_WPF_ve_MultiTouch_oturumum/17042009_3.jpg)\
 *Imagine Cup Türkiye Finali'nde WPF ve MultiTouch Oturumum*
 
 Seminerde söz verdiğim üzere hem yaptığım örnekleri, hem sunumumu, hem
@@ -32,8 +32,8 @@ indirebilirsiniz. Kısa sürede bu konuda sağlıklı bir seminer kaydını
 blogumdan paylaşacağım.
 
 [MultiTouch Örnek Projeler - 17042009\_1.rar (3,6
-MB)](http://cdn.daron.yondem.com/assets/2352/17042009_1.rar)\
+MB)](media/Imagine_Cup_Turkiye_Finalinde_WPF_ve_MultiTouch_oturumum/17042009_1.rar)\
  [MultiTouch Sunum - 17042009\_2.pptx (2,01
-MB)](http://cdn.daron.yondem.com/assets/2352/17042009_2.pptx)
+MB)](media/Imagine_Cup_Turkiye_Finalinde_WPF_ve_MultiTouch_oturumum/17042009_2.pptx)
 
 

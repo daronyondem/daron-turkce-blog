@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Expression Blend, Expression Design, Expression Web, Silverlight, Visual Studio 2008, ASP.NET
 old.EntryID: 977d47bc-a526-4594-b7a7-4ed1fd325466
 ---
-![](http://cdn.daron.yondem.com/assets/1907/pcnet.png)PCnet'in Ocak
+![](media/PCnet_Ocak_2008_Sayisi/pcnet.png)PCnet'in Ocak
 sayısındaki yazılarımı her ay olduğu gibi yine buradan sizlere duyurmak
 istiyorum :) Derginin **OKUL** bölümünde **AJAX**, **ASP.NET 3.5,
 Expression Blend, Expression Design, Silverlight** ve **Expression Web**

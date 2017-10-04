@@ -43,7 +43,7 @@ türetilmiş olması. Aksi halde Silverlight 1.0'ın C\#, VB gibi .NET
 dilleri ile herhangi bir ilişkisi yok.
 
 ![Visual Studio 2005 içerisinde Silverlight Proje
-seçeneği.](http://cdn.daron.yondem.com/assets/1821/23102007_1.png)\
+seçeneği.](media/Bastan_Sonra_Silverlight_Kurulumu/23102007_1.png)\
 *Visual Studio 2005 içerisinde Silverlight Proje seçeneği.*
 
 Artık Visual Studio 2005 ile Silverlight projeleri yaratabilir veya var

@@ -43,7 +43,7 @@ edebilmek de bir cesarettir ve gerekir. Ama çakma işletim sistemleriyle
 değil!
 
 ![Bir gün herkesin kendi mutant Linux'u olacak böyle
-giderse.](http://cdn.daron.yondem.com/assets/2254/21112008_1.jpg)\
+giderse.](media/O_kadar_da_severdim_hayvanlari_zorla_Penguen_dusmani_yapiyorlar_adami/21112008_1.jpg)\
 *Bir gün herkesin kendi mutant Linux'u olacak böyle giderse.*
 
 Ağır gittiğimin farkındayım ama gelin dürüst olalım. Bugün Linux

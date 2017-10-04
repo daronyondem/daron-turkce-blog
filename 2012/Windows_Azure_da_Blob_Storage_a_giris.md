@@ -24,7 +24,7 @@ blog, table ve queue. Biz bu yazımızda sadece Blob Storage konusunu
 inceleyeceğiz. İleriki yazılarda tabi ki diğer konulara da bakarız ;)
 
 ![İlk Storage Account'umuzu
-yaratırken](http://cdn.daron.yondem.com/assets/2774/blob.png)
+yaratırken](media/Windows_Azure_da_Blob_Storage_a_giris/blob.png)
 *İlk Storage Account'umuzu yaratırken*
 
 Azure web yönetim panelinde "hosted servis"ler ile aynı kısımda bulunan
@@ -34,7 +34,7 @@ görebileceğiniz "New Storage Account" düğmesine basıp
 ilerleyebilirsiniz.
 
 ![Storage Account'umuza isim ve bölge
-atıyoruz.](http://cdn.daron.yondem.com/assets/2774/blob2.png)
+atıyoruz.](media/Windows_Azure_da_Blob_Storage_a_giris/blob2.png)
 *Storage Account'umuza isim ve bölge atıyoruz.*
 
 Karşınıza yukarıdaki basit ekran dışında başka bir ekran gelemeyecek
@@ -49,7 +49,7 @@ anlamına gelmez. Storage Accountlar içerisindeki tüm servislerin
 bıraktığınız bir storage account'un sizin için bir maliyeti olmaz.*
 
 ![Storage Account'un
-endpointleri.](http://cdn.daron.yondem.com/assets/2774/blob3.png)
+endpointleri.](media/Windows_Azure_da_Blob_Storage_a_giris/blob3.png)
 *Storage Account'un endpointleri.*
 
 Storage Account'unuz yaratıldıktan sonra ekranın sağ tarafındaki
@@ -67,7 +67,7 @@ erişim anahtarı veriliyor. Her iki anahtar da aynı işi görüyor. Peki
 neden ik tane var?
 
 ![Access Key'leri yenilemek
-için.](http://cdn.daron.yondem.com/assets/2774/blob4.png)
+için.](media/Windows_Azure_da_Blob_Storage_a_giris/blob4.png)
 *Access Key'leri yenilemek için.*
 
 Diyelim ki keyleri yenilemek istediniz. Bunu hemen Ribbon'dan
@@ -85,7 +85,7 @@ edebilirsiniz. İşte bu senaryo nedeniyle aynı işe yarayan iki access
 keyimiz mevcut.
 
 ![Access Key'leri
-yenilerken.](http://cdn.daron.yondem.com/assets/2774/blob5.png)
+yenilerken.](media/Windows_Azure_da_Blob_Storage_a_giris/blob5.png)
 *Access Key'leri yenilerken.*
 
 ### Bloblar!
@@ -97,7 +97,7 @@ tamamen datacenter dışında olmak şartı ile Blob'larda tutulan tüm veri
 üç kopya olarak tutuluyor. Böylece veri kaybı neredeyse imkansız bir
 hale getirilebiliyor.
 
-![Blob iç yapısı.](http://cdn.daron.yondem.com/assets/2774/blob6.png)
+![Blob iç yapısı.](media/Windows_Azure_da_Blob_Storage_a_giris/blob6.png)
 *Blob iç yapısı.*
 
 Blob yapısı en dıştan bir "Account" ile başlıyor. Bunu zaten bir önceki
@@ -146,7 +146,7 @@ ayarlarına giderek Storage Account erişim bilgilerimizi tutacak yeni bir
 ayar bilgisini CSDEF ve CSCFG'ye koyalım.
 
 ![Hesap ayarlarımızı Azure projesine
-eklerken.](http://cdn.daron.yondem.com/assets/2774/blob7.png)
+eklerken.](media/Windows_Azure_da_Blob_Storage_a_giris/blob7.png)
 *Hesap ayarlarımızı Azure projesine eklerken.*
 
 Yukarıdaki ekran görüntüsünden de yakalayabileceğiniz üzere "Add
@@ -223,7 +223,7 @@ işlemi gerçekleşiyor ve blob fiziksel varlığına kavuşuyor :)
 
 Eh hadi.. F5'e basın... ;)
 
-![Hata var...](http://cdn.daron.yondem.com/assets/2774/blob8.png)
+![Hata var...](media/Windows_Azure_da_Blob_Storage_a_giris/blob8.png)
 *Hata var...*
 
 Haha! :) Çalışacak zannetiniz dimi?? :) Daha birkaç şey daha var

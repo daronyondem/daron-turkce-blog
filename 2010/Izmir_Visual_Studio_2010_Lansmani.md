@@ -16,7 +16,7 @@ tarafındaki yeniliklerden bahsettim. İzmir her zamanki gibi bir
 defa bir de müşteri ziyaretim olunca pek nefes alacak zamanım olmadı :)
 
 ![Dokuz Eylül Üniversitesi, Visual Studio 2010
-Lansmanı](http://cdn.daron.yondem.com/assets/2522/08052010_1.jpg)\
+Lansmanı](media/Izmir_Visual_Studio_2010_Lansmani/08052010_1.jpg)\
 *Dokuz Eylül Üniversitesi, Visual Studio 2010 Lansmanı*
 
 Etkinlikte katkılarından dolayı Dokuz Eylül Üniversitesi MSP'lerine çok

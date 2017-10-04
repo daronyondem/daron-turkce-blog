@@ -10,7 +10,7 @@ Tags: Silverlight 2.0, Vista
 old.EntryID: d2cebc65-6aae-448f-a662-1ea1639cbaa5
 ---
 [![Get Microsoft
-Silverlight](http://cdn.daron.yondem.com/assets/2264/02122008_3.jpg)](http://go.microsoft.com/fwlink/?LinkID=124807)
+Silverlight](media/Silverlight_ile_Vista_Gadget_hazirlamak_super/02122008_3.jpg)](http://go.microsoft.com/fwlink/?LinkID=124807)
 
 Yarın **Microsoft Yazılım Geliştiriciler Zirvesi** var. Daha önce size
 [detaylarını](http://daron.yondem.com/tr/post/5c8a0b18-4858-4f35-9170-205af93e7bba)
@@ -25,7 +25,7 @@ Hazırladığımız Gadget'ı ve içerisindeki Silverlight uygulamasının kayna
 kodlarını aşağıdaki adresten indirebilirsiniz;
 
 [Silverlight ile Vista Gadget Kaynak Kodları - 02122008\_2.rar (206,82
-KB)](http://cdn.daron.yondem.com/assets/2264/02122008_2.rar)
+KB)](media/Silverlight_ile_Vista_Gadget_hazirlamak_super/02122008_2.rar)
 
 *Not: Normalde Silverlight uygulaması Gadget olması için yani Windows'ta
 çalışacak şekilde hazırlandığı için pek optimizasyonu yok o nedenle

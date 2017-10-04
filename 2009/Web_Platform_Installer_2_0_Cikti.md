@@ -44,7 +44,7 @@ edemiyorum :) Ama bu dediğim gibi sadece bana özel bir "kıl dönmesi"
 durumu.
 
 ![Web Platform Installer içerisindeki paketlerden
-birkaçı.](http://cdn.daron.yondem.com/assets/2417/24092009_1.png)\
+birkaçı.](media/Web_Platform_Installer_2_0_Cikti/24092009_1.png)\
 *Web Platform Installer içerisindeki paketlerden birkaçı.*
 
 **Gel vatandaş gel!**

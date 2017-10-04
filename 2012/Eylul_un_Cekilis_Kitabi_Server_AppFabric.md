@@ -16,7 +16,7 @@ arada bazılarını ben de okuyacağım itiraf ediyorum) o nedenle
 başlıyoruz. Bu ay ilk kitabı verme zamanı.
 
 ![Pro Windows Server
-AppFabric](http://cdn.daron.yondem.com/assets/2816/appfabric.jpg)\
+AppFabric](media/Eylul_un_Cekilis_Kitabi_Server_AppFabric/appfabric.jpg)\
 *Pro Windows Server AppFabric*
 
 Yukarıdaki kitabı Türkiye içerisinde herhangi bir adrese kargo ödemeli

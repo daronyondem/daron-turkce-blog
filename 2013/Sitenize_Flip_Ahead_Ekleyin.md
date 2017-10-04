@@ -19,7 +19,7 @@ verdikten sonra gelelim konumuza. Start Screen'deki IE'de "Flip Ahead"
 denilen bir özellik var.
 
 ![IE 10'daki Flip Ahead aslında
-opsyonel.](http://cdn.daron.yondem.com/assets/2837/flipahead_1.png)\
+opsyonel.](media/Sitenize_Flip_Ahead_Ekleyin/flipahead_1.png)\
 *IE 10'daki Flip Ahead aslında opsyonel.*
 
 Bu özellik ile beraber tarayıcı aslında web sitenizin sayfalarında ileri
@@ -30,7 +30,7 @@ götüreceğine nasıl karar vereceksin ki? İşte zaten bu yazımızın esas
 amacı da konuya teknik implementasyonu tarafından bakmak.
 
 ![Flip Ahead düğmesi normalda
-"Disabled"](http://cdn.daron.yondem.com/assets/2837/flipahead_2.png)\
+"Disabled"](media/Sitenize_Flip_Ahead_Ekleyin/flipahead_2.png)\
 *Flip Ahead düğmesi normalda "Disabled"*
 
 Normal şartlarda "Flip Ahead" düğmesi "Disabled" duruyor. Hatta özellik
@@ -57,7 +57,7 @@ sayfalarda IE kullanıcıya özelliği açmasına dair ufak bir uyarıda da
 bulunuyor.
 
 ![IE10'dan Flip Ahead özelliği olan bir siteye girildiğinde gelen
-uyarı...](http://cdn.daron.yondem.com/assets/2837/flipahead_3.png)\
+uyarı...](media/Sitenize_Flip_Ahead_Ekleyin/flipahead_3.png)\
 *IE10'dan Flip Ahead özelliği olan bir siteye girildiğinde gelen
 uyarı...*
 

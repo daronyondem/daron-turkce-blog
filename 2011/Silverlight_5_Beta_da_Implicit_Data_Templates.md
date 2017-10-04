@@ -477,7 +477,7 @@ bağlamadığımız ve bir anlamda ortada bıraktığımız için Combobox da ay
 DataTemplate'leri kullanacak.
 
 ![Ortalık karışmış gibi
-duruyor...](http://cdn.daron.yondem.com/assets/2569/25042011_1.jpg)\
+duruyor...](media/Silverlight_5_Beta_da_Implicit_Data_Templates/25042011_1.jpg)\
 *Ortalık karışmış gibi duruyor...*
 
 Bu durumu engellemenin yolu DataTemplate'leri doğrudan ListBox'ın içine

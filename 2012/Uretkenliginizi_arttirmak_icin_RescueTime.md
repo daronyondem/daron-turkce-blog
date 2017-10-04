@@ -38,7 +38,7 @@ gelin RescueTime'ın size neler kazandırabileceğine ve nasıl çalıştığın
 göz atalım.
 
 ![RescueTime Günlük Üretkenlik
-Raporu](http://cdn.daron.yondem.com/assets/2812/rescuetime_1.png)
+Raporu](media/Uretkenliginizi_arttirmak_icin_RescueTime/rescuetime_1.png)
 *RescueTime Günlük Üretkenlik Raporu*
 
 Yukarıda gördüğünüz rapor RescueTime ile ücretsiz olarak elde
@@ -62,7 +62,7 @@ görmeniz ve neler ne kadar zamanınızı çaldığını yakalamanız çok kolay
 bir hal alıyor.
 
 ![RescueTime'ın detaylı
-raporları.](http://cdn.daron.yondem.com/assets/2812/rescuetime_2.png)
+raporları.](media/Uretkenliginizi_arttirmak_icin_RescueTime/rescuetime_2.png)
 *RescueTime'ın detaylı raporları.*
 
 Böylece artık kötü alışkanlıkları yakaladıktan sonra onları ortadan
@@ -71,7 +71,7 @@ başarılı. Neyin zaman kaybı neyin üretkenlik olduğunu çok doğru bir
 şekilde yakalayabiliyor.
 
 ![Ortalamanın üstünde miyim acaba?
-:)](http://cdn.daron.yondem.com/assets/2812/rescuetime_3.png)
+:)](media/Uretkenliginizi_arttirmak_icin_RescueTime/rescuetime_3.png)
 *Ortalamanın üstünde miyim acaba? :)*
 
 Son olarak günlük raporunuzu aldıktan sonra üretkenlik ortanınızı diğer

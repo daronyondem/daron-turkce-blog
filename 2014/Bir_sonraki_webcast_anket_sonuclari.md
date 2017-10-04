@@ -16,6 +16,6 @@ katılımı ile anketin sonuçlarını paylaşmak istiyorum :) Yorumlamayı size
 bırakıyorum ;)
 
 ![Bir sonraki webcast anketi
-sonuçları.](http://cdn.daron.yondem.com/assets/2883/info.jpg)
+sonuçları.](media/Bir_sonraki_webcast_anket_sonuclari/info.jpg)
 
 

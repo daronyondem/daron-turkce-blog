@@ -19,6 +19,6 @@ Haftaya kendi web sitelerinizi sizlere sağlanacak alan adlarına
 yükleyebiliyor olacaksınız. Şimdiden sıkı çalışmakta fayda var :)
 
 [Ders Uygulama Dosyaları - 16042007\_1.zip (11.82
-KB)](http://cdn.daron.yondem.com/assets/1728/16042007_1.zip)
+KB)](media/Mayasoft_Ders_Uygulama_Dosyalari-2/16042007_1.zip)
 
 

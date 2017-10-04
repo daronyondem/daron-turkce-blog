@@ -181,7 +181,7 @@ sonra XAML içerisinde tanımladığımız **Image** nesnesine kaynak olarak
 atıyoruz.
 
 ![Yarattığımız Bitmap
-karşımızda!](http://cdn.daron.yondem.com/assets/2357/25042009_1.png)\
+karşımızda!](media/Silverlight_3_0_Beta_icerisinde_WriteableBitmap_kullanimi/25042009_1.png)\
 *Yarattığımız Bitmap karşımızda!*
 
 Yukarıdaki görselde gördüğünüz Bitmap'i tamamen kendi kodumuz ile

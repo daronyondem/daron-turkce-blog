@@ -10,7 +10,7 @@ Tags:
 old.EntryID: 3411a3af-2850-40d6-8faa-1e8fa698330c
 ---
 ![INETA
-Logo](http://cdn.daron.yondem.com/assets/1979/05032008_1.png)Sanırım
+Logo](media/Yeni_Gorevim_INETA_Turkiye_Baskanligi/05032008_1.png)Sanırım
 yazılım sektörünü takip edenler olarak çoğumuz
 **[INETA](http://www.ineta.org)**'yı duymuşuzdur. Açılımı **Internation
 .NET Association** olan dernek Türkiye'de özellikle .NET çerçeveli

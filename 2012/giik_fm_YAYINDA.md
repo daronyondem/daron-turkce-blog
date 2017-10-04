@@ -13,7 +13,7 @@ Süper bir haberle karşınızdayım :) Sevgili [İlkay
 [www.giik.fm](http://www.giik.fm) yayında!! İlk PodCast'imizi biraz önce
 yayına koyduk. Heyecanlıyız :)
 
-![](http://cdn.daron.yondem.com/assets/2824/giik2_big.png)
+![](media/giik_fm_YAYINDA/giik2_big.png)
 
 İlk Podcastimiz biraz uzun sürdü :) malum anlatacak çok şey var bu
 hafta. Önümüzdeki hafta boyunca da ben Build konferansından, Seattle'dan

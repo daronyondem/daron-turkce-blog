@@ -17,13 +17,13 @@ kaynaklanan bazı sorunlar yüzünden hosting sağlayıcıların müşteri ile
 uğraşmak zorunda kaldığı derdi de aslında bir gerçek :)
 
 ![Microsoft Ankara hosting sağlayıcılar
-eğitimi.](http://cdn.daron.yondem.com/assets/2239/06112008_1.jpg)\
+eğitimi.](media/Microsoft_Ankara_Hoster_Egitimi/06112008_1.jpg)\
 *Microsoft Ankara hosting sağlayıcılar eğitimi.*
 
 Eğitimde kullandığım sunumu aşağıdan indirebilirsiniz.
 
 [IIS 7 ve ASP.NET 3.5 sunumu - 09112008\_1.pptx (206,66
-KB)](http://cdn.daron.yondem.com/assets/2239/09112008_1.pptx)
+KB)](media/Microsoft_Ankara_Hoster_Egitimi/09112008_1.pptx)
 
 Hepinize kolay gelsin.
 

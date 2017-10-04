@@ -13,7 +13,7 @@ Yazılım sektörü ile ilgili dünyadaki ve Türkiye'deki gelişmelerle ilgili
 ufak bir haber geçidi oluşturmaya karar verdim :) Gelin beraberce
 inceleyelim.
 
-![](http://cdn.daron.yondem.com/assets/1785/silverlight.gif)İlk
+![](media/Haberler/silverlight.gif)İlk
 haberimiz tabi ki **Silverlight 1.0**'ın çıkışı. Bu konuda daha önce de
 blog içerisinde bir yazı yazmıştım. O nedenle çok detaya girmeyeceğim.
 Özellikle bahsetmek istediğim bir diğer nokta da **Moonlight**;

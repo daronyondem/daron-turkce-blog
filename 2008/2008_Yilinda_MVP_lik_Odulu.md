@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 852e0af4-c825-4de4-b0b0-45f5d4b277e7
 ---
-![](http://cdn.daron.yondem.com/assets/2011/02042008_1.png)*"Congratulations!
+![](media/2008_Yilinda_MVP_lik_Odulu/02042008_1.png)*"Congratulations!
 We are pleased to present you with the 2008 Microsoft® MVP Award! The
 MVP Award is our way to say thank you for promoting the spirit of
 community and improving people’s lives and the industry’s success every

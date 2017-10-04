@@ -20,7 +20,7 @@ iletişime geçerek aynı tasarımın siteye yerleştirilmesini ve böylece
 herkesin sipariş verebilmesini sağladım :)
 
 ![Orijinal
-Tasarımlar](http://cdn.daron.yondem.com/assets/1991/15032008_3.jpg)\
+Tasarımlar](media/Silverlight_T-Shirt_isteyenler_buraya/15032008_3.jpg)\
 *Orijinal Tasarımlar*
 
 Tish-O'nun arayüzünü kendi sitesine girdiğinizde zaten rahatlıkla
@@ -33,14 +33,14 @@ Siteden **Silverlight T-Shirt** sipariş verebilmek için yapmanız
 gerekenleri bir iki adımda göstermek istiyorum.
 
 ![Tish-O sitesinde adım
-1.](http://cdn.daron.yondem.com/assets/1991/15032008_1.jpg)\
+1.](media/Silverlight_T-Shirt_isteyenler_buraya/15032008_1.jpg)\
 *Tish-O sitesinde adım 1.*
 
 Herhangi bir T-Shirt tasarımı yaparken T-Shirt'ün ön ve arka yüzüne
 hazır Silverlight tasarımlarını yerleştirerek sipariş verebilirsiniz.
 
 ![Tish-O sitesinde adım
-2.](http://cdn.daron.yondem.com/assets/1991/15032008_2.jpg)\
+2.](media/Silverlight_T-Shirt_isteyenler_buraya/15032008_2.jpg)\
 *Tish-O sitesinde adım 1.*
 
 Görselleri ekledikten sonra sitedeki arayüzde basılacak boyutu da

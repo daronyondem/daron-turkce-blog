@@ -22,7 +22,7 @@ paylaşmayacağız :) Malum çok rahat konuşmalar oldu o nedenle alenen
 paylaşmamak çok daha sağlıklı olacaktır.
 
 ![DeveloperMania Etkinliği
-Paneli](http://cdn.daron.yondem.com/assets/2499/28032010_1.jpg)\
+Paneli](media/DeveloperMania_Etkinligindeki_Oturumum/28032010_1.jpg)\
 *DeveloperMania Etkinliği Paneli*
 
 Etkinlikte konuşmacı olan herkese çok teşekkür etmekle beraber :)

@@ -326,7 +326,7 @@ geçilemez. Bu noktada Implicit Style desteği Expression Blend'in .NET
 Implicit Style yapıları oluşturabiliyorlar.
 
 ![Expression Blend içerisinde Implicit Style
-yapıları.](http://cdn.daron.yondem.com/assets/2453/20112009_1.png)\
+yapıları.](media/Silverlight_4_Beta_icerisinde_Implicit_Style_kullanimi/20112009_1.png)\
 *Expression Blend içerisinde Implicit Style yapıları.*
 
 Blend içerisinde mantık da tamamen aynı. Herhangi bir kontrol üzerinden

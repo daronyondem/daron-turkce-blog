@@ -17,7 +17,7 @@ gün içerisinde olabildiğince sizlerle
 çalıştım. Yarınki Keynote'da ise istemci taraflı yeniliklerden
 bahsedilecek! Gelin bugün neler olduğuna bir göz atalım!
 
-![PDC, 1. Gün!](http://cdn.daron.yondem.com/assets/2449/17112009_1.jpg)\
+![PDC, 1. Gün!](media/PDC_Birinci_gunde_olanlar/17112009_1.jpg)\
 *PDC, Los Angeles, 1. Gün!*
 
 Sabah Keynote için salonun dolması pek de uzun sürmedi. 8.30'da
@@ -40,7 +40,7 @@ kurulacak. Bunu takiben ikinci aşamada da Türkiye'de satışların
 başlaması pek de garip olmaz sanırım :)
 
 ![Windows Azure 1 Ocak'ta
-karşınızda!](http://cdn.daron.yondem.com/assets/2449/17112009_2.jpg)\
+karşınızda!](media/PDC_Birinci_gunde_olanlar/17112009_2.jpg)\
 *Windows Azure 1 Ocak'ta karşınızda!*
 
 Aslında kısmen yazılım geliştiriciler olarak bu gecikme sürecinde
@@ -67,7 +67,7 @@ tutun önbellekleme ihtiyaçlarına kadar geniş çaplı projelerde
 performansın artmasını ve yönetimi kolaylaştırabiliyorsunuz.
 
 ![Velocity ve Dublin oldu
-AppFabric!](http://cdn.daron.yondem.com/assets/2449/17112009_4.jpg)\
+AppFabric!](media/PDC_Birinci_gunde_olanlar/17112009_4.jpg)\
 *Velocity ve Dublin oldu AppFabric!*
 
 **Pinpoint ve Dallas**
@@ -127,7 +127,7 @@ gösterdi! O an salondaki 7000 kişilik gülüşmeyi duymalıydınız! Herhalde
 Windows Phone ekibi kenarda ağlamaya başlamıştır!
 
 ![Ray Ozzie Azure'dan bahsederken ekranda neler var
-neler!](http://cdn.daron.yondem.com/assets/2449/17112009_3.jpg)\
+neler!](media/PDC_Birinci_gunde_olanlar/17112009_3.jpg)\
 *Ray Ozzie Azure'dan bahsederken ekranda neler var neler!*
 
 Tüm bunlara baktığımda bazen "Kraldan çok kralcı" mı olduk diye

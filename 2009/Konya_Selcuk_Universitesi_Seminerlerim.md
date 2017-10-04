@@ -23,7 +23,7 @@ lazım*" şartlanmasının anlamsız olduğunu kanıtlayan bu örneği özellikl
 sizlerle buradan paylaşmak istedim.
 
 ![Konya, Selçuk Üniversitesi
-Seminerlerim](http://cdn.daron.yondem.com/assets/2359/27042009_1.jpg)\
+Seminerlerim](media/Konya_Selcuk_Universitesi_Seminerlerim/27042009_1.jpg)\
 *Konya, Selçuk Üniversitesi Seminerlerim*
 
 Etkinlikteki katkılarından dolayı sevgili [Serkan

@@ -20,7 +20,7 @@ normal seminerlerimde olduğu gibi daha geniş bir zamanlama ile teknik
 içeriğe de ihtiyaç olduğu açıkça ortada.
 
 ![Gümüş Devrim: Silverlight
-:)](http://cdn.daron.yondem.com/assets/1943/03022008_1.jpg)\
+:)](media/Gumus_Devrim_Silverlight_ITU-Botego_Semineri_ardindan/03022008_1.jpg)\
 *Gümüş Devrim: Silverlight, İTÜ, Botego*
 
 Daha önce İTÜ'de bir Silverlight semineri gerçekleştirmiştik. Umarım

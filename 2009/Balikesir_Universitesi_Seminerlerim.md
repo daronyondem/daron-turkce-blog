@@ -17,7 +17,7 @@ Muammer Benzeş de konuşmacı olarak da yer aldı. Kendisine desteğinden
 dolayı teşekkür ediyorum.
 
 ![Balıkesir
-Seminerleri](http://cdn.daron.yondem.com/assets/2474/11122009_1.jpg)\
+Seminerleri](media/Balikesir_Universitesi_Seminerlerim/11122009_1.jpg)\
 *Balıkesir Seminerleri*
 
 Balıkesir Üniversitesi eğitim görevlisi hocalarımıza da ayrıca teşekkür

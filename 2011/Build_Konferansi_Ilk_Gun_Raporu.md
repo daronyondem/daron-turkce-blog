@@ -21,7 +21,7 @@ gerçek olmadı. Yani özetle ortada korkacak hiçbirşey yok :) Herşey
 yolunda hatta SÜPER yolunda.
 
 ![Steven Sinofsky ilk günü
-açarken...](http://cdn.daron.yondem.com/assets/2697/DSC00040.jpg)\
+açarken...](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00040.jpg)\
 *Steven Sinofsky ilk günü açarken...*
 
 Bugün neredeyse tamamen Windows 8 ve ağırlıklı olarak yeni Tablet
@@ -52,7 +52,7 @@ tablet aldığınızda ve login olduğunda tamamlanmış olarak gelecek
 karşınıza.
 
 ![Sağdaki resim üzerinde 3 hareketle gesture login
-yapabiliyorsunuz.](http://cdn.daron.yondem.com/assets/2697/DSC00045.jpg)\
+yapabiliyorsunuz.](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00045.jpg)\
 *Sağdaki resim üzerinde 3 hareketle gesture login yapabiliyorsunuz.*
 
 İkinci "amanın" dediğim şey ise **Gesture Login** oldu. Bana ilk anda
@@ -71,7 +71,7 @@ kısalabiliyor. Benim gördüğüm tabletlerde 2-3 saniyede açılmalar
 inanılmazdı.
 
 ![İlk yükleme sonrası memory
-kullanımı.](http://cdn.daron.yondem.com/assets/2697/DSC00043.jpg)\
+kullanımı.](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00043.jpg)\
 *İlk yükleme sonrası memory kullanımı.*
 
 Verilen istatistiklerden birisi ise işletim sisteminin temiz bir yükleme
@@ -94,7 +94,7 @@ metodlarının Windows Phone'da şu an var oluyor olması belki yakında
 Windows Phone'da da bazı updatelerin geleceğini işaret edebilir.
 
 ![Metro UI
-karşınızda!](http://cdn.daron.yondem.com/assets/2697/DSC00046.jpg)\
+karşınızda!](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00046.jpg)\
 *Metro UI karşınızda!*
 
 Metro UI'daki uygulamaların deveplopmentı ile ilgili birçok dedikodu
@@ -114,7 +114,7 @@ tüm bu platformlardan. Malum kamera ile ilgili API'leri işletim sistemi
 açıyor olsa gerek? Kesinlikle.
 
 ![Windows 8 Platform
-Mimarisi](http://cdn.daron.yondem.com/assets/2697/DSC00054.jpg)\
+Mimarisi](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00054.jpg)\
 *Windows 8 Platform Mimarisi*
 
 Yukarıdaki fotoğrafta sağ tarafta mavi kolonlarda görebileceğiniz üzere
@@ -133,7 +133,7 @@ ayrı açılmış durumdalar diyebiliriz. Yani aynı API'yi C, C++'dan veya
 C\#, VB'den veya JavaScript'ten çağırabiliyorsunuz.
 
 ![Visual Studio'da JavaScript Metro UI
-Uygulamaları](http://cdn.daron.yondem.com/assets/2697/DSC00057.jpg)\
+Uygulamaları](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00057.jpg)\
 *Visual Studio'da JavaScript Metro UI Uygulamaları*
 
 Burada tabi doğal olarak en kritik nokta JavaScript'in platform bağımsız
@@ -145,7 +145,7 @@ API calları bir katmana habsedilebilirse geri kalan katmanların platform
 bağımsız olma şansı olacaktır.
 
 ![Expression Blend'de
-HTML5](http://cdn.daron.yondem.com/assets/2697/DSC00061.jpg)\
+HTML5](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00061.jpg)\
 *Expression Blend'de HTML5*
 
 HTML5'den bahsederken tabi tüm bu uygulamaları tasarlama noktasında bu
@@ -169,7 +169,7 @@ direk uygulama satabiliyor ve pazardan pay alabiliyor olmamız bence çok
 kritik.
 
 ![Windows Store developer arayüzünden bir
-kare.](http://cdn.daron.yondem.com/assets/2697/DSC00067.jpg)\
+kare.](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00067.jpg)\
 *Windows Store developer arayüzünden bir kare.*
 
 Windows Store şu anda tabi ki açık değil, developerlara test amaçlı dahi
@@ -201,7 +201,7 @@ ise tüm yukarıda bahsettiğim MetroUI uygulamalarının Windows 8 çıkmadan
 önce developerlar tarafından geliştirilebilmesi, test edilebilmesi vs.
 
 ![Windows 8 yüklü bir
-tablet!](http://cdn.daron.yondem.com/assets/2697/DSC00150.jpg)\
+tablet!](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00150.jpg)\
 *Windows 8 yüklü bir tablet!*
 
 Beklenen oldu ve ilk gün açılış konuşmasında konferansa katılan herkese
@@ -229,7 +229,7 @@ uygulamalr denebilir. MetroUI içerisinde uygulamalar arası geçişler çok
 hızlı yapılabiliyor. İşte bunu sağlayan da bu "Suspended" olayı :)
 
 ![Windows 8 ile yeni Task
-Manager](http://cdn.daron.yondem.com/assets/2697/DSC00080.jpg)\
+Manager](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00080.jpg)\
 *Windows 8 ile yeni Task Manager*
 
 Suspended moda geçen bir uygulama hiç CPU kullanmıyor, böylece
@@ -244,7 +244,7 @@ bağlantısının ayakta tutulduğu bir Standby modu var. Bu modun da adı
 "Connected Standby" :)
 
 ![Task Manager'da App
-History](http://cdn.daron.yondem.com/assets/2697/DSC00082.jpg)\
+History](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00082.jpg)\
 *Task Manager'da App History*
 
 Task Manager'da daha birçok yenilik var. Bahsetmeden geçemeyceğim bir
@@ -264,7 +264,7 @@ Microsoft bu konuda kesinlikle destek veremeyeceğini ve sorumluluk kabul
 edemeyeceğini konferansta defalarca dile getirdi.
 
 ![Windows 8 Developer Preview downloada
-hazır.](http://cdn.daron.yondem.com/assets/2697/DSC00095.jpg)\
+hazır.](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00095.jpg)\
 *Windows 8 Developer Preview downloada hazır.*
 
 Windows 8 Developer Preview'u <http://dev.windows.com> adresinden
@@ -285,7 +285,7 @@ designer engine'lerinin olması doğal olarak hem anlamlı değildi hem de
 tutarsız sonuçlara neden olabiliyordu.
 
 ![Expression Blend ve Visual Studio
-kardeşliği.](http://cdn.daron.yondem.com/assets/2697/DSC00128.jpg)\
+kardeşliği.](media/Build_Konferansi_Ilk_Gun_Raporu/DSC00128.jpg)\
 *Expression Blend ve Visual Studio kardeşliği.*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere artık Visual
@@ -303,7 +303,7 @@ Konferans alanındaki internet bağlantısı pek sağlıklı olmadığı için
 maalesef ancak text tweetler yollayabildim :)
 
 ![Build Konferansı Gün 1 Açılış
-Konuşması](http://cdn.daron.yondem.com/assets/2697/build_panorama.jpg)\
+Konuşması](media/Build_Konferansi_Ilk_Gun_Raporu/build_panorama.jpg)\
 *Build Konferansı Gün 1 Açılış Konuşması*
 
 Yarın da aynı şekilde devam etmeye çalışacağım. Yarın demişken.. saat

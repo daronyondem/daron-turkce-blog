@@ -35,7 +35,7 @@ kontrol etmesi gerektiğini ayarlayabiliyorsunuz. Seçenekler çok geniş
 olmasa da sanırım yeterli olacaktır.
 
 ![Expression Media içerisinde Folder Watching özelliğini
-ayarlıyoruz.](http://cdn.daron.yondem.com/assets/1903/30122007_1.png)\
+ayarlıyoruz.](media/Expression_Media_ve_Folder_Watching_Ozelligi/30122007_1.png)\
 *Expression Media içerisinde Folder Watching özelliğini ayarlıyoruz.*
 
 Yukarıdaki ayarı tamamladıktan sonra sıra geliyor hangi klasörlerin
@@ -44,7 +44,7 @@ aktardığımız klasörlerden "**Catalog Folders"** arayüzünden birini
 seçerek faremizin sağ tuşu ile tıklıyoruz.
 
 ![Seçtiğimiz klasörün sürekli izlenmesini
-sağlıyoruz.](http://cdn.daron.yondem.com/assets/1903/30122007_2.png)\
+sağlıyoruz.](media/Expression_Media_ve_Folder_Watching_Ozelligi/30122007_2.png)\
 *Seçtiğimiz klasörün sürekli izlenmesini sağlıyoruz.*
 
 Karşımıza gelen menüden **"Switch Auto-Update On"** komutunu

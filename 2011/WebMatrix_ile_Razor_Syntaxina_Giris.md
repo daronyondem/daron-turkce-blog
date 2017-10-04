@@ -20,7 +20,7 @@ WebMatrix içerisinde boş bir site yaratarak siteye de bir CSHTML dosyası
 ekleyelim.
 
 ![Sitemize ilk dosyamızı
-eklerken.](http://cdn.daron.yondem.com/assets/2541/02012011_1.png)\
+eklerken.](media/WebMatrix_ile_Razor_Syntaxina_Giris/02012011_1.png)\
 *Sitemize ilk dosyamızı eklerken.*
 
 Dosya ilk bakışta normal bir HTML dosyası gibi gözükse de inline olarak
@@ -30,7 +30,7 @@ bulabilirsiniz.
 **[C\#]**
 
 ![İlk WebMatrix
-örneğimiz!](http://cdn.daron.yondem.com/assets/2541/02012011_2.png)
+örneğimiz!](media/WebMatrix_ile_Razor_Syntaxina_Giris/02012011_2.png)
 
 Sanırım önce biraz zaman vermem gerek kodu incelemeniz için :) "Ne
 oluyor burada yahu?" dediğinizi duyar gibiyim. Şimdi ilk kuralımız şu;
@@ -49,7 +49,7 @@ parantezler kod bloğu yaratmaya gerek kalmayabiliyor.
 **[VB]**
 
 ![WebMatrix'de ilk VB
-kodumuz!](http://cdn.daron.yondem.com/assets/2541/02012011_3.png)
+kodumuz!](media/WebMatrix_ile_Razor_Syntaxina_Giris/02012011_3.png)
 
 Visual Basic tarafında syntax epeyce değişiyor. İlk olarak kod yazmak
 istediğiniz herhangi bir yerde sadece @ işareti yeterli olmayabiliyor ve
@@ -76,7 +76,7 @@ doğrudan sayfaya HTML olarak çıkartılacaktır.
 **[VB]**
 
 ![HTML tagi olmadan HTML output
-etmek.](http://cdn.daron.yondem.com/assets/2541/02012011_4.png)
+etmek.](media/WebMatrix_ile_Razor_Syntaxina_Giris/02012011_4.png)
 
 Kod içerisinde kısımları comment olarak işaretlemek içinse iki yöntem
 var. Birincisi klasik C\# veya VB'deki comment mekanizmaları ikincisi
@@ -85,7 +85,7 @@ ise Razor'a özel syntax.
 **[C\#]**
 
 ![Comment
-syntaxı.](http://cdn.daron.yondem.com/assets/2541/02012011_5.png)
+syntaxı.](media/WebMatrix_ile_Razor_Syntaxina_Giris/02012011_5.png)
 
 Dikkat ederseniz üst kısımda açılan bir kod bloğundaki kodu C\# syntax'ı
 ile comment ederken alt kısımdaki bir Razor kod bloğunu ise Razor

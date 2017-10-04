@@ -20,6 +20,6 @@ Dersimizin son günlerinde üzerinde çalıştığımız **Roll-Over Banner**
 indirebilirsiniz. Bir başka eğitimde görüşmek dileği ile…
 
 [Roll-Over Banner Demo - 05072007\_1.rar (11.56
-KB)](http://cdn.daron.yondem.com/assets/1747/05072007_1.rar)
+KB)](media/Web_Tasarim_Egitimi_-_Ilk_Kur_Sonlandi/05072007_1.rar)
 
 

@@ -22,7 +22,7 @@ Türkiye'de](http://www.facebook.com/daronyondemtr#!/event.php?eid=1009654066542
 de yapacağız.
 
 ![MSDays 2011, Sofya,
-Bulgaristan](http://cdn.daron.yondem.com/assets/2556/04042011_1.jpg)\
+Bulgaristan](media/MSDays_2011_Sofya_geldi_gecti/04042011_1.jpg)\
  *HTML5 Oturumu, MSDays 2011, Sofya, Bulgaristan*
 
 İkinci Sofya ziyaretim olan MSDays11 gezim sonrasında biraz Sofya'nın
@@ -34,14 +34,14 @@ Sofya'da hayran olduğum Cumhurbaşkanlığı binasına ait bir fotoğrafımın
 vermekten öteye geçemeyeceğim.
 
 ![Silverlight UI Ninja Oturumu, MSDays 2011, Sofya,
-Bulgaristan](http://cdn.daron.yondem.com/assets/2556/04042011_2.jpg)\
+Bulgaristan](media/MSDays_2011_Sofya_geldi_gecti/04042011_2.jpg)\
 *Silverlight UI Ninja Oturumu, MSDays 2011, Sofya, Bulgaristan*
 
 Bu kadar geyik yaptıktan sonra :) sıra geldi biraz da içerik paylaşmaya.
 Aşağıda WP7 oturumunda kullandığım slaytları bulabilirsiniz.
 
 [WP7 User Experience Best Practices Deck - 04042011\_3.pptx (36,30
-MB)](http://cdn.daron.yondem.com/assets/2556/04042011_3.pptx)
+MB)](media/MSDays_2011_Sofya_geldi_gecti/04042011_3.pptx)
 
 *Not: Silverlight UI Ninja oturumu ile ilgili birşey paylaşmıyorum :) O
 sürpriz kalsın :)*

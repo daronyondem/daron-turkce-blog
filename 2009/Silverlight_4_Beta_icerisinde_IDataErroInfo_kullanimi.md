@@ -257,7 +257,7 @@ mesaj metnini geri döndürebiliyoruz. Söz konusu mesaj metni otomatik
 olarak SL kontrolleri tarafından gösterilebiliyor.
 
 ![IDataErrorInfo'dan gelen validasyon
-sonucu...](http://cdn.daron.yondem.com/assets/2457/24112009_1.png)\
+sonucu...](media/Silverlight_4_Beta_icerisinde_IDataErroInfo_kullanimi/24112009_1.png)\
 *IDataErrorInfo'dan gelen validasyon sonucu...*
 
 Yukarıdaki ekran görüntüsünde **Insanlar** nesnemizden bir listenin

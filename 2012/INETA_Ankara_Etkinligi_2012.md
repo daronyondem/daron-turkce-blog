@@ -12,7 +12,7 @@ Tags: Windows Azure
 ediyor :) Bilgileri aşağıda ;)
 
 ![INETA Ankara
-Etkinliği](http://cdn.daron.yondem.com/assets/2752/banner.jpg)\
+Etkinliği](media/INETA_Ankara_Etkinligi_2012/banner.jpg)\
 *INETA Ankara Etkinliği*
 
 Etkinliğe[buradan](http://www.inetatr.org/oforms/yazilimcilar-ankara-da-bulusuyor)

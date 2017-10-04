@@ -51,7 +51,7 @@ ve bunları compile edebilmek çok önemli. Bu senaryoda SSD'ler bakalım
 işe yarıyor mu?
 
 ![Testler
-ortada!](http://cdn.daron.yondem.com/assets/2420/02102009_1.jpg)
+ortada!](media/Windows_7_ile_SSD_performansi/02102009_1.jpg)
 
 Sanırım testler herşeyi gösteriyor. Sol tarafta klasik bir laptop diski
 olarak 5400 devirlik bir disk görebilirsiniz. Hemen ortada ise 7200

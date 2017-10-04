@@ -355,7 +355,7 @@ style="color: blue;">\></span>
 ekran görüntüsünü inceleyerek tekrar hatırlayalım :)
 
 ![Örnek WPF
-Uygulamamız](http://cdn.daron.yondem.com/assets/1845/10112007_1.png)\
+Uygulamamız](media/XBAP_-_WPF_Browser_Application/10112007_1.png)\
 *Örnek WPF Uygulamamız*
 
 Şimdi biraz .NET kodu yazmak için Blend'de hazırladığım projemi Visual
@@ -449,7 +449,7 @@ Bunun için ilk olarak Visual Studio 2008 içerisine yeni bir WPF Browser
 Application yaratmamız gerekiyor.
 
 ![Visual Studio 2008 ile WPF Browser Application
-yaratıyoruz.](http://cdn.daron.yondem.com/assets/1845/10112007_2.png)\
+yaratıyoruz.](media/XBAP_-_WPF_Browser_Application/10112007_2.png)\
 *Visual Studio 2008 ile WPF Browser Application yaratıyoruz.*
 
 Projemizi yarattıktan sonra ilk olarak XAML kodlarımızı kopyalayacağız.
@@ -825,7 +825,7 @@ uygulamamızı artık F5 tuşu ile Internet Explorer içerisinde
 çalıştırabiliriz.
 
 ![XBAP - WPF Browser Application iş
-başında.](http://cdn.daron.yondem.com/assets/1845/10112007_3.png)\
+başında.](media/XBAP_-_WPF_Browser_Application/10112007_3.png)\
 *XBAP - WPF Browser Application iş başında.*
 
 Hızlı ilerlemek ve konsepti gösterebilmek adına yine çok basit bir örnek

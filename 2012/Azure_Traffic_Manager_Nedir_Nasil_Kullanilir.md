@@ -23,7 +23,7 @@ Amerika'daki DC'ye yönlendirilecekler? İşte bu ve bunun gibi birkaç
 senaryoyu Azure'da Traffic Manager çözüyor.
 
 ![Dünya üzerinde Windows Azure
-Datacenter'ları...](http://cdn.daron.yondem.com/assets/2822/datacenters.jpg)\
+Datacenter'ları...](media/Azure_Traffic_Manager_Nedir_Nasil_Kullanilir/datacenters.jpg)\
 *Dünya üzerinde Windows Azure Datacenter'ları...*
 
 Azure yönetim paneline girdikten sonra sol alttan "Virtual Network"
@@ -32,7 +32,7 @@ bulabilirsiniz. Buradan hemen "Policies" listesine geçerek Traffic
 Manager kullanma yolunda maceramıza başlayabiliriz.
 
 ![İlk Traffic Manager policy'mizi
-yaratırken...](http://cdn.daron.yondem.com/assets/2822/trafficmanager_1.jpg)\
+yaratırken...](media/Azure_Traffic_Manager_Nedir_Nasil_Kullanilir/trafficmanager_1.jpg)\
 *İlk Traffic Manager policy'mizi yaratırken...*
 
 Azure Traffic Manager aslında kullanımı çok basit bir servis çünkü çoğu
@@ -43,7 +43,7 @@ Policy'yi yaratmak için üst bardan "Create" dediğiniz karşınıza
 aşağıdaki ekran gelecek. Herşey bu ekranda :) başka birşey yok.
 
 ![Traffic Manager'ın
-ayarları...](http://cdn.daron.yondem.com/assets/2822/trafficmanager_2.jpg)\
+ayarları...](media/Azure_Traffic_Manager_Nedir_Nasil_Kullanilir/trafficmanager_2.jpg)\
 *Traffic Manager'ın ayarları...*
 
 İlk olarak en üstten Traffic Manager'ı ayarlayacağımız subscription'ı

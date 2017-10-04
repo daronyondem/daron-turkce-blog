@@ -32,7 +32,7 @@ yazarak Kudu Dashboard'a ulaşabiliyorsunuz. Örneğin
 Siteye giriş yaptığınız anda size Deployment Credential'larınız
 sorulacak. Bu bilgileri zaten Azure Yönetim Paneli'nden alabilirsiniz.
 
-![Kudu Dashboard](http://cdn.daron.yondem.com/assets/2897/kudu.png)
+![Kudu Dashboard](media/Azure_Web_Sites_Kudu_ve_Custom_Site_Extensions/kudu.png)
 *Kudu Dashboard*
 
 Kudu ana sayfasında hemen sitenizin root adresini ve birkaç tane de REST
@@ -46,7 +46,7 @@ olacak. Buradan dosya silebilir, klasörleri toplu olarak ZIP şeklinde
 indirebilirsiniz.
 
 ![Kudu arayüzünde Azure Web Sites'a
-Terminal](http://cdn.daron.yondem.com/assets/2897/kudu2.png)
+Terminal](media/Azure_Web_Sites_Kudu_ve_Custom_Site_Extensions/kudu2.png)
 *Kudu arayüzünde Azure Web Sites'a Terminal*
 
 Sitenin "Log Stream" kısmına girdiğinizde sonraki 12 saat için uygulama
@@ -57,7 +57,7 @@ sadece "PostDeployment" değil farklı trigger actionları da tanımlanacak
 ve Web Hooks eminim ki çok daha işlevsel olacak.
 
 ![Kudu'da Site
-Extensions](http://cdn.daron.yondem.com/assets/2897/kudu3.jpg)
+Extensions](media/Azure_Web_Sites_Kudu_ve_Custom_Site_Extensions/kudu3.jpg)
 *Kudu'da Site Extensions*
 
 Sanırım Kudu'nun en ilginizi çekecek tarafı "Site Extensions" olacak.
@@ -76,7 +76,7 @@ extension olarak Gallery'de mevcut. Extensionı yükledikten sonra
 klasörüne girdiğinizde iki önemli dosya bulacaksınız.
 
 ![FileCounter
-Extension'ı.](http://cdn.daron.yondem.com/assets/2897/kudu4.png)
+Extension'ı.](media/Azure_Web_Sites_Kudu_ve_Custom_Site_Extensions/kudu4.png)
 *FileCounter Extension'ı.*
 
 Yukarıdaki

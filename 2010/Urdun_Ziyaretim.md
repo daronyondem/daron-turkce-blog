@@ -20,7 +20,7 @@ hafta da müşteri ziyaretleri düşünülürse :) Kesin arada bir fırsat
 bulacağımdan eminim.
 
 ![Microsoft Ürdün
-Seminerlerim](http://cdn.daron.yondem.com/assets/2528/20052010_1.jpg)\
+Seminerlerim](media/Urdun_Ziyaretim/20052010_1.jpg)\
 *Microsoft Ürdün Seminerlerim*
 
 Etkinlik boyunca Ürdün'den bir de Türk kardeşimize rastladım. Bu gibi

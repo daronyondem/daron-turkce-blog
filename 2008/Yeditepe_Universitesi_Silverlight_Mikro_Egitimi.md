@@ -17,7 +17,7 @@ kalabalıkta olması aslında normalde giremeyeceğimiz detaylara
 girebilmemizi sağladı.
 
 ![Yeditepe Üniversitesi,
-Silverlight](http://cdn.daron.yondem.com/assets/2012/04042008_1.jpg)\
+Silverlight](media/Yeditepe_Universitesi_Silverlight_Mikro_Egitimi/04042008_1.jpg)\
 *Yeditepe Üniversitesi, Silverlight*
 
 Buradan organizasyonda emeği geçen tüm Bilgisayar Kulübü'ne ve özellikle

@@ -45,7 +45,7 @@ aşağıdaki şekilde Silverlight projesi yaratma seçeneği ile
 karşılaşacaksınız.
 
 ![Visual Studio 2008 içerisinde Silverlight 1.0 Proje
-Şablonu](http://cdn.daron.yondem.com/assets/1895/23122007_1.png)\
+Şablonu](media/Silverlight_1_0_Projeleri_ve_Visual_Studio_2008/23122007_1.png)\
 *Visual Studio 2008 içerisinde Silverlight 1.0 Proje Şablonu*
 
 Bu sistemi kullanarak yarattığınız **Silverlight 1.0** projeleri ile

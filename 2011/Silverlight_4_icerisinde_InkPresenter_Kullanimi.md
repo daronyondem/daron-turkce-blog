@@ -38,7 +38,7 @@ Hemen yeni bir SL projesi yarattıktan sonra Blend ile de projeyi açarak
 sahneye Asset Library'den bir InkPresenter bulup atıyoruz.
 
 ![InkPresenter
-sahnede.](http://cdn.daron.yondem.com/assets/2547/02022011_1.png)\
+sahnede.](media/Silverlight_4_icerisinde_InkPresenter_Kullanimi/02022011_1.png)\
 *InkPresenter sahnede.*
 
 InkPresenter kontrolünü sahneye aldıktan sonra tüm sahneyi kaplayacak
@@ -275,7 +275,7 @@ ileri götüreceğiz.
 Makale sonunda oluşan örneğin kodlarını aşağıdan indirebilirsiniz;
 
 [Örnek Proje Kaynak Kodları - 02022011\_4.zip (273,38
-KB)](http://cdn.daron.yondem.com/assets/2547/02022011_4.zip)
+KB)](media/Silverlight_4_icerisinde_InkPresenter_Kullanimi/02022011_4.zip)
 
 Hepinize kolay gelsin.
 

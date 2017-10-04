@@ -54,7 +54,7 @@ düşünerek kenara koyabileceğimiz bir maliyet :) Scale ederseniz maliyet
 katlanarak artacaktır. Tabi benim blog için bir scaling ihtiyacı yok :)
 
 ![Shared Web Site
-İstatistikleri](http://cdn.daron.yondem.com/assets/2875/stat1.gif)\
+İstatistikleri](media/blogumu_azure_a_tasidiktan_sonraki_maliyetler/stat1.gif)\
 *Shared Web Site İstatistikleri*
 
 Yukarıdaki resimdeki istatistikler haftalık veriler. Bu veriler doğrudan
@@ -68,7 +68,7 @@ unutmamak gerek ki yukarıdaki bandwidth'e sitedeki resimler dahil değil
 :) Onların hepsi bloblarda duruyor.
 
 ![Shared Web Site Uygulama
-İstatistikleri](http://cdn.daron.yondem.com/assets/2875/stat3.gif)\
+İstatistikleri](media/blogumu_azure_a_tasidiktan_sonraki_maliyetler/stat3.gif)\
 *Shared Web Site Uygulama İstatistikleri*
 
 Shared Web Site modundan bahsettik ama bu modun maliyet oluşturan kaynak
@@ -97,7 +97,7 @@ Böylece otomatik olarak haberiniz olabilir. Konuyu çok dağıtmamak adına
 şimdilik o kısımlara girmeyeceğim.
 
 ![Blob Storage
-İstatistikleri](http://cdn.daron.yondem.com/assets/2875/stat2.gif)\
+İstatistikleri](media/blogumu_azure_a_tasidiktan_sonraki_maliyetler/stat2.gif)\
 *Blob Storage İstatistikleri*
 
 Gelelim Blob Storage'a, yukarıdaki istatistikler doğrudan blog için

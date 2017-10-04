@@ -276,7 +276,7 @@ sayfasında kaç kayıt gösterileceğini **PageSize** özelliğinden
 ayarlayabilirsiniz.
 
 ![Sayfalama desteği ile bir DataGrid
-kontrolü.](http://cdn.daron.yondem.com/assets/2376/01072009.png)\
+kontrolü.](media/Silverlight_3_0_icerisinde_DataPager_ve_istemci-sunucu_tarafli_sayfalama/01072009.png)\
 *Sayfalama desteği ile bir DataGrid kontrolü.*
 
 DataPager ile ilgili farklı görsel özellikler için **DisplayMode**

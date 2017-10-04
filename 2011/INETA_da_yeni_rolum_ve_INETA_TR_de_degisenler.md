@@ -44,7 +44,7 @@ ile**INETA MEA Başkanı** olarak INETA'daki macerama devam edeceğim.
 Benden önce görevi üstlenen sevgili Özgür Seyrek'e buradan tüm
 çalışmaları için teşekkür ediyorum.
 
-![INETA Logo](http://cdn.daron.yondem.com/assets/2745/ineta.png)
+![INETA Logo](media/INETA_da_yeni_rolum_ve_INETA_TR_de_degisenler/ineta.png)
 
 [INETA MEA Yönetim Ekibi](http://mea.ineta.org/mea-board) önümüzdeki
 dönemde çok daha büyüyecek ve toplu bir tekrar organizasyon dönemine

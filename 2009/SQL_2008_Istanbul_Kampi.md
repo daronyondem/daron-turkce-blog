@@ -15,7 +15,7 @@ bahsediyorum! Gelin çok konuşmadan sizinle etkinlik programını
 paylaşayım...
 
 ![SQL 2008 İstanbul
-Kampı](http://cdn.daron.yondem.com/assets/2353/18042009_1.png)
+Kampı](media/SQL_2008_Istanbul_Kampi/18042009_1.png)
 
 Hepinizi bekliyoruz.
 

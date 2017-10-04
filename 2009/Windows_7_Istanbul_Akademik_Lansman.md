@@ -16,7 +16,7 @@ gerekli ilginin toplanmasını sağlıyor. Eh ürün iyi olunca lansmanın da
 başarılı olamaması düşünülemez sanırım.
 
 ![Yeditepe Üniversitesi, Windows 7 Akademik
-Lansmanı](http://cdn.daron.yondem.com/assets/2430/23102009_1.jpg)\
+Lansmanı](media/Windows_7_Istanbul_Akademik_Lansman/23102009_1.jpg)\
 *Yeditepe Üniversitesi, Windows 7 Akademik Lansmanı*
 
 Windows 7'nin hem bireysel hem kurumsal özelliklerden hızlıca

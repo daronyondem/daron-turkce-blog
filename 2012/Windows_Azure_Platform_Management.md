@@ -24,7 +24,7 @@ gerekiyor. Yükleme paketini indirip çalıştırdığınızda normal ayarların
 herşey C'de WindowsAzure adında bir klasör altına yüklenecektir.
 
 ![Yüklemeyi yaptığımız yerde bir yükleme daha var aslında
-:)](http://cdn.daron.yondem.com/assets/2781/mmc.png)
+:)](media/Windows_Azure_Platform_Management/mmc.png)
 *Yüklemeyi yaptığımız yerde bir yükleme daha var aslında :)*
 
 Yüklemeyi tamamladığınız anda yukarıdaki şekli ile yükleme klasörü
@@ -54,7 +54,7 @@ kontrol edilmesini sağladık. Şimdi StartHere.Cmd'yi başlatıp kurulumu
 yapabilirsiniz.
 
 ![Kurulum SDK 1.4'e bakıyor :) ama kandırmak
-mümkün.](http://cdn.daron.yondem.com/assets/2781/mmc2.png)
+mümkün.](media/Windows_Azure_Platform_Management/mmc2.png)
 *Kurulum SDK 1.4'e bakıyor :) ama kandırmak mümkün.*
 
 Kurulum tamamlandıktan sonra Azure Management MMC için masaüstünüze bir
@@ -62,7 +62,7 @@ kısayol konup konsol da hemen ekranınıza gelecektir. Şimdi gelin bir de
 hafiften konsolun kullanımına bakalım.
 
 ![MMC'de Subscription
-ayarlarımız.](http://cdn.daron.yondem.com/assets/2781/mmc3.png)
+ayarlarımız.](media/Windows_Azure_Platform_Management/mmc3.png)
 *MMC'de Subscription ayarlarımız.*
 
 MMC'yi ilk açtığınızda hemen sizden bir subscription ID ve management
@@ -80,7 +80,7 @@ derim :) Böylece hazır bir management sertifikanız da olmuş olur
 makinenizde yüklü. Onu seçip ilerleyebilirsiniz.
 
 ![Herşey kontrol
-altında.](http://cdn.daron.yondem.com/assets/2781/mmc4.png)
+altında.](media/Windows_Azure_Platform_Management/mmc4.png)
 *Herşey kontrol altında.*
 
 Tüm işlemleri yaptıktan sonra artık subscription içerisindeki herşeyi

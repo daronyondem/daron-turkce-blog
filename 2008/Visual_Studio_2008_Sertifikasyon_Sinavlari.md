@@ -17,7 +17,7 @@ da yoktu. Oysa artık sizlere güzel haberlerim var; Visual Studio 2008
 ile beraber yeni sertifikasyonlar ve sınavlar tam olarak belli oldu.
 
 ![Visual Studio 2008 MCTS Sertifikasyon
-Sınavları](http://cdn.daron.yondem.com/assets/2029/19042008_1.png)\
+Sınavları](media/Visual_Studio_2008_Sertifikasyon_Sinavlari/19042008_1.png)\
 *Visual Studio 2008 MCTS Sertifikasyon Sınavları*
 
 Yukarıdaki görselde de görebileceğiniz üzere toplam altı adet yeni MCTS
@@ -28,7 +28,7 @@ gerçekten ilginç. Yukarıdaki sınavlardan 70-502,503 ve 504 şu an açık
 durumda. Diğerleri önümüzdeki aylarda açılacak.
 
 ![Visual Studio 2008 MCPD Sertifikasyon
-Sınavları](http://cdn.daron.yondem.com/assets/2029/19042008_2.png)\
+Sınavları](media/Visual_Studio_2008_Sertifikasyon_Sinavlari/19042008_2.png)\
 *Visual Studio 2008 MCPD Sertifikasyon Sınavları*
 
 MCPD yolunda da ilginç gelişmeler var. Windows Developer ve EA
@@ -41,7 +41,7 @@ doğal olarak sadece Microsoft ürünleri soruluyor. O nedenle ASP.NET
 Developer adı bence çok daha uygun olmuş.
 
 ![Visual Studio 2008'e Upgrade Sertifikasyon
-Sınavları](http://cdn.daron.yondem.com/assets/2029/19042008_3.png)\
+Sınavları](media/Visual_Studio_2008_Sertifikasyon_Sinavlari/19042008_3.png)\
 *Visual Studio 2008'e Upgrade Sertifikasyon Sınavları*
 
 Her zamanki gibi eski sertifikalı uzmanlar için "upgrade" sınavları da

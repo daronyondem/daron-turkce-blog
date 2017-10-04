@@ -31,7 +31,7 @@ geçişler arası animasyonlar vs de yok. Ama Silverlight'a bir alternatif
 olarak yerine göre belki uygun bir çözüm de olabilir.
 
 ![SeaDragon AJAX seçeneği JavaScript bazlı Deep Zoom projesi
-yaratıyor.](http://cdn.daron.yondem.com/assets/2256/23112008_1.png)\
+yaratıyor.](media/Deep_Zoom_Composer_ve_SeaDragon_AJAX_destegi_ile_JavaScript_li_Deep_Zoom/23112008_1.png)\
 *SeaDragon AJAX seçeneği JavaScript bazlı Deep Zoom projesi yaratıyor.*
 
 Bunun haricinde arka tarafta bir çok bug'ın giderilmesinin yanı sıra

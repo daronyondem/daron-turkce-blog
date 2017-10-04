@@ -57,7 +57,7 @@ olabilirsiniz. Şimdi gelelim postun esas konusuna :) Ankara Üniversitesi
 etkinliği :)
 
 ![Ankara Üniversitesi, Silverlight
-4](http://cdn.daron.yondem.com/assets/2512/20042010_1.jpg)\
+4](media/Ankara_Universitesi_Seminerim_ve_bazi_detaylar/20042010_1.jpg)\
 *Ankara Üniversitesi, Silverlight 4*
 
 Etkinlik benim açımdan çok güzel geçti. Bunun en önemli nedeni aslında

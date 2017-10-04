@@ -15,14 +15,14 @@ prosedürü. Her zamanki gibi Azure projenize sağ tıklar ve package'ı
 yaratırsınız. Sonra management portalına girersiniz :)
 
 ![Normal bir upgrade
-senaryosu...](http://cdn.daron.yondem.com/assets/2884/upgrade.jpg)\
+senaryosu...](media/Azure_da_Service_Upgrade_SDK2_2/upgrade.jpg)\
 *Normal bir upgrade senaryosu...*
 
 Upgrade etmek istediğiniz deployment'ın ana ekranında hemen alt menüden
 "Update" komutunu verebilirsiniz.
 
 ![Upgrade sürecini
-başlatırken.](http://cdn.daron.yondem.com/assets/2884/upgrade2.jpg)\
+başlatırken.](media/Azure_da_Service_Upgrade_SDK2_2/upgrade2.jpg)\
 *Upgrade sürecini başlatırken.*
 
 Upgrade'i başlattığınız anda karşınıza yukarıdaki ekran gelecektir. Yeni
@@ -70,7 +70,7 @@ amaçlı tutar ve SWAP sonrası herşey yolundaysa staging sunucularını
 silerseniz sonuçta sadece kullandığınız saat kadar ödeme yapacağınız
 için çok büyük bir sorun da yaratmayacaktır.
 
-![VIP Swap](http://cdn.daron.yondem.com/assets/2884/upgrade3.jpg)\
+![VIP Swap](media/Azure_da_Service_Upgrade_SDK2_2/upgrade3.jpg)\
 *VIP Swap*
 
 VIP Swap yapabilmek için herhangi bir deployment'ın dashboard'unda alt

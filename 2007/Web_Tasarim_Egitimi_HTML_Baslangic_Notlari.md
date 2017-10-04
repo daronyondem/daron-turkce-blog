@@ -20,6 +20,6 @@ konusu dersin notlarının bulunduğu mesaja yorum olarak
 yollayabilirsiniz.
 
 [07042007\_1.zip (27.43
-KB)](http://cdn.daron.yondem.com/assets/1722/07042007_1.zip)
+KB)](media/Web_Tasarim_Egitimi_HTML_Baslangic_Notlari/07042007_1.zip)
 
 

@@ -34,7 +34,7 @@ uzantısını ZIP olarak değiştirirseniz aslında içerisine girerek tüm
 detayları görebilirsiniz.
 
 ![OpenXML dosyalarının içinde herşey XML formatında, açık seçik
-karşımızda.](http://cdn.daron.yondem.com/assets/2121/12072008_1.png)\
+karşımızda.](media/Silverlight_2_0_ile_Powerpoint_dosyalarinin_Thumbnail_lerini_gostermek/12072008_1.png)\
 *OpenXML dosyalarının içinde herşey XML formatında, açık seçik
 karşımızda.*
 

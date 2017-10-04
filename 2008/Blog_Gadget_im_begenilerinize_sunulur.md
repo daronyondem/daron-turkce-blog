@@ -21,7 +21,7 @@ kullanmak arasında alışkanlık farklılığı açısından epey bir mesafe
 olduğunu düşünerek Gadget'ımızı hazırlamaya koyuldum.
 
 ![Blog Gadget iş
-başında.](http://cdn.daron.yondem.com/assets/1974/01032008_1.png)\
+başında.](media/Blog_Gadget_im_begenilerinize_sunulur/01032008_1.png)\
 *Blog Gadget iş başında.*
 
 Amacım her gün bilgisayarlarını açan okuyucularımın o gün yayınlanan en
@@ -35,6 +35,6 @@ indireceğiniz dosyanın uzantısını ZIP yaparak içerisine bir göz
 atmanızdır ;)
 
 [Vista Gadget - DaronBlog.gadget (25.16
-KB)](http://cdn.daron.yondem.com/assets/1974/DaronBlog.gadget.zip)
+KB)](media/Blog_Gadget_im_begenilerinize_sunulur/DaronBlog.gadget.zip)
 
 

@@ -20,7 +20,7 @@ prosedürü. Her zamanki gibi Azure projenize sağ tıklar ve package'ı
 yaratırsınız. Sonra management portalına girersiniz :)
 
 ![Normal bir upgrade
-senaryosu...](http://cdn.daron.yondem.com/assets/2763/upgrade.jpg)\
+senaryosu...](media/Azure_da_Service_Upgrade/upgrade.jpg)\
 *Normal bir upgrade senaryosu...*
 
 Upgrade etmek istediğiniz deployment'ı seçip sağ tıkladığınız anda gelen
@@ -28,7 +28,7 @@ context menüden upgrade komutunu vererek upgrade sürecini
 başlatabilirsiniz.
 
 ![Upgrade sürecini
-başlatırken.](http://cdn.daron.yondem.com/assets/2763/upgrade2.jpg)\
+başlatırken.](media/Azure_da_Service_Upgrade/upgrade2.jpg)\
 *Upgrade sürecini başlatırken.*
 
 Upgrade'i başlattığınız anda karşınıza yukarıdaki ekran gelecektir. Yeni
@@ -45,7 +45,7 @@ için önce upgrade öncesinde bulunan ve daha önce deploy edilmiş olan
 servisimizin içindeki web role'ün instance count'unu değiştirelim.
 
 ![Servis çalışırken konfigürasyonu
-değiştirmek.](http://cdn.daron.yondem.com/assets/2763/upgrade3.jpg)\
+değiştirmek.](media/Azure_da_Service_Upgrade/upgrade3.jpg)\
 *Servis çalışırken konfigürasyonu değiştirmek.*
 
 Herhangi bir deployment'ı seçip üst menüden "Configure" komutunu
@@ -55,7 +55,7 @@ veya hali hazırda bulunan konfigürasyonu direk text olarak
 düzenleyebilirsiniz.
 
 ![Instance Count'u 2'ye
-değiştirirken.](http://cdn.daron.yondem.com/assets/2763/upgrade4.jpg)\
+değiştirirken.](media/Azure_da_Service_Upgrade/upgrade4.jpg)\
 *Instance Count'u 2'ye değiştirirken.*
 
 Ben açılan ekranda hemen Instance Count'u 2 yaparak elimdeki web role'e
@@ -76,7 +76,7 @@ upgrade domain'i load balancer'dan çıkarıp sırayla upgrade ederken
 Manual seçenekte her adım için bizden onay bekleyecek.
 
 ![Upgrade'i başlatmaya
-hazırız.](http://cdn.daron.yondem.com/assets/2763/upgrade5.jpg)\
+hazırız.](media/Azure_da_Service_Upgrade/upgrade5.jpg)\
 *Upgrade'i başlatmaya hazırız.*
 
 Upgrade işlemini onayladığınızda ve yeni paketiniz azure'a yüklenip
@@ -84,7 +84,7 @@ işlemler başlamaya hazır olduğunda yukarıdaki gibi bir manzara ile
 karşılaşacaksınız. Artık manual update işlemini başlatmaya hazırız.
 
 ![Manual Upgrade'i bu sefer gerçekten başlatalım
-:)](http://cdn.daron.yondem.com/assets/2763/upgrade6.jpg)\
+:)](media/Azure_da_Service_Upgrade/upgrade6.jpg)\
 *Manual Upgrade'i bu sefer gerçekten başlatalım :)*
 
 Upgrade işlemine hazır olan Deployment'ı seçtiğinizde üst ribbon menüde
@@ -93,7 +93,7 @@ işlemlerinin başlaması için yeterli. İşlemleri başlattıktan sonra da tek
 tek upgradedomain'lerin onaylarını vereceğiz.
 
 ![Tek tek
-upgrade...](http://cdn.daron.yondem.com/assets/2763/upgrade7.jpg)\
+upgrade...](media/Azure_da_Service_Upgrade/upgrade7.jpg)\
 *Tek tek upgrade...*
 
 Role'ümüzde iki instance olduğu için bu instancelardan biri ayrı bir
@@ -125,7 +125,7 @@ amaçlı tutar ve SWAP sonrası herşey yolundaysa staging sunucularını
 silerseniz sonuçta sadece kullandığınız saat kadar ödeme yapacağınız
 için çok büyük bir sorun da yaratmayacaktır.
 
-![VIP Swap](http://cdn.daron.yondem.com/assets/2763/upgrade8.jpg)\
+![VIP Swap](media/Azure_da_Service_Upgrade/upgrade8.jpg)\
 *VIP Swap*
 
 VIP Swap yapabilmek için herhangi bir deployment'ı seçip üst ribbon

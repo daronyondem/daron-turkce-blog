@@ -26,7 +26,7 @@ Streaming Servis hesabınızdan **Account ID** ve **Account Key**
 bilgilerini alarak Expression Encoder içerisine yerleştirmek.
 
 ![Silverlight Streaming Serivis
-Bilgileri](http://cdn.daron.yondem.com/assets/1835/02112007_1.png)\
+Bilgileri](media/Expression_Encoder_Silverlight_Streaming_Servisleri_Eklentisi/02112007_1.png)\
 *Silverlight Streaming Serivis Bilgileri*
 
 Yukarıdaki görseldeki gibi <http://silverlight.live.com/> adresinden
@@ -35,7 +35,7 @@ kısmında gerekli bilgileri alarak direk Expression Encoder'da Output
 kısmına yerleştirebiliyoruz.
 
 ![Expression Encoder içerisinde
-eklentiler.](http://cdn.daron.yondem.com/assets/1835/02112007_2.png)\
+eklentiler.](media/Expression_Encoder_Silverlight_Streaming_Servisleri_Eklentisi/02112007_2.png)\
 *Expression Encoder içerisinde eklentiler.*
 
 Expression Encoder içerisinde **Output** tabında yeni bir bölüm olarak
@@ -59,7 +59,7 @@ hale gelecektir. Hemen söz konusu düğmeye basarak yüklemeyi
 başlatabilirsiniz.
 
 ![Videomuz Silverlight Streaming Servisleri'ne
-yükleniyor...](http://cdn.daron.yondem.com/assets/1835/02112007_3.png)\
+yükleniyor...](media/Expression_Encoder_Silverlight_Streaming_Servisleri_Eklentisi/02112007_3.png)\
 *Videomuz Silverlight Streaming Servisleri'ne yükleniyor...*
 
 Hepinize kolay gelsin.

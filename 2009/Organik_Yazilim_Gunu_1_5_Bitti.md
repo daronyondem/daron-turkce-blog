@@ -18,7 +18,7 @@ atma şansımız oldu. Bu bağlamda sizlerin bu yeni etkinlik tipi/şekli ile
 ilgili yorumları da benim için çok önemli.
 
 ![Ne yapıyor bu
-insanlar?](http://cdn.daron.yondem.com/assets/2439/31102009_1.jpg)\
+insanlar?](media/Organik_Yazilim_Gunu_1_5_Bitti/31102009_1.jpg)\
 *Ne yapıyor bu insanlar?*
 
 Organik Yazılım günlerimiz biliyorsunuz her seferinde ilginç besin

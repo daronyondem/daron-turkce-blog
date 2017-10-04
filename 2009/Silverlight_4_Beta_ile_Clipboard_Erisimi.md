@@ -173,7 +173,7 @@ TextBox'tan da kaldırmanın uygun olacağını düşündüm :) O nedenle bir
 sonraki satırı da keyfi olarak ekledim diyebilirim.
 
 ![Clipboard erişimi
-hakkı!](http://cdn.daron.yondem.com/assets/2452/19112009_1.png)\
+hakkı!](media/Silverlight_4_Beta_ile_Clipboard_Erisimi/19112009_1.png)\
 *Clipboard erişimi hakkı!*
 
 Uygulamanız ilk Clipboard erişimine el attığı anda :) kullanıcıya

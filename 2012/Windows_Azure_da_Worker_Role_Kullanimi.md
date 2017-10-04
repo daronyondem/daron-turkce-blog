@@ -16,7 +16,7 @@ senaryosunu da devreye alaray WebRole, Worker Role ve Storage Queue
 yapılarını yan yana getirip güzel bir resim çizelim ne dersiniz? ;)
 
 ![Yeni bir Worker
-Role...](http://cdn.daron.yondem.com/assets/2788/worker.png)\
+Role...](media/Windows_Azure_da_Worker_Role_Kullanimi/worker.png)\
 *Yeni bir Worker Role...*
 
 ### Taze bir Worker Role
@@ -29,7 +29,7 @@ nedenle ASP.NET'in de doğal olarak bütün application lifecycle'ından
 kurtulmuş durumdalar.
 
 ![Yeni bir Worker Role projesinde tek bir CS dosyası
-var.](http://cdn.daron.yondem.com/assets/2788/worker2.png)\
+var.](media/Windows_Azure_da_Worker_Role_Kullanimi/worker2.png)\
 *Yeni bir Worker Role projesinde tek bir CS dosyası var.*
 
 Yukarıdaki ekran görüntüsünden de inceleyebileceğiniz üzere :) yeni bir

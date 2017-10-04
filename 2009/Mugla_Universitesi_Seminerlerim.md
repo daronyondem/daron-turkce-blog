@@ -26,7 +26,7 @@ kalmıyor gibi. Üzerine bir de seminerlerimizdeki konuları eklerseniz
 süper yazılımcılar olacağınızdan emin olabilirsiniz.
 
 ![Muğla Üniversitesi
-Seminerlerim](http://cdn.daron.yondem.com/assets/2360/28042009_1.jpg)\
+Seminerlerim](media/Mugla_Universitesi_Seminerlerim/28042009_1.jpg)\
 *Muğla Üniversitesi Seminerlerim*
 
 Buradan etkinlikteki katkılarından dolayı **Hasan Burak Öztürk**

@@ -31,7 +31,7 @@ kullanmanız gereken yapı Local Storage yapısı olacak. Aslında kullanımı
 epey basit, ilk olarak Visual Studio'da role'ün ayarlarına geçiyoruz.
 
 ![LocalStorage ayarlarımız
-karşınızda.](http://cdn.daron.yondem.com/assets/2892/localstorage.png)
+karşınızda.](media/Windows_Azure_Local_Storage_kullanimi_SDK2_2/localstorage.png)
 *LocalStorage ayarlarımız karşınızda.*
 
 Role ayarlarındaki tablardan biri olan "Local Storage" tabına

@@ -21,7 +21,7 @@ oldu. İnanmazsınız belki ama **Isparta, Süleyman Demirel
 hali hazırda "bilgili". Gelen sorular gerçekten çok kalifiyeydi.
 
 ![Isparta, Süleyman Demirel Üniversitesi, Microsoft Oyun
-Turu](http://cdn.daron.yondem.com/assets/2262/30112008_1.jpg)\
+Turu](media/Isparta_Suleyman_Demirel_Universitesinde_Microsoft_Oyun_Turu/30112008_1.jpg)\
 *Isparta, Süleyman Demirel Üniversitesi, Microsoft Oyun Turu*
 
 Bir sonraki oturumda da XNA ile Oyun Programlama oturumunu
@@ -37,8 +37,8 @@ farklılıklarla sunumda hazırladığımız oyunun kodlarını aşağıdan
 indirebilirsiniz.
 
 [Sunum Dosyası - 30112008\_2.pptx (3,29
-MB)](http://cdn.daron.yondem.com/assets/2262/30112008_2.pptx)\
+MB)](media/Isparta_Suleyman_Demirel_Universitesinde_Microsoft_Oyun_Turu/30112008_2.pptx)\
 [Örnek Kaynak Kodları - 30112008\_3.rar (3,18
-MB)](http://cdn.daron.yondem.com/assets/2262/30112008_3.rar)
+MB)](media/Isparta_Suleyman_Demirel_Universitesinde_Microsoft_Oyun_Turu/30112008_3.rar)
 
 

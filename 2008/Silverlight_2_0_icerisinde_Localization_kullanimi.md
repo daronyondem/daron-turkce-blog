@@ -32,7 +32,7 @@ ekranda **Resource** dosyası içerisine istediğiniz "Name / Value"
 düzenlememizi yapalım.
 
 ![Localization Resource
-dosyamız.](http://cdn.daron.yondem.com/assets/2108/29062008_3.png)\
+dosyamız.](media/Silverlight_2_0_icerisinde_Localization_kullanimi/29062008_3.png)\
  *İngilizce Localization Resource dosyamız.*
 
 Unutmamanız gereken detaylardan biri dosya ile ilgili **Access
@@ -43,7 +43,7 @@ yaratılan **Designer.vb** veya **Designer.cs** dosyası içerisinde yer
 alıyor.
 
 ![Arkaplandaki sinsi kod
-dosyası!](http://cdn.daron.yondem.com/assets/2108/29062008_2.png)\
+dosyası!](media/Silverlight_2_0_icerisinde_Localization_kullanimi/29062008_2.png)\
 *Arkaplandaki sinsi kod dosyası!*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere Visual Studio
@@ -294,7 +294,7 @@ dosya içerisinde de yine **Baslik** ve **Metin** kaynaklarının Türkçe
 karşılıklarını yazmamız gerekecek.
 
 ![Localization Resource
-dosyamız.](http://cdn.daron.yondem.com/assets/2108/29062008_1.png)\
+dosyamız.](media/Silverlight_2_0_icerisinde_Localization_kullanimi/29062008_1.png)\
  *Türkçe Localization Resource dosyamız.*
 
 Artık neredeyse her şey hazır. Fakat ufak bir sorunumuz daha var. Visual

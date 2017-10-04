@@ -17,7 +17,7 @@ Zaten o noktadan sonra kalan ilgili dinleyiciler ile sanırım seminer 10
 saat bile sürse sorun olmazdı.
 
 ![ODTÜ, Silverlight ve AJAX
-Semineri](http://cdn.daron.yondem.com/assets/2009/01042008_1.jpg)\
+Semineri](media/ODTU_Silverlight_ve_AJAX_Semineri/01042008_1.jpg)\
 *ODTÜ, Silverlight ve AJAX Semineri*
 
 Buradan özellikle ODTÜ'den sevgili Arş. Gör. **Serdar Çiftçi**'ye

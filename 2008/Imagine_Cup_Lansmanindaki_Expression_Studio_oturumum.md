@@ -20,7 +20,7 @@ bahsetme şansım oluyor oysa Expression Studio içerisinde Design, Media,
 Encoder ve Web de çok güzel özelliklere sahip.
 
 ![Imagine Cup Lansmanı - Expression Studio
-Oturumum](http://cdn.daron.yondem.com/assets/2282/20122008_1.jpg)\
+Oturumum](media/Imagine_Cup_Lansmanindaki_Expression_Studio_oturumum/20122008_1.jpg)\
 *Imagine Cup Lansmanı - Expression Studio Oturumum*
 
 En kısa zamanda daha detaylı bir Expression Studio semineri yapma kararı

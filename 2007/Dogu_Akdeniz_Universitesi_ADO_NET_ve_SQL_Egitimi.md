@@ -18,14 +18,14 @@ bu kadar zorlayarak yarattığım sıkıntıdan dolayı da özür **dilemiyorum*
 :)
 
 ![KKTC Doğu Akdeniz Üniversitesi
-Sınıfım](http://cdn.daron.yondem.com/assets/1880/10122007_2.jpg)\
+Sınıfım](media/Dogu_Akdeniz_Universitesi_ADO_NET_ve_SQL_Egitimi/10122007_2.jpg)\
 *KKTC Doğu Akdeniz Üniversitesi Sınıfım*
 
 Eğitimin son gününde yaptığımız projenin veritabanını ve örnek kodları
 aşağıdan indirebilirsiniz.
 
 [Proje Dosyalar ve Veritabanı - 10122007\_1.rar (1.14
-MB)](http://cdn.daron.yondem.com/assets/1880/10122007_1.rar)
+MB)](media/Dogu_Akdeniz_Universitesi_ADO_NET_ve_SQL_Egitimi/10122007_1.rar)
 
 Kıbrıs'ta bulunduğum sürede bana misafirperverliği ile yakından yardımcı
 olan [BTDays](http://www.btdays.com/) ekibinden Göker Toplu'ya buradan

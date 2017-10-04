@@ -34,7 +34,7 @@ kurabildim. Fakat malum FireFox 3 daha Beta aşamasında olduğu için
 ekstra sorunlar da çıkabiliyor.
 
 ![İlk adımda yüklemeyi bilgisayarımıza
-indirelim.](http://cdn.daron.yondem.com/assets/2069/27052008_1.png)\
+indirelim.](media/Linux_uzerinde_Silverlight_denemelerim/27052008_1.png)\
 *İlk adımda yüklemeyi bilgisayarımıza indirelim.*
 
 Moonlight'ın <http://www.go-mono.com/moonlight/> adresinden
@@ -43,7 +43,7 @@ gibi FireFox içerisinde bir uyarı mesajı geliyor. Onaylayarak
 ilerliyoruz ve yükleme paketi bilgisayarımıza iniyor.
 
 ![Yüklemeyi
-başlatalım.](http://cdn.daron.yondem.com/assets/2069/27052008_2.png)\
+başlatalım.](media/Linux_uzerinde_Silverlight_denemelerim/27052008_2.png)\
 *Yüklemeyi başlatalım.*
 
 İnternette yükleme paketi bilgisayara indikten sonra pakete
@@ -51,7 +51,7 @@ güvendiğimizi de Linux'e belirtirsek bir sonraki adımda hemen yükleme
 gerçekleşecektir.
 
 ![Linux üzerinde Silverlight iş
-başında.](http://cdn.daron.yondem.com/assets/2069/27052008_3.png)\
+başında.](media/Linux_uzerinde_Silverlight_denemelerim/27052008_3.png)\
 *Linux üzerinde Silverlight iş başında.*
 
 Yükleme tamamlandığında artık Silverlight ile hazırlanmış web sitelerini

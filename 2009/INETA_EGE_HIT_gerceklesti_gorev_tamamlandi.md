@@ -19,7 +19,7 @@ eğlenceli ve sevindirici oldu diyebilirim. Her oturumda aldığım tepkiler
 çok güzeldi.
 
 ![INETA Ege Hit
-başlangıcı.](http://cdn.daron.yondem.com/assets/2304/11012009_3.jpg)\
+başlangıcı.](media/INETA_EGE_HIT_gerceklesti_gorev_tamamlandi/11012009_3.jpg)\
 *INETA Ege Hit başlangıcı.*
 
 Her zamanki gibi iki de anekdot yarattık; birincisi benim gülen surat
@@ -30,7 +30,7 @@ Her neyse... İkinci anekdot ise buradan paylaşamayacağım hatta sanırım
 ömür boyu hiç paylaşamayacağım bir şey :) Üzgünüm...
 
 ![INETA Ege Hit
-sonu...](http://cdn.daron.yondem.com/assets/2304/11012009_2.jpg)\
+sonu...](media/INETA_EGE_HIT_gerceklesti_gorev_tamamlandi/11012009_2.jpg)\
 *INETA Ege Hit sonu...*
 
 Organizasyondaki katkılarından dolayı sevgili İzmir MSP'lerimize buradan
@@ -44,6 +44,6 @@ ulaşabilirsiniz. Ayrıca tüm oturumlardaki örneklere ait kodları da
 aşağıdaki linkten bilgisayarınıza indirebilirsiniz.
 
 [Oturumlardaki örnek projeler - 11012009.rar (5,11
-MB)](http://cdn.daron.yondem.com/assets/2304/11012009.rar)
+MB)](media/INETA_EGE_HIT_gerceklesti_gorev_tamamlandi/11012009.rar)
 
 

@@ -80,7 +80,7 @@ ettiğimizde içerisinde **Resource** olarak XAML dosyalarımızın var
 olduğunu görebiliyoruz.
 
 ![Silverlight 2.0 DLL dosyası içerisindeki XAML
-dosyalarımız.](http://cdn.daron.yondem.com/assets/1994/18032008_2.png)\
+dosyalarımız.](media/Silverlight_2_0_XAP_Paketleri/18032008_2.png)\
 *Silverlight 2.0 DLL dosyası içerisindeki XAML dosyalarımız.*
 
 Haricen Silverlight 2.0 projemizde kullandığımız kontrollere ait DLL
@@ -91,7 +91,7 @@ Silverlight 2.0 mimarisinde harici DLL dosyalarından farklı kontroller
 kullanılabileceği için bu yapı her zaman var olacaktır.
 
 ![Silverlight 2.0 Beta 1 XAP dosyası
-içeriği.](http://cdn.daron.yondem.com/assets/1994/18032008_1.png)\
+içeriği.](media/Silverlight_2_0_XAP_Paketleri/18032008_1.png)\
 *Silverlight 2.0 Beta 1 XAP dosyası içeriği.*
 
 XAP dosyası içerisinde bir de XAML dosyası bulunuyor. Aşağıda içeriğini

@@ -19,7 +19,7 @@ process ID'yi bazı komutlara parametre veriyor olmak pek modern bir
 deneyim sayılmasa gerek.
 
 ![Silverlight CPU Profiler
-Sonucu](http://cdn.daron.yondem.com/assets/2570/26042011_1.png)\
+Sonucu](media/Silverlight_Performance_Profiling/26042011_1.png)\
 *Silverlight CPU Profiler Sonucu*
 
 Olayın özüne dönersek; artık Visual Studio 2010 SP1 ile beraber standart
@@ -37,7 +37,7 @@ için tavsiyem uygulamanızı desktop moduna almanız ve debug için de
 desktop seçeneğini kullanmanız.
 
 ![Silverlight Memory
-Profiling](http://cdn.daron.yondem.com/assets/2570/26042011_2.png)\
+Profiling](media/Silverlight_Performance_Profiling/26042011_2.png)\
 *Silverlight Memory Profiling*
 
 Memory profiling öncesinde uygulamanızı desktop moduna aldıktan sonra
@@ -46,14 +46,14 @@ Son olarak Finish düğmesine bastığınızda uygulama açılacak ve profiling
 kaydı alınmaya başlayacaktır.
 
 ![Profiling için uygun projeyi
-seçiyoruz.](http://cdn.daron.yondem.com/assets/2570/26042011_3.png)\
+seçiyoruz.](media/Silverlight_Performance_Profiling/26042011_3.png)\
 *Profiling için uygun projeyi seçiyoruz.*
 
 Profiling sonuçlarını her zamanki gibi Visual Studio içerisinde
 inceleyebilirsiniz.
 
 ![Silverlight Memory Profiling
-Sonucu](http://cdn.daron.yondem.com/assets/2570/26042011_4.png)\
+Sonucu](media/Silverlight_Performance_Profiling/26042011_4.png)\
 *Silverlight Memory Profiling Sonucu*
 
 Eğer ki işin için SL tarafından kullandığınız web servislerini yani
@@ -63,7 +63,7 @@ Performance Profiler'ı başlattıktan sonra Visual Studio içerisinden
 tarafı için de uygun iexplorer instance'ını profiler'a ekleyebilirsiniz.
 
 ![ASP.NET ve Silverlight
-beraber...](http://cdn.daron.yondem.com/assets/2570/26042011_5.png)\
+beraber...](media/Silverlight_Performance_Profiling/26042011_5.png)\
 *ASP.NET ve Silverlight beraber...*
 
 Böylece aynı raporda hem SL hem ASP.NET tarafınıa görebilir ve

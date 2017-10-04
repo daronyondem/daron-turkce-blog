@@ -40,7 +40,7 @@ Mail'i de bir backup kuyruğu olarak tutmuş olurum. Böylece notification
 fail olursa çok dert olmaz.
 
 ![Pushover ana
-sayfa...](http://cdn.daron.yondem.com/assets/2878/pushover1.gif)\
+sayfa...](media/bloga_yorum_geldiginde_push_notification/pushover1.gif)\
 *Pushover ana sayfa...*
 
 PushOver'a kaydolduktan sonra ana sayfada hemen kendi UserKey'inizi
@@ -51,7 +51,7 @@ blogumu bir Push Notification göndericisi olarak tanımlayacağım yer.
 Uygulamanızı tanımlarken sadece birkaç basit data soruluyor.
 
 ![Blogum PushOver'da app olarak
-tanımlandı.](http://cdn.daron.yondem.com/assets/2878/pushover2.gif)\
+tanımlandı.](media/bloga_yorum_geldiginde_push_notification/pushover2.gif)\
 *Blogum PushOver'da app olarak tanımlandı.*
 
 Tanımlama işlemi bittikten sonra uygulamanıza ait API Token'ı da almış
@@ -111,7 +111,7 @@ Notification'larda biraz tembel davranıp "Gittiyse gitmiştir" diyerek es
 geçiyorum farklı senaryoları :)
 
 ![PushOver ile notificationlar
-gelirken.](http://cdn.daron.yondem.com/assets/2878/pushover3.gif)\
+gelirken.](media/bloga_yorum_geldiginde_push_notification/pushover3.gif)\
 *PushOver ile notificationlar gelirken.*
 
 Yukarıdaki muhteşem GIF çalışmam içerisinde :) PushOver'a gelen örnek

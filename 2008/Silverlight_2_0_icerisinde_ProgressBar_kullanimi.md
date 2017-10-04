@@ -154,7 +154,7 @@ Yukarıdaki kod ile Progress adındaki ProgressBar'ımızı oynattığımızda
 aşağıdaki görüntü ile karşılaşıyoruz.
 
 ![ProgressBar iş
-başında.](http://cdn.daron.yondem.com/assets/2207/05102008_1.png)\
+başında.](media/Silverlight_2_0_icerisinde_ProgressBar_kullanimi/05102008_1.png)\
 *ProgressBar iş başında.*
 
 Eğer gerçekten yapılacak işlemin ne kadar süreceği bilmiyorsanız ve bir
@@ -191,7 +191,7 @@ Böyle bir durumda ProgressBar içerisinde sürekli olarak aynı animasyon
 çalıştırılacaktır.
 
 ![ProgressBar sonsuz
-döngüde!](http://cdn.daron.yondem.com/assets/2207/05102008_2.png)\
+döngüde!](media/Silverlight_2_0_icerisinde_ProgressBar_kullanimi/05102008_2.png)\
 *ProgressBar sonsuz döngüde!*
 
 ProgressBar'ın görselliğini değiştirmek için **Foreground** ve

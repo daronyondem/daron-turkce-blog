@@ -18,7 +18,7 @@ yenilikler. 2015'te çıkması beklenen Visual Studio Blue'nun "Early
 Preview"larından birine göz atma şansım oldu ve işte gördüklerim.
 
 ![Visual Studio Blue efsane gibi
-geliyor...](http://cdn.daron.yondem.com/assets/2838/blue.jpg)\
+geliyor...](media/Visual_Studio_Blue_ve_beraberinde_gelen_yenilikler/blue.jpg)\
 *Visual Studio Blue efsane gibi geliyor...*
 
 Visual Studio Blue'daki özellikler gerçekten çok şaşırtıcı ve devrim

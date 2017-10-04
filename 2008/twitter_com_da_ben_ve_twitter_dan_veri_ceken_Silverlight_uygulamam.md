@@ -51,6 +51,6 @@ Tabi ki uygulamanın açık kaynak kodlarını da sizlerle paylaşıyorum.
 Kolay gelsin ;)
 
 [twitter.com Silverlight uygulaması - 16052008\_1.rar (6,69
-KB)](http://cdn.daron.yondem.com/assets/2058/16052008_1.rar)
+KB)](media/twitter_com_da_ben_ve_twitter_dan_veri_ceken_Silverlight_uygulamam/16052008_1.rar)
 
 

@@ -18,7 +18,7 @@ beklemek zorunda kalan herkesten özür diliyorum.
 Webinere ait sunum dosyasını aşağıdan indirebilirsiniz.
 
 [Webiner Sunumu - 26112007\_1.pptx (2,33
-MB)](http://cdn.daron.yondem.com/assets/1863/26112007_1.pptx)
+MB)](media/Expression_Encoder_Webineri_sonrasinda/26112007_1.pptx)
 
 Webiner sonrası gelen sorularla cevapları buradan da sizlerle
 paylaşıyorum.

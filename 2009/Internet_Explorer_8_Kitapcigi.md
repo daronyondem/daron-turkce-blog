@@ -10,7 +10,7 @@ Tags: IE 8.0, Internet Explorer
 old.EntryID: 76dd338b-91ca-4b44-8cbf-5e112c5d1b6d
 ---
 **![Internet Explorer 8
-Kitapçığı](http://cdn.daron.yondem.com/assets/2341/24032009_1.jpg)Internet
+Kitapçığı](media/Internet_Explorer_8_Kitapcigi/24032009_1.jpg)Internet
 Explorer 8** lansmanı yapılalı yaklaşık bir hafta oluyor. Ben de sizlere
 artık sinsi bir çalışmamı duyurmak istiyorum. Internet Explorer 8 ile
 ilgili birçok makale yazdım, seminerler verdim. Hepsinde de başlangıçta
@@ -27,6 +27,6 @@ indirebilirler.
 
 Internet Explorer 8 Kitapçık ([Mirror
 1](http://www.kodlab.com/web-internet/50-internet-explorer-8.html),
-[Mirror 2](http://cdn.daron.yondem.com/assets/2341/ie8_ebook_tr.pdf))
+[Mirror 2](media/Internet_Explorer_8_Kitapcigi/ie8_ebook_tr.pdf))
 
 

@@ -216,7 +216,7 @@ veriyoruz, ikinciye ise bir JSON verisi aktarıyoruz. Burada kolaylıkla
 ASP.NET AJAX'daki PageMethodlardan dönen verilen de aktarılabilir.
 
 ![Daha kolay
-olamazdı.](http://cdn.daron.yondem.com/assets/2137/28072008_1.png)\
+olamazdı.](media/ASP_NET_AJAX_4_0_yollarinda/28072008_1.png)\
 *Daha kolay olamazdı.*
 
 **Başka, başka?**

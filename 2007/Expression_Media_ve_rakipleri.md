@@ -33,7 +33,7 @@ harici disk tekrar takıldığında orijinal dosya üzerinde
 gerçekleştiriliyor.
 
 ![Expression Media
-arayüzü.](http://cdn.daron.yondem.com/assets/1861/23112007_1.png)\
+arayüzü.](media/Expression_Media_ve_rakipleri/23112007_1.png)\
 *Expression Media arayüzü.*
 
 Fotoğraflarınızı toplu olarak isimlendirebilir, renk düzenlemeleri

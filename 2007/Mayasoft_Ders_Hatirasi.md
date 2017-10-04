@@ -16,7 +16,7 @@ gerçek bir demo olması amacıyla sınıf içerisinde çektiğimiz fotoğraflar
 kullandık. Aşağıda toplam beş farklı çekimi birleştirerek oluşturduğumuz
 sınıf fotoğrafını inceleyebilirsiniz.
 
-![](http://cdn.daron.yondem.com/assets/1737/01052007_2.jpg)
+![](media/Mayasoft_Ders_Hatirasi/01052007_2.jpg)
 
 Ayrıca öğrencilerimden **Ersin Kılıç**'ın portre fotoğrafı üzerinde
 **Photoshop CS3 Liquify** özelliğini de deneme şansımız oldu. Maalesef

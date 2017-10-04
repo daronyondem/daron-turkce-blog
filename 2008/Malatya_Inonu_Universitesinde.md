@@ -26,7 +26,7 @@ sıkılmışlar :) Bilgisayar bölümlerinden olanlar memnun ama olmayanlar
 biraz yabancı kalmış.
 
 ![Malatya İnönü
-Üniversitesi](http://cdn.daron.yondem.com/assets/1996/20032008_1.jpg)\
+Üniversitesi](media/Malatya_Inonu_Universitesinde/20032008_1.jpg)\
 *Malatya İnönü Üniversitesi*
 
 Aktivitede bizi Malatya'da ağırlayan sevgili **Ahmet Yasin Hazer**'e

@@ -44,13 +44,13 @@ müşterilerden isteyemezsiniz, ayrıca ürün Beta olduğu için neyin ne
 olacağı hiç belli olmaz. Benden söylemesi :)
 
 ![Silverlight 2 Beta 1 Developer
-Poster](http://cdn.daron.yondem.com/assets/1992/16032008_1.jpg)\
+Poster](media/Silverlight_2_Beta_1_Makaleleri_Yolda_Yeni_Poster_Hediye/16032008_1.jpg)\
 *Silverlight 2 Beta 1 Developer Poster*
 
 Artık bu kararı da sizlerle paylaştığıma göre gelin bunu kutlayalım :)
 Daha önceleri sizlerle paylaştığım SL 1.1 Developer Poster'in yenisi SL
 2.0 için hazırlandı. [Silverlight Developer
-Reference](http://cdn.daron.yondem.com/assets/1992/16032008_2.rar)
+Reference](media/Silverlight_2_Beta_1_Makaleleri_Yolda_Yeni_Poster_Hediye/16032008_2.rar)
 (13MB) posterini TIF formatında bilgisayarınıza indirebilirsiniz.
 
 

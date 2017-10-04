@@ -20,7 +20,7 @@ büyük avantajı sürekli mailleştiğiniz kişilerle yüz yüze de toplantıla
 yapabiliyor olmak.
 
 ![TechEd Europe bu sene
-Berlin'de!](http://cdn.daron.yondem.com/assets/2443/09112009_1.jpg)\
+Berlin'de!](media/TechEd_Europe_Ilk_Gun/09112009_1.jpg)\
 *TechEd Europe bu sene Berlin'de!*
 
 **Entity Framework 4.0**
@@ -51,7 +51,7 @@ Merak etmeyin orada da olacağım ve yenilikleri hem
 blog üzerinden günlük olarak sizlerle paylaşacağım.
 
 ![TechEd Europe
-Keynote](http://cdn.daron.yondem.com/assets/2443/09112009_2.jpg)\
+Keynote](media/TechEd_Europe_Ilk_Gun/09112009_2.jpg)\
 *TechEd Europe Keynote*
 
 Toplam 7200 kişinin katıldığı Keynote'daki en büyük duyuru Exchange
@@ -75,7 +75,7 @@ yaptığımız etkinliklerden bahsettikçe insanların hayranlıkla
 yaptığımız etkinliklerin konseptlerini not almaya başladılar :)
 
 ![INETA Europe Yönetim Ekibi ile
-beraber...](http://cdn.daron.yondem.com/assets/2443/09112009_3.jpg)\
+beraber...](media/TechEd_Europe_Ilk_Gun/09112009_3.jpg)\
 *INETA Europe Yönetim Ekibi ile beraber...*
 
 Malum dünyanın her yerinde gönüllü iş yapmakla ilgili karşılaşılan

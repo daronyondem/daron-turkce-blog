@@ -10,7 +10,7 @@ Tags:
 old.EntryID: e712a27c-98a4-47eb-998e-903f22b57a2a
 ---
 ![Channel
-10](http://cdn.daron.yondem.com/assets/1989/13032008_1.jpg)Microsoft'un
+10](media/Channel_10_de_ben/13032008_1.jpg)Microsoft'un
 İngilizce içerik sitelerin takip edenlerin yakından tanıyacağı **Channel
 10** sitesinde (on10.net) sevgili **Mehmet Nuri Çankaya** ile
 hazırladığımız bir röportaj yayına girdi :) Röportajı aşağıdaki adresten

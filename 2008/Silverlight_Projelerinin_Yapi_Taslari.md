@@ -22,7 +22,7 @@ bahsedeceğiz.
 yaratalım ve bakalım "Project Explorer" içerisinde neler var.
 
 ![Expression Blend 2 içerisinde Silverlight projesindeki
-dosyalar.](http://cdn.daron.yondem.com/assets/1949/07022008_1.png)\
+dosyalar.](media/Silverlight_Projelerinin_Yapi_Taslari/07022008_1.png)\
 *Expression Blend 2 içerisinde Silverlight projesindeki dosyalar.*
 
 Gördüğünüz üzere bizim için yaratılmış olan birden çok dosya bulunuyor.

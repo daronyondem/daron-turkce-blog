@@ -16,7 +16,7 @@ aktivite serisi ile tekrar karşınızdayız. Bu sefer İstanbul değil
 Anadolu'nun merkezi, Başkentimiz **Ankara'da** olacağız.
 
 ![INETA Capital Hit
-Afişi](http://cdn.daron.yondem.com/assets/2198/inetacapitalhit.jpg)
+Afişi](media/INETA_Capital_Hit/inetacapitalhit.jpg)
 
 Dikkat ederseniz İstanbul'daki Summer Hit sonrası içeriğimizi de epeyce
 değiştirdik. Tabi bunda sizlerin doldurmuş olduğu değerlendirme
@@ -47,7 +47,7 @@ sefer de yine aşağıdaki bannerı kullanabilirsiniz. Banner'a
 tıklandığında link olarak da kayıt adresini verebilirsiniz.
 
 ![INETA Capital Hit
-Banner](http://cdn.daron.yondem.com/assets/2198/inetacapilathit_468_60.jpg)
+Banner](media/INETA_Capital_Hit/inetacapilathit_468_60.jpg)
 
 Hepinizi bekliyorum ;)
 

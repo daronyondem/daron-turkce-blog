@@ -23,7 +23,7 @@ tasarımını ve animasyonları da tasarımcılarımız **Expression Design** ve
 güne sığacak şekilde güzel bir ürün çıkardık.
 
 ![Silverlight ile video uygulamaları gün
-sonu.](http://cdn.daron.yondem.com/assets/2013/05042008_1.jpg)\
+sonu.](media/INETA_ve_NETRON_isbirliginde_ucretsiz_Silverlight_Egitimi_ucuncu_ve_son_gunu/05042008_1.jpg)\
 *Silverlight ile video uygulamaları gün sonu.*
 
 Projeye ait kaynak kodlarını aşağıdaki linkten bilgisayarınıza
@@ -39,7 +39,7 @@ aşağıdaki konuları kapsadığını söyleyebiliriz;
 -   XLINQ ve C\#
 
 [Proje Kaynak Kodu - 05042008\_2.rar (44,51
-KB)](http://cdn.daron.yondem.com/assets/2013/05042008_2.rar)
+KB)](media/INETA_ve_NETRON_isbirliginde_ucretsiz_Silverlight_Egitimi_ucuncu_ve_son_gunu/05042008_2.rar)
 
 Projenin çalışır halini aşağıdaki adresten inceleyebilirsiniz.
 

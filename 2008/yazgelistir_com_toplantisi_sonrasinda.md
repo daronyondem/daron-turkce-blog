@@ -10,7 +10,7 @@ Tags:
 old.EntryID: 965eb599-aede-4568-8303-260c69972b9f
 ---
 ![yazgelistir.com
-ödülüm!](http://cdn.daron.yondem.com/assets/1935/29012008_1.jpg)Dün
+ödülüm!](media/yazgelistir_com_toplantisi_sonrasinda/29012008_1.jpg)Dün
 akşam Microsoft İstanbul ofislerinde
 [yazgelistir.com](http://www.yazgelistir.com/) ekibi olarak yeni yıl
 toplantısındaydık. Toplantı boyunca siteyle ilgili "daha neler

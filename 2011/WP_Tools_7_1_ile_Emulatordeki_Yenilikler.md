@@ -14,7 +14,7 @@ için hızlıca bir üzerinden geçmek istiyorum. İnsan gerçekten o
 güzellikleri açacak düğmeyi farkına varmayabilir.
 
 ![Windows Phone Emülatörü'ndeki gizli bölüm
-:)](http://cdn.daron.yondem.com/assets/2716/emu1.png)\
+:)](media/WP_Tools_7_1_ile_Emulatordeki_Yenilikler/emu1.png)\
 *Windows Phone Emülatörü'ndeki gizli bölüm :)*
 
 İşte yukarıdaki ekran görüntüsünde de görebileceğiniz o "ok" düğmesine
@@ -22,7 +22,7 @@ basmazsanız hayatınızı :) emülatörün belki de en değerli kısmını
 görmemiş olarak geçirebilirsiniz :)
 
 ![Emülatör'deki Accelerometer bölümü
-süper.](http://cdn.daron.yondem.com/assets/2716/emu2.png)\
+süper.](media/WP_Tools_7_1_ile_Emulatordeki_Yenilikler/emu2.png)\
 *Emülatör'deki Accelerometer bölümü süper.*
 
 Accelerometer testleri genelde en sıkıcıları olabiliyor. Emülatöre bu
@@ -35,7 +35,7 @@ otomatik sallanmasını ve sallanmaya dair verinin Sensor API'ye gitmesini
 sağlayabiliyorsunuz. Testing için süper!
 
 ![Geolocation
-Simülasyonu](http://cdn.daron.yondem.com/assets/2716/emu3.jpg)\
+Simülasyonu](media/WP_Tools_7_1_ile_Emulatordeki_Yenilikler/emu3.jpg)\
 *Geolocation Simülasyonu*
 
 Emülatörün bu penceresinin "Location" tabında ise karşınıza bir harita
@@ -45,7 +45,7 @@ koordinatları aktarılıyor. Böylece uygulamanızı daha rahat test
 edebiliyorsunuz. İsterseniz hazırladığınız özel yolları haricen kaydedip
 sonradan tekrar simülasyon için kullanabilirsiniz.
 
-![Screenshot!](http://cdn.daron.yondem.com/assets/2716/emu4.png)\
+![Screenshot!](media/WP_Tools_7_1_ile_Emulatordeki_Yenilikler/emu4.png)\
 *Screenshot!*
 
 Marketplace'e uygulamanızı gönderirken uygulamanızdan ekran

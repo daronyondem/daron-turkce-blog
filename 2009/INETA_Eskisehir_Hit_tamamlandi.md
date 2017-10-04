@@ -18,7 +18,7 @@ gerçekten çok sevindirici oldu. Umarım katılan herkes için olabildiğince
 faydalı ve efektif geçmiştir hafta sonu.
 
 ![Osmangazi Üniversitesi, INETA Eskişehir
-Seminerleri](http://cdn.daron.yondem.com/assets/2333/09032009_1.jpg)\
+Seminerleri](media/INETA_Eskisehir_Hit_tamamlandi/09032009_1.jpg)\
 *Osmangazi Üniversitesi, INETA Eskişehir Seminerleri*
 
 Aktivitenin organizasyonundaki katkısından dolayı sevgili MSP, [Selim

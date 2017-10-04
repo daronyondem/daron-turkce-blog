@@ -14,6 +14,6 @@ eğitimine ait **07.05.2007** tarihli dersteki ek uygulamamızın bir
 örneğini aşağıda indirebilirsiniz.
 
 [08052007\_1.rar - Ders Uygulama Dosyaları(148.58
-KB)](http://cdn.daron.yondem.com/assets/1741/08052007_1.rar)
+KB)](media/Mayasoft_Ders_Uygulama_Dosyalari-5/08052007_1.rar)
 
 

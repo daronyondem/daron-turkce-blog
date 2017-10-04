@@ -24,7 +24,7 @@ ekledikten sonra onun "**Build Action**"ınını "**Splash Screen**" olarak
 değiştirmek.
 
 ![WPF içerisinde Splash Screen
-ayarlamak.](http://cdn.daron.yondem.com/assets/2158/18082008_1.png)\
+ayarlamak.](media/WPF_icerisinde_Splash_Screen_gosterimi/18082008_1.png)\
 *WPF içerisinde Splash Screen ayarlamak.*
 
 Visual Studio içerisinde söz konusu dosyayı seçtikten sonra "Properties"

@@ -17,7 +17,7 @@ için pek önemsemedim fakat Android tarafında blogun durumu pek başarılı
 değil :)
 
 ![Blogumun Android'deki garip
-hali!](http://cdn.daron.yondem.com/assets/2696/androidde_site.jpg)\
+hali!](media/Sanal_Android_ile_site_testi/androidde_site.jpg)\
 *Blogumun Android'deki garip hali!*
 
 Elimde Android'li herhangi bir cihaz olmadığı için testing amacıyla
@@ -51,7 +51,7 @@ bir sanal makine yarattım. Bunun için SDK Manager içerisinde Virtual
 Devices tabında "New" düğmesine tıklayarak ilerliyoruz.
 
 ![Android 3.2 ile sanal makine
-yaratalım.](http://cdn.daron.yondem.com/assets/2696/android32.png)\
+yaratalım.](media/Sanal_Android_ile_site_testi/android32.png)\
 *Android 3.2 ile sanal makine yaratalım.*
 
 Sanal makinemizi yaratırken **Target** olarak verdiğimiz sistem işletim
@@ -62,7 +62,7 @@ birşeyler varsa o yüklemelere ve downloadlara göz atmak gerek.
 diyip sanal makineyi yaratıyoruz.
 
 ![Ekran boyutunu gerçeğe uygun
-ayarlayalım.](http://cdn.daron.yondem.com/assets/2696/android_ekranboyutu.png)\
+ayarlayalım.](media/Sanal_Android_ile_site_testi/android_ekranboyutu.png)\
 *Ekran boyutunu gerçeğe uygun ayarlayalım.*
 
 Sanal makineyi çalıştırmadan önce karşınıza son olarak yukarıdaki ekran
@@ -73,7 +73,7 @@ boyutunu girerseniz sanal makine gerçek boyutu ile ekranınıza
 gelecektir.
 
 ![Blogun Android 3.2'deki durumu
-iyi.](http://cdn.daron.yondem.com/assets/2696/android32_durum.jpg)\
+iyi.](media/Sanal_Android_ile_site_testi/android32_durum.jpg)\
 *Blogun Android 3.2'deki durumu iyi.*
 
 Görüldüğü üzere Android 3.2 ile ilgili bir sorunumuz yok :) Blog sağ
@@ -109,7 +109,7 @@ Burada özellikle önemli olan kısım **max-device-width** şeklinde css
 media query'si. Böylece artık sorunumuzu da çözmüş olduk :)
 
 ![Android 2.3'de blogun düzeltilmiş
-hali.](http://cdn.daron.yondem.com/assets/2696/android23_durum.jpg)\
+hali.](media/Sanal_Android_ile_site_testi/android23_durum.jpg)\
 *Android 2.3'de blogun düzeltilmiş hali.*
 
 Görüşmek üzere!

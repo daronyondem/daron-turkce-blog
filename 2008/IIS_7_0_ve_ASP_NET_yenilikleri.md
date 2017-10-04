@@ -216,7 +216,7 @@ IIS Manager içerisinde "**Default** **Document**" kısmına giderek yeni
 bir doküman ismi ekleyin.
 
 ![IIS 7.0 içerisinde "Default Document"
-ayarı.](http://cdn.daron.yondem.com/assets/2160/20082008_1.png)\
+ayarı.](media/IIS_7_0_ve_ASP_NET_yenilikleri/20082008_1.png)\
 *IIS 7.0 içerisinde "Default Document" ayarı.*
 
 Bu yaptığınız ayarı kendi bilgisayarınıza yaptınız ve sitenizi sunucuya

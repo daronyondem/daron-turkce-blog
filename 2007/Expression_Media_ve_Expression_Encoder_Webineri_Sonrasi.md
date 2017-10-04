@@ -20,6 +20,6 @@ Katılan herkese teşekkür ediyorum. En kısa zamanda başka bir webinerde
 görüşmek dileği ile bayramınızı da kutlayarak yazımı sonlandırıyorum ;)
 
 [Webinere ait sunum - 12102007\_1.pdf (630,42
-KB)](http://cdn.daron.yondem.com/assets/1811/12102007_1.pdf)
+KB)](media/Expression_Media_ve_Expression_Encoder_Webineri_Sonrasi/12102007_1.pdf)
 
 

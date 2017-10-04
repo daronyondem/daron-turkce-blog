@@ -56,7 +56,7 @@ geçerek makine üzerinde çalışması gereken uygulamaların listesini ve
 görevlerini almaya başlıyor.
 
 ![Fabric Controller ve NOD
-Yapısı](http://cdn.daron.yondem.com/assets/2757/azure_fc.jpg)\
+Yapısı](media/Windows_Azure_da_bir_sunucunun_yasam_dongusu/azure_fc.jpg)\
 *Fabric Controller ve NOD Yapısı*
 
 Bu noktada biraz da Fabric Controller hakkında konuşmak lazım çünkü

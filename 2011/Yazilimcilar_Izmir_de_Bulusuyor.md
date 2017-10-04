@@ -14,7 +14,7 @@ hatırlarsanız 10-11 Aralık tarihlerini İzmir için bir kenara not
 almanızı Twitter'dan paylaşmıştım. İşte nedeni...
 
 ![İzmir etkinliğimizin
-duyurusu!](http://cdn.daron.yondem.com/assets/2739/ineta_izmir_2011.gif)\
+duyurusu!](media/Yazilimcilar_Izmir_de_Bulusuyor/ineta_izmir_2011.gif)\
 *İzmir etkinliğimizin duyurusu!*
 
 Görüldüğü üzere içeriğimiz ciddi sağlam :) Sizlerden ricam bu etkinliği
@@ -28,7 +28,7 @@ Son olarak bloglarınızda siz de etkinliği duyurmak isterseniz ufak bir
 de banner'ımız var :)
 
 [![INETA İzmir Etkinliği
-Banner](http://cdn.daron.yondem.com/assets/2739/ineta_izmir_gif.gif)](http://daron.me/izmir2011)
+Banner](media/Yazilimcilar_Izmir_de_Bulusuyor/ineta_izmir_gif.gif)](http://daron.me/izmir2011)
 
 İzmir'de görüşmek üzere!
 

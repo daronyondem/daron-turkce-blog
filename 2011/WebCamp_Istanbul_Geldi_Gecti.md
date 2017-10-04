@@ -15,7 +15,7 @@ konularla geçirsek de sanırım ikinci yarısı epey ağır geçti :) Benim
 için yine süper zevkli bir gündü!
 
 ![WebCamp İstanbul
-Etkinliği](http://cdn.daron.yondem.com/assets/2743/webcamp_ist.jpg)\
+Etkinliği](media/WebCamp_Istanbul_Geldi_Gecti/webcamp_ist.jpg)\
 *WebCamp İstanbul Etkinliği*
 
 Umarım herkes için faydalı bir etkinlik olmuştur ;) Gün boyunca yaptığım
@@ -23,6 +23,6 @@ Umarım herkes için faydalı bir etkinlik olmuştur ;) Gün boyunca yaptığım
 görüşmek üzere! Kendinize çok iyi bakın!
 
 [WebCamp Istanbul Örnekleri - Ornekler.rar (29.35
-MB)](http://cdn.daron.yondem.com/assets/2743/Ornekler.rar)
+MB)](media/WebCamp_Istanbul_Geldi_Gecti/Ornekler.rar)
 
 

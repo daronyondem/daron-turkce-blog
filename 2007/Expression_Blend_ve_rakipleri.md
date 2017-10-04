@@ -26,7 +26,7 @@ tanımlıyor. Tabi kimse bizden bu XML kodlarını elle yazmamızı bekleyemez
 :) O nedenle işte tam bu noktada **Expression Blend** devreye giriyor.
 
 ![Expression Blend
-arayüzü.](http://cdn.daron.yondem.com/assets/1867/29112007_1.png)\
+arayüzü.](media/Expression_Blend_ve_rakipleri/29112007_1.png)\
 *Expression Blend arayüzü.*
 
 **İki ve Üç Boyutlu Animasyonlar ile Windows Uygulamaları**

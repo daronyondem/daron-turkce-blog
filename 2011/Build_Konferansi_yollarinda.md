@@ -19,7 +19,7 @@ olarak bu konferansla Microsoft'un önümüzdeki dönemde çoğu istemci ve
 sunucu taraflı yenilikleri ve ileriye bakışı ortaya çıkacak diyebilirim.
 
 ![Build Konferansı haftaya canlı
-yayında!](http://cdn.daron.yondem.com/assets/2692/build_windows.jpg)\
+yayında!](media/Build_Konferansi_yollarinda/build_windows.jpg)\
 *Build Konferansı haftaya canlı yayında!*
 
 Konferansın içeriği her zamanki gibi oturumlardan ortalama 24 saat sonra

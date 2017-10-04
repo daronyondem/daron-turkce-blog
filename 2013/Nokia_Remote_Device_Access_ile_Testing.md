@@ -42,7 +42,7 @@ Developer Program hesabınızla siteye giriş yapmanız gerek. Sonra
 karşınıza çeşitli Nokia cihazlarının bir listesi geliyor.
 
 ![Nokia Remote Device Access'deki cihazların bir
-kısmı.](http://cdn.daron.yondem.com/assets/2863/rda_1.png)\
+kısmı.](media/Nokia_Remote_Device_Access_ile_Testing/rda_1.png)\
 *Nokia Remote Device Access'deki cihazların bir kısmı.*
 
 Bu liste içerisinden istediğiniz bir cihazı seçip uygun olduğu
@@ -55,7 +55,7 @@ bir remote access yazılımı indirilecek. Bu yazılım üzerinden fiziksel
 cihaza ulaşabileceksiniz.
 
 ![Remote Access için kullanacağımız
-arayüz.](http://cdn.daron.yondem.com/assets/2863/rda_2.png)\
+arayüz.](media/Nokia_Remote_Device_Access_ile_Testing/rda_2.png)\
 *Remote Access için kullanacağımız arayüz.*
 
 Ekran görüntüsünde de görebileceğiniz üzere telefonun tüm fiziksel
@@ -66,7 +66,7 @@ bence süper bir seçenek. Remote bağlantı aracı hem ekran görüntüsü
 almanızı hem de tüm oturumu videoya kaydetmenize de olanak sağlıyor.
 
 ![Kendi XAP dosyasını
-atabilirsiniz.](http://cdn.daron.yondem.com/assets/2863/rda_3.png)\
+atabilirsiniz.](media/Nokia_Remote_Device_Access_ile_Testing/rda_3.png)\
 *Kendi XAP dosyasını atabilirsiniz.*
 
 Remote Device Access Client'ının toolbarındaki **"Install Software"**

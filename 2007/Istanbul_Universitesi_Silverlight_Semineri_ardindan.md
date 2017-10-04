@@ -10,7 +10,7 @@ Tags: Silverlight, Seminer
 old.EntryID: ecbbb994-a159-4413-8ee9-8e1b4954e32f
 ---
 ![İstanbul Üniversitesi "Silverlight"
-Semineri](http://cdn.daron.yondem.com/assets/1881/11122007_1.jpg)Dün
+Semineri](media/Istanbul_Universitesi_Silverlight_Semineri_ardindan/11122007_1.jpg)Dün
 İstanbul Üniversitesi'nde zevkli bir "**Silverlight**" semineri
 düzenledik. Seminer boyunca Expression Blend 2 ile Silverlight 1.0 ve
 2.0 uygulamaları hazırlamanın yollarını incelerken birkaç ufak

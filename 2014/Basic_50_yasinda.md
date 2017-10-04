@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: Visual Basic .NET
 ---
 ![Eski Basic
-günleri...](http://cdn.daron.yondem.com/assets/2905/basic_01.gif)
+günleri...](media/Basic_50_yasinda/basic_01.gif)
 
 Benim programlama ile tanıştığım yıldır 1994. QBasic zamanları :) O
 zamanlar yazdıklarımdan bir şeyler bulamadım maalesef :) Ama bugün şöyle
@@ -33,7 +33,7 @@ kendini Windows 3.0 üzerinde göstermişti ama hala MS-DOS'da çalışanlar
 için Microsoft, QuickBasic'i de çıkardı.
 
 ![Visual Basic 3.0'la eski
-günler...](http://cdn.daron.yondem.com/assets/2905/basic_02.gif)
+günler...](media/Basic_50_yasinda/basic_02.gif)
 *Visual Basic 3.0'la eski günler...*
 
 Bugün Basic'in geldiği nokta Visual Basic.NET ile çok daha farklı :)
@@ -64,7 +64,7 @@ ettikten sonra karşınıza bir console gelecek. İşte orası
 QuickVisualBasic!
 
 ![QuickVisualBasic!
-Budur!](http://cdn.daron.yondem.com/assets/2905/basic_03.gif)
+Budur!](media/Basic_50_yasinda/basic_03.gif)
 *QuickVisualBasic! Budur!*
 
 Benim Basic sevdam görüldüğü üzere çok eskilere dayanıyor. Bugün her ne

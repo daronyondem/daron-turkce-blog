@@ -28,7 +28,7 @@ Silverlight resmi sitesinde ülkemizin bayrağı altında listeleniyor.
 Umarım kısa zamanda yeni uygulamalar ile listeyi genişletiriz.
 
 ![Silverlight Showcase sitesinde Türk
-Bayrağı.](http://cdn.daron.yondem.com/assets/1838/05112007_2.jpg)\
+Bayrağı.](media/Haberler_haberler_haberler-2/05112007_2.jpg)\
 *Silverlight Showcase sitesinde Türk Bayrağı.*
 
 **Microsoft HD-Photo standartlaşıyor : JPEG XR**

@@ -17,7 +17,7 @@ ki çoğu arkadaşımızın canını sıkmıştır fakat maalesef şimdilik baş
 Kocatepe tarafında çay içerek geceyi noktaladık :)
 
 ![Mailgrup Ankara
-Buluşması](http://cdn.daron.yondem.com/assets/2382/30072009_1.jpg)\
+Buluşması](media/Mailgrup_Ankara_bulusmasi/30072009_1.jpg)\
 *Mailgrup Ankara Buluşması*
 
 Gerçekten hoş bir sohbet ortamı oluştu diyebilirim. Minik bir grup da

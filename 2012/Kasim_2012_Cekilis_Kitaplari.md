@@ -14,7 +14,7 @@ Development kitabını hediye ediyorum :) Tamam, itiraf ediyorum, kitabı
 hızlıca ben de okudum :)
 
 ![Kasım'ın kitabı
-Azure!](http://cdn.daron.yondem.com/assets/2823/azure.jpg)\
+Azure!](media/Kasim_2012_Cekilis_Kitaplari/azure.jpg)\
 *Kasım'ın kitabı Azure!*
 
 Ekim'de olduğu gibi ek Türkçe kitap hediyelerine de devam edelim
@@ -27,7 +27,7 @@ DikeyEksen daha da kitap sağlayabileceğini söyleyen bir mail attı.
 Destek için teşekkürler gerçekten.
 
 ![C\#, LINQ ve SQL Server 2012
-Kitapları](http://cdn.daron.yondem.com/assets/2823/kitaplar.jpg)\
+Kitapları](media/Kasim_2012_Cekilis_Kitaplari/kitaplar.jpg)\
 *C\#, LINQ ve SQL Server 2012 Kitapları*
 
 Gelelim yine kurallarımıza :) Her zamanki gibi yine aşağıya, bu

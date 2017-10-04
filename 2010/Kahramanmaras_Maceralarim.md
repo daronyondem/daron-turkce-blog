@@ -19,7 +19,7 @@ dönelim. İki gündür Kahramanmaraş'tayım çünkü **Sütçü İmam
 gittiğimde epey şaşırdığımı itiraf etmeliyim :) Neden olduğunu sanırım
 aşağıdaki fotoğraf açıklıyordur.
 
-![](http://cdn.daron.yondem.com/assets/2493/27022010_1.jpg)
+![](media/Kahramanmaras_Maceralarim/27022010_1.jpg)
 
 Bu şaşkınlık sonrasında sahneye çıktığım ilk günde Kahramanmaraş Ticaret
 Meslek Lisesi'ndeydim. Öğrencilerden gelen sorular ayrı ayrı şaşkınlık
@@ -34,7 +34,7 @@ hocalarımız **Çetin Çevik, Yalçın Ateş, Serdar Temiz**'e buradan
 binlerce teşekkür gönderiyorum!
 
 ![Kahramanmaraş Ticaret Meslek
-Lisesi](http://cdn.daron.yondem.com/assets/2493/27022010_2.jpg)\
+Lisesi](media/Kahramanmaras_Maceralarim/27022010_2.jpg)\
 *Kahramanmaraş Ticaret Meslek Lisesi*
 
 İlk günümüzün ilk yarısını Meslek Lisesi'ndeki öğrencilerimizle

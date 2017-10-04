@@ -109,7 +109,7 @@ kontrolünü normal RichTextBox'ın **OverflowContentTarget** özelliğine
 bind ediyoruz. İşte bu kadar :)
 
 ![RichTextBoxOverflow'lar arka
-arkaya...](http://cdn.daron.yondem.com/assets/2566/22042011_1.png)\
+arkaya...](media/Silverlight_5_Beta_da_Karater_Araligi_ve_RichTextboxOverflow/22042011_1.png)\
 *RichTextBoxOverflow'lar arka arkaya...*
 
 Bu şekilde istediğiniz kadar RichTextBoxOverflow kontrolünü birbirine

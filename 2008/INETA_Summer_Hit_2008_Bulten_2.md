@@ -14,9 +14,9 @@ bahsediyorum aslında. Şu ana kadar kayıtlı olan herkese gönderdiğimiz
 ikinci bültenimizi burada da sizlerle paylaşmak istiyorum.
 
 ![INETA Summer
-Hit](http://cdn.daron.yondem.com/assets/2135/20072008_1.jpg)
+Hit](media/INETA_Summer_Hit_2008_Bulten_2/20072008_1.jpg)
 
-![Daron Yöndem](http://cdn.daron.yondem.com/assets/2135/20072008_2.jpg)
+![Daron Yöndem](media/INETA_Summer_Hit_2008_Bulten_2/20072008_2.jpg)
 
 <span style="">Merhabalar!</span>\
 \
@@ -98,7 +98,7 @@ blogunuzda aktiviteyi duyurmak isterseniz yukarıdaki adrese linkleyerek
 aşağıdaki banner'ı kullanabilirsiniz.</span></span>\
 \
  ![INETA Summer
-Hit](http://cdn.daron.yondem.com/assets/2135/inetasummerhit2008_46860.jpg)\
+Hit](media/INETA_Summer_Hit_2008_Bulten_2/inetasummerhit2008_46860.jpg)\
 \
  <span style="">Bir sonraki mini bültenimizde görüşmek üzere, iyi
 haftalar, iyi çalışmalar...</span>\

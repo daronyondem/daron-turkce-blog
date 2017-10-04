@@ -21,7 +21,7 @@ geldiğini düşünürsek bir **Silverlight** şapkası süper olur diye
 düşündüm.
 
 ![Silverlight Şapka :) ve tatil
-sevdası!](http://cdn.daron.yondem.com/assets/2074/01062008_1.jpg)\
+sevdası!](media/Gordugum_ilk_Silverlight_Sapkali_ya_hediyem_var/01062008_1.jpg)\
 *Silverlight Şapka :) ve tatil sevdası!*
 
 Tasarım anlamında çok bir emek yok ortada :) Rahatlıkla sizin de
@@ -32,7 +32,7 @@ alabiliyor. Şapkanın yıkanma durumu da t-shirt'e kıyasla daha nadir
 olduğu için herhangi bir baskının pek sorunu olmayacaktır.
 
 [Silverlight Logo - 01062008\_2.jpg (99,43
-KB)](http://cdn.daron.yondem.com/assets/2074/01062008_2.jpg)
+KB)](media/Gordugum_ilk_Silverlight_Sapkali_ya_hediyem_var/01062008_2.jpg)
 
 **İlk şapkalıya hediye var :)**
 

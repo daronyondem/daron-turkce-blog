@@ -15,7 +15,7 @@ Atölyesi'](http://www.msgelisimatolyesi.com/GelisimAtolyesiKampi/)nde
 yetmedi de yetmedi :)
 
 ![Gelişim Atölyesi'nden bir
-kare...](http://cdn.daron.yondem.com/assets/2168/28082008_1.jpg)\
+kare...](media/Microsoft_Gelisim_Atolyesi_nde_Silverlight_ve_WPF_Egitimlerim/28082008_1.jpg)\
  *Gelişim Atölyesi'nden bir kare...\
 (Soldan sağa; MS S2B Program Yöneticisi [Burak
 Sarıca](http://bsarica.spaces.live.com/), MS Technology Marketing

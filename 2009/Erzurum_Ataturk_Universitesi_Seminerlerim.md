@@ -22,7 +22,7 @@ gerçekten üzüyor. Olanaklar el verdikçe Anadolu üniversitelerine gidiş
 sevdamı ben de bu şekilde tatmin etmeye çalışıyorum :)
 
 ![Erzurum, Atatürk Üniversitesi
-Seminerlerim](http://cdn.daron.yondem.com/assets/2329/27022009_1.jpg)\
+Seminerlerim](media/Erzurum_Ataturk_Universitesi_Seminerlerim/27022009_1.jpg)\
 *Erzurum, Atatürk Üniversitesi Seminerlerim*
 
 Tabi ki yine teşekkür etmem gereken onlarca dost var Erzurum'dan.

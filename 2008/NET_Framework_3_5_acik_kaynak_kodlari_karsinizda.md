@@ -47,7 +47,7 @@ Just My Code**"" seçeneğini **OFF** ve "**Enable Source Server
 Support"** seçeneğini **ON** olarak değiştirmeniz gerekiyor.
 
 ![Açık kaynak koduna yolculuk : Adım
-1](http://cdn.daron.yondem.com/assets/1922/18012008_1.png)\
+1](media/NET_Framework_3_5_acik_kaynak_kodlari_karsinizda/18012008_1.png)\
 *Açık kaynak koduna yolculuk : Adım 1*
 
 Bir sonraki adımda yine "**Options**" içerisinde "**Symbols**" bölümüne
@@ -60,7 +60,7 @@ tavsiyem kendi kullanıcı klasörleri içerisinde bir adres vermeleri.
 işaretini de işaretleyerek işlemimizi tamamlıyoruz.
 
 ![Açık kaynak koduna yolculuk : Adım
-2](http://cdn.daron.yondem.com/assets/1922/18012008_2.png)\
+2](media/NET_Framework_3_5_acik_kaynak_kodlari_karsinizda/18012008_2.png)\
 *Açık kaynak koduna yolculuk : Adım 2*
 
 İşlemleri tamamlamak için "OK" düğmesine bastığınızda Visual Studio size
@@ -77,7 +77,7 @@ penceresinden istediğimiz sınıfı seçerek sağ tuş ile gelen menüden
 "**Load Symbols**" komutu veriyoruz.
 
 ![Açık kaynak koduna yolculuk : Adım
-3](http://cdn.daron.yondem.com/assets/1922/18012008_3.png)\
+3](media/NET_Framework_3_5_acik_kaynak_kodlari_karsinizda/18012008_3.png)\
 *Açık kaynak koduna yolculuk : Adım 3*
 
 Yükleme işlemi internet üzerinden yapılacağı için tabi ki "**Load
@@ -87,7 +87,7 @@ artık siyah olacak ve her satırın sonunda kaynak koddaki satır numaralı
 da gözükecektir.
 
 ![Açık kaynak kodu
-bilgisayarımızda.](http://cdn.daron.yondem.com/assets/1922/18012008_4.png)\
+bilgisayarımızda.](media/NET_Framework_3_5_acik_kaynak_kodlari_karsinizda/18012008_4.png)\
 *Açık kaynak kodu bilgisayarımızda.*
 
 İncelemek istediğiniz koda karar verdikten sonra çift tıklayarak kaynak
@@ -97,7 +97,7 @@ sonra kaynak kodu bilgisayarınıza indirilecektir. Daha sonraki
 denemelerinizde sözleşme bir daha gösterilmeyecektir.
 
 ![.NET Framework açık kaynak kodu VB
-:)](http://cdn.daron.yondem.com/assets/1922/18012008_5.png)\
+:)](media/NET_Framework_3_5_acik_kaynak_kodlari_karsinizda/18012008_5.png)\
 *.NET Framework açık kaynak kodu VB :)*
 
 İşte açık kaynak kodu karşımızda. Unutmayalım bu kod bizler için

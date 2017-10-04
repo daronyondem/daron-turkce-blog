@@ -19,7 +19,7 @@ başladığımız programda sunumumu 3'er saatlik iki bölüm olarak
 gerçekleştirdim.
 
 ![İzmir, Expression Web
-Semineri](http://cdn.daron.yondem.com/assets/2112/03072008_1.jpg)\
+Semineri](media/Habitat_Expression_Web_ile_Web_Tasarimi_Seminerim/03072008_1.jpg)\
 *İzmir, Expression Web Semineri*
 
 Gün boyunca "muhteşem" eğlendiğimi söyleyebilirim. Enerji gerçekten hat

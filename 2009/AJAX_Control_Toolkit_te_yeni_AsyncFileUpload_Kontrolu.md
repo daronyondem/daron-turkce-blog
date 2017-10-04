@@ -226,7 +226,7 @@ animasyonu olarak bahsettiğim şey aslında basit ve sürekli aynı
 animasyonu gösteren bir GIF dosyasından farklı değil.
 
 ![Örnek AJAX Loading
-animasyonu.](http://cdn.daron.yondem.com/assets/2419/01102009_1.gif)\
+animasyonu.](media/AJAX_Control_Toolkit_te_yeni_AsyncFileUpload_Kontrolu/01102009_1.gif)\
 *Örnek AJAX Loading animasyonu.*
 
 Bu GIF dosyasını bildiğimiz şekilde ASP.NET sayfasına ekledikten sonra
@@ -329,7 +329,7 @@ Eğer kontrolün tasarımında da hızlı bir değişiklik yapmak isterseniz
 şimdilik iki farklı tasarım hazır olarak sizi bekliyor.
 
 ![Kontrolde kullanılabilecek hazır iki farklı tasarım
-var.](http://cdn.daron.yondem.com/assets/2419/02102009_2.png)\
+var.](media/AJAX_Control_Toolkit_te_yeni_AsyncFileUpload_Kontrolu/02102009_2.png)\
 *Kontrolde kullanılabilecek hazır iki farklı tasarım var.*
 
 Hepinize kolay gelsin.

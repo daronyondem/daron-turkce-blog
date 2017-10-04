@@ -16,7 +16,7 @@ Eğitim başında Expression Studio'yu inceledikten sonra hemen Silverlight
 1.0 dünyasına geçiş yaparak biraz da AJAX'a göz attık.
 
 ![KoçAllianz ekibi ile beraber Silverlight eğitimi sonunda herkez poz
-vermekte.](http://cdn.daron.yondem.com/assets/1852/17112007_1.jpg)
+vermekte.](media/KocAllianz_Silverlight_Egitimi/17112007_1.jpg)
 
 Eğitimimizi sonlandırmadan önce son günümüzde ufak bir de proje
 gerçekleştirdik. Sınıfımızda hem tasarımcı arkadaşlar hem de
@@ -45,7 +45,7 @@ Projenin tüm kodlarını aşağıdaki adresten bilgisayarınıza
 indirebilirsiniz.
 
 [KoçAllianz Örnek Proje Kodları - 17112007\_2.rar (404.13
-KB)](http://cdn.daron.yondem.com/assets/1852/17112007_2.rar)
+KB)](media/KocAllianz_Silverlight_Egitimi/17112007_2.rar)
 
 Organizasyon için [KoçSistem](http://www.kocsistem.com.tr/tr/) ve
 [Arıbil](http://www.aribil.com/) yetkililerine ve tüm katılımcılara

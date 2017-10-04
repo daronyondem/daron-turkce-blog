@@ -18,7 +18,7 @@ JumpList menüsünde aslında hayatımızı gerçekten kolaylaştırabilecek
 kısayollar ile karşılaşabiliriz.
 
 ![Outlook'a ait JumpList
-karşınızda...](http://cdn.daron.yondem.com/assets/2387/12082009_4.jpg)\
+karşınızda...](media/Windows_7_icin_JumpList_hazirlamak/12082009_4.jpg)\
 *Outlook'a ait JumpList karşınızda...*
 
 Gördüğünüz üzere JumpList üzerinden neredeyse program içerisindeki ana
@@ -71,7 +71,7 @@ JumpList'lerinizde eklediğiniz farklı komutları bu şekilde gruplayarak
 birbirinden ayırabilirsiniz.
 
 ![Kendimize özel bir JumpList
-örneği.](http://cdn.daron.yondem.com/assets/2387/12082009_5.jpg)\
+örneği.](media/Windows_7_icin_JumpList_hazirlamak/12082009_5.jpg)\
 *Kendimize özel bir JumpList örneği.*
 
 **JumpListLink** yaratırken harici dosyalara link vermemizin arkasında
@@ -103,7 +103,7 @@ programı olarak ayarlamak zorunda değilsiniz, sadece eşleştirilmiş
 olması yeterli olacaktır.
 
 ![Expression Web ile açılan son
-dosyalar...](http://cdn.daron.yondem.com/assets/2387/12082009_6.jpg)\
+dosyalar...](media/Windows_7_icin_JumpList_hazirlamak/12082009_6.jpg)\
 *Expression Web ile açılan son dosyalar...*
 
 Sonrasında aşağıdaki gibi bir kod ile bu işlevselliği ister "son açılan
@@ -149,12 +149,12 @@ işlemlerden sonra JumpList üzerinden Refresh metodunu çağırmayı
 unutmayın.
 
 ![Özel kategorisi ile birlikte JumpList'imizin son
-hali.](http://cdn.daron.yondem.com/assets/2387/12082009_7.jpg)\
+hali.](media/Windows_7_icin_JumpList_hazirlamak/12082009_7.jpg)\
 *Özel kategorisi ile birlikte JumpList'imizin son hali.*
 
 Hepinize kolay gelsin.
 
 [Örnek uygulama kaynak kodları - 12082009\_8.rar (566,92
-KB)](http://cdn.daron.yondem.com/assets/2387/12082009_8.rar)
+KB)](media/Windows_7_icin_JumpList_hazirlamak/12082009_8.rar)
 
 

@@ -121,7 +121,7 @@ System.ServiceModel.Web'i projemize referans olarak eklediğimiz gibi
 artık yolda devam etmeye hazırız.
 
 ![System.ServiceModel.Web'i referans olarak
-alıyoruz.](http://cdn.daron.yondem.com/assets/2519/05052010_1.png)\
+alıyoruz.](media/Windows_Phone_7_de_Isolated_Storage_Kullanimi/05052010_1.png)\
 *System.ServiceModel.Web'i referans olarak alıyoruz.*
 
 **[C\#]**

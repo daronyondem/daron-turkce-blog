@@ -30,7 +30,7 @@ yakalayabiliyor. Bu özelliği ise zaten Kinect'ten epey bir ayrılıyor
 diyebiliriz.
 
 ![Ufacık cihazla 10 parmak yakalamak
-mümkün.](http://cdn.daron.yondem.com/assets/2852/leap_1.jpg)\
+mümkün.](media/Leap_Motion_ilk_bakis_ilk_dokunus/leap_1.jpg)\
 *Ufacık cihazla 10 parmak yakalamak mümkün.*
 
 Cihazı ilk kurduğunuzda sitesinden de yazılımını indirerek kurmanız

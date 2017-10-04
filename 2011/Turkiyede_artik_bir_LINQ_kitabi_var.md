@@ -20,7 +20,7 @@ verdiğimde veya dilekte bulunduğumda pek nasihat/dilek özelliğinden
 öteye geçmediğini gördüğüm için şaşkınlığı hoş görün lütfen.
 
 ![Cihan Yakar'ın LINQ Kitabı hepsiburada.com'da
-satışta...](http://cdn.daron.yondem.com/assets/2683/03092011_1.jpg)\
+satışta...](media/Turkiyede_artik_bir_LINQ_kitabi_var/03092011_1.jpg)\
 *Cihan Yakar'ın LINQ Kitabı
 [hepsiburada.com](http://www.hepsiburada.com/Liste/linq/ProductDetails.aspx?productId=kdikeyeksen67799&categoryId=211651&SKU=KDIKEYEKSEN67799)'da
 satışta...*

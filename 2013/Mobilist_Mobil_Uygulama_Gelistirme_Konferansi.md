@@ -19,7 +19,7 @@ Phone, Android, İOS SDK'lerinin olması bu servislerin tüm platformlarda
 rahatlıkla kullanılabilmesini sağlıyor.
 
 ![Mobil Uygulama Geliştirme
-Konferansı](http://cdn.daron.yondem.com/assets/2842/azure_mobile.jpg)\
+Konferansı](media/Mobilist_Mobil_Uygulama_Gelistirme_Konferansi/azure_mobile.jpg)\
 *Mobil Uygulama Geliştirme Konferansı*
 
 Bahçeşehir Üniversitesi'nin [Bilgisayar Mühendisleri

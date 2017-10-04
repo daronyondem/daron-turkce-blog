@@ -14,7 +14,7 @@ old.EntryID: 586bbb2e-890d-4f4c-aa81-f5c75332aa6b
 linkten indirebilirsiniz.
 
 [Ders Uygulama Dosyaları - 12042007\_1.zip (100.36
-KB)](http://cdn.daron.yondem.com/assets/1726/12042007_1.zip)
+KB)](media/Mayasoft_Ders_Uygulama_Dosyalari/12042007_1.zip)
 
 Önümüzdeki dersten itibare **Adobe Photoshop CS2** kullanıyor olacağız.
 İsteyenler programın deneme sürümünü aşağıdaki adresten indirebilir.

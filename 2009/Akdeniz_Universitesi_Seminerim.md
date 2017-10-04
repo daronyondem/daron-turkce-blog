@@ -18,7 +18,7 @@ birikimimiz ile daha zengin kullanıcı deneyimlerini nasıl sağlayabiliriz
 sorusuna cevap aradık.
 
 ![Antalya, Akdeniz Üniversitesi, Silverlight 3.0
-Seminerim](http://cdn.daron.yondem.com/assets/2348/13042009_1.jpg)\
+Seminerim](media/Akdeniz_Universitesi_Seminerim/13042009_1.jpg)\
 *Antalya, Akdeniz Üniversitesi, Silverlight 3.0 Seminerim*
 
 Etkinlikte ben yılmadan dinleyen :) herkese buradan defalarca

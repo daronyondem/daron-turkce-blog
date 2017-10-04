@@ -17,7 +17,7 @@ amazon hediye çekiyle aldığım kitapları yine sizlerle paylaşmak ama
 baktım ki aslında paylaşabileceğim başka şeyler de varmış :) O nedenle
 hediyeleri arttırıyorum :)
 
-![Foundations of WF](http://cdn.daron.yondem.com/assets/2820/wf.jpg)\
+![Foundations of WF](media/Ekim_in_Cekilis_Kitablari_bu_sefer_5_tane/wf.jpg)\
 *Foundations of WF*
 
 Ekim ayı hediye İngilizce kitap olarak **APress'ten "Foundations of
@@ -29,7 +29,7 @@ sevgili **Yaşar Gözüdeli**'ye teşekkür ediyorum! Kitapları bana
 kendileri ulaştırdılar.
 
 ![C\#, LINQ ve SQL Server 2012
-Kitapları](http://cdn.daron.yondem.com/assets/2820/kitaplar.jpg)\
+Kitapları](media/Ekim_in_Cekilis_Kitablari_bu_sefer_5_tane/kitaplar.jpg)\
 *C\#, LINQ ve SQL Server 2012 Kitapları*
 
 Hediye kitap sayısını böylece Ekim'de 4'e çıkarmış oluyorum :) Eylül'de

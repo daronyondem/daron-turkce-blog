@@ -18,7 +18,7 @@ gibi uygulamaların alt kısımda iki düğme bulunarak bu düğmelere
 basıldığında da açılan uzun kısmi menülere artık yer yok.
 
 ![WP7'de navigasyon
-menüleri...](http://cdn.daron.yondem.com/assets/2520/06052010_1.png)\
+menüleri...](media/Windows_Phone_7_de_ApplicationBar_ve_Menu_Kullanimi/06052010_1.png)\
 *WP7'de navigasyon menüleri...*
 
 Yukarıda gördüğünüz sistemde üst kısımda gördüğünüz dört düğme sürekli

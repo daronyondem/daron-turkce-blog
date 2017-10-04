@@ -22,7 +22,7 @@ dayanamam!) nedeniyle performansımdan şüphe etmediğimi söylesem yalan
 olur.
 
 ![Konya, Selçuk
-Üniversitesi](http://cdn.daron.yondem.com/assets/2055/13052008_1.jpg)\
+Üniversitesi](media/Konya_Selcuk_Universitesi_Seminerleri/13052008_1.jpg)\
 *Konya, Selçuk Üniversitesi*
 
 Aktivitede katkılarından dolayı sevgili **MSP, Okan Öztürkmenoğlu**'na

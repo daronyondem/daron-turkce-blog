@@ -171,7 +171,7 @@ belirlemek için Button tagları arasında ayrıca bir **Button.Content**
 tagları açtık.
 
 ![Button.Content özelliğini değiştirilen Button nesnesi
-sağda.](http://cdn.daron.yondem.com/assets/2047/05052008_1.jpg)\
+sağda.](media/Silverlight_2_0_icerisinde_ControlTemplating_ve_Style_yapilari/05052008_1.jpg)\
 *Button.Content özelliğini değiştirilen Button nesnesi sağda.*
 
 Bu noktada Button.Content içerisinde istediğiniz Silverlight kontrolünü
@@ -302,7 +302,7 @@ StackPanel kullandıktan sonra artık StackPanel içerisine istediğimiz
 kadar kontrol yerleştirebiliyoruz.
 
 ![Button.Content içerisinde birden çok Silverlight
-kontrolü.](http://cdn.daron.yondem.com/assets/2047/05052008_2.jpg)\
+kontrolü.](media/Silverlight_2_0_icerisinde_ControlTemplating_ve_Style_yapilari/05052008_2.jpg)\
 *Button.Content içerisinde birden çok Silverlight kontrolü.*
 
 Bu yapı ile farklı kontrollerinin farklı görsel özelliklerini tanımlamak
@@ -413,7 +413,7 @@ artık düğmemiz sadece bir Image nesnesinden oluşacak oysa programcımız
 için bu nesne hala bir Button.
 
 ![Bir Button nesnesine benzemiyor değil mi? Ama
-öyle.](http://cdn.daron.yondem.com/assets/2047/05052008_3.jpg)\
+öyle.](media/Silverlight_2_0_icerisinde_ControlTemplating_ve_Style_yapilari/05052008_3.jpg)\
 *Bir Button nesnesine benzemiyor değil mi? Ama öyle.*
 
 **Peki tüm bunların anlamı nedir?**
@@ -559,7 +559,7 @@ isterseniz bir Container Element kullanmanız gerekecektir. Bizim
 örneğimizde tek nesne bulunduğu için gerek olmadı.
 
 ![Yeni Silverlight Button nesnemiz
-karşınızda!](http://cdn.daron.yondem.com/assets/2047/05052008_4.jpg)\
+karşınızda!](media/Silverlight_2_0_icerisinde_ControlTemplating_ve_Style_yapilari/05052008_4.jpg)\
 *Yeni Silverlight Button nesnemiz karşınızda!*
 
 Gördüğünüz gibi düğmemizin görsel özellikleri tamamlandı. Peki ya bu
@@ -753,7 +753,7 @@ sürümü sonrasında sürümlerde bu yapı düzeltilir, şu anki çalışma yap
 pek mantıklı değil.
 
 ![Button'umuzun son
-hali.](http://cdn.daron.yondem.com/assets/2047/05052008_5.jpg)\
+hali.](media/Silverlight_2_0_icerisinde_ControlTemplating_ve_Style_yapilari/05052008_5.jpg)\
 *Button'umuzun son hali.*
 
 **Peki neden doğrudan herşeyi ControlTemplate içerisine koymuyoruz?**

@@ -18,7 +18,7 @@ koyduğunuzda tamamen pasif hale gelebilmesi ile beraber pil kullanımını
 çok etkilemediğini söyleyebilirim.
 
 ![Glance Background'da şirket
-logomuz](http://cdn.daron.yondem.com/assets/2862/glance.jpg)\
+logomuz](media/Nokia_Glance_Background/glance.jpg)\
 *Glance Background'da şirket logomuz*
 
 Nokia bu kadarla kalmayıp bu özelliği bir adım daha ileriye götürdü ve

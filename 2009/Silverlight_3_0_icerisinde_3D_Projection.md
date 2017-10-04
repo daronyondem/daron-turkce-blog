@@ -41,7 +41,7 @@ ortamda da manipüle edebiliyorsunuz. Gelin hemen hızlı bir örnek ile
 konuya girelim.
 
 ![Farklı 3D Transform'lar uygulanmış
-ComboBox'lar.](http://cdn.daron.yondem.com/assets/2371/07062009_1.jpg)\
+ComboBox'lar.](media/Silverlight_3_0_icerisinde_3D_Projection/07062009_1.jpg)\
 *Farklı 3D Transform'lar uygulanmış ComboBox'lar.*
 
 Yukarıdaki ekran görüntüsünde aslında basit bir **ComboBox**
@@ -206,7 +206,7 @@ rahatlıkla özelliklere de açı değerleri vererek istediğiniz sonucu
 alabilirsiniz.
 
 ![Eksenler ve Rotation
-özellikleri...](http://cdn.daron.yondem.com/assets/2371/07062009_2.gif)\
+özellikleri...](media/Silverlight_3_0_icerisinde_3D_Projection/07062009_2.gif)\
 *Eksenler ve Rotation özellikleri...*
 
 Yukarıdaki görsel içerisinde X, Y ve Z eksenlerini ve etraflarında
@@ -227,7 +227,7 @@ Eğer X eksenine 0 Offset değerini verirseniz bu X ekseninin düğmenin en
 verirseniz ekseni düğmenin en alt noktasına itmiş olursunuz.
 
 ![CenterOfRotation
-ayarları.](http://cdn.daron.yondem.com/assets/2371/07062009_3.gif)\
+ayarları.](media/Silverlight_3_0_icerisinde_3D_Projection/07062009_3.gif)\
 *CenterOfRotation ayarları.*
 
 Eksenin yerini değiştirmiş olmak artık düğmemizin kendi merkezine göre
@@ -265,7 +265,7 @@ LocalOffset'tir. Düşünün ki nesneniz ekseni etrafında değil de
 ekseninden 50 piksel uzakta bir dairede dönüyor? Nasıl gözükürdü?
 
 ![Ekseninden uzaklarda dönen bir
-Button.](http://cdn.daron.yondem.com/assets/2371/07062009_4.gif)\
+Button.](media/Silverlight_3_0_icerisinde_3D_Projection/07062009_4.gif)\
 *Ekseninden uzaklarda dönen bir Button.*
 
 Yukarıdaki görüntüden bir Button'un ekseninden uzakta dönmesi halinde

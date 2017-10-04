@@ -64,7 +64,7 @@ olmayan tüm bu ek detaylar ile uğraşmak yerine tüm bunları bir hizmet
 olarak alsanız çok daha rahat ve ucuz olmaz mı?
 
 ![IAAS, PAAS ve
-SAAS](http://cdn.daron.yondem.com/assets/2872/azure_1.png)\
+SAAS](media/IAAS_PAAS_SAAS_ve_Windows_Azure_SDK2_2/azure_1.png)\
 *IAAS, PAAS ve SAAS*
 
 Azure'un varoluş şekli ve nedenini anlamak için yukarıdaki manzara çok
@@ -123,7 +123,7 @@ ilişkim kalmıyor. Elimdeki uygulamamı ve datamı alıp direk bana sağlanan
 PAAS ortamına koyup işimi bitiriyorum.
 
 ![IAAS, PAAS ve
-SAAS](http://cdn.daron.yondem.com/assets/2872/azure_1.png)\
+SAAS](media/IAAS_PAAS_SAAS_ve_Windows_Azure_SDK2_2/azure_1.png)\
 *IAAS, PAAS ve SAAS*
 
 Manzara kulağa ne kadar hoş gelse de tabi herşey toz pembe değil :)

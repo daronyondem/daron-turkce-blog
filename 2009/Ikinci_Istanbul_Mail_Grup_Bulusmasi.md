@@ -14,7 +14,7 @@ toplanarak yaptık. Benim için her zamanki gibi çok zevkli bir buluşma
 oldu. Umarım katılan herkes iyi vakit geçirmiştir.
 
 ![Mail grup 2. İstanbul
-buluşması.](http://cdn.daron.yondem.com/assets/2409/12092009_1.jpg)\
+buluşması.](media/Ikinci_Istanbul_Mail_Grup_Bulusmasi/12092009_1.jpg)\
 *Mail grup 2. İstanbul buluşması.*
 
 Bu sefer konuştuğumuz konulardan bahsetmeyeceğim :) Mail grup

@@ -17,7 +17,7 @@ performansı ile semineri sonuna kadar dinleyen tüm öğrenci kardeşlerime
 da anlaşılabileceği gibi epey eğlenceli dakikalar geçirdik :)
 
 ![Galatasaray Üniversitesi Silverlight
-Semineri](http://cdn.daron.yondem.com/assets/1887/15122007_1.jpg)\
+Semineri](media/Galatasaray_Universitesi_Silverlight_Semineri_ardindan/15122007_1.jpg)\
 *Galatasaray Üniversitesi Silverlight Semineri*
 
 Organizasyonu düzenleyen **Galatasaray Üniversitesi Bilişim Kulübüne**

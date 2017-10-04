@@ -59,7 +59,7 @@ Flash arayüzüne çok benzeyen bir arayüz ile karşılaşıyoruz. Tabi arayüz
 kaynaklanıyor.
 
 ![Adobe Edge Toolbar Preview 3'ün ne kadar "Preview" olduğunun
-kanıtı.](http://cdn.daron.yondem.com/assets/2730/edge_1.jpg)\
+kanıtı.](media/Adobe_Edge_ile_HTML5/edge_1.jpg)\
 *Adobe Edge Toolbar Preview 3'ün ne kadar "Preview" olduğunun kanıtı.*
 
 Yukarıda gördüğünüz basit ekran görüntüsünde Adobe Edge arayüzünden tek
@@ -69,7 +69,7 @@ etmekten sıkılmadan :) bunun bir "Preview" olduğunu yine hatırlatacağım.
 nasıl yapıldığı ve arka planda nasıl bir kod yaratıldığı.
 
 ![Edge'de ilk
-animasyonumuz.](http://cdn.daron.yondem.com/assets/2730/edge_2.jpg)\
+animasyonumuz.](media/Adobe_Edge_ile_HTML5/edge_2.jpg)\
 *Edge'de ilk animasyonumuz.*
 
 Deneme amaçlı olarak yola çıkarak ilk animasyonumu yukarıdaki şekilde
@@ -98,7 +98,7 @@ gitti. Sonrasında tabi ki arka planda neler oluyor diye proje
 dosyalarını karıştırmaya başladım.
 
 ![Basit Edge projesinin
-dosyaları.](http://cdn.daron.yondem.com/assets/2730/edge_3.png)\
+dosyaları.](media/Adobe_Edge_ile_HTML5/edge_3.png)\
 *Yeni bir Edge projesinin içeriği.*
 
 Ekran görüntüsünde de paylaştığım gibi Edge'in kendi uzantısı ile
@@ -114,7 +114,7 @@ kritik değil. Daha fazla IDE için bazı bilgiler yer alıyor proje ile
 ilgili.
 
 ![Edge projesinin ana HTML
-dosyası.](http://cdn.daron.yondem.com/assets/2730/edge_4.png)\
+dosyası.](media/Adobe_Edge_ile_HTML5/edge_4.png)\
 *Edge projesinin ana HTML dosyası.*
 
 Ana HTML dosyamıza göz attığımızda doğal olarak projedeki bütün JS

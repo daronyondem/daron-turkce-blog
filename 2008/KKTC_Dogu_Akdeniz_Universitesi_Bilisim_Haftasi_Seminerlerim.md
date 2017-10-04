@@ -26,7 +26,7 @@ konulara değindikten sonra .NET Framework 3.5 içerisinde de AJAX ve
 LINQ, XLINQ, LINQ2SQL gibi kavramlara canlı demolarla göz attık.
 
 ![KKTC Doğu Akdeniz Üniversitesi Bilişim
-Haftası](http://cdn.daron.yondem.com/assets/1983/08032008_3.jpg)\
+Haftası](media/KKTC_Dogu_Akdeniz_Universitesi_Bilisim_Haftasi_Seminerlerim/08032008_3.jpg)\
 *KKTC Doğu Akdeniz Üniversitesi Bilişim Haftası*
 
 Seminerlere katılan herkese buradan çok teşekkür ediyorum. Seminerlerden
@@ -48,9 +48,9 @@ Seminerlerde kullandığım sunumları aşağıda sizlerle paylaşıyorum.
 
 [Visual Studio 2008 ve .NET Framework 3.5 ile beraber gelen yeniliker -
 08032008\_1.xps (1,53
-MB)](http://cdn.daron.yondem.com/assets/1983/08032008_1.xps)\
+MB)](media/KKTC_Dogu_Akdeniz_Universitesi_Bilisim_Haftasi_Seminerlerim/08032008_1.xps)\
 [Microsoft Sertifikasyonları ve Yazılım Sektöründe Girişimcilik -
 08032008\_2.xps (3,51
-MB)](http://cdn.daron.yondem.com/assets/1983/08032008_2.xps)
+MB)](media/KKTC_Dogu_Akdeniz_Universitesi_Bilisim_Haftasi_Seminerlerim/08032008_2.xps)
 
 

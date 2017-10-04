@@ -38,7 +38,7 @@ daha da önemlisi hazırladığım bu uygulamayı kaynak kodları ile aşağıda
 linkten indirebilirsiniz ;)
 
 [Last.FM Silverlight Widget Kaynak Kodları - 13062008\_1.rar (9,29
-KB)](http://cdn.daron.yondem.com/assets/2091/13062008_1.rar)
+KB)](media/Last_Fm_Silverlight_Widget/13062008_1.rar)
 
 Hepinize iyi eğlenceler ;)
 

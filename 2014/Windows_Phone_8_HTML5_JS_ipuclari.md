@@ -19,7 +19,7 @@ yazmaya karar verirseniz kullanabileceğiniz bazı ipuçları ve
 taktiklerden bahsetmek istiyorum.
 
 ![Windows Phone 8 için HTML 5 Projesi
-oluştururken.](http://cdn.daron.yondem.com/assets/2885/html5.jpg)\
+oluştururken.](media/Windows_Phone_8_HTML5_JS_ipuclari/html5.jpg)\
 *Windows Phone 8 için HTML 5 Projesi oluştururken.*
 
 Öncesinde çok kısa olarak bu HTML5 hikayesi tam olarak nasıl

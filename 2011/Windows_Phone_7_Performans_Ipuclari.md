@@ -130,7 +130,7 @@ telefon üzerinde ekranda sürekli "tekrar" çizilen kısımları
 görebileceğiz.
 
 ![Hmm kocaman alan tekrar çiziliyor
-gibi...](http://cdn.daron.yondem.com/assets/2713/wp7tricks.png)\
+gibi...](media/Windows_Phone_7_Performans_Ipuclari/wp7tricks.png)\
 *Hmm kocaman alan tekrar çiziliyor gibi...*
 
 Yukarıdaki sarı olarak gördüğünüz alan Rectangle sola oynadıkça tekrar
@@ -152,7 +152,7 @@ Rectangle da tekrar çizilmesin Cache'lensin çünkü onun da sadece
 pozisyonu değişiyor :)
 
 ![CacheMode ile herşey
-yolunda!](http://cdn.daron.yondem.com/assets/2713/wp7tricks2.png)\
+yolunda!](media/Windows_Phone_7_Performans_Ipuclari/wp7tricks2.png)\
 *CacheMode ile herşey yolunda!*
 
 İşte Rectangle nesnesinin CacheMode özelliğini değiştirdiğimiz gibi
@@ -198,7 +198,7 @@ style="color:blue;">true</span>;
 CacheVisualization'ı açmak için yukarıdaki komutu kullanabilirsiniz.
 
 ![Rectangle'daki CacheMode değişikliklierinin
-yansıması.](http://cdn.daron.yondem.com/assets/2713/wp7tricks3.png)\
+yansıması.](media/Windows_Phone_7_Performans_Ipuclari/wp7tricks3.png)\
 *Rectangle'daki CacheMode değişikliklierinin yansıması.*
 
 Yukarıdaki iki ayrı ekran görüntüsünde de görebileceğiniz üzere solda

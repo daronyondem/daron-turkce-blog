@@ -19,7 +19,7 @@ kaldık :) Çünkü Silverlight MVP'leri olarak çoğumuz PDC'de olacakları
 biliyoruz fakat tahmin edebileceğiniz üzere paylaşamıyoruz.
 
 ![Silverlight Booth'da görev
-başında!](http://cdn.daron.yondem.com/assets/2445/11112009_1.jpg)\
+başında!](media/TechEd_3_Gun/11112009_1.jpg)\
 *Silverlight Booth'da görev başında!*
 
 Genel olarak itiraf etmek gerekirse Amerika'dans onra kabaca Silverlight
@@ -52,7 +52,7 @@ ortamı gösterebilmek adına üç sene önceki ziyaretminden bir fotoğrafı
 aşağıda bulabilirsiniz :)
 
 ![Checkpoint Charly, Berlin'in iki yarısı arasında geçiş
-noktası.](http://cdn.daron.yondem.com/assets/2445/11112009_2.jpg)\
+noktası.](media/TechEd_3_Gun/11112009_2.jpg)\
 *Checkpoint Charly, Berlin'in iki yarısı arasında geçiş noktası.*
 
 Her Türk gibi biz de akşam yemeğimizi Hasır Restaurant adında bir Türk

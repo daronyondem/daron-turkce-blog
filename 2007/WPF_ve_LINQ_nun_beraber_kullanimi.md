@@ -23,7 +23,7 @@ gereken Visual Studio 2008'in **Multi-Targeting** özelliğinden
 faydalanarak .NET Framework 3.5'i seçmek.
 
 ![Visual Studio 2008 içerisinde .NET Framework 3.5 ile WPF
-Projesi](http://cdn.daron.yondem.com/assets/1904/31122007_1.png)\
+Projesi](media/WPF_ve_LINQ_nun_beraber_kullanimi/31122007_1.png)\
 *Visual Studio 2008 içerisinde .NET Framework 3.5 ile WPF Projesi*
 
 Aslında esas sorun **Expression Blend** tarafında. Expression Blend
@@ -34,7 +34,7 @@ Blend'in .NET Framework 3.5'ten önce yayınlanmış olması. Bu sorunu
 kullanabilirsiniz.
 
 ![Expression Blend 2 December Preview içerisinde .NET Framework 3.5
-desteği.](http://cdn.daron.yondem.com/assets/1904/31122007_2.png)\
+desteği.](media/WPF_ve_LINQ_nun_beraber_kullanimi/31122007_2.png)\
 *Expression Blend 2 December Preview içerisinde .NET Framework 3.5
 desteği.*
 

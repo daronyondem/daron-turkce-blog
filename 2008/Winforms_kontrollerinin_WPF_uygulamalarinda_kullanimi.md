@@ -27,7 +27,7 @@ olan **WindowsFormsHost** sınıfının da projeye kesinlikle referans
 olarak eklenmesi şart.
 
 ![WPF projemizde Winforms kontrolleri kullanabilmek için eklediğimiz
-referanslar.](http://cdn.daron.yondem.com/assets/2016/08042008_1.png)\
+referanslar.](media/Winforms_kontrollerinin_WPF_uygulamalarinda_kullanimi/08042008_1.png)\
 *WPF projemizde Winforms kontrolleri kullanabilmek için eklediğimiz
 referanslar.*
 

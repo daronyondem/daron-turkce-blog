@@ -50,9 +50,9 @@ core** işlemci desteği geliyor işletim sistemine.
 <div id="photos_WP8_Update3_Preview_DriveMode"
 style="width: 360px; display: block; margin-left: auto;  margin-right: auto;">
 
-[![](http://cdn.daron.yondem.com/assets/2858/drivingmode_s.png)](http://cdn.daron.yondem.com/assets/2858/drivingmode.png)
-[![](http://cdn.daron.yondem.com/assets/2858/drivingmode_2_s.png)](http://cdn.daron.yondem.com/assets/2858/drivingmode_2.png)
-[![](http://cdn.daron.yondem.com/assets/2858/drivingmode_3_s.png)](http://cdn.daron.yondem.com/assets/2858/drivingmode_3.png)
+[![](media/Windows_Phone_8_Update_3_Developer_Preview/drivingmode_s.png)](media/Windows_Phone_8_Update_3_Developer_Preview/drivingmode.png)
+[![](media/Windows_Phone_8_Update_3_Developer_Preview/drivingmode_2_s.png)](media/Windows_Phone_8_Update_3_Developer_Preview/drivingmode_2.png)
+[![](media/Windows_Phone_8_Update_3_Developer_Preview/drivingmode_3_s.png)](media/Windows_Phone_8_Update_3_Developer_Preview/drivingmode_3.png)
 
 </div>
 
@@ -94,9 +94,9 @@ style="width: 360px; display: block; margin-left: auto;
 
 margin-right: auto;">
 
-[![](http://cdn.daron.yondem.com/assets/2858/storage_s.png)](http://cdn.daron.yondem.com/assets/2858/storage.png)
-[![](http://cdn.daron.yondem.com/assets/2858/storage_2_s.png)](http://cdn.daron.yondem.com/assets/2858/storage_2.png)
-[![](http://cdn.daron.yondem.com/assets/2858/storage_3_s.png)](http://cdn.daron.yondem.com/assets/2858/storage_3.png)
+[![](media/Windows_Phone_8_Update_3_Developer_Preview/storage_s.png)](media/Windows_Phone_8_Update_3_Developer_Preview/storage.png)
+[![](media/Windows_Phone_8_Update_3_Developer_Preview/storage_2_s.png)](media/Windows_Phone_8_Update_3_Developer_Preview/storage_2.png)
+[![](media/Windows_Phone_8_Update_3_Developer_Preview/storage_3_s.png)](media/Windows_Phone_8_Update_3_Developer_Preview/storage_3.png)
 
 </div>
 
@@ -111,7 +111,7 @@ Eleştirilebilecek pek bir noktası yok. Dediğim gibi güzel bir şekilde
 tasarlanmış ve bence final haline gelmiş.
 
 ![Multitasking menüsünde uygulama kapatma
-opsyonu.](http://cdn.daron.yondem.com/assets/2858/app_shutdown.jpg)\
+opsyonu.](media/Windows_Phone_8_Update_3_Developer_Preview/app_shutdown.jpg)\
 *Multitasking menüsünde uygulama kapatma opsyonu.*
 
 **Müjde! Artık uygulamaları kapaytabiliyorsunuz!** Dalga geçer gibi
@@ -190,7 +190,7 @@ telefonun normal update süreçlerine early version'ları da alabilir hale
 gelmesini sağlamak. Yoksa app kendisi update falan yapmıyor :)
 
 ![Windows Phone'da Developer Preview
-Uygulaması](http://cdn.daron.yondem.com/assets/2858/developer_preview.png)\
+Uygulaması](media/Windows_Phone_8_Update_3_Developer_Preview/developer_preview.png)\
 *Windows Phone'da Developer Preview Uygulaması*
 
 İşte bu kadar :) Update 3 hikayemizin sonuna geldik. Yazının başında

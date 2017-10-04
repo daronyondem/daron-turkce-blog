@@ -38,7 +38,7 @@ da üretecektir. Bu kodları doğrudan herhangi bir .NET uygulamasını alıp
 DLL'lerini referans olarak projenize eklemek.
 
 ![WMI Code Creator içerisinden NetworkAdapter'lara ulaşan kodu
-alabiliyoruz.](http://cdn.daron.yondem.com/assets/2486/25012010_1.png)\
+alabiliyoruz.](media/Windows_Management_Instrumentation_ne_ola_ki/25012010_1.png)\
 *WMI Code Creator içerisinden NetworkAdapter'lara ulaşan kodu
 alabiliyoruz.*
 
@@ -51,7 +51,7 @@ görebilirsiniz. Bu metodlardan birini seçerseniz bu sefer de o metodu
 çağıran bir kod yaratılacaktır.
 
 ![Network cihazlarına uygulayabildiğimiz
-aksyonlar.](http://cdn.daron.yondem.com/assets/2486/25012010_2.png)\
+aksyonlar.](media/Windows_Management_Instrumentation_ne_ola_ki/25012010_2.png)\
 *Network cihazlarına uygulayabildiğimiz aksyonlar.*
 
 Aynı şekilde bu gibi cihazların eventlarını da dinleyebileceğinizi tabi

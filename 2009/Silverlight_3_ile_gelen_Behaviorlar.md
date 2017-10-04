@@ -27,7 +27,7 @@ yarattıktan sonra hemen **Assets** paneline göz atıp **Behaviors**
 tabını görebilirsiniz.
 
 ![Expression Blend içerisinde
-Behavior'lar.](http://cdn.daron.yondem.com/assets/2393/20082009_1.png)\
+Behavior'lar.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_1.png)\
 *Expression Blend içerisinde Behavior'lar.*
 
 Gördüğünüz üzere ilk bakışta toplam sekiz Behavior bizi bekliyor. Hemen
@@ -50,7 +50,7 @@ aldıktan sonra **Assets** içerisinden de **HyperlinkAction'ı** alarak
 "Objects and Timeline" içerisinde Rectangle'ın üzerine bırakabilirsiniz.
 
 ![Behavior'ımız
-sahnede.](http://cdn.daron.yondem.com/assets/2393/20082009_2.png)\
+sahnede.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_2.png)\
 *Behavior'ımız sahnede.*
 
 Behavior'ı eklediğiniz anda yukarıdaki manzara ile karşılaşacaksınız.
@@ -59,7 +59,7 @@ Hemen bu Behavior nesnesini seçerseniz bu sefer de **Properties**
 panelinde Behavior'a ait özellikleri bulabilirsiniz.
 
 ![Behavior'ımıza ait
-ayarlar.](http://cdn.daron.yondem.com/assets/2393/20082009_3.png)\
+ayarlar.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_3.png)\
 *Behavior'ımıza ait ayarlar.*
 
 Behavior'ımızın özelliklerini incelediğimizde aslında karşımızda bir
@@ -102,7 +102,7 @@ yazmanızı gerektirebilir. Oysa PlaySoundAction Behavior'ı ile doğrudan
 herhangi bir elementin bir durumunda ses oynatabilirsiniz.
 
 ![PlaySoundAction
-ayarları.](http://cdn.daron.yondem.com/assets/2393/20082009_4.png)\
+ayarları.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_4.png)\
 *PlaySoundAction ayarları.*
 
 PlaySoundAction Behavior'ı SourceName ile aldığı kendi Parent
@@ -118,7 +118,7 @@ Rectangle'a tıklandığında başka bir kontrolün sahneden kalkmasını
 istiyorsanız RemoveElementAction doğru seçim olacaktır.
 
 ![RemoveElementAction'ın
-ayarları.](http://cdn.daron.yondem.com/assets/2393/20082009_5.png)\
+ayarları.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_5.png)\
 *RemoveElementAction'ın ayarları.*
 
 Klasik Behavior'larda olduğu gibi RemoveElementAction'ın da SourceName
@@ -138,7 +138,7 @@ sağlayabilir. Tüm bunları bir satır bile kod yazmadan artık doğrudan
 Blend arayüzünde ayarlayabilirsiniz.
 
 ![ControlStoryboardAction iş
-başında.](http://cdn.daron.yondem.com/assets/2393/20082009_6.png)\
+başında.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_6.png)\
 *ControlStoryboardAction iş başında.*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere rahatlıkla bir
@@ -157,7 +157,7 @@ durumlarda lowlevel bir Behavior olarak ChangePropertyAction karşımıza
 zaman değiştirebiliyor.
 
 ![ChangePropertyAction ile animasyon dahi
-oluşturabilirsiniz.](http://cdn.daron.yondem.com/assets/2393/20082009_7.png)\
+oluşturabilirsiniz.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_7.png)\
 *ChangePropertyAction ile animasyon dahi oluşturabilirsiniz.*
 
 ChangePropertyAction'ın TargetName özelliğine herhangi bir özelliğini
@@ -189,7 +189,7 @@ bir animasyon ile gerçekleşmez. FliudMoveBehavior bu değişimin bir
 animasyon ile yapılmasını sağlar.
 
 ![FliudMoveBehavior ve WrapPanel
-beraber.](http://cdn.daron.yondem.com/assets/2393/20082009_8.jpg)\
+beraber.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_8.jpg)\
 *FliudMoveBehavior ve WrapPanel beraber.*
 
 Yukarıdaki ekran görüntüsünde inceleyebileceğiniz örneğimizde bir
@@ -221,7 +221,7 @@ de hangi kontrolün hangi durumunda herhangi bir kontrolün  farklı bir
 State'ine geçiş yapılabileceğine karar verebiliyoruz.
 
 ![GoToStateAction'a ait
-ayarlar.](http://cdn.daron.yondem.com/assets/2393/20082009_9.png)\
+ayarlar.](media/Silverlight_3_ile_gelen_Behaviorlar/20082009_9.png)\
 *GoToStateAction'a ait ayarlar.*
 
 Behavior'ımızı herhangi bir kontrole ekleyip söz konusu kontrolün hangi

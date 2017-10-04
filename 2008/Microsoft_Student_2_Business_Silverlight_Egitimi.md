@@ -17,7 +17,7 @@ Keşke daha çok zamanımız olsa, daha çok konuya değinebilsek ve daha
 zengin uygulamalar yapabilseydik.
 
 ![Microsoft İstanbul, S2B Silverlight
-Eğitimi](http://cdn.daron.yondem.com/assets/1932/26012008_1.jpg)\
+Eğitimi](media/Microsoft_Student_2_Business_Silverlight_Egitimi/26012008_1.jpg)\
 *Microsoft İstanbul, S2B Silverlight Eğitimi*
 
 Her şey bir kenara benim için çok zevkli ve eğlenceli bir eğitimdi.
@@ -27,6 +27,6 @@ ediyorum. Eğitimde yaptığımız, bazılarını yarı bıraktığımız :)
 çalışmaların projelerini aşağıdaki adresten indirebilirsiniz.
 
 [Örnek Projeler - 26012008\_2.zip (29.35
-KB)](http://cdn.daron.yondem.com/assets/1932/26012008_2.zip)
+KB)](media/Microsoft_Student_2_Business_Silverlight_Egitimi/26012008_2.zip)
 
 

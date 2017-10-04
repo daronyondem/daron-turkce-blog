@@ -18,7 +18,7 @@ ilgili bir kitleyle birşeyler paylaşabiliyor olmak gerçekten muhteşem.
 sanırım hayatım boyunca unutmayacağım :)
 
 ![Çanakkale 18 Mart Üniversitesi, WPF ve Silverlight
-Semineri](http://cdn.daron.yondem.com/assets/2054/12052008_1.jpg)\
+Semineri](media/Canakkale_18_Mart_Universitesi_WPF_ve_Silverlight_Semineri/12052008_1.jpg)\
 *Çanakkale 18 Mart Üniversitesi, WPF ve Silverlight Semineri*
 
 Organizasyonla ilgili özellikle sevgili **Erçin Yontar**'a çok teşekkür

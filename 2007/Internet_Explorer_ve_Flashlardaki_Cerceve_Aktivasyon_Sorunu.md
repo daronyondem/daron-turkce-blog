@@ -28,7 +28,7 @@ yaptığımda düğmeye iki kere tıklamam gerekiyor. Birinci tıklamayı Flash
 animasyonunu aktive etmek için, ikinciyi de aktive edilmiş animasyona
 tıklayabilmek için yapmam gerekiyor.
 
-![](http://cdn.daron.yondem.com/assets/1735/27042007_1.png)
+![](media/Internet_Explorer_ve_Flashlardaki_Cerceve_Aktivasyon_Sorunu/27042007_1.png)
 
 Bu sorun sadece **Internet Explorer** için geçerli. **11 Nisan 2006**
 tarihinde Microsoft tarafından bir
@@ -418,6 +418,6 @@ download paketine bulabilirsiniz.
 Kolay gelsin.
 
 [27042007\_2.rar - Örnekler (12.37
-KB)](http://cdn.daron.yondem.com/assets/1735/27042007_2.rar)
+KB)](media/Internet_Explorer_ve_Flashlardaki_Cerceve_Aktivasyon_Sorunu/27042007_2.rar)
 
 

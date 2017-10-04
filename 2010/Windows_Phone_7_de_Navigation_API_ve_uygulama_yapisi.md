@@ -17,7 +17,7 @@ API](http://daron.yondem.com/tr/post/50b7d2c8-13f5-4f82-b458-4f887a538448)'yi
 bir incelemeniz. Sonrasında WP7 tarafında devam edebiliriz.
 
 ![WP7 Kullanıcı Arayüzü
-Yapısı](http://cdn.daron.yondem.com/assets/2517/03052010_3.png)\
+Yapısı](media/Windows_Phone_7_de_Navigation_API_ve_uygulama_yapisi/03052010_3.png)\
 *WP7 Kullanıcı Arayüzü Yapısı*
 
 Her yeni yaratılan WP7 uygulamasında root element bir
@@ -241,7 +241,7 @@ sağlıyor. Bu şekilde tanımlanan Mapping'ler kullandığınız PhoneAppFrame
 içerisindeki tüm navigasyonlarda otomatik olarak uygulanacaktır.
 
 ![Sayfalar klasörü ve içerisindeki
-View'lerimiz....](http://cdn.daron.yondem.com/assets/2517/03052010_1.png)\
+View'lerimiz....](media/Windows_Phone_7_de_Navigation_API_ve_uygulama_yapisi/03052010_1.png)\
 *Sayfalar klasörü ve içerisindeki View'lerimiz....*
 
 Tabi bu noktaya kadar biz ne Sayfalar klasörü yarattık ne de içinde
@@ -250,7 +250,7 @@ bir Sayfalar klasörünü yukarıdaki ekran görüntüsündeki gibi yaratalım v
 içerisine de yeni bir "Windows Phone Portrait Page" ekleyelim.
 
 ![Uygulamamız yeni bir Page
-ekliyoruz.](http://cdn.daron.yondem.com/assets/2517/03052010_2.png)\
+ekliyoruz.](media/Windows_Phone_7_de_Navigation_API_ve_uygulama_yapisi/03052010_2.png)\
 *Uygulamamız yeni bir Page ekliyoruz.*
 
 Eklediğimiz bu sayfa bizim daha önce App.XAML içerisinde tanımladığımız

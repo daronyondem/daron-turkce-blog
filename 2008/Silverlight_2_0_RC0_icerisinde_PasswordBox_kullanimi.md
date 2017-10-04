@@ -17,7 +17,7 @@ beraber artık bu işleme özgü bir **PasswordBox** kontrolümüz var. Bu
 yazımızda PasswordBox'ın kullanımına hızlıca değineceğiz.
 
 ![Expression Blend 2 içerisinde PasswordBox
-kontrolü.](http://cdn.daron.yondem.com/assets/2203/01102008_1.png)\
+kontrolü.](media/Silverlight_2_0_RC0_icerisinde_PasswordBox_kullanimi/01102008_1.png)\
 *Expression Blend 2 içerisinde PasswordBox kontrolü.*
 
 Yeni bir Silverlight projesi yarattıktan sonra Expression Blend 2
@@ -87,7 +87,7 @@ uygulamayı çalıştırdığınızda **PasswordBox** içerisine girdiğiniz her
 karakter bir nokta ile gösterilecektir.
 
 ![PasswordBox'ın varsayılan
-görünümü.](http://cdn.daron.yondem.com/assets/2203/01102008_2.png)\
+görünümü.](media/Silverlight_2_0_RC0_icerisinde_PasswordBox_kullanimi/01102008_2.png)\
 *PasswordBox'ın varsayılan görünümü.*
 
 PasswordBox'ın noktalarla doldurduğu karakterlerin yerine farklı bir

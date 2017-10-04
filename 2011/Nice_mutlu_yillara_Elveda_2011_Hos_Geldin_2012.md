@@ -12,7 +12,7 @@ Tags:
 ve başarı dolu yepyeni bir yıl diliyorum! Herkesin kendine ve etrafına
 büyük faydalar sağladığı bir yıl dileklerimle...
 
-![Mutlu yıllar!](http://cdn.daron.yondem.com/assets/2747/yilbasi.jpg)
+![Mutlu yıllar!](media/Nice_mutlu_yillara_Elveda_2011_Hos_Geldin_2012/yilbasi.jpg)
 
 Nice yıllara....
 

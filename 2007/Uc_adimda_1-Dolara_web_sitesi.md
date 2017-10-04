@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: da627840-74e9-43c1-a8bd-34a2fba101ca
 ---
-![](http://cdn.daron.yondem.com/assets/1807/08102007_1.jpg)"Yahu bizim
+![](media/Uc_adimda_1-Dolara_web_sitesi/08102007_1.jpg)"Yahu bizim
 yigen de web sitesi yapii yani nolcak!"
 
 Emin olun amacım insanların şiveleri ile dalga geçmek değil ama nedense

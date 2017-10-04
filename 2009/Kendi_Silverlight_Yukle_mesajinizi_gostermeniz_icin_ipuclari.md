@@ -93,7 +93,7 @@ Microsoft sitesinde yükleme sayfasına yönlendirirken diğeri de standart
 "Install Silverlight" görselini gösterir.
 
 ![Standart Silverlight Yükleme
-mesajı.](http://cdn.daron.yondem.com/assets/2298/05012009.jpg)\
+mesajı.](media/Kendi_Silverlight_Yukle_mesajinizi_gostermeniz_icin_ipuclari/05012009.jpg)\
 *Standart Silverlight Yükleme mesajı.*
 
 Kendi özel "Silverlight Yükle" görselinizi ve mesajınızı hazırlarken
@@ -112,7 +112,7 @@ inceleyebilirsiniz. Standart "Install Silverlight" görseli yerine böyle
 bir deneyim çok daha çekici olacaktır.
 
 ![Örnek Silverlight Yükleme
-Ekranı](http://cdn.daron.yondem.com/assets/2298/05012009_2.jpg)\
+Ekranı](media/Kendi_Silverlight_Yukle_mesajinizi_gostermeniz_icin_ipuclari/05012009_2.jpg)\
 *Örnek Silverlight Yükleme Ekranı*
 
 Hepinize kolay gelsin.

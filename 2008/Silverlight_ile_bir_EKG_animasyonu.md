@@ -18,7 +18,7 @@ istediklerimizi "**Direct Selection Tool**" ile seçerek yukarı veya
 aşağı sürükleyerek bir EKG çizimi yaratabiliriz.
 
 ![Expression Design içerisinde EKG
-çizimimiz.](http://cdn.daron.yondem.com/assets/1958/14022008_1.png)\
+çizimimiz.](media/Silverlight_ile_bir_EKG_animasyonu/14022008_1.png)\
 *Expression Design içerisinde EKG çizimimiz.*
 
 Çizimimiz tamamlandığında göre sıra geldi bu çizimi vektörel olarak
@@ -108,7 +108,7 @@ gözükmesi için bir maske kullanacağız. Maske olarak kullanılmak üzere
 sahnenin kenarına ekranın dışına bir dikdörtgen çizelim.
 
 ![Maskemiz kenarda bizi
-bekliyor.](http://cdn.daron.yondem.com/assets/1958/14022008_2.png)\
+bekliyor.](media/Silverlight_ile_bir_EKG_animasyonu/14022008_2.png)\
 *Maskemiz kenarda bizi bekliyor.*
 
 Maskemizi çizdiğimize göre sıra geldi onu gerçekten Path'imize maske
@@ -119,7 +119,7 @@ Make Clipping Path"** komutunu vererek dikdörtgenin bir maske haline
 gelmesini sağlıyoryz.
 
 !["Make Clipping Path" ile
-maskeleme.](http://cdn.daron.yondem.com/assets/1958/14022008_3.png)\
+maskeleme.](media/Silverlight_ile_bir_EKG_animasyonu/14022008_3.png)\
 *"Make Clipping Path" ile maskeleme.*
 
 Şimdi sora geldi gerekli animasyonu yaratmaya. Animasyonumuzda maske

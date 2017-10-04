@@ -22,7 +22,7 @@ girmiştim ben. Bu sefer tam tur bulunacağım. Şu anda Türkiye'den
 ise 110 RD bulunuyor.
 
 ![Microsoft Regional
-Director](http://cdn.daron.yondem.com/assets/2485/21012010.png)
+Director](media/Turkiye_den_2010-2011_Microsoft_Regional_Director_lari_belli_oldu/21012010.png)
 
 Geçen seneki postumdandan ufak bir referans alacağım hemen; "*RD'lerin
 aynı MVP'lerin bireysel anlamda yazılımcılara yardımcı olduğu gibi

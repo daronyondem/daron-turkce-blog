@@ -16,7 +16,7 @@ nitelendirdiğim bu etkinliğe hepinizi bekliyorum! Güzel ve hızlı bir
 açık kaynak günü olacak!
 
 [![Kayıt olmayı
-unutmayın!](http://cdn.daron.yondem.com/assets/2424/organik15.png)](http://www.inetatr.org)\
+unutmayın!](media/Organik_Yazilim_Gunu_1_5__Kacirmayin/organik15.png)](http://www.inetatr.org)\
 *Kayıt olmayı unutmayın!*
 
 

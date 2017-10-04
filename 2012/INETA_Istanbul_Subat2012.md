@@ -12,7 +12,7 @@ Tags: ASP.NET 4.0, ASP.NET 4.5, C#, IIS 7.0, SQL Server 2008, TFS, Windows Azure
 İstanbul'da ;)
 
 ![INETA Ankara
-Etkinliği](http://cdn.daron.yondem.com/assets/2795/ineta_istanbul_2012.jpg)\
+Etkinliği](media/INETA_Istanbul_Subat2012/ineta_istanbul_2012.jpg)\
 *INETA İstanbul Etkinliği*
 
 Etkinliğe[buradan](http://www.inetatr.org/oforms/yazilimcilar-istanbul-da-bulusuyor)

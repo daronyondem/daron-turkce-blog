@@ -622,6 +622,6 @@ projemiz çalışmaya hazır.
 Hepinize kolay gelsin.
 
 [Örneklere ait kaynak kodlar. - 14082009\_1.rar (73,14
-KB)](http://cdn.daron.yondem.com/assets/2390/14082009_1.rar)
+KB)](media/Silverlight_3_ile_Multitouch_programlama/14082009_1.rar)
 
 

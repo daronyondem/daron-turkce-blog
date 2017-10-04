@@ -15,7 +15,7 @@ rağmen pek bir sorun olmadı :) ve dün Ankara WebCamp etkinliğini güzelce
 tamamladık.
 
 ![Ankara WebCamp'den bir
-kare..](http://cdn.daron.yondem.com/assets/2754/ankara_webcamp.jpg)\
+kare..](media/2012_deki_ilk_Ankara_WebCamp/ankara_webcamp.jpg)\
 *Ankara WebCamp'den bir kare..*
 
 WebCamp boyunca hızlıca Nuget, HTML5, Windows Phone, Azure gibi konulara
@@ -23,7 +23,7 @@ göz attık. Özellikle HTML5 tarafında kullandığım örnekleri aşağıdan
 indirebilirsiniz.
 
 [WebCamp HTML5 Örnek Kodlar - HTML5.rar (12.59
-MB)](http://cdn.daron.yondem.com/assets/2754/HTML5.rar)
+MB)](media/2012_deki_ilk_Ankara_WebCamp/HTML5.rar)
 
 Uzun süre olmuş Ankara'ya gitmeyeli o nedenle epey güzel oldu benim için
 böyle bir ziyaret. Umarım katılan herkes için de faydalı olmuştur.

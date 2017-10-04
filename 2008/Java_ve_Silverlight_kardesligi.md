@@ -79,7 +79,7 @@ tıklayarak "*Add Service Reference*" diyerek referans ekleme işlemini
 tamamlayabilirsiniz.
 
 ![Java web servisimizi referans olarak
-ekliyoruz.](http://cdn.daron.yondem.com/assets/2155/15082008_1.png)\
+ekliyoruz.](media/Java_ve_Silverlight_kardesligi/15082008_1.png)\
 *Java web servisimizi referans olarak ekliyoruz.*
 
 Referans ekleme işlemi tamamlandığında artık Silverlight ile herhangi

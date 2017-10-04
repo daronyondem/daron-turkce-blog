@@ -10,7 +10,7 @@ Tags: Silverlight 2.0
 old.EntryID: 5c8a0b18-4858-4f35-9170-205af93e7bba
 ---
 ![Microsoft Yazılım Geliştiriciler
-Zirvesi](http://cdn.daron.yondem.com/assets/2257/24112008_1.jpg)
+Zirvesi](media/Microsoft_Yazilim_Gelistiriciler_Zirvesi/24112008_1.jpg)
 
 2008 yılının son günlerinde yaklaşırken yurt dışında Microsoft'un
 Professional Developer Conference'ı sonrasında Türkiye'de de **Microsoft

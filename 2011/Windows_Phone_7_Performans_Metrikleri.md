@@ -24,7 +24,7 @@ debug modunda olduğunuz sürece default olarak metrikler sürekli
 gösteriliyor.
 
 ![Windows Phone 7'de performans
-metrikleri.](http://cdn.daron.yondem.com/assets/2712/wp7perf.jpg)\
+metrikleri.](media/Windows_Phone_7_Performans_Metrikleri/wp7perf.jpg)\
 *Windows Phone 7'de performans metrikleri.*
 
 Yukarıdaki görselde WP7 emülatörünü görüyorsunuz. Emülatörde herhangi
@@ -48,7 +48,7 @@ FrameRateCounter'ı Enable edip etmeme kararını veriyor. Şimdi gelin bu
 counter'lar içerisindeki rakamların anlamlarına göz atalım.
 
 ![WP7'deki Performance
-Counter'lar](http://cdn.daron.yondem.com/assets/2712/wp7perf2.png)\
+Counter'lar](media/Windows_Phone_7_Performans_Metrikleri/wp7perf2.png)\
 *WP7'deki Performance Counter'lar.*
 
 Yukarıdaki görselde her bir sayacın anlamı yazılı olsa da anlamlarından

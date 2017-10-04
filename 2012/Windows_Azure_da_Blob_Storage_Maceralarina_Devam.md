@@ -17,7 +17,7 @@ Son son Blob storage'a giriş yapmıştık :) tam herşey oldu derken bir
 hata almış ve orada takılmıştık. Gelin şimdi aynı yerden devam edelim.
 Aldığımız hataya hatırlamak gerekirse;
 
-![Hata var...](http://cdn.daron.yondem.com/assets/2775/blob8.png)
+![Hata var...](media/Windows_Azure_da_Blob_Storage_Maceralarina_Devam/blob8.png)
  *İşte o hata...*
 
 Aslında bu hatayı, nedenini ve çözüm şeklini anlamak çok önemli.
@@ -114,7 +114,7 @@ limitini değiştirmedik, unutmayın. O nedenle şimdilik koca koca dosyalar
 yerine ufak resimlerle falan denemekte fayda var :)
 
 ![Dosya upload olmuş :)
-](http://cdn.daron.yondem.com/assets/2775/blob9.png)
+](media/Windows_Azure_da_Blob_Storage_Maceralarina_Devam/blob9.png)
 *Dosya upload olmuş :)*
 
 Güzel... dosya yüklenmiş ve linkini de almışız. Tabi bu noktada linkin

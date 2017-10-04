@@ -27,6 +27,6 @@ aşağıdaki adresten ulaşabilirsiniz.
 Eğitime katılan tüm öğrencilerime teşekkür ederek aktiviteden bir
 fotoğraf ile yazımı sonlandırıyorum.
 
-![](http://cdn.daron.yondem.com/assets/1753/11082007_1.jpg)
+![](media/Excel_-_Visual_Basic_for_Applications_Egitimi/11082007_1.jpg)
 
 

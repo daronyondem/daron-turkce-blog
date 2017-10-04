@@ -15,7 +15,7 @@ ilgili yaptığımız uygulamaya ait dosyaları aşağıdaki linkten
 indirebilirsiniz.
 
 [Ders Proje - 10042007\_1.zip (4.15
-KB)](http://cdn.daron.yondem.com/assets/1724/10042007_1.zip)
+KB)](media/Web_Tasarim_Egitimi_-_Mayasoft_Ders_Dosyalari/10042007_1.zip)
 
 Kursa katılan arkadaşlarımızdan **Hüseyin Armağan Güler** öğrendiklerini
 uygulama amacıyla
@@ -26,7 +26,7 @@ web sitesine ait kodu ayrı bir download paketi olarak aşağıda
 düzenledim.
 
 [Hüseyin Web Site Kodu - 10042007\_2.zip (247.93
-KB)](http://cdn.daron.yondem.com/assets/1724/10042007_2.zip)
+KB)](media/Web_Tasarim_Egitimi_-_Mayasoft_Ders_Dosyalari/10042007_2.zip)
 
 Kurs içerisinde kullanmaya başladığımız ve artık sürekli kullanacağımız
 **Microsoft Expression Web** yazılımının deneme sürümünü

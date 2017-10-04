@@ -18,7 +18,7 @@ ayırmaya çalıştığım için arada İngilizce kitaplar hatta epey eski Türk
 kitaplar da var.
 
 ![Kitaplığım Raf
-1](http://cdn.daron.yondem.com/assets/1832/31102007_1.jpg)
+1](media/Kitaplik_Kardesligi/31102007_1.jpg)
 
 Soldan sağa doğru kitapları sırasıyla değerlendireceğim.
 
@@ -126,7 +126,7 @@ kitaplarının artılarını taşıyor.
 cildi :) Muhteşem kitaplardır, ansiklopedi tadında.
 
 ![Kitaplık Raf
-2](http://cdn.daron.yondem.com/assets/1832/31102007_2.jpg)
+2](media/Kitaplik_Kardesligi/31102007_2.jpg)
 
 İşte benim sevdiğim rafa geldik :)
 

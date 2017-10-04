@@ -34,7 +34,7 @@ diyerek karşınıza gelen menüden "**XML to Schema**" seçeneğini
 seçebilirsiniz.
 
 ![XML to Schema
-dosyası.](http://cdn.daron.yondem.com/assets/1926/20012008_1.png)\
+dosyası.](media/Visua_Basic_2008_ve_LINQ2XML_icin_XML2Schema_Araci/20012008_1.png)\
 *XML to Schema dosyası.*
 
 Dosyası eklediğiniz anda karşınıza bir seçenek daha gelecek. Bu
@@ -46,7 +46,7 @@ verisini Visual Studio içerisinde yazabilirsiniz. Biz örneğimizde her
 zamanki gibi TCMB döviz kurlarını alalım.
 
 ![TCMB döviz kurlarını
-alıyoruz.](http://cdn.daron.yondem.com/assets/1926/20012008_2.png)\
+alıyoruz.](media/Visua_Basic_2008_ve_LINQ2XML_icin_XML2Schema_Araci/20012008_2.png)\
 *TCMB döviz kurlarını alıyoruz.*
 
 XSD dosyasını bu şekliyle projemize ekledikten sonra artık sıra geldi
@@ -54,7 +54,7 @@ kodumuzu yazmaya. Artık bir önceki adımda eklediğimiz XML dosyasının
 içeriğinden oluşturulan Intellisense'i kullanabiliriz.
 
 ![LINQ2XML Intellisense
-desteği.](http://cdn.daron.yondem.com/assets/1926/20012008_3.png)\
+desteği.](media/Visua_Basic_2008_ve_LINQ2XML_icin_XML2Schema_Araci/20012008_3.png)\
 *LINQ2XML Intellisense desteği.*
 
 Hepinize kolay gelsin ;)

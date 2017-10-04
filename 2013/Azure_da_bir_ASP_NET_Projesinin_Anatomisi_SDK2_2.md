@@ -13,7 +13,7 @@ karşınıza hemen bir seçim ekranı gelecektir. Bu seçim ekranı epey
 kalabalık bir ekran gibi dursa da aslında özünde iki seçenek var :)
 
 ![İlk Azure projemizi
-yaratırken...](http://cdn.daron.yondem.com/assets/2873/ilkproje.jpg)\
+yaratırken...](media/Azure_da_bir_ASP_NET_Projesinin_Anatomisi_SDK2_2/ilkproje.jpg)\
 *İlk Azure projemizi yaratırken...*
 
 Seçeneklerden ilki "**Web Role**" ikincisi ise "**Worker Role**". Geri
@@ -58,7 +58,7 @@ ilerleyelim. Projenizi yarattığınız gibi Visual Studio'da Solution
 Explorer'da aşağıdaki manzarayı göreceksiniz.
 
 ![Solution'da bir Azure projesi
-var.](http://cdn.daron.yondem.com/assets/2873/ilkproje_2.png)\
+var.](media/Azure_da_bir_ASP_NET_Projesinin_Anatomisi_SDK2_2/ilkproje_2.png)\
 *Solution'da bir Azure projesi var.*
 
 Solution içerisinde hemen bir azure projesi bir de asp.net projesi
@@ -66,7 +66,7 @@ kendini gösterecektir. İşte buradan sonraki adımlarda Azure'daki ASP.NET
 projesinin normal bir ASP.NET projesinden farkına bakacağız :)
 
 ![ASP.NET tarafındaki farklılıkları bulun
-:)](http://cdn.daron.yondem.com/assets/2873/ilkproje_3.png)\
+:)](media/Azure_da_bir_ASP_NET_Projesinin_Anatomisi_SDK2_2/ilkproje_3.png)\
 *ASP.NET tarafındaki farklılıkları bulun :)*
 
 Yukarıdaki ekran görüntüsünden çok büyük olduğunun farkındayım :) Ama
@@ -219,7 +219,7 @@ projeniz Azure projesine Web Role olarak tanımlanacak, Web projenize
 Azure referansları eklenecek ve işlem tamamlanmış olacak.
 
 ![Var olan bir ASP.NET Role'e
-çevirmek.](http://cdn.daron.yondem.com/assets/2873/ilkproje_4.png)\
+çevirmek.](media/Azure_da_bir_ASP_NET_Projesinin_Anatomisi_SDK2_2/ilkproje_4.png)\
 *Var olan bir ASP.NET Role'e çevirmek.*
 
 Bu noktada kesinlikle tekrar etmek gerek; herşey bu kadar tos pembe

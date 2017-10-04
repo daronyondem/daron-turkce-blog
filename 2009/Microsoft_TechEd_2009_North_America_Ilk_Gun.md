@@ -18,7 +18,7 @@ kıtalarda ayrı TechEd'ler düzenleniyor. Bu sene bize en yakın olan Kasım
 ayında Berlin'de olacak.
 
 ![Microsoft TechEd 2009, Los
-Angeles](http://cdn.daron.yondem.com/assets/2363/11052009_1.jpg)\
+Angeles](media/Microsoft_TechEd_2009_North_America_Ilk_Gun/11052009_1.jpg)\
 *Microsoft TechEd 2009, Los Angeles*
 
 Cuma gününe kadar sürecek olan TechEd'in ilk günü benim için epey ilginç

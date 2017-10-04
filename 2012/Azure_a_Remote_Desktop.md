@@ -38,7 +38,7 @@ gerekiyor. İşte tüm bu ayarları ve süreci kolaylaştırmak adına Visual
 Studio ile beraber gelen Publish Wizard'ını kullanmak en akıllıcası.
 
 ![Visual Studio içerisinde Publish Wizard'ı
-kullanırken.](http://cdn.daron.yondem.com/assets/2769/publish.jpg)\
+kullanırken.](media/Azure_a_Remote_Desktop/publish.jpg)\
 *Visual Studio içerisinde Publish Wizard'ı kullanırken.*
 
 Publish Wizard açıldıktan sonra karşınıza boş bir liste gelecek. Benim
@@ -50,7 +50,7 @@ onun kendi bilgisayarımızda da ataçlanması vs gibi uzun bir süreç.
 
 ![Publish Wizard'a Azure hesabımız için yaratılmış bir sertifikayı
 vermek
-gerekecek.](http://cdn.daron.yondem.com/assets/2769/publish2.jpg)\
+gerekecek.](media/Azure_a_Remote_Desktop/publish2.jpg)\
 *Publish Wizard'a Azure hesabımız için yaratılmış bir sertifikayı vermek
 gerekecek.*
 
@@ -127,7 +127,7 @@ Import işlemi bittikten sonra uygulamanızı publish etmek istediğiniz
 subscription'ı seçip sihirbazda yavaş yavaş ilerleyebilirsiniz :)
 
 ![Remote Desktop seçeneğini aktif hale
-getirmeli.](http://cdn.daron.yondem.com/assets/2769/publish3.jpg)\
+getirmeli.](media/Azure_a_Remote_Desktop/publish3.jpg)\
 *Remote Desktop seçeneğini aktif hale getirmeli.*
 
 Gördüğünüz gibi aslında webdeki yönetim panelinde yapabildiğimiz çoğu
@@ -144,7 +144,7 @@ değişikliklerin hem de uygulamanın yeni sürümünün sunucuya atılmasını
 sağlayabiliriz.
 
 ![Visual Studio içerisinden deployment devam
-ediyor.](http://cdn.daron.yondem.com/assets/2769/publish4.jpg)\
+ediyor.](media/Azure_a_Remote_Desktop/publish4.jpg)\
 *Visual Studio içerisinden deployment devam ediyor.*
 
 Deployment başladıktan sonra tüm detayları Visual Studio içerisindeki
@@ -153,7 +153,7 @@ tamamlandığında remote bağlantı için tekrar web yönetim paneline
 yönlenmemiz gerekecek.
 
 ![İstediğimiz Instance'a
-Remote...](http://cdn.daron.yondem.com/assets/2769/publish5.jpg)\
+Remote...](media/Azure_a_Remote_Desktop/publish5.jpg)\
 *İstediğimiz Instance'a Remote...*
 
 Yönetim paneline girdikten sonra istediğiniz bir Instance'ın listeden
@@ -164,7 +164,7 @@ da girdiğiniz kendinizi bir anda Azure'daki bir sanal makinenin
 desktopında bulacaksınız.
 
 ![Azure'daki makinemizin
-diskleri...](http://cdn.daron.yondem.com/assets/2769/publish6.jpg)\
+diskleri...](media/Azure_a_Remote_Desktop/publish6.jpg)\
 *Azure'daki makinemizin diskleri...*
 
 Makineye hazır RDP yapmışken :) biraz ortalığı karıştıralım değil mi?
@@ -176,7 +176,7 @@ olmadığı fikrine alıştık sanırım :) Son birkaç yazıdır bundan sürekl
 bahsediyoruz ;)
 
 ![Small Instance
-Konfigürasyonu](http://cdn.daron.yondem.com/assets/2769/publish7.jpg)\
+Konfigürasyonu](media/Azure_a_Remote_Desktop/publish7.jpg)\
 *Small Instance Konfigürasyonu*
 
 Biliyorsunuz Small Instance'da tek çekirdek var. Bu çekirdeğin 2.1 GHz
@@ -184,14 +184,14 @@ bir AMD olduğunu görmüş olduk. Ayrıca spesifikasyonlara uygun şekilde
 1.75GB da RAM'imiz var Small Instance'da.
 
 ![Uygulamamız diske açılmış
-:)](http://cdn.daron.yondem.com/assets/2769/publish8.jpg)\
+:)](media/Azure_a_Remote_Desktop/publish8.jpg)\
 *Uygulamamız diske açılmış :)*
 
 Diskleri biraz daha karıştırdığımızda uygulamamızı da doğrudan kendi
 diskinde bulabiliyoruz. Bizim webform1.aspx işte burada :)
 
 ![Azure'da bir role altında çalışan
-processler.](http://cdn.daron.yondem.com/assets/2769/remote.png)\
+processler.](media/Azure_a_Remote_Desktop/remote.png)\
 *Azure'da bir role altında çalışan processler.*
 
 Son olarak gelin bir de sistemde çalışan processlere göz atalım :)

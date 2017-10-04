@@ -142,7 +142,7 @@ olması gerektiği. Bu Description'lar doğrudan Windows Phone'un Settings
 sayfalarında gösteriliyor.
 
 ![Task'lerin Description'ları Settings sayfalarında
-gözüküyor.](http://cdn.daron.yondem.com/assets/2893/task1.png)
+gözüküyor.](media/Windows_Phone_Background_Task_PeriodicTask/task1.png)
 *Task'lerin Description'ları Settings sayfalarında gözüküyor.*
 
 Debug modunda Task'leri test edebilmekle ilgili sorunumuz burada da
@@ -152,7 +152,7 @@ faydalanıyoruz ve bir dakika içerisinde Task'in emülatörde çalışmasını
 sağlıyoruz.
 
 ![Background Agent'dan gelen Toast
-Notification.](http://cdn.daron.yondem.com/assets/2893/task2.png)
+Notification.](media/Windows_Phone_Background_Task_PeriodicTask/task2.png)
 *Background Agent'dan gelen Toast Notification.*
 
 Örneği bu noktada çalıştırdığınızda herşeyin sağlıklı bir şekilde

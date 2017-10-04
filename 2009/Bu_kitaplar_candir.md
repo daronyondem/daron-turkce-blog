@@ -21,7 +21,7 @@ aktivitede kullanacağım :) "Neden birden çok göndermemiş?" demeyin sakın
 yaşadığım için çok net biliyorum.
 
 ![SQL Server 2008, Yaşar
-Gözüdeli](http://cdn.daron.yondem.com/assets/2422/09102009_1.jpg)\
+Gözüdeli](media/Bu_kitaplar_candir/09102009_1.jpg)\
 *SQL Server 2008, Yaşar Gözüdeli*
 
 Kitap SQL Server'ı baştan alıp 2008 tarafına da değinerek hem giriş
@@ -38,7 +38,7 @@ olsa haktır ama emin olun daha fazlası faydalı olacaktır. Takriben üç
 yılda bir SQL çıkıyor üç yılda bir kitap almakta sorun yok bence :)
 
 ![Programlama ve Veritabanı Mantığı, Kadir
-Çamoğlu](http://cdn.daron.yondem.com/assets/2422/09202009_2.jpg)\
+Çamoğlu](media/Bu_kitaplar_candir/09202009_2.jpg)\
 *Programlama ve Veritabanı Mantığı, Kadir Çamoğlu*
 
 İkinci kitabımız [Kadir Çamoğlu](http://kadircamoglu.blogspot.com/)'nun

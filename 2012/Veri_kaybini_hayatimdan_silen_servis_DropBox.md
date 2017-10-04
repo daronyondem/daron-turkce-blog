@@ -23,7 +23,7 @@ olacak ki o iş?" sorusu olacaktır. Hemen kendi yaşadığım senaryoyu sizle
 paylaşiyim.
 
 ![Bulutlarda
-yedekleme...](http://cdn.daron.yondem.com/assets/2800/dropbox2.jpg)\
+yedekleme...](media/Veri_kaybini_hayatimdan_silen_servis_DropBox/dropbox2.jpg)\
 *Bulutlarda yedekleme...*
 
 Yılbaşında kendime bir yılbaşı hediyesi olarak 50GB'lık bir
@@ -52,7 +52,7 @@ doğrudan, anında cloud'a differential (sadece dosyadaki değişen
 kısımlar) sync edilmesi süper bir hareket!
 
 ![DropBox
-candır...](http://cdn.daron.yondem.com/assets/2800/dropbox.jpg)\
+candır...](media/Veri_kaybini_hayatimdan_silen_servis_DropBox/dropbox.jpg)\
 *DropBox candır...*
 
 İtiraf etmem gerek ben bu kadar rahat çalışabileceğini tahmin

@@ -38,7 +38,7 @@ koyarmış gibi XAML tarafında da herhangi bir satıra sol taraftan debug
 point ekleyebilirsiniz.
 
 ![XAML'da DataBinding'de Debug
-Point](http://cdn.daron.yondem.com/assets/2559/15042011_1.png)\
+Point](media/Silverlight_5_Beta_ile_XAML_Databinding_Debugging/15042011_1.png)\
 *XAML'da DataBinding'de Debug Point*
 
 Ekran görüntüsünde de görebileceğiniz üzere Debug Point koyduktan sonra
@@ -58,7 +58,7 @@ bindingde diğer yöne gitmesini sağlayan senaryoda da debug pointe
 düşebiliyor.
 
 ![TwoWay bindingde debug
-point.](http://cdn.daron.yondem.com/assets/2559/15042011_2.png)\
+point.](media/Silverlight_5_Beta_ile_XAML_Databinding_Debugging/15042011_2.png)\
 *TwoWay bindingde debug point.*
 
 TwoWay bindingi test edebilmek adına elimizdeki TextBlock'u bir
@@ -78,7 +78,7 @@ yapabildiğiniz herşeyi XAML içerisindeki debug pointlerde de
 yapabileceğinizi unutmayın ;)
 
 ![Herşey
-mümkün....](http://cdn.daron.yondem.com/assets/2559/15042011_3.png)\
+mümkün....](media/Silverlight_5_Beta_ile_XAML_Databinding_Debugging/15042011_3.png)\
 *Herşey mümkün....*
 
 Görüşmek üzere...

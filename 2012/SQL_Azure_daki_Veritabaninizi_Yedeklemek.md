@@ -277,7 +277,7 @@ itibari ile amacına uygun ama raporu XML olarak file system'e falan
 koysa süper olurmuş :)
 
 ![DACClient'ın raporu bu şekilde
-:)](http://cdn.daron.yondem.com/assets/2819/dacclient.png)\
+:)](media/SQL_Azure_daki_Veritabaninizi_Yedeklemek/dacclient.png)\
 *DACClient'ın raporu bu şekilde :)*
 
 Yukarıdaki screenshot'da da gördüğün gibi bize gelen bu raporu alıp

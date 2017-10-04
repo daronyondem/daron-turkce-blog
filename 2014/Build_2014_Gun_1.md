@@ -54,7 +54,7 @@ Customization** ise apayrı bir efsane. Windows Phone 8.1 ile artık Lock
 Screen'i özelleştiren özel uygulamalar yazılabilecek.
 
 ![Notification Hub ve Lock Screen
-Customization](http://cdn.daron.yondem.com/assets/2899/day1_1.jpg)
+Customization](media/Build_2014_Gun_1/day1_1.jpg)
 *Notification Hub ve Lock Screen Customization*
 
 Keynote'da Windows Phone 8.1 ile ilgili benim en sevdiğim özelliklerden
@@ -70,7 +70,7 @@ Tile'ın bile kocaman olması aslında rahatsız edici. Tabi bunu ancak 5"
 ekranda 6 kolon görünce farkına varabiliyorsunuz.
 
 ![Solda 4 kolon Live Tile, sağda 6 kolon
-:)](http://cdn.daron.yondem.com/assets/2899/day1_2.jpg)
+:)](media/Build_2014_Gun_1/day1_2.jpg)
 *Solda 4 kolon Live Tile, sağda 6 kolon :)*
 
 Bahsettiğim farkı yukarıdaki fotoğrafta görebilirsiniz. Her iki
@@ -135,7 +135,7 @@ resmi olarak bir cep telefonunda en hızlı yazı yazma rekoru
 kırıldığından bahsedildi :) İlgilnenlere duyurulur.
 
 ![Wordflow
-Keyboard](http://cdn.daron.yondem.com/assets/2899/day1_3.jpg)
+Keyboard](media/Build_2014_Gun_1/day1_3.jpg)
 *Wordflow Keyboard*
 
 ### Silverlight geri geldi!
@@ -220,7 +220,7 @@ gelecek bir başka sürümde Modern App'leri pencere içerisinde masaüstüne
 taşınabileceğinden dahi bahsedildi.
 
 ![Windows 8.1 Update sonrası... bir sonraki sürümde olası
-desktop!](http://cdn.daron.yondem.com/assets/2899/day1_4.jpg)
+desktop!](media/Build_2014_Gun_1/day1_4.jpg)
 *Windows 8.1 Update sonrası... bir sonraki sürümde olası desktop!*
 
 Yukarıdaki ekran görüntüsüne öylesine bakıp geçmeyin. Bu görüntü
@@ -263,7 +263,7 @@ Paylaşılan bu kod ve UI öğeleri Windows Phone, Windows ve XBOX üzerinde
 çalıştırılabiliyor.
 
 ![Universal Applications Windows çalışan her yerde
-çalışabiliyor.](http://cdn.daron.yondem.com/assets/2899/day1_5.jpg)
+çalışabiliyor.](media/Build_2014_Gun_1/day1_5.jpg)
 *Universal Applications Windows çalışan her yerde çalışabiliyor.*
 
 Universal Applications aslında Microsoft'un kendi içerisinde de ihtiyaç
@@ -339,7 +339,7 @@ tarihindeki en inanılmaz harekettir bence bu! 9" ve altı tüm cihazlar
 için Microsoft Windows lisansı almaktan vaz geçti!
 
 ![Windows Lisansı
-ücretsiz!](http://cdn.daron.yondem.com/assets/2899/day1_6.jpg)
+ücretsiz!](media/Build_2014_Gun_1/day1_6.jpg)
 *Windows Lisansı ücretsiz!*
 
 Ben hala inanamıyorum. "Devices and Services Company" olma yolunda benim

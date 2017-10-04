@@ -47,7 +47,7 @@ Windows 7 yükleme ekranı gelecek. Aman yüklemeye başlamayın :) Önce
 sanal diskimizi yaratmamız gerek.
 
 ![Yükleme ekranında hemen "Repair"
-diyoruz.](http://cdn.daron.yondem.com/assets/2397/01092009_1.jpg)\
+diyoruz.](media/Windows_7_de_VHD_den_boot_etmek/01092009_1.jpg)\
 *Yükleme ekranında hemen "Repair" diyoruz.*
 
 Karşınıza gelen yukarıdaki ekranda hemen "Repair your computer"
@@ -87,7 +87,7 @@ Windows 7 yüklemesini başlatırken "Advanced" sekmesini seçip uygun diski
 seçmeyi unutmayın.
 
 ![Doğru diski seçmeyi
-unutmayın.](http://cdn.daron.yondem.com/assets/2397/01092009_2.jpg)\
+unutmayın.](media/Windows_7_de_VHD_den_boot_etmek/01092009_2.jpg)\
 *Doğru diski seçmeyi unutmayın.*
 
 Gördüğünüz gibi listede sanal diskimiz geliyor fakat alt tarafta da bu
@@ -113,7 +113,7 @@ yapacağımız şey tüm boot listin içeriğine göz atmak. Bu liste
 içerisindeki **identifier'lara** ihtiyacımız var.
 
 ![bcdedit'ten identifier'ları
-alalım.](http://cdn.daron.yondem.com/assets/2397/01092009_4.png)\
+alalım.](media/Windows_7_de_VHD_den_boot_etmek/01092009_4.png)\
 *bcdedit'ten identifier'ları alalım.*
 
 Yukarıdaki listeye göz attığınız her bir **identifier'ın** altında bir
@@ -143,7 +143,7 @@ makinemizin **identifier'ını** yukarıdaki komuta ekleyerek
 çalıştırabiliriz.
 
 ![Boot edilmek üzere VHD'miz
-hazır.](http://cdn.daron.yondem.com/assets/2397/01092009_3.jpg)\
+hazır.](media/Windows_7_de_VHD_den_boot_etmek/01092009_3.jpg)\
 *Boot edilmek üzere VHD'miz hazır.*
 
 Artık herşey tamam. Bilgisayarınız tekrar açtığınızda açıklaması ile

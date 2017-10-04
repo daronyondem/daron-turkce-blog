@@ -24,7 +24,7 @@ Asset Library'de **Custom Controls** kısmında projenize referans olarak
 eklediğiniz sınıfların altındaki kontrolleri bulabilirsiniz.
 
 ![Expression Blend 2 June Preview içerisinde TabControl ve
-TabItem](http://cdn.daron.yondem.com/assets/2081/08062008_1.png)\
+TabItem](media/Silverlight_2_0_Beta_2_ile_beraber_gelen_TabControl_incelemesi/08062008_1.png)\
 *Expression Blend 2 June Preview içerisinde TabControl ve TabItem*
 
 Expression Blend içerisinde sahneye bir TabControl yerleştirdikten sonra
@@ -299,7 +299,7 @@ içerisine de TabItem'ın sayfa içeriğinde gözükmesini istediğimiz
 kontrolleri koyabiliyoruz.
 
 ![Özelleştirilmiş TabItem kontrolümüz
-karşımızda!](http://cdn.daron.yondem.com/assets/2081/08062008_2.jpg)\
+karşımızda!](media/Silverlight_2_0_Beta_2_ile_beraber_gelen_TabControl_incelemesi/08062008_2.jpg)\
 *Özelleştirilmiş TabItem kontrolümüz karşımızda!*
 
 TabItem'ların Header'ları içerisine farklı Silverlight kontrollerini
@@ -514,7 +514,7 @@ fakat Expression Blend içerisinde biraz daha detaylı bir çalışma ile
 güzel sonuçlar alınabilir.
 
 ![Expression Blend 2 July Preview içerisinde Silverlight ControlTemplate
-desteği.](http://cdn.daron.yondem.com/assets/2081/08062008_3.png)\
+desteği.](media/Silverlight_2_0_Beta_2_ile_beraber_gelen_TabControl_incelemesi/08062008_3.png)\
 *Expression Blend 2 July Preview içerisinde Silverlight ControlTemplate
 desteği.*
 

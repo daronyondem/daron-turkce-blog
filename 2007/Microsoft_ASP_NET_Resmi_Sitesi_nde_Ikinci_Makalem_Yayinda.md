@@ -24,7 +24,7 @@ makalelerin hepsi İngilizce olmak durumunda. Söz konusu
 bir ASP.NET Repeater içerisinde UpdatePanel üretimi ve kullanımı ile
 ilgili. Bu sefer anı ölümsüzleştirmek adına bir de screenshot aldım :)\
 
-![](http://cdn.daron.yondem.com/assets/1736/28042007_1.png)
+![](media/Microsoft_ASP_NET_Resmi_Sitesi_nde_Ikinci_Makalem_Yayinda/28042007_1.png)
 
 Şu an makaleyi direk [www.asp.net](http://www.asp.net) ana sayfasında
 görebilirsiniz. İleride tüm eski makaleler gibi

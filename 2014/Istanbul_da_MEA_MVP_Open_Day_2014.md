@@ -20,7 +20,7 @@ MVP'lere açıktı ve içeriğini de pek paylaşma şansımız yok ama size
 etkinlikteki kendi oturumumdan bahsedebilirim :)
 
 ![MEA MVP Open Day'de "Personal Branding"
-Oturumum](http://cdn.daron.yondem.com/assets/2895/mvpopenday_tr.jpg)
+Oturumum](media/Istanbul_da_MEA_MVP_Open_Day_2014/mvpopenday_tr.jpg)
 *MEA MVP Open Day'de "Personal Branding" Oturumum*
 
 Etklinlikteki oturumum "Personal Branding" başlığını taşıyordu. 40
@@ -34,7 +34,7 @@ genel bir kitleye de sunum yapma şansım olacak. O zaman daha genel geçer
 bir içerik paylaşabilirim diye tahmin ediyorum.
 
 ![MVP MEA Programı'ndan bir
-ödül...](http://cdn.daron.yondem.com/assets/2895/mvpopenday_tr2.jpg)
+ödül...](media/Istanbul_da_MEA_MVP_Open_Day_2014/mvpopenday_tr2.jpg)
 *MVP MEA Programı'ndan bir ödül...*
 
 MVP'leri bilirsiniz, yardımcı olabilecekleri bir şey varsa eğer konusuna

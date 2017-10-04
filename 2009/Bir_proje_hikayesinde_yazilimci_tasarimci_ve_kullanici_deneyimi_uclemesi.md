@@ -19,7 +19,7 @@ sonucu bu sefer de ortaya çıkan ürün gerekli değeri görmeyebiliyor.
 Örnek mi istiyorsunuz? :)
 
 ![Bir yazılımcıdan arayüz
-tasarımı!](http://cdn.daron.yondem.com/assets/2321/06022009_1.jpg)\
+tasarımı!](media/Bir_proje_hikayesinde_yazilimci_tasarimci_ve_kullanici_deneyimi_uclemesi/06022009_1.jpg)\
 *Bir yazılımcıdan arayüz tasarımı!*
 
 Yukarıda görmekte olduğunuz program bir MultiPoint Paint yazılımı. Yani
@@ -34,7 +34,7 @@ bir sorunu yok. Her şey açık ve net. Değil mi? Peki aynı yazılımı bir de
 bir grafik tasarımcının elinden geçtikten sonra inceleyelim ne dersiniz?
 
 ![Bir grafik tasarımcının arayüz
-tasarımı...](http://cdn.daron.yondem.com/assets/2321/06022009_2.jpg)\
+tasarımı...](media/Bir_proje_hikayesinde_yazilimci_tasarimci_ve_kullanici_deneyimi_uclemesi/06022009_2.jpg)\
 *Bir grafik tasarımcının arayüz tasarımı...*
 
 Nereden nereye? Değil mi? Gerçekten arada büyük fark var. Aslına

@@ -16,7 +16,7 @@ Windows 8 içerisinde de uygulamalarınızla ilgili performans metriklerini
 uygulamalara eklenebiliyor.
 
 ![Overlay gelen performans
-metrikleri...](http://cdn.daron.yondem.com/assets/2711/metro_perf.jpg)\
+metrikleri...](media/Windows_8_Metro_Performans_Metrikleri/metro_perf.jpg)\
 *Overlay gelen performans metrikleri...*
 
 Yukarıda gördüğünüz uygulama doğrudan Win8 Developer Preview ile beraber
@@ -24,7 +24,7 @@ gelen Sudoku uygulaması. Performans metrikleri ile ilgili Legend
 açıldığında ekranın sol üstünde bazı garip sayılar görüyoruz :)
 
 ![Performans sayaçlarının
-anlamları.](http://cdn.daron.yondem.com/assets/2711/metro_perf2.png)\
+anlamları.](media/Windows_8_Metro_Performans_Metrikleri/metro_perf2.png)\
 *Performans sayaçlarının anlamları.*
 
 İşte o garip sayıların anlamları. Görseli itiraf ediyorum :) Build'den

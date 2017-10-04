@@ -252,7 +252,7 @@ için compile ettim :) Aşağıdaki linkten doğrudan Assembly'leri
 indirebilirsiniz.
 
 [Silverlight 4 Beta için ContextMenu Kontrolleri - 21112009\_1.zip
-(19,11 KB)](http://cdn.daron.yondem.com/assets/2454/21112009_1.zip)
+(19,11 KB)](media/Silverlight_4_Beta_da_sag_tus_destegi_ve_bir_ContextMenu_kontrolu/21112009_1.zip)
 
 Referans alma işlemini tamamladıktan sonra Assembly içerisindeki
 kontrolleri kullanabilmek adına Assembly'yi XML NameSpace ile XAML

@@ -55,7 +55,7 @@ resmin en boy oranı bozulmadan büyütülmesi için **Stretch** özelliği de
 çalıştırdığımızda neler oluyor?
 
 ![Farklı pozisyonlarda
-uygulamamız.](http://cdn.daron.yondem.com/assets/2524/10052010_1.png)\
+uygulamamız.](media/Windows_Phone_7_de_Accelerometer_kullanimina_giris/10052010_1.png)\
 *Farklı pozisyonlarda uygulamamız.*
 
 Eh herşey süper gibi duruyor. Resmimiz her şekilde kendine kalan alanda
@@ -142,7 +142,7 @@ ayarları tekrar yüklüyoruz. Böylece çok basit bir şekilde telefonun
 durumunu algılayıp uygulamamızın tepki vermesini sağladık.
 
 ![Farklı tutuşlara göre tepki veren
-uygulamamız.](http://cdn.daron.yondem.com/assets/2524/10052010_2.png)\
+uygulamamız.](media/Windows_Phone_7_de_Accelerometer_kullanimina_giris/10052010_2.png)\
 *Farklı tutuşlara göre tepki veren uygulamamız.*
 
 Sanırım son bir sorun kaldı. Dikkatinizi çektiyse örnek uygulamamızda
@@ -200,7 +200,7 @@ durumda tamamen tam ekran çalışmasını sağlayabilir. Böylece ekranda
 uygulamamızın ana ekranı dışında hiçbirşey gözükmeyecektir.
 
 ![FullScreen modunda uygulamamızın
-görünüşü.](http://cdn.daron.yondem.com/assets/2524/10052010_3.png)\
+görünüşü.](media/Windows_Phone_7_de_Accelerometer_kullanimina_giris/10052010_3.png)\
 *FullScreen modunda uygulamamızın görünüşü.*
 
 

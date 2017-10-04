@@ -22,7 +22,7 @@ sürekli duyuyor olacaksınız, şimdiden
 var. Azimlerini takdir ediyorum.
 
 ![Microsoft Yaz Okulu,
-Ankara](http://cdn.daron.yondem.com/assets/2153/13082008_1.jpg)\
+Ankara](media/Microsoft_Yaz_Okulu_Ankara/13082008_1.jpg)\
 *Microsoft Yaz Okulu, Ankara*
 
 Tüm eğitim ve seminerlerimde olduğu gibi yaz okulunda da tamamen
@@ -31,7 +31,7 @@ toparlayabildiğim kadarının kaynak kodlarını aşağıdaki adresten
 indirebilirsiniz.
 
 [Örneklere ait kaynak kodları - 13082008\_2.rar (5,77
-MB)](http://cdn.daron.yondem.com/assets/2153/13082008_2.rar)
+MB)](media/Microsoft_Yaz_Okulu_Ankara/13082008_2.rar)
 
 Son olarak, "*Hocam bu üniversiteye gelir misiniz?*" "*Şuraya gider
 misiniz?*" gibi sorularla sıkça karşılaştığım için buradan cevap vermek

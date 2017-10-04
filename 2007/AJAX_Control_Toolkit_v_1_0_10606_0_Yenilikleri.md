@@ -33,7 +33,7 @@ direk tıklayarak uygun fonksiyonun doğru parametreler ile **Code
 Behind** sayfasına otomatik eklenmesi sağlanabiliyor. Bence bu işlev
 zaman kazandıran en önemli gelişmelerden biri olmuş.
 
-![](http://cdn.daron.yondem.com/assets/1748/09072007_1.png)
+![](media/AJAX_Control_Toolkit_v_1_0_10606_0_Yenilikleri/09072007_1.png)
 
 En sevdiğim yeni özellik ise **ToolkitScriptManager** ile beraber
 geliyor. **ASP.NET AJAX Extension** kullanırken her sayfada bir
@@ -55,7 +55,7 @@ harici **JavaScript** kaynağından yükleme yapmak yerine daha derli toplu
 yüklemeler yapılıyor. Toplam yükleme boyutu azalmıyor fakat yükleme
 sayısı azaldığı için performans artışı sağlanıyor.
 
-![](http://cdn.daron.yondem.com/assets/1748/09072007_2.png)
+![](media/AJAX_Control_Toolkit_v_1_0_10606_0_Yenilikleri/09072007_2.png)
 
 Genel olarak yapılan yenilikler gerçekten başarılı, umarız kısa zamanda
 kütüphane yeni kontroller de eklenerek daha da genişler. Bir sonraki

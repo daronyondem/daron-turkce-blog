@@ -38,7 +38,7 @@ isterseniz ancak SnapshotTime üzerinden snapshot'ın alındığı tarihi
 kullanarak ilerleyebiliyorsunuz.
 
 ![Alınan bir snapshot'ın
-URL'i.](http://cdn.daron.yondem.com/assets/2777/snapshot.png)
+URL'i.](media/Blob_Storage_da_Snapshot_Kullanimi/snapshot.png)
 *Alınan bir snapshot'ın URL'i.*
 
 Güzel, bir snapshot yarattık ve belli ki ona ulaşabiliyoruz. Fakat ya

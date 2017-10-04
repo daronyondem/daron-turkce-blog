@@ -139,7 +139,7 @@ gerekiyor. Özetle uygulamamızın Geolocation kullanacağını AppManifest'te
 belirtmemiz gerekirdi.
 
 ![Location bilgisi kullanacağımızı AppManifest'te belirtmemiz
-gerek.](http://cdn.daron.yondem.com/assets/2707/geolocation1.png)\
+gerek.](media/Windows_8_Metro_da_GPS_Geolocation_API_Kullanimi/geolocation1.png)\
 *Location bilgisi kullanacağımızı AppManifest'te belirtmemiz gerek.*
 
 Solution Explorer içerisinde **Package.appxmanifest** dosyasına çift
@@ -152,7 +152,7 @@ Tabi sadece sistemin bu izni vermesi yetmez :) Kullanıcının da vermesi
 gerek.
 
 ![Kullanıcıdan konumunu öğrenebilme izni
-alıyoruz.](http://cdn.daron.yondem.com/assets/2707/geolocation2.png)\
+alıyoruz.](media/Windows_8_Metro_da_GPS_Geolocation_API_Kullanimi/geolocation2.png)\
 *Kullanıcıdan konumunu öğrenebilme izni alıyoruz.*
 
 Uygulamamızı ilk çalıştırdığımızda hemen Geolocation API'sini
@@ -162,7 +162,7 @@ lokasyon bilgisinin uygulamamıza sağlanıp sağlanmayacağını soruyor.
 görüyoruz.
 
 ![Aldığım GPS
-sonuçları.](http://cdn.daron.yondem.com/assets/2707/geolocation3.png)\
+sonuçları.](media/Windows_8_Metro_da_GPS_Geolocation_API_Kullanimi/geolocation3.png)\
 *Aldığım GPS sonuçları.*
 
 Şimdi esas ilginç bilgiyi veriyorum :) Bu uygulamayı çalıştırdığım
@@ -176,7 +176,7 @@ uzaktayım kuş uçuşu :) Neyse zaten GPS'i, GSM'i olmayan bir cihazda
 bence şehri doğru alabilmek bile yeterli :)
 
 ![Geolocation API'nin GPS ve GSM'siz hali
-:)](http://cdn.daron.yondem.com/assets/2707/geolocation4.jpg)\
+:)](media/Windows_8_Metro_da_GPS_Geolocation_API_Kullanimi/geolocation4.jpg)\
 *Geolocation API'nin GPS ve GSM'siz hali :)*
 
 Coordinate dışında argümanımızla beraber **CivicAddress** başlığı

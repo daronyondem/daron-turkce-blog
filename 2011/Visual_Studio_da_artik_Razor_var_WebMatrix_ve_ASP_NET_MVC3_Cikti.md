@@ -18,7 +18,7 @@ değişikliker yok. İlginizi çekeceğinizi düşündüğüm esas konu Visual
 Studio tarafında :)
 
 ![Razor ile Web Site
-Development](http://cdn.daron.yondem.com/assets/2543/14012011_1.png)\
+Development](media/Visual_Studio_da_artik_Razor_var_WebMatrix_ve_ASP_NET_MVC3_Cikti/14012011_1.png)\
 *Razor ile Web Site Development*
 
 Artık Visual Studio içerisinde "File / New Web Site" dediğimizde
@@ -37,7 +37,7 @@ seçeneği olarak gelirken Visual Studio'dan bu tarz projelere başlayanlar
 için bir anlamda migration yapılmış olarak başlıyor proje.
 
 ![Visual Studio içerisinden Razor projesi
-yaratınca.](http://cdn.daron.yondem.com/assets/2543/14012011_2.png)\
+yaratınca.](media/Visual_Studio_da_artik_Razor_var_WebMatrix_ve_ASP_NET_MVC3_Cikti/14012011_2.png)\
 *Visual Studio içerisinden Razor projesi yaratınca.*
 
 Yukarıdaki manzara da görebileceğiniz üzere projenin içinde bir

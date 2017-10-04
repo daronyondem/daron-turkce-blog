@@ -21,7 +21,7 @@ developermania ile ilgili.
 yeni bir etkinliği ile daha karşınızda ve bu sefer ben de etkinlikte bir
 oturum sunacağım. Hangisi olacağını artık siz tahmin edin ;)
 
-![DeveloperMania](http://cdn.daron.yondem.com/assets/2497/23032010_1.jpg)
+![DeveloperMania](media/DeveloperMania_Etkinliginde_goruselim/23032010_1.jpg)
 
 Etkinlikle ilgili daha detaylı bilgi için
 [Facebook](http://www.facebook.com/event.php?eid=370677281359&ref=mf)

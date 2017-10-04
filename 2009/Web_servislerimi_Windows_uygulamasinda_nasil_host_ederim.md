@@ -39,7 +39,7 @@ Winforms veya WPF projesi bulunması gerekiyor, sonrasında bu projeye
 "Add New Item" diyerek bir Service ekleyebiliriz.
 
 ![Projemizde servisimiz bizi
-bekliyor...](http://cdn.daron.yondem.com/assets/2365/01062009_1.gif)\
+bekliyor...](media/Web_servislerimi_Windows_uygulamasinda_nasil_host_ederim/01062009_1.gif)\
 *Projemizde servisimiz bizi bekliyor...*
 
 Yukarıda projemizin Servis eklenmiş halini görebilirsiniz. Projemize
@@ -275,7 +275,7 @@ Solution Explorer içerisinde gözükmüyorsa doğrudan "Show all files"
 düğmesine tıklayarak görünür hale getirebilirsiniz.
 
 ![App.Config dosyası
-karşınızda.](http://cdn.daron.yondem.com/assets/2365/01062009_2.gif)\
+karşınızda.](media/Web_servislerimi_Windows_uygulamasinda_nasil_host_ederim/01062009_2.gif)\
 *App.Config dosyası karşınızda.*
 
 App.Config dosyasını açtığınızda farklı ayarlar ile karşılaşacaksınız.
@@ -418,7 +418,7 @@ servisin **ServiceHost** üzerinden **Open** metodu ile çalıştırılmış
 olması da gerekiyor.
 
 ![Normal bir servisi kullanmaktan farkı
-yok!](http://cdn.daron.yondem.com/assets/2365/01062009_3.gif)\
+yok!](media/Web_servislerimi_Windows_uygulamasinda_nasil_host_ederim/01062009_3.gif)\
 *Normal bir servisi kullanmaktan farkı yok!*
 
 Gördüğünüz gibi yarattığımız başka bir projede rahatlıkla bir önceki

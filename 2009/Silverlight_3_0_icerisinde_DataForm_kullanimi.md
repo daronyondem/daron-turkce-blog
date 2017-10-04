@@ -277,7 +277,7 @@ nesne atıyoruz. Söz konusu nesne daha önce tanımlamış olduğumuz **Urun**
 sınıfının bir instance'ı.
 
 ![DataForm içerisinde tek bir kaydın
-düzenlenmesi.](http://cdn.daron.yondem.com/assets/2350/15042009_1.gif)\
+düzenlenmesi.](media/Silverlight_3_0_icerisinde_DataForm_kullanimi/15042009_1.gif)\
 *DataForm içerisinde tek bir kaydın düzenlenmesi*
 
 Gördüğünüz üzere **DataForm** otomatik olarak kendisine bağlanan veri
@@ -473,7 +473,7 @@ işareti belirecektir. Kullanıcılar söz konusu ünlem işaretinin üzerine
 fareleri ile geldiklerinde ise açıklamanızı görebilirler.
 
 ![MetaData içerisinde Description yer
-alırsa...](http://cdn.daron.yondem.com/assets/2350/15042009_2.gif)\
+alırsa...](media/Silverlight_3_0_icerisinde_DataForm_kullanimi/15042009_2.gif)\
 *MetaData içerisinde Description yer alırsa...*
 
 Şu ana kadar yaptığımız işlemlerin hepsinde belki de en sinir bozucu
@@ -619,7 +619,7 @@ kalmayacak, herhangi bir sorun olduğunda MetaData içerisinde
 tanımladığımız hatayı da güzel bir şekilde kullanıcıya gösterecek.
 
 ![Basit bir validasyon
-örneği!](http://cdn.daron.yondem.com/assets/2350/15042009_3.gif)\
+örneği!](media/Silverlight_3_0_icerisinde_DataForm_kullanimi/15042009_3.gif)\
 *Basit bir validasyon örneği!*
 
 Validasyon yöntemlerinden bazıları bir önceki örneğimizdeki gibi hazır
@@ -1115,7 +1115,7 @@ içerisinde birden çok nesnenin de gezilerek düzenlenebileceğini görmüş
 olduk.
 
 ![Çoklu kayıt düzenleme
-ekranı.](http://cdn.daron.yondem.com/assets/2350/15042009_4.gif)\
+ekranı.](media/Silverlight_3_0_icerisinde_DataForm_kullanimi/15042009_4.gif)\
 *Çoklu kayıt düzenleme ekranı.*
 
 Yukarıdaki ekran görüntüsünde sağ üst köşede gördüğünüz düğmeler sadece
@@ -1360,7 +1360,7 @@ Sonrasında bir **Separator** da kullandıktan sonra elimizdeki
 içerisindeki kayıt düzenleme nesneleri yan yana gösterilecektir.
 
 ![Özelleştirilmiş bir DataForm
-kontrolü.](http://cdn.daron.yondem.com/assets/2350/15042009_5.gif)\
+kontrolü.](media/Silverlight_3_0_icerisinde_DataForm_kullanimi/15042009_5.gif)\
 *Özelleştirilmiş bir DataForm kontrolü.*
 
 **Daha da özelleştirelim, daha da!**

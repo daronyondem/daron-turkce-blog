@@ -689,6 +689,6 @@ döndürebilirsiniz. Herşey bu kadar basit.
 Hepinize kolay gelsin.
 
 [Örneklere ait kaynak kodları - 13082009\_1.rar (1,59
-MB)](http://cdn.daron.yondem.com/assets/2389/13082009_1.rar)
+MB)](media/Windows_7_icin_Multitouch_programlama/13082009_1.rar)
 
 

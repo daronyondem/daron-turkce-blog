@@ -16,13 +16,13 @@ uygulamalarına kadar geniş bir yelpazeye değindik. Toplam 3 saat olarak
 planladığımız semineri 4 saate uzatmamıza rağmen yetmedi de yetmedi :)
 
 ![Genç Girişimciler Kulübü Silverlight
-Semineri](http://cdn.daron.yondem.com/assets/1925/20012008_4.jpg)\
+Semineri](media/Genc_Girisimciler_Kulubu_Silverlight_Semineri/20012008_4.jpg)\
 *Genç Girişimciler Kulübü Silverlight Semineri*
 
 Seminerde kullandığım sunumu aşağıdaki adresten indirebilirsiniz.
 
 [Silverlight Semineri Slaytları - 20012008\_5.xps (1.96
-MB)](http://cdn.daron.yondem.com/assets/1925/20012008_5.xps)
+MB)](media/Genc_Girisimciler_Kulubu_Silverlight_Semineri/20012008_5.xps)
 
 Katılan herkese çok teşekkürler. Bir başka seminerde görüşmek dileği
 ile...

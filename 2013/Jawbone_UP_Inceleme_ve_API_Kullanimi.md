@@ -218,7 +218,7 @@ JSON'lara denk gelen C\# nesnelerini ben Github'daki projeye ekledim.
 geliyor. Nesneyi full buraya kopyala-yapıştır koymuyorum. Zaten
 Github'taki kaynak kodunda görebilirsiniz.
 
-![Jawbone UP](http://cdn.daron.yondem.com/assets/2853/pic1.jpg)\
+![Jawbone UP](media/Jawbone_UP_Inceleme_ve_API_Kullanimi/pic1.jpg)\
 *Jawbone UP*
 
 Token'ı aldıktan sonra benim son olarak yapmak istediğimiz

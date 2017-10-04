@@ -19,7 +19,7 @@ Application IDs** bölümüne girerek kendimize bir **AppID** (Uygulama
 Kimliği) yaratmamız gerekiyor.
 
 ![Live Search AppID yaratma
-yolundayız.](http://cdn.daron.yondem.com/assets/1764/27082007_01.png)\
+yolundayız.](media/Live_Search_XML_Web_Servislerini_Kullanarak_Kendi_Arama_Motorunuzu_Yaratin/27082007_01.png)\
  *Live Search AppID yaratma yolundayız.*
 
 **AppID** yaratma yolunda ilerlediğimizde bizden **LiveID** kimlik
@@ -28,7 +28,7 @@ kullanacağımız uygulamamızla ilgili bir anahtar isim verdikten sonra
 **AppID'mizi** hemen alabiliyoruz.
 
 ![Live AppID'mizi uygulama ismi vererek
-alabiliyoruz.](http://cdn.daron.yondem.com/assets/1764/27082007_02.png)\
+alabiliyoruz.](media/Live_Search_XML_Web_Servislerini_Kullanarak_Kendi_Arama_Motorunuzu_Yaratin/27082007_02.png)\
  *Live AppID'mizi uygulama ismi vererek alabiliyoruz.*
 
 Tüm bu işlemleri tamamladıktan sonra artık
@@ -39,7 +39,7 @@ Reference** seçeneğini seçerek tanımlama işlemlerini
 tamamlayabilirsiniz.
 
 ![Kullanacağımız web servisini projemize web reference olarak
-ekliyoruz.](http://cdn.daron.yondem.com/assets/1764/27082007_03.png)\
+ekliyoruz.](media/Live_Search_XML_Web_Servislerini_Kullanarak_Kendi_Arama_Motorunuzu_Yaratin/27082007_03.png)\
  *Kullanacağımız web servisini projemize web reference olarak
 ekliyoruz.*
 

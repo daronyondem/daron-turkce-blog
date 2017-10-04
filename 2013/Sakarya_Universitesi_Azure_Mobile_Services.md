@@ -20,7 +20,7 @@ Android ve iPhone gibi farklı platformlarda nasıl kullanılabileceğinden
 bahsettim.
 
 ![Sakarya Üniversitesi, Windows Azure Mobile
-Services](http://cdn.daron.yondem.com/assets/2844/sakarya.jpg)\
+Services](media/Sakarya_Universitesi_Azure_Mobile_Services/sakarya.jpg)\
 *Sakarya Üniversitesi, Windows Azure Mobile Services*
 
 Organizasyonda emeği geçen Mert Yazıcı kardeşimin ve tüm bilişim

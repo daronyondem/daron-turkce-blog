@@ -18,7 +18,7 @@ halimi tahmin edebilirsiniz :) Neyse, konu ben değilim, konu MIX'in 1.
 Günü...
 
 ![Scott Guthrie
-sahnede!](http://cdn.daron.yondem.com/assets/2339/17032009_1.jpg)\
+sahnede!](media/MIX_1_Gun/17032009_1.jpg)\
 *Scott Guthrie sahnede!*
 
 **ASP.NET MVC 1.0 Yayınlandı**

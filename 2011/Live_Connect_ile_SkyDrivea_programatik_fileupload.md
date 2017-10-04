@@ -50,7 +50,7 @@ olması lazım ki API'lere ulaşıp, kullanabilelim. Bunun için hemen
 edebilirsiniz.
 
 ![Uygulamamızı Live Connect için
-tanımlarken...](http://cdn.daron.yondem.com/assets/2708/skydrive1.png)\
+tanımlarken...](media/Live_Connect_ile_SkyDrivea_programatik_fileupload/skydrive1.png)\
 *Uygulamamızı Live Connect için tanımlarken...*
 
 Siteye gittiğinizde ilk yapmanız gereken uygulamanızı bir isim verip
@@ -60,7 +60,7 @@ kendi LiveID'leri ile uygulamanızı bağlarken gösterilecek isim olacak.
 Bu adımın hemen sonrasında size ClientID ve Secret Key verilecektir.
 
 ![ClientID'miz ve Secret Key'imiz
-karşımızda.](http://cdn.daron.yondem.com/assets/2708/skydrive2.png)\
+karşımızda.](media/Live_Connect_ile_SkyDrivea_programatik_fileupload/skydrive2.png)\
 *ClientID'miz ve Secret Key'imiz karşımızda.*
 
 Client ID ve Secret Key çok önemli. Uygulamanız REST API'lerini
@@ -68,7 +68,7 @@ kullanırken bunlara ihtiyaç duyacak. Bir anlamda bu bilgiler
 uygulamamızın içine gömülü olacak.
 
 ![Mobile App seçeneği çok
-kritik.](http://cdn.daron.yondem.com/assets/2708/skydrive3.png)\
+kritik.](media/Live_Connect_ile_SkyDrivea_programatik_fileupload/skydrive3.png)\
 *Mobile App seçeneği çok kritik.*
 
 Web sitesinden çıkmadan son olarak yapmamız gereken bir ayar daha var.
@@ -140,7 +140,7 @@ listesine[buradan](http://go.microsoft.com/fwlink/?LinkId=220012)
 ulaşabilirsiniz.
 
 ![Kullanıcı SkyDrive'a login oluyor bize izin vermek
-için.](http://cdn.daron.yondem.com/assets/2708/skydrive4.png)\
+için.](media/Live_Connect_ile_SkyDrivea_programatik_fileupload/skydrive4.png)\
 *Kullanıcı SkyDrive'a login oluyor bize izin vermek için.*
 
 Kullanıcı bizim yönlendirdiğimiz URL ile login olduktan sonra karşısına
@@ -149,7 +149,7 @@ uygulamanın istediği bilgisi gösteriliyor. Kullanıcı bu haklara onay
 verdiği gibi artık top bizde olacak.
 
 ![Kullanıcıya vereceği haklar
-soruluyoru.](http://cdn.daron.yondem.com/assets/2708/skydrive5.png)\
+soruluyoru.](media/Live_Connect_ile_SkyDrivea_programatik_fileupload/skydrive5.png)\
 *Kullanıcıya vereceği haklar soruluyoru.*
 
 Haklar da gördüğünüz üzere birincisi "**Access your info anytime**"

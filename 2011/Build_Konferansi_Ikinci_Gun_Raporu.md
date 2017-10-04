@@ -17,7 +17,7 @@ konular. Ben hemen ASP.NET 4.5 tarafındaki birkaç nokta ile başliyim
 gördüklerimi anlatmaya.
 
 ![Debugging'de yeni bir
-konsept!](http://cdn.daron.yondem.com/assets/2698/DSC00166.jpg)\
+konsept!](media/Build_Konferansi_Ikinci_Gun_Raporu/DSC00166.jpg)\
 *Debugging'de yeni bir konsept!*
 
 İlk dikkatimi çeken debugging tarafında aslında Visual Studio'nun
@@ -48,7 +48,7 @@ desteğinin ASP.NET 4.5'te çok önemli bir yerinin olduğunun defalarca
 altı çizildi.
 
 ![WebSockets desteği ASP.NET 4.5 ile
-beraber...](http://cdn.daron.yondem.com/assets/2698/DSC00169.jpg)\
+beraber...](media/Build_Konferansi_Ikinci_Gun_Raporu/DSC00169.jpg)\
 *WebSockets desteği ASP.NET 4.5 ile beraber...*
 
 Socketler zaten bildiğim şeyler, işte tam onların Web'den kullanılabilir
@@ -62,7 +62,7 @@ bir servis olarak sunulması modeli Azure üzerinden gerçekleştiriliyor.
 gelecekte genel bir betanın açılabileceğini tahmin ediyorum.
 
 ![İlk gündeki sır belli oldu : TFS in
-Cloud!](http://cdn.daron.yondem.com/assets/2698/DSC00197.jpg)\
+Cloud!](media/Build_Konferansi_Ikinci_Gun_Raporu/DSC00197.jpg)\
 *İlk gündeki sır belli oldu : TFS in Cloud!*
 
 Böylece yukarıda gördüğünüz ve etkinliğin ilk günü her katılımcıya

@@ -17,7 +17,7 @@ Havaalanında beni sevgili Murat Fatih Tuna Hoca karşıladı :) Tabi yukarıdak
 
 Övgüyü hak eden sadece hocalarımız değil tabi. Etkinliği organize eden öğrencilerden tutun tüm bölüm öğrencilerine kadar karşılaştığım herkesin heyecanı beni şaşırtmadı desem yalan olur. İnsan yaptığı işi kendi zihinsel sınırları ile tanımlar. Sivas'taki öğrencilerin geleceği inanılmaz parlak. Yeter ki bu heyecanlarını kaybetmesinler. 
 
-![Sivas, Cumhuriyet Üniversitesi](http://cdn.daron.yondem.com/assets/2962/sivas.jpg)
+![Sivas, Cumhuriyet Üniversitesi](media/Sivas_Cumhuriyet_Universitesi_Ziyaretim/sivas.jpg)
 
 Tahmin edebileceğiniz üzere ben süper zevk aldım etkinlikte konuşmaktan. Bu etkinlikte teknik olmayan bir sunum olan "Boş Durma Boşa Çalış" başlıktı bir oturumum vardı. Umarım ilk fırsatta teknik bir oturumla da Sivas'ı ziyaret etme şansım olur ;) 
 

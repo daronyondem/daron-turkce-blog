@@ -146,7 +146,7 @@ style="color: #a31515;">UserControl</span><span
 style="color: blue;">\></span>
 
 ![Basit bir AutoComplete
-örneği.](http://cdn.daron.yondem.com/assets/2252/19112008_1.png)\
+örneği.](media/Silverlight_2_0_icerisinde_AutoCompleteBox_kullanimi/19112008_1.png)\
 *Basit bir AutoComplete örneği.*
 
 **AutoCompleteBox'ın özellikleri.**
@@ -923,7 +923,7 @@ nesnesi üzerinden **ToString** çalıştırılırsa kitabın fiyat bilgisi
 verilecek.
 
 ![Özelleştirilmiş bir AutoCompleteBox
-örneği.](http://cdn.daron.yondem.com/assets/2252/19112008_2.png)\
+örneği.](media/Silverlight_2_0_icerisinde_AutoCompleteBox_kullanimi/19112008_2.png)\
 *Özelleştirilmiş bir AutoCompleteBox örneği.*
 
 Hepinize kolay gelsin.

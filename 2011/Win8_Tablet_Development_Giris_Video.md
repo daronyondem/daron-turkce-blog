@@ -14,7 +14,7 @@ devam ediyor! Geçen akşam serideki webinerlerinden biri olan "**Windows
 8 İle Tablet Development’a Giriş**" oturumunu da tamamladık.
 
 ![Silverlight Geliştiricileri için Windows Phone 7.5'e Giriş
-Webineri](http://cdn.daron.yondem.com/assets/2729/Win8_Tablet_Intro.jpg)\
+Webineri](media/Win8_Tablet_Development_Giris_Video/Win8_Tablet_Intro.jpg)\
 Webiner kaydını indirmek için
 [SeminerTV'ye](http://daron.yondem.com/tr/seminertv/) uğrayın!
 

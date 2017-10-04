@@ -73,6 +73,6 @@ yayınlayacağım.
 Hepinize kolay gelsin.
 
 [Aktivite Kayıt Sistemi Kaynak Kodları - 28022008\_1.zip (7.5
-KB)](http://cdn.daron.yondem.com/assets/1972/28022008_1.zip)
+KB)](media/15_dakikada_hazirlanan_XLINQ_ile_online_aktivite_kayit_sistemi/28022008_1.zip)
 
 

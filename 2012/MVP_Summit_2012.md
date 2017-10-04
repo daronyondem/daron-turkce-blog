@@ -16,7 +16,7 @@ arası sürebilen uçuş silsilesi sonrasında vardığımız Summit eğlenceli
 olsa da maalesef sonrasında direk paylaşabileceğimiz birşeyler olmuyor.
 
 ![Klasik Microsoft Campus Giriş
-Fotosu](http://cdn.daron.yondem.com/assets/2801/summit_1.jpg)\
+Fotosu](media/MVP_Summit_2012/summit_1.jpg)\
 *Klasik Microsoft Campus Giriş Fotosu*
 
 Summit tamamen kapalı bir konferans olarak MVP'lere özel olduğu için tüm
@@ -26,7 +26,7 @@ paylaşamayacağımız anlamına da gelmiyor :) Ürünler çıktıkça MVP'lerde
 de paylaşımları bekleyebilirsiniz tabi ki.
 
 ![MVP Summit 2012'de Stat
-:)](http://cdn.daron.yondem.com/assets/2801/summit_2.jpg)\
+:)](media/MVP_Summit_2012/summit_2.jpg)\
 *MVP Summit 2012'de Stat :)*
 
 Bu seneki Summit'in en ilginç noktası Summit Parti'si için tutulan
@@ -36,7 +36,7 @@ bunların sadece %1'inin bayan olduğunu da kenara not alırsak nasıl bir
 parti'den bahsettiğimizi tahmin etmek bile istemeyebilirsiniz :D
 
 ![IdentityMine Şirket
-Yemeği](http://cdn.daron.yondem.com/assets/2801/idm_company_dinner.jpg)\
+Yemeği](media/MVP_Summit_2012/idm_company_dinner.jpg)\
 *IdentityMine Şirket Yemeği*
 
 Hazır Seattle'a kadar uğramışken şirkete :)

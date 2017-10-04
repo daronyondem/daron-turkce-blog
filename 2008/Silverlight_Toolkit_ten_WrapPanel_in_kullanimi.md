@@ -22,7 +22,7 @@ WrapPanel kontrolünü Blend 2 içerisinde Asset Library'de "Custom
 Controls" tabında bulabilirsiniz.
 
 ![Expression Blend 2 içerisinde Silverlight Toolkit'ten
-WrapPanel.](http://cdn.daron.yondem.com/assets/2245/12112008_1.png)\
+WrapPanel.](media/Silverlight_Toolkit_ten_WrapPanel_in_kullanimi/12112008_1.png)\
 *Expression Blend 2 içerisinde Silverlight Toolkit'ten WrapPanel.*
 
 Bu noktadan sonra Blend içerisinde doğrudan bir WrapPanel'i sahneye
@@ -32,7 +32,7 @@ sığdırmaya çalışan bir kontroldür. Gelin örnekler ile tam olarak nasıl
 çalıştığına göz atalım.
 
 ![WrapPanel içerisinde birden çok
-nesne.](http://cdn.daron.yondem.com/assets/2245/12112008_2.png)\
+nesne.](media/Silverlight_Toolkit_ten_WrapPanel_in_kullanimi/12112008_2.png)\
 *WrapPanel içerisinde birden çok nesne.*
 
 Yukarıdaki görselde sahnede bir WrapPanel yer alıyor. Söz konusu
@@ -141,7 +141,7 @@ Düğmelerin içerisinde yazılacak yazılar dışında hiçbir özellikleri set
 edilmiş değil.
 
 ![WrapPanel'in Orientation özelliği Vertical
-yapılınca...](http://cdn.daron.yondem.com/assets/2245/12112008_3.png)\
+yapılınca...](media/Silverlight_Toolkit_ten_WrapPanel_in_kullanimi/12112008_3.png)\
 *WrapPanel'in Orientation özelliği Vertical yapılınca...*
 
 İsterseniz bir WrapPanel'in içerisindeki nesnelerin ekranın üstüne doğru
@@ -214,7 +214,7 @@ içerisinde nesnelerin orijinal büyüklüklerinde kalmalarını istiyorsanız
 hizalamalarını kesinlikle tek tek ayarlamalısınız.
 
 ![Farklı hizalamalara sahip
-nesneler!](http://cdn.daron.yondem.com/assets/2245/12112008_4.png)\
+nesneler!](media/Silverlight_Toolkit_ten_WrapPanel_in_kullanimi/12112008_4.png)\
 *Farklı hizalamalara sahip nesneler!*
 
 Yukarıdaki görselde ikinci düğmenin dikey hizalamalası değiştirilerek
@@ -298,7 +298,7 @@ ListBox içerisinde tüm nesnelerin ekrana sığacak şekilde bir WrapPanel
 içerisinde toplanmasını sağlayabilirsiniz.
 
 ![Standart bir
-ListBox.](http://cdn.daron.yondem.com/assets/2245/12112008_5.png)\
+ListBox.](media/Silverlight_Toolkit_ten_WrapPanel_in_kullanimi/12112008_5.png)\
 *Standart bir ListBox.*
 
 Yukarıda gördüğünüz standart ListBox içerisinde öğeler dikey olarak
@@ -314,14 +314,14 @@ içerisinde kontrolü seçerek sağ tuş tıklayıp aşağıdaki görselde
 görebileceğiniz menüye doğru hızlı bir yolculuk yapıyoruz.
 
 ![ListBox'ın Layout kontrolünü
-değiştireceğiz.](http://cdn.daron.yondem.com/assets/2245/12112008_6.png)\
+değiştireceğiz.](media/Silverlight_Toolkit_ten_WrapPanel_in_kullanimi/12112008_6.png)\
 *ListBox'ın Layout kontrolünü değiştireceğiz.*
 
 ListBox'ın içerisinde normal şartlarda bir Grid Layout kontrolü
 bulunuyor. Bu kontrolü silerek yerine bir WrapPanel koymamız gerekecek.
 
 ![Grid yerine WrapPanel
-karşınızda.](http://cdn.daron.yondem.com/assets/2245/12112008_7.png)\
+karşınızda.](media/Silverlight_Toolkit_ten_WrapPanel_in_kullanimi/12112008_7.png)\
 *Grid yerine WrapPanel karşınızda.*
 
 WrapPanel'i koyduktan sonra WrapPanel'in genişliğini de ListBox'ınızın
@@ -330,7 +330,7 @@ eventlarında yapabilir veya XAML tarafında bir Binding ile
 çözebilirsiniz.
 
 ![ListBox içerisinde
-WrapPanel.](http://cdn.daron.yondem.com/assets/2245/12112008_8.png)\
+WrapPanel.](media/Silverlight_Toolkit_ten_WrapPanel_in_kullanimi/12112008_8.png)\
 *ListBox içerisinde WrapPanel.*
 
 Yukarıdaki görselde WrapPanel ile ListBox'ın iş ortaklığının sonucunu

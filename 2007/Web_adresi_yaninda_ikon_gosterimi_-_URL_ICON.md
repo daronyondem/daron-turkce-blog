@@ -15,7 +15,7 @@ Web'de gezerken girdiğiniz her siteye göre farklı ikonların adres
 eklediğinizde de gözükecektir. Esas mesele biz bu ikonları web sitemiz
 nasıl koyarız sorusunda.
 
-![](http://cdn.daron.yondem.com/assets/1723/07042007_1.png)
+![](media/Web_adresi_yaninda_ikon_gosterimi_-_URL_ICON/07042007_1.png)
 
 İlk olarak yapmamız gereken doğru ikon dosyasını bulmak veya hazırlamak.
 Doğru ikon dosyasının **16x16 piksel 8bit 256 renk** olması gerekiyor.

@@ -57,7 +57,7 @@ birlikte karşınıza yeni bir pencere gelecektir. Bu pencerede çıktı
 alacağımız XAML kodları ile ilgili ayarları yapmamız gerekiyor.
 
 ![Expression Design XAML Export penceresindeki
-ayarlar.](http://cdn.daron.yondem.com/assets/1939/31012008_1.png)\
+ayarlar.](media/Expression_Design_ve_XAML_Ciktilari/31012008_1.png)\
 *Expression Design XAML Export penceresindeki ayarlar.*
 
 İlk olarak çıktı alacağımız XAML kodunun WPF mi yoksa Silverlight ile mi

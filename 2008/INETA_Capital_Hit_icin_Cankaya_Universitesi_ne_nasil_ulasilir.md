@@ -27,7 +27,7 @@ Erdoğan**'dan bazı bilgileri aldım :)
     üniversiteye gelebilir.
 
 ![Çankaya Üniversitesi ulaşım
-krokisi.](http://cdn.daron.yondem.com/assets/2205/03102008_1.jpg)\
+krokisi.](media/INETA_Capital_Hit_icin_Cankaya_Universitesi_ne_nasil_ulasilir/03102008_1.jpg)\
 *Çankaya Üniversitesi ulaşım krokisi.*
 
 

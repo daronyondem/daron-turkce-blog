@@ -19,7 +19,7 @@ göndererek iş ortaklarındaki yazılımcıları çağırdı. Toplam 50 kişili
 bir kontenjan ayrılmıştı developer track için.
 
 ![Nokia Lansman'daki
-oturumum...](http://cdn.daron.yondem.com/assets/2830/nokia_lansman.jpg)\
+oturumum...](media/Nokia_Lumia_lansmani_dun_gerceklesti/nokia_lansman.jpg)\
 *Nokia Lansman'daki oturumum...*
 
 Katılımın developer tarafında az tutulması dışında (basın ve bayi
@@ -32,7 +32,7 @@ Maps entegrasyonu ve offline harita kullanımı cidden süper! ;) Umarım
 yakında bunları bloga yazma fırsatı da bulurum.
 
 ![Lansman sonunda Kenan Doğulu
-konseri..](http://cdn.daron.yondem.com/assets/2830/konser.jpg)\
+konseri..](media/Nokia_Lumia_lansmani_dun_gerceklesti/konser.jpg)\
 *Lansman sonunda Kenan Doğulu konseri..*
 
 Günün sonunda gece yemeği ve sonrasında da günün bombası :) **Kenan

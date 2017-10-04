@@ -60,7 +60,7 @@ son çalışan gösterilecektir. Bu nedenle belki bu konuda bir
 kuyruk/helper sistemini elle yazıp implemente etmeniz mantıklı olabilir.
 
 ![Varsayılan ayarları ile basit bir
-NotificationWindow.](http://cdn.daron.yondem.com/assets/2461/28112009_1.jpg)\
+NotificationWindow.](media/Silverlight_4_Beta_da_NotificationWindow_kullanimi/28112009_1.jpg)\
 *Varsayılan ayarları ile basit bir NotificationWindow.*
 
 Tabi hiçbir zaman yukarıdaki gibi basit bir NotificationWindow işinizi
@@ -425,7 +425,7 @@ de OK eventına event-listener ataçlıyoruz. NotificationWindow içerisinde
 OK düğmesine basıldığında şimdilik basit bir MessageBox göstereceğiz.
 
 ![NotificationWindow özel tasarımı ile
-karşınızda.](http://cdn.daron.yondem.com/assets/2461/28112009_2.jpg)\<\
+karşınızda.](media/Silverlight_4_Beta_da_NotificationWindow_kullanimi/28112009_2.jpg)\<\
 *NotificationWindow özel tasarımı ile karşınızda.*/p\>
 
 Gördüğünüz gibi ufak bir tasarım değişikliği bile NotificationWindow'u

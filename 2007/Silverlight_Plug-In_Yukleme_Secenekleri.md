@@ -18,7 +18,7 @@ kullanıcıyı başka bir web sitesine yönlendirmeden de bu işi
 halledebiliriz :)
 
 ![Standard bir Silverlight yükleme
-uyarısı.](http://cdn.daron.yondem.com/assets/1893/21122007_1.png)\
+uyarısı.](media/Silverlight_Plug-In_Yukleme_Secenekleri/21122007_1.png)\
 *Standard bir Silverlight yükleme uyarısı.*
 
 Peki Microsoft web sitelerine yönlendirmeden doğrudan bir yüklemeyi
@@ -45,7 +45,7 @@ gelecektir. Söz konusu resme tıklandığında da direk yükleme işlemi
 başlayacaktır.
 
 ![Doğrudan yükleme yapan uyarı
-mesajı.](http://cdn.daron.yondem.com/assets/1893/21122007_2.png)\
+mesajı.](media/Silverlight_Plug-In_Yukleme_Secenekleri/21122007_2.png)\
 *Doğrudan yükleme yapan uyarı mesajı.*
 
 Hepinize kolay gelsin.

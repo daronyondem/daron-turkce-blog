@@ -166,7 +166,7 @@ tasarımcılar da Blend içerisinde kullanarak istedikleri durumlarda
 MessageBox gösterebilirler.
 
 ![Özel TriggerAction Behavior'ımız
-karşınızda.](http://cdn.daron.yondem.com/assets/2396/23082009_1.png)\
+karşınızda.](media/Silverlight_3_0_icin_Trigger_Action_Behaviorlari_gelistirmek/23082009_1.png)\
 *Özel TriggerAction Behavior'ımız karşınızda.*
 
 XAML tarafına baktığımızda her zaman olduğu gibi tüm Trigger yapısı XML
@@ -286,6 +286,6 @@ style="color: blue;">\></span>
 Hepinize kolay gelsin.
 
 [Örneğe ait kaynak kodlar - 23082009\_2.rar (49,3
-KB)](http://cdn.daron.yondem.com/assets/2396/23082009_2.rar)
+KB)](media/Silverlight_3_0_icin_Trigger_Action_Behaviorlari_gelistirmek/23082009_2.rar)
 
 

@@ -15,7 +15,7 @@ ekranın üst ve alt kısımlardan kullanıcı istediği zaman ekrana bir
 animasyonla gelip bir toolbar gibi komutları listeyebiliyorlar.
 
 ![AppBar işte böyle birşey
-:)](http://cdn.daron.yondem.com/assets/2705/appbar1.jpg)\
+:)](media/Windows_8_Metro_UI_da_AppBar_Kullanimi/appbar1.jpg)\
 *AppBar işte böyle birşey :)*
 
 Yukarıdaki ekran görüntüsünde örnek bir uygulama olarak Tweet@rama'yı
@@ -361,7 +361,7 @@ Sonuç olarak uygulamamızı bu şekli ile çalıştırdığıp AppBar'ımız g�
 hale getirdiğimizde aşağıdaki manzara ile karşılaşıyoruz.
 
 !["Back" düğmemiz AppBar'da yerini
-aldı.](http://cdn.daron.yondem.com/assets/2705/appbar2.jpg)\
+aldı.](media/Windows_8_Metro_UI_da_AppBar_Kullanimi/appbar2.jpg)\
 *"Back" düğmemiz AppBar'da yerini aldı.*
 
 Appbar'daki düğmeler normal Button'lar olduğu için doğal olarak onları

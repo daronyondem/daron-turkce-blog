@@ -32,7 +32,7 @@ kodu yazmaktan da kurtarıyor ve tarayıcı kendisi bu gibi validasyonları
 çözebiliyor.
 
 ![HTML5 E-Mail Adresi
-Kontrolü](http://cdn.daron.yondem.com/assets/2744/inputtypes.png)\
+Kontrolü](media/HTML5_deki_Yeni_Input_Typelar/inputtypes.png)\
 *HTML5 E-Mail Adresi Kontrolü*
 
 Eğer isterseniz gösterilecek olan uyarı yazısını ve hatta özel
@@ -124,7 +124,7 @@ Tüm bunlarla ilgili ASP.NET 4.5 ile beraber gerekli düzenlemeleri
 ASP.NET tarafında da göreceğiz.
 
 ![ASP.NET 4.5'ten yeni HTML5 Input Type'lara
-destek.](http://cdn.daron.yondem.com/assets/2744/inputtypes2.png)\
+destek.](media/HTML5_deki_Yeni_Input_Typelar/inputtypes2.png)\
 *ASP.NET 4.5'ten yeni HTML5 Input Type'lara destek*
 
 Ekran görüntüsünden de görebileceğiniz üzere ASP.NET'teki basit bir

@@ -19,12 +19,12 @@ fotoğraf. Daha önceleri beni takip edenler bu fotoğrafın düşük
 çözünürlüklü halini facebook'tan paylaştığımı da hatırlayacaklardır.
 
 ![Atatürk Arboretumu,
-İstanbul](http://cdn.daron.yondem.com/assets/2821/web.jpg)\
+İstanbul](media/Ekim_Wallpaperi_Istanbuldan/web.jpg)\
 *Atatürk Arboretumu, İstanbul*\
-[2560x1440](http://cdn.daron.yondem.com/assets/2821/2560x1440.jpg),
-[1920x1080](http://cdn.daron.yondem.com/assets/2821/1920x1080.jpg),
-[1280x800](http://cdn.daron.yondem.com/assets/2821/1280x800.jpg),
-[1366x768](http://cdn.daron.yondem.com/assets/2821/1366x768.jpg)
+[2560x1440](media/Ekim_Wallpaperi_Istanbuldan/2560x1440.jpg),
+[1920x1080](media/Ekim_Wallpaperi_Istanbuldan/1920x1080.jpg),
+[1280x800](media/Ekim_Wallpaperi_Istanbuldan/1280x800.jpg),
+[1366x768](media/Ekim_Wallpaperi_Istanbuldan/1366x768.jpg)
 
 Bu fotoğraf da bir önce New York fotoğrafı gibi 12-24 Sigma ile 15mm'de
 ISO-100'de çekildi. F8 ve 1/100saniye ;) Yukarıdaki görüntü itiraf etmek

@@ -33,7 +33,7 @@ kütüphaneyi indirerek içerisindeki* ***Microsoft.Windows.Controls.dll***
 *dosyasını projenize referans olarak eklemelisiniz.*
 
 ![Grid içerisinde 5 farklı Ellipse'in değişen
-durumları.](http://cdn.daron.yondem.com/assets/2250/17112008_1.png)\
+durumları.](media/Silverlight_2_0_icerisinde_Toolkit_den_ViewBox_kullanimi/17112008_1.png)\
 *Grid içerisinde 5 farklı Ellipse'in değişen durumları.*
 
 Yukarıdaki gibi bir Grid içerisinde bulunan nesneler Grid'in
@@ -185,7 +185,7 @@ olarak bir bütün şeklinde kabul edilecek ve o şekilde tekrar
 boyutlandırılacak.
 
 ![ViewBox
-güzelliği.](http://cdn.daron.yondem.com/assets/2250/17112008_2.png)\
+güzelliği.](media/Silverlight_2_0_icerisinde_Toolkit_den_ViewBox_kullanimi/17112008_2.png)\
 *ViewBox güzelliği.*
 
 Gördüğünüz gibi görselde hiçbir değişiklik yok. Elimizdeki çizim
@@ -198,7 +198,7 @@ yerine Grid'i tercih etmelisiniz. Çünkü Grid Button'un **Height** ve
 doğrudan Button'un görselliği üzerinden vektörel olarak büyütecektir.
 
 ![ViewBox ve Grid
-farkı.](http://cdn.daron.yondem.com/assets/2250/17112008_3.png)\
+farkı.](media/Silverlight_2_0_icerisinde_Toolkit_den_ViewBox_kullanimi/17112008_3.png)\
 *ViewBox ve Grid farkı.*
 
 **ViewBox özellikleri...**
@@ -209,7 +209,7 @@ Gelin Strech özelliğine verebileceğimiz değerler arasındaki farklara bir
 örnek ile bakalım.
 
 ![ViewBox'ın Strech özellikleri arasındaki
-farklar.](http://cdn.daron.yondem.com/assets/2250/17112008_4.png)\
+farklar.](media/Silverlight_2_0_icerisinde_Toolkit_den_ViewBox_kullanimi/17112008_4.png)\
 *ViewBox'ın Strech özellikleri arasındaki farklar.*
 
 Farklar sanırım görselde açık bir şekilde belli oluyor. **None**

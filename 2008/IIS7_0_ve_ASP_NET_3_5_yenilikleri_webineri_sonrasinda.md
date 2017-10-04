@@ -19,7 +19,7 @@ konuyla ilgili yakında bir makale yazmayı da planlıyorum :)
 Webinerde kullandığım sunumu aşağıdan indirebilirsiniz.
 
 [Sunum Slaytları -
-14012008\_1.xps](http://cdn.daron.yondem.com/assets/1919/14012008_1.xps)
+14012008\_1.xps](media/IIS7_0_ve_ASP_NET_3_5_yenilikleri_webineri_sonrasinda/14012008_1.xps)
 
 *Not:Sunumları XPS olarak koyduğum için bolca soru geliyor XPS ile
 ilgili. Özetle Microsoft'un PDF alternatifi diyebiliriz. Güzel tarafı

@@ -18,7 +18,7 @@ alışmışken 1 saatlik uluslararası bir uçuşu bünyem garipsedi :) Şaka bi
 yana aslında Sofya bize epey yakınmış :) her anlamda.
 
 ![MSDays Bulgaristan oturumlarımdan bir
-kare.](http://cdn.daron.yondem.com/assets/2500/31032010_1.jpg)\
+kare.](media/Bulgaristan_MSDays_Etkinligi_Sofya_Universitesi_Semineri_sonrasinda/31032010_1.jpg)\
 *MSDays Bulgaristan oturumlarımdan bir kare.*
 
 İki gün süren MSDays etkinliği özellikle uluslararsı konuşmacıları ile
@@ -38,7 +38,7 @@ Bulgaristan'da da bir değişiklik olmadı ve herkes salondan memnun
 ayrıldı.
 
 ![Sofya Üniversitesi, Informatik ve Matematik
-Bölümü](http://cdn.daron.yondem.com/assets/2500/31032010_2.jpg)\
+Bölümü](media/Bulgaristan_MSDays_Etkinligi_Sofya_Universitesi_Semineri_sonrasinda/31032010_2.jpg)\
 *Sofya Üniversitesi, Informatik ve Matematik Bölümü*
 
 Etkinliğin ikinci gününde benim bir oturumum yoktu :) Eh ben de boş
@@ -52,7 +52,7 @@ Benim için her zamanki gibi çok eğlenceli bir iki saat oldu. Emil ne de
 olsa burayı okuyamayacak, İngilizce bloğumda ona teşekkür ederim ;)
 
 ![Sofya'da Cumhurbaşkanlığı
-Binası.](http://cdn.daron.yondem.com/assets/2500/31032010_3.jpg)\
+Binası.](media/Bulgaristan_MSDays_Etkinligi_Sofya_Universitesi_Semineri_sonrasinda/31032010_3.jpg)\
 *Sofya'da Cumhurbaşkanlığı Binası.*
 
 Sofya'yı gezerken tabi ki en etkileyici nokta Mimari'deki değişiklik.

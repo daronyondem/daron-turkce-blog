@@ -19,7 +19,7 @@ uygulamayı çalıştırıp üzerine farenizin sağ tuşu ile tıklarsanız gele
 menüde ilginç bir komut dikkatinizi çekecektir.
 
 ![Install onto this
-computer?](http://cdn.daron.yondem.com/assets/2358/26042009_1.png)\
+computer?](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_1.png)\
 *Install onto this computer?*
 
 Gördüğünüz üzere komutun anlamı aslında epey açık :) diyor ki "Bu
@@ -28,7 +28,7 @@ uygulamayı bilgisayarına yükle!" Tabi şu an için bu komut kullanılamıyor
 getirebileceğimize göz atalım.
 
 ![AppManifest dosyamız
-burada.](http://cdn.daron.yondem.com/assets/2358/26042009_2.png)\
+burada.](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_2.png)\
 *AppManifest dosyamız burada.*
 
 Visual Studio içerisinde Solution Explorer'dan uygulamanızın
@@ -179,7 +179,7 @@ Tüm bu ayarları tamamladıktan sonra uygulamamızı çalıştırmanın zamanı
 geldi.
 
 ![Uygulamamızı artık tarayıcı dışına
-alabiliyoruz!](http://cdn.daron.yondem.com/assets/2358/26042009_3.png)\
+alabiliyoruz!](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_3.png)\
 *Uygulamamızı artık tarayıcı dışına alabiliyoruz!*
 
 Artık uygulamamızın ekranında herhangi bir yere sağ tuş ile
@@ -190,7 +190,7 @@ içerisinde uygun yere yerleştirildiğini gördük. Eh bu durumda söz konusu
 komuta tıklayalım bakalım neler oluyor.
 
 ![Uygulamayı yükleme onay
-penceresi.](http://cdn.daron.yondem.com/assets/2358/26042009_4.jpg)\
+penceresi.](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_4.jpg)\
 *Uygulamayı yükleme onay penceresi.*
 
 Yükleme komutunu verdiğimiz anda karşımıza yukarıdaki ekran geliyor ve
@@ -204,7 +204,7 @@ normal bir Windows programıymış gibi geliyor. Kendi penceresine sahip,
 tamamen tarayıcıdan bağımsız olarak uygulamamız karşımızda.
 
 ![Silverlight artık tarayıcının
-dışında!](http://cdn.daron.yondem.com/assets/2358/26042009_5.jpg)\
+dışında!](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_5.jpg)\
 *Silverlight artık tarayıcının dışında!*
 
 Bu noktada dikkat etmeniz gereken noktalardan biri de uygulamanın
@@ -215,7 +215,7 @@ yüklediklerine görebilecekler. Unutmayın artık uygulamamızın masaüstünde
 ve başlat menüsünde kısayolları var!
 
 ![Silverlight uygulamamızın masaüstü ve başlat
-menüsünde!](http://cdn.daron.yondem.com/assets/2358/26042009_6.jpg)\
+menüsünde!](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_6.jpg)\
 *Silverlight uygulamamızın masaüstü ve başlat menüsünde!*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere uygulamamızın bir
@@ -234,7 +234,7 @@ bilgisayarlara yüklenen Silverlight uygulamaları Denetim Masası'nda
 "Program/Ekle Kaldır" bölümünde gözükmeyecektir.
 
 ![Silvelright uygulamasının bilgisayardan kaldırmak
-isterseniz...](http://cdn.daron.yondem.com/assets/2358/26042009_7.jpg)\
+isterseniz...](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_7.jpg)\
 *Silvelright uygulamasının bilgisayardan kaldırmak isterseniz...*
 
 Tüm bu manzara içerisinde belki de hemen değiştirmek isteyeceğiniz
@@ -243,7 +243,7 @@ Hem masaüstündeki hem başlat menüsündeki hem de uygulama penceresindeki
 ikonların hepsini birden tek tek değiştirebiliyorsunuz.
 
 ![Tek tek ayarlanmış
-logolar...](http://cdn.daron.yondem.com/assets/2358/26042009_8.jpg)\
+logolar...](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_8.jpg)\
 *Tek tek ayarlanmış logolar...*
 
 Uygulamamızda kullanılmak üzere dört farklı boyutta logolar ayarlamamız
@@ -255,7 +255,7 @@ projenize ekledikten sonra **Build Action**'larını **Content** olarak
 ayarlamanız.
 
 ![PNG'lerinin hepsinin de Content olarak ayarlanması
-şart!](http://cdn.daron.yondem.com/assets/2358/26042009_9.png)\
+şart!](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_9.png)\
 *PNG'lerinin hepsinin de Content olarak ayarlanması şart!*
 
 Artık logolarımız hazır olduğuna göre geçip manifest dosyamızdaki
@@ -361,15 +361,15 @@ bulunduğu sayfayı açıp uygulamayı masaüstüne kaydetmeye kalktığımızda
 artık bu ikonlar ile karşılaşacağız.
 
 ![Yükleme esnasında özel logo!
-:)](http://cdn.daron.yondem.com/assets/2358/26042009_10.jpg)\
+:)](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_10.jpg)\
 *Yükleme esnasında özel logo! :)*
 
 ![Uygulamanın kısayollarında özelleştirilmiş
-logolar...](http://cdn.daron.yondem.com/assets/2358/26042009_11.jpg)\
+logolar...](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_11.jpg)\
 *Uygulamanın kısayollarında özelleştirilmiş logolar...*
 
 ![Uygulama penceresinde özel
-logo!](http://cdn.daron.yondem.com/assets/2358/26042009_12.jpg)\
+logo!](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_12.jpg)\
 *Uygulama penceresinde özel logo!*
 
 Here yere özel logolarımız geldiğinde göre artık uygulama kimliğini çok
@@ -377,7 +377,7 @@ daha rahat bir şekilde müşteriye yansıtabiliriz. Hatta Windows
 Taskbar'da da söz konusu logomuz ayrıca gözüküyor.
 
 ![Taskbarda özel
-logo.](http://cdn.daron.yondem.com/assets/2358/26042009_13.jpg)\
+logo.](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_13.jpg)\
 *Taskbarda özel logo.*
 
 **Ya kullanıcılar sağ tıklamaz ise uygulamamıza?**
@@ -691,7 +691,7 @@ klasörün içerisinde XAP dosyası bir takım başka bilgilerle beraber
 kaydedilir.
 
 ![Silverlight uygulaması diskte
-saklı.](http://cdn.daron.yondem.com/assets/2358/26042009_14.jpg)\
+saklı.](media/Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar/26042009_14.jpg)\
 *Silverlight uygulaması diskte saklı.*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere XAP dosyamız

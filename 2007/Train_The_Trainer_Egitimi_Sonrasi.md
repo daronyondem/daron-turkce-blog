@@ -27,6 +27,6 @@ Berna Talu'ya tekrar teşşekür etmek istiyorum. Sonrasında gerçekten
 zevkli dakikalar geçirdiğimiz tüm eğitmen arkadaşlarıma da teşekkürü
 borç bilirim. Eğitimin sonundan bir fotoğraf ile yazımı sonlandırıyorum.
 
-![](http://cdn.daron.yondem.com/assets/1762/24082007_01.jpg)
+![](media/Train_The_Trainer_Egitimi_Sonrasi/24082007_01.jpg)
 
 

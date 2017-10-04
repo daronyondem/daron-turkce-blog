@@ -15,7 +15,7 @@ Silverlight'ın çalışma durumunda gerekli destek olarak düşünün aslında
 konu çok basit :)
 
 ![Medya oynatmaya dair düğmeleri olan bir
-klavye.](http://cdn.daron.yondem.com/assets/2695/klavye_remote.png)\
+klavye.](media/Silverlight_5_RC_de_Media_Command_destegi/klavye_remote.png)\
 *Medya oynatmaya dair düğmeleri olan bir klavye.*
 
 MediaCommand'lerin hepsi yani yukarıdaki klavyede gördüğünüz "Play",

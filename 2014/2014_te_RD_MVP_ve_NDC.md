@@ -22,7 +22,7 @@ tarafında da ünvanımın 2014 yılı için yenilendiğini öğrendim. Özetle 
 şey yolunda :)
 
 ![MVP, RD ve NDC
-Ünvanları](http://cdn.daron.yondem.com/assets/2902/unvanlar.gif)
+Ünvanları](media/2014_te_RD_MVP_ve_NDC/unvanlar.gif)
 
 Buradan teşekkür etmem gereken çok insan var :) ama kısa tutmak
 gerekirse yaptığım katkıyı gördükleri ve değer verdikleri için hem

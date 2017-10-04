@@ -94,7 +94,7 @@ alabiliyor olması. Hatta sadece bu kadarla kalmayıp bir Label'ın hangi
 kenarlarında **Border** bulunacağına da karar verebiliyorsunuz.
 
 ![Label kontrolünün BorderBrush
-ayarları.](http://cdn.daron.yondem.com/assets/2251/18112008_1.png)\
+ayarları.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_1.png)\
 *Label kontrolünün BorderBrush ayarları.*
 
 Aynı şekilde isterseniz bir Label için **Background** da
@@ -109,7 +109,7 @@ bir de isim vermeniz gerek. Unutmayın hazırlanan şablonlar sonrasında
 birden çok Label'a linklenerek merkezi bir yerden kullanılabilir.
 
 ![Label kontrolü için yeni bir ControlTemplate
-yaratıyoruz.](http://cdn.daron.yondem.com/assets/2251/18112008_2.png)\
+yaratıyoruz.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_2.png)\
 *Label kontrolü için yeni bir ControlTemplate yaratıyoruz.*
 
 ControlTemplate'imizi yarattıktan sonra Blend bizi otomatik olarak
@@ -119,7 +119,7 @@ kolay ilerlemesi için yapıyoruz. Siz kendi tasarımlarınızda farklı
 Layout kontrolleri tabi ki kullanabilirsiniz.
 
 ![ControlTemplate tasarımımız bitmek
-üzere.](http://cdn.daron.yondem.com/assets/2251/18112008_3.png)\
+üzere.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_3.png)\
 *ControlTemplate tasarımımız bitmek üzere.*
 
 Tasarımımızda Canvas'ın içerisinde bir **Rectangle** koyarak **Fill**
@@ -131,7 +131,7 @@ TextBlock'un **Content'ine** aktarılmasını sağlamalıyız. Bunu da ancak
 **TemplateBinding** ile yapabiliriz.
 
 ![Blend arayüzünden TemplateBinding ayarlarımızı
-yapıyoruz.](http://cdn.daron.yondem.com/assets/2251/18112008_4.png)\
+yapıyoruz.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_4.png)\
 *Blend arayüzünden TemplateBinding ayarlarımızı yapıyoruz.*
 
 Blend'in arayüzünde şablonumuzu tasarlarken **TextBlock** kontrolümüzü
@@ -145,7 +145,7 @@ komutunu verdikten sonra Blend bize ana kontrolün hangi özelliğinin
 özelliğine bağlamış olduk.
 
 ![Template tasarımı modundan
-çıkalım.](http://cdn.daron.yondem.com/assets/2251/18112008_5.png)\
+çıkalım.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_5.png)\
 *Template tasarımı modundan çıkalım.*
 
 Artık tasarımımızı tamamladığımızda göre şablon tasarım modundan çıkıp
@@ -155,7 +155,7 @@ yerleştiğini görebilirsiniz. En güzel de yeni bir Label eklediğinizde
 aynı şablonu kullanmasını sağlayabilirsiniz.
 
 ![Hazırladığımız şablonu istediğimiz Label kontrolünde
-kullanabiliriz.](http://cdn.daron.yondem.com/assets/2251/18112008_6.png)\
+kullanabiliriz.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_6.png)\
 *Hazırladığımız şablonu istediğimiz Label kontrolünde kullanabiliriz.*
 
 Uygulamanıza yeni bir Label ekledikten sonra hazırladığınız şablonu bu
@@ -340,7 +340,7 @@ olmasını istiyoruz. Bunun için ilk olarak gelin kontrolümüzün tasarımın�
 biraz değiştirelim.
 
 ![DataBind yapacağımız Label kontrolünün şablonunu biraz
-değiştirdik.](http://cdn.daron.yondem.com/assets/2251/18112008_7.png)\
+değiştirdik.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_7.png)\
 *DataBind yapacağımız Label kontrolünün şablonunu biraz değiştirdik.*
 
 Sadece renklerde biraz değişiklik yaptık. Böylece arkadaki Rectangle
@@ -483,7 +483,7 @@ etkileyecek? İşte bunun için ayrıca XAML tarafında ayarlar yapmamız
 gerek.
 
 ![Rectangle'ın Opacity'sinin DataBinding ayarlarını
-yapıyoruz.](http://cdn.daron.yondem.com/assets/2251/18112008_8.png)\
+yapıyoruz.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_8.png)\
 *Rectangle'ın Opacity'sinin DataBinding ayarlarını yapıyoruz.*
 
 Blend tarafında Label kontrolünün şablonuna tekrar geri dönüyoruz. Daha
@@ -494,7 +494,7 @@ gelen menüden "**Custom Expression**" komutunu seçiyoruz. Böylece artık
 binding ile ilgili ayarı doğrudan el ile yazacağız.
 
 ![DataBinding için Custom Expression
-yazıyoruz.](http://cdn.daron.yondem.com/assets/2251/18112008_9.png)\
+yazıyoruz.](media/Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi/18112008_9.png)\
 *DataBinding için Custom Expression yazıyoruz.*
 
 Yazdığımız Custom Expression ile artık **Label** kendi içindeki

@@ -122,7 +122,7 @@ ScrollBar gösterilmiyor o nedenle her halükarda bu ayarları değiştirmek
 şart.
 
 ![ScrollViewer kontrolü iş
-başında.](http://cdn.daron.yondem.com/assets/2050/08052008_1.jpg)\
+başında.](media/Silverlight_2_0_icerisinde_ScrollViewer_kullanimi/08052008_1.jpg)\
 *ScrollViewer kontrolü iş başında.*
 
 Kullanımın ne kadar basit olduğunu sanırım daha da anlatmaya gerek yok.

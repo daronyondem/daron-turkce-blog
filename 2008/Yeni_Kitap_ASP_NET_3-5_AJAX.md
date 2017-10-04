@@ -18,7 +18,7 @@ baskı meselesini durdurarak hemen yeni kitap çalışmasına başladım ve
 ancak bitti :)
 
 ![ASP.NET 3.5 AJAX Kitabı
-Kapağı](http://cdn.daron.yondem.com/assets/2059/17052008_1.jpg)\
+Kapağı](media/Yeni_Kitap_ASP_NET_3-5_AJAX/17052008_1.jpg)\
 *ASP.NET 3.5 AJAX Kitabı Kapağı*
 
 **Kitapta neler var?**
@@ -58,7 +58,7 @@ bulunuyor. Bunlardan ikisini [nedirtv.com](http://www.nedirtv.com)
 üzerinden sizlerle daha önce paylaşmıştım.
 
 ![WPF DVD
-Arayüzü](http://cdn.daron.yondem.com/assets/2059/17052008_2.jpg)\
+Arayüzü](media/Yeni_Kitap_ASP_NET_3-5_AJAX/17052008_2.jpg)\
 *WPF DVD Arayüzü*
 
 DVD'nin arayüzünü tamamen WPF ile hazırladım. Arka planda VB.NET

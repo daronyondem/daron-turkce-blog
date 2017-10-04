@@ -18,7 +18,7 @@ gibi konulardan bahsettik. Benim için çok eğlenceli olduğu kadar da
 güzel bir iki gün oldu.
 
 ![INETA NEXT
-Diyarbakır](http://cdn.daron.yondem.com/assets/2470/07122009_1.jpg)\
+Diyarbakır](media/INETA_NEXT_Diyarbakir_dan_Gecti/07122009_1.jpg)\
 *INETA NEXT Diyarbakır*
 
 Organizasyon boyunca öğrenci katılımının yanı sıra Diyarbakır
@@ -33,7 +33,7 @@ teknolojilerle neler yapılabileceği öğrendik. Artık yazılımcı ekibimizin
 bizden çekeceği var!"* :)
 
 ![Diyarbakır'da yazılım sektörü
-nerede?](http://cdn.daron.yondem.com/assets/2470/07122009_2.jpg)\
+nerede?](media/INETA_NEXT_Diyarbakir_dan_Gecti/07122009_2.jpg)\
 *Diyarbakır'da yazılım sektörü nerede?*
 
 Etkinliğimizde bulunan katılımcılardan **Murat the Hiperaktive** :)
@@ -53,7 +53,7 @@ olduğu kesin. Fikir süper, implementasyon süper! Kısmen tek kişilik dev
 kadro olarak kendisine "Helal olsun!" diyorum.
 
 ![Etkinlik duyurusu Diyarbakır
-caddelerinde.](http://cdn.daron.yondem.com/assets/2470/07122009_3.jpg)\
+caddelerinde.](media/INETA_NEXT_Diyarbakir_dan_Gecti/07122009_3.jpg)\
 *Etkinlik duyurusu Diyarbakır caddelerinde.*
 
 Etklinliğimize Dicle Üniversitesi ev sahipliği yaptı. Özellikle sevgili

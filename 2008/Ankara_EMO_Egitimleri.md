@@ -17,7 +17,7 @@ eğitim serimize başladık. WPF, AJAX, Silverlight ve LINQ konularına
 değindiğimiz eğitimi Pazar akşamı 18.00'da bitirdik.
 
 ![EMO Eğitim Serisi başlangıcından bir
-kare...](http://cdn.daron.yondem.com/assets/2067/25052008_1.jpg)\
+kare...](media/Ankara_EMO_Egitimleri/25052008_1.jpg)\
 *EMO Eğitim Serisi başlangıcından bir kare...*
 
 Eğitime katılan arkadaşlara özellikle Silverlight örneğindeki kodları
@@ -25,7 +25,7 @@ blogumdan paylaşacağım konusunda söz vermiştim. Aşağıdan gerekli
 dosyaları bilgisayarınıza indirebilirsiniz.
 
 [Örnek Kodlar - 25052008\_2.rar (8,57
-KB)](http://cdn.daron.yondem.com/assets/2067/25052008_2.rar)
+KB)](media/Ankara_EMO_Egitimleri/25052008_2.rar)
 
 Eğitime katılan ve kocaman bir hafta sonu boyunca yeni teknolojiye olan
 ilgilerini ve konsantrasyonlarını en yüksek seviyede tutan tüm

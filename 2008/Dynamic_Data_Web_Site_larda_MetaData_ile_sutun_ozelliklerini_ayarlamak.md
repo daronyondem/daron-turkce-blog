@@ -192,7 +192,7 @@ olmak zorunda olduğunu ve bu durumun sağlanmaması halinde de hata olarak
 kodun bir de web sitesindeki yansımasına göz atalım.
 
 ![Range sınıfı ile yaptığımız ayarlamalar arayüzde kendini
-gösteriyor.](http://cdn.daron.yondem.com/assets/2223/21102008_1.png)\
+gösteriyor.](media/Dynamic_Data_Web_Site_larda_MetaData_ile_sutun_ozelliklerini_ayarlamak/21102008_1.png)\
 *Range sınıfı ile yaptığımız ayarlamalar arayüzde kendini gösteriyor.*
 
 **Başka neler yapabiliriz?**

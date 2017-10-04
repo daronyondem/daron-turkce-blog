@@ -16,7 +16,7 @@ paylaştım](http://twitter.com/#!/daronyondem/status/185012103508275200/photo/1
 da :)
 
 ![Microsoft OpenDoor,
-Bahrain](http://cdn.daron.yondem.com/assets/2804/bahrain_opendoor.png)\
+Bahrain](media/Microsoft_OpenDoor_Bahrain_2012/bahrain_opendoor.png)\
 *Microsoft OpenDoor, Bahrain*
 
 Etkinlikte Azure, Windows Phone, Windows 8 Metro Development, HTML5,

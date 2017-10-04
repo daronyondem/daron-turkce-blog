@@ -22,13 +22,13 @@ Benim sunduğum **Silverlight ve WPF** bölümünün slaytlarını aşağıdaki
 adresten indirebilirsiniz.
 
 [Silverlight ve WPF Slaytlarını İndir - 13012008\_1.xps (5.89
-MB)](http://cdn.daron.yondem.com/assets/1918/13012008_1.xps)
+MB)](media/2008_Microsoft_Vizyonu_ve_Yeni_Teknolojileri_Semineri_ardindan/13012008_1.xps)
 
 Organizasyonda emeklerinden dolayı tüm **CETURK** ekibine çok teşekkür
 ediyorum. Aktiviteden bir fotoğraf ile yazımı sonlandırıyorum :)
 
 ![2008 Microsoft Vizyonu ve Yeni Teknolojileri
-Semineri](http://cdn.daron.yondem.com/assets/1918/13012008.jpg)\
+Semineri](media/2008_Microsoft_Vizyonu_ve_Yeni_Teknolojileri_Semineri_ardindan/13012008.jpg)\
 *2008 Microsoft Vizyonu ve Yeni Teknolojileri Semineri*
 
 

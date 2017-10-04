@@ -18,7 +18,7 @@ gerçekten çok zor. Yine de elimden geleni yaparak "Hiç yoktan iyidir"
 söylemleri ile sunumumu bitirdim.
 
 ![riatalks.com'da Silverlight
-oturumu.](http://cdn.daron.yondem.com/assets/2149/09082008_1.jpg)\
+oturumu.](media/riatalks_com_aktivitesindeki_Silverlight_oturumumum/09082008_1.jpg)\
 *riatalks.com'da Silverlight oturumu.*
 
 [INETA Summer

@@ -14,7 +14,7 @@ yavaş yavaş sona yaklaşıyor! Dün akşam serideki webinerlerinden
 "**Windows Azure Platformunda Ne Nedir?**" oturumunu da tamamladık.
 
 ![Silverlight Geliştiricileri için Windows Phone 7.5'e Giriş
-Webineri](http://cdn.daron.yondem.com/assets/2734/azure_giris.jpg)\
+Webineri](media/Windows_Azure_Platformunda_Ne_Nedir/azure_giris.jpg)\
 Webiner kaydını indirmek için
 [SeminerTV'ye](http://daron.yondem.com/tr/seminertv/) uğrayın!
 

@@ -42,7 +42,7 @@ bitiminde kitap ancak gelmiş oluyor. Tüm bu sorunları aşabilmek adına
 artık MOC kitapları dijital olarak da öğrencilere ulaştırılabilecek.
 
 ![MOC'lar için Connect üzerinde bug report
-yapılabilecek!](http://cdn.daron.yondem.com/assets/2442/08112009_1.jpg)\
+yapılabilecek!](media/MCT_Day_Zero_Berlin_den_haberler/08112009_1.jpg)\
 *MOC'lar için Connect üzerinde bug report yapılabilecek!*
 
 **Eğitimlere doğrudan yorumlar!**

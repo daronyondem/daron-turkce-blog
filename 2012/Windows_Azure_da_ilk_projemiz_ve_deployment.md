@@ -19,7 +19,7 @@ seçip ilk projemizi yaratalım. Bunu yaparken de Cloud projemize deneme
 amaçlı olarak bir ASP.NET sitesinde ekleyelim.
 
 ![İlk Azure
-projemiz...](http://cdn.daron.yondem.com/assets/2766/ilk.jpg)\
+projemiz...](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk.jpg)\
 *İlk Azure projemiz...*
 
 Projemizi yarattıktan sonra ASP.NET tarafındaki tüm dosyaları silip
@@ -27,7 +27,7 @@ basit bir ASPX ekleyip içine de klasik :) "Hello World" yazabiliriz.
 Böylece minimalist bir ASP.NET sitemiz olmuş olacak.
 
 ![Basit bir Cloud
-projesi.](http://cdn.daron.yondem.com/assets/2766/ilk2.jpg)\
+projesi.](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk2.jpg)\
 *Basit bir Cloud projesi.*
 
 Dikkat ederseniz WebRole.Cs ile Web.Config'i silmedim. Konsept olarak
@@ -138,7 +138,7 @@ Studio'da Solution Explorer içerisinde Azure projesine sağ tıklayıp
 "Package" komutunu verebiliriz.
 
 ![Azure Package
-yaratırken.](http://cdn.daron.yondem.com/assets/2766/ilk3.jpg)\
+yaratırken.](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk3.jpg)\
 *Azure Package yaratırken.*
 
 Bir sonraki adımda karşınıza çıkacak soru paket yaratırken service
@@ -148,7 +148,7 @@ Genel olarak tabi ki Cloud.cscfg'yi ve Release build konfigürasyonunu
 kullanacağız.
 
 ![Azure paketimiz
-hazır.](http://cdn.daron.yondem.com/assets/2766/ilk4.jpg)\
+hazır.](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk4.jpg)\
 *Azure paketimiz hazır.*
 
 Paketleme işlemi bittiği gibi hemen paketlerin bulunduğu klasör
@@ -187,7 +187,7 @@ bayılıyorum :) Bir günden daha fazla paneli açık bırakıp direk tekrar
 kullanabilir olmak güzel :) Basit ama güzel :)
 
 ![Azure Yönetim
-Paneli](http://cdn.daron.yondem.com/assets/2766/ilk5.jpg)\
+Paneli](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk5.jpg)\
 *Azure Yönetim Paneli*
 
 Panelin sol altında farklı Azure servislerinin kaba bir listesini
@@ -196,7 +196,7 @@ işlemlerimizi yapabiliyoruz. Hemen sol alttan "Hosted Services"
 seçeneğini seçerek ilerleyeceğiz.
 
 ![Azure ortamında hosted
-serviceler.](http://cdn.daron.yondem.com/assets/2766/ilk6.jpg)\
+serviceler.](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk6.jpg)\
 *Azure ortamında hosted serviceler.*
 
 Sol taraftan "Hosted Services, Storage Accounts & CDN"'i seçtikten sonra
@@ -217,7 +217,7 @@ projeler arası "muhasebe" kapsamında da ayrım yapmak istediğinizde çok
 mantıklı olabilir.
 
 ![İlk Hosted
-Service'imiz.](http://cdn.daron.yondem.com/assets/2766/ilk7.jpg)\
+Service'imiz.](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk7.jpg)\
 *İlk Hosted Service'imiz.*
 
 Panelde uygun subscription'ı seçtikten sonra üst ribbon bar'da "New
@@ -226,7 +226,7 @@ servis bizim biraz önce yarattığımız HelloWorld web uygulamasını
 barındıracak.
 
 ![Servisimizi
-yüklerken...](http://cdn.daron.yondem.com/assets/2766/ilk8.jpg)\
+yüklerken...](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk8.jpg)\
 *Servisimizi yüklerken...*
 
 Yukarıdaki ekran ilk servis yaratırken ve yüklerken karşımıza çıkacak
@@ -262,7 +262,7 @@ dakikayı bulacaktır. Bu süreçte FC Azure DataCenter'ında istediğimiz
 load balancer'a haber verecek vs vs vs :)
 
 ![SLA SLA SLA! :) %99.95 için 2 instance
-şart.](http://cdn.daron.yondem.com/assets/2766/ilk9.jpg)\
+şart.](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk9.jpg)\
 *SLA SLA SLA! :) %99.95 için 2 instance şart.*
 
 Yüklemenizi başlattığınız anda yukarıdaki şekilde bir uyarı alacaksınız.
@@ -273,7 +273,7 @@ geçip deployment'a devam edebilirsiniz. Fakat unutmayın :) tavsiye
 edilen her zaman 2 instance, benden söylemesi.
 
 ![Paket upload
-olurken...](http://cdn.daron.yondem.com/assets/2766/ilk10.jpg)\
+olurken...](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk10.jpg)\
 *Paket upload olurken...*
 
 Upload işlemi bittikten sonra sonra servisinize role sayısına ve
@@ -281,14 +281,14 @@ instance sayısına göre sunucuların hazırlanması 5 ile 15 dakika arasında
 sürebiliyor. Süreci doğrudan yönetim panelinden izleyebilirsiniz.
 
 ![Herşey hazırlanıyor
-:)](http://cdn.daron.yondem.com/assets/2766/ilk11.jpg)
+:)](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk11.jpg)
 
 Herşey hazır olduktan sonra servisinizin deployment'ını seçip yönetim
 panelinin sağ tarafındaki konsoldan da servise ait linki bulabilirsiniz.
 Tıklayın ve servisinizi azure ortamında çalışır görün ;)
 
 ![Staging için verilen
-adres.](http://cdn.daron.yondem.com/assets/2766/ilk12.jpg)\
+adres.](media/Windows_Azure_da_ilk_projemiz_ve_deployment/ilk12.jpg)\
 *Staging için verilen adres.*
 
 İtiraf ediyorum :) tüm bu deployment senaryosunu kolaylaştırmanın bir

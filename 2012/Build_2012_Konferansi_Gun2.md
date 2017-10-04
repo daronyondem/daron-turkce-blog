@@ -26,7 +26,7 @@ mobil uygulama geliştiricilerin infra ihtiyaçlarını kolayca
 karşılayabilmek adına böyle bir adım attı. Güzel de olmuş.
 
 ![Scott Guthrie
-sahnede...](http://cdn.daron.yondem.com/assets/2826/azure_1.jpg)\
+sahnede...](media/Build_2012_Konferansi_Gun2/azure_1.jpg)\
 *Scott Guthrie sahnede...*
 
 Sonrasında Azure Web Sites'dan bahsedildi. Klasik Hosted Service'den çok

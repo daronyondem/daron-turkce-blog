@@ -17,7 +17,7 @@ gerçekleştirme kararı aldık! Bu sefer biraz daha farklı bir konsept ile
 etkinliği dört ayrı şehirde yapacağız!
 
 ![INETA NEXT bomba gibi
-geliyor!](http://cdn.daron.yondem.com/assets/2446/13112009_1.jpg)\
+geliyor!](media/INETA_NEXT_Bomba_gibi_geliyor/13112009_1.jpg)\
 *INETA NEXT bomba gibi geliyor!*
 
 Gerçekte de bomba gibi geliyor. Şu anda maalesef etkinlik içeriklerini
@@ -34,6 +34,6 @@ bloglarınızda, sitelerinizde paylaşabilirseniz muhteşem olur! Tüm
 desteğiniz için çok teşekkürler.
 
 ![INETA NEXT
-Banner](http://cdn.daron.yondem.com/assets/2446/13112009_2.gif)
+Banner](media/INETA_NEXT_Bomba_gibi_geliyor/13112009_2.gif)
 
 

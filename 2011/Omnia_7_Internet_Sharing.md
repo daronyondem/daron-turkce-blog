@@ -24,7 +24,7 @@ kadar "doğru vatandaş" konseptine resmi update'in gelmesini bekliyordum
 :)
 
 ![WP7'de Internet
-Sharing](http://cdn.daron.yondem.com/assets/2728/wp7_internet_sharing.jpg)\
+Sharing](media/Omnia_7_Internet_Sharing/wp7_internet_sharing.jpg)\
 *WP7'de Internet Sharing*
 
 Yukarıdaki fotoğraftan da görebileceğiniz üzere şu anda Omnia 7'imde
@@ -37,7 +37,7 @@ Peki siz nasıl yapabilirsiniz?
 2.  İkinci adımda makinenize **Visual Studio ve WP7.5 SDK**'larının
     yüklü olduğunu varsayarak :) SDK ile beraber gelen "Application
     Deployment" aracını kullanarak [buradaki XAP
-    dosyasını](http://cdn.daron.yondem.com/assets/2728/File%20Deployer.xap)
+    dosyasını](media/Omnia_7_Internet_Sharing/File%20Deployer.xap)
     telefona atın.
 3.  Telefonunuzla \#\#634\# numarasını çevirerek "**Diagnosis
     Application**"'ın yüklenmesini sağlayın. Bu uygulama telefonun

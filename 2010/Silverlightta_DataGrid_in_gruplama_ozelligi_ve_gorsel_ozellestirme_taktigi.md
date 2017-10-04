@@ -154,7 +154,7 @@ olarak eldeki PGD'yi de gride aktarıyoruz gösterilmek üzere. Gördüğünüz
 üzere aslında herşey yeterince basit.
 
 ![DataGrid'den Grouping
-Desteği](http://cdn.daron.yondem.com/assets/2506/05042010_1.png)\
+Desteği](media/Silverlightta_DataGrid_in_gruplama_ozelligi_ve_gorsel_ozellestirme_taktigi/05042010_1.png)\
 *DataGrid'den Grouping Desteği*
 
 Gördüğünüz üzere iç içe gruplamalar dahil kolaylıkla güzel bir sistem
@@ -687,7 +687,7 @@ isterseniz ToggleButton'un tasarımını bile değiştirebilirsiniz ;) İpler
 sizin elinizde....
 
 ![DataGrid'de gruplama
-Türkçeleştirildi.](http://cdn.daron.yondem.com/assets/2506/05042010_2.png)\
+Türkçeleştirildi.](media/Silverlightta_DataGrid_in_gruplama_ozelligi_ve_gorsel_ozellestirme_taktigi/05042010_2.png)\
 *DataGrid'de gruplama Türkçeleştirildi.*
 
 Hepinize kolay gelsin.

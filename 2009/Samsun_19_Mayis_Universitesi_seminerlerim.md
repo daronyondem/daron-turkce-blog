@@ -17,7 +17,7 @@ yapmış oldum. Kimse üstüne alınmazım ama :) deniz kenarı sevdam doğduğu
 şehir İstanbul'dan kaynaklanıyor olsa gerek.
 
 ![19 Mayıs Üniversitesi Bilişim Kulübü ile hatıra
-fotoğrafı.](http://cdn.daron.yondem.com/assets/2425/20102009_1.jpg)\
+fotoğrafı.](media/Samsun_19_Mayis_Universitesi_seminerlerim/20102009_1.jpg)\
 *19 Mayıs Üniversitesi Bilişim Kulübü ile hatıra fotoğrafı.*
 
 Etkinliğe tahmin ettiğimin üzerinde bir katılım oldu. Sonrasında tam

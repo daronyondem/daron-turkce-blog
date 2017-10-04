@@ -18,7 +18,7 @@ saat olunca süre bana az geldi ve biraz hızlı anlatmaya başladım. Umarım
 :) dinleyici arkadaşlar ne anlattığımı anlayabilmiştir.
 
 ![İTÜ, IEEE, Silverlight ve WPF
-Seminerlerim](http://cdn.daron.yondem.com/assets/2428/22102009_1.jpg)\
+Seminerlerim](media/ITU_Seminerlerim/22102009_1.jpg)\
 *İTÜ, IEEE, Silverlight ve WPF Seminerlerim*
 
 Organizasyonda emeğinden dolayı özellikle **Hüseyin Armağan Güler**'e

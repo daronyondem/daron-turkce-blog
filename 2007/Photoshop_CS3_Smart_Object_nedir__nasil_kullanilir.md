@@ -27,7 +27,7 @@ Herhangi bir layer (katman) üzerine sağ fare tuşu ile tıklayarak gelen
 menüden "**Convert to Smart Object**" komutu vererek herhangi bir
 layer'ı **Smart Object**'e çevirebiliyorsunuz.
 
-![](http://cdn.daron.yondem.com/assets/1733/25042007_1.png)
+![](media/Photoshop_CS3_Smart_Object_nedir__nasil_kullanilir/25042007_1.png)
 
 Çeviri işlemi tamamlandıktan sonra yukarıda solda yer aldığı gibi söz
 konusu layer'a ait görselin sağ alt köşesinde **Smart Object** ikonu

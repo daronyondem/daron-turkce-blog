@@ -13,7 +13,7 @@ bir **Azure Camp** düzenlendi. Konuşmacı olarak da tam gün öğrencilerin
 karşısında ben vardım :)
 
 ![MSP'ler için Azure
-Camp](http://cdn.daron.yondem.com/assets/2741/azure_camp.jpg)\
+Camp](media/MSP_lere_ozel_Azure_Camp/azure_camp.jpg)\
 *MSP'ler için Azure Camp*
 
 Azure konusu maalesef biraz ağır bir konu. Son dönemde genelde hep

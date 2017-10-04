@@ -17,7 +17,7 @@ o kadar sıcak kanlıydı ki emin olun bugüne kadar katıldığım en neşeli
 **Gençsen Geleceksin** etkinliği yaşadım :)
 
 ![Karadeniz Teknik
-Üniversitesi](http://cdn.daron.yondem.com/assets/2260/28112008_1.jpg)\
+Üniversitesi](media/Trabzon_Karadeniz_Teknik_Universitesindeydim/28112008_1.jpg)\
 *Karadeniz Teknik Üniversitesi*
 
 Umarım en kısa zamanda teknik ağırlıklı oturumlarla bir INETA

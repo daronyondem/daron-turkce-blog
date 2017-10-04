@@ -18,7 +18,7 @@ bırakıp beni dinlemeye gelmelerini emin olun hayranlıkla karşıladım.
 etkinin olabildiğince uzun süre hayatta kalmasını diliyorum :)
 
 ![Bursa, Uludağ Üniversitesi, Silverlight ve WPF
-Semineri](http://cdn.daron.yondem.com/assets/2247/14112008_1.jpg)\
+Semineri](media/Bursa_Uludag_Universitesinde_Silverlight_ve_WPF_senligi/14112008_1.jpg)\
 *Bursa, Uludağ Üniversitesi, Silverlight ve WPF Semineri*
 
 Aktivitenin organizasyonu için sevgili [Muhammed Medeni

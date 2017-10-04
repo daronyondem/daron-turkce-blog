@@ -37,7 +37,7 @@ içerisinde ASP.NET web sitesi yaratmak istediğinizde seçenek olarak
 de karşınıza çıkacaktır.
 
 ![AJAX Control Toolkit Web Site yaratırken Visual Studio
-ekranı...](http://cdn.daron.yondem.com/assets/1757/16082007_1.png)
+ekranı...](media/AJAX_Control_Toolkit_Animation_Extender/16082007_1.png)
 
 Yeni bir “<span>**Ajax**</span> **<span>Control</span>
 <span>Toolkit</span> Web Site**” yarattıktan sonra karşımıza ilk çıkan

@@ -15,7 +15,7 @@ dergisi olan MSDN Magazine'in Mart sayısında benim de bir makalem yer
 alıyor.
 
 ![MSDN Magazine Mart 2009
-Sayısı](http://cdn.daron.yondem.com/assets/2330/28022008_1.gif)\
+Sayısı](media/MSDN_Magazine_Mart_sayisindaki_makalem/28022008_1.gif)\
 *MSDN Magazine Mart 2009 Sayısı*
 
 Yukarıdaki kapakta en üstte yer alan :) Internet Explorer 8 yazısı bana

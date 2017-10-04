@@ -56,7 +56,7 @@ beraber Expression Encoder'a gerekli Adaptive Streaming şablonları da
 eklendi.
 
 ![Adaptive Streaming için
-seçenekler.](http://cdn.daron.yondem.com/assets/2266/04122008_1.png)\
+seçenekler.](media/Silverlight_2_0_ve_Adaptive_Streaming/04122008_1.png)\
 *Adaptive Streaming için seçenekler.*
 
 Video profili olarak "Adaptive Streaming"i seçtiğinizde varsayılan
@@ -66,7 +66,7 @@ olanları değiştirebilirsiniz. Tüm bu ayarları tamamladıktan sonra sıra
 geliyor Adaptive Streaming için hangi altyapıyı kullanacağınıza.
 
 ![Adaptive Streaming için ne
-kullanalım?](http://cdn.daron.yondem.com/assets/2266/04122008_2.png)\
+kullanalım?](media/Silverlight_2_0_ve_Adaptive_Streaming/04122008_2.png)\
 *Adaptive Streaming için ne kullanalım?*
 
 Adaptive Streaming ile yayın yapmanın birkaç yolu var ama bunların

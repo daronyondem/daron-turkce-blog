@@ -15,7 +15,7 @@ bir "**etiket**" olacağımı tahmin etmezdim :D Sağolsun sevgili **Onur
 birkaç gün uzamıştır, sağolasın Onur)
 
 ![Daron Yöndem artık bir
-etiket!](http://cdn.daron.yondem.com/assets/1977/03032008_1.png)\
+etiket!](media/Bloglara_etiket_oldum_sonumuz_hayrola/03032008_1.png)\
 *Daron Yöndem artık bir etiket!*
 
 İşte Onur'un blogunda benle ilgili yazıları okumak için

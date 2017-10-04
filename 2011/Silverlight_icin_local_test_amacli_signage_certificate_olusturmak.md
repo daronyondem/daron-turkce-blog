@@ -23,7 +23,7 @@ copy-past alarak başlatabilirsiniz.
 makecert -n "CN=testRootCA" -r -sv testRootCA.pvk testRootCA.cer
 
 ![Root Sertifikamızı
-Yaratıyoruz.](http://cdn.daron.yondem.com/assets/2572/28042011_1.png)\
+Yaratıyoruz.](media/Silverlight_icin_local_test_amacli_signage_certificate_olusturmak/28042011_1.png)\
 *Root Sertifikamızı Yaratıyoruz.*
 
 Şimdi yarattığımız bu sertifikayı Trusted Root Certificate olarak
@@ -46,7 +46,7 @@ sertifika dosyasını gösterip "Next" "Next"lere basa basa Import işlemini
 tamamlayabilirsiniz.
 
 ![Root Sertifikamızı Trusted liste
-eklerken...](http://cdn.daron.yondem.com/assets/2572/28042011_2.png)\
+eklerken...](media/Silverlight_icin_local_test_amacli_signage_certificate_olusturmak/28042011_2.png)\
 *Root Sertifikamızı Trusted liste eklerken...*
 
 Sıra geldi bu Root Certificate üzerinden bir Signage Certificate
@@ -80,7 +80,7 @@ Artık XAP dosyamızı projemize geri taşıyabilir ve imzalanmış uygulama
 ile testlerimizi yapabiliriz.
 
 ![Silverlight XAP'ımızı
-imzalarken...](http://cdn.daron.yondem.com/assets/2572/28042011_3.png)\
+imzalarken...](media/Silverlight_icin_local_test_amacli_signage_certificate_olusturmak/28042011_3.png)\
 *Silverlight XAP'ımızı imzalarken...*
 
 Unutmayın ki bu şekilde bir sertifika ile uygulamanızı webde
@@ -89,7 +89,7 @@ sertifika sağlayıcıdan sertifika satın alarak XAP'ınızı imzalamanız
 şart.
 
 ![İmzalanmış Silverlight uygulamamızın yükleme
-ekranı.](http://cdn.daron.yondem.com/assets/2572/28042011_4.png)\
+ekranı.](media/Silverlight_icin_local_test_amacli_signage_certificate_olusturmak/28042011_4.png)\
 *İmzalanmış Silverlight uygulamamızın yükleme ekranı.*
 
 Hepinize kolay gelsin.

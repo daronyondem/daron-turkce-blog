@@ -19,7 +19,7 @@ konusunda ileride ayrı bir seminer daha düzenlemeyi planladığımız için
 bu seminerde WPF işlemeyeceğiz. **Expression Blend 2** ile Silverlight
 ve özellikle data uygulamalarına değineceğiz.
 
-[![](http://cdn.daron.yondem.com/assets/1920/15012008_1.JPG)](http://www.gencgirisimciler.org/bpi.asp?cid=594&caid=311)
+[![](media/Silverlight_Semineri/15012008_1.JPG)](http://www.gencgirisimciler.org/bpi.asp?cid=594&caid=311)
 
 Etkinlik katılım formu ve detayları için aşağıdaki adresi ziyaret
 edebilirsiniz.

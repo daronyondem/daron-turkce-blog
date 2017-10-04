@@ -126,7 +126,7 @@ getirdim. Sonra yeni bir partition açıp Windows 8 kurdum ve BootCamp
 driver'larını yükledim.
 
 ![MacBook Air 11" ve Windows
-8](http://cdn.daron.yondem.com/assets/2809/macbook.jpg)\
+8](media/MacbookAir_Windows8_ile_Muhtesem/macbook.jpg)\
 *MacBook Air 11" ve Windows 8*
 
 ### Herşey umduğumdan çok daha iyi!
@@ -162,7 +162,7 @@ alabiliyorsunuz. Ben burada ilginç bir ek bataryadan bahsetmek istiyorum
 [HyperJuice](http://www.hypershop.com/HyperJuice-External-Battery-for-MacBook-iPad-iPhone-USB-s/91.htm)!
 
 ![HyperJuice efsanesi! Laptop'a ek
-batarya...](http://cdn.daron.yondem.com/assets/2809/hyperjuice.jpg)\
+batarya...](media/MacbookAir_Windows8_ile_Muhtesem/hyperjuice.jpg)\
 *HyperJuice efsanesi! Laptop'a ek batarya...*
 
 Yukarıda resimde gördüğün şey bir batarya, koca bir batarya :) netbook

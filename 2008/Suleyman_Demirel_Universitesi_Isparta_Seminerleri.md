@@ -20,7 +20,7 @@ düşünürsek SDÜ öğrencileri ciddi şanslı. Seminerler boyunca gelen
 sorular ortalamanın çok üstünde bir seviyeye sahipti.
 
 ![Süleyman Demirel Üniversitesi,
-Isparta](http://cdn.daron.yondem.com/assets/2001/25032008_1.jpg)\
+Isparta](media/Suleyman_Demirel_Universitesi_Isparta_Seminerleri/25032008_1.jpg)\
 *Süleyman Demirel Üniversitesi, Isparta*
 
 Buradan özellikle SDÜ'den sevgili Eğitim Görevlisi dostum **Mehmet
@@ -31,7 +31,7 @@ de çok teşekürler. Kısa zamanda yakaladığım ufak bir manzara fotoğrafı
 ile buradan Ispartaya tekrar selamlar.
 
 ![Eğirdir Gölü Tepesi,
-Isparta](http://cdn.daron.yondem.com/assets/2001/25032008_2.jpg)\
+Isparta](media/Suleyman_Demirel_Universitesi_Isparta_Seminerleri/25032008_2.jpg)\
 *Eğirdir Gölü Tepesi, Isparta*
 
 

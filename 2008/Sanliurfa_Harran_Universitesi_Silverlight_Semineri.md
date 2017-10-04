@@ -23,7 +23,7 @@ göre en iyi vaktini yakalamışım şehrin. Dönüşte **İSOT** ve **Nar
 Ekşisi** almayı da tabi ki unutmadım :)
 
 ![Silverlight Semineri, Harran Üniversitesi,
-Şanlıurfa](http://cdn.daron.yondem.com/assets/2028/18042008_1.jpg)\
+Şanlıurfa](media/Sanliurfa_Harran_Universitesi_Silverlight_Semineri/18042008_1.jpg)\
 *Silverlight Semineri, Harran Üniversitesi, Şanlıurfa*
 
 Harran Üniversitesi'ndeki gençler gerçekten çok ilgiliydi Silverlight
@@ -40,6 +40,6 @@ kardeşime çok teşekkür etmek istiyorum. Muhteşem bir organizasyondu.
 Seminerde yaptığımız örneği ve sunumumu aşağıdan indirebilirsiniz.
 
 [Seminer Örnek Kodları ve Sunum - 18042008\_1.rar (1,71
-MB)](http://cdn.daron.yondem.com/assets/2028/18042008_1.rar)
+MB)](media/Sanliurfa_Harran_Universitesi_Silverlight_Semineri/18042008_1.rar)
 
 

@@ -28,7 +28,7 @@ bahsettiğim gibi farklı araçları kullanmanız gerekiyor. Ben makale
 boyunca Visual Studio 2005 kullanacağım.
 
 ![AJAX Control Project
-yaratıyoruz...](http://cdn.daron.yondem.com/assets/1769/31082007_1.png)\
+yaratıyoruz...](media/AJAX_Control_Toolkit_Extender_Kontrolleri_Yaratmak/31082007_1.png)\
  *Kendi AJAX Control projemizi yaratıyoruz.*
 
 Yaratacağımız örnek **Extender** kontrolünün adı **SayacDugme** olacak.
@@ -41,7 +41,7 @@ bir köşede gösterilir. Bizim de oluşturacağımız **Extender** karakter
 sayısını alarak kendisine atanan bir düğmenin üzerine yazacak.
 
 ![SayacDugme Extender projemizi Solution Explorer içerisinde
-görebiliyoruz.](http://cdn.daron.yondem.com/assets/1769/31082007_2.png)\
+görebiliyoruz.](media/AJAX_Control_Toolkit_Extender_Kontrolleri_Yaratmak/31082007_2.png)\
 *SayacDugme Extender projemizi Solution Explorer içerisinde
 görebiliyoruz.*
 
@@ -413,7 +413,7 @@ olmasında fayda var. Kontrolümüzü kullandığımız bir web sayfasının HTM
 kodu aşağıdaki şekilde sonuçlanıyor.
 
 ![SayacDugme Extender kontrolümüz iş
-başında.](http://cdn.daron.yondem.com/assets/1769/31082007_3.png)\
+başında.](media/AJAX_Control_Toolkit_Extender_Kontrolleri_Yaratmak/31082007_3.png)\
 *SayacDugme Extender kontrolümüz iş başında.*
 
 <span style="background:yellow; ">\<%</span><span
@@ -538,6 +538,6 @@ style="color:#A31515; ">html</span><span style="color:blue; ">\></span>\
 Hepinize kolay gelsin.
 
 [Sayaç Düğme Extender kontrolü projesine ait kodlar - 31082007\_1.zip
-(521,41 KB)](http://cdn.daron.yondem.com/assets/1769/31082007_1.zip)
+(521,41 KB)](media/AJAX_Control_Toolkit_Extender_Kontrolleri_Yaratmak/31082007_1.zip)
 
 

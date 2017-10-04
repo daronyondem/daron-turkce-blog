@@ -20,7 +20,7 @@ gördüm. Tasarım çalışmalarını da tamamladıktan sonra uygun bir şekilde
 kravat üretimine geçtik :) (Dalga geçmiyorum).
 
 ![Dünyada Tek : Silverlight
-Kravat](http://cdn.daron.yondem.com/assets/2068/26052008_1.jpg)\
+Kravat](media/Silverlight_Kravati/26052008_1.jpg)\
 *Dünyada Tek : Silverlight Kravat*
 
 Kravatı bugüne kadar birkaç aktivitede kullandım ve deneme sürüşleri

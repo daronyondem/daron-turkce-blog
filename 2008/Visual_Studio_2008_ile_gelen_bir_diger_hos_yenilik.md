@@ -20,7 +20,7 @@ sağladığımızda artık söz konusu String değişkeni bizim yazdığımız
 değerle devam edecektir.
 
 ![Debug modunda nesnelerin özellikleri
-değiştirilebiliyor.](http://cdn.daron.yondem.com/assets/1915/11012008_1.png)\
+değiştirilebiliyor.](media/Visual_Studio_2008_ile_gelen_bir_diger_hos_yenilik/11012008_1.png)\
 *Debug modunda nesnelerin özellikleri değiştirilebiliyor.*
 
 

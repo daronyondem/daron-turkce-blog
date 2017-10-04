@@ -25,7 +25,7 @@ sistemin size sağladığı IFRAME kodunu kopyalamanız yeterli fakat
 LiveWriter kullanıyorsanız çok daha kolayı var.
 
 ![Silverlight Streaming Servis'leri ve LiveWriter
-Entegrasyonu](http://cdn.daron.yondem.com/assets/1908/04012008_1.png)\
+Entegrasyonu](media/Windows_Live_Writer_ve_Silverlight_Streaming_Services_Entegrasyonu/04012008_1.png)\
 *Silverlight Streaming Servis'leri ve LiveWriter Entegrasyonu*
 
 <http://gallery.live.com/liveitemdetail.aspx?li=9f952b71-9883-4937-9f28-1e58002bb2ce&pl=8&bt=9>

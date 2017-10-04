@@ -45,7 +45,7 @@ kullanmak için izinlerimiz! Aynı sayfanın alt kısmında ise aşağıdaki
 ekran görüntüsünü göreceksiniz.
 
 ![Uygun bir seçeneği seçip geçiyoruz
-:)](http://cdn.daron.yondem.com/assets/2737/facebook.gif)\
+:)](media/CS_VB_Facebook_a_post_atmak/facebook.gif)\
 *Uygun bir seçeneği seçip geçiyoruz :)*
 
 Daha önce de dediğim gibi bizim Facebook uygulamamız facebook üzerinde

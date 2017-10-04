@@ -10,7 +10,7 @@ Tags: Silverlight 3.0, Silverlight 4
 old.EntryID: 45624dfb-764a-447f-b48c-dd065018e378
 ---
 ![MS Days
-Bulgaria](http://cdn.daron.yondem.com/assets/2488/05022010_1.jpg)Herkese
+Bulgaria](media/Mart_sonunda_Bulgaristan_dayim/05022010_1.jpg)Herkese
 selamlar! :) Neden bilmiyorum ama selam vererek yazıya başlayasım geldi.
 Geçenlerde Bulgaristan'da bir üniversiteden mail almıştım ve "Ne kadar
 Türk var orada?" diye sorduğumda aldığım cevap beni epey şaşırtmıştı.

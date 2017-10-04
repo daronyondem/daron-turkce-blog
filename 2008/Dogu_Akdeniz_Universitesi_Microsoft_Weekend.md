@@ -16,7 +16,7 @@ Geçen hafta sonu **KKTC, Doğu Akdeniz Üniversitesi**'nde süper bir
 aktivite olmuş.
 
 ![Microsoft Weekend
-Afişi](http://cdn.daron.yondem.com/assets/2033/22042008_1.jpg)\
+Afişi](media/Dogu_Akdeniz_Universitesi_Microsoft_Weekend/22042008_1.jpg)\
 *Microsoft Weekend Afişi (Tasarım: Ercan Altuğ Yılmaz)*
 
 Aktivite boyunca katılımcılara her seminerde bir Vista Ultimate, bir
@@ -29,7 +29,7 @@ ediyorum. Özellikle laboratuar kısımlarında bilgisayar başında
 uygulamalarla çok şey değiştirdiğimizi tahmin ediyorum.
 
 ![Microsoft Weekend
-Sonu](http://cdn.daron.yondem.com/assets/2033/22042008_2.jpg)\
+Sonu](media/Dogu_Akdeniz_Universitesi_Microsoft_Weekend/22042008_2.jpg)\
 *Microsoft Weekend Sonu*
 
 Aktivitenin organizasyonunda özellikle emeklerinden dolayı tüm DAÜ ACM
@@ -45,6 +45,6 @@ Seminerlerde yaptığım örneklere ait tüm dosyaları aşağıdaki adresten
 indirebilirsiniz.
 
 [Microsoft Weekend Uygulamaları Kaynak Kodları - 22042008\_3.rar (207,36
-KB)](http://cdn.daron.yondem.com/assets/2033/22042008_3.rar)
+KB)](media/Dogu_Akdeniz_Universitesi_Microsoft_Weekend/22042008_3.rar)
 
 

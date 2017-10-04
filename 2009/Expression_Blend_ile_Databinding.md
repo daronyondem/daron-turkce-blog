@@ -205,7 +205,7 @@ bulabilirsiniz. Data tabında "Add Live Data Source" komutunu verdikten
 sonra "Define New Object Data Source" diyebilirsiniz.
 
 ![Expression Blend içerisinde Data Source'umuzu
-tanımlıyoruz.](http://cdn.daron.yondem.com/assets/2400/03092009_1.png)\
+tanımlıyoruz.](media/Expression_Blend_ile_Databinding/03092009_1.png)\
 *Expression Blend içerisinde Data Source'umuzu tanımlıyoruz.*
 
 Karşınızda çıkacak ekranda AllData adındaki sınıfımızı seçmeniz yeni
@@ -213,7 +213,7 @@ DataSource'u yaratmanız için yeterli olacaktır. Artık sıra geldi bu
 DataSource içerisinde hangi Property'yi nasıl kullanacağınıza.
 
 ![Nesnelerimiz Expression Blend tarafından
-algılandı.](http://cdn.daron.yondem.com/assets/2400/03092009_2.png)\
+algılandı.](media/Expression_Blend_ile_Databinding/03092009_2.png)\
 *Nesnelerimiz Expression Blend tarafından algılandı.*
 
 Artık Data tabındaki veri kaynağı ile ilgili tüm detayları görebiliriz.
@@ -224,7 +224,7 @@ görüntüsünde **List Mode** gözüküyor. Bu durumda
 bir ListBox yaratılacak ve veri ListBox'a bağlanacaktır.
 
 ![Sürükle, bırak! Ve karşında
-ListBox!](http://cdn.daron.yondem.com/assets/2400/03092009_3.jpg)\
+ListBox!](media/Expression_Blend_ile_Databinding/03092009_3.jpg)\
 *Sürükle, bırak! Ve karşında ListBox!*
 
 Artık bu ListBox'ın ItemTemplate'inin vs tasarımını değiştirmek tabi ki
@@ -236,7 +236,7 @@ onun üzerine sürükleyip bırakarak da Data Binding işlemi rahatlıkla
 yapılabilirdi.
 
 ![Details Mode
-karşınızda.](http://cdn.daron.yondem.com/assets/2400/03092009_4.png)\
+karşınızda.](media/Expression_Blend_ile_Databinding/03092009_4.png)\
 *Details Mode karşınızda.*
 
 List Mode'un yanı sıra Blend içerisinde kullanabileceğimiz bir diğer
@@ -249,7 +249,7 @@ yaratılmasını Blend'e de bırakabilirsiniz. Örneğin gelin hem Adi hem de
 Soyadi Property'lerini seçerek sahneye sürükleyip bırakalım.
 
 ![Details Mode ile otomatik detay görünümü
-yaratabilirsiniz.](http://cdn.daron.yondem.com/assets/2400/03092009_5.jpg)\
+yaratabilirsiniz.](media/Expression_Blend_ile_Databinding/03092009_5.jpg)\
 *Details Mode ile otomatik detay görünümü yaratabilirsiniz.*
 
 Gördüğünüz gibi sürükle bırak sonrasında otomatik olarak bir Grid

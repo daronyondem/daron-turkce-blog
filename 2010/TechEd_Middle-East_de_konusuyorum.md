@@ -19,7 +19,7 @@ gerçekleşiyor. Dubai'da 1-3 Mart arasında gerçekleşecek olan TechEd ME
 2010'da benim de iki oturumum var!
 
 [![TechEd ME'ye indirimli kayıt
-ol!](http://cdn.daron.yondem.com/assets/2489/09022010_1.jpg)](http://www.teched.ae)\
+ol!](media/TechEd_Middle-East_de_konusuyorum/09022010_1.jpg)](http://www.teched.ae)\
 *TechEd ME'ye indirimli kayıt ol!*
 
 TechEd'in birinci günündeki oturumumun başlığı "**New in C\# and Visual

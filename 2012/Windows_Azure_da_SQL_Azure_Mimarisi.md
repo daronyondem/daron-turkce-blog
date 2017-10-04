@@ -15,7 +15,7 @@ SQL Azure'un iç mimarisine bir bakış atıp nasıl bir çalışma yapısı
 olduğunu inceleyelim. Son olarak da ufak bir ipucu ile günü bitirelim ;)
 
 ![Farklı
-yaklaşımlar...](http://cdn.daron.yondem.com/assets/2772/sqltopoloji.png)
+yaklaşımlar...](media/Windows_Azure_da_SQL_Azure_Mimarisi/sqltopoloji.png)
 *Farklı yaklaşımlar...*
 
 SQL Azure'un kullanımı noktasında genel olarak üç farklı senaryo
@@ -60,7 +60,7 @@ Group'lar yaratmalı ve servislerinizi tanımlarken söz konusu Affinity
 Group'ların içerisine koymalısınız.
 
 ![Affinity Group
-tanımlamak.](http://cdn.daron.yondem.com/assets/2772/sqltopoloji2.png)
+tanımlamak.](media/Windows_Azure_da_SQL_Azure_Mimarisi/sqltopoloji2.png)
 *Affinity Group tanımlamak.*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz gibi normal bir hosted
@@ -74,7 +74,7 @@ provision edilecek sanal ve sonrasında da fiziksel sunucuları
 birbirlerine tabiri caiz ise yakın konumlardan seçecek :)
 
 ![Arka planda neler
-oluyor?](http://cdn.daron.yondem.com/assets/2772/sqltopoloji3.png)
+oluyor?](media/Windows_Azure_da_SQL_Azure_Mimarisi/sqltopoloji3.png)
 *Arka planda neler oluyor?*
 
 Arka planda neler olduğuna devam edecek olursak :) SQL Azure'da her
@@ -87,7 +87,7 @@ Primary'de herhangi bir sorun olursa replica'lardan biri hemen Primary
 oluyor ve paralelde de yeni bir replica daha yaratılıyor.
 
 ![Daha da derinlere
-doğru...](http://cdn.daron.yondem.com/assets/2772/sqltopoloji4.png)
+doğru...](media/Windows_Azure_da_SQL_Azure_Mimarisi/sqltopoloji4.png)
 *Daha da derinlere doğru...*
 
 Daha da derinlere dalacak olursak :) Genel mimari manzarada en önce tabi

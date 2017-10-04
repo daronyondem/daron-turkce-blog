@@ -18,7 +18,7 @@ laboratuar çalışmaları ve haftaya da 4 günlük POC çalışmaları yapacağ
 aynı ekiple.
 
 ![Azure Camp, Amman,
-Jordan](http://cdn.daron.yondem.com/assets/2544/30012011_1.jpg)\
+Jordan](media/Urdun_Azure_Kampindaki_slaytlarim_ve_orneklerden_bazilari/30012011_1.jpg)\
 *Azure Camp, Amman, Jordan*
 
 Tabi bu yazıyı Türkçe bloğuma yazmamın nedeni farklı :) Hazır bu
@@ -28,10 +28,10 @@ göz atmak isterler. Daha ticari olarak bölgemizde olmasa da Azure
 tarafında gelişmeler tabi ki devam ediyor.
 
 [Örnek Kodlar - 30012011\_3.rar (422,69
-KB)](http://cdn.daron.yondem.com/assets/2544/30012011_3.rar)
+KB)](media/Urdun_Azure_Kampindaki_slaytlarim_ve_orneklerden_bazilari/30012011_3.rar)
 
 [Sunumlar - 30012011\_2.rar (13
-MB)](http://cdn.daron.yondem.com/assets/2544/30012011_2.rar)
+MB)](media/Urdun_Azure_Kampindaki_slaytlarim_ve_orneklerden_bazilari/30012011_2.rar)
 
 Umarım işinize yarar, görüşmek üzere.
 

@@ -16,7 +16,7 @@ verilen ödüllerin en yükseğine ilk senemde sahip olmak beni çok mutlu
 etti! Her zamanki gibi bu mutluluğu sizlerle de paylaşmak istedim!
 
 ![Türkiye'den bir Gold RD!
-:)](http://cdn.daron.yondem.com/assets/2492/24022010_1.jpg)\
+:)](media/2009_Yili_Gold_RD_Odulum_ve_Turkiye_den_yeni_bir_RD/24022010_1.jpg)\
 *Türkiye'den bir Gold RD! :)*
 
 Bu vesile ile bir haberim daha var. Hatırlarsanız 2010-2011 yılları için

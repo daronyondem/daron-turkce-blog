@@ -20,7 +20,7 @@ nedeniyle fotoğraf çekilmesi yasaktı. O nedenle sizinle ancak bir gece
 yakaladığım Doha manzarasını paylaşabileceğim.
 
 ![Qatar, Doha Gece
-Manzarası](http://cdn.daron.yondem.com/assets/2104/25062008_1.jpg)\
+Manzarası](media/Microsoft_Qatar_Silverlight_2_0_Egitimi/25062008_1.jpg)\
 *Qatar, Doha Gece Manzarası*
 
 İlk defa bu kadar sıcak bir ülkeye seyahatim oldu, gerçekten dayanılır

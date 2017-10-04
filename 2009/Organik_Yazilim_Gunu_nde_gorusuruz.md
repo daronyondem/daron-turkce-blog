@@ -15,7 +15,7 @@ paylaşmanın zamanı geldi. Bu sefer çok daha farklı bir etkinlik beraber
 olacağız.
 
 ![Açık kaynak destekçisi herkesi
-bekliyoruz!](http://cdn.daron.yondem.com/assets/2372/16062009_1.jpg)
+bekliyoruz!](media/Organik_Yazilim_Gunu_nde_gorusuruz/16062009_1.jpg)
 
 Gördüğünüz üzere bu sefer oturumlarımız yarım saatlik ve
 konuşmacılarımız da sizin aranızdan kişiler. Eğer siz de benim gibi açık

@@ -16,7 +16,7 @@ yazılımcıların uzun süredir AJAX ile hazırladığımız ve AutoComplete
 adını verdiğimiz sistemin ta kendisi.
 
 ![IE 8.0 içerisinde Search Suggestions
-örneği.](http://cdn.daron.yondem.com/assets/2186/14092008_1.png)\
+örneği.](media/Internet_Explorer_8_0_icin_Search_Provider_ve_Search_Suggestions_sistemlerini_hazirlamak/14092008_1.png)\
 *IE 8.0 içerisinde Search Suggestions örneği.*
 
 Artık IE içerisinde arama için siz bir şeyler yazdıkça o an seçtiğiniz
@@ -256,7 +256,7 @@ arama sonucunun **Text** (metin), **Description** (Açıklama) ve **Url**
 var. Tarayıcı en fazla 10 adet sonuç gösterebiliyor.
 
 ![İlk Search Suggestion denememizin
-sonucu.](http://cdn.daron.yondem.com/assets/2186/14092008_2.png)\
+sonucu.](media/Internet_Explorer_8_0_icin_Search_Provider_ve_Search_Suggestions_sistemlerini_hazirlamak/14092008_2.png)\
 *İlk Search Suggestion denememizin sonucu.*
 
 Yukarıdaki ekran görüntüsünde de inceleyebileceğiniz üzere XML'den
@@ -360,7 +360,7 @@ Bu taglar title özelliklerindeki yazılarla beraber Search Suggestion
 içerisinde farklı bölümlemelerin oluşmasını sağlayacaktır.
 
 ![İki bölümlü Search
-Suggestion.](http://cdn.daron.yondem.com/assets/2186/14092008_3.png)\
+Suggestion.](media/Internet_Explorer_8_0_icin_Search_Provider_ve_Search_Suggestions_sistemlerini_hazirlamak/14092008_3.png)\
 *İki bölümlü Search Suggestion.*
 
 Son olarak gelelim bu sonuçların yanına ufak birer de görsel
@@ -450,7 +450,7 @@ farklı yok. **Source** özelliğine gösterilecek olan fotoğrafın adresini,
 olacaktır.
 
 ![Search Suggestion içerisinde fotoğraf
-gösterimi.](http://cdn.daron.yondem.com/assets/2186/14092008_4.png)\
+gösterimi.](media/Internet_Explorer_8_0_icin_Search_Provider_ve_Search_Suggestions_sistemlerini_hazirlamak/14092008_4.png)\
 *Search Suggestion içerisinde fotoğraf gösterimi.*
 
 Bizim örneğimizde resmin boyutları XML içerisinde tanımlı şekilde. Bu
@@ -700,7 +700,7 @@ bir metin seçip fare ile sağ tıkladığınızda Accelerator menüsünden
 Search Provider'ları görebilirsiniz.
 
 ![Her Search Provider aynı anda bir
-Accelerator!](http://cdn.daron.yondem.com/assets/2186/14092008_5.png)\
+Accelerator!](media/Internet_Explorer_8_0_icin_Search_Provider_ve_Search_Suggestions_sistemlerini_hazirlamak/14092008_5.png)\
 *Her Search Provider aynı anda bir Accelerator!*
 
 Bu otomatik Accelerator yapısının oluşması için ek bir işlem yapmak

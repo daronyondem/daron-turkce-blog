@@ -15,7 +15,7 @@ INETA NEXT etkinliklerimizle ilgili duyuruyu bundan yaklaşık bir hafta
 yapılmamış ürünlere dair oturumlar olacaktı :) Eh artık zamanı geldi ve
 içeriğimizi paylaşmaktan gurur duyuyorum.
 
-![](http://cdn.daron.yondem.com/assets/2462/29112009_1.jpg)
+![](media/INETA_NEXT_Turu_Tam_Programi_Burada/29112009_1.jpg)
 
 <span style="font-weight: bold">Diyarbakır - Dicle Üniversitesi, Tıp
 Fakültesi Konferans Salonu\

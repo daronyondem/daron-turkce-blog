@@ -21,7 +21,7 @@ güzel bir deneme oldu ve gerekli bilgileri topladık ;) Artık bu noktadan
 sonra bir sonraki Fazla Mesai'yi kaçırmayın diyebilirim :)
 
 ![INETA Fazla Mesai, Mayıs
-2010](http://cdn.daron.yondem.com/assets/2521/07052010_1.png)\
+2010](media/INETA_Fazla_Mesai_den_Suhail_Dutta_gecti/07052010_1.png)\
 *INETA Fazla Mesai, Mayıs 2010*
 
 Biliyorsunuz bu etkinliğimizde yurt dışından Visual Studio ürün

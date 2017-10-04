@@ -18,7 +18,7 @@ bir ortam oluştuğunu söyleyemem fakat her iki dünyaya da güzel bir giriş
 yaptığımızı düşünüyorum.
 
 ![Microsoft Yaz Okulu,
-İstanbul](http://cdn.daron.yondem.com/assets/2145/05082008_1.jpg)\
+İstanbul](media/Microsoft_Yaz_Okulu_Istanbul/05082008_1.jpg)\
 *Microsoft Yaz Okulu, İstanbul*
 
 Herkese tavsiye ettiğim üzere yaz okulundaki kardeşlerime de tavsiyem

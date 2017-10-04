@@ -17,7 +17,7 @@ gerçekleşti ve şenlik ilk başta Azure Web Sites'ın release olması ile
 başladı.
 
 ![Azure Web Sites Release
-oldu!](http://cdn.daron.yondem.com/assets/2850/azure_web.jpg)\
+oldu!](media/Build_2013_Gun_2_Ozeti/azure_web.jpg)\
 *Azure Web Sites Release oldu!*
 
 Uzun süredir beklediğimiz bir haberdi bu ve sonunda Azure'un PAAS
@@ -27,7 +27,7 @@ için de geçerli. Web Sites duyurusunun heyecanı tam yatışırken bir domba
 duyuru daha geldi. Azure Mobile Services da release oldu!
 
 ![Azure Mobile Services Release
-oldu!](http://cdn.daron.yondem.com/assets/2850/azure_mobile.jpg)\
+oldu!](media/Build_2013_Gun_2_Ozeti/azure_mobile.jpg)\
 *Azure Mobile Services Release oldu!*
 
 Mobile Services'ın da Release olması en az Web Sites kadar önemli. Son
@@ -50,7 +50,7 @@ için Preview olarak duyurulan Azure Scaling CPU ve Storage Queue Item
 sayılarına göre max-min limitler de alarak scaling yapabiliyor.
 
 ![Azure Scale Preview
-yayında.](http://cdn.daron.yondem.com/assets/2850/azure_scale.jpg)\
+yayında.](media/Build_2013_Gun_2_Ozeti/azure_scale.jpg)\
 *Azure Scale Preview yayında.*
 
 Scaler'ın Preview olması şu an için çok kritik değil çünkü önemli olan

@@ -19,7 +19,7 @@ bilgisayarınıza kurmak. SDK bizim LiveID entegrasyonunu çocuk oyuncağına
 sürüm Windows Phone 7.5, 7.8 ve 8.0'ı destekliyor.
 
 ![LiveSDK'den referansları projeye
-ekliyoruz.](http://cdn.daron.yondem.com/assets/2890/wp_liveid_1.png)
+ekliyoruz.](media/Windows_Phone_LiveID_Authentication/wp_liveid_1.png)
 *LiveSDK'den referansları projeye ekliyoruz.*
 
 SDK'yi yükledikten sonra yeni bir Windows Phone projesi yarattıktan
@@ -109,7 +109,7 @@ veya basit bir şekilde sizin developer LiveID'niz olabilir. Login
 olduktan sonra "Create Application" diyerek devam edebilirsiniz.
 
 ![LiveID Erişimi için uygulamamızı
-tanımlıyoruz.](http://cdn.daron.yondem.com/assets/2890/wp_liveid_2.png)
+tanımlıyoruz.](media/Windows_Phone_LiveID_Authentication/wp_liveid_2.png)
 *LiveID Erişimi için uygulamamızı tanımlıyoruz.*p\>
 
 Bir sonraki ekran aynen yukarıdaki gibi uygulama bilgilerinizi
@@ -121,7 +121,7 @@ linklerini de verebilirsiniz. Bunların hepsi LiveLogin ekranında
 gösterilir.
 
 ![Mobile uyumluluğunu aktif hale
-getirelim.](http://cdn.daron.yondem.com/assets/2890/wp_liveid_3.png)
+getirelim.](media/Windows_Phone_LiveID_Authentication/wp_liveid_3.png)
 *Mobile uyumluluğunu aktif hale getirelim.*
 
 Uygulamayı tanımladıktan sonra yapmamız gereken son bir ayar da "API
@@ -173,7 +173,7 @@ Session geliyor. Bu session'ı kullanarak ek bilgiler alabiliyoruz. Bizim
 örneğimizde "Me" üzerinden giderek kişinin profil bilgilerini istiyoruz.
 
 ![LiveID'den gelen basit profil
-bilgileri.](http://cdn.daron.yondem.com/assets/2890/wp_liveid_4.png)
+bilgileri.](media/Windows_Phone_LiveID_Authentication/wp_liveid_4.png)
 *LiveID'den gelen basit profil bilgileri.*
 
 Bu noktada kişi bilgilerini almanın yanı sıra bu LiveID credential'ını

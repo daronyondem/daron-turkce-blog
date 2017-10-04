@@ -14,7 +14,7 @@ bitti! Dün akşam serideki son webiner olan "**Windows Azure’a Migration
 Senaryoları** " oturumunu da tamamladık.
 
 ![Silverlight Geliştiricileri için Windows Phone 7.5'e Giriş
-Webineri](http://cdn.daron.yondem.com/assets/2735/azure_migration.jpg)\
+Webineri](media/Windows_Azure_Migration_Senaryolari/azure_migration.jpg)\
 Webiner kaydını indirmek için
 [SeminerTV'ye](http://daron.yondem.com/tr/seminertv/) uğrayın!
 

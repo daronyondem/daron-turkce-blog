@@ -16,7 +16,7 @@ ayağı olan **Yalova Üniversitesi** etkinliğimiz her zamanki gibi benim
 için süper eğlenceli geçti.
 
 ![Yalova Üniversitesi, HTML5
-Oturumum](http://cdn.daron.yondem.com/assets/2748/yalova_uni.jpg)\
+Oturumum](media/Yalova_Universitesi_HTML5_Oturumum/yalova_uni.jpg)\
 *Yalova Üniversitesi, HTML5 Oturumum*
 
 Etkinlikte **Windows 8, HTML5 ve ASP.NET 4.5** gibi konulara değindik.
@@ -28,6 +28,6 @@ Etkinlikteki örneklerimizi de aşağıdaki linkten indirebilirsiniz.
 Kendinize çok iyi bakın!
 
 [Örnek Kodlar - HTML5.rar (12.59
-MB)](http://cdn.daron.yondem.com/assets/2748/HTML5.rar)
+MB)](media/Yalova_Universitesi_HTML5_Oturumum/HTML5.rar)
 
 

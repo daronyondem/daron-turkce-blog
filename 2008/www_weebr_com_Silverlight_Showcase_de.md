@@ -22,7 +22,7 @@ nidasıyla!)* Söz konusu site anında Silverlight resmi sitesinde Showcase
 bölümünde de Türkiye bayrağı altında yerini aldı.
 
 ![www.weebr.com Silverlight
-Showcase'de.](http://cdn.daron.yondem.com/assets/1947/05022008_1.jpg)\
+Showcase'de.](media/www_weebr_com_Silverlight_Showcase_de/05022008_1.jpg)\
 *www.weebr.com Silverlight Showcase'de.*
 
 Son olarak tekrar dikkatinizi çekmek istiyorum :) bahsettiğimiz web

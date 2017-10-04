@@ -37,7 +37,7 @@ bilgisayarınıza indirebilirsiniz.
 <http://www.microsoft.com/downloads/details.aspx?FamilyID=56E5B1C5-BF17-42E0-A410-371A838E570A&displaylang=en>
 
 ![SQL Server Database Publish Wizard ile SQL Script
-yaratıyoruz.](http://cdn.daron.yondem.com/assets/1814/16102007_1.png)\
+yaratıyoruz.](media/SQL_Server_Database_Publishing_Wizard/16102007_1.png)\
  *SQL Server Database Publish Wizard ile SQL Script yaratıyoruz.*
 
 Database Publishing Wizard'ı bilgisayarınız Start/Başlat menüsünden
@@ -48,7 +48,7 @@ provider" komutu ile karşılaşacaksınız, söz konusu komut Database
 Publishing Wizard'ın açılmasını sağlayacaktır.
 
 ![Visual Studio 2005 ve Database Publishing
-Wizard](http://cdn.daron.yondem.com/assets/1814/16102007_2.png)\
+Wizard](media/SQL_Server_Database_Publishing_Wizard/16102007_2.png)\
  *Visual Studio 2005 ve Database Publishing Wizard*
 
 Database Publishing Wizard Visual Studio 2008 ile beraber entegre olarak

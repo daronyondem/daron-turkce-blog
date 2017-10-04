@@ -18,7 +18,7 @@ kaynatma konusunda kışkırtsalar da azimle iradeli bir şekilde görevimi
 sürdürdüm :)
 
 ![İzmir Microsoft Yaz Okulu, Öğle
-Yemeği](http://cdn.daron.yondem.com/assets/2159/19082008_2.jpg)\
+Yemeği](media/Izmir_Microsoft_Yaz_Okulu/19082008_2.jpg)\
 *İzmir Microsoft Yaz Okulu, Öğle Yemeği*
 
 Söz verdiğim gibi iki gün boyunca yaptığımız örnekleri kaynak kodları
@@ -26,7 +26,7 @@ ile beraber sizlerle paylaşıyorum, aşağıdan tüm projeleri
 indirebilirsiniz.  
 
 [Örnek Uygulamalar - 19082008\_1.rar (3,55
-MB)](http://cdn.daron.yondem.com/assets/2159/19082008_1.rar)
+MB)](media/Izmir_Microsoft_Yaz_Okulu/19082008_1.rar)
 
 İstanbul, Ankara ve İzmir'den tüm yaz okulundaki öğrencilerime son
 olarak teşekkür etmek istiyorum. Hepsi de eminim ki önümüzdeki dönemde

@@ -19,7 +19,7 @@ projeksiyon sistemlerinin bulunması dinleyici için çok ergonomik bir
 ortam sağlıyor.
 
 ![Edirne'ye gidip Selimiye Cami fotoğrafı çekmemek olmaz
-:)](http://cdn.daron.yondem.com/assets/2076/03062008_2.jpg)\
+:)](media/Edirne_M_P_Anadolu_Ticaret_Meslek_ve_Ticaret_Meslek_Lisesi_Seminerleri/03062008_2.jpg)\
 *Edirne'ye gidip Selimiye Cami fotoğrafı çekmemek olmaz :)*
 
 Sabah 09.00 gibi seminerlere başladığımız için bir gün önceden Edirne'ye
@@ -30,7 +30,7 @@ otobüsle iki buçuk saat gibi kısa bir sürede gidilebilen Edirne'yi
 gibime geldi. Rahatlıkla günübirlik gidip gezilebilecek bir şehir.
 
 ![Selimiye Kubbesi İç
-Motifler](http://cdn.daron.yondem.com/assets/2076/03062008_3.jpg)\
+Motifler](media/Edirne_M_P_Anadolu_Ticaret_Meslek_ve_Ticaret_Meslek_Lisesi_Seminerleri/03062008_3.jpg)\
 *Selimiye Kubbesi İç Motifler*
 
 09.00'da başladıktan sonra öğleden sonra 18.00'a kadar **WPF,
@@ -42,7 +42,7 @@ gördüm.
 
 ![Edirne, MP (Anadolu) Ticaret Meslek Lisesi, WPF, Silverlight, AJAX,
 LINQ
-Seminerleri](http://cdn.daron.yondem.com/assets/2076/03062008_1.jpg)\
+Seminerleri](media/Edirne_M_P_Anadolu_Ticaret_Meslek_ve_Ticaret_Meslek_Lisesi_Seminerleri/03062008_1.jpg)\
 *Edirne, MP (Anadolu) Ticaret Meslek Lisesi, WPF, Silverlight, AJAX,
 LINQ Seminerleri*
 

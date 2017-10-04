@@ -15,7 +15,7 @@ hızlıca göz atmıştık. Bu yazımızda ise FluidMoveBehavior'ı bir başka
 senaryoda kullanarak biraz daha efsaneleştireceğiz :) Eğer bir önceki
 yazıyı okuduysanız screenshot'larda birşey dikkatinizi çekmiş olabilir.
 
-![O da nesi?](http://cdn.daron.yondem.com/assets/2535/04092010_1.png)\
+![O da nesi?](media/FluidMoveBehavior_ve_FluidMoveSetTagBehavior_ile_efsanevi_hareketler/04092010_1.png)\
 *O da nesi?*
 
 Yukarıdaki ekran görüntüsünde de inceleyebileceğiniz üzere
@@ -173,7 +173,7 @@ gösteren ItemTemplate'teki TextBlock arasında bir animasyon yapabilsek
 hoş olmaz mıydı? :)
 
 ![FluidMoveSetTagBehavior
-kullanıyoruz...](http://cdn.daron.yondem.com/assets/2535/04092010_3.png)\
+kullanıyoruz...](media/FluidMoveBehavior_ve_FluidMoveSetTagBehavior_ile_efsanevi_hareketler/04092010_3.png)\
 *FluidMoveSetTagBehavior kullanıyoruz...*
 
 Yukarıdaki ekran görüntüsüne baktığınızda **FluidMoveSetTagBehavior**
@@ -200,7 +200,7 @@ set ediyoruz. Böylece artık **DataContext** yani **OrnekItem** üzerinden
 bağlantı kurulabilir şekilde başlangıç nesnemizi belirttik.
 
 ![FluidMoveBehavior da
-sahnede....](http://cdn.daron.yondem.com/assets/2535/04092010_4.png)\
+sahnede....](media/FluidMoveBehavior_ve_FluidMoveSetTagBehavior_ile_efsanevi_hareketler/04092010_4.png)\
 *FluidMoveBehavior da sahnede....*
 
 Geldik esas nesnemizi yani FluidMoveBehavior'ı ekleyeceğimiz yere.
@@ -221,6 +221,6 @@ Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)](http://go.microsoft
 Hepinize kolay gelsin ;)
 
 [Örnek Kaynak Kodu : 04092010\_6.rar (30,03
-KB)](http://cdn.daron.yondem.com/assets/2535/04092010_6.rar)
+KB)](media/FluidMoveBehavior_ve_FluidMoveSetTagBehavior_ile_efsanevi_hareketler/04092010_6.rar)
 
 

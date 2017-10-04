@@ -19,7 +19,7 @@ görülebilmesini sağlamaktır. **SWOT** kısaltması İngilizce **Strengths**
 oluşur. Türkçe şekliyle GZFT olarak da kullanıldığı nadiren de olsa
 görülebilir.
 
-![](http://cdn.daron.yondem.com/assets/1725/11042007_2.png)
+![](media/SWOT_Analizi_nedir_nasil_yapilir/11042007_2.png)
 
 Stanford Üniversitesi'nde **Albert S Humphrey** tarafında yürütülen
 araştırmalar sonucunda geliştirilen **SWOT** tekniği kişisel veya
@@ -64,7 +64,7 @@ Aşağıdaki link ile standart bir **SWOT** analizi şablonunu PDF olarak
 bilgisayarınıza indirebilirsiniz.
 
 [SWOT Analiz Şablonu - 11042007\_1.pdf (185.42
-KB)](http://cdn.daron.yondem.com/assets/1725/11042007_1.pdf)
+KB)](media/SWOT_Analizi_nedir_nasil_yapilir/11042007_1.pdf)
 
 Bir **SWOT** analizini sonunda kişi veya kurumun stratejisini belirleme
 aşamasında sorulması gereken dört soru vardır;

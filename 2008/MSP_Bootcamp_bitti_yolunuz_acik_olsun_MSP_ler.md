@@ -18,7 +18,7 @@ oturumda ben INETA tarafıyla ilgili bilgi verdikten sonra sevgili dostum
 Nasıl olunur?"* konusuna da değindik.
 
 ![MSP Bootcamp
-sonu.](http://cdn.daron.yondem.com/assets/2188/16092008_1.jpg)\
+sonu.](media/MSP_Bootcamp_bitti_yolunuz_acik_olsun_MSP_ler/16092008_1.jpg)\
 *MSP Bootcamp sonu.*
 
 Bu enerjinizi ve azminizi kaybetmeyin arkadaşlar. Daha çok işimiz var ;)

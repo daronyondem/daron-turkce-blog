@@ -28,6 +28,6 @@ indirebilirsiniz. Bu vesile ile bloğumu okuyan herkesin yeni yılını da
 kutluyorum.
 
 [E-Kart Kaynak Kodları - 31122008\_1.rar (1,83
-MB)](http://cdn.daron.yondem.com/assets/2293/31122008_1.rar)
+MB)](media/Herkese_yeni_yil_hediyesi_Silverlight_2_0_E-Kart/31122008_1.rar)
 
 

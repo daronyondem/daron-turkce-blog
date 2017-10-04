@@ -18,7 +18,7 @@ için sevgili **Davut Güneş** ve **Harun Uyan** kardeşlerime de çok
 teşekkürler.
 
 ![BÖTE Kurultayı,
-Ankara](http://cdn.daron.yondem.com/assets/2523/09052010_1.jpg)\
+Ankara](media/ODTU_BOTE_Kurultayi_oturumum/09052010_1.jpg)\
 *BÖTE Kurultayı, Ankara*
 
 Gün boyunca da çok keyifli bir gün geçirdim. BÖTE Kurultay organizasonu

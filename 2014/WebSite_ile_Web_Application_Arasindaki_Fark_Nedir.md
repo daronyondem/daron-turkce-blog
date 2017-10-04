@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET, ASP.NET 2.0, ASP.NET 3.5, ASP.NET 4.0, ASP.NET 4.5, ASP.NET MVC 3, ASP.NET MVC 4, Visual Studio 11, Visual Studio 2005, Visual Studio 2008, Visual Studio 2010, Visual Studio 2013
 ---
 [![Mvc website ile application arasındaki fark nedir?
-](http://cdn.daron.yondem.com/assets/2901/soru1.gif)](https://twitter.com/gokhanaydin85/status/454555280895115264)
+](media/WebSite_ile_Web_Application_Arasindaki_Fark_Nedir/soru1.gif)](https://twitter.com/gokhanaydin85/status/454555280895115264)
 
 Geçenlerden twitter üzerinden gelen sorulardan biriydi bu malum :)
 Twitter'dan cevaplamak için uzun bir konu olmanın yanı sıra bloga

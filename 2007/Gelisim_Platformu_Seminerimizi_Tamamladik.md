@@ -45,6 +45,6 @@ kodları ve sunumu download olarak koyuyorum.\
 Bir sonraki aktivitede görüşmek üzere.
 
 [Sunum ve Örnek Kodları İndir - 31072007\_1.rar (610
-KB)](http://cdn.daron.yondem.com/assets/1751/31072007_1.rar)
+KB)](media/Gelisim_Platformu_Seminerimizi_Tamamladik/31072007_1.rar)
 
 

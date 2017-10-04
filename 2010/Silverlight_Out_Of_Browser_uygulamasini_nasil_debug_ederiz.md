@@ -25,7 +25,7 @@ Silverlight projenize sağ tıklayıp "Properties" komutunu verdiğinizde
 "Debug" tabında özel bir ayar bulabilirsiniz.
 
 ![Out Of Browser modunda debug
-seçeneği.](http://cdn.daron.yondem.com/assets/2530/20072010_1.jpg)\
+seçeneği.](media/Silverlight_Out_Of_Browser_uygulamasini_nasil_debug_ederiz/20072010_1.jpg)\
 *Out Of Browser modunda debug seçeneği.*
 
 Yukarıdaki ekran görüntüsünde de gördüğünüz üzere Debug ayarlarında eğer

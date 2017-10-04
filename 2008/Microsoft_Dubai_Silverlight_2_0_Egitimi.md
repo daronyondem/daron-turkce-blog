@@ -22,7 +22,7 @@ verme" deneyimleri arasında en ilginçlerinden birini yaşadım
 diyebilirim.
 
 ![Microsoft Dubai
-binası.](http://cdn.daron.yondem.com/assets/2105/27062008_1.jpg)\
+binası.](media/Microsoft_Dubai_Silverlight_2_0_Egitimi/27062008_1.jpg)\
 *Microsoft Dubai binası.*
 
 Bu sefer eğitim sonunda toplu fotoğraf çekildik fakat çeken arkadaş hala
@@ -44,7 +44,7 @@ hepinizi beklerim.
 Not:Toplu fotoğraf elime ulaştı ;)
 
 ![Microsoft Dubai Silverlight 2.0 Eğitimi
-Sonu](http://cdn.daron.yondem.com/assets/2105/27062008_2.jpg)\
+Sonu](media/Microsoft_Dubai_Silverlight_2_0_Egitimi/27062008_2.jpg)\
 *Microsoft Dubai Silverlight 2.0 Eğitimi Sonu*
 
 

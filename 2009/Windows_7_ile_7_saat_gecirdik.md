@@ -24,7 +24,7 @@ kaldık çünkü herkesin aynı anda yemek yiyebileceği kadar büyük bir alan
 bulma şansımız yoktu.
 
 ![Windows 7 ile 7
-saat!](http://cdn.daron.yondem.com/assets/2380/12072009_1.jpg)\
+saat!](media/Windows_7_ile_7_saat_gecirdik/12072009_1.jpg)\
 *Windows 7 ile 7 saat!*
 
 Etkinlikteki konular zaten beni heyecanlandıran konulardı, kişisel

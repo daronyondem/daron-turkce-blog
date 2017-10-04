@@ -19,7 +19,7 @@ aynı zaman ve alanda yapılıyor olması konferansta ilgnç bir kalabalığın
 yan yana gelmesini sağladı.
 
 ![İlk gün konferans açılışı modern bir gösteri eşliğinde
-yapıldı.](http://cdn.daron.yondem.com/assets/2717/DSC00207.jpg)\
+yapıldı.](media/TechEd_Africa_2011_Maceralari/DSC00207.jpg)\
 *İlk gün konferans açılışı modern bir gösteri eşliğinde yapıldı.*
 
 Bu gibi konferanslarda benim en ilgi ve heyecanla beklediğim kısım tabi
@@ -29,7 +29,7 @@ modern bir dans ve müzik gösterisi ile giriş yaptı. İtiraf etmem gerek
 ki bu kadar "Geek" kaynayan bir ortama böyle bir giriş beklemiyordum :)
 
 ![Açılış Konuşmasında Corporate VP Jason
-Zander](http://cdn.daron.yondem.com/assets/2717/DSC00215.jpg)\
+Zander](media/TechEd_Africa_2011_Maceralari/DSC00215.jpg)\
 *Açılış Konuşmasında Corporate VP Jason Zander*
 
 Konuşmanın ilerleyen adımlarında tabi ki teknik demolar ve en
@@ -40,7 +40,7 @@ Windows Server 8, Windows Phone 7.5, Windows Azure ürünlerinin her biri
 de ayrı ayrı demolarla açılış konuşmasında yerini aldı.
 
 ![Windows çalışan cihazların
-çeşitliliği...](http://cdn.daron.yondem.com/assets/2717/DSC00216.jpg)\
+çeşitliliği...](media/TechEd_Africa_2011_Maceralari/DSC00216.jpg)\
 *Windows çalışan cihazların çeşitliliği...*
 
 Windows'un çalıştığı farklı cihazların altı çizilirken bir yandan da bu
@@ -51,7 +51,7 @@ konuşması sonrasında katılımcılar 400'ün üzerinde oturumun bulunduğu
 listeden seçimlerini yapıp bir sonraki oturuma doğru ilerlediler.
 
 ![TechEd Africa 2011'deki Windows Azure
-oturumum.](http://cdn.daron.yondem.com/assets/2717/DSC00232.jpg)\
+oturumum.](media/TechEd_Africa_2011_Maceralari/DSC00232.jpg)\
 *TechEd Africa 2011'deki Windows Azure oturumum.*
 
 Şahsen ben açılış konuşması hariç konferansın çok tadını çıkaramadım.

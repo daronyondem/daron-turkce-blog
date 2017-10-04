@@ -65,7 +65,7 @@ gönderilecek olan 2. veya 4. paket farklı bitrate ile encode edilmiş
 farklı dosyalardan olabiliyor.
 
 ![Smooth Streaming
-mantığı.](http://cdn.daron.yondem.com/assets/2395/22082009_1.jpg)\
+mantığı.](media/Silverlight_ve_Smooth_Streaming/22082009_1.jpg)\
 *Smooth Streaming mantığı.*
 
 Yukarıdaki görselde de inceleyebileceğiniz üzere videonun sunucudan
@@ -91,7 +91,7 @@ hazırlamanın en kolay yolu Expression Encoder 3'ten geçiyor. Expression
 Endoer 3 varsayılan ayarları ile Smooth Streaming tanıyor.
 
 ![Expression Encoder 3 içerisinde Smooth Streaming
-ayarları.](http://cdn.daron.yondem.com/assets/2395/22082009_2.png)\
+ayarları.](media/Silverlight_ve_Smooth_Streaming/22082009_2.png)\
 *Expression Encoder 3 içerisinde Smooth Streaming ayarları.*
 
 Expression Encoder içerisine bir video ekledikten sonra video

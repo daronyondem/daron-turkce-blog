@@ -17,7 +17,7 @@ birçok şey duyuruldu. Gelin tek tek başlayalım neler çıkmış, neler olmu�
 bir bakalım.
 
 ![Build 2013, San Francisco, Moscone
-Center](http://cdn.daron.yondem.com/assets/2849/moscone_center.jpg)\
+Center](media/Build_2013_Gun_1_Ozeti/moscone_center.jpg)\
 *Build 2013, San Francisco, Moscone Center*
 
 ### Visual Studio 2012 Update 3
@@ -43,7 +43,7 @@ Metro UI ile yani yeni Start menü ile bu özellikler güzel bir şekilde
 birleştirilmiş gözüküyor.
 
 ![Windows 8.1 Beta
-Balığı](http://cdn.daron.yondem.com/assets/2849/win81_betafish.jpg)\
+Balığı](media/Build_2013_Gun_1_Ozeti/win81_betafish.jpg)\
 *Windows 8.1 Beta Balığı*
 
 Benim favori Windows 8.1 özelliğim **multi-monitor DPI scaling**.
@@ -77,7 +77,7 @@ gösterildi ve konferansa katılan herkese de birer adet hediye edileceği
 duyuruldu.
 
 ![8" Windows 8 Pro, Acer
-Iconia](http://cdn.daron.yondem.com/assets/2849/acer.jpg)\
+Iconia](media/Build_2013_Gun_1_Ozeti/acer.jpg)\
 *8" Windows 8 Pro, Acer Iconia*
 
 Cihaz gerçekten ilginç bir cihaz. 2G RAM, 64GB SSD ve 1.8GHz Atom
@@ -102,7 +102,7 @@ tooling bu. Azure Mobile Services tarafındaki entegrasyon ise Mobile
 Services kullanımını çocuk oyuncağına çevirmiş durumda.
 
 ![Visual Studio 2013'te Azure Mobile Services
-Entegrasyonu](http://cdn.daron.yondem.com/assets/2849/azure.jpg)\
+Entegrasyonu](media/Build_2013_Gun_1_Ozeti/azure.jpg)\
 *Visual Studio 2013'te Azure Mobile Services Entegrasyonu*
 
 Doğrudan Visual Studio içerisinde Mobile Services Endpointi yaratıp
@@ -111,7 +111,7 @@ Microsoft bu işleri mobile developerlar için kolaylaştırma konusuna
 kafayı takmış durumda. Sonucu gerçekten çok başarılı olmuş.
 
 ![Konferansın Expo/Fuar
-Alanı](http://cdn.daron.yondem.com/assets/2849/expo.jpg)\
+Alanı](media/Build_2013_Gun_1_Ozeti/expo.jpg)\
 *Konferansın Expo/Fuar Alanı*
 
 ### SurfacePro
@@ -138,40 +138,40 @@ hemen aşağıda ;)
 <div id="photos_Build_2013_Gun_1_Ozeti"
 style="width: 600px; display: block; margin-left: auto;  margin-right: auto;">
 
-[![](http://cdn.daron.yondem.com/assets/2849/9146877167_e1c5ffa424_o_1.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9146877167_e1c5ffa424_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9146877167_e1c5ffa424_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9146877555_2196675fbb_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9146877167_e1c5ffa424_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9146877555_2196675fbb_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9146877555_2196675fbb_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9146878493_eb5f792841_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9146877555_2196675fbb_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9146878493_eb5f792841_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9146878493_eb5f792841_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9146878735_6e11f1cbd3_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9146878493_eb5f792841_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9146878735_6e11f1cbd3_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9146878735_6e11f1cbd3_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9149106026_7dcb30a9f9_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9146878735_6e11f1cbd3_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9149106026_7dcb30a9f9_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9149106026_7dcb30a9f9_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9149106448_fa77803654_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9149106026_7dcb30a9f9_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9149106448_fa77803654_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9149106448_fa77803654_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9149106980_c6aa655b9b_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9149106448_fa77803654_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9149106980_c6aa655b9b_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9149106980_c6aa655b9b_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9149107454_47337b297c_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9149106980_c6aa655b9b_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9149107454_47337b297c_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9149107454_47337b297c_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9149107716_954ee31c22_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9149107454_47337b297c_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9149107716_954ee31c22_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9149107716_954ee31c22_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9149107790_59ab77d26e_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9149107716_954ee31c22_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9149107790_59ab77d26e_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9149107790_59ab77d26e_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9149107944_2fe2308441_o_1.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9149107790_59ab77d26e_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9149107944_2fe2308441_o_1.jpg)
 <span>
-</span>](http://cdn.daron.yondem.com/assets/2849/9149107944_2fe2308441_o.jpg)
-[![](http://cdn.daron.yondem.com/assets/2849/9149108194_a7c83fd69c_o_1.jpg)](http://cdn.daron.yondem.com/assets/2849/9149108194_a7c83fd69c_o.jpg)
+</span>](media/Build_2013_Gun_1_Ozeti/9149107944_2fe2308441_o.jpg)
+[![](media/Build_2013_Gun_1_Ozeti/9149108194_a7c83fd69c_o_1.jpg)](media/Build_2013_Gun_1_Ozeti/9149108194_a7c83fd69c_o.jpg)
 
 </div>
 

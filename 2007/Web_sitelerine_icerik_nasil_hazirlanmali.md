@@ -17,7 +17,7 @@ dalabilme adına çok güzel projelerimiz ve müşterilerimiz oluyor. Bu
 Eğitim Vakfı Eğitim Kurumları** web sitesi ile ilgili bugün mini bir
 eğitim düzenledik.
 
-![](http://cdn.daron.yondem.com/assets/1787/18092007_2.jpg)
+![](media/Web_sitelerine_icerik_nasil_hazirlanmali/18092007_2.jpg)
 
 Eğitimimizin amacı hazırlanmakta olan web sitesi için eğitim
 kurumlarının nasıl içerik hazırlamaları gerektiğini göstermekti. Malum
@@ -32,6 +32,6 @@ aslında sunum her içerik yönetim sistemi ile ilgili genelgeçer
 noktalardan oluşuyor.
 
 [Sunum Dosyası - 18092007\_1.pptx (4,45
-MB)](http://cdn.daron.yondem.com/assets/1787/18092007_1.pptx)
+MB)](media/Web_sitelerine_icerik_nasil_hazirlanmali/18092007_1.pptx)
 
 

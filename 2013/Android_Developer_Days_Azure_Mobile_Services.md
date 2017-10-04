@@ -16,7 +16,7 @@ Android bana çok uzak kaldı maalesef. Zaten etkinlikte de pek Android
 anlatmadım :) Olayımız "**Azure Mobile Services**"'dı.
 
 ![Android Developer Days,
-Ankara](http://cdn.daron.yondem.com/assets/2847/android.jpg)\
+Ankara](media/Android_Developer_Days_Azure_Mobile_Services/android.jpg)\
 *Android Developer Days, Ankara*
 
 Bildiğiniz üzere Mobile Services tarafında **iPhone, Android, Windows

@@ -16,7 +16,7 @@ tüm çözülememiş ve birikmiş sorular bana geldi. Eh artık elimden
 geldiğince, bildiğimce cevapladım.
 
 ![Microsoft Türkiye Yaz Okulu 2013,
-İstanbul](http://cdn.daron.yondem.com/assets/2854/yazokulu_2013.jpg)\
+İstanbul](media/Microsoft_Yaz_Okulu_2013/yazokulu_2013.jpg)\
 *Microsoft Türkiye Yaz Okulu 2013, İstanbul*
 
 Öğrencilerin heyecanına diyecek yok ama itiraf etmem gerek .... onları

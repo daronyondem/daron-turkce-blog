@@ -24,7 +24,7 @@ elindeki **ListBoxItem'ları** (ki **PathListBox** senaryosunda bunlar
 yerleştirebiliyor olması.
 
 ![PathListBox
-yollarında...](http://cdn.daron.yondem.com/assets/2536/05092010_1.png)\
+yollarında...](media/PathListBoxa_giris/05092010_1.png)\
 *PathListBox yollarında...*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere örnek
@@ -98,7 +98,7 @@ var aslında :) Eğer isterseniz PathListBoxItem'ların merkez noktaya göre
 yönlerini değiştirmelerini sağlayabilirsiniz. Tek yapmanız gereken
 **Orientation** özelliğini **OrientToPath** olarak değiştirmek.
 
-![OrientToPath](http://cdn.daron.yondem.com/assets/2536/05092010_3.png)\
+![OrientToPath](media/PathListBoxa_giris/05092010_3.png)\
 *OrientToPath*
 
 Böylece artık her bir Item Ellipse'e göre yönünü değiştirecek üzerine
@@ -149,6 +149,6 @@ tahmin ediyorum.
 Hepinize kolay gelsin!
 
 [Örnek Kaynak Kod : 05092010\_7.rar (44,48
-KB)](http://cdn.daron.yondem.com/assets/2536/05092010_7.rar)
+KB)](media/PathListBoxa_giris/05092010_7.rar)
 
 

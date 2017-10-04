@@ -16,7 +16,7 @@ aldım. Sevgili **Çağdaş Saygılı**'ya güzel soruları ve emeği için
 buradan teşekkür ediyorum.
 
 ![SanalKurs'un altıncı sayısı
-yayında.](http://cdn.daron.yondem.com/assets/2156/16082008_1.jpg)\
+yayında.](media/SanalKurs_altinci_sayisinda_yayinlanan_roportajim/16082008_1.jpg)\
 *SanalKurs'un altıncı sayısı yayında.*
 
 Dergiye aşağıdaki adresten ulaşabilirsiniz;

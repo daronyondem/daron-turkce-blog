@@ -48,7 +48,7 @@ var. Bu işlemi Expression Blend 2 içerisinde görsel arayüzden de
 yapabiliriz.
 
 ![MediaElement'imize isim
-veriyoruz.](http://cdn.daron.yondem.com/assets/1828/29102007_1.png)\
+veriyoruz.](media/Silverlight_ve_VideoBrush_Kullanimi/29102007_1.png)\
 *MediaElement'imize isim veriyoruz.*
 
 Verdiğimiz bu isim ileride bir **VideoBrush** tanımlarken çok işimize
@@ -60,7 +60,7 @@ yansımayı temsil edebilmesi için perspektifi ile oynamanın yanı sıra
 dikdörtgene bir de **OpacityMask** uygulayacağız.
 
 ![Dikdörtgenimize uyguladığımız perspektif ve yansıma
-efektleri.](http://cdn.daron.yondem.com/assets/1828/29102007_2.png)\
+efektleri.](media/Silverlight_ve_VideoBrush_Kullanimi/29102007_2.png)\
 *Dikdörtgenimize uyguladığımız perspektif ve yansıma efektleri.*
 
 Yukarıdaki ekran görüntülerinde de görebileceğiniz üzere ilk olarak
@@ -69,7 +69,7 @@ veriyoruz. Son olarak da sıra geldi bir **OpacityMask** uygulamaya.
 Böylece yansıma görünür durumdan başlayarak şeffaflığa doğru kaybolacak.
 
 ![OpacityMask ayarlarımızı
-yapıyoruz.](http://cdn.daron.yondem.com/assets/1828/29102007_3.png)\
+yapıyoruz.](media/Silverlight_ve_VideoBrush_Kullanimi/29102007_3.png)\
 *OpacityMask ayarlarımızı yapıyoruz.*
 
 Dikdörtgeni Expression Blend 2 içerisinde seçtikten sonra sağ sütundan
@@ -413,7 +413,7 @@ style="color: blue;">\></span>
 \
 
 ![VisualBrush ile yarattığımız video
-yansıması.](http://cdn.daron.yondem.com/assets/1828/29102007_4.jpg)\
+yansıması.](media/Silverlight_ve_VideoBrush_Kullanimi/29102007_4.jpg)\
 *VisualBrush ile yarattığımız video yansıması.*
 
 Bu yazımızda da *VideoBrush* tanımlamayı, nesnelere isim vermeyi,
@@ -475,7 +475,7 @@ Bu örnekte sayfaya yerleştirdiğimiz bir **TextBlock** nesnesinin
 içerisinde yazan yazıların içinde videomuz oynatılacak.
 
 ![Yazının içerisinde video
-yerleştiriyoruz.](http://cdn.daron.yondem.com/assets/1828/29102007_5.jpg)\
+yerleştiriyoruz.](media/Silverlight_ve_VideoBrush_Kullanimi/29102007_5.jpg)\
 *Yazının içerisinde video yerleştiriyoruz.*
 
 Tüm bu video işlemleri çok kolaylıkla sadece birkaç satır kod ile en

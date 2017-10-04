@@ -76,7 +76,7 @@ kararı alırsa... bu işlemi ancak partitionkey'e göre yapar. Peki bunun
 tam olarak anlamı nedir?
 
 ![Örnek bir
-partitioning.](http://cdn.daron.yondem.com/assets/2782/table.png)
+partitioning.](media/Azure_Storage_Table_Services_SDK2_5/table.png)
 *Örnek bir partitioning.*
 
 Yukarıdaki örneği bir inceleyelim isterseniz. Aslında yukarıdaki tek bir
@@ -93,7 +93,7 @@ olabilir fakat bu durumda ben partitionlamadan kazanacağım performans
 kazanamam.
 
 ![Bir başka örnek
-partitioning.](http://cdn.daron.yondem.com/assets/2782/table2.png)
+partitioning.](media/Azure_Storage_Table_Services_SDK2_5/table2.png)
 *Bir başka örnek partitioning.*
 
 Oysa yukarıdaki şekilde partitionKey'lerimde renk bilgileri olsaydı

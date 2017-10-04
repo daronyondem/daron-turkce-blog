@@ -80,7 +80,7 @@ uygulamamızın tam koduna bir göz atalım.
 
 ![WPF kodumuz içerisinde tanımladığımız tetikleyicilerimiz ile TextBox
 otomatik kırmızı
-oluyor.](http://cdn.daron.yondem.com/assets/1779/06092007_1.png)\
+oluyor.](media/WPF_Windows_Uygulamalarinda_Gorsel_Tetikleyiciler_Triggers/06092007_1.png)\
  *WPF kodumuz içerisinde tanımladığımız\
  tetikleyicilerimiz ile TextBox otomatik kırmızı oluyor.*
 
@@ -265,7 +265,7 @@ son halini aşağıda inceleyebilirsiniz.
 
 ![WPF uygulamamızda iki farklı koşulu kontrol ederek metin kutusunun fon
 rengini
-değiştiyoruz.](http://cdn.daron.yondem.com/assets/1779/06092007_2.png)\
+değiştiyoruz.](media/WPF_Windows_Uygulamalarinda_Gorsel_Tetikleyiciler_Triggers/06092007_2.png)\
  *WPF uygulamamızda iki farklı koşulu kontrol ederek\
  metin kutusunun fon rengini değiştiyoruz.*
 
@@ -396,6 +396,6 @@ dönüyor.
 Hepinize kolay gelsin.
 
 [Örneklere ait kaynak kodları - 06092007\_3.zip (141,21
-KB)](http://cdn.daron.yondem.com/assets/1779/06092007_3.zip)
+KB)](media/WPF_Windows_Uygulamalarinda_Gorsel_Tetikleyiciler_Triggers/06092007_3.zip)
 
 

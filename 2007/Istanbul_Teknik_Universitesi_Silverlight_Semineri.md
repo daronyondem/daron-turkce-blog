@@ -19,7 +19,7 @@ Herhalde o dakikadan sonra semineri 6 saate de uzatsam devam edebilirdik
 :)
 
 ![İstanbul Teknik Üniversitesi Silverlight
-Semineri](http://cdn.daron.yondem.com/assets/1883/12122007_1.jpg)\
+Semineri](media/Istanbul_Teknik_Universitesi_Silverlight_Semineri/12122007_1.jpg)\
 *İstanbul Teknik Üniversitesi Silverlight Semineri*
 
 Ben katılan herkese çok teşekkür ediyorum. 3 saatlik seminerler genelde

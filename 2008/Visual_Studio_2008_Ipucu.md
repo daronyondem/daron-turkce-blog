@@ -24,7 +24,7 @@ Visual Studio içerisinde "Tools / Options" menüsüne giderek "Text Editor
 karşılaşıyorsunuz.
 
 ![XAML dosyaları sadece kod görüntüsünde
-açılsın.](http://cdn.daron.yondem.com/assets/1954/10022008_1.png)\
+açılsın.](media/Visual_Studio_2008_Ipucu/10022008_1.png)\
 *XAML dosyaları sadece kod görüntüsünde açılsın.*
 
 Bu ayarı işaretledikten sonra XAML dosyalarını açtığınızda doğrudan kod

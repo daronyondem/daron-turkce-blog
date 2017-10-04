@@ -43,7 +43,7 @@ Böylece Outlook herhangi bir ek mesaj penceresi vs açmadan aslında
 kullanıcıyı rahatlıkla durumdan haberdar edebiliyor.
 
 ![Taskbar içerisinde Overlay İkon
-gösterimi.](http://cdn.daron.yondem.com/assets/2384/09082009_1.jpg)\
+gösterimi.](media/Windows_7_Taskbar_da_Overlay_Ikon_ve_Progress_Ozellikleri/09082009_1.jpg)\
 *Taskbar içerisinde Overlay İkon gösterimi.*
 
 Biz de uygulamalarımızda bu tür ikonlar göstererek kullanıcıları farklı
@@ -86,7 +86,7 @@ malum ikonunumuz ikincisi ise screen reader uygulamaları tarafından ikon
 gösterildiğinde okunacak olan metin.
 
 ![Uygulamamızın bir fikri var! Ampül
-yanıyor!](http://cdn.daron.yondem.com/assets/2384/09082009_2.jpg)\
+yanıyor!](media/Windows_7_Taskbar_da_Overlay_Ikon_ve_Progress_Ozellikleri/09082009_2.jpg)\
 *Uygulamamızın bir fikri var! Ampül yanıyor!*
 
 Yukarıdaki ekran görüntüsünde de inceleyebileceğiniz üzere istediğimiz
@@ -111,7 +111,7 @@ işlemi başlatırsanız Taskbar'da download işleminin ne kadarının bitmiş
 olduğunu gösteren bir progressBar göreceksiniz.
 
 ![Internet Explorer ile download
-yaparken...](http://cdn.daron.yondem.com/assets/2384/09082009_3.jpg)\
+yaparken...](media/Windows_7_Taskbar_da_Overlay_Ikon_ve_Progress_Ozellikleri/09082009_3.jpg)\
 *Internet Explorer ile download yaparken...*
 
 Ne kadar basit ve bir o kadar işlevsel değil mi? Yukarıda gördüğünüz
@@ -159,7 +159,7 @@ de süreç kullanıcı tarafından veya bir hata nedeniyle durmuştur? Bu
 durumda kullanıcıyı yine Taskbar üzerinden uyarabilir miyiz acaba?
 
 ![Taskbar Progress'de farklı State
-kullanımları.](http://cdn.daron.yondem.com/assets/2384/09082009_4.jpg)\
+kullanımları.](media/Windows_7_Taskbar_da_Overlay_Ikon_ve_Progress_Ozellikleri/09082009_4.jpg)\
 *Taskbar Progress'de farklı State kullanımları.*
 
 Taskbar'da Progress gösterirken Progress'in ayrıca nasıl gösterileceği
@@ -185,6 +185,6 @@ Bir sonraki makalemizde Taskbar özellikleri ile devam edeceğiz. Hepinize
 kolay gelsin.
 
 [Makaleye ait örnek kodlar : 09082009\_3.rar (1,05
-MB)](http://cdn.daron.yondem.com/assets/2384/09082009_3.rar)
+MB)](media/Windows_7_Taskbar_da_Overlay_Ikon_ve_Progress_Ozellikleri/09082009_3.rar)
 
 

@@ -19,7 +19,7 @@ anlayabiliyorum. Bu da tabi ki tüm konuşmacılar olarak bizleri de süper
 mutlu ediyor.
 
 ![Azure Camp Istanbul
-Etkinliği](http://cdn.daron.yondem.com/assets/2843/azurecamp.jpg)\
+Etkinliği](media/Azure_Bootcamp_Istanbul_gerceklesti/azurecamp.jpg)\
 *Azure Camp Istanbul Etkinliği*
 
 Azure kampının gerçekleşmesinde katkısı olan o kadar çok kişi var ki :)

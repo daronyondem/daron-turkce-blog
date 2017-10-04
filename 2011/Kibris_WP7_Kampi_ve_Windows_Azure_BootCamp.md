@@ -17,7 +17,7 @@ başladık ve benim iki saatlik sunumum sonrasında sabah 8'e kadar toplam
 zamanki gibi gece 00.00'da Pizza partimiz de oldu :)
 
 ![Doğu Akdeniz Üniversitesi, Windows Phone 7.5 Gece Kampı
-Sonunda](http://cdn.daron.yondem.com/assets/2740/wp7camp_cyprus.jpg)\
+Sonunda](media/Kibris_WP7_Kampi_ve_Windows_Azure_BootCamp/wp7camp_cyprus.jpg)\
 *Doğu Akdeniz Üniversitesi, Windows Phone 7.5 Gece Kampı Sonunda*
 
 Gece boyunca tüm "gece" etkinliklerinde olduğu gibi yine en yüksek

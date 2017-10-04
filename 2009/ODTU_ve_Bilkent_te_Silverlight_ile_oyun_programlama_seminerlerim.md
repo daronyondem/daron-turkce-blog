@@ -16,7 +16,7 @@ beraber üniversiteler arası kısa birer maraton ile oturumları
 değiştirerek bir günde iki üniversitede etkinlik yapmayı başardık.
 
 ![Ankara, ODTÜ, Silverlight ile Oyun Programlama
-Seminerim.](http://cdn.daron.yondem.com/assets/2331/01032009_1.JPG)\
+Seminerim.](media/ODTU_ve_Bilkent_te_Silverlight_ile_oyun_programlama_seminerlerim/01032009_1.JPG)\
 *Ankara, ODTÜ, Silverlight ile Oyun Programlama Seminerim.*
 
 Etkinlikteki katkılarından dolayı MSP'lerimiz [Ali Uğur

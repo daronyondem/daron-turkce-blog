@@ -164,7 +164,7 @@ pencereyle paylaşacağız. İlk olarak gelin **Window1'e** ait XAML koduna
 bakalım.
 
 ![Veri girişi yaptığımız WPF
-penceremiz.](http://cdn.daron.yondem.com/assets/1776/05092007_1.png)\
+penceremiz.](media/WPF_Windows_Uygulamalarinda_Pencereler_Arasi_Veri_Iletisimi/05092007_1.png)\
  *Veri girişi yapacağımız WPF penceresi.*\
 
 <span style="color:blue; ">\<</span><span
@@ -389,6 +389,6 @@ alabilirsiniz.
 Hepinize kolay gelsin.
 
 [Örnek Uygulama Kaynak Dosyaları - 05092007\_1.zip (417,09
-KB)](http://cdn.daron.yondem.com/assets/1776/05092007_1.zip)
+KB)](media/WPF_Windows_Uygulamalarinda_Pencereler_Arasi_Veri_Iletisimi/05092007_1.zip)
 
 

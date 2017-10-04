@@ -53,7 +53,7 @@ ayakta olan bir instance kesinlikle olacak. Azure içerisinde Upgrade
 Domain sayısının varsayılan değeri 5.
 
 ![UpgradeDomainCount csdef
-içerisinde.](http://cdn.daron.yondem.com/assets/2880/fault4.gif)\
+içerisinde.](media/Fault_ve_Update_Domain_SDK2_2/fault4.gif)\
 *UpgradeDomainCount csdef içerisinde.*
 
 UpgradeDomain sayısını isterseniz CSDEF içerisinde düzenleyebilirsiniz.
@@ -66,7 +66,7 @@ Diyelim ki UpgradeDomainCount sayısını ayarlamadınız ve varsayılan
 değeri olan 5 ile kaldı. Uygulamanızı ise 3 instance olacak şekilde
 ayarladınız. Karşınıza çıkabilecek seçeneklerden biri aşağıdaki şekilde;
 
-![Senaryo 1](http://cdn.daron.yondem.com/assets/2880/fault.gif)\
+![Senaryo 1](media/Fault_ve_Update_Domain_SDK2_2/fault.gif)\
 *Senaryo 1*
 
 Yukarıdaki manzara çok güzel gözüküyor. Herşey güzel bir şekilde
@@ -83,7 +83,7 @@ olduğunda 10 dakika için sadece 1 instance kaybediyor olmak çok problem
 olmasa da 3000 instance kullanırken 10 dakikalığına 1000 instance
 kaybetmek ciddi sorun olabilir.
 
-![Senaryo 2](http://cdn.daron.yondem.com/assets/2880/fault3.gif)\
+![Senaryo 2](media/Fault_ve_Update_Domain_SDK2_2/fault3.gif)\
 *Senaryo 2*
 
 Peki ya FC performans kazanmak amacıyla toplam 3 instance'ınızın ikisini
@@ -100,7 +100,7 @@ zaten upgrade süreci başlamıştıysa :) Çok ince bir ip üzerinde
 olduğumuzun farkındayım, milyonda bir ihtimallere doğru ilerliyoruz ama
 en azından bu detayları bilmekte fayda var diye düşünüyorum.
 
-![Senaryo 3](http://cdn.daron.yondem.com/assets/2880/fault2.gif)\
+![Senaryo 3](media/Fault_ve_Update_Domain_SDK2_2/fault2.gif)\
 *Senaryo 3*
 
 Şimdi gelin biraz daha farklı bir senaryoya gidelim :) Role'ümüz 9

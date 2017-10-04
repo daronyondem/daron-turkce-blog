@@ -19,7 +19,7 @@ Silverlight 2.0 ile beraber devam ediyor olacağız. Bu kapsamda aslında
 Türkiye'deki ilk Silverlight 2.0 eğitimini yapıyoruz :)
 
 ![INETA ve BilgeAdam işbirliğinde Silverlight 2.0
-Eğitimi](http://cdn.daron.yondem.com/assets/2046/04052008_1.jpg)\
+Eğitimi](media/Silverlight_Egitimi_2_Gun_Bitti/04052008_1.jpg)\
 *INETA ve BilgeAdam işbirliğinde Silverlight 2.0 Eğitimi*
 
 Tabi konu Silverlight 2.0 olunca ve arkada .NET olunca her zamanki gibi
@@ -31,7 +31,7 @@ Gün boyunca yaptığımız örneklere ait kaynak kodlarını aşağıdaki adres
 indirebilirsiniz. Sonuncusu çalışmıyor :) zamanımız yetmedi bitirmeye.
 
 [Eğitim Uygulamaları Proje Kodları - 04052008\_2.rar (2,6
-MB)](http://cdn.daron.yondem.com/assets/2046/04052008_2.rar)
+MB)](media/Silverlight_Egitimi_2_Gun_Bitti/04052008_2.rar)
 
 Katılan herkese çok teşekkürler.
 

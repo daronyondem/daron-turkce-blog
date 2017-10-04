@@ -22,7 +22,7 @@ Buradan özellikle sevgili dostum E. Altuğ Yılmaz'a Netron'da sınıf
 ayarlanabilmesi için yardımlarından dolayı teşekkür ediyorum.
 
 ![Silverlight Workshop serisi
-afişleri](http://cdn.daron.yondem.com/assets/1971/27022008_1.jpg)\
+afişleri](media/24_saat_ucretsiz_Silverlight_egitimi/27022008_1.jpg)\
 *Silverlight Workshop serisi afişleri*
 
 Unutmadan, bu daha önce sizlere duyurduğum Netron'daki MS Web Designer

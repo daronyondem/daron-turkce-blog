@@ -15,7 +15,7 @@ devam ediyor! Dün akşam serinin ikinci webineri olan "**Windows Phone
 teşekkürler.
 
 ![Silverlight Geliştiricileri için Windows Phone 7.5'e Giriş
-Webineri](http://cdn.daron.yondem.com/assets/2724/wp75_multitasking.jpg)\
+Webineri](media/Windows_Phone_75te_Multiasking/wp75_multitasking.jpg)\
 Webiner kaydını indirmek için
 [SeminerTV'ye](http://daron.yondem.com/tr/seminertv/) uğrayın!
 

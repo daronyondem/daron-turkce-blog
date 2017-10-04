@@ -36,7 +36,7 @@ Framework 2.0'ı seçtiğinizde aşağıdaki şekilde proje şablonları arasın
 
 ![AJAX Extensions 1.0 destekli ASP.NET 2.0 proje şablonu Visual Studio
 2008
-içerisinde.](http://cdn.daron.yondem.com/assets/1892/20122007_1.png)\
+içerisinde.](media/Visual_Studio_2008_ve_ASP_NET_2_0_AJAX_Extensions_1_kullanimi/20122007_1.png)\
 *AJAX Extensions 1.0 destekli ASP.NET 2.0 proje şablonu Visual Studio
 2008 içerisinde.*
 

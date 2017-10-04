@@ -32,7 +32,7 @@ kısayollarınızı bu şekilde düzenleyiz ister Blend.bat dosyasını
 kullanın, karar sizin.
 
 ![Blend 2.5 içerisinde XAML Intellisense
-Add-In](http://cdn.daron.yondem.com/assets/2142/02082008_1.png)\
+Add-In](media/Expression_Blend_2_5_XAML_Intellisense_Add-In/02082008_1.png)\
 *Blend 2.5 içerisinde XAML Intellisense Add-In*
 
 Bahsettiğimiz Add-In'in şimdilik sadece **Blend 2.5 June Preview** ile

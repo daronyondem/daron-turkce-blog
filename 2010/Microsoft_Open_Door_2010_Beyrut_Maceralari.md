@@ -22,7 +22,7 @@ toplam 7 oturumun 3'ünü ben sundum. Konularımız, kullanıcı deneyimi,
 **Silverlight** ve **Windows Phone 7** oldu.
 
 ![Microsoft Open Door 2010, Beyrut,
-Lübnan](http://cdn.daron.yondem.com/assets/2538/07102010_1.jpg)\
+Lübnan](media/Microsoft_Open_Door_2010_Beyrut_Maceralari/07102010_1.jpg)\
 *Microsoft Open Door 2010, Beyrut, Lübnan*
 
 Tur süresince WP7 developer cihazıları da konuşmacılara sağlandığı için

@@ -16,7 +16,7 @@ gün önce yayınlanan bir ürünü anlatmak için öncesinde sıkı bir çalı�
 yaptığımızı söylemek gerek :)
 
 ![Internet Explorer 8.0 Ön
-Lansmanı](http://cdn.daron.yondem.com/assets/2169/29082008_1.jpg)\
+Lansmanı](media/Internet_Explorer_8_0_Beta_2_cikti/29082008_1.jpg)\
 *Internet Explorer 8.0 Ön Lansmanı\
  (Soldan sağa: MSP [Murat Duman](http://www.muratduman.net/), Ben ve
 [Nuri Çankaya](http://www.nuricankaya.com/))*

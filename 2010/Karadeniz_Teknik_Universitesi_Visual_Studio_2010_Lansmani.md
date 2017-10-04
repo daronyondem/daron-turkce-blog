@@ -17,7 +17,7 @@ temiz havası ve denizi ile benim aşık olduğum bir bölge. Özellikle
 sanırım Türkiye'nin en havalı havalimanı :) Trabzonda.
 
 ![Karadeniz Teknik Üniversitesi, Visual Studio 2010
-Lansmanı](http://cdn.daron.yondem.com/assets/2511/19042010_1.jpg)\
+Lansmanı](media/Karadeniz_Teknik_Universitesi_Visual_Studio_2010_Lansmani/19042010_1.jpg)\
 *Karadeniz Teknik Üniversitesi, Visual Studio 2010 Lansmanı*
 
 Etkinliklte emeği olan tüm öğrenci kardeşlerime çok teşekkür ediyorum.

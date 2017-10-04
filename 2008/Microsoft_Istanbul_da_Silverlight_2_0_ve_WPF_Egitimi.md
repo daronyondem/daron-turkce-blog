@@ -16,7 +16,7 @@ tarafına doğru kaydırmaya başladık. Önümüzde ortalama iki ay gibi bir
 süre olsa da Silverlight 1.0'ın ömrü pek uzun gözükmüyor.
 
 ![Microsoft Türkiye İş Ortakları
-Eğitimi](http://cdn.daron.yondem.com/assets/2110/01072008_1.jpg)\
+Eğitimi](media/Microsoft_Istanbul_da_Silverlight_2_0_ve_WPF_Egitimi/01072008_1.jpg)\
 *Microsoft Türkiye İş Ortakları Eğitimi*
 
 Eğitimde "Bir Türkiye Klasiği" diyebileceğim şekilde :) herkes

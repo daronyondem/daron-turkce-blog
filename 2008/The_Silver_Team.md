@@ -19,7 +19,7 @@ etkilediler. Arkadaşlar bu heyecanı satır satır kodlara dökmeniz dileği
 ile ;)
 
 ![The Silver Team
-:)](http://cdn.daron.yondem.com/assets/2246/13112008_1.jpg)\
+:)](media/The_Silver_Team/13112008_1.jpg)\
 *The Silver Team :)*
 
 

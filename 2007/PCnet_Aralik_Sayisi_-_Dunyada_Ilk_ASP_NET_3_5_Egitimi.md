@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Expression Blend, Expression Design, Expression Media, Expression Studio, Expression Web, Silverlight, Visual Studio 2008, ASP.NET
 old.EntryID: 75bd0dce-5d57-4b90-9915-36917c943ec3
 ---
-![](http://cdn.daron.yondem.com/assets/1875/pcnet.png)PCnet'in Aralık
+![](media/PCnet_Aralik_Sayisi_-_Dunyada_Ilk_ASP_NET_3_5_Egitimi/pcnet.png)PCnet'in Aralık
 sayısı yine dopdolu :) Derginin **OKUL** bölümünde **AJAX**,
 **Silverlight**, **Expression Web**, **Expression Blend, Expression
 Media** ve **Expression Design** ile ilgili yazılarım yer alıyor. Ayrıca

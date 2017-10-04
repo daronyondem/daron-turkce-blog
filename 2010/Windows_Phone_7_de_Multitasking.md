@@ -43,7 +43,7 @@ dinleme moduna geçerken bir kanal ismi tanımlayarak kendini "Microsoft
 Push Notification Service" üzerinde tanımlıyor.
 
 ![Push Notification Service'inden cihaza özel ulaşım adresi
-alıyoruz.](http://cdn.daron.yondem.com/assets/2527/13052010_1.png)\
+alıyoruz.](media/Windows_Phone_7_de_Multitasking/13052010_1.png)\
 *Push Notification Service'inden cihaza özel ulaşım adresi alıyoruz.*
 
 Yukarıdaki şemada da görebileceğiniz üzere telefon kendi dinleme kanal
@@ -58,7 +58,7 @@ notificationları sağlayacak bir servise ihtiyacımız var ve bu servisin
 de telefonun adresine sahip olması gerekiyor.
 
 ![Push Notification telefona
-gönderiliyor.](http://cdn.daron.yondem.com/assets/2527/13052010_2.png)\
+gönderiliyor.](media/Windows_Phone_7_de_Multitasking/13052010_2.png)\
 *Push Notification telefona gönderiliyor.*
 
 İlk aşamada telefon bizim yazacağımız bir servise kendi adresini
@@ -334,7 +334,7 @@ nokta telefonda uygulamanız kapalı olsa da mesaj işletim sistemi
 tarafından alınarak kullanıcıya gösterilebilecek.
 
 ![ToastNotification
-sahnede.](http://cdn.daron.yondem.com/assets/2527/13052010_3.png)\
+sahnede.](media/Windows_Phone_7_de_Multitasking/13052010_3.png)\
 *ToastNotification sahnede.*
 
 Hepinize kolay gelsin.

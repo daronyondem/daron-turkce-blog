@@ -58,7 +58,7 @@ Studio'yu açıp yeni bir Cloud projesi yaratabilirsiniz desem de
 inanmayın :)
 
 ![Azure araçlarını
-edinirken...](http://cdn.daron.yondem.com/assets/2874/install.png)\
+edinirken...](media/Makinemizi_Windows_Azure_a_hazirlamak_SDK2_2/install.png)\
 *Azure araçlarını edinirken...*
 
 Yukarıdaki manzarada gördüğünüz "Get Windows Azure SDK for .NET"i
@@ -67,7 +67,7 @@ seçerek yeni bir proje yaratırmış gibi ilerleyebilirsiniz. Ekrana hemen
 download işlemini yaparak yüklemenizi başlatabileceksiniz.
 
 ![Yüklemeye doğru adım,
-adım...](http://cdn.daron.yondem.com/assets/2874/install2.jpg)\
+adım...](media/Makinemizi_Windows_Azure_a_hazirlamak_SDK2_2/install2.jpg)\
 *Yüklemeye doğru adım, adım...*
 
 Download düğmesine bastığınızda karşınıza "Web Platform Installer"
@@ -82,7 +82,7 @@ yüklemeyi Visual Studio içerisinden başlattıktan sonra yükleme süresince
 Visual Studio'nun kapalı olması gerektiği için VS'yi kapatmayı unutmayın
 :)
 
-![Yükleme tamam.](http://cdn.daron.yondem.com/assets/2874/install3.png)\
+![Yükleme tamam.](media/Makinemizi_Windows_Azure_a_hazirlamak_SDK2_2/install3.png)\
 *Yükleme tamam.*
 
 İşte herşey tamam. Artık yeni Azure projeleri yaratmak için herşey

@@ -24,7 +24,7 @@ Blend içerisinde baktığınızda maskeler nesnelerin birer Property'sine
 atandığı için ayrı birer obje olarak arayüzde gözükmez.
 
 ![Expression Blend içerisinde maskelenmeye hazır
-kontroller.](http://cdn.daron.yondem.com/assets/2302/09012009_1.jpg)\
+kontroller.](media/Silverlight_2_0_icerisinde_maskeleme_clipping/09012009_1.jpg)\
 *Expression Blend içerisinde maskelenmeye hazır kontroller.*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere sahnede bir Image
@@ -36,7 +36,7 @@ konusu Ellipse artık Image'in Clip özelliğine bir geometri olarak
 aktarılacak ve ortada Ellipse diye bir nesne kalmayacak.
 
 ![Maskelenmiş Image kontrolümüz
-karşınızda.](http://cdn.daron.yondem.com/assets/2302/09012009_2.jpg)\
+karşınızda.](media/Silverlight_2_0_icerisinde_maskeleme_clipping/09012009_2.jpg)\
 *Maskelenmiş Image kontrolümüz karşınızda.*
 
 Artık kontrolümüzü maskeledik ve Ellipse diye bir nesne kalmadı peki
@@ -124,7 +124,7 @@ rahatlıkla KeyFrame'ler yaratarak noktaların pozisyonlarını
 değiştirebilir ve maskeyi anime edebilirsiniz.
 
 ![Maskemize animasyon
-verirken.](http://cdn.daron.yondem.com/assets/2302/09012009_3.jpg)\
+verirken.](media/Silverlight_2_0_icerisinde_maskeleme_clipping/09012009_3.jpg)\
 *Maskemize animasyon verirken.*
 
 Biz örneğimizde maskedeki tüm noktaları toplu seçerek bir Ellipse

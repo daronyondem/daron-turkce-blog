@@ -47,7 +47,7 @@ imajları vs gördüm ben. Şimdiden söylemesi, eğer Türkiye'den aldıysanız
 işiniz kolay olabilir.
 
 ![NaviFirm Plus'da cihaz imajını
-ararken.](http://cdn.daron.yondem.com/assets/2836/lumia_1.png)\
+ararken.](media/Acilmayan_Lumia920yi_tekrar_hayata_dondurmek/lumia_1.png)\
 *NaviFirm Plus'da cihaz imajını ararken.*
 
 Son noktada tüm seçimleri yapınca uygulamada sağda bir dosya listesi
@@ -75,7 +75,7 @@ AT&T'den yana kullandım. Malum cihazı amerikadan aldığım için belki uyar
 diye düşümdüm ki tutturmuşum.
 
 ![Nokia Care Suite ile image
-download.](http://cdn.daron.yondem.com/assets/2836/lumia_3.png)\
+download.](media/Acilmayan_Lumia920yi_tekrar_hayata_dondurmek/lumia_3.png)\
 *Nokia Care Suite ile image download.*
 
 Ben tekrardan yeni imajı indirerek devam ettim. İşlemi tamamlamak için
@@ -84,7 +84,7 @@ gerekiyor. Telefon titreyince "Start"a basın ve düğmeleri de bırakıp
 hemen bu sefer de ses yükseltme tuşunu basılı tutmaya başlayın.
 
 ![Yeni image load olurken Lumia920'nin kırmızı
-hali...](http://cdn.daron.yondem.com/assets/2836/lumia_4.jpg)\
+hali...](media/Acilmayan_Lumia920yi_tekrar_hayata_dondurmek/lumia_4.jpg)\
 *Yeni image load olurken Lumia920'nin kırmızı hali...*
 
 Ekranda gözüken Nokia logosu yukarıya doğru çıkacak ve sonrasında da

@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: Görsel Ders, WPF
 old.EntryID: 2f746102-2354-4cfd-baa1-aa9f193a9067
 ---
-![](http://cdn.daron.yondem.com/assets/1792/nedirtv_logo.png) WPF ile
+![](media/WPF_Uygulamalari_ve_Expression_Blend_Videosu/nedirtv_logo.png) WPF ile
 Windows uygulamaları hazırlarken bir taraftan XAML kodları ile tasarımı
 oluşturmak diğer taraftan da kullandığımız programlama dili ile
 arkaplanda kodumuzu yazmamız gerekiyor. Kod yazma konusunda her zamanki

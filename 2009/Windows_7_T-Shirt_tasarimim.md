@@ -15,7 +15,7 @@ Windows 7'nin bende yarattığı heyecanın bir yansıması olarak hemen
 kolları sıvadım ve aşağıdaki gördüğünüz tasarımı yaptım.
 
 ![Windows 7 T-Shirt
-tasarımım.](http://cdn.daron.yondem.com/assets/2307/14012009_1.jpg)\
+tasarımım.](media/Windows_7_T-Shirt_tasarimim/14012009_1.jpg)\
 *Windows 7 T-Shirt tasarımım.*
 
 Tasarımın önünde "**I'm Running Windows 7**" yazarken arka yüzünden ise
@@ -31,6 +31,6 @@ ile görme ihtimaliniz çok yüksek ;) Tasarımın orijinal boyutları ile
 dosyalarını aşağıdan indirebilirsiniz.
 
 [Tasarıma ait orijinal dosya - 14012009\_2.rar (3,11
-MB)](http://cdn.daron.yondem.com/assets/2307/14012009_2.rar)
+MB)](media/Windows_7_T-Shirt_tasarimim/14012009_2.rar)
 
 

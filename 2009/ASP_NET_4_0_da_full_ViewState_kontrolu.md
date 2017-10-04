@@ -16,7 +16,7 @@ State/Durum'larını saklayabilmesini ve PostBack sonrasında aynı durum
 ile devam edebilmesini sağlayan bu altyapı neden sevilmez?
 
 ![ViewState
-canavarı!](http://cdn.daron.yondem.com/assets/2412/14092009_1.gif)\
+canavarı!](media/ASP_NET_4_0_da_full_ViewState_kontrolu/14092009_1.gif)\
 *ViewState canavarı!*
 
 İşte tam da yukarıdaki manzara nedeniyle ViewState'i sevmeyiz oysa
@@ -59,7 +59,7 @@ kontrol başına birbirinden bağımsız olarak ViewState'in kullanılıp
 kullanılmayacağını ayarlayabiliyorsunuz.
 
 ![ViewStateMode
-karşınızda.](http://cdn.daron.yondem.com/assets/2412/14092009_2.gif)\
+karşınızda.](media/ASP_NET_4_0_da_full_ViewState_kontrolu/14092009_2.gif)\
 *ViewStateMode karşınızda.*
 
 Artık tüm sayfada ViewState'i kapatsanız da kontrol başına

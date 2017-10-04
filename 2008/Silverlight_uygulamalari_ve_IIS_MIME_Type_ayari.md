@@ -43,7 +43,7 @@ veriyoruz. Karşımıza gelen pencereden "HTTP Header" sekmesine geçerek en
 alttaki "MIME Types" düğmesine tıklıyoruz.
 
 ![IIS Manager içerisinde MIME Types seçeneğini
-bulduk.](http://cdn.daron.yondem.com/assets/1987/12032008_2.png)\
+bulduk.](media/Silverlight_uygulamalari_ve_IIS_MIME_Type_ayari/12032008_2.png)\
 *IIS Manager içerisinde MIME Types seçeneğini bulduk.*
 
 "MIME Types" bölümüne girdikten sonra hemen "New" düğmesine tıklayarak
@@ -52,7 +52,7 @@ buraya aynen yazıyoruz ve gördüğümüz tüm "OK" düğmelerine basarak IIS
 Manager arayüzüne geri dönüyoruz.
 
 ![Yeni bir MIME Type
-ekliyoruz.](http://cdn.daron.yondem.com/assets/1987/12032008_1.jpg)\
+ekliyoruz.](media/Silverlight_uygulamalari_ve_IIS_MIME_Type_ayari/12032008_1.jpg)\
 *Yeni bir MIME Type ekliyoruz.*
 
 Artık gerekli uzantılar tanımlandığı için herhangi bir sorun

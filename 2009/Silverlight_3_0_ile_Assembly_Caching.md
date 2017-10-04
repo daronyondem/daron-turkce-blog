@@ -40,7 +40,7 @@ göreceksiniz. Hemen başka kod yazmadan projenizi Build ederek XAP
 dosyasının da uzantısını değiştirip ZIP yapıp içerisine bir göz atalım.
 
 ![DataGrid ile normal bir Silverlight
-projesi.](http://cdn.daron.yondem.com/assets/2391/15082009_1.png)\
+projesi.](media/Silverlight_3_0_ile_Assembly_Caching/15082009_1.png)\
 *DataGrid ile normal bir Silverlight projesi.*
 
 Yukarıdaki gördüğünüz üzere bir DataGrid için toplam 4 ayrı DLL XAP
@@ -73,7 +73,7 @@ komutunu verip karşınıza çıkan ekranda "**Reduce XAP Size...**"
 seçeneğini işaretleyebilirsiniz.
 
 ![Assembly Caching'i aktif hale
-getiriyoruz.](http://cdn.daron.yondem.com/assets/2391/15082009_2.png)\
+getiriyoruz.](media/Silverlight_3_0_ile_Assembly_Caching/15082009_2.png)\
 *Assembly Caching'i aktif hale getiriyoruz.*
 
 Hemen projemizi yeni build edip ASP.NET projemizdeki ClientBin klasörü
@@ -85,7 +85,7 @@ düşmüş durumda. DLL'ler harici ZIP'ler şeklinde paketlenerek XAP ile
 aynı konuma yerleştirilmiş.
 
 ![Assembly'ler ayrı
-ZIP'lerde...](http://cdn.daron.yondem.com/assets/2391/15082009_3.png)\
+ZIP'lerde...](media/Silverlight_3_0_ile_Assembly_Caching/15082009_3.png)\
 *Assembly'ler ayrı ZIP'lerde...*
 
 Ne fark etti derseniz aslında konu çok basit. Yukarıdaki şekli ile
@@ -295,7 +295,7 @@ tuş ile tıklayarak gelen menüden "Properties" komutunu verip "Signing"
 tabına geçmemiz gerekiyor.
 
 ![Assembly'miz Strong Name
-ekliyoruz.](http://cdn.daron.yondem.com/assets/2391/15082009_4.png)\
+ekliyoruz.](media/Silverlight_3_0_ile_Assembly_Caching/15082009_4.png)\
 *Assembly'miz Strong Name ekliyoruz.*
 
 Uygun bir "Key File Name" verip yaratacağınız key dosyasını seçerek bu
@@ -308,7 +308,7 @@ bulup çalıştırdıktan sonra **sn -Tp Assembly Adı** şeklinde gerekli
 komutu çalıştırabilirsiniz.
 
 ![Bize "Public Key Token"
-lazım!](http://cdn.daron.yondem.com/assets/2391/15082009_5.png)\
+lazım!](media/Silverlight_3_0_ile_Assembly_Caching/15082009_5.png)\
 *Bize "Public Key Token" lazım!*
 
 Şimdi aldığımız bu Token ile aşağıdaki formatta bir XML dosyası yaratıp
@@ -426,6 +426,6 @@ gerekiyor ayrıca yukarıda da gördüğünüz üzere kendi kütüphanalerinizde
 de bu özelliği kullanabiliyorsunuz.*
 
 [Örneğe ait kaynak kodlar - 15082009\_6.rar (986,18
-KB)](http://cdn.daron.yondem.com/assets/2391/15082009_6.rar)
+KB)](media/Silverlight_3_0_ile_Assembly_Caching/15082009_6.rar)
 
 

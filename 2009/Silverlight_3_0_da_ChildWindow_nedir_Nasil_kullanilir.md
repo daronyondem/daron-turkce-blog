@@ -30,7 +30,7 @@ tıklayarak "Add New Item" menüsüne geçtiğinizde karşınıza gelecek
 seçenekler arasına artık "Silverlight Child Window" da eklendi.
 
 ![Yeni bir nesne tipi : Child
-Window](http://cdn.daron.yondem.com/assets/2367/02062009_1.gif)\
+Window](media/Silverlight_3_0_da_ChildWindow_nedir_Nasil_kullanilir/02062009_1.gif)\
 *Yeni bir nesne tipi : Child Window*
 
 Silverlight içerisinde "UserControl" haricinde yapılara pek alışık
@@ -220,7 +220,7 @@ tanımladığınız Property'ye bir bilgi aktarırsa bu bilginin rahatlıkla
 ana UserControl'e gelebileceği anlamına gelir.
 
 ![ChildWindow
-karşınızda.](http://cdn.daron.yondem.com/assets/2367/02062009_2.gif)\
+karşınızda.](media/Silverlight_3_0_da_ChildWindow_nedir_Nasil_kullanilir/02062009_2.gif)\
 *ChildWindow karşınızda.*
 
 Gelin hızlı ve teorik bir örnek yapalım. Hazırlayacağımız yeni

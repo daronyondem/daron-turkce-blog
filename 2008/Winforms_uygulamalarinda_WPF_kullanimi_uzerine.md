@@ -148,7 +148,7 @@ pencerelerinde bir WPF User Control kullanabilmek için ilk olarak araç
 **ElementHost** kontrolü eklememiz gerekiyor.
 
 ![WPF User Control host edecek olan ElementHost kontrolünü forma
-yerleştiriyoruz.](http://cdn.daron.yondem.com/assets/1940/0102008_1.png)\
+yerleştiriyoruz.](media/Winforms_uygulamalarinda_WPF_kullanimi_uzerine/0102008_1.png)\
 *WPF User Control host edecek olan ElementHost kontrolünü forma
 yerleştiriyoruz.*
 

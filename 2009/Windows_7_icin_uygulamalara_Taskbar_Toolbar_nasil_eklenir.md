@@ -23,7 +23,7 @@ yapmanızı sağlayacak olan mini bir toolbar otomatik olarak Taskbar'da
 Preview panelinde gözüküyor.
 
 ![Taskbar'da minik bir
-toolbar!](http://cdn.daron.yondem.com/assets/2385/10082009_1.jpg)\
+toolbar!](media/Windows_7_icin_uygulamalara_Taskbar_Toolbar_nasil_eklenir/10082009_1.jpg)\
 *Taskbar'da minik bir toolbar!*
 
 Bu minik toolbarlar farklı işlemler için kullanılabilir. Özellikle hemen
@@ -159,7 +159,7 @@ olarak geçebiliyoruz. Biz örneğimizde sadece bir tek düğme kullandık
 fakat siz çok daha fazla ve farklı düğmeler kullanabilirsiniz.
 
 ![Tek tıkla DVD'den müzik çalabilecek bir
-uygulama?](http://cdn.daron.yondem.com/assets/2385/10082009_2.jpg)\
+uygulama?](media/Windows_7_icin_uygulamalara_Taskbar_Toolbar_nasil_eklenir/10082009_2.jpg)\
 *Tek tıkla DVD'den müzik çalabilecek bir uygulama?*
 
 Düğmeye basıldığında daha önce eklemiş olduğumuz dugme\_Click event
@@ -169,6 +169,6 @@ yapabileceğiz. Artık örneğinizi çalıştırıp test edebilirsiniz.
 Hepinize kolay gelsin.
 
 [Örneklere ait kaynak kodlar - 10082009\_3.rar (3,36
-MB)](http://cdn.daron.yondem.com/assets/2385/10082009_3.rar)
+MB)](media/Windows_7_icin_uygulamalara_Taskbar_Toolbar_nasil_eklenir/10082009_3.rar)
 
 

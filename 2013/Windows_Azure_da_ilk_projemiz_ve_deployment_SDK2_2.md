@@ -14,7 +14,7 @@ seçip ilk projemizi yaratalım. Bunu yaparken de Cloud projemize deneme
 amaçlı olarak bir ASP.NET sitesinde ekleyelim.
 
 ![İlk Azure
-projemiz...](http://cdn.daron.yondem.com/assets/2881/ilk.gif)\
+projemiz...](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk.gif)\
 *İlk Azure projemiz...*
 
 Projemizi yaratırken ASP.NET projesi için proje çeşidi olarak doğrudan
@@ -23,7 +23,7 @@ ASPX ekleyip içine de klasik :) "Hello World" yazabiliriz. Böylece
 minimalist bir ASP.NET sitemiz olmuş olacak.
 
 ![Basit bir Cloud
-projesi.](http://cdn.daron.yondem.com/assets/2881/ilk2.gif)\
+projesi.](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk2.gif)\
 *Basit bir Cloud projesi.*
 
 Dikkat ederseniz WebRole.Cs ile Web.Config'i silmedim. Konsept olarak
@@ -147,7 +147,7 @@ Studio'da Solution Explorer içerisinde Azure projesine sağ tıklayıp
 "Package" komutunu verebiliriz.
 
 ![Azure Package
-yaratırken.](http://cdn.daron.yondem.com/assets/2881/ilk3.gif)\
+yaratırken.](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk3.gif)\
 *Azure Package yaratırken.*
 
 Bir sonraki adımda karşınıza çıkacak soru paket yaratırken service
@@ -157,7 +157,7 @@ Genel olarak tabi ki Cloud.cscfg'yi ve Release build konfigürasyonunu
 kullanacağız.
 
 ![Azure paketimiz
-hazır.](http://cdn.daron.yondem.com/assets/2881/ilk4.gif)\
+hazır.](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk4.gif)\
 *Azure paketimiz hazır.*
 
 Paketleme işlemi bittiği gibi hemen paketlerin bulunduğu klasör
@@ -190,7 +190,7 @@ Hemen <https://manage.windowsazure.com/> adresine gidip LiveID'miz ile
 giriş yaparak yönetim paneline ulaşıyoruz.
 
 ![Azure Yönetim
-Paneli](http://cdn.daron.yondem.com/assets/2881/ilk5.gif)\
+Paneli](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk5.gif)\
 *Azure Yönetim Paneli*
 
 Panelin sol altında farklı Azure servislerinin kaba bir listesini
@@ -199,7 +199,7 @@ işlemlerimizi yapabiliyoruz. Hemen sol alttan "Cloud Services"
 seçeneğini seçerek ilerleyeceğiz.
 
 ![Azure ortamında clouse servisimizi
-yaratırken.](http://cdn.daron.yondem.com/assets/2881/ilk6.gif)\
+yaratırken.](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk6.gif)\
 *Azure ortamında clouse servisimizi yaratırken.*
 
 Hemen ekranın en altında kocaman bir artı düğmesi göreceksiniz. Ona
@@ -219,7 +219,7 @@ olan listeden onu seçip üstten "Dashboard"'a tıklarsanız ana ekrana
 ulaşmış olacağız.
 
 ![İlk Hosted
-Service'imiz.](http://cdn.daron.yondem.com/assets/2881/ilk7.gif)\
+Service'imiz.](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk7.gif)\
 *İlk Cloud Service'imizi yüklerken.*
 
 Yukarıda da görebileceğiniz üzere doğrudan "Upload a new production
@@ -233,7 +233,7 @@ bir adrese deployment yapmış olacaksınız. Zaten Staging ve Prod'un aynı
 adreste olmasını da beklemiyordunuz değil mi? Aynen öyle :)
 
 ![Servisimizi
-yüklerken...](http://cdn.daron.yondem.com/assets/2881/ilk8.gif)\
+yüklerken...](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk8.gif)\
 *Servisimizi yüklerken...*
 
 Deployment yaparken bir "Deployment Label" vermenin yanı sıra tabi ki
@@ -261,7 +261,7 @@ bulacak, VM'leri dağıtacak, ayağa kaldıracak, load balancer'a haber
 verecek vs vs vs :)
 
 ![Paket upload
-olurken...](http://cdn.daron.yondem.com/assets/2881/ilk9.gif)\
+olurken...](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk9.gif)\
 *Paket upload olurken...*
 
 Upload işlemi bittikten sonra sonra servisinize role sayısına ve
@@ -270,19 +270,19 @@ sürebiliyor. Süreci doğrudan yönetim panelinden izleyebilirsiniz. İşlem
 tam başladığında aşağıdaki gibi bir ekran çıkacak karşınıza.
 
 ![Deployment işleri
-başlar...](http://cdn.daron.yondem.com/assets/2881/ilk10.gif)
+başlar...](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk10.gif)
 
 Buradaki "1 Instance" yazısına tıklarsanız tüm deploymentı detayları ile
 izleyebilirsiniz. Aşağıda deployment adımlarını görebilirsiniz.
 
 ![Staging için verilen
-adres.](http://cdn.daron.yondem.com/assets/2881/ilk11.gif)
+adres.](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk11.gif)
 
 Herşey hazır olduktan sonra servisinizin "Dashboard" sayfasına geçip tüm
 detayları ve Endpoint'ini görebilirsiniz.
 
 ![Deployment sonrası service'in
-detayları.](http://cdn.daron.yondem.com/assets/2881/ilk12.gif)\
+detayları.](media/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2/ilk12.gif)\
 *Deployment sonrası service'in detayları.*
 
 İtiraf ediyorum :) tüm bu deployment senaryosunu kolaylaştırmanın bir

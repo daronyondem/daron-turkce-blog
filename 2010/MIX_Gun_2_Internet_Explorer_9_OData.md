@@ -22,7 +22,7 @@ eskiden alınan derslerin uygulanabileceği bir olanaktan bahsetmiş
 oluyoruz.
 
 ![Compiled JavaScript
-derken???](http://cdn.daron.yondem.com/assets/2496/17032010_1.jpg)\
+derken???](media/MIX_Gun_2_Internet_Explorer_9_OData/17032010_1.jpg)\
 *Compiled JavaScript derken???*
 
 Internet Explorer 9 yolundaki en önemli konu HTML5 desteği. Bu konuda
@@ -45,7 +45,7 @@ kullanmak gerek. JavaScript'in önceden Compile edilmesi tabi ki site
 performansını ciddi şekilde arttıracaktır.
 
 ![Internet Explorer 9 Platform Preview
-karşınızda!](http://cdn.daron.yondem.com/assets/2496/17032010_2.jpg)\
+karşınızda!](media/MIX_Gun_2_Internet_Explorer_9_OData/17032010_2.jpg)\
 *Internet Explorer 9 Platform Preview karşınızda!*
 
 Ve geldik en güzel duyuruya! Internet Explorer 9 tarayıcı motorunu
@@ -90,7 +90,7 @@ ve eşit işaretlerini de anlayıp matematiksel işlemler yapabiliyor!!!
 1984!!!
 
 ![Bill Boxton
-sahnede!](http://cdn.daron.yondem.com/assets/2496/17032010_3.jpg)\
+sahnede!](media/MIX_Gun_2_Internet_Explorer_9_OData/17032010_3.jpg)\
 *Bill Boxton sahnede!*
 
 Neyse :) Bill Boxton efsanesi anlatılmaz yaşanır diyorum... Bir

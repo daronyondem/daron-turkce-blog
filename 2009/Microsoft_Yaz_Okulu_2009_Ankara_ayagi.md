@@ -17,7 +17,7 @@ anda ben gaza gelip Dynamic Data bile gösterdim :) (Evet bazılarınız
 kaçmıştı)
 
 ![Microsoft Yaz Okulu /
-Ankara](http://cdn.daron.yondem.com/assets/2383/31072009_1.jpg)\
+Ankara](media/Microsoft_Yaz_Okulu_2009_Ankara_ayagi/31072009_1.jpg)\
 *Microsoft Yaz Okulu / Ankara*
 
 Üç günlük güzel bir maraton oldu diye tahmin ediyorum. Üç günün sonunda
@@ -33,7 +33,7 @@ dile getirmem sanırım yanlış olmaz. Tabi daha bu seneki İstanbul ve
 bekliyorum.
 
 ![Tüm sınıf kod
-yazıyor!](http://cdn.daron.yondem.com/assets/2383/31072009_2.jpg)\
+yazıyor!](media/Microsoft_Yaz_Okulu_2009_Ankara_ayagi/31072009_2.jpg)\
 *Tüm sınıf kod yazıyor!*
 
 Üç gün boyunca benimle beraber koşan hepinize çok teşekkürler. Her öğle

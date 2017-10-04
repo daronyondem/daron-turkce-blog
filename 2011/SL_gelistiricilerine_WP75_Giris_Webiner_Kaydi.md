@@ -17,7 +17,7 @@ hatta 22.00'da bitirecekken 22.45'e kadar soru-cevap ile devam eden :)
 teşvik / motive edici olduğunu tahmin edemezsiniz!
 
 ![Silverlight Geliştiricileri için Windows Phone 7.5'e Giriş
-Webineri](http://cdn.daron.yondem.com/assets/2723/wp75giris.jpg)\
+Webineri](media/SL_gelistiricilerine_WP75_Giris_Webiner_Kaydi/wp75giris.jpg)\
 Webiner kaydını indirmek için
 [SeminerTV'ye](http://daron.yondem.com/tr/seminertv/) uğrayın!
 

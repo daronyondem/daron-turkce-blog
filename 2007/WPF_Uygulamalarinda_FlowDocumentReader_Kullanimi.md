@@ -25,7 +25,7 @@ uygulamalar hazırlamanızı sağlayabilir. Gelin şimdi hemen Expression
 Blend ile bir WPF Windows Application yaratalım.
 
 ![Yeni bir WPF Windows uygulaması
-yaratıyoruz.](http://cdn.daron.yondem.com/assets/1818/20102007_1.png)\
+yaratıyoruz.](media/WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi/20102007_1.png)\
 *Yeni bir WPF Windows uygulaması yaratıyoruz.*
 
 Uygulamamızı yarattıktan sonra içerisinde bir adet
@@ -34,7 +34,7 @@ Uygulamamızı yarattıktan sonra içerisinde bir adet
 kısmına giderek kontrolümüzü orada bulmamız gerekecek.
 
 ![FlowDocumentReader kontrolümüzü Asset Library içerisinde
-buluyoruz.](http://cdn.daron.yondem.com/assets/1818/20102007_2.png)\
+buluyoruz.](media/WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi/20102007_2.png)\
 *FlowDocumentReader kontrolümüzü Asset Library içerisinde buluyoruz.*
 
 Kontrolü uygulamamızdaki **Window1** penceresine yerleştirdikten sonra
@@ -1014,7 +1014,7 @@ geçtikten sonra "Click" özelliğine istediğimiz bir **method** adı
 yazacağız.
 
 ![Düğmemizin Click durumuna ait methodu
-tanımlıyoruz.](http://cdn.daron.yondem.com/assets/1818/20102007_3.png)\
+tanımlıyoruz.](media/WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi/20102007_3.png)\
 *Düğmemizin Click durumuna ait methodu tanımlıyoruz.*
 
 Yukarıdaki gibi DocAcTiklandi değerini yazdığınız Expression Blend size
@@ -1219,7 +1219,7 @@ içerisinde F5'e bastığınızda program derlenecek ve otomatik olarak
 dosyasını açtığımızda aşağıdaki gibi bir ekranla karşılaşıyoruz.
 
 ![WPF uygulamamızda FlowDocumentReader
-görüntüsü.](http://cdn.daron.yondem.com/assets/1818/20102007_4.png)\
+görüntüsü.](media/WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi/20102007_4.png)\
 *WPF uygulamamızda FlowDocumentReader görüntüsü.*
 
 Gördüğünüz gibi dosyamız programımızda gösteriliyor. Peki neden
@@ -1228,7 +1228,7 @@ yazarak anlatmaya çalışmaktansa gelin aşağıda ufak bir seri görüntü ile
 durumu inceleyelim.
 
 ![FlowDocument içerisinde otomatik
-sayfalama.](http://cdn.daron.yondem.com/assets/1818/20102007_5.png)\
+sayfalama.](media/WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi/20102007_5.png)\
 *FlowDocument içerisinde otomatik sayfalama.*
 
 **FlowDocumentReader** kontrolünün kendi içerisinde bazı özellikleri
@@ -1241,7 +1241,7 @@ yazılarda ve grafiklerde çok net görüntüler alındığını özellikle
 belirtmek istiyoruz.
 
 ![FlowDocumentReader'da zoom yapmak arama yapmak kadar
-kolay.](http://cdn.daron.yondem.com/assets/1818/20102007_6.png)\
+kolay.](media/WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi/20102007_6.png)\
 *FlowDocumentReader'da zoom yapmak arama yapmak kadar kolay.*
 
 **FlowDocumentReader** kontrolü ile beraber gelen diğer özellikler de
@@ -1276,7 +1276,7 @@ Makale boyunca yaptığımız örneğin kodlarını da aşağıdan
 indirebilirsiniz.
 
 [WPF FlowDocumentReader Proje Kaynak Kodları - 20102007\_1.zip (137,43
-KB)](http://cdn.daron.yondem.com/assets/1818/20102007_1.zip)
+KB)](media/WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi/20102007_1.zip)
 
 Hepinize kolay gelsin.
 

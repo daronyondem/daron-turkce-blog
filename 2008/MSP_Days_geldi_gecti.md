@@ -18,7 +18,7 @@ abilerine taş çıkartabilecek nitelikte bir içerik ürettiklerini
 söyleyebilirim. Şaşırmadım desem yalan olur :)
 
 ![MSP Days'deki MultiPoint SDK
-sunumum.](http://cdn.daron.yondem.com/assets/2290/28122008_1.jpg)\
+sunumum.](media/MSP_Days_geldi_gecti/28122008_1.jpg)\
 *MSP Days'deki MultiPoint SDK sunumum.*
 
 Benim de normal şartlarda Windows Azure anlatacağım MSP Days
@@ -28,7 +28,7 @@ tercih ettim :) Özellikle sunumu ilginç bulan arkadaşlar oldu :) Aşağıda
 sizlerle de sunumumu paylaşıyorum.
 
 [MultiPoint SDK Sunumu - 28122008\_2.pptx (3,48
-MB)](http://cdn.daron.yondem.com/assets/2290/28122008_2.pptx)
+MB)](media/MSP_Days_geldi_gecti/28122008_2.pptx)
 
 Etkinlikteki başarılarından dolayı tüm MSP kardeşlerimi kutluyorum.
 Başarınız daimi olsun ;)

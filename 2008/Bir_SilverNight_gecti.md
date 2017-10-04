@@ -19,7 +19,7 @@ yaşadığını gördüm :) Herhalde internet bağlantılarından olsa gerek. Be
 Bugün istatistiklere bakınca şaşırmadım desem yalan olur.
 
 ![SilverNight
-başlıyor...](http://cdn.daron.yondem.com/assets/2283/21122008_3.jpg)\
+başlıyor...](media/Bir_SilverNight_gecti/21122008_3.jpg)\
 *SilverNight başlıyor...*
 
 **Neler yaptınız? Nasıl yaptınız?**
@@ -33,7 +33,7 @@ değindik. Hatta hızlıca LINQ konusunu bile işledik. Tabi benim yine
 gevezeliğim tuttu ve bir baktık ki saat gece yarısı 03.00 olmuş!
 
 ![Herkes çok heyecanlı
-:)](http://cdn.daron.yondem.com/assets/2283/21122008_2.jpg)\
+:)](media/Bir_SilverNight_gecti/21122008_2.jpg)\
 *Herkes çok heyecanlı :) Hangi grup birinci olacak?*
 
 Tabi detayları atlamiyim. Tam gece yarısında pizzalarımız geldi :) Sonra
@@ -58,7 +58,7 @@ projelerini sundukları sunumlara kadar hepsinin video kayıtları mevcut
 içeriği hazırlamam için bana biraz zaman vereceğinizden eminim :)
 
 ![SilverNight sonrası, sabah evlere dağılmadan
-önce!](http://cdn.daron.yondem.com/assets/2283/21122008_1.jpg)\
+önce!](media/Bir_SilverNight_gecti/21122008_1.jpg)\
 *SilverNight sonrası, sabah evlere dağılmadan önce!*
 
 Şimdilik aktivitenin fotolarından elime ulaşanları sizlerle paylaşıyorum
@@ -73,13 +73,13 @@ düşünüyoruz :) Yakında siteyi yayına alıp sizlerle adreslerini
 paylaşacağım.
 
 [Birinci Proje - 21122008\_01.rar (2,08
-MB)](http://cdn.daron.yondem.com/assets/2283/21122008_01.rar)\
+MB)](media/Bir_SilverNight_gecti/21122008_01.rar)\
 [İkinci Proje - 21122008\_02.rar (537,82
-KB)](http://cdn.daron.yondem.com/assets/2283/21122008_02.rar)\
+KB)](media/Bir_SilverNight_gecti/21122008_02.rar)\
  [Üçüncü Proje - 21122008\_03.rar (818,55
-KB)](http://cdn.daron.yondem.com/assets/2283/21122008_03.rar)\
+KB)](media/Bir_SilverNight_gecti/21122008_03.rar)\
  [Sonuncu Proje - 21122008\_04.rar (515,5
-KB)](http://cdn.daron.yondem.com/assets/2283/21122008_04.rar)
+KB)](media/Bir_SilverNight_gecti/21122008_04.rar)
 
 SilverNight'a katılan herkese çok teşekkürler. Ayrıca özellikle **Koç
 Üniversitesi Bilgisayar Kulübü**, sevgili MSP'lerimiz **Yiğit Kıran** ve
@@ -88,7 +88,7 @@ böyle güzel bir gece geçiremezdik. Ayrıca aldığınız hediyeyi de hiç
 unutamayacağım :)
 
 ![Bu hediyeyi unutmayacağım
-:D](http://cdn.daron.yondem.com/assets/2283/21122008_4.jpg)\
+:D](media/Bir_SilverNight_gecti/21122008_4.jpg)\
 *Bu hediyeyi unutmayacağım :D*
 
 En kısa zamanda etkinlik videoları ile görüşmek üzere ;)

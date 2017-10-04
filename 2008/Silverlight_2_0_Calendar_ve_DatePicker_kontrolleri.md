@@ -19,7 +19,7 @@ kontrollerden biri de maalesef WPF tarafında olmayan **Calendar** ve
 kontrollerle neler yapabileceğimizi inceleyeceğiz.
 
 ![Calendar kontrolü şekilden şekilde
-girebiliyor.](http://cdn.daron.yondem.com/assets/2053/10052008_1.png)\
+girebiliyor.](media/Silverlight_2_0_Calendar_ve_DatePicker_kontrolleri/10052008_1.png)\
 *Calendar kontrolü şekilden şekilde girebiliyor.*
 
 Yukarıdaki şekli ile birer Calender kontrolü yaratmak için tek yapmanız
@@ -214,7 +214,7 @@ sağlayabilirsiniz. Bunun için **DisplayDateStart** ve **DisplayDateEnd**
 özelliklerinden faydalanabilirsiniz.
 
 ![SelectableDateve DisplayDate arasında
-fark.](http://cdn.daron.yondem.com/assets/2053/10052008_2.png)\
+fark.](media/Silverlight_2_0_Calendar_ve_DatePicker_kontrolleri/10052008_2.png)\
 *SelectableDateve DisplayDate arasında fark.*
 
 Hepinize kolay gelsin.

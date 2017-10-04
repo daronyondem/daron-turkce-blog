@@ -53,7 +53,7 @@ zamanki basit çaydanlık modeli ile devam edeceğim :) Model dosyasını siz
 de aşağıdan indirebilirsiniz.
 
 [Çaydanlık Modeli - Teapot.ASE - 01022011\_6.zip (171,24
-KB)](http://cdn.daron.yondem.com/assets/2546/01022011_6.zip)
+KB)](media/Silverlight_ve_Balder_ile_3D/01022011_6.zip)
 
 Dosyayı bilgisayarınızda indirdikten sonra hemen dosyaya sağ tuşla
 tıklayıp "Properties" diyerek "Unblock" demeyi unutmayın. Aksi haldi bir
@@ -64,7 +64,7 @@ ekleyebilirsiniz. Unutmamanız gereken tek nokta dosyanın "**Build
 Action**"ınını "**Resource**" olarak ayarlamak.
 
 ![ASE dosyasını Resource olarak
-ayarlıyoruz.](http://cdn.daron.yondem.com/assets/2546/01022011_5.png)\
+ayarlıyoruz.](media/Silverlight_ve_Balder_ile_3D/01022011_5.png)\
 *ASE dosyasını Resource olarak ayarlıyoruz.*
 
 Dosya artık projemizde olduğuna göre sıra geldi bu dosyayı göstermeye.
@@ -207,7 +207,7 @@ Artık her objenin bir ismi olduğuna göre rahat rahat kod tarafından
 ulaşarak fantastik hareketler yapabiliriz.
 
 ![3D ortamdaki tüm objelere
-ulaşabiliyoruz.](http://cdn.daron.yondem.com/assets/2546/01022011_3.png)\
+ulaşabiliyoruz.](media/Silverlight_ve_Balder_ile_3D/01022011_3.png)\
 *3D ortamdaki tüm objelere ulaşabiliyoruz.*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere artık tüm objeler
@@ -256,7 +256,7 @@ implementasyonları beklemek gerekecek.
 Örnekle ilgili projeyi aşağıdan indirebilirsiniz.
 
 [Örnek Proje Kodları - 01022011\_7.zip (1,69
-MB)](http://cdn.daron.yondem.com/assets/2546/01022011_7.zip)
+MB)](media/Silverlight_ve_Balder_ile_3D/01022011_7.zip)
 
 Hepinize kolay gelsin.
 

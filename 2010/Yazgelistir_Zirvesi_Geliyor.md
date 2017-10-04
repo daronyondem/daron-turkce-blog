@@ -24,7 +24,7 @@ bekliyor ;) Tabi bu kadar değil daha birçok oturum etkinlik boyunca
 beğeninize sunulacak :)
 
 ![Yazgeliştir
-Zirvesi](http://cdn.daron.yondem.com/assets/2513/22042010_1.png)
+Zirvesi](media/Yazgelistir_Zirvesi_Geliyor/22042010_1.png)
 
 [Buradan](http://www.yazgelistir.com/Haberler/HaberDetay.aspx?hId=1000000213)
 detaylarına ulaşabileceğiniz etkinlikle ilgili özellikle iki isme

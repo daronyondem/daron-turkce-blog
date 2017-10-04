@@ -18,7 +18,7 @@ rekorunu kırıp "konuşmacılıktan" "hamallığa" doğru ilerlemiş oldum :D
 Malum iki günde 6 oturum "insan" olma sınırları dışında.
 
 ![Microsoft OpenDoor,
-Kuwait](http://cdn.daron.yondem.com/assets/2798/kuwait_opendoor.jpg)\
+Kuwait](media/Microsoft_OpenDoor_ile_Kuwait_teydim/kuwait_opendoor.jpg)\
 *Microsoft OpenDoor, Kuwait*
 
 Neyse, Allah'tan tüm konular bildiğim konular da sorun olmuyor.

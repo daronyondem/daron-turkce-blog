@@ -15,7 +15,7 @@ gün boyunca epey eğlendiğimi söylemem gerek :) Ankara'da bu kadar
 eğlenmek zordur :P
 
 ![INETA
-Ankara'da...](http://cdn.daron.yondem.com/assets/2789/ineta_ankara.jpg)\
+Ankara'da...](media/INETA_Ankara_2012/ineta_ankara.jpg)\
 *INETA Ankara'da...*
 
 Ankara'lılar saldırıya geçmeden önce :) laf atmaktan vaz geçip etkinliğe

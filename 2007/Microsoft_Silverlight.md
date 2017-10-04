@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: b28d270f-2ed4-4f25-b38d-98ce0d30cddd
 ---
-![](http://cdn.daron.yondem.com/assets/1727/silverlight.gif)
+![](media/Microsoft_Silverlight/silverlight.gif)
 
 WPF (**Windows Presentation Foundation**) Windows Vista ile dahili
 olarak gelen .**NET Framework 3.0**'ın önemli parçalarından biri. Ses,

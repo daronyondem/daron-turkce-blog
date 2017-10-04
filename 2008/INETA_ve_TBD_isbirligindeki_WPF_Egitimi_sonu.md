@@ -18,13 +18,13 @@ sevgili Oytun Deniz geçen organizasyonda kaçırdığı Vista Ultimate
 şansını yakalayarak hemen gözden kayboldu :)
 
 ![WPF Eğitimi
-Sonu](http://cdn.daron.yondem.com/assets/2014/06042008_1.jpg)\
+Sonu](media/INETA_ve_TBD_isbirligindeki_WPF_Egitimi_sonu/06042008_1.jpg)\
 *WPF Eğitimi Sonu*
 
 Gün boyunca yaptığımız, çalışan, çalışmayan tüm örnekleri aşağıdan
 indirebilirsiniz :)
 
 [Örneklere ait kaynak kodları - 06042008\_2.rar (2,38
-MB)](http://cdn.daron.yondem.com/assets/2014/06042008_2.rar)
+MB)](media/INETA_ve_TBD_isbirligindeki_WPF_Egitimi_sonu/06042008_2.rar)
 
 

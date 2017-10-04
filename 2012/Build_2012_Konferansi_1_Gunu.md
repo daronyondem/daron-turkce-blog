@@ -39,7 +39,7 @@ gerçekleşti. Sabah 9'da 2500 çılgın bir çadırda toplandık ve Steve
 Ballmer'ın Windows 8 sunumu ile güne başladık :)
 
 ![Build konferansı Keynote'larının gerçekleştiği çadırdan bir
-kare.](http://cdn.daron.yondem.com/assets/2825/build_01.jpg)\
+kare.](media/Build_2012_Konferansi_1_Gunu/build_01.jpg)\
 *Build konferansı Keynote'larının gerçekleştiği çadırdan bir kare.*
 
 Sunumda ilk bahsedilen şey Windows 8'in satışa açıldığı geçen Cuma'dan
@@ -51,7 +51,7 @@ olsa gerek. Ballmer devamında Windows 8 yüklü cihazlardan bahsederken
 cihazları da gezip en sonunda Surface'a geldi.
 
 ![Steve Ballmer
-sahnede....](http://cdn.daron.yondem.com/assets/2825/build_02.jpg)\
+sahnede....](media/Build_2012_Konferansi_1_Gunu/build_02.jpg)\
 *Steve Ballmer sahnede....*
 
 Surface biliyorsunuz Microsoft'un ilk tablet donanımı. Şu anda sadece

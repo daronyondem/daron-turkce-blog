@@ -63,7 +63,7 @@ adını veriyor böylece blobun ismi "resimler/ornek.jpg" gibi birşey
 oluyor. Peki bunun URL'e yansıması nasıl olacak?
 
 ![Blob adını istediğimiz gibi verince URL de istediğimiz gibi oldu
-:)](http://cdn.daron.yondem.com/assets/2776/blob_cakalliklari.png)
+:)](media/Blob_Ortaminda_File_System_Etkisi_yaratmak/blob_cakalliklari.png)
 *Blob adını istediğimiz gibi verince URL de istediğimiz gibi oldu :)*
 
 Nasıl? Güzel oldu mu :) Şimdi tabi ki diyeceksiniz ki... "tamam güzel de
@@ -99,7 +99,7 @@ CloudBlobDirectory olarak alıp içindeki blobları listelemesini
 istiyoruz.
 
 ![Sanal klasörde neler
-var?](http://cdn.daron.yondem.com/assets/2776/blob_cakalliklari2.png)
+var?](media/Blob_Ortaminda_File_System_Etkisi_yaratmak/blob_cakalliklari2.png)
 *Sanal klasörde neler var?*
 
 Gördüğünüz üzere blob listesi istememize rağmen sadece bir klasör adı
@@ -137,7 +137,7 @@ klasör olup olmadığını bir anlamda anlayıp) eğer klasörse tekrar onun
 altından da bir ListBlobs çekerek dosyaları alabiliyoruz.
 
 ![Klasör ve dosya ayrımında güzel bir adım attık
-gibi.](http://cdn.daron.yondem.com/assets/2776/blob_cakalliklari3.png)
+gibi.](media/Blob_Ortaminda_File_System_Etkisi_yaratmak/blob_cakalliklari3.png)
 *Klasör ve dosya ayrımında güzel bir adım attık gibi.*
 
 Kodumuzun sonucunu da yukarıda incelerseniz tam da istediğimiz gibi bir

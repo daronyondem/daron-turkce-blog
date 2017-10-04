@@ -15,7 +15,7 @@ yapabilmemizi sağlar. Peki ya Visual Studio 2008 içerisinde açık olan
 pencereler arasında geçiş yapmak istiyorsanız ne yapacaksınız?
 
 ![Visual Studio 2008 içerisinde pencereler arası geçiş için Alt+Tab
-kombinasyonu.](http://cdn.daron.yondem.com/assets/1913/09012008.png)\
+kombinasyonu.](media/Visual_Studio_2008_ile_gelen_hos_bir_yenilik_daha/09012008.png)\
 *Visual Studio 2008 içerisinde pencereler arası geçiş için Alt+Tab
 kombinasyonu.*
 

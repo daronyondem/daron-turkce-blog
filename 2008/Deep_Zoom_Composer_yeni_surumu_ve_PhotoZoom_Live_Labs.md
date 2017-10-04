@@ -30,7 +30,7 @@ olmadıysanız hemen programın içerisindeki linkten siteye bağlanarak
 kayıt olabilirsiniz.
 
 ![PhotoZoom Servisi ve Deep Zoom
-Composer](http://cdn.daron.yondem.com/assets/2141/01082008_1.gif)\
+Composer](media/Deep_Zoom_Composer_yeni_surumu_ve_PhotoZoom_Live_Labs/01082008_1.gif)\
 *PhotoZoom Servisi ve Deep Zoom Composer*
 
 Kayıt işlemini tamamladıktan sonra doğrudan Deep Zoom Composer
@@ -39,7 +39,7 @@ yükleyebilirsiniz. Yükleme esnasında sizden üzerinde çalıştığınız pro
 için bir albüm ismi ve kapak görseli seçmeniz istenecektir.
 
 ![PhotoZoom
-yüklemesi...](http://cdn.daron.yondem.com/assets/2141/01082008_2.jpg)\
+yüklemesi...](media/Deep_Zoom_Composer_yeni_surumu_ve_PhotoZoom_Live_Labs/01082008_2.jpg)\
 *PhotoZoom yüklemesi...*
 
 Tüm ayarları tamamladıktan sonra "Upload" düğmesine bastığınızda önce

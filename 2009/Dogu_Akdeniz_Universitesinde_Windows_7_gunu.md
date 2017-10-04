@@ -18,7 +18,7 @@ dair programlama altyapısına göz attığım üç ayrı oturumda da beni yaln�
 bırakmayan herkese çok teşekkürler :)
 
 ![Doğu Akdeniz Üniversitesi,
-KKTC](http://cdn.daron.yondem.com/assets/2441/06112009_1.jpg)\
+KKTC](media/Dogu_Akdeniz_Universitesinde_Windows_7_gunu/06112009_1.jpg)\
 *Doğu Akdeniz Üniversitesi, KKTC*
 
 Organizasyonda katkısından dolayı özellikle DAÜ MSP'lerinden [Olcay

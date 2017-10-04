@@ -16,7 +16,7 @@ heyecan vardı sanki bugün Bilkent Üniversitesi'nde. Özellikle netbook
 bir başarı değil midir?
 
 ![Salona sığmayanlar bina dışından etkinliği izliyor
-:)](http://cdn.daron.yondem.com/assets/2433/26102009_1.jpg)\
+:)](media/Windows_7_Akademik_Lansman_Ankara/26102009_1.jpg)\
 *Salona sığmayanlar bina dışından etkinliği izliyor :)*
 
 Yukarıdaki fotoğraf sanırım manzarayı ve heyecanı doğru olarak
@@ -26,7 +26,7 @@ ve tüm Bilkent MSP'lerinin yanı sıra Ankara MSP'lerine etkinliğe
 katkılarından dolayı çok teşekkür ediyorum.
 
 ![Windows 7 Akademik Lansman, Ankara, Bilkent
-Üniversitesi](http://cdn.daron.yondem.com/assets/2433/26102009_2.jpg)\
+Üniversitesi](media/Windows_7_Akademik_Lansman_Ankara/26102009_2.jpg)\
 *Windows 7 Akademik Lansman, Ankara, Bilkent Üniversitesi*
 
 

@@ -16,7 +16,7 @@ kaymağı ve ekmek kadayıfı süper ikilisi aslında neredeyse oturumları
 uzatarak Afyon'a yerleşmeme bile sebep olacaktı :)
 
 ![Kocatepe Üniversitesi 2. Bilişim Günleri oturumlarımın sonundan bir
-kare.](http://cdn.daron.yondem.com/assets/2241/08112008_1.jpg)\
+kare.](media/Afyon_Kocatepe_Universitesi_nde_Silverlight_2_WPF_Dynamic_Data_ve_LINQ_seminerleri/08112008_1.jpg)\
 *Kocatepe Üniversitesi 2. Bilişim Günleri oturumlarımın sonundan bir
 kare.*
 
@@ -28,7 +28,7 @@ teşekkürler. Muhteşem bir aktiviteydi. Organizasyondaki katkılarından
 dolayı sevgili **Sadık Oral'**a özellikle teşekkür ediyorum.
 
 ![Herkese çok
-teşekkürler.](http://cdn.daron.yondem.com/assets/2241/08112008_2.jpg)\
+teşekkürler.](media/Afyon_Kocatepe_Universitesi_nde_Silverlight_2_WPF_Dynamic_Data_ve_LINQ_seminerleri/08112008_2.jpg)\
  *Rektör Yardımcısı Prof. Dr. Belkıs Özkara - Daron Yöndem*
 
 

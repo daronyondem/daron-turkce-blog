@@ -24,7 +24,7 @@ hem de INETA tarafındaki sosyal toplulukların aktivitesi ile epey güzel
 bir konumda olduğumuzu itiraf edebilirim.
 
 ![MEA MVP'leri ile beraber
-yemekteyiz.](http://cdn.daron.yondem.com/assets/2494/04032010_2.jpg)\
+yemekteyiz.](media/TechEd-ME_Dubai_sonrasinda/04032010_2.jpg)\
 *MEA MVP'leri ile beraber yemekteyiz.*
 
 Benim her gün birer oturumum olduğu için neredeyse hiç tembellik yapma
@@ -48,7 +48,7 @@ oynamak isteyenlerden yola çıkarsak :) başarılı bir sunumu sonlandırmış
 oldum.
 
 ![TechEd ME'de Multitouch Oturumum'dan bir
-kare.](http://cdn.daron.yondem.com/assets/2494/04032010_1.jpg)\
+kare.](media/TechEd-ME_Dubai_sonrasinda/04032010_1.jpg)\
 *TechEd ME'de Multitouch Oturumum'dan bir kare.*
 
 Benim için çok değerli bir üç gün oldu. Tanıştığım uzmanlarda tutun

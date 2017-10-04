@@ -54,7 +54,7 @@ yazısından](http://www.yazgelistir.com/Makaleler/1000001934.ygpx)
 edinebilirsiniz.
 
 ![DeepZoom Composer içerisinde
-fotoğraflarımız.](http://cdn.daron.yondem.com/assets/2132/23072008_1.jpg)\
+fotoğraflarımız.](media/Silverlight_2_0_icerisinde_MultiScaleImage_kullanimi_ve_DeepZoom_maceralari/23072008_1.jpg)\
 *DeepZoom Composer içerisinde fotoğraflarımız.*
 
 Biz uygulamamızda yukarıdaki gibi fotoğrafları sahneye ekleyip sağ tuş
@@ -77,7 +77,7 @@ biz kendi uygulamamızı hazırlayacağımız için sadece fotoğrafların
 düzenlenerek gerekli arşivin oluşturulmasını istiyoruz.
 
 ![DeepZoom Composer
-arşivimiz.](http://cdn.daron.yondem.com/assets/2132/23072008_2.png)\
+arşivimiz.](media/Silverlight_2_0_icerisinde_MultiScaleImage_kullanimi_ve_DeepZoom_maceralari/23072008_2.png)\
 *DeepZoom Composer arşivimiz.*
 
 Yukarıda da gördüğünüz üzere gerekli dosyalar bizim için hazırlanmış.

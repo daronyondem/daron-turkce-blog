@@ -83,7 +83,7 @@ Hemen aşağıdaki şekilde **function** içerisine almak istediğim bölümü
 seçiyorum.
 
 ![Kodumuzu harici bir function içerisinde
-alıyoruz.](http://cdn.daron.yondem.com/assets/1899/27122007_1.png)\
+alıyoruz.](media/Visual_Basic_Refactoring/27122007_1.png)\
 *Kodumuzu harici bir function içerisinde alıyoruz.*
 
 "**Extract Method**" komutu verdiğimizde Refactor bize kodu **class**

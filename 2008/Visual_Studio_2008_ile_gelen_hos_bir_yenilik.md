@@ -21,7 +21,7 @@ basmak ve Intellisense menünüz yarı şeffaf olarak size arkasındaki kodu
 görme şansı tanıyacaktır. Minik fakat süper bir yenilik.
 
 ![Visual Studio 2008 içerisinde CTRL tuşu ile yarı şeffaf Intellisense
-desteği.](http://cdn.daron.yondem.com/assets/1912/08012008.png)\
+desteği.](media/Visual_Studio_2008_ile_gelen_hos_bir_yenilik/08012008.png)\
 *Visual Studio 2008 içerisinde CTRL tuşu ile yarı şeffaf Intellisense
 desteği.*
 

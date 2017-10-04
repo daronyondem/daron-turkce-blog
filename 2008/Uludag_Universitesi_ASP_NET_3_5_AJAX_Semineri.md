@@ -16,7 +16,7 @@ Yaklaşık sanırım 2.5 saat süren bir AJAX semineri sonrasında Gençsen
 Geleceksin kısmını da tamamlayarak Uludağ Üniversitesi'nden ayrıldım.
 
 ![Uludağ Üniversitesi,
-Bursa](http://cdn.daron.yondem.com/assets/2287/25122008_1.jpg)\
+Bursa](media/Uludag_Universitesi_ASP_NET_3_5_AJAX_Semineri/25122008_1.jpg)\
 *Uludağ Üniversitesi, Bursa*
 
 Aslında bu AJAX seminerini yapmamın özel bir nedeni var. AJAX biraz

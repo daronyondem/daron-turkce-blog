@@ -17,6 +17,6 @@ farklı web sitesi tasarımını da görsel olarak dosyaya ekliyorum.
 Yapacağınız ek çalışmaları bana mail atabilirsiniz.
 
 [26042007\_1.rar - Ders Uygulama Dosyaları (580.98
-KB)](http://cdn.daron.yondem.com/assets/1734/26042007_1.rar)
+KB)](media/Mayasoft_Ders_Uygulama_Dosyalari-3/26042007_1.rar)
 
 

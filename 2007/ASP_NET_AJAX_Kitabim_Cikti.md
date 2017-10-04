@@ -17,7 +17,7 @@ kitap sonunda **516 sayfa** olarak raflarda yerini aldı. Sanırım hem
 Türkiye'de hem de uluslararası platformda sadece AJAX konulu en kapsamlı
 kitap olma özelliğine sahip.
 
-![](http://cdn.daron.yondem.com/assets/1744/ajax.gif)
+![](media/ASP_NET_AJAX_Kitabim_Cikti/ajax.gif)
 
 AJAX'ın derinliklerine dalıp hiçbir ek araç, kütüphane kullanmadan
 sunucu programlama teknolojilerinden bağımsız olarak AJAX'ı inceledikten

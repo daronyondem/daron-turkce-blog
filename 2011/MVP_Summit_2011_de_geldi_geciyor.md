@@ -20,7 +20,7 @@ verebilirim, özellikle MIX civarında süper haberler olacağına dair güzel
 ipuçları yakaladım!
 
 ![Steve Ballmer MVP Summit'te
-sahnede!](http://cdn.daron.yondem.com/assets/2551/01032011_1.jpg)\
+sahnede!](media/MVP_Summit_2011_de_geldi_geciyor/01032011_1.jpg)\
 *Steve Ballmer MVP Summit'te sahnede!*
 
 Geçen sene Seattle'ın altını üstüne getirdiğim için bu sene pek Seattle

@@ -23,7 +23,7 @@ Visualizer ile beraber XML değişkenlerinde Debug modunda daha kolay bir
 inceleme ortamı sağlanıyor.
 
 ![XML Visualizer iş
-başında.](http://cdn.daron.yondem.com/assets/2202/30092008_1.png)\
+başında.](media/Debug_modunda_XML_degiskenlerini_incelemek_icin_gelismis_XML_Visualizer/30092008_1.png)\
 *XML Visualizer iş başında.*
 
 XML Visualizer'ın kendi ekranında ise birçok seçenek bulunuyor. Ekran
@@ -31,7 +31,7 @@ ilk açıldığında XML kodlarını doğrudan Internet Explorer'ın motoru ile
 gösterdiği için Ctrl+F gibi arama işlemlerini kullanabiliyoruz.
 
 ![XML Visualizer aslında IE'nin motorunu
-kullanıyor.](http://cdn.daron.yondem.com/assets/2202/30092008_2.png)\
+kullanıyor.](media/Debug_modunda_XML_degiskenlerini_incelemek_icin_gelismis_XML_Visualizer/30092008_2.png)\
 *XML Visualizer aslında IE'nin motorunu kullanıyor.*
 
 İsterseniz görüntüye bir XSLT dosyası bağlayabileceğiniz gibi isterseniz
@@ -39,7 +39,7 @@ farklı XPATH sorguları yazarak doğrudan elinizdeki XML'i
 sorgulayabilirsiniz de.
 
 ![XPATH sorguları Debug
-verilerinde!](http://cdn.daron.yondem.com/assets/2202/30092008_3.png)\
+verilerinde!](media/Debug_modunda_XML_degiskenlerini_incelemek_icin_gelismis_XML_Visualizer/30092008_3.png)\
 *XPATH sorguları Debug verilerinde!*
 
 **Nasıl yüklenir?**

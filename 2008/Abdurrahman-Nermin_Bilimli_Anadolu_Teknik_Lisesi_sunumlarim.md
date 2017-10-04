@@ -20,7 +20,7 @@ bence çok büyük. Aşağıdaki fotoğrafa baktığınızda eminim ki sizler de
 benimle aynı duyguları paylaşacaksınız.
 
 ![Abdurrahman-Nermin Bilimli Anadolu Teknik
-Lisesi](http://cdn.daron.yondem.com/assets/2279/17122008_1.jpg)\
+Lisesi](media/Abdurrahman-Nermin_Bilimli_Anadolu_Teknik_Lisesi_sunumlarim/17122008_1.jpg)\
 *Abdurrahman-Nermin Bilimli Anadolu Teknik Lisesi*
 
 Organizasyon için sevgili hocalarımıza çok teşekkür ediyorum. Normalde 3

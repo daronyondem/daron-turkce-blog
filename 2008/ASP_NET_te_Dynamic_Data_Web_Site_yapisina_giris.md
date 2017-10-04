@@ -34,7 +34,7 @@ sorun yaratmayacağını öngörebiliriz. Dynamic Data Web Site mantığında da
 bir şekilde SQL 2008'de örnek bir veri tabanı yaratacağız.
 
 ![Örneğimizdeki veritabanının
-tasarımı.](http://cdn.daron.yondem.com/assets/2213/11102008_1.png)\
+tasarımı.](media/ASP_NET_te_Dynamic_Data_Web_Site_yapisina_giris/11102008_1.png)\
 *Örneğimizdeki veritabanının tasarımı.*
 
 Veritabanımızı yukarıdaki şemaya göre yarattıktan sonra artık hemen bu
@@ -131,7 +131,7 @@ bunun detaylarına daha ileride gireceğiz.
 projemizi çalıştıralım :)
 
 ![Dynamic Data Web Site'ın ilk
-görünümü.](http://cdn.daron.yondem.com/assets/2213/11102008_2.png)\
+görünümü.](media/ASP_NET_te_Dynamic_Data_Web_Site_yapisina_giris/11102008_2.png)\
 *Dynamic Data Web Site'ın ilk görünümü.*
 
 Gördüğünüz gibi site çalıştığında anda kendisine bağlı tüm tabloları
@@ -142,7 +142,7 @@ rahatlıkla değiştirebilirsiniz, başka seçenekler de var ama onları da
 ileride inceleyeceğiz.
 
 ![Kategoriler tablosu
-listeleniyor.](http://cdn.daron.yondem.com/assets/2213/11102008_3.png)\
+listeleniyor.](media/ASP_NET_te_Dynamic_Data_Web_Site_yapisina_giris/11102008_3.png)\
 *Kategoriler tablosu listeleniyor.*
 
 Benim daha önce veritabanına girişini yaptığın birkaç veriyi yukarıdaki
@@ -154,7 +154,7 @@ yanına bir "View Urunlers" linki konarak bu kategorideki ürünlerin
 görülebileceği sayfaya birer de link konmuş. Eh gönül daha ne ister?
 
 ![Ürünler'in gösterildiği Dynamic Data
-Sayfası](http://cdn.daron.yondem.com/assets/2213/11102008_4.png)\
+Sayfası](media/ASP_NET_te_Dynamic_Data_Web_Site_yapisina_giris/11102008_4.png)\
 *Ürünler'in gösterildiği Dynamic Data Sayfası*
 
 Ürünlerin gösterildiği sayfaya gittiğimizde ise otomatik olarak
@@ -163,7 +163,7 @@ olarak kullanılabildiğini görüyoruz. Ayrıca burada da hem yeni ürün
 ekleme amaçlı hem de düzenleme için gerekli tüm detaylar hazırlanmış.
 
 ![Ürünler'imizin detaylarını düzenleyebileceğimiz sayfalar da
-hazır.](http://cdn.daron.yondem.com/assets/2213/11102008_5.png)\
+hazır.](media/ASP_NET_te_Dynamic_Data_Web_Site_yapisina_giris/11102008_5.png)\
 *Ürünler'imizin detaylarını düzenleyebileceğimiz sayfalar da hazır.*
 
 Herhangi bir ürüne ait Edit linkine tıkladığımızda gittiğimiz sayfada

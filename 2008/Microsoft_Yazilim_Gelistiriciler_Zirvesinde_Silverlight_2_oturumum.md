@@ -15,7 +15,7 @@ ben sundum. Ayrıca Live Framework ile ilgili oturuma da konuk konuşmacı
 olarak katılma şansım oldu :)
 
 ![Microsoft Yazılım Geliştiriciler Zirvesi, Silverlight 2
-Oturumum](http://cdn.daron.yondem.com/assets/2265/03122008_1.jpg)\
+Oturumum](media/Microsoft_Yazilim_Gelistiriciler_Zirvesinde_Silverlight_2_oturumum/03122008_1.jpg)\
 *Microsoft Yazılım Geliştiriciler Zirvesi, Silverlight 2 Oturumum*
 
 45 dakika süren oturumda WCF ile sunucudan veri çekerek bir Silverlight
@@ -33,7 +33,7 @@ faydalı olmuştur etkinlik.
 Zirvede kullandığım sunumu aşağıdaki adresten indirebilirsiniz;
 
 [Silverlight 2.0 Sunumum - 03122008\_2.pptx (298,82
-KB)](http://cdn.daron.yondem.com/assets/2265/03122008_2.pptx)
+KB)](media/Microsoft_Yazilim_Gelistiriciler_Zirvesinde_Silverlight_2_oturumum/03122008_2.pptx)
 
 Hepinize kolay gelsin.
 

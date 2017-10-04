@@ -16,7 +16,7 @@ oturumunu yaptık.
 
 ![Silverlight, RIA Services Ve Kendi Business Objeleriniz, Kendi Data
 Katmanınız
-Webineri](http://cdn.daron.yondem.com/assets/2733/sl_ria.jpg)\
+Webineri](media/Silverlight_RIA_Services_Ve_Kendi_Is_Katmaniniz/sl_ria.jpg)\
 Webiner kaydını indirmek için
 [SeminerTV'ye](http://daron.yondem.com/tr/seminertv/) uğrayın!
 
@@ -25,6 +25,6 @@ Webiner kaydı hazır :) Hemen
 Webinerdeki örnek proje ve kodlar da aşağıda ;) Görüşmek üzere!
 
 [Örnek Projeler - sl\_ria\_ornekler.rar (4.88
-MB)](http://cdn.daron.yondem.com/assets/2733/sl_ria_ornekler.rar)
+MB)](media/Silverlight_RIA_Services_Ve_Kendi_Is_Katmaniniz/sl_ria_ornekler.rar)
 
 

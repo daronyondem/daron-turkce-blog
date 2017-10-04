@@ -19,7 +19,7 @@ gösterir. Peki Azure projesi içerisindeki bu diğer dosyaların anlamı ne?
 İşte şimdi bu soruyu cevaplayacağız :)
 
 ![Solution Explorer'daki config dosyaları bize
-bakıyor...](http://cdn.daron.yondem.com/assets/2760/config.jpg)\
+bakıyor...](media/Azure_da_Web_ve_Worker_Role_Konfigurasyon_Yapisi/config.jpg)\
 *Solution Explorer'daki config dosyaları bize bakıyor...*
 
 Azure projenizi yarattığınız anda hemen bir csdef ve iki cscfg dosyası
@@ -407,7 +407,7 @@ bahsettiğimiz ayarların bazılarını düzenleyebilmenizi sağlayacak bir GUI
 gelecektir.
 
 ![Visual Studio içerisinden
-konfigürasyonlar.](http://cdn.daron.yondem.com/assets/2760/config2.jpg)\
+konfigürasyonlar.](media/Azure_da_Web_ve_Worker_Role_Konfigurasyon_Yapisi/config2.jpg)\
 *Visual Studio içerisinden konfigürasyonlar.*
 
 Yukarıdaki ekran görüntüsünde gördüklerimize hızlıca göz atalım. Bazları

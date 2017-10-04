@@ -19,7 +19,7 @@ ilgili videolar ve fotoğraflar çok yakında bu blogda :)
 diyebilirim. Yine her zamanki gibi benim için muhteşem zevkliydi.
 
 ![Pazar akşamı saat yedide Capital Hit'i
-sonlandırdık.](http://cdn.daron.yondem.com/assets/2222/20102008_1.jpg)\
+sonlandırdık.](media/Ankara_dan_bir_Capital_Hit_geldi_gecti/20102008_1.jpg)\
 *Pazar akşamı saat yedide Capital Hit'i sonlandırdık.*
 
 Aktiviteye katılan tüm konuşmacı dostlarıma binlerce teşekkür. Ayrıca
@@ -34,11 +34,11 @@ hazırlamaya çalışıyorum. En kısa zamanda sizlerle buradan paylaşacağım.
 Şimdilik aşağıdaki sunumlarla idare edelim :)
 
 [AdoNet Data Services / Burak Selim Şenyurt - 20102008\_1.pptx (1,01
-MB)](http://cdn.daron.yondem.com/assets/2222/20102008_1.pptx)\
+MB)](media/Ankara_dan_bir_Capital_Hit_geldi_gecti/20102008_1.pptx)\
 [LINQ / Uğur Umutluoğlu - 20102008\_2.pptx (750,29
-KB)](http://cdn.daron.yondem.com/assets/2222/20102008_2.pptx)\
+KB)](media/Ankara_dan_bir_Capital_Hit_geldi_gecti/20102008_2.pptx)\
 [WCF / Burak Selim Şenyurt - 20102008\_3.pptx (460,14
-KB)](http://cdn.daron.yondem.com/assets/2222/20102008_3.pptx)
+KB)](media/Ankara_dan_bir_Capital_Hit_geldi_gecti/20102008_3.pptx)
 
 *Not: Bu sefer ben hiç sunum kullanmadım, doğrudan demolarla ilerledim.
 O nedenle sunum paylaşamıyorum.*

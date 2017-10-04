@@ -16,7 +16,7 @@ bir odaya kapandık :) Projelerinde karşılaştıkları bazı esaslı
 sorunlarla ilgili çözümler ürettikten sonra günü sonlandırdık.
 
 ![İstanbul Ticaret Üniversitesi, Silverlight ve WPF
-Seminerleri](http://cdn.daron.yondem.com/assets/2300/07012009_1.jpg)\
+Seminerleri](media/Istanbul_Ticaret_Universitesi_seminerlerim/07012009_1.jpg)\
 *İstanbul Ticaret Üniversitesi, Silverlight ve WPF Seminerleri*
 
 Organizasyondaki katkısından dolayı MSP Bilgehan Gürünlü ve Kemal Can

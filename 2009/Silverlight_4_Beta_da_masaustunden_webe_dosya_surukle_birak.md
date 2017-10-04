@@ -286,7 +286,7 @@ onu da uygulamamızdaki **Image** nesnesine **Source** olarak veriyoruz.
 İşlem tamam.
 
 ![Masaüstünden webe
-Sürükle&Bırak!](http://cdn.daron.yondem.com/assets/2460/27112009_1.jpg)\
+Sürükle&Bırak!](media/Silverlight_4_Beta_da_masaustunden_webe_dosya_surukle_birak/27112009_1.jpg)\
 *Masaüstünden webe Sürükle&Bırak!*
 
 Artık uygulamamız tarayıcı içerisinde çalışırken işletim sisteminden

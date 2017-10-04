@@ -88,7 +88,7 @@ hiç dokunmadan Blend içerisinden bir **FluidMoveBehavior** alarak Grid
 içerisine atacağız.
 
 ![FluidMoveBehavior iş
-başında...](http://cdn.daron.yondem.com/assets/2534/03092010_1.png)\
+başında...](media/Silverlight_4_te_FluidMoveBehavior_ne_ise_yarar/03092010_1.png)\
 *FluidMoveBehavior iş başında...*
 
 Yukarıdaki ekran görüntüsünde de adım adım inceleyebileceğiniz üzere
@@ -97,7 +97,7 @@ Grid'in içine atmak sonrasında ek olarak FluidMoveBehavior seçiliyken
 özelliklerinden **AppliesTo'yu** **Children** olarak değiştiriyoruz.
 
 ![FluidMoveBehavior Grid'in Children'larına
-uygulansın.](http://cdn.daron.yondem.com/assets/2534/03092010_2.png)\
+uygulansın.](media/Silverlight_4_te_FluidMoveBehavior_ne_ise_yarar/03092010_2.png)\
 *FluidMoveBehavior Grid'in Children'larına uygulansın.*
 
 Burada yaptığımız ayar ile **FluidMoveBehavior'a** Grid ile değil de
@@ -137,7 +137,7 @@ ListBoxItem'lar aralarından kaldırılan arkadaşın yerine doğru kayarak
 animasyonla kaysalar?
 
 ![ListBox'ın ItemsPanel'ine
-ulaşırken.](http://cdn.daron.yondem.com/assets/2534/03092010_4.png)\
+ulaşırken.](media/Silverlight_4_te_FluidMoveBehavior_ne_ise_yarar/03092010_4.png)\
 *ListBox'ın ItemsPanel'ine ulaşırken.*
 
 ListBox'ımıza sağ tuş ile tıkladıktan sonra "Edit Additional Templates /
@@ -147,7 +147,7 @@ kendi containerları içerisine konduktan sonra kondukları yer. Bakalım
 içeride ne varmış...
 
 ![ItemsPanel'de bir StackPanel var. İçine FluidMoveBehavior
-atsak?](http://cdn.daron.yondem.com/assets/2534/03092010_5.png)\
+atsak?](media/Silverlight_4_te_FluidMoveBehavior_ne_ise_yarar/03092010_5.png)\
 *ItemsPanel'de bir StackPanel var. İçine FluidMoveBehavior atsak?*
 
 ItemsPanel'e girdiğimizde orada bir StackPanel buluyoruz. Çok mantıklı!
@@ -169,6 +169,6 @@ güzel sonuçlar alacağınızdan eminim. Ben hafiften yukarıda kullandım ;)
 Hepinize kolay gelsin.
 
 [Örnek Kaynak Kodlar : 03092010\_7.rar (38,98
-KB)](http://cdn.daron.yondem.com/assets/2534/03092010_7.rar)
+KB)](media/Silverlight_4_te_FluidMoveBehavior_ne_ise_yarar/03092010_7.rar)
 
 

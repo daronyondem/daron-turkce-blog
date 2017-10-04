@@ -20,12 +20,12 @@ paylaşma kararı aldım :) Sanırım ayda bir wallpaper falan çıkar :) Ne
 kadar fotoğraf avına gittiğimle de alakalı tabi bu durum :)
 
 ![New York City, Empire State
-Tepesinden](http://cdn.daron.yondem.com/assets/2817/wallpaper.jpg)\
+Tepesinden](media/Eylul_Wallpaperi_New_York/wallpaper.jpg)\
 *New York City, Empire State Tepesinden*\
- [2560x1440](http://cdn.daron.yondem.com/assets/2817/2560x1440.jpg),
-[1920x1080](http://cdn.daron.yondem.com/assets/2817/1920x1080.jpg),
-[1280x800](http://cdn.daron.yondem.com/assets/2817/1280x800.jpg),
-[1366x768](http://cdn.daron.yondem.com/assets/2817/1366x768.jpg)
+ [2560x1440](media/Eylul_Wallpaperi_New_York/2560x1440.jpg),
+[1920x1080](media/Eylul_Wallpaperi_New_York/1920x1080.jpg),
+[1280x800](media/Eylul_Wallpaperi_New_York/1280x800.jpg),
+[1366x768](media/Eylul_Wallpaperi_New_York/1366x768.jpg)
 
 Bu ilk fotoğraf geçen ayki New York ziyaretimden. Empire State binasının
 tepesine çıktığımda :) etrafın fotoğrafını çekerken yakaladığım güzel

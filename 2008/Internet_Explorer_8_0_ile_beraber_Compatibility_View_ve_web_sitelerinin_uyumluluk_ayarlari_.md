@@ -34,7 +34,7 @@ algılayıp kullanıcıyı uyarabiliyor ve farklı tarayıcı motorları arasın
 geçiş tarayıcının kapatılıp tekrar açılmasını gerektirmiyor.
 
 !["Compatibility View"
-düğmesi.](http://cdn.daron.yondem.com/assets/2181/09092008_1.png)\
+düğmesi.](media/Internet_Explorer_8_0_ile_beraber_Compatibility_View_ve_web_sitelerinin_uyumluluk_ayarlari_/09092008_1.png)\
 *"Compatibility View" düğmesi.*
 
 "Compatibility View" düğmesine basarak eski standartlara göre açtığınız
@@ -55,7 +55,7 @@ ister tüm sitelerin IE 7 gibi gösterilmesini veya sadece adresini
 ilettiğiniz sitelerin IE 7 olarak açılmasını sağlayabilirsiniz.
 
 ![Hangi sitelerinde "Compatibility View" modunda açılacağını
-belirleyebiliyorsunuz.](http://cdn.daron.yondem.com/assets/2181/09092008_2.png)\
+belirleyebiliyorsunuz.](media/Internet_Explorer_8_0_ile_beraber_Compatibility_View_ve_web_sitelerinin_uyumluluk_ayarlari_/09092008_2.png)\
 *Hangi sitelerinde "Compatibility View" modunda açılacağını
 belirleyebiliyorsunuz.*
 

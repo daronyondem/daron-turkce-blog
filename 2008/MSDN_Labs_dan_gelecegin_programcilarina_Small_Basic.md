@@ -57,7 +57,7 @@ yakalayabilirsiniz. Her komutun detaylı açıklamaları da Intellisense
 içerisinde bulunuyor. Maalesef şimdilik her şey İngilizce :(
 
 ![Small Basic
-IDE](http://cdn.daron.yondem.com/assets/2225/23102008_1.jpg)\
+IDE](media/MSDN_Labs_dan_gelecegin_programcilarina_Small_Basic/23102008_1.jpg)\
 *Small Basic IDE*
 
 Yukarıda da gördüğünüz üzere hem arayüzün kendisi hem de Intellisense
@@ -69,7 +69,7 @@ gezdirebiliyorsunuz ve gezdikçe arkasında bir çizgi bırakıyor. Amaç
 kaplumbağayı gezdirerek çizim yaptırmak :)
 
 ![Kaplumbağa
-yolda...](http://cdn.daron.yondem.com/assets/2225/23102008_2.jpg)\
+yolda...](media/MSDN_Labs_dan_gelecegin_programcilarina_Small_Basic/23102008_2.jpg)\
 *Kaplumbağa yolda...*
 
 Small Basic gerçekten süper olmuş, bana çocukluk yıllarımı hatırlattı.

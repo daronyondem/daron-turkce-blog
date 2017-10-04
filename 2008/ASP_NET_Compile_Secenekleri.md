@@ -37,7 +37,7 @@ nasipmiş. Programı hemen aşağıdaki adresten indirebilirsiniz.
 KB)](http://www.west-wind.com/files/tools/WestWindAspNetCompilerUI.zip)
 
 ![ASP.NET Compiler
-Yardımcısı](http://cdn.daron.yondem.com/assets/1927/21012008_1.png)\
+Yardımcısı](media/ASP_NET_Compile_Secenekleri/21012008_1.png)\
 *ASP.NET Compiler Yardımcısı*
 
 Programın tüm özelliklerini tek tek anlatmaktansa yukarıdaki fotoğrafta

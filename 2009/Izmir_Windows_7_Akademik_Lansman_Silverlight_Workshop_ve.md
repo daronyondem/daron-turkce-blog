@@ -18,7 +18,7 @@ Akademik Lansman'da konuşmak üzere başka bir binaya doğru koşmak
 durumunda kaldım :) Tamam itiraf ediyorum, arabayla gittik.
 
 ![Silverlight Workshop, Ege
-Üniversitesi](http://cdn.daron.yondem.com/assets/2435/27102009_2.jpg)\
+Üniversitesi](media/Izmir_Windows_7_Akademik_Lansman_Silverlight_Workshop_ve/27102009_2.jpg)\
 *Silverlight Workshop, Ege Üniversitesi*
 
 Windows 7 Akademik Lansmanların üçüncü ayağı olan İzmir ayağını yine Ege
@@ -28,7 +28,7 @@ rağmen arkadaşından çok sevinen :) kardeşimiz beni gerçekten çok güldür
 Bir an kazanan kendisi sandım.
 
 ![Windows 7 Akademik Lansman, İzmir, Ege
-Üniversitesi](http://cdn.daron.yondem.com/assets/2435/27102009_1.jpg)\
+Üniversitesi](media/Izmir_Windows_7_Akademik_Lansman_Silverlight_Workshop_ve/27102009_1.jpg)\
 *Windows 7 Akademik Lansman, İzmir, Ege Üniversitesi*
 
 Buradan özellikle Ege'deki tüm MSP'lerimize çok çok teşekkür ediyorum.

@@ -18,7 +18,7 @@ oluşturmak veya bazen de eldeki teknolojileri görerek yeni fikirler
 üretmelerini sağlamak.
 
 ![Irbid, Ürdün, Mobile Startup
-Week-End](http://cdn.daron.yondem.com/assets/2567/23042011_1.jpg)\
+Week-End](media/Urdun_Irbid_Mobile_Startup_Week-End_Sonrasinda/23042011_1.jpg)\
 *Irbid, Ürdün, Mobile Startup Week-End, Gün 1*
 
 Malum Ürdün'de Cuma-Cumartesi'leri hafta sonu olarak tanımlandığı için
@@ -28,7 +28,7 @@ Cumartesi günleri de günde 4 oturum olmak üzere toplam 8 oturumluk bir
 Windows Phone 7 seminer serisi sundum.
 
 ![Irbid, Ürdün, Mobile Startup Week-End, Gün
-2](http://cdn.daron.yondem.com/assets/2567/23042011_2.jpg)\
+2](media/Urdun_Irbid_Mobile_Startup_Week-End_Sonrasinda/23042011_2.jpg)\
 *Irbid, Ürdün, Mobile Startup Week-End, Gün 2*
 
 Etkinliğin sonunda yapılan sunumlarda sadece benim oturumlara katılan

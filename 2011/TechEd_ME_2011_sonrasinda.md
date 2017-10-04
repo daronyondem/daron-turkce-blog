@@ -20,7 +20,7 @@ yol almamız gerektiğini yadsıyamayacak olsam da bir yılda alınan yol
 ciddi şekilde ümit vaat ediyor.
 
 ![Windows Phone 7 Performans Taktikleri Oturumum, TechEd Middle East,
-Dubai](http://cdn.daron.yondem.com/assets/2553/10032011_1.jpg)\
+Dubai](media/TechEd_ME_2011_sonrasinda/10032011_1.jpg)\
 *Windows Phone 7 Performans Taktikleri Oturumum, TechEd Middle East,
 Dubai (Foto: [Masoud Al-Helou](http://www.facebook.com/masuodo))*
 
@@ -40,10 +40,10 @@ ve slaytlara aşağıdaki linklerden ulaşabilirsiniz.
 
 [Silverlight Performance on Windows Phone - Codes and Slides -
 10032011\_3.rar (2,03
-MB)](http://cdn.daron.yondem.com/assets/2553/10032011_3.rar)\
+MB)](media/TechEd_ME_2011_sonrasinda/10032011_3.rar)\
  [Stepping Outside the Browser with Microsoft Silverlight 4 - Codes and
 Slides - 10032011\_2.rar (46,70
-MB)](http://cdn.daron.yondem.com/assets/2553/10032011_2.rar)
+MB)](media/TechEd_ME_2011_sonrasinda/10032011_2.rar)
 
 Hepinize kolay gelsin ;)
 

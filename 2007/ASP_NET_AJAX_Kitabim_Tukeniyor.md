@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 398d9d5c-4298-45e5-a9bc-9b350451002c
 ---
-![](http://cdn.daron.yondem.com/assets/1847/ajax.gif)Bugün [Pusula
+![](media/ASP_NET_AJAX_Kitabim_Tukeniyor/ajax.gif)Bugün [Pusula
 Yayıncılık](http://www.pusula.com) ile yaptığım görüşmede kitabımla
 ilgili stokların tükenmeye yaklaştığını öğrenerek sevindim. Kitabın
 özellikle ASP.NET'i bilenlere hitap ettiğini ve yayınlandığı Haziran'dan

@@ -33,7 +33,7 @@ tarafında kullanabilirsiniz. Her iki altyapıda da aynı şekilde
 projesi yaratalım.
 
 ![İlk Sketchflow projemizi
-yaratıyoruz.](http://cdn.daron.yondem.com/assets/2403/06092009_1.png)\
+yaratıyoruz.](media/Expression_Blend_ve_SketchFlow/06092009_1.png)\
 *İlk Sketchflow projemizi yaratıyoruz.*
 
 Normal bir Blend projesine göre Sketchflow projeleri Blend ile
@@ -46,7 +46,7 @@ yapılacak? gibi tüm soruları harita üzerinde gerekli kontrolleri
 yarattıkça cevaplamış oluyorsunuz.
 
 ![SkethFlow projelerinde Map üzerinde
-çalışmak.](http://cdn.daron.yondem.com/assets/2403/06092009_2.png)
+çalışmak.](media/Expression_Blend_ve_SketchFlow/06092009_2.png)
 
 Skethflow ile bir prototip geliştirirken tüm projenizin bir haritasını
 yarattığınızı düşünebilirsiniz. Her ekranınız için haritada bir sayfa
@@ -87,7 +87,7 @@ stillerle değiştirilmiş kontroller bulunuyor. "Asset Library" altında
 **SketchStyles** seçeneğini bulacaksınız.
 
 ![Sketchflow'a özel
-SketchStyles.](http://cdn.daron.yondem.com/assets/2403/06092009_3.png)\
+SketchStyles.](media/Expression_Blend_ve_SketchFlow/06092009_3.png)\
 *Sketchflow'a özel SketchStyles.*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz üzere SketchStyles
@@ -108,7 +108,7 @@ tıklarsanız karşınıza gelen menünün en altında **Navigate** komutunu
 bulabilirsiniz.
 
 ![Navigasyonun kolay
-yolu.](http://cdn.daron.yondem.com/assets/2403/06092009_4.png)\
+yolu.](media/Expression_Blend_ve_SketchFlow/06092009_4.png)\
 *Navigasyonun kolay yolu.*
 
 Gördüğünüz gibi içerisinde olduğumuz **Giris** sayfasında
@@ -134,7 +134,7 @@ durumlarda StoryBoard'lara kıyasla daha kolay kullanılabilen SketchFlow
 Animation'larından faydalanabilirsiniz.
 
 ![SketchFlow animasyonlarını yaratmanın
-yolu.](http://cdn.daron.yondem.com/assets/2403/06092009_5.png)
+yolu.](media/Expression_Blend_ve_SketchFlow/06092009_5.png)
 
 SkethFlow animasyonlarında tüm ekranın aslında birer State serisi olarak
 kaydedildiğini düşünebilirsiniz. Ekranın farklı durumları vardır ve
@@ -143,7 +143,7 @@ süreleri, ivmeleri vs belirlenir. Sonrasında bu animasyon herhangi bir
 kontrol tarafından hızlıca tetiklenebilir.
 
 ![SkethFlow animasyonlarını
-oynatırken.](http://cdn.daron.yondem.com/assets/2403/06092009_6.png)\
+oynatırken.](media/Expression_Blend_ve_SketchFlow/06092009_6.png)\
 *SkethFlow animasyonlarını oynatırken.*
 
 Herhangi bir kontrole sağ tıkladıktan sonra gelen menüde "Play SkethFlow
@@ -164,7 +164,7 @@ EXE olarak Silverlight'ta ise bir web sitesi olarak karşımıza
 yeterli olacaktır.
 
 ![SketchFlow Player
-karşınızda.](http://cdn.daron.yondem.com/assets/2403/06092009_7.png)\
+karşınızda.](media/Expression_Blend_ve_SketchFlow/06092009_7.png)\
 *SketchFlow Player karşınızda.*
 
 Bahsettiğimiz üzere SketchFlow player duruma göre bir Silverlight veya
@@ -177,7 +177,7 @@ kullanılabilir durumdadır. İşin en güzel tarafı ise müşteriniz bu player
 üzerinden projeyi incelerken yorumlar da yapabilir.
 
 ![Müşteriden gelen
-yorumlar.](http://cdn.daron.yondem.com/assets/2403/06092009_8.png)\
+yorumlar.](media/Expression_Blend_ve_SketchFlow/06092009_8.png)\
 *Müşteriden gelen yorumlar.*
 
 SketchFlow Player içerisinde rahatlıkla müşteriniz "Feedback" ekranını
@@ -188,7 +188,7 @@ sonra müşterinizden gelen XML'i ekleyerek doğrudan projeniz üzerinde
 görebilirsiniz.
 
 ![Müşteri yorumları Blend
-içerisinde.](http://cdn.daron.yondem.com/assets/2403/06092009_9.png)\
+içerisinde.](media/Expression_Blend_ve_SketchFlow/06092009_9.png)\
 *Müşteri yorumları Blend içerisinde.*
 
 **Müşterim ekran görüntülerini teklifin içinde istiyor!**
@@ -201,7 +201,7 @@ bittikten sonra "File" menüsünden "**Export to Microsoft Word**"
 komutunu verebilirsiniz.
 
 ![Projemizin detayları bir Word
-dokümanında.](http://cdn.daron.yondem.com/assets/2403/06092009_10.png)\
+dokümanında.](media/Expression_Blend_ve_SketchFlow/06092009_10.png)\
 *Projemizin detayları bir Word dokümanında.*
 
 Projenizdeki her ekran ayrı birer sayfada ekran görüntüsü ile beraber

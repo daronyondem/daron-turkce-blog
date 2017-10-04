@@ -18,7 +18,7 @@ ile ilgili yazılımcılar ve tasarımcılar için Türkçe bir kitapçık
 yazmıştım.
 
 ![Internet Explorer 8 hepsiburada.com'da en çok satan
-kitap.](http://cdn.daron.yondem.com/assets/2423/10102009_1.gif)\
+kitap.](media/Ingilizce_Internet_Explorer_8_Kitapcigim/10102009_1.gif)\
 *Internet Explorer 8 hepsiburada.com'da en çok satan kitap.*
 
 Internet Explorer kitabımla ilgili çevremdeki developerlardan çok ilginç
@@ -37,7 +37,7 @@ blogumda](http://daron.yondem.com/en/post/ee0ebaff-2381-4ce5-a5df-b909231cea7a)s
 konusu duyuryu geçenlerde çıktım.
 
 ![Internet Explorer 8 İngilizce
-Kitabım](http://cdn.daron.yondem.com/assets/2423/10102009_2.jpg)\
+Kitabım](media/Ingilizce_Internet_Explorer_8_Kitapcigim/10102009_2.jpg)\
 *Internet Explorer 8 İngilizce Kitabım*
 
 Kitap tüm Ortadoğu Afrika bölgesinde şimdiden 10'a yakın ülkede

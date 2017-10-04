@@ -28,7 +28,7 @@ Publishing Points listesine sağ tıklayarak gelen menüden "**Add
 Publishing Point (Advanced)**" seçeneğini işaretliyoruz.
 
 !["Publishing Point"
-ayarları](http://cdn.daron.yondem.com/assets/1928/22012008_1.png)\
+ayarları](media/Silverlight_Expression_Encoder_ve_Windows_Media_Services_ile_canli_yayin/22012008_1.png)\
 *"Publishing Point" ayarları*
 
 Karşınıza çıkan ekranda yukarıdaki gibi yapacağınız ayarlar sonrasında
@@ -55,7 +55,7 @@ Services yönetim penceresinde sunucuya tıkladıktan sonra sağ panelde
 "Properties" sayfasına geçerek "**Control Protocol**" ayarlarına geçin.
 
 ![Media Services
-ayarları](http://cdn.daron.yondem.com/assets/1928/22012008_2.png)\
+ayarları](media/Silverlight_Expression_Encoder_ve_Windows_Media_Services_ile_canli_yayin/22012008_2.png)\
 *Media Services ayarları*
 
 Yukarıdaki ekranda da görebileceğiniz üzere "**WMS HTTP Server Control
@@ -82,7 +82,7 @@ dosyaları kullanabileceğiniz bir yayın ortamı bulunuyor. Bizi şu an
 ilgilendiren esas ayarlar "**Output**" tabında yer alıyor.
 
 ![Expression Encoder ile canlı
-yayındayız.](http://cdn.daron.yondem.com/assets/1928/22012008_3.png)\
+yayındayız.](media/Silverlight_Expression_Encoder_ve_Windows_Media_Services_ile_canli_yayin/22012008_3.png)\
 *Expression Encoder ile canlı yayındayız.*
 
 Bu ekranda "Publishing Point" seçeneğini işaretleyerek bağlanacağımız

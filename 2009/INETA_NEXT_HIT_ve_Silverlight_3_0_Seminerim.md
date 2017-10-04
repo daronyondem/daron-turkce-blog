@@ -9,7 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 05fb7bfc-640f-417d-b933-8e866740cd6b
 ---
-![](http://cdn.daron.yondem.com/assets/2347/12042009_4.jpg)Bu hafta sonu
+![](media/INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim/12042009_4.jpg)Bu hafta sonu
 bildiğiniz üzere INETA NEXT HİT'deydik! İlk gün sevgili [Mehmet Nuri
 Çankaya](http://www.nuricankaya.com/)'nın **Windows 7** oturumundan
 sonra ben de ilk **Silverlight 3.0** seminerimi sunmuş oldum. Sonrasında
@@ -27,7 +27,7 @@ yeniliklerden Visual Studio 2010 üzerinde bahsederken [Burak Selim
 sağladı.
 
 ![INETA NEXT'in sonundan bir
-kare...](http://cdn.daron.yondem.com/assets/2347/12042009_1.jpg)\
+kare...](media/INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim/12042009_1.jpg)\
 *INETA NEXT'in sonundan bir kare...*
 
 Tüm bu maraton içerisinde eminim ki hatalarımız da olmuştur. Umarım
@@ -36,8 +36,8 @@ adıma gerçekten güzel ve zevkliydi. Tüm oturumlarımda yaptığım örnekler
 ve ek dosyaları topladım, hepsini aşağıdan indirebilirsiniz.
 
 [Silverlight 3.0 Sunumu ve Örnekleri (12042009\_2.rar - 33,4
-MB)](http://cdn.daron.yondem.com/assets/2347/12042009_2.rar)\
+MB)](media/INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim/12042009_2.rar)\
  [WPF ve Multitouch Sunumu ve Örnekleri (12042009\_2.rar - 31,7
-MB)](http://cdn.daron.yondem.com/assets/2347/12042009_3.rar)
+MB)](media/INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim/12042009_3.rar)
 
 

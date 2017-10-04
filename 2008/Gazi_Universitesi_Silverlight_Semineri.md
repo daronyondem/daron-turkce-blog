@@ -17,13 +17,13 @@ sevgili **Veysel Uğur KIZMAZ**'a organizasyondaki emekleri için çok
 teşekkür ediyorum.
 
 ![Silverlight Semineri, Gazi Üniversitesi,
-Ankara](http://cdn.daron.yondem.com/assets/2025/15042008_2.jpg)\
+Ankara](media/Gazi_Universitesi_Silverlight_Semineri/15042008_2.jpg)\
 *Silverlight Semineri, Gazi Üniversitesi, Ankara*
 
 Seminer boyunca yaptığımız örneği ve kullandığım sunumu aşağıdaki
 adresten indirebilirsiniz.
 
 [Örnek Uygulamalar ve Sunum - 15042008\_1.rar (2,98
-MB)](http://cdn.daron.yondem.com/assets/2025/15042008_1.rar)
+MB)](media/Gazi_Universitesi_Silverlight_Semineri/15042008_1.rar)
 
 

@@ -19,7 +19,7 @@ Bana MCT eğitimlerindeki 5 dakikalık sunumlarımızı hatırlattı :)
 GeekZone programını aşağıda inceleyebilirsiniz.
 
 ![GeekZone
-Programı](http://cdn.daron.yondem.com/assets/2206/04102008_1.jpg)\
+Programı](media/CEBIT_fuarinda_GEEK_ZONE_a_beklerim/04102008_1.jpg)\
 *GeekZone Programı*
 
 

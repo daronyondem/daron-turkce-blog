@@ -266,7 +266,7 @@ benim makinemde CPU kullanımı %25'ten %20'lere indi. Tabi bu yaptığınız
 işleme ve GPU'nuzun gücüne göre değişecektir.
 
 ![Silverlight'ta CPU kullanımı
-farkları.](http://cdn.daron.yondem.com/assets/2369/05062009_1.gif)\
+farkları.](media/Silverlight_3_0_icerisinde_GPU_ve_BitmapCache_kullanimi/05062009_1.gif)\
 *Silverlight'ta CPU kullanımı farkları.*
 
 Unutmadan birkaç detaya göz atalım. Silverlight'ın donanım desteğini
@@ -294,7 +294,7 @@ geçirmek yerine daha önce çizilmiş vektörel sonucu bitmap olarak
 kullanmak performans noktasında ciddi katkı sağlayabilir.
 
 ![BitmapCache'in performansa
-faydası.](http://cdn.daron.yondem.com/assets/2369/05062009_2.gif)\
+faydası.](media/Silverlight_3_0_icerisinde_GPU_ve_BitmapCache_kullanimi/05062009_2.gif)\
 *BitmapCache'in performansa faydası.*
 
 Yukarıdaki grafik testini yaparken çok sayıda notka içeren bir vektörel
@@ -308,7 +308,7 @@ büyütüp küçültmeye başladı. Aradaki %10'a yakın performans farkını
 yukarıdaki görebilirsiniz.
 
 ![BitmapCache
-Mantığı.](http://cdn.daron.yondem.com/assets/2369/05062009_3.gif)\
+Mantığı.](media/Silverlight_3_0_icerisinde_GPU_ve_BitmapCache_kullanimi/05062009_3.gif)\
 *BitmapCache Mantığı.*
 
 Tabi unutmamak gerek ki vektörel yerine bitmap işlemler yaptırdığınızda

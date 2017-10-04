@@ -25,7 +25,7 @@ olduktan sonra deployment'ınızı bulup seçtikten sonra aşağıdaki gibi sağ
 panelin en altında VIP olarak deployment'ı temsil eden IP'yi
 bulabilirsiniz.
 
-![VIP'mizi bulduk.](http://cdn.daron.yondem.com/assets/2786/domain.png)\
+![VIP'mizi bulduk.](media/Windows_Azure_da_Ozel_Domain_Kullanimi/domain.png)\
 *VIP'mizi bulduk.*
 
 VIP'ler bir deployment, hatta servis silinine kadar sizin oluyor. Yani
@@ -35,7 +35,7 @@ servisi tamamen silmediğiniz sürece o IP sürekli size ait olacak.
 olduğuna göre DNS sunucumuza gidip gerekli A kaydını girebiliriz.
 
 ![DNS kaydımızı
-güncelliyoruz.](http://cdn.daron.yondem.com/assets/2786/domain2.png)\
+güncelliyoruz.](media/Windows_Azure_da_Ozel_Domain_Kullanimi/domain2.png)\
 *DNS kaydımızı güncelliyoruz.*
 
 DNS kaydında aslında belki bir CNAME ile de işi bitirebilirsiniz. Fakat
@@ -71,7 +71,7 @@ tanımlamak istediğimiz Storage Account'u seçerek ribbon'dan "Add Domain"
 düğmesine tıklıyoruz.
 
 ![Add Custom
-Domain...](http://cdn.daron.yondem.com/assets/2786/domain3.png)\
+Domain...](media/Windows_Azure_da_Ozel_Domain_Kullanimi/domain3.png)\
 *Add Custom Domain...*
 
 "Add Domain" dediğiniz anda aşağıdaki manzara ile karşılaşacaksınız.
@@ -79,7 +79,7 @@ Burada istediğiniz gibi bir subdomain veya eğer ayrı bir domain
 kullanmayı düşünüyorsanız domain'in kendisi yazabilirsiniz.
 
 ![Özel domainimizin yönlendirmesini
-tanımlarken.](http://cdn.daron.yondem.com/assets/2786/domain4.png)\
+tanımlarken.](media/Windows_Azure_da_Ozel_Domain_Kullanimi/domain4.png)\
 *Özel domainimizin yönlendirmesini tanımlarken.*
 
 "OK" dediğiniz bir süre beklemeniz gerekecek. İşlem bittikten sonra
@@ -87,7 +87,7 @@ karşınıza yeni bir popup ekranında yapmanız gereken bir CNAME
 yönlendirmesi gelecek.
 
 ![Storage Account için CNAME
-yönlendirmesi.](http://cdn.daron.yondem.com/assets/2786/domain5.png)\
+yönlendirmesi.](media/Windows_Azure_da_Ozel_Domain_Kullanimi/domain5.png)\
 *Storage Account için CNAME yönlendirmesi.*
 
 Yukarıda gördüğünüz CNAME tanımını kendi DNS'imize yapmamız gerekiyor.
@@ -97,7 +97,7 @@ yapana kadar yeni domain kaydı azure panelinde "pending" olarak durmaya
 devam edecektir.
 
 ![Validation
-CNAME](http://cdn.daron.yondem.com/assets/2786/domain7.png)\
+CNAME](media/Windows_Azure_da_Ozel_Domain_Kullanimi/domain7.png)\
 *Validation CNAME*
 
 Eğer kendi DNS sunucunuz varsa Windows Server üzerinde DNS yönetiminde
@@ -105,7 +105,7 @@ yukarıdaki gibi root domain'de bir CNAME kaydı yaratmanız yeterli
 olacaktır.
 
 ![Domain'i validate
-etmek...](http://cdn.daron.yondem.com/assets/2786/domain6.png)\
+etmek...](media/Windows_Azure_da_Ozel_Domain_Kullanimi/domain6.png)\
 *Domain'i validate etmek...*
 
 Gerekli CNAME ayarlarını yaptıktan sonra yine Azure yönetim panelinde
@@ -115,7 +115,7 @@ saate kadar beklemeniz gerekebileceğini baştan söyliyim :) ama benimki
 10 dakikada oldu :)
 
 ![Son
-yönlendirme...](http://cdn.daron.yondem.com/assets/2786/domain8.png)\
+yönlendirme...](media/Windows_Azure_da_Ozel_Domain_Kullanimi/domain8.png)\
 *Son yönlendirme...*
 
 Validasyon işlemleri bittiğine göre artık domain'in bizim olduğunu

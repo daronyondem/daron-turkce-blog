@@ -23,7 +23,7 @@ edemezsek onları daha da zor durumda bırakmamak için etkinliği
 duyurmadım :( Bir dahakine artık.
 
 ![İzmir, Ege Üniversitesi, SilverNight
-Etkinliği](http://cdn.daron.yondem.com/assets/2574/30042011_1.jpg)\
+Etkinliği](media/SilverNight_Izmir_Geldi_gecti/30042011_1.jpg)\
 *İzmir, Ege Üniversitesi, SilverNight Etkinliği*
 
 Özür ve üzüntü parafragfını atladıktan sonra etkinliğin heyecanlı

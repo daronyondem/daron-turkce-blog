@@ -15,7 +15,7 @@ bugünkü ayağında hızlı bir Azure oturumu ile klasik bir ASP.NET
 projesinden migration senaryosuna göz attık.
 
 ![MSP Kick Off
-2012](http://cdn.daron.yondem.com/assets/2794/msp_kick.jpg)\
+2012](media/MSP_Kick_Off_2012/msp_kick.jpg)\
 *MSP Kick Off 2012*
 
 Aslında ben bugünden başladım ama :) dün de MSP Kick-Off'taydım ve dün

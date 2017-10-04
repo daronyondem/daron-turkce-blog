@@ -16,7 +16,7 @@ Facebook'tan beni takip edenler eminim ki bu hissiyati bir süredir
 edinmişlerdir.
 
  ![IdentityMine
-Logo](http://cdn.daron.yondem.com/assets/2791/identitymine.png)
+Logo](media/IdentityMine_daki_yeni_gorevim/identitymine.png)
 
 Aralık 2011'den itibaren beraber çalıştığımız
 [IdentityMine'a](http://www.identitymine.com/) "**Senior Director, MEA

@@ -260,7 +260,7 @@ JavaScript fonksiyonlarını yazarak web servisindeki kodumuzu asenkron
 olarak kullanmaya.
 
 ![Visual Web Developer 2008 ile beraber gelen JavaScript
-Intellisense.](http://cdn.daron.yondem.com/assets/1871/01122007_2.png)\
+Intellisense.](media/AJAX-ve-WCF-Servisleri/01122007_2.png)\
 *Visual Web Developer 2008 ile beraber gelen JavaScript Intellisense*
 
 **Baslat** adını verdiğim JavaScript fonksiyonumu yazarken aynen eskiden

@@ -20,7 +20,7 @@ seçebiliriz. Son olarak da dikdörtgenimizin kenarlarında aşağıdaki
 fotoğraftaki gibi fare ile tutarak köşelerini yuvarlayalım.
 
 ![Silverlight düğmemizi
-yaratıyoruz.](http://cdn.daron.yondem.com/assets/1953/09022008_1.png)\
+yaratıyoruz.](media/Animasyonlu_ornek_bir_Silverlight_dugmesi_hazirliyoruz/09022008_1.png)\
 *Silverlight düğmemizi yaratıyoruz.*
 
 Düğmemizi çizdiğimize göre parlama efekti için biraz değişiklik yapalım.
@@ -30,7 +30,7 @@ Transform" aracını kullanarak aşağıdaki şekilde bir parlama efekti
 hazırlayalım.
 
 ![Parlama efekti
-hazır.](http://cdn.daron.yondem.com/assets/1953/09022008_2.png)\
+hazır.](media/Animasyonlu_ornek_bir_Silverlight_dugmesi_hazirliyoruz/09022008_2.png)\
 *Parlama efekti hazır.*
 
 Sıra geldi fare ile üzerine geldiğimizde çalışacak olan animasyonu
@@ -40,7 +40,7 @@ hazırladıktan sonra düğmenin üzerinden fare ile çekildiğimizde
 çalıştırılmak üzere animasyonumuzun bir kopyasını yaratacağız.
 
 ![Animasyonumuzun bir kopyasını
-alalım.](http://cdn.daron.yondem.com/assets/1953/09022008_3.png)\
+alalım.](media/Animasyonlu_ornek_bir_Silverlight_dugmesi_hazirliyoruz/09022008_3.png)\
 *Animasyonumuzun bir kopyasını alalım.*
 
 Animasyonumuzun kopyasını aldıktan sonra "geri çekilme" animasyonunu

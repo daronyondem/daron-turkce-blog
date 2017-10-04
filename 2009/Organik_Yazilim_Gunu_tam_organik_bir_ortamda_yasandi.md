@@ -19,7 +19,7 @@ Kaynak Lisans Modelleri" üzerine konuşmak üzere açık bir bahçede :)
 sohbete daldık.
 
 ![Açık kaynak lisans modelleri üzerine bir
-sohbet...](http://cdn.daron.yondem.com/assets/2374/28062009_1.jpg)\
+sohbet...](media/Organik_Yazilim_Gunu_tam_organik_bir_ortamda_yasandi/28062009_1.jpg)\
  *Açık kaynak lisans modelleri üzerine bir sohbet...*
 
 Sohbetimiz açık kaynak lisans modellerinden başladı ve apayrı konulara

@@ -68,7 +68,7 @@ Studio'yu açıp yeni bir Cloud projesi yaratabilirsiniz desem de
 inanmayın :)
 
 ![Azure araçlarını
-edinirken...](http://cdn.daron.yondem.com/assets/2758/install.jpg)\
+edinirken...](media/Makinemizi_Windows_Azure_a_hazirlamak/install.jpg)\
 *Azure araçlarını edinirken...*
 
 Yukarıdaki manzarada gördüğünüz "Enable Windows Azure Tools"u seçerek
@@ -77,7 +77,7 @@ Studio) içerisinde bir web sayfası açılacak ve oradan direk download
 işlemini yaparak yüklemenizi başlatabileceksiniz.
 
 ![Yüklemeye doğru adım,
-adım...](http://cdn.daron.yondem.com/assets/2758/install2.jpg)\
+adım...](media/Makinemizi_Windows_Azure_a_hazirlamak/install2.jpg)\
 *Yüklemeye doğru adım, adım...*
 
 Download düğmesine bastığınızda karşınıza "Web Platform Installer"
@@ -89,7 +89,7 @@ listesi oluşturulacak. Listeyi onayladığınız gibi tek tek herşey
 makinenize indirilecek ve kurulacak :) Tüm bu süreç bittikten sonra
 artık Visual Studio'da Cloud projelerinizi görebileceksiniz.
 
-![Yükleme tamam.](http://cdn.daron.yondem.com/assets/2758/install3.jpg)\
+![Yükleme tamam.](media/Makinemizi_Windows_Azure_a_hazirlamak/install3.jpg)\
 *Yükleme tamam.*
 
 İşte herşey tamam. Artık yeni Azure projeleri yaratmak için herşey

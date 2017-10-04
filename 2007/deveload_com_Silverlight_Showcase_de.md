@@ -16,6 +16,6 @@ sergileniyor. Böylece "**Türk Bayrağı**"'nı dalgalandırma konusunda
 artık bizim de çorbada tuzumuz var.
 
 ![Silverlight Showcase'de
-deveload.com](http://cdn.daron.yondem.com/assets/1882/11122007_2.jpg)
+deveload.com](media/deveload_com_Silverlight_Showcase_de/11122007_2.jpg)
 
 

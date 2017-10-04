@@ -17,7 +17,7 @@ istiyorsanız DeepZoom Composer'ın kullandığı proje şablonlarını
 yenilemeniz gerekiyor.
 
 [DeepZoom Composer Silverlight 2.0 RC0 Proje Şablonu - 27092008\_1.zip
-(21,85 KB)](http://cdn.daron.yondem.com/assets/2199/27092008_1.zip)
+(21,85 KB)](media/DeepZoom_Composer_ve_Silverlight_2_0_RC0_Sorunu/27092008_1.zip)
 
 Yukarıdaki dosyayı bilgisayarınıza indirdikten sonra içindekileri
 doğrudan C:\\Program Files\\Deep Zoom Composer\\ adresine kopyalayın.

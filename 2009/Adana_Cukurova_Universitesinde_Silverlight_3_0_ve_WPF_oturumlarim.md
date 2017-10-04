@@ -17,7 +17,7 @@ de kısmen Adana'da yapmış olduk fakat itiraf etmem gerek :) daha
 anlatmadığım çok şey var.
 
 ![Adana, Çukurova
-Üniversitesi](http://cdn.daron.yondem.com/assets/2345/03042009_1.jpg)\
+Üniversitesi](media/Adana_Cukurova_Universitesinde_Silverlight_3_0_ve_WPF_oturumlarim/03042009_1.jpg)\
 *Adana, Çukurova Üniversitesi*
 
 Benim için gerçekten çok eğlenceli ve tabi ki bol bol "Adana" yenilen
@@ -26,7 +26,7 @@ hayran kaldığımı da söylemem gerek. Muhteşem fotoğraflar çekme şansım
 oldu :)
 
 ![Adana'dan bir
-manzara!](http://cdn.daron.yondem.com/assets/2345/03042009_2.jpg)\
+manzara!](media/Adana_Cukurova_Universitesinde_Silverlight_3_0_ve_WPF_oturumlarim/03042009_2.jpg)\
 *Adana'dan bir manzara!*
 
 Buradan özellikle etkinlik boyunca beni yalnız bırakmayan hatta muhteşem

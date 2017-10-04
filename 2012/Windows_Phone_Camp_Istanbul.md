@@ -14,7 +14,7 @@ boyunca eğitimi ben vereceğim ;) İşin özünü öğrenmek istiyorum diyen ve
 Windows Phone platformuna atılmak isteyen herkesi bekliyorum ;)
 
 ![Windows Phone Camp,
-Istanbul](http://cdn.daron.yondem.com/assets/2796/wpcamp.jpg)
+Istanbul](media/Windows_Phone_Camp_Istanbul/wpcamp.jpg)
 
 Etkinliğe [hemen buradan](http://daron.me/q) ücretsiz kayıt
 olabilirsiniz. Ayrıca resmi duyurudan paylaşmak istediğim iki madde var

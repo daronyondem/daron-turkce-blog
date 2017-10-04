@@ -16,6 +16,6 @@ yerleştiriyorum. İlk üç makaleyi tamamladığımıza göre bundan sonrakiler
 için tek tek blog sitemde mesaj atacağımı da sanmıyorum :) Tabi ne
 yapacağım belli de olmaz :)\
 
-![](http://cdn.daron.yondem.com/assets/1738/01052007_1.png)
+![](media/Microsoft_ASP_NET_Resmi_Sitesinde_Ucuncu_Makalem_Yayinda/01052007_1.png)
 
 

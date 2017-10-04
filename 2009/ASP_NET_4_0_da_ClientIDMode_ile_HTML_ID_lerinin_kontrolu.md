@@ -155,7 +155,7 @@ koydukları günler vardı. Geçmiş zamanla konuşuyorum çünkü ASP.NET 4.0
 ile bu sistem değişiyor.
 
 ![Hoş geldin
-ClientIDMode!](http://cdn.daron.yondem.com/assets/2411/13092009_1.gif)\
+ClientIDMode!](media/ASP_NET_4_0_da_ClientIDMode_ile_HTML_ID_lerinin_kontrolu/13092009_1.gif)\
 *Hoş geldin ClientIDMode!*
 
 Artık kontrol başına **ClientIDMode** belirleyerek söz konusu kontrolün

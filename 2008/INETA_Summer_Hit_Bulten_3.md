@@ -13,9 +13,9 @@ Ve karşınızda aktivite öncesi son bültenimiz... Cuma günü gönderimi
 yapılacak ;)
 
 ![INETA Summer
-Hit](http://cdn.daron.yondem.com/assets/2139/20072008_1.jpg)
+Hit](media/INETA_Summer_Hit_Bulten_3/20072008_1.jpg)
 
-![Daron Yöndem](http://cdn.daron.yondem.com/assets/2139/20072008_2.jpg)
+![Daron Yöndem](media/INETA_Summer_Hit_Bulten_3/20072008_2.jpg)
 
 <span>Merhabalar!</span>\
 \
@@ -43,7 +43,7 @@ bırakacağım.\
 \
 ** </span>
 
-![Daron Yöndem](http://cdn.daron.yondem.com/assets/2139/30072008_2.jpg)
+![Daron Yöndem](media/INETA_Summer_Hit_Bulten_3/30072008_2.jpg)
 
 <span>INETA Summer Hit’te iki gün boyunca iki farklı konuyla sizlerle
 beraber olacağım. İlk gün yazılım teknolojilerinin geleceği üzerine
@@ -64,7 +64,7 @@ Summer Hit’e bekliyorum.  \
 \
  </span>
 
-![Daron Yöndem](http://cdn.daron.yondem.com/assets/2139/30072008_1.jpg)
+![Daron Yöndem](media/INETA_Summer_Hit_Bulten_3/30072008_1.jpg)
 
 <span>Microsoft'un .NET Framework 3.5 ile resmen duyurduğu LINQ
 (Language Integrated Query) yazılımcılara tıpkı SQL sorguları gibi
@@ -91,7 +91,7 @@ blogunuzda aktiviteyi duyurmak isterseniz yukarıdaki adrese linkleyerek
 aşağıdaki banner'ı kullanabilirsiniz.</span></span>\
 \
  ![INETA Summer
-Hit](http://cdn.daron.yondem.com/assets/2139/inetasummerhit2008_46860.jpg)\
+Hit](media/INETA_Summer_Hit_Bulten_3/inetasummerhit2008_46860.jpg)\
 \
  <span>Hafta sonu görüşmek üzere...</span>\
 \

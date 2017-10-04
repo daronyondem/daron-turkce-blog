@@ -21,7 +21,7 @@ Amerika ziyaretlerim arasında Summit'in ayrı bir yeri oldu çünkü toplam
 ortamı yarattığımızı itiraf edebilirim.
 
 ![Microsoft Redmond Campus,
-Seattle](http://cdn.daron.yondem.com/assets/2491/23022010_1.jpg)\
+Seattle](media/MVP_Summit_2010_Sonrasi/23022010_1.jpg)\
 *Microsoft Redmond Campus, Seattle*
 
 Bu tür konferansların benim için en büyük avantajı doğrudan yurt
@@ -36,7 +36,7 @@ bilin bakalım ne olacak; maalesef hiçbirini sizlerle şu anda
 paylaşamayacağım :(
 
 ![Herşey çok
-gizli!](http://cdn.daron.yondem.com/assets/2491/23022010_2.jpg)\
+gizli!](media/MVP_Summit_2010_Sonrasi/23022010_2.jpg)\
 *Herşey çok gizli!*
 
 Yukarıdaki slayt neredeyse her sunumun başında vardı. Özellikle sürekli
@@ -54,7 +54,7 @@ de zaten o çapta oluyor. Tamam itiraf ediyorum müze meraklısıyım :)
 MVP'miz **Gökhan Şenyüz**'ün çektiği bir fotoğrafı paylaşmak istiyorum!
 
 ![Gökhan Şenyüz'den muhteşem bir
-foto!](http://cdn.daron.yondem.com/assets/2491/23022010_3.jpg)\
+foto!](media/MVP_Summit_2010_Sonrasi/23022010_3.jpg)\
 *Gökhan Şenyüz'den muhteşem bir foto!*
 
 Hepinize en kısa zamanda heyecanlı gelişmeleri paylaşmak üzere ;)

@@ -27,7 +27,7 @@ adresten indirebilirsiniz.
 <http://www.aptana.com/download/#windows>
 
 ![Aptana içerisindeki zengin JavaScript Intellisense
-desteği.](http://cdn.daron.yondem.com/assets/1849/15112007_1.png)\
+desteği.](media/Aptana_Ucretsiz_Kahraman_JavaScript_Editoru/15112007_1.png)\
 *Aptana içerisindeki zengin JavaScript Intellisense desteği.*
 
 Aptana sayesinde artık sadece bir noktalı virgül eksiği yüzünden

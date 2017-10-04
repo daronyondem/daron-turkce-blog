@@ -41,7 +41,7 @@ dağıtılacak. Böylece yazılım geliştiriciler rahatlıkla bu platforma
 geçiş yapabilecekler.
 
 ![File / New Project
-dediğimizde....](http://cdn.daron.yondem.com/assets/2515/01052010_1.png)\
+dediğimizde....](media/Windows_Phone_7_Development_dunyasi_ve_ilk_uygulamamiz/01052010_1.png)\
 *File / New Project dediğimizde....*
 
 Yüklemeleri bitirdiğiniz gibi ilk yapacağınız şey tabi ki hemen "File /
@@ -141,7 +141,7 @@ Assembly'den de bunun sadece Phone uygulamalarına özel olduğunu
 görebiliriz.
 
 ![WP7'de boş bir Silverlight
-projesi.](http://cdn.daron.yondem.com/assets/2515/01052010_2.png)\
+projesi.](media/Windows_Phone_7_Development_dunyasi_ve_ilk_uygulamamiz/01052010_2.png)\
 *WP7'de boş bir Silverlight projesi.*
 
 Yarattığımız bu sıfır projeye şöyle genel bir bakacak olursa içerisinde
@@ -156,7 +156,7 @@ projesine sağ tıklayarak gelen menüden "Properties"i seçerek de
 yapabilirsiniz.
 
 ![Proje
-özellikleri.](http://cdn.daron.yondem.com/assets/2515/01052010_3.png)\
+özellikleri.](media/Windows_Phone_7_Development_dunyasi_ve_ilk_uygulamamiz/01052010_3.png)\
 *Proje özellikleri.*
 
 WP7 için yaratılan bir SL projesinin özellikleri baktığımızda şu anda
@@ -187,7 +187,7 @@ makineye geçmeniz gerekecek ve unutmayın tüm bunlar yayınlanmamış
 yüklememenizde büyük fayda var.
 
 ![Simülatörü seçerek
-ilerleyebilirsiniz.](http://cdn.daron.yondem.com/assets/2515/01052010_4.png)\
+ilerleyebilirsiniz.](media/Windows_Phone_7_Development_dunyasi_ve_ilk_uygulamamiz/01052010_4.png)\
 *Simülatörü seçerek ilerleyebilirsiniz.*
 
 **Expression Blend tarafında neler oluyor?**
@@ -199,7 +199,7 @@ yerleştirme konusunda Blend'in sağladığı kolaylıklar vazgeçilemez
 aynı şekilde WP7 üzerinde de çalışıyor.
 
 ![Expression Blend 4 içerisinde WP7
-desteği.](http://cdn.daron.yondem.com/assets/2515/01052010_5.png)\
+desteği.](media/Windows_Phone_7_Development_dunyasi_ve_ilk_uygulamamiz/01052010_5.png)\
 *Expression Blend 4 içerisinde WP7 desteği.*
 
 Önümüzdeki dönemde sizlerle WP7 üzerinde SL development konusunda

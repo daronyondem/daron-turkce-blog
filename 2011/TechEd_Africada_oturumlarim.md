@@ -13,7 +13,7 @@ Yine bir TechEd haberi ile karşınızdayım :) Ama bu sefer TechEd Africa!
 olarak bulunacağım. Aranızda gelenler varsa haber vermeyi unutmayın ;)
 
 ![Speaking at TechEd Africa
-2011](http://cdn.daron.yondem.com/assets/2690/teched_africa_11.jpg)\
+2011](media/TechEd_Africada_oturumlarim/teched_africa_11.jpg)\
 *Speaking at TechEd Africa 2011*
 
 Oturumların açıklamalarını direk İngilizce alıyorum aşağıya ;) Türkçe'ye

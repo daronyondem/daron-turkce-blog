@@ -55,7 +55,7 @@ Intelligence" şeklinde. Marketplace'de "daronyondem" diye aratırsanız da
 bulabilirsiniz.
 
 ![İlk Windows Phone uygulamam
-marketplace'de.](http://cdn.daron.yondem.com/assets/2714/wp75.jpg)\
+marketplace'de.](media/Windows_Phone_Mango_ve_benim_ilk_WP_uygulamam/wp75.jpg)\
 *İlk Windows Phone uygulamam marketplace'de.*
 
 İlk günde 600'ü aştı download sayısı ve yorumlar da hiç fena değil.

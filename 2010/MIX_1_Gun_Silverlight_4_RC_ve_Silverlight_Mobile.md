@@ -32,7 +32,7 @@ gerektiğini söylediler. Ha ama bu arada benim bagaj çoktan uçağa
 binmişti :) ve malum benden önce Las Vegas'a vardı.
 
 ![Gün 1 Keynote
-başlangıcı!](http://cdn.daron.yondem.com/assets/2495/16032010_1.jpg)\
+başlangıcı!](media/MIX_1_Gun_Silverlight_4_RC_ve_Silverlight_Mobile/16032010_1.jpg)\
 *Gün 1 Keynote başlangıcı!*
 
 Her neyse çok uzatmiyim, Allah'tan MIX'ten bir gün önce Las Vegas'ta
@@ -50,7 +50,7 @@ görmüştüm fakat tabi paylaşamıyordum. Artık herşey alenen ortada
 olduğuna göre süper haberlerim var sizlere!!!
 
 ![Silverlight 4 ile
-gelenler....](http://cdn.daron.yondem.com/assets/2495/16032010_3.jpg)\
+gelenler....](media/MIX_1_Gun_Silverlight_4_RC_ve_Silverlight_Mobile/16032010_3.jpg)\
 *Silverlight 4 ile gelenler....*
 
 **Silverlight 4 RC (Release Candidate)**
@@ -82,7 +82,7 @@ desteğine sahip olarak release olacak ve içerisinde güzel yenilikler de
 var ;)
 
 ![Silverlight
-Mobile](http://cdn.daron.yondem.com/assets/2495/16032010_2.jpg)\
+Mobile](media/MIX_1_Gun_Silverlight_4_RC_ve_Silverlight_Mobile/16032010_2.jpg)\
 *Silverlight Mobile*
 
 **Silverlight for Windows Phone 7**

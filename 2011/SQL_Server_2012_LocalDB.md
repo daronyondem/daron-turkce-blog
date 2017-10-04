@@ -63,7 +63,7 @@ Express**'i de indirmeniz ki Management Studio üzerinden de
 **localDB'ye** bağlanarak test yapabilelim.
 
 ![SQL 2012 Express LocalDB
-bağlantısı.](http://cdn.daron.yondem.com/assets/2731/localdb.png)\
+bağlantısı.](media/SQL_Server_2012_LocalDB/localdb.png)\
 *SQL 2012 Express LocalDB bağlantısı.*
 
 LocalDB bağlantısı yapabilmek için direk server adresini (localdb) ile
@@ -83,7 +83,7 @@ master, model, tempdb dahil. Tabi tüm bu işlemlerim bir saniyeden kısa
 bir sürede gerçekleştiğini de unutmamak gerek :)
 
 ![Örnek bir LocalDB
-Instance'ı.](http://cdn.daron.yondem.com/assets/2731/localdb2.png)\
+Instance'ı.](media/SQL_Server_2012_LocalDB/localdb2.png)\
 *Örnek bir LocalDB Instance'ı.*
 
 Yukarda örnek bir SQL Instance'ın dosyalarını görüyorsunuz. Tüm
@@ -93,7 +93,7 @@ instance olarak gelen "**(localdb)\\v11.0**" instance'ı da
 kullanabilirsiniz.
 
 ![İki LocalDB Instance'ı ve iki tane sqlservr.exe
-sahnede.](http://cdn.daron.yondem.com/assets/2731/localdb3.png)\
+sahnede.](media/SQL_Server_2012_LocalDB/localdb3.png)\
 *İki LocalDB Instance'ı ve iki tane sqlservr.exe sahnede.*
 
 Yukarda yaratılmış iki instance ve her instance için yaratılan

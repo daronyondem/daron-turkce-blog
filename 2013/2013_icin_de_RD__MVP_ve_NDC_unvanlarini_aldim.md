@@ -16,7 +16,7 @@ Director**, **Most Valuable Professional** ve **Nokia Developer
 Champion** ünvanlarımı yenilemişler :) MVP'lik tarafında yine Azure
 MVP'si olarak devam ediyorum.
 
-![](http://cdn.daron.yondem.com/assets/2839/logos.jpg)
+![](media/2013_icin_de_RD__MVP_ve_NDC_unvanlarini_aldim/logos.jpg)
 
 Buradan teşekkür etmem gereken çok insan var :) ama kısa tutmak
 gerekirse yaptığım katkıyı gördükleri ve değer verdikleri için hem

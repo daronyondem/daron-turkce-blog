@@ -23,7 +23,7 @@ as a LayoutPath**" düğmesine tıklayıp yine sahneden uygun Path'i seçiyor
 olmak.
 
 ![PathListBox'a Path
-atarken.](http://cdn.daron.yondem.com/assets/2537/06092010_1.png)\
+atarken.](media/PathListBox_ile_birden_cok_Path_kullanimi/06092010_1.png)\
 *PathListBox'a Path atarken.*
 
 Mouse'unuz ile Path nesnesini işaretlerken aynı yukarıdaki gibi "[Path]
@@ -33,7 +33,7 @@ olarak bu nesneye bir isim verecek ve PathListBox'ın LayoutPaths
 kolleksiyonuna Path'imizi ekleyecek.
 
 ![Birden çok Path
-kullanabiliriz.](http://cdn.daron.yondem.com/assets/2537/06092010_2.png)\
+kullanabiliriz.](media/PathListBox_ile_birden_cok_Path_kullanimi/06092010_2.png)\
 *Birden çok Path kullanabiliriz.*
 
 PathListBox'a Path atarken birden çok Path seçme şansınız var. Tüm bu
@@ -91,7 +91,7 @@ nedeni PathListBox'ın görsel alanının Path'lerin tamamını kapsamıyor
 olması.
 
 ![PathListBox Path'lerden
-ufak!](http://cdn.daron.yondem.com/assets/2537/06092010_4.png)\
+ufak!](media/PathListBox_ile_birden_cok_Path_kullanimi/06092010_4.png)\
 *PathListBox Path'lerden ufak!*
 
 Hemen birkaç ek bildiye daha değinelim. PathListBox'ın
@@ -120,6 +120,6 @@ hazırlayabilirsiniz. Bu bir ListBox'tı değil mi? :)
 Hepinize kolay gelsin.
 
 [Örnek Kaynak kod: 06092010\_6.rar (30,86
-KB)](http://cdn.daron.yondem.com/assets/2537/06092010_6.rar)
+KB)](media/PathListBox_ile_birden_cok_Path_kullanimi/06092010_6.rar)
 
 

@@ -26,7 +26,7 @@ durum ile karşılaşıyorduk. Senaryoyu cümlelerle tanımlamak yerine örnek
 üzerinden gitmeyi daha uygun görüyorum ;)
 
 ![Örnek veritabanı
-tasarımı.](http://cdn.daron.yondem.com/assets/2450/18112009_1.png)\
+tasarımı.](media/Silverlight_4_Beta_icerisinde_Comboboxtaki_minik_yenilik/18112009_1.png)\
 *Örnek veritabanı tasarımı.*
 
 Yukarıda gördüğünüz şekilde veritabanımızda iki tablo var. Bu tablolar

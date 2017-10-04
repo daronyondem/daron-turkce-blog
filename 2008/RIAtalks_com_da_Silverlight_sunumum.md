@@ -16,7 +16,7 @@ içeriği olmayan zevkli bir aktiviteydi. Hatta yarın da aktivite devam
 ediyor olacak.
 
 ![RIATALKS aktivitesinden bir
-kare...](http://cdn.daron.yondem.com/assets/2107/28062008_1.jpg)\
+kare...](media/RIAtalks_com_da_Silverlight_sunumum/28062008_1.jpg)\
 *RIATALKS aktivitesinden bir kare...*
 
 Özellikle RIA konusunda bir vizyon edinmek isteyenler Bahçeşehir

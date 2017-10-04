@@ -21,7 +21,7 @@ yaptırmamız gerekiyor. Kontrol listesi içerisinde MediaElement'i
 bulduktan sonra sayfaya ekleyebilirsiniz.
 
 ![Asset Library içerisinden MediaElement'imizi
-buluyoruz.](http://cdn.daron.yondem.com/assets/1827/28102007_1.png)\
+buluyoruz.](media/Silverlight_MediaElement_ve_JavaScript/28102007_1.png)\
 *Asset Library içerisinden MediaElement'imizi buluyoruz.*
 
 MediaElement'i sayfaya ekledikten sonra sıra geldi bir de video dosyası
@@ -30,7 +30,7 @@ video bağladığımızda video dosyasının bir kopyası projemize otomatik
 olarak ekleniyor.
 
 ![MediaElement'e ait Source özelliğine videomuzu
-gösteriyoruz.](http://cdn.daron.yondem.com/assets/1827/28102007_2.png)\
+gösteriyoruz.](media/Silverlight_MediaElement_ve_JavaScript/28102007_2.png)\
 *MediaElement'e ait Source özelliğine videomuzu gösteriyoruz.*
 
 Bu işlemleri tamamladıktan sonra Silverlight uygulamamızı direk

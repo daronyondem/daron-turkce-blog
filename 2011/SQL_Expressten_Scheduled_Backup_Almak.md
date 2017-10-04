@@ -90,7 +90,7 @@ karşınıza getirebilirsiniz. Task Scheduler Library içerisindeki sağ
 panelden "Create Task" diyerek aşağıda ekrana ulaşabiliyoruz.
 
 ![Task'ı Login olmasak da çalışacak hale
-getirelim.](http://cdn.daron.yondem.com/assets/2693/scheduler_1.png)\
+getirelim.](media/SQL_Expressten_Scheduled_Backup_Almak/scheduler_1.png)\
 *Task'ı Login olmasak da çalışacak hale getirelim.*
 
 Task'ın ayarlarının bulunduğu ilk "General" sekmesinde "**Run whether
@@ -100,7 +100,7 @@ user is logged or not**" diyerek logon olmuş olmasak da taskın
 da çalışacak.
 
 ![Task'ımızın ne zaman çalışacağına karar
-verelim.](http://cdn.daron.yondem.com/assets/2693/scheduler_2.png)\
+verelim.](media/SQL_Expressten_Scheduled_Backup_Almak/scheduler_2.png)\
 *Task'ımızın ne zaman çalışacağına karar verelim.*
 
 Ayarlar kısmında ikinci sekme olan "Triggers"a girdiğimiz hemen "New"
@@ -110,7 +110,7 @@ de benim gibi günlük backup alacaksanız sitenizin en az ziyaret aldığı
 bir saat aralığını seçmenizde fayda var.
 
 ![Task ne
-yapacak?](http://cdn.daron.yondem.com/assets/2693/scheduler_3.png)\
+yapacak?](media/SQL_Expressten_Scheduled_Backup_Almak/scheduler_3.png)\
 *Task ne yapacak?*
 
 Son olarak artık taskımızın ne yapacağına karar vermemiz gerek.

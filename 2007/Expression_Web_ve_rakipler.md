@@ -36,7 +36,7 @@ için sitenin son hali üzerinde çalışabilmek adına hayati önem arz
 edecektir.
 
 ![Expression Web
-arayüzü.](http://cdn.daron.yondem.com/assets/1859/21112007.png)\
+arayüzü.](media/Expression_Web_ve_rakipler/21112007.png)\
 *Expression Web arayüzü.*
 
 Benim kişisel olarak Expression Web'de sevdiğim en önemli nokta hızlı

@@ -123,7 +123,7 @@ ki Web.Config'den alacak. Bunun için Azure Web Sites'ın yönetim paneline
 gidip iki farklı Connection String tanımlamamız gerek.
 
 ![Webjobs'a özel iki Connection
-String.](http://cdn.daron.yondem.com/assets/2904/webjobs_1.png)
+String.](media/WebJobs_Giris_ve_Bloblarla_Kullanimi/webjobs_1.png)
 
 Yukarıdaki ekran görüntüsüne de görebileceğiniz üzere Azure Web
 Site'ımızın Connection String'lerine iki adet yeni item ekliyoruz.
@@ -139,7 +139,7 @@ ki sizin aynı isimde containerlarınız yoktur :) Bu containerların içinde
 sistem kendi loglarını tutuyor.
 
 ![WebJobs'ın loglarından bir
-örnek.](http://cdn.daron.yondem.com/assets/2904/webjobs_3.png)
+örnek.](media/WebJobs_Giris_ve_Bloblarla_Kullanimi/webjobs_3.png)
 *WebJobs'ın loglarından bir örnek.*
 
 Tabi bu logları tek tek text dosyalarını açarak incelememize gerek yok.
@@ -152,7 +152,7 @@ giriş yaptığınız anda inanılmaz güzel detayları görebilmeye
 başlayacaksınız.
 
 ![WebJobs
-Dashboard'u.](http://cdn.daron.yondem.com/assets/2904/webjobs_4.png)
+Dashboard'u.](media/WebJobs_Giris_ve_Bloblarla_Kullanimi/webjobs_4.png)
 *WebJobs Dashboard'u.*
 
 Bu Dashboard içerisinde sadece WebJobs Host'unuzu yaşam döngüsünü değil
@@ -161,7 +161,7 @@ birden çok Job'ınız olduğunu düşünürsek buradaki loglar debugging için
 de süper bir değere sahip.
 
 ![Dashboard'un detaylarında neler
-saklı...](http://cdn.daron.yondem.com/assets/2904/webjobs_5.png)
+saklı...](media/WebJobs_Giris_ve_Bloblarla_Kullanimi/webjobs_5.png)
 *Dashboard'un detaylarında neler saklı...*
 
 Blobların aynı sıra WebJobs Azure Storage'daki Queue ve Table servisleri
@@ -180,7 +180,7 @@ girip yenib ir Job yaratmak istediğinizde sizden Job için bir isim,
 çalışma şekli ve ZIP dosyası istenecek.
 
 ![Farklı WebJob
-seçenekleri.](http://cdn.daron.yondem.com/assets/2904/webjobs_6.png)
+seçenekleri.](media/WebJobs_Giris_ve_Bloblarla_Kullanimi/webjobs_6.png)
 *Farklı WebJob seçenekleri.*
 
 Biz örneğimizde "Continious" seçeneği kullanmalıyız ki sürekli olarak

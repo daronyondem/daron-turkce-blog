@@ -23,7 +23,7 @@ gelin önce hızlıca bir bu uygulamalar arası geçiş dediğimiz konunun son
 kullanıcı tarafından kullanım şekline göz atalım.
 
 ![Metro UI'da uygulamalar arası geçişler bu
-şekilde...](http://cdn.daron.yondem.com/assets/2700/metroui_uygulama_gecisleri.jpg)\
+şekilde...](media/Windows_8_Metro_Suspend_Resume_islemleri/metroui_uygulama_gecisleri.jpg)\
 *Metro UI'da uygulamalar arası geçişler bu şekilde...*
 
 Yukarıdaki gördüğünüz ekran görüntüsü aslında Stock uygulaması
@@ -118,7 +118,7 @@ yapmanız yani bir anlamda daha önce kaydedilen durum bilgilerini tekrar
 ekrana getirmeniz / restore etmeniz gerekecektir.
 
 ![Suspend ve Resume işlemlerini Visual Studio'dan
-tetiklemek.](http://cdn.daron.yondem.com/assets/2700/suspend_trigger.png)\
+tetiklemek.](media/Windows_8_Metro_Suspend_Resume_islemleri/suspend_trigger.png)\
 *Suspend ve Resume işlemlerini Visual Studio'dan tetiklemek.*
 
 Uygulamalarınızı test ederken Visual Studio'dan uzaklaşıp MetroUI'da

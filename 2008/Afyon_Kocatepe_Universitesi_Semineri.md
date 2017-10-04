@@ -16,7 +16,7 @@ göz attık. Benim Afyon'u ilk ziyaretim oldu ve maalesef Afyon kalesine
 tırmanacak cesareti gösteremedim :) Kısmetse bir dahakine ;)
 
 ![Afyon Kocatepe Üniversitesi
-Semineri](http://cdn.daron.yondem.com/assets/2099/20062008_1.jpg)\
+Semineri](media/Afyon_Kocatepe_Universitesi_Semineri/20062008_1.jpg)\
 *Afyon Kocatepe Üniversitesi Semineri*
 
 Organizasyonda emeklerinden dolayı sevgili kardeşlerim **Süleyman Tıkır,

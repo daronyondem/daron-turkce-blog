@@ -55,7 +55,7 @@ Expression Blend ile projemizi açtıktan sonra "Asset Library"e gidip
 çıkıyor.
 
 ![TreeView kontrolü Expression Blend içerisinde karşımıza
-çıkıyor!](http://cdn.daron.yondem.com/assets/2230/28102008_1.png)\
+çıkıyor!](media/Silverlight_2_0_icerisinde_Silverlight_Toolkit_ve_TreeView_kullanimi/28102008_1.png)\
 *TreeView kontrolü Expression Blend içerisinde karşımıza çıkıyor!*
 
 TreeView kontrolünü Blend içerisinde projenizde herhangi bir XAML
@@ -695,7 +695,7 @@ bir **StackPanel** içerisinde **Fiyati** ve **Adi** özelliklerini
 gösterecek iki farklı **TextBlock** bulunuyor.
 
 ![DataBind TreeView örneğimiz
-bitti.](http://cdn.daron.yondem.com/assets/2230/28102008_2.png)\
+bitti.](media/Silverlight_2_0_icerisinde_Silverlight_Toolkit_ve_TreeView_kullanimi/28102008_2.png)\
 *DataBind TreeView örneğimiz bitti.*
 
 Tüm verimizi bağladığımıza göre yeri geldiğinde seçili öğeyi nasıl

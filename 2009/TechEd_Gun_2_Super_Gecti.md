@@ -18,7 +18,7 @@ neredeyse tüm gün Avrupa'dan farklı INETA sosyal toplulukları ile
 görüşmeler yaptım. Fikir paylaşımlarında bulunduk.
 
 ![Community Lounge'da fikirleri paylaşırken
-:)](http://cdn.daron.yondem.com/assets/2444/10112009_1.jpg)\
+:)](media/TechEd_Gun_2_Super_Gecti/10112009_1.jpg)\
 *Community Lounge'da INETA Avrupa Yönetiminden Jose Louis Latorre ile
 fikirlerimizi paylaşırken :)*
 
@@ -34,7 +34,7 @@ gösterdim. Hatta bazıları "Blogunuzu da takip ediyoruz" diyince içten
 içe mutluluktan eridim desem yeridir.
 
 !["Silverlight nedir?" sorusunu soran iki katılımcı!
-:D](http://cdn.daron.yondem.com/assets/2444/10112009_2.jpg)\
+:D](media/TechEd_Gun_2_Super_Gecti/10112009_2.jpg)\
 *"Silverlight nedir?" sorusunu soran iki katılımcı! :D*
 
 Bu esnada iki katılımcı gelip "Silverlight nedir?" şeklinde bir soru
@@ -45,7 +45,7 @@ güzel bir sohbete aldılar. İkisine de çok teşekkür ediyorum, ilaç gibi
 geldi :) Sanırım Türkiye'den TechEd'de yer alan 3 MVP'iydik.
 
 ![TechEd Day 2
-Party!](http://cdn.daron.yondem.com/assets/2444/10112009_3.jpg)\
+Party!](media/TechEd_Gun_2_Super_Gecti/10112009_3.jpg)\
 *TechEd Day 2 Party!*
 
 Günün sonuna doğrudan TechEd içerisinde Community Lounge'da bir parti
@@ -57,7 +57,7 @@ da INETA, Culminis gibi sosyal toplulukların özel VIP :) eğlencesine
 geçtim.
 
 ![WaterGateClub'da Community
-Party!!!](http://cdn.daron.yondem.com/assets/2444/10112009_4.jpg)\
+Party!!!](media/TechEd_Gun_2_Super_Gecti/10112009_4.jpg)\
 *WaterGateClub'da Community Party!!!*
 
 WaterGateClub adında bir kulüpte düzenlenen partide malum soft içkiler

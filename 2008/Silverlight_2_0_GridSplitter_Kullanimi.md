@@ -115,7 +115,7 @@ nesnesi yerleştirilmiş. GridSplitter nesnesinin **Grid.Column** özelliği
 gözükecek.
 
 ![GridSplitter kontrolü 2 resmi
-boyutlandırıyor.](http://cdn.daron.yondem.com/assets/2063/21052008_1.jpg)\
+boyutlandırıyor.](media/Silverlight_2_0_GridSplitter_Kullanimi/21052008_1.jpg)\
 *GridSplitter kontrolü 2 resmi boyutlandırıyor.*
 
 Yukarıdaki gibi bir örnek elde etmek için Grid'in diğer kolonlarına
@@ -417,7 +417,7 @@ GridSplitter kullanıldığında dikey olan ve iç Grid'de bulunan
 GridSplitter da otomatik olarak boyutlandırılmış oluyor.
 
 ![2 Grid ve 2 GridSplitter'ın
-kardeşliği.](http://cdn.daron.yondem.com/assets/2063/21052008_2.jpg)\
+kardeşliği.](media/Silverlight_2_0_GridSplitter_Kullanimi/21052008_2.jpg)\
 *2 Grid ve 2 GridSplitter'ın kardeşliği.*
 
 Bu gibi arayüzler neredeyse çoğu yazılımda karşımıza çıkan sistemler

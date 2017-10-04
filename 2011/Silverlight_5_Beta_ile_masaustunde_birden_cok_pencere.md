@@ -28,7 +28,7 @@ yeni pencereler de yaratamıyor. Şartımız uygulamanın Elevated-Trust ve
 Out-Of-Browser modunda olması.
 
 ![Birden çok ekran için hazırlıklarımızı
-yapıyoruz...](http://cdn.daron.yondem.com/assets/2563/19042011_1.png)\
+yapıyoruz...](media/Silverlight_5_Beta_ile_masaustunde_birden_cok_pencere/19042011_1.png)\
 *Birden çok ekran için hazırlıklarımızı yapıyoruz...*
 
 Birden çok ekrana sahip olabilmek için öncesinde tabi ki o ekranlarda
@@ -88,7 +88,7 @@ değiştiriyoruz. Artık bu şekilde istediğiniz kadar pencereler
 yaratabilirsiniz.
 
 ![Pencerelerimiz
-sahnede...](http://cdn.daron.yondem.com/assets/2563/19042011_2.png)\
+sahnede...](media/Silverlight_5_Beta_ile_masaustunde_birden_cok_pencere/19042011_2.png)\
 *Pencerelerimiz sahnede...*
 
 **Peki pencerelere sonradan ulaşmak istersek nasıl ulaşacağız?**

@@ -98,7 +98,7 @@ adresten indirebilirsiniz.
 <http://www.microsoft.com/downloads/details.aspx?FamilyID=43cd7e1e-5719-45c0-88d9-ec9ea7fefbcb&displaylang=en>
 
 ![ActiveX'ler artık birer
-Add-On](http://cdn.daron.yondem.com/assets/2170/30082008_1.png)\
+Add-On](media/Internet_Explorer_8_0_Beta_2_ile_gelen_guvenlik_yenilikleri/30082008_1.png)\
 *ActiveX'ler artık birer Add-On ve siteye özel yüklenebiliyorlar.*
 
 Kullanıcılar ActiveX uygulamalarını IE 8.0 içerisinde birer Add-On
@@ -120,7 +120,7 @@ ile beraber SmartScreen adı altında gelen yeni özellikler gerçekten
 etkileyici.
 
 ![Phishing çabaları
-nafile!](http://cdn.daron.yondem.com/assets/2170/30082008_2.png)\
+nafile!](media/Internet_Explorer_8_0_Beta_2_ile_gelen_guvenlik_yenilikleri/30082008_2.png)\
 *Phishing çabaları nafile!*
 
 Yukarıda gördüğünüz adres barındaki adresin bir Phishing çabası olma
@@ -138,7 +138,7 @@ kadar her tür bilgi alınabiliyor. Bu konuda tam bir koruma sunmanın
 kullanıcı deneyimini ciddi şekilde kötü durumlara sürükleyeceği için
 minimal koruma mekanizmaları devreye sokulmuş.
 
-![XSS Koruması](http://cdn.daron.yondem.com/assets/2170/30082008_3.png)\
+![XSS Koruması](media/Internet_Explorer_8_0_Beta_2_ile_gelen_guvenlik_yenilikleri/30082008_3.png)\
 *XSS Koruması*
 
 Yazılım geliştiriciler isterler bu korumaları sunucu tarafından
@@ -240,7 +240,7 @@ InPrivate Browsing" komutu ile açabileceğiniz InPrivate pencerelerini
 adres çubuğundaki InPrivate yazısından tanıyabilirsiniz.
 
 ![InPivate Browsing ile internet kafelerde güvenlik
-:)](http://cdn.daron.yondem.com/assets/2170/30082008_4.png)\
+:)](media/Internet_Explorer_8_0_Beta_2_ile_gelen_guvenlik_yenilikleri/30082008_4.png)\
 *InPrivate Browsing ile internet kafelerde güvenlik :)*
 
 **InPrivate Blocking**

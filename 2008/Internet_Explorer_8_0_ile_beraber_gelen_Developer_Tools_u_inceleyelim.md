@@ -31,7 +31,7 @@ satır içi bir stil ayarı ile devre dışı bırakılmış olabilir. Tüm bunl
 rahatlıkla bir liste olarak görmek mümkün.
 
 ![CSS ve DOM tam kontrol
-altında!](http://cdn.daron.yondem.com/assets/2183/11092008_1.png)\
+altında!](media/Internet_Explorer_8_0_ile_beraber_gelen_Developer_Tools_u_inceleyelim/11092008_1.png)\
 *CSS ve DOM tam kontrol altında!*
 
 Yukarıdaki gördüğünüz ekranda sol tarafta sayfanın DOM ağacını
@@ -60,7 +60,7 @@ BreakPoint yerleştirin. Hatta F10 ve F5 gibi Visual Studio kısayolları
 bile aynı.
 
 ![JavaScript tarafında Watch koyarak durumu takip
-edin.](http://cdn.daron.yondem.com/assets/2183/11092008_2.png)\
+edin.](media/Internet_Explorer_8_0_ile_beraber_gelen_Developer_Tools_u_inceleyelim/11092008_2.png)\
 *JavaScript tarafında Watch koyarak durumu takip edin.*
 
 Özellikle Silverlight 1.0 tarafında yazılan JavaScript kodlarının veya
@@ -74,7 +74,7 @@ Developer Tools içerisinde değiştirebilirsiniz, sonucu gerçek zamanlı
 olarak IE içerisinde göreceksiniz.
 
 ![JavaScript tarafındaki sayfada bulunan tüm nesneler ve değişkenler
-düzenlenebiliyor.](http://cdn.daron.yondem.com/assets/2183/11092008_3.png)\
+düzenlenebiliyor.](media/Internet_Explorer_8_0_ile_beraber_gelen_Developer_Tools_u_inceleyelim/11092008_3.png)\
 *JavaScript tarafındaki sayfada bulunan tüm nesneler ve değişkenler
 düzenlenebiliyor.*
 
@@ -93,7 +93,7 @@ görüntüsünde hangi function'ın hangisini çağırdığına bakarak inceleyi
 Önemli olan artık hangi işlemin ne kadar sürdüğünü görebiliyor olmamız.
 
 ![Kod optimizasyonu için
-Profiler](http://cdn.daron.yondem.com/assets/2183/11092008_4.png)\
+Profiler](media/Internet_Explorer_8_0_ile_beraber_gelen_Developer_Tools_u_inceleyelim/11092008_4.png)\
 *Kod optimizasyonu için Profiler*
 
 **Image Optimizasyonu**
@@ -106,7 +106,7 @@ tüm sitelerdeki resimlerin boyutlarını resimlerin üzerine yazıyor.
 Gerçekten hoş bir özellik.
 
 ![Gerçek zamanlı olarak sitedeki resimlerle ilgili detayları
-görebilirsiniz.](http://cdn.daron.yondem.com/assets/2183/11092008_5.png)\
+görebilirsiniz.](media/Internet_Explorer_8_0_ile_beraber_gelen_Developer_Tools_u_inceleyelim/11092008_5.png)\
 *Gerçek zamanlı olarak sitedeki resimlerle ilgili detayları
 görebilirsiniz.*
 
@@ -123,7 +123,7 @@ iki nokta arasında mesafeyi piksel olarak ölçebilir bu mesafeler
 arasında X ve Y koordinatları farkları görebilirsiniz.
 
 ![Pratik araçlardan biri :
-Cetvel!](http://cdn.daron.yondem.com/assets/2183/11092008_6.png)\
+Cetvel!](media/Internet_Explorer_8_0_ile_beraber_gelen_Developer_Tools_u_inceleyelim/11092008_6.png)\
 *Pratik araçlardan biri : Cetvel!*
 
 Aynı menüdeki "Show Color Picker" ile gezdiğiniz sitedeki herhangi bir

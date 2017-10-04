@@ -16,7 +16,7 @@ saklanmıştı. Aslında bu durum ikinci gün KeyNote'unun DJ performansı ile
 başlamasından bile belliydi :) Birinci gün böyle bir hareket yoktu :)
 
 ![MIX 2011 Gün 2 KeyNote
-başlıyor...](http://cdn.daron.yondem.com/assets/2558/13042011_1.jpg)\
+başlıyor...](media/MIX_2011_2_Gun_Raporu/13042011_1.jpg)\
 *MIX 2011 Gün 2 KeyNote başlıyor...*
 
 Güne hemen Windows Phone 7 ile başladık. Mango kod adı ile adlandırılan
@@ -39,7 +39,7 @@ konuda performansı kanıtlamak için demoda bir Android ve iPhone'u
 sahneye alındı :) Sonucu aşağıdaki resimde de görebilirsiniz.
 
 ![iPhone, Android ve WP7'de HTML5
-testi.](http://cdn.daron.yondem.com/assets/2558/13042011_2.jpg)\
+testi.](media/MIX_2011_2_Gun_Raporu/13042011_2.jpg)\
 *iPhone, Android ve WP7'de HTML5 testi.*
 
 Gelelim daha ilginç ve güzel gelişmelere. WP7'de mango update ile
@@ -51,7 +51,7 @@ süper! :) Tabi bu kadar yenilik telefona gelirken araçları da es geçmiş
 değiller. Malum developer araçlarında da ciddi eksikler vardı.
 
 ![Windows Phone 7 araçlarında Accelerometer ve Location simülasyon
-araçları.](http://cdn.daron.yondem.com/assets/2558/13042011_3.jpg)\
+araçları.](media/MIX_2011_2_Gun_Raporu/13042011_3.jpg)\
 *Windows Phone 7 araçlarında Accelerometer ve Location simülasyon
 araçları.*
 
@@ -89,7 +89,7 @@ verilmiyor. Yine de Kinect SDK ile güzel işler çıkartılabiliyor gibi
 duruyor. SDK'in kullanımı Windows 7'deki Sensor API'ye çok benziyor.
 
 ![Körler için Kinect ile
-çözüm!](http://cdn.daron.yondem.com/assets/2558/13042011_4.jpg)\
+çözüm!](media/MIX_2011_2_Gun_Raporu/13042011_4.jpg)\
 *Körler için Kinect ile çözüm!*
 
 Keynote kafalarına birer Kinect takıp :) körler için yönlendirme
@@ -119,7 +119,7 @@ diskin yanı sıra ekstra bir slota ek bir HDD de konabiliyor. Cihazın
 liste fiyatı ise 7600\$ olarak belirlenmiş.
 
 ![Karşınızda Surface
-2!](http://cdn.daron.yondem.com/assets/2558/13042011_5.jpg)\
+2!](media/MIX_2011_2_Gun_Raporu/13042011_5.jpg)\
 *Karşınızda Surface 2!*
 
 Böylece artık Surface 2 her tür ortama uyum sağlayabilir bir hal almış.

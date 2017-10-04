@@ -15,7 +15,7 @@ pek de planlarımda yoktu. Son anda QITCOM konferansına şirket olarak
 katılacağımız ortaya çıkınca :) bana da yollar gözüktü.
 
 ![QITCOM'daki Windows 8 ve Kinect
-demolarımız...](http://cdn.daron.yondem.com/assets/2802/qitcom_1.jpg)\
+demolarımız...](media/Qatar_QITCOM_Konferansi/qitcom_1.jpg)\
  *QITCOM'daki demolarımız bulunduğu alan.*
 
 Konferans'ta Microsoft alanının Windows 8, Surface, Kinect ve Windows

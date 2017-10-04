@@ -29,7 +29,7 @@ parti yazılımlar hali hazırda sektörde mevcut, fakat şu kadarını
 söyleyebilirim ki hiçbiri **DreamScene'in** performansını sunmuyor.
 
 ![Windows Vista Ultimate üzerinde
-DreamScene](http://cdn.daron.yondem.com/assets/1815/17102007_1.png)\
+DreamScene](media/Windows_Vista_DreamScene/17102007_1.png)\
  *Windows Vista Ultimate üzerinde DreamScene*
 
 Yaptığım denemelerde özellikle **High Definiton** videolar ile muhteşem

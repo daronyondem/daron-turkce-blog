@@ -46,7 +46,7 @@ katılamayacağım. Daha duyurusu resmen çıkmamış olan :) 11 Mart tarihinde
 dönmem gerekti.
 
 ![TechEd ME'de
-buluşalım!](http://cdn.daron.yondem.com/assets/2550/04022011_4.jpg)\
+buluşalım!](media/TechEd_Middle_East_2011_de_konusuyorum/04022011_4.jpg)\
 *TechEd ME'de buluşalım!*
 
 TechEd ME'ye gelenler bana mail atıp haber verebilirlerse oralarda

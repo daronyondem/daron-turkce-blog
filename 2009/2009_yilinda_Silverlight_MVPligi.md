@@ -10,7 +10,7 @@ Tags: Silverlight, Silverlight 2.0, Silverlight 3.0
 old.EntryID: 5b7dfc26-5c34-45fc-8d83-1e719a2af128
 ---
 ![2009 Silverlight
-MVP'liği!](http://cdn.daron.yondem.com/assets/2343/01042009_1.jpg)Geçen
+MVP'liği!](media/2009_yilinda_Silverlight_MVPligi/01042009_1.jpg)Geçen
 yıl
 [bugünlerde](http://daron.yondem.com/tr/post/852e0af4-c825-4de4-b0b0-45f5d4b277e7)
 sizlerle ASP.NET alanında MVP olmamın müjdesini paylaşmıştım. Bu süreçte

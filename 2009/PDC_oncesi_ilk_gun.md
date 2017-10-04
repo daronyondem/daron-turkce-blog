@@ -20,7 +20,7 @@ kendine soruyor neden bizim Yeşil Çam'ın böyle bir müzemsi vs ortamı
 yapılmamış diye!
 
 ![Holywood, Universal
-Studios](http://cdn.daron.yondem.com/assets/2448/16112009_1.jpg)\
+Studios](media/PDC_oncesi_ilk_gun/16112009_1.jpg)\
 *Holywood, Universal Studios*
 
 Bahsettiğim gibi PDC öncesinde tam günlük bir Regional Director
@@ -38,7 +38,7 @@ müşterilerimizle karşılaştığımız bazı sorunları anlatırken konuştu�
 kişiler bir anda kağıt kalem arayıp not alması :) beni sevindirdi!
 
 ![Regional Director
-Party!](http://cdn.daron.yondem.com/assets/2448/16112009_2.jpg)\
+Party!](media/PDC_oncesi_ilk_gun/16112009_2.jpg)\
 *Regional Director Party!*
 
 Anlayacağınız güzel bir ısınma turu ile PDC'ye hazır durumdayım. Bakalım

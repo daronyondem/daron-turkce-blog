@@ -131,7 +131,7 @@ sayfa açıldığında da hem ClipBoard için kullanacağımız Flash dosyasın�
 hem de sayfada taranacak tagların isimlerini aktarmış olduk.
 
 ![Renklendirilmiş
-kodumuz.](http://cdn.daron.yondem.com/assets/2294/01012009.png)\
+kodumuz.](media/Web_sayfalarinda_otomatik_kod_renklendirmek/01012009.png)\
 *Renklendirilmiş kodumuz.*
 
 Yukarıda gördüğünüz son görsel şekil yazdığımız kodların sonucu ortaya

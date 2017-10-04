@@ -16,14 +16,14 @@ kullanmış olduğum sunumu paylaşıyorum. Semineri İngilizce olarak
 düzenlediğimiz için sunumlar da ingilizce.
 
 [Silverlight Sunumları - 27122007\_2.pdf (1,3
-MB)](http://cdn.daron.yondem.com/assets/1900/27122007_2.pdf)
+MB)](media/Dogu_Akdeniz_Universitesi_Silverlight_Semineri/27122007_2.pdf)
 
 Seminerin düzenlenmesinde katkılarından dolayı **DAÜ ACM** grubundan
 **Arif Görkem Güngör**'e buradan teşekkür ediyorum. Son olarak
 aktiviteden bir fotoğraf ile yazımı sonlandırıyorum ;)
 
 ![KKTC, Doğu Akdeniz Üniversitesi Silverlight
-Semineri](http://cdn.daron.yondem.com/assets/1900/27122007_3.jpg)\
+Semineri](media/Dogu_Akdeniz_Universitesi_Silverlight_Semineri/27122007_3.jpg)\
 *KKTC, Doğu Akdeniz Üniversitesi Silverlight Semineri*
 
 

@@ -20,7 +20,7 @@ ilgilenmemiş olması Level 300 seviyelerine çıkmamızı engelledi
 diyebilirim.
 
 ![INETA Professional Hit İlk
-Gün](http://cdn.daron.yondem.com/assets/2316/28012009_1.jpg)\
+Gün](media/INETA_Profession_Hit_Bitti/28012009_1.jpg)\
 *INETA Professional Hit İlk Gün*
 
 Neyse :) Bu her açıdan bir "ilk"ti ve hepimiz Level 300 seminerlerle
@@ -35,22 +35,22 @@ indirebilirsiniz. Ayrıca yukarıdaki adreste bir de Ozel.rar dosyası
 göreceksiniz :) O dosya içerisinden de kişisel çekilmiş fotoğraflar var.
 
 ![INETA Professional Hit 2.
-Gün](http://cdn.daron.yondem.com/assets/2316/28012009_2.jpg)\
+Gün](media/INETA_Profession_Hit_Bitti/28012009_2.jpg)\
 *INETA Professional Hit 2. Gün*
 
 Son olarak aşağıdaki download linklerinden de her oturumla ilgili
 örnekleri ve sunumları indirebilirsiniz.
 
 [28012009\_ADONET.rar (1,13
-MB)](http://cdn.daron.yondem.com/assets/2316/28012009_ADONET.rar)\
+MB)](media/INETA_Profession_Hit_Bitti/28012009_ADONET.rar)\
 [28012009\_AJAX.rar (75
-KB)](http://cdn.daron.yondem.com/assets/2316/28012009_AJAX.rar)\
+KB)](media/INETA_Profession_Hit_Bitti/28012009_AJAX.rar)\
 [28012009\_CSHARP.rar (551,66
-KB)](http://cdn.daron.yondem.com/assets/2316/28012009_CSHARP.rar)\
+KB)](media/INETA_Profession_Hit_Bitti/28012009_CSHARP.rar)\
 [28012009\_LifeCycle.rar (126,8
-KB)](http://cdn.daron.yondem.com/assets/2316/28012009_LifeCycle.rar)\
+KB)](media/INETA_Profession_Hit_Bitti/28012009_LifeCycle.rar)\
 [28012009\_Silverlight.rar (672,98
-KB)](http://cdn.daron.yondem.com/assets/2316/28012009_Silverlight.rar)
+KB)](media/INETA_Profession_Hit_Bitti/28012009_Silverlight.rar)
 
 Katılan herkese çok teşekkürler. Bir başka aktivitede görüşmek üzere ;)
 

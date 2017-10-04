@@ -22,7 +22,7 @@ düşünen "dertli kerime"miz vardı :) Sanırım bir pazar gününü hem bu
 kadar eğlenceli hem de verimli geçirmek adına ciddi bir başarı sağladık.
 
 ![ASP.NET 3.5 AJAX
-Günü](http://cdn.daron.yondem.com/assets/2000/24032008_2.jpg)\
+Günü](media/ASP_NET_3_5_AJAX_Gunu/24032008_2.jpg)\
 *ASP.NET 3.5 AJAX Günü*
 
 Katılan herkese çok teşekkür ediyorum. Büyük zevk aldım. Fotoğraf
@@ -32,6 +32,6 @@ Katılan herkese çok teşekkür ediyorum. Büyük zevk aldım. Fotoğraf
 Gün boyunca yaptığımız bazı örnekleri aşağıdan indirebilirsiniz.
 
 [Örneklere ait kaynak kodları - 24032008\_1.zip (26,94
-KB)](http://cdn.daron.yondem.com/assets/2000/24032008_1.zip)
+KB)](media/ASP_NET_3_5_AJAX_Gunu/24032008_1.zip)
 
 

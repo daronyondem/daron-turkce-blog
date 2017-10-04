@@ -196,7 +196,7 @@ ediyoruz. Böylece artık fare ekranda hareket edildiğinde çizgiye yeni
 noktalar eklenmeyecek.
 
 ![InkPresenter çizimi fare ile bu kadar olur
-:)](http://cdn.daron.yondem.com/assets/1933/27012008_1.png)\
+:)](media/Silverlight_1_0_ve_InkPresenter_kullanimi/27012008_1.png)\
 *InkPresenter çizimi fare ile bu kadar olur :)*
 
 İşte hepsi bu kadar, **InkPresenter'ı** bir resim (Image) veya video

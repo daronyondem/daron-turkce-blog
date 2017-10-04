@@ -40,7 +40,7 @@ kelimesinden yola çıkarak çok farklı şeyler düşünmüş. Oysa gerçekten 
 "beyin" derken "beyin" demek istemiştim :)
 
 ![Yepyeni bir beynin
-sahibi!](http://cdn.daron.yondem.com/assets/2480/27122009_1.jpg)\
+sahibi!](media/INETA_NEXT_Denizli_ile_beraber_tum_seri_sonlandi_Beyin_nedir_aciklaniyor/27122009_1.jpg)\
 *Yepyeni bir beynin sahibi!*
 
 Fotoğrafta da görebileceğiniz üzere arkadaşımız yeni beynini sevinçle
@@ -48,7 +48,7 @@ karşılamış durumda :D Her şehirde bu şekilde bir beyin hediye etme
 şansımız oldu. Beynin özelliği gerçek bir beyin "vıcıklığında" olma ile
 beraber her ne yaparsanız yapın esnese de şeklini kaybetmiyor olması :)
 
-![](http://cdn.daron.yondem.com/assets/2480/27122009_2.jpg)
+![](media/INETA_NEXT_Denizli_ile_beraber_tum_seri_sonlandi_Beyin_nedir_aciklaniyor/27122009_2.jpg)
 
 Etkinliklerimize katılan herkese tekrar defalarca çok teşekkürler. Bizi
 takip etmeye devam edin ;)

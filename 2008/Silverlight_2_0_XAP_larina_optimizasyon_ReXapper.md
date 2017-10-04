@@ -28,7 +28,7 @@ Houweling](http://www.blogger.com/profile/07014938146985100402)
 tarafından yazılmış :)
 
 [ReXapper - 03112008\_2.rar (50,53
-KB)](http://cdn.daron.yondem.com/assets/2236/03112008_2.rar)
+KB)](media/Silverlight_2_0_XAP_larina_optimizasyon_ReXapper/03112008_2.rar)
 
 -   Uygulamayı yukarıdan indirdikten sonra aşağıdaki işlemleri sırayla
     yapmanız gerekiyor.
@@ -44,7 +44,7 @@ KB)](http://cdn.daron.yondem.com/assets/2236/03112008_2.rar)
         "\$(TargetDir)\$(TargetName).xap"
 
 ![ReXapper ile daha ufak XAP
-dosyaları!](http://cdn.daron.yondem.com/assets/2236/03112008_1.png)\
+dosyaları!](media/Silverlight_2_0_XAP_larina_optimizasyon_ReXapper/03112008_1.png)\
 *ReXapper ile daha ufak XAP dosyaları!*
 
 Artık Visual Studio içerisinde projenizi her Compile ettiğinizde

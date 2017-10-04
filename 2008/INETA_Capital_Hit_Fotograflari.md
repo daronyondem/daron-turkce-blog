@@ -35,7 +35,7 @@ benle paylaşırsanız çocuğunun ilk "baba" deyişini duyan baba gibi
 sevinebilirim :)
 
 [3D DeepZoom Projesi Kaynak Kodları29102008\_1.rar (50,57
-KB)](http://cdn.daron.yondem.com/assets/2231/29102008_1.rar)
+KB)](media/INETA_Capital_Hit_Fotograflari/29102008_1.rar)
 
 Hepinize kolay gelsin.
 

@@ -17,7 +17,7 @@ gibi anlatacak şeyler bitmedi de bitmedi. Bir ara sanırım epey hızlı
 konuşmaya başladım ki görevli arkadaşlar beni gözleri ile uyardı :)
 
 ![Elazığ, Fırat Üniversitesi, Silverlight 3.0 ve WPF
-Seminerlerim](http://cdn.daron.yondem.com/assets/2349/14042009_1.jpg)\
+Seminerlerim](media/Firat_Universitesi_Seminerlerim/14042009_1.jpg)\
 *Elazığ, Fırat Üniversitesi, Silverlight 3.0 ve WPF Seminerlerim*
 
 Buradan özellikle sevgili IEEE ekibine ve İbrahim Rıza Hallaç'a çok

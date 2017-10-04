@@ -14,7 +14,7 @@ farkındayım. Bu nedenle bir süre önce ayaklanarak tatile gidemeyen
 yazılımcılara bir hafta sonu dopingi hazırladık; **INETA Summer Hit
 2008!**
 
-![](http://cdn.daron.yondem.com/assets/2123/14072008_1.jpg)
+![](media/INETA_Summer_Hit_2008/14072008_1.jpg)
 
 Hepinizi aktiviteye bekliyorum. Her zamanki gibi aktiviteler boyunca
 vereceğimiz hediyelerden aktivite öncesi bahsetmeyeceğim :) Peki neler
@@ -46,6 +46,6 @@ Babaoğlan** ve **Oğuz Yılmaz**'a teşekkür ediyorum.
 Aktivitenin duyurulması için aşağıdaki banner'ı yukarıdaki adrese
 linkleyerek kullanabilirsiniz ;)
 
-![](http://cdn.daron.yondem.com/assets/2123/inetasummerhit2008_46860.jpg)
+![](media/INETA_Summer_Hit_2008/inetasummerhit2008_46860.jpg)
 
 

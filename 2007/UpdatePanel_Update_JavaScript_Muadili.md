@@ -656,6 +656,6 @@ fonksiyonları ve sunucu taraflı durum kontrolü sağlaması.
 Hepinize kolay gelsin.
 
 [UpdatePanel JavaScript Extender Kaynak Kodu - 04092007\_1.zip (493,15
-KB)](http://cdn.daron.yondem.com/assets/1774/04092007_1.zip)
+KB)](media/UpdatePanel_Update_JavaScript_Muadili/04092007_1.zip)
 
 

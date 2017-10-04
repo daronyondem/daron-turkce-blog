@@ -24,7 +24,7 @@ konumlandırılması gerçekten çok yanlış. Bu hem üniversitelerde hem de en
 büyük şirketleri de aynı :( Neyse, konuya dönelim :)
 
 ![Uluslararsı Kıbrıs Üniversitesi,
-KKTC](http://cdn.daron.yondem.com/assets/2019/10042008_1.jpg)\
+KKTC](media/Uluslararasi_Kibris_Universitesi_Silverlight_ve_WPF_Seminerleri/10042008_1.jpg)\
 *Uluslararsı Kıbrıs Üniversitesi, KKTC*
 
 İki gün boyunca **Uluslararsı Kıbrıs Üniversitesi**'nden genç

@@ -230,7 +230,7 @@ yükleyebilirsiniz.*
 Örneğin kaynak kodlarını aşağıdan indirebilirsiniz.
 
 [Örnek Proje Kaynak Kodları - 03022011\_2.zip (280,44
-KB)](http://cdn.daron.yondem.com/assets/2548/03022011_2.zip)
+KB)](media/Silverlight_InkPresenter_Cizimleri_Kaydetmek_ve_Geri_Yuklemek/03022011_2.zip)
 
 Hepinize kolay gelsin.
 

@@ -22,7 +22,7 @@ epey sinirlenmiş olsa gerek ki büyük harflerle doğrudan talebini dile
 getirmiş :D
 
 ![Samimi bir arama motoru kullanımına örnek
-:)](http://cdn.daron.yondem.com/assets/1914/10012008.png)\
+:)](media/Microsoft_NET_Framework_2_0_ne_ise_yariyor_abi/10012008.png)\
 *Samimi bir arama motoru kullanımına örnek :)*
 
 

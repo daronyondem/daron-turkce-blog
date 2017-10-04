@@ -40,7 +40,7 @@ Neyse, yine çok uzattım. Şimdilik paylaşabileceğim örnek kodlar aşağıda
 ;)
 
 [Silverlight ve WPF Örnek Kodları - 07022008\_2.rar (138,72
-KB)](http://cdn.daron.yondem.com/assets/1950/07022008_2.rar)
+KB)](media/Silverlight_WPF_AJAX_Egitimi_ardindan/07022008_2.rar)
 
 Eğitime katılan herkese ve özellikle eğitim sonundaki pozitif olduğu
 kadar da samimi yorumlara çok teşekkürler.

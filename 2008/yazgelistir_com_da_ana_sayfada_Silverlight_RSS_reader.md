@@ -32,7 +32,7 @@ Yükleme süresince "Yükleniyor" animasyonunu da unutmadım :)
 
 [yazgelistir.com ana sayfadaki Silverlight kaynak kodları -
 21062008\_1.rar (19,51
-KB)](http://cdn.daron.yondem.com/assets/2100/21062008_1.rar)
+KB)](media/yazgelistir_com_da_ana_sayfada_Silverlight_RSS_reader/21062008_1.rar)
 
 Hepinize kolay gelsin....
 

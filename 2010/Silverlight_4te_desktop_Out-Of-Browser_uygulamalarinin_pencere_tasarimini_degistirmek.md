@@ -20,7 +20,7 @@ yazımıda sıfırdan bir Full Trust OOB uygulaması yaratıp uygulama
 penceresinin görünüşünde yapabileceğimiz değişikliklere göz atacağız.
 
 ![Uygulamamızın penceresi ile ilgili yapabileceğimiz
-ayarlar.](http://cdn.daron.yondem.com/assets/2507/06042010_1.png)\
+ayarlar.](media/Silverlight_4te_desktop_Out-Of-Browser_uygulamalarinin_pencere_tasarimini_degistirmek/06042010_1.png)\
 *Uygulamamızın penceresi ile ilgili yapabileceğimiz ayarlar.*
 
 Yeni yarattığımız uygulamaya sağ tuş ile Solution Explorer içerisinde
@@ -170,7 +170,7 @@ Anlayacağız aslında kabaca normal bir Windows penceresi yapacağız ama
 tamamen kendi tasarımımız ve implementasyonumuz ile yapacağız.
 
 ![Basit hali ile uygulama
-ekranımız.](http://cdn.daron.yondem.com/assets/2507/06042010_2.png)\
+ekranımız.](media/Silverlight_4te_desktop_Out-Of-Browser_uygulamalarinin_pencere_tasarimini_degistirmek/06042010_2.png)\
 *Basit hali ile uygulama ekranımız.*
 
 Aslında bu noktaya kadar tasarımınızı tamamladınız ve "No Border"

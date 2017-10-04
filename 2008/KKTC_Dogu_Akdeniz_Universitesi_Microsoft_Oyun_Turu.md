@@ -18,7 +18,7 @@ kolay veya zor olduğunu anlayarak en azından bu sektöre atılıp atılmama
 konusunda karar verebilecek bilgiyi edindi.
 
 ![KKTC Doğu Akdeniz Üniversitesi, Microsoft Oyun
-Turu](http://cdn.daron.yondem.com/assets/2286/24122008_1.jpg)\
+Turu](media/KKTC_Dogu_Akdeniz_Universitesi_Microsoft_Oyun_Turu/24122008_1.jpg)\
 *KKTC Doğu Akdeniz Üniversitesi, Microsoft Oyun Turu*
 
 Organizasyondaki katkılarından dolayı **DAÜ Yazılım Kulübü**'nde ve

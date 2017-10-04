@@ -30,7 +30,7 @@ kullanıcının LiveMaps gibi bir uygulamaya herhangi bir site adresi
 yazmadan kullanabilmesini sağlayabiliyoruz.
 
 ![LiveMaps Accelerator
-uygulaması.](http://cdn.daron.yondem.com/assets/2189/17092008_1.jpg)\
+uygulaması.](media/Internet_Explorer_8_0_icin_Accelerator_nasil_hazirlanir/17092008_1.jpg)\
 *LiveMaps Accelerator uygulaması.*
 
 **Kendi Accelerator'ımızı yazalım.**

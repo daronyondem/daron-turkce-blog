@@ -18,7 +18,7 @@ Webinerin mini sunumunu :) ve demoya ait kaynak kodları aşağıdaki
 adresten indirebilirsiniz.
 
 [Webiner Sunum ve Demo Kaynak Kodları - 07112007\_1.zip (467.18
-KB)](http://cdn.daron.yondem.com/assets/1842/07112007_1.zip)
+KB)](media/Silverlight_ve_ASP_NET_AJAX_ile_Uygulama_Gelistirme_Webineri_Sonrasinda/07112007_1.zip)
 
 Webiner sonrası gelen soruları ve cevaplarımı buradan paylaşmak
 istiyorum. Umarım faydalı olur.

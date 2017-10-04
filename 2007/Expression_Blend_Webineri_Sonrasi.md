@@ -18,6 +18,6 @@ indirebilirsiniz. Webiner demolarında kullanmış olduğumuz ZAM3D adındaki
 sürümünü bulabilirsiniz.
 
 [Webiner Sunumu - 18102007\_1.pdf (1,17
-MB)](http://cdn.daron.yondem.com/assets/1816/18102007_1.pdf)
+MB)](media/Expression_Blend_Webineri_Sonrasi/18102007_1.pdf)
 
 

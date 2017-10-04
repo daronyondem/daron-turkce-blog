@@ -16,7 +16,7 @@ aklıma gelince bir bakiyim dedim ve
 [ekşisözlükte](http://sozluk.sourtimes.org/) kendimi arattım.
 
 ![Ekşi Sözlük'te ben
-:)](http://cdn.daron.yondem.com/assets/2090/12062008_8.gif)\
+:)](media/Eksi_Sozlukte_ben/12062008_8.gif)\
 *Ekşi Sözlük'te ben :)*
 
 Yukarıdaki manzara ile karşılaşınca tabi ki insan mutlu oluyor. Ekşi

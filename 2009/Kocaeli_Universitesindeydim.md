@@ -18,7 +18,7 @@ SharePoint'i görünce "Ne gerek var ASP.NET öğrenmeye" :) diyenlere kadar
 ilginç bir manzara içerisinde bitirdik seminerlerimizi diyebilirim.
 
 ![Kocaeli Üniversitesi, Silverlight
-Oturumum](http://cdn.daron.yondem.com/assets/2326/20022009_1.jpg)\
+Oturumum](media/Kocaeli_Universitesindeydim/20022009_1.jpg)\
 *Kocaeli Üniversitesi, Silverlight Oturumum*
 
 Tüm katılan arkadaşlar ve MSP'miz [Gökhan

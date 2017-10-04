@@ -17,7 +17,7 @@ yakında bir şekilde yayınlayacaktır, buradan da size haber veririm
 röportaj yayına girdiğinde. Terletici sorular vardı.
 
 ![Silverlight Eğitimi 2.
-Gün](http://cdn.daron.yondem.com/assets/1999/23032008_2.jpg)\
+Gün](media/Silverlight_Egitimi_2_Gun/23032008_2.jpg)\
 *Silverlight Eğitimi 2. Gün*
 
 Eğitim günün sonunda yaptığımız Silverlight uygulamasının kaynak
@@ -25,6 +25,6 @@ kodlarını aşağıdan indirebilirsiniz. Katılımcı arkadaşların her birine
 tek tek ilgileri ve yoğu konsantransyonları için teşekkür ediyorum.
 
 [Örnek Kaynak Kodu - 23032008\_1.zip (11
-KB)](http://cdn.daron.yondem.com/assets/1999/23032008_1.zip)
+KB)](media/Silverlight_Egitimi_2_Gun/23032008_1.zip)
 
 

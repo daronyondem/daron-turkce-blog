@@ -18,14 +18,14 @@ değil :) Semineri İngilizce olarak düzenlediğimiz için sunumlar da yine
 ingilizce.
 
 [Expression Studio Sunumları - 28122007\_2.pdf (2,72
-MB)](http://cdn.daron.yondem.com/assets/1902/28122007_2.pdf)
+MB)](media/Dogu_Akdeniz_Universitesi_Expression_Studio_Semineri/28122007_2.pdf)
 
 Seminerin düzenlenmesinde katkılarından dolayı **DAÜ ACM** grubundan
 **Arif Görkem Güngör**'e buradan tekrar teşekkür ediyorum. Aktiviteden
 bir fotoğraf ile yazımı sonlandırıyorum ;)
 
 ![KKTC, Doğu Akdeniz Üniversitesi Expression Studio
-Semineri](http://cdn.daron.yondem.com/assets/1902/28122007_3.jpg)\
+Semineri](media/Dogu_Akdeniz_Universitesi_Expression_Studio_Semineri/28122007_3.jpg)\
 *KKTC, Doğu Akdeniz Üniversitesi Expression Studio Semineri*
 
 

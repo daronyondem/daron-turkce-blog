@@ -542,7 +542,7 @@ uygulamasında dört farklı gradientı gösterebilmek için dört adet
 dikdörtgen kullandım.
 
 ![Vista
-Gradientları](http://cdn.daron.yondem.com/assets/2065/23052008_1.png)\
+Gradientları](media/Vista_Gradientlari_XAML_Kodlari/23052008_1.png)\
 *Vista Gradientları*
 
 Hepinize kolay gelsin.

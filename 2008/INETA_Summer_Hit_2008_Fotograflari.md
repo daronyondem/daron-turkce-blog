@@ -14,7 +14,7 @@ toparlamayı başardım ve güzel çıkanlardan bir arşiv düzenledim. Arşivde
 özellikle birkaç fotoğrafa değinmek istiyorum :)
 
 ![Yemeğe
-yolculuk](http://cdn.daron.yondem.com/assets/2146/06082008_1.jpg)\
+yolculuk](media/INETA_Summer_Hit_2008_Fotograflari/06082008_1.jpg)\
 *Yemeğe yolculuk*
 
 Aktivite boyunca öğlen yemekleri için YTÜ'den Beşiktaş'a doğru bir
@@ -24,7 +24,7 @@ ettiğimizi söylemek yalan olmaz. Foto biraz daha kuş bakışı olsaydı bu
 yürüyüşün uzunluğunu daha net görebilirdiniz.
 
 ![Tavşan Eralp iş
-başında!](http://cdn.daron.yondem.com/assets/2146/06082008_2.jpg)\
+başında!](media/INETA_Summer_Hit_2008_Fotograflari/06082008_2.jpg)\
 *Tavşan Eralp iş başında!*
 
 Sevgili Eralp Erat her zamanki gibi konuşmasını zamanında bitiremeyince
@@ -34,7 +34,7 @@ isterdi ki devam edelim fakat salın görevlilerini mesaileri haricinde
 orada tutmak hakkımız yoktu. Yukarıdaki sahneyi yakalamak için o anda
 fotoğraf makinesine sarılanların sayısını tahmin edemezsiniz :)
 
-![Rap Zamanı!](http://cdn.daron.yondem.com/assets/2146/06082008_3.jpg)\
+![Rap Zamanı!](media/INETA_Summer_Hit_2008_Fotograflari/06082008_3.jpg)\
 *Rap Zamanı!*
 
 Bir ara kendimi RAP söylemek zorunda hissettiren Microsoft şapkaları tüm
@@ -44,7 +44,7 @@ havası veren bu şapkaların kendi içlerine katlanıp taşınabilir hale
 gelmeleri de ayrı bir özellik :)
 
 ![Yemek veya
-yememek...](http://cdn.daron.yondem.com/assets/2146/06082008_4.jpg)\
+yememek...](media/INETA_Summer_Hit_2008_Fotograflari/06082008_4.jpg)\
 *Yemek veya yememek...*
 
 İşte yemeklerimizden ufak bir görüntü. Beşiktaşa inerken yürümeyi tercih

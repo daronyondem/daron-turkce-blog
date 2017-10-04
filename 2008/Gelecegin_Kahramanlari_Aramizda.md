@@ -25,7 +25,7 @@ heyecanını, hevesini ve geleceği yansıtan haylaz gözlerini görmelisiniz
 **Emre Ordukaya**'ya helal olsun demek istiyorum...
 
 ![Bağcılar Meslek Lisesi, Geleceğin Kahramları
-Aramızda!](http://cdn.daron.yondem.com/assets/2057/15052008_1.jpg)\
+Aramızda!](media/Gelecegin_Kahramanlari_Aramizda/15052008_1.jpg)\
 *Bağcılar Meslek Lisesi, Geleceğin Kahramları Aramızda!*
 
 Liseyi ziyaretimde gençlerle güzel bir sohbet yapma şansımız oldu.

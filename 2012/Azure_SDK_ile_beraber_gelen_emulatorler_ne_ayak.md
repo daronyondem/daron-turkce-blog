@@ -16,7 +16,7 @@ da Visual Studio ile ilk projenizi F5'e basarak çalıştırdıktan sonra
 "notification bar" dan ulaşabilirsiniz.
 
 ![Azure Emülatörleri İş
-Başında](http://cdn.daron.yondem.com/assets/2778/emulator.jpg)
+Başında](media/Azure_SDK_ile_beraber_gelen_emulatorler_ne_ayak/emulator.jpg)
 *Azure Emülatörleri İş Başında*
 
 ### Storage Emulator
@@ -28,7 +28,7 @@ göstermeye başlayabilir :) Bu durumu engellemek adına Storage
 Emülatör'ün arayüzünü açıp tüm storage'ı resetleyebilirsiniz.
 
 ![Storage Emulator ayarları bu kadar
-:)](http://cdn.daron.yondem.com/assets/2778/emulator2.jpg)
+:)](media/Azure_SDK_ile_beraber_gelen_emulatorler_ne_ayak/emulator2.jpg)
 *Storage Emulator ayarları bu kadar :)*
 
 Storage Emulator içerisinde toplam üç storage servisi (Blob, Queue,
@@ -56,7 +56,7 @@ aslında basit bir şekilde SQL Management Studio ile bağlanıp emülatörün
 kullandığı veritabanını da inceleyebilirsiniz.
 
 ![Storage Emülatörü arkasında SQL'e bir
-bakış.](http://cdn.daron.yondem.com/assets/2778/emulator3.png)
+bakış.](media/Azure_SDK_ile_beraber_gelen_emulatorler_ne_ayak/emulator3.png)
 *Storage Emülatörü arkasında SQL'e bir bakış.*
 
 Yukarıdaki ekran görüntüsünde basit bir şekilde BlobContainer listesini
@@ -73,7 +73,7 @@ Instance'larınızı ve konsollarını tek tek emülatör arayüzünden
 görebiliyorsunuz. Bir anlamda local bir FC rolü oynamaya çalışıyor.
 
 ![Azure Emulator
-UI](http://cdn.daron.yondem.com/assets/2778/emulator4.png)
+UI](media/Azure_SDK_ile_beraber_gelen_emulatorler_ne_ayak/emulator4.png)
 *Azure Emulator UI*
 
 Yukarıdaki ekran görüntüsünde gördüğünüz deployment'ta üç instance bir
@@ -83,7 +83,7 @@ suspend edebilir farklı durumlara verdikleri tepkileri de
 ölçebilirsiniz.
 
 ![Local emülatörün
-parçaları...](http://cdn.daron.yondem.com/assets/2778/emulator5.png)
+parçaları...](media/Azure_SDK_ile_beraber_gelen_emulatorler_ne_ayak/emulator5.png)
 *Local emülatörün parçaları...*
 
 Yukarıda kabaca local Azure Emülatörünün mimari olarak nasıl da gerçek

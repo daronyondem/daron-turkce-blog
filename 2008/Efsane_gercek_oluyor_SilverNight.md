@@ -10,7 +10,7 @@ Tags: Silverlight 2.0
 old.EntryID: 42c1be08-8cfd-4d03-a353-a1e924514bd1
 ---
 [![SilverNight
-karşınızda!](http://cdn.daron.yondem.com/assets/2259/27112008_1.gif)](http://www.silvernight.ms/)
+karşınızda!](media/Efsane_gercek_oluyor_SilverNight/27112008_1.gif)](http://www.silvernight.ms/)
 
 Uzun süredir hayallerim arasında olan aktivitelerden biriydi
 **SilverNight** :) Sonunda her şey hazır ve başvuruları alıyoruz. Hemen

@@ -19,7 +19,7 @@ dosyanız dışında daha XAP dosyası yüklenmeden bir şekilde yine
 Silverlight ile yapabiliyor olmamız gerek.
 
 ![Silverlight ile beraber gelen standart ön yükleme
-animasyonu.](http://cdn.daron.yondem.com/assets/2328/25022009_1.jpg)\
+animasyonu.](media/Silverlight_2_0_icin_ozel_on_yukleme_ekranlari_gelistirmek_PreLoader/25022009_1.jpg)\
 *Silverlight ile beraber gelen standart ön yükleme animasyonu.*
 
 Aslında bu yükleme ekranını değiştirirken belki de eski Silverlight 1.0

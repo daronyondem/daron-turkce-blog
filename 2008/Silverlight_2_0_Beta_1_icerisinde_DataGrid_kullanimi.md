@@ -401,7 +401,7 @@ XAML kodumuzun son hali yukarıdaki gibi olmalı. Böylece uygulamamızı
 çalıştırdığımızda aşağıdaki manzara ile karşılaşabiliriz.
 
 ![Silverlight 2.0 içerisinde DataGrid
-görüntüsü.](http://cdn.daron.yondem.com/assets/2078/05062008_1.png)\
+görüntüsü.](media/Silverlight_2_0_Beta_1_icerisinde_DataGrid_kullanimi/05062008_1.png)\
 *Silverlight 2.0 içerisinde DataGrid görüntüsü.*
 
 İsterseniz alternatif satırların fon renklerini hatta kolonlar arası

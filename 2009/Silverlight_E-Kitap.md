@@ -16,9 +16,9 @@ Silverlight makalelerimi de bir E-Kitap olarak derlemiş. Gerçekten
 kitabı indirebilirsiniz.
 
 [Silverlight E-Kitap - 16032009\_1.pdf (4.15
-MB)](http://cdn.daron.yondem.com/assets/2337/16032009_1.pdf)\
+MB)](media/Silverlight_E-Kitap/16032009_1.pdf)\
  [Silverlight E-Kitap - 16032009\_1.xps (5.55
-MB)](http://cdn.daron.yondem.com/assets/2337/16032009_2.xps)
+MB)](media/Silverlight_E-Kitap/16032009_2.xps)
 
 Çok yakında bir başka kitapçık sürprizi ile karşınızda olacağım ;)
 Volkan'a buradan tekrar çok teşekkürler ;)

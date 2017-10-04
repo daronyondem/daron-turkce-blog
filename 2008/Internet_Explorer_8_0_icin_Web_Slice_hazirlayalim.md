@@ -30,7 +30,7 @@ yaptırdığınızda arama sonucunda gelen listeden herhangi bir ürünün
 ve solunda da özel bir ikon beliriyor.
 
 ![Canlı bir WebSlice'a ait
-ikon!](http://cdn.daron.yondem.com/assets/2185/13092008_1.png)\
+ikon!](media/Internet_Explorer_8_0_icin_Web_Slice_hazirlayalim/13092008_1.png)\
 *Canlı bir WebSlice'a ait ikon!*
 
 Yukarıdaki resimde gördüğünüz yeşil ikona tıkladığımızda karşımıza
@@ -38,7 +38,7 @@ Yukarıdaki resimde gördüğünüz yeşil ikona tıkladığımızda karşımız
 Slice'ı IE 8.0'ın arayüzüne eklemiş oluyoruz.
 
 ![WebSlice'ımız artık IE 8.0 araç çubuğunda
-duruyor.](http://cdn.daron.yondem.com/assets/2185/13092008_2.png)\
+duruyor.](media/Internet_Explorer_8_0_icin_Web_Slice_hazirlayalim/13092008_2.png)\
 *WebSlice'ımız artık IE 8.0 araç çubuğunda duruyor.*
 
 Biraz önce Web Slice'ını eklediğimiz ürünü artık IE 8.0 araç çubuğundan

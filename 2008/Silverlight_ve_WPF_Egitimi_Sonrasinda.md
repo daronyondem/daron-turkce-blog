@@ -19,7 +19,7 @@ etmiyorum. Burada eğitime katılan arkadaşlara söz verdiğim üzere
 slaytları sizlerle paylaşıyorum.
 
 [Sunum Dosyaları - 11012008\_2.zip (5.99
-MB)](http://cdn.daron.yondem.com/assets/1916/11012008_2.zip)
+MB)](media/Silverlight_ve_WPF_Egitimi_Sonrasinda/11012008_2.zip)
 
 Katılan herkese çok teşekkürler.
 

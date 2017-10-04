@@ -16,7 +16,7 @@ ilgili basın açıklamasını [Microsoft web
 sitesinden](http://www.microsoft.com/presspass/press/2007/nov07/11-05TechEdDevelopersPR.mspx)
 okuyabilirsiniz.
 
-![](http://cdn.daron.yondem.com/assets/1841/06112007_1.jpg)
+![](media/Visual_Studio_2008_ve_NET_Framework_3_5_Kasimda_bizlerle/06112007_1.jpg)
 
 Hadi hayırlısı :)
 

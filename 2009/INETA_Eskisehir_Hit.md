@@ -15,7 +15,7 @@ zevkli bir hafta sonu geçirmek isteyen herkesi bekliyoruz. Etkinlik
 planını aşağıdaki görselde bulabilirsiniz.
 
 ![INETA Eskişehir Hit
-Afişi](http://cdn.daron.yondem.com/assets/2332/02032009_1.jpg)\
+Afişi](media/INETA_Eskisehir_Hit/02032009_1.jpg)\
 *INETA Eskişehir Hit Afişi*
 
 Etkinlik serisi tamamen halka açık ve herhangi bir şekilde kayıt olmanız

@@ -18,7 +18,7 @@ olarak **MultiPoint** programlama anlattım. Sonrasında sevgili Uğur
 yenilikleri ile hızlı bir marator gerçekleştirdik.
 
 ![MultiPoint Semineri,
-İstanbul](http://cdn.daron.yondem.com/assets/2335/14032009_1.jpg)\
+İstanbul](media/NedirTV_com_Etkinliginde_MultiPoint_Seminerim/14032009_1.jpg)\
 *MultiPoint Semineri, İstanbul*
 
 Etkinlik epey heyecanlı geçti, özellikle hediyelerimiz ve Windows 7
@@ -30,7 +30,7 @@ da çok teşekkürler ve tabi ki katılımcılarımız :) sizleri de unutamam.
 Hepinize sonsuz teşekkürler, umarım faydalı olmuştur.
 
 ![NedirTV 3. Yıl Dönümü,
-İstanbul](http://cdn.daron.yondem.com/assets/2335/14032009_2.jpg)\
+İstanbul](media/NedirTV_com_Etkinliginde_MultiPoint_Seminerim/14032009_2.jpg)\
 *NedirTV 3. Yıl Dönümü, İstanbul*
 
 Etkinlikte çekilen tüm fotoğrafları tam çözünürlüklü halleri ile

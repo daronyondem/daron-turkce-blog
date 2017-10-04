@@ -500,6 +500,6 @@ kullanıcıya eskisi de göstermesini sağlayabilirsiniz.
 Hepinize kolay gelsin.
 
 [Makale Kaynak Kodu - 03092007\_1.zip (3,48
-KB)](http://cdn.daron.yondem.com/assets/1772/03092007_1.zip)
+KB)](media/ASP_NET_ile_Web_Sitelerinin_Ekran_Goruntusunu_Almak/03092007_1.zip)
 
 

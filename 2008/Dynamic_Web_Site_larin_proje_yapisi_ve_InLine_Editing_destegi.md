@@ -22,7 +22,7 @@ olarak ekliyor. Tüm bu otomatik eklenen dosyalar proje içerisinde
 DynamicData adında bir klasörün altında saklı.
 
 ![DynamicData klasöründeki SAKLI
-GÜÇ](http://cdn.daron.yondem.com/assets/2214/12102008_1.png)\
+GÜÇ](media/Dynamic_Web_Site_larin_proje_yapisi_ve_InLine_Editing_destegi/12102008_1.png)\
 *DynamicData klasöründeki SAKLI GÜÇ*
 
 Dynamic Data klasöründeki farklı yapıların amaçlarını hızlıca
@@ -128,7 +128,7 @@ sayfalar bizim örneğimizde de hem Kategoriler hem de Ürünler tablosunu
 düzenlerken kullanılıyordu.
 
 ![Dynamic Data Web Site'ın URL
-yapısı.](http://cdn.daron.yondem.com/assets/2214/12102008_2.png)\
+yapısı.](media/Dynamic_Web_Site_larin_proje_yapisi_ve_InLine_Editing_destegi/12102008_2.png)\
 *Dynamic Data Web Site'ın URL yapısı.*
 
 Yukarıdaki ekran görüntüsünde de görebileceğiniz gibi Kategorilers
@@ -267,7 +267,7 @@ yapılacağı ile ilgili. Edit ve Insert işlemlerini yönlendirmemize gerek
 yok çünkü zaten onlar artık ListDetails içerisinde hallediliyor olacak.
 
 ![ListDetails ile herşey aynı sayfada
-halloluyor.](http://cdn.daron.yondem.com/assets/2214/12102008_3.png)\
+halloluyor.](media/Dynamic_Web_Site_larin_proje_yapisi_ve_InLine_Editing_destegi/12102008_3.png)\
 *ListDetails ile herşey aynı sayfada halloluyor.*
 
 Yukarıdaki ekran görüntüsünde ListDetails.aspx'i görüyorsunuz. GridView

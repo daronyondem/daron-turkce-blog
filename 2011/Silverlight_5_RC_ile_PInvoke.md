@@ -63,7 +63,7 @@ açılacaktır. Kullandığımız komutla ilgili detaylara
 ulaşabilirsiniz.
 
 ![PInvoke için InBrowser Elevated Trust
-Ayarı](http://cdn.daron.yondem.com/assets/2694/sl5_rc_pinvoke.png)\
+Ayarı](media/Silverlight_5_RC_ile_PInvoke/sl5_rc_pinvoke.png)\
 *PInvoke için InBrowser Elevated Trust Ayarı*
 
 Son olarak tüm bunların çalışması için uygulamamızı bir şekilde Elevated

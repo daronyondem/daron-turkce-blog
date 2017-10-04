@@ -82,7 +82,7 @@ hesabınıza mesaj atma hakkını verip bu sefer de o hakla ilgili token
 bilgisini almak :)
 
 ![Twitter'da keylerimiz ve kendi hesabımıza izin
-işlemi.](http://cdn.daron.yondem.com/assets/2736/twitter_api.gif)\
+işlemi.](media/CS_VB_Twitter_a_mesaj_atmak/twitter_api.gif)\
 *Twitter'da keylerimiz ve kendi hesabımıza izin işlemi.*
 
 Yukarıda gördüğünüz ekran direk uygulama ayarlarınızın bulunduğu bölümün
@@ -95,7 +95,7 @@ tam ihtiyacımız olan şey bu zaten :) Twitter API access keylerimiz ile
 geldiğimizde kendi profilimize de erişebilmek istiyoruz.
 
 ![Access Token'ımız da
-hazır.](http://cdn.daron.yondem.com/assets/2736/twitter_api2.gif)\
+hazır.](media/CS_VB_Twitter_a_mesaj_atmak/twitter_api2.gif)\
 *Access Token'ımız da hazır.*
 
 Artık kendi hesabımıza ulaşabilmek için **Access Token** ve**Access
@@ -113,7 +113,7 @@ yüklüyorsunuz :) NuGet kapaca birçok open source librarynin Visual
 Studio entegrasyonunu otomatize eden bir arkadaş.
 
 ![NuGet kullanıma
-hazır.](http://cdn.daron.yondem.com/assets/2736/twitter_api3.gif)\
+hazır.](media/CS_VB_Twitter_a_mesaj_atmak/twitter_api3.gif)\
 *NuGet kullanıma hazır.*
 
 NuGet yüklemesi bittikten sonra hemen projenize sağ tıklayıp "**Manage
@@ -122,7 +122,7 @@ aratırsanız "**TweetSharp**" diye bir yükleme göreceksiniz. Hemen çift
 tıklayıp yükleyin!
 
 ![TweetSharp
-yüklenirken...](http://cdn.daron.yondem.com/assets/2736/twitter_api4.gif)\
+yüklenirken...](media/CS_VB_Twitter_a_mesaj_atmak/twitter_api4.gif)\
 *TweetSharp yüklenirken...*
 
 Sanırım tüm yüklemelerimiz artık hazır :) İş geldi son üç satır kodu

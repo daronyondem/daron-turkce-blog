@@ -17,7 +17,7 @@ gördük. Gerçekten SnapShot kıvamında bu oturumlar çok ilginç, aslında
 katılımcıların yorumlarını duymak gerek :)
 
 ![Geek Zone'da WPF ile 3D Animasyon Programlama
-oturumum.](http://cdn.daron.yondem.com/assets/2212/10102008_1.jpg)\
+oturumum.](media/Geek_Zone_da_WPF_ile_3D_Programlama_oturumum/10102008_1.jpg)\
 *Geek Zone'da WPF ile 3D Animasyon Programlama oturumum.*
 
 Ayakta kalanlardan özür diliyoruz, ortamımız biraz ufaktı. Aldığım
@@ -28,6 +28,6 @@ Söz verdiğim üzere yaptığımız uygulamanın kodlarını aşağıdan
 indirebilirsiniz.
 
 [Oturuma ait uygulamanın kaynak kodları - 10102008\_2.rar (355,22
-KB)](http://cdn.daron.yondem.com/assets/2212/10102008_2.rar)
+KB)](media/Geek_Zone_da_WPF_ile_3D_Programlama_oturumum/10102008_2.rar)
 
 

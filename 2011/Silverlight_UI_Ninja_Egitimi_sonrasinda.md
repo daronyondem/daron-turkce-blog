@@ -17,7 +17,7 @@ paylaşmaya çalıştım. Etkinliğin sonundaki güler yüzlerden herkesin mutlu
 mesut ayrıldığını tahmin ediyorum :)
 
 ![Silverlight UI Ninja Eğitimi,
-Istanbul](http://cdn.daron.yondem.com/assets/2571/27042011_1.jpg)\
+Istanbul](media/Silverlight_UI_Ninja_Egitimi_sonrasinda/27042011_1.jpg)\
 *Silverlight UI Ninja Eğitimi, Istanbul*
 
 Bir sonraki akşam sınıfı 26 Mayıs tarihinde olacak. Bu sefer uzun

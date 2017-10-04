@@ -16,7 +16,7 @@ Silverlight'ın sektördeki yerine hem SharePoint ile beraber
 kullanılmasına değindim.
 
 ![Microsoft SharePoint Konferansı,
-İstanbul](http://cdn.daron.yondem.com/assets/2020/11042008_1.jpg)\
+İstanbul](media/Microsoft_SharePoint_Konferansi_Silverlight_BluePrint/11042008_1.jpg)\
 *Microsoft SharePoint Konferansı, İstanbul*
 
 Normalde SharePoint ile ilgili yazılar yazmıyorum ama özellikle dünki

@@ -30,7 +30,7 @@ Tüm bu süreç devam ederken kendimizi bir mail grup buluşması içerisinde
 bulduk! :)
 
 ![Birinci Geleneksel Mail Grup Buluşması - High Definition
-İskender](http://cdn.daron.yondem.com/assets/2323/15022009_1.jpg)\
+İskender](media/Geleneksel_Mail_Grup_Bulusmasi_1/15022009_1.jpg)\
 *Birinci Geleneksel Mail Grup Buluşması - High Definition İskender*
 
 Gözlerinize inanabilirsiniz :) Oniki kişilik bir ekip olarak İstanbul'da
@@ -42,7 +42,7 @@ sefası yaptık mecburen :) Tüm bu organizasyonu sadece İskender yemek
 için yaptık sanıyorsanız aldanıyorsunuz :)
 
 ![Mail Grup Recep İvedik 2 izler
-:)](http://cdn.daron.yondem.com/assets/2323/15022009_2.jpg)\
+:)](media/Geleneksel_Mail_Grup_Bulusmasi_1/15022009_2.jpg)\
 *Mail Grup Recep İvedik 2 izler :)*
 
 Bir sonraki adımda yaklaşık 3 gün önceden ayırttığımız biletler ile

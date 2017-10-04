@@ -16,6 +16,6 @@ kullandığımız görselleri aşağıdaki RAR paketi içerisinde
 bulabilirsiniz.\
 
 [Flash Uygulama Dosyaları - 18062007\_1.rar (32.91
-KB)](http://cdn.daron.yondem.com/assets/1745/18062007_1.rar)
+KB)](media/Web_Tasarim_Egitimi_-_Mayasoft_Ders_Dosyalari-2/18062007_1.rar)
 
 

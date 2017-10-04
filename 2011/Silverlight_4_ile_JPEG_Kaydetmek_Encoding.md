@@ -35,7 +35,7 @@ indirebilirsiniz. Kaynak kodlarını indirerek compile etmeye üşenenler
 için assembly downloadunu ayrıca sizlerle aşağıda paylaşıyorum.
 
 [FJCore - FJ.Core.DLL -04022011\_2.zip (24,96
-KB)](http://cdn.daron.yondem.com/assets/2549/04022011_2.zip)
+KB)](media/Silverlight_4_ile_JPEG_Kaydetmek_Encoding/04022011_2.zip)
 
 Download işlemi tamamlandıktan sonra InkPresenter projemize referans
 olarak FJ.Core.dll dosyasını eklemeyi unutmayın. Artık JPEG encoding
@@ -156,7 +156,7 @@ Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)](http://go.microsoft
 Örnek kodları aşağıdan indirebilirsiniz;
 
 [Örnek Proje Kaynak Kodları - 04022011\_1.zip (363,64
-KB)](http://cdn.daron.yondem.com/assets/2549/04022011_1.zip)
+KB)](media/Silverlight_4_ile_JPEG_Kaydetmek_Encoding/04022011_1.zip)
 
 Hepinize kolay gelsin.
 

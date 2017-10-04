@@ -15,7 +15,7 @@ Zone'un konsepti gereği 20 dakikalık oturumlar gerçekleşiyor. Benim
 oturumu çaktırmadan 30 dakikaya kadar uzattım :)
 
 ![Geek Zone'daki "Facebook Uygulama Geliştirme"
-oturumum.](http://cdn.daron.yondem.com/assets/2209/07102008_1.jpg)\
+oturumum.](media/Geek_Zone_da_Facebook_Uygulama_Gelistirme_oturumumu_tamamladim/07102008_1.jpg)\
 *Geek Zone'daki "Facebook Uygulama Geliştirme" oturumum.*
 
 Gerçek anlamda "hap" niteliğinde bir oturum oldu, eğer anlattığım her
@@ -27,7 +27,7 @@ Aktivite de söz verdiğim üzere kullandığım sunumu aşağıdan
 indirebilirsiniz ;)
 
 [Facebook Uygulama Geliştirme Sunumu - 07102008\_2.pptx (807
-KB)](http://cdn.daron.yondem.com/assets/2209/07102008_2.pptx)
+KB)](media/Geek_Zone_da_Facebook_Uygulama_Gelistirme_oturumumu_tamamladim/07102008_2.pptx)
 
 Cuma günü "**WPF ile 3D animasyonları**" anlatıyor olacağım. Sonrasında
 da CEBIT fuarını gezeceğim :) Bugün gezemedim. Hepinizi beklerim.

@@ -29,12 +29,12 @@ tasarımlarını almanızı sağlayan uygulamayı ClickOnce ile
 yükleyebilirsiniz. Böylece yeni sürümleri çıktığında program kendini
 otomatik olarak yenileyecektir.
 
-![](http://cdn.daron.yondem.com/assets/2096/17062008_2.gif)
+![](media/Silverlight_2_0_kontrollerinin_varsayilan_gorselliklerine_ait_XAML_kodlari/17062008_2.gif)
 
 Ayrıca programı aşağıdaki adresten de bilgisayarınıza indirebilirsiniz.
 
 [Silverlight Default Style Browser - 17062008\_1.zip (20,46
-KB)](http://cdn.daron.yondem.com/assets/2096/17062008_1.zip)
+KB)](media/Silverlight_2_0_kontrollerinin_varsayilan_gorselliklerine_ait_XAML_kodlari/17062008_1.zip)
 
 Kolay gelsin...
 

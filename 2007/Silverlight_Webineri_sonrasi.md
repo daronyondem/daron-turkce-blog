@@ -17,6 +17,6 @@ dosyasını paylaşarak varsa Silverlight başlıklı sorularınızı bu yazıma
 yorum olarak gönderebileceğinizi de hatırlatmak isterim.
 
 [Webiner Sunum Dosyası - 04102007\_1.rar
-(6,39MB)](http://cdn.daron.yondem.com/assets/1802/04102007_1.rar)
+(6,39MB)](media/Silverlight_Webineri_sonrasi/04102007_1.rar)
 
 

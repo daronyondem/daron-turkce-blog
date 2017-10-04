@@ -10,7 +10,7 @@ Tags: Windows 7
 old.EntryID: f8c6865a-8b79-49fa-aecb-267b37738d75
 ---
 [![Windows 7 ile 7
-Saat](http://cdn.daron.yondem.com/assets/2375/30062009_1.gif)](http://www.inetatr.org/)
+Saat](media/Windows_7_ile_7_saat/30062009_1.gif)](http://www.inetatr.org/)
 
 Bugün sizlere yepyeni ve taptaze bir etkinlik duyuruyorum :)
 Biliyorsunuz Windows 7'nin RTM (Üretime Hazır Sürüm) haline gelmesine

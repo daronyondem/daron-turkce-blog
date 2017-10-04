@@ -14,7 +14,7 @@ aldım. Kayseri malum benim memleketim sayılır :) o nedenle ayrı bir
 sempati de duyduğumu söylemem gerek.
 
 ![INETA Kayseri
-Etkinliği](http://cdn.daron.yondem.com/assets/2803/DSC_2692.jpg)\
+Etkinliği](media/INETA_Kayseri_etkinliginde_Azure_oturumlarim/DSC_2692.jpg)\
 *INETA Kayseri Etkinliği*
 
 Etkinliğin sahibi ACM ekibine binlerce teşekkür etmem gerek. Kayseri

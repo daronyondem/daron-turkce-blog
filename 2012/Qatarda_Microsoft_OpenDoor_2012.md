@@ -16,7 +16,7 @@ zenginliğinin ürünlerinden biri olan :) efsane büyüklükte bir konferans
 alanında gerçekleşti.
 
 ![Qatar National Convention Center,
-Doha](http://cdn.daron.yondem.com/assets/2792/qncc.jpg)\
+Doha](media/Qatarda_Microsoft_OpenDoor_2012/qncc.jpg)\
 *Qatar National Convention Center, Doha*
 
 Konferans alanını yapısı ve mimarisi gerçekten ilginçti :) Konferansa

@@ -37,7 +37,7 @@ yazıya](http://daron.yondem.com/en/post/3dd88a31-b300-4849-9243-9f1ab3d22597)
 davet edebilirim :)
 
 ![Sağ tıkla sunucudaaymış gibi
-çalıştır!](http://cdn.daron.yondem.com/assets/2295/02012009_2.png)\
+çalıştır!](media/Tek_bir_tikla_projeni_sunucuda_calistir_Cassini_Web_Server_Launcher/02012009_2.png)\
 *Sağ tıkla sunucudaaymış gibi çalıştır!*
 
 Gelelim sadede... **Infragistics'te** çalışan **J. Ambrose Little** tüm
@@ -51,7 +51,7 @@ içerisindeki uygulama server üzerinden çalıştırılıyormuş gibi karşın�
 Uygulamayı aşağıdaki linkten bilgisayarınıza indirip yükleyebilirsiniz.
 
 [Cassini Web Server Launcher - 02012009\_1.msi (355
-KB)](http://cdn.daron.yondem.com/assets/2295/02012009_1.msi)
+KB)](media/Tek_bir_tikla_projeni_sunucuda_calistir_Cassini_Web_Server_Launcher/02012009_1.msi)
 
 ASP.NET 2.0 dediğine bakmayın 3.5 SP1 ile herhangi bir sorunu yok.
 

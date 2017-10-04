@@ -47,7 +47,7 @@ yönlendireceksiniz kullanıcıları. Tüm bunları artık doğrudan DeepZoom
 Composer içerisinde ayarlayabiliyorsunuz.
 
 ![Link olacak alanı
-belirlerken...](http://cdn.daron.yondem.com/assets/2392/16082009_1.png)\
+belirlerken...](media/DeepZoom_Composer_Yenilikleri/16082009_1.png)\
 *Link olacak alanı belirlerken...*
 
 Uygulamanız içerisinde link olarak tıklanacak bir alanı belirlemek için
@@ -56,7 +56,7 @@ kullanacağız. Düğmeye tıkladıktan sonra DeepZoom uygulamanızın compose
 ekranında istediğiniz alanı bir kare içerisine alabilirsiniz.
 
 ![Link olacak bölgeyi
-yarattık.](http://cdn.daron.yondem.com/assets/2392/16082009_2.png)\
+yarattık.](media/DeepZoom_Composer_Yenilikleri/16082009_2.png)\
 *Link olacak bölgeyi yarattık.*
 
 Link olarak kullanılacak bölgeyi tanımladıktan sonra sıra geliyor linkin
@@ -67,7 +67,7 @@ seçenek ise doğrudan kullanıcıyı harici bir adrese yönlendirmek. İlk
 olarak gelin dahili linkleme işlemini nasıl yapabiliyoruz görelim.
 
 ![Dahili linkleme işlemini
-yapıyoruz...](http://cdn.daron.yondem.com/assets/2392/16082009_3.jpg)\
+yapıyoruz...](media/DeepZoom_Composer_Yenilikleri/16082009_3.jpg)\
 *Dahili linkleme işlemini yapıyoruz...*
 
 Programı sol kısmında yukarıdaki aşağıya dikey bir menü göreceksiniz. Bu
@@ -83,7 +83,7 @@ DeepZoom uygulamalarınız içerisinde ilginç navigasyon sistemleri
 oluşturabilirsiniz.
 
 ![Harici link eklemenin
-yolu.](http://cdn.daron.yondem.com/assets/2392/16082009_4.jpg)\
+yolu.](media/DeepZoom_Composer_Yenilikleri/16082009_4.jpg)\
 *Harici link eklemenin yolu.*
 
 DeepZoom uygulamalarınız içerisinde dahili linkler gibi isterseniz
@@ -107,7 +107,7 @@ altyapıları içinde muhteşem bir sistem olarak öngörülebilir. Bu gibi bir
 DeepZoom Composer bize bu özelliği hazır olarak getiriyor.
 
 ![Slideshow
-hazırlıyoruz.](http://cdn.daron.yondem.com/assets/2392/16082009_5.jpg)\
+hazırlıyoruz.](media/DeepZoom_Composer_Yenilikleri/16082009_5.jpg)\
 *Slideshow hazırlıyoruz.*
 
 DeepZoom uygulamanız içerisinde resimleri istediğiniz gibi
@@ -124,7 +124,7 @@ resimler yine tab içerisindeki sıraları ile DeepZoom uygulamasında
 gezilecektir.
 
 ![Örnek DeepZoom uygulamasından bir
-kare.](http://cdn.daron.yondem.com/assets/2392/16082009_6.jpg)\
+kare.](media/DeepZoom_Composer_Yenilikleri/16082009_6.jpg)\
 *Örnek DeepZoom uygulamasından bir kare.*
 
 **DeepZoom uygulamalarında dahili menüler!**
@@ -137,7 +137,7 @@ gibi bir işlevselliği rahatlıkla DeepZoom Composer içerisindeki menü
 sistemi ile geliştirebilirsiniz.
 
 ![DeepZoom'umuz için menü
-hazırlıyoruz.](http://cdn.daron.yondem.com/assets/2392/16082009_7.jpg)\
+hazırlıyoruz.](media/DeepZoom_Composer_Yenilikleri/16082009_7.jpg)\
 *DeepZoom'umuz için menü hazırlıyoruz.*
 
 DeepZoom uygulamanıza bir menü eklemek için hemen "Menu" tabını açarak
@@ -148,7 +148,7 @@ içerisindeki pozisyonunu değiştirebilirsiniz. Böylece rahatlıkla
 gruplamalar da yapabilirsiniz.
 
 ![DeepZoom uygulamamızdaki
-menü!](http://cdn.daron.yondem.com/assets/2392/16082009_8.jpg)\
+menü!](media/DeepZoom_Composer_Yenilikleri/16082009_8.jpg)\
 *DeepZoom uygulamamızdaki menü!*
 
 Gördüğünüz gibi artık DeepZoom uygulamamızın sol üstündeki oktan ayrı

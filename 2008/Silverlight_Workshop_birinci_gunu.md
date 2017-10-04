@@ -17,7 +17,7 @@ teneffüs ve öğle yemeği molası ile yoğun bir maraton yaptık. Gerçekten
 büyük zevk aldım, eğlendim :) Güzel bir pazar günü oldu.
 
 ![Silverlight Workshop Gün
-1](http://cdn.daron.yondem.com/assets/1985/09032008_2.jpg)\
+1](media/Silverlight_Workshop_birinci_gunu/09032008_2.jpg)\
 *Silverlight Workshop Gün 1*
 
 Workshop'un sonraki günleri için katılımcılar tekrar telefon ile
@@ -30,6 +30,6 @@ paylaşıyorum. Son olarak buradan tekrar sevgili dostum **Ercan Altuğ
 Yılmaz**'a ve NETRON ekibine teşekkür ediyorum.
 
 [Örnek çalışmalara ait kaynak kodlar - 09032008\_1.rar (15,12
-KB)](http://cdn.daron.yondem.com/assets/1985/09032008_1.rar)
+KB)](media/Silverlight_Workshop_birinci_gunu/09032008_1.rar)
 
 

@@ -184,7 +184,7 @@ Sonrasında AutoCompleteBox kendi içerisinde gerekli filtrelemeleri
 kullanıcılar metin giriş yaptıkça gerçekleştirerek sonucu gösteriyor.
 
 ![Silverlight içerisinde basit bir
-AutoCompleteBox](http://cdn.daron.yondem.com/assets/2373/22062009_1.png)\
+AutoCompleteBox](media/Silverlight_Toolkitten_AutoCompleteBox_kullanimi/22062009_1.png)\
 *Silverlight içerisinde basit bir AutoCompleteBox*
 
 **Peki ya web servisinden alacak olsak sonuçları?**
@@ -324,7 +324,7 @@ gösterirler. Bunun değiştirmenin yolu AutoCompletebox'ların SearchMode
 özelliğinde yatıyor.
 
 ![Veri kaynağında nasıl arama yapılacağını
-belirleyin.](http://cdn.daron.yondem.com/assets/2373/22062009_2.png)\
+belirleyin.](media/Silverlight_Toolkitten_AutoCompleteBox_kullanimi/22062009_2.png)\
 *Veri kaynağında nasıl arama yapılacağını belirleyin.*
 
 Peki bu arama sistemleri size yetmedi ve daha da özelleştirmek
@@ -538,7 +538,7 @@ Zaten hali hazırda AutoCompleteBox'ımıza nesnelerimizi ItemsSource
 Binding'leri de ItemTemplate içerisinde ayarlayabiliyoruz.
 
 ![AutoComplete kısmı özelleştirilmiş bir
-AutoCompleteBox.](http://cdn.daron.yondem.com/assets/2373/22062009_4.png)\
+AutoCompleteBox.](media/Silverlight_Toolkitten_AutoCompleteBox_kullanimi/22062009_4.png)\
 *AutoComplete kısmı özelleştirilmiş bir AutoCompleteBox.*
 
 **Taktikler**
@@ -624,7 +624,7 @@ bir kayıt seçmek zorunda kalmasını da istemiyorsunuz. Belki de en uygun
 seçecek hemen seçilebilir şekilde gelse? Nasıl mı?
 
 ![IsTextCompletionEnabled = True
-olursa...](http://cdn.daron.yondem.com/assets/2373/22062009_3.png)\
+olursa...](media/Silverlight_Toolkitten_AutoCompleteBox_kullanimi/22062009_3.png)\
 *IsTextCompletionEnabled = True olursa...*
 
 AutoCompleteBox'ın **IsTextCompletionEnabled** özelliği True yaparsanız

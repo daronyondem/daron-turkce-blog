@@ -16,7 +16,7 @@ mini seminerler maalesef ayrıldığımız içimde bir burukluk bırakıyor.
 sonunda çoğu dinleyiciden çok olumlu tepkiler aldım.
 
 ![İstanbul Aydın Üniversitesi, Silverlight ve
-WPF](http://cdn.daron.yondem.com/assets/2039/26042008_1.jpg)\
+WPF](media/Istanbul_Aydin_Universitesi_Silverlight_ve_WPF_Semineri/26042008_1.jpg)\
 *İstanbul Aydın Üniversitesi, Silverlight ve WPF*
 
 Katılan arkadaşlara ve özellikle organizasyondaki emeği için sevgili

@@ -58,7 +58,7 @@ Additional Templates / Edit Generated Item Container / Edit A Copy"
 komutunu verelim.
 
 ![ItemContainerStyle'ı
-değiştirirken](http://cdn.daron.yondem.com/assets/2533/02092010_2.png)\
+değiştirirken](media/SL4te_ListBox_ile_gelen_yeni_Stateler_ve_kullanimi_ile_olusan_hos_manzara/02092010_2.png)\
 *ItemContainerStyle'ı değiştirirken*
 
 Bu komut ile aslında yaptığımız şey ListBox içerisinde yaratılan her bir
@@ -69,7 +69,7 @@ kopyayı alıp, aldığınız kopyaya da istediğiniz ismi verdikten sonra sıra
 geliyor State yapısındaki değişikliğe göz atmaya.
 
 ![LayoutStates
-gelmiş!](http://cdn.daron.yondem.com/assets/2533/02092010_3.png)\
+gelmiş!](media/SL4te_ListBox_ile_gelen_yeni_Stateler_ve_kullanimi_ile_olusan_hos_manzara/02092010_3.png)\
 *LayoutStates gelmiş!*
 
 Gördüğünüz üzere artık ListBox'ların LayoutStates diye bir
@@ -80,7 +80,7 @@ farklı bir state durumun oluşabileceği. Eh bu durum (state)'e de bir
 animasyonla geçiş yaparsak güzel bir manzara yakalayabiliriz.
 
 ![ContentPresenter ListBoxItem'ı temsil
-ediyor.](http://cdn.daron.yondem.com/assets/2533/02092010_4.png)\
+ediyor.](media/SL4te_ListBox_ile_gelen_yeni_Stateler_ve_kullanimi_ile_olusan_hos_manzara/02092010_4.png)\
 *ContentPresenter ListBoxItem'ı temsil ediyor.*
 
 ItemContainerStyle'ın içine baktığımızda **contentPresenter** diye bir
@@ -105,7 +105,7 @@ ListBoxItem'da gözükecek. State'ler arası geçiş süresini de bir saniye
 olarak verirsek herşey hazır demektir.
 
 ![Ayrı State'lerde ayrı Opacity değerleri ve geçiş süremiz
-hazır.](http://cdn.daron.yondem.com/assets/2533/02092010_5.png)\
+hazır.](media/SL4te_ListBox_ile_gelen_yeni_Stateler_ve_kullanimi_ile_olusan_hos_manzara/02092010_5.png)\
 *Ayrı State'lerde ayrı Opacity değerleri ve geçiş süremiz hazır.*
 
 Eğer isterseniz "BeforeUnloaded" state'inde de Opacity'yi yine 0 vererek
@@ -119,6 +119,6 @@ Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)](http://go.microsoft
 Hepinize kolay gelsin!
 
 [Örnek kaynak kodlar, 02092010\_7.rar (30,68
-KB)](http://cdn.daron.yondem.com/assets/2533/02092010_7.rar)
+KB)](media/SL4te_ListBox_ile_gelen_yeni_Stateler_ve_kullanimi_ile_olusan_hos_manzara/02092010_7.rar)
 
 

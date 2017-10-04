@@ -17,7 +17,7 @@ bulunabilirsiniz. Aslında var :) Visual Studio 2008 içerisinde
 bulabilirsiniz.
 
 ![XAML formatlama özellikleri Visual Studio
-içerisinde.](http://cdn.daron.yondem.com/assets/1937/30012008_1.png)\
+içerisinde.](media/Visual_Studio_2008_ve_XAML_Bicimlendirme/30012008_1.png)\
 *XAML formatlama özellikleri Visual Studio içerisinde.*
 
 Yukarıdaki şekli ile XAML kodları için "Position each attribute on a

@@ -84,14 +84,14 @@ güzel gibi dursa da bu kodu çalıştırdığımızda aslında hiçbirşeyin
 değişmediği görüyoruz ve hala aşağıdaki uyarı ile başbaşa durumdayız.
 
 ![Script hata penceresi pek de sevecen
-değil...](http://cdn.daron.yondem.com/assets/2532/01092010_1.png)\
+değil...](media/Silverlight_ta_Not_Found_dahil_her_tur_sunucu_tarafli_garip_servis_hatasi_nasil_yakalanir_ve_giderilir/01092010_1.png)\
 *Script hata penceresi pek de sevecen değil...*
 
 Peki biz Try/Catch koymuştuk. Hata orada olmuyorsa nerede olabilir?
 Hemen bir debug edelim bakalım.
 
 ![Bu kodu ben yazmadım
-ki?](http://cdn.daron.yondem.com/assets/2532/01092010_2.png)\
+ki?](media/Silverlight_ta_Not_Found_dahil_her_tur_sunucu_tarafli_garip_servis_hatasi_nasil_yakalanir_ve_giderilir/01092010_2.png)\
 *Bu kodu ben yazmadım ki?*
 
 Yukarıdaki ekran görüntüsünden de göreceğiniz üzere hata çok ilginç bir
@@ -186,7 +186,7 @@ yakalayabilir durumdayız. Fakat karşılaşacağınız bir diğer sorun ise şu
 olacak...
 
 ![Nasıl yani? Ne Threadi? Ben
-yapmadım?](http://cdn.daron.yondem.com/assets/2532/01092010_3.png)\
+yapmadım?](media/Silverlight_ta_Not_Found_dahil_her_tur_sunucu_tarafli_garip_servis_hatasi_nasil_yakalanir_ve_giderilir/01092010_3.png)\
 *Nasıl yani? Ne Threadi? Ben yapmadım?*
 
 Güzel hata değil mi? Şimdi diyor ki "*Bir thread'den bir başkasına bir

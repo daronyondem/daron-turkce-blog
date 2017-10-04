@@ -17,7 +17,7 @@ cevap ararken rakiplerle karşılaştırmalar yapmaya karar verdim. Bugünkü
 gönüllümüz "**Expression Design**".
 
 **![Expression Design
-kutusu.](http://cdn.daron.yondem.com/assets/1855/19112007_1.jpg)Genel
+kutusu.](media/Expression_Design_ve_rakipler/19112007_1.jpg)Genel
 Bakış**
 
 Expression Design'ın geçmişine baktığımızda Microsoft tarafından satın
@@ -58,7 +58,7 @@ düzenleme konusunda da Expression Design hem içerdiği araçlar açısından
 hem de kullanım kolaylığı açısından zayıf düşüyor.
 
 ![Expression Design çalışma
-ortamı.](http://cdn.daron.yondem.com/assets/1855/19112007_2.png)\
+ortamı.](media/Expression_Design_ve_rakipler/19112007_2.png)\
 *Expression Design çalışma ortamı.*
 
 **Neden Expression Design kullanalım?**

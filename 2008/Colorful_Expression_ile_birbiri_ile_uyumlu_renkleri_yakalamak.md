@@ -37,7 +37,7 @@ kullanabilirsiniz. Colorful WPF'in en güzel özelliği herhangi bir renk
 kullanabilmenizi sağlayacak XAML Brush kodlarını alabiliyor olmamız.
 
 ![Colorful WPF içerisinde birbiri ile uyumlu renklerin bir
-listesi.](http://cdn.daron.yondem.com/assets/2240/07112008_1.png)\
+listesi.](media/Colorful_Expression_ile_birbiri_ile_uyumlu_renkleri_yakalamak/07112008_1.png)\
 *Colorful WPF içerisinde "silver" kelimesi aratıldığında çıkan birbiri
 ile uyumlu renklerin bir listesi.*
 
@@ -110,7 +110,7 @@ veya Design içerisinde de kullanabilirsiniz.
 * *Design.exe –addin:Colorful.Design.AddIn.dll*
 
 ![Expression Design içerisinde Colorful
-paneli.](http://cdn.daron.yondem.com/assets/2240/07112008_2.png)\
+paneli.](media/Colorful_Expression_ile_birbiri_ile_uyumlu_renkleri_yakalamak/07112008_2.png)\
 *Expression Design içerisinde Colorful paneli.*
 
 Yukarıdaki ekran görüntüsünde Colurful Expression'ın doğrudan Expression
@@ -118,7 +118,7 @@ Design içerisinde kullanılabildiğini görebiliyorsunuz. Aynı şekilde
 Blend 2 içerisinde de rahatlıkla **Colurful** paneline ulaşılabiliyor.
 
 ![Expression Blend 2 içerisinde Colorful
-paneli.](http://cdn.daron.yondem.com/assets/2240/07112008_3.png)\
+paneli.](media/Colorful_Expression_ile_birbiri_ile_uyumlu_renkleri_yakalamak/07112008_3.png)\
 *Expression Blend 2 içerisinde Colorful paneli.*
 
 Blend içerisinde Colorful panelinin kullanımı ile ilgili Design'a
@@ -128,7 +128,7 @@ sayfanın Resource'larına ekleniyor. Böylece bu renkleri istediğiniz
 kadar farklı yerlerde rahatlıkla merkezi olarak kullanabiliyorsunuz.
 
 ![Colorful'un yarattığı XAML kodları otomatik olarak
-karşımızda.](http://cdn.daron.yondem.com/assets/2240/07112008_4.png)\
+karşımızda.](media/Colorful_Expression_ile_birbiri_ile_uyumlu_renkleri_yakalamak/07112008_4.png)\
 *Colorful'un yarattığı XAML kodları otomatik olarak karşımızda.*
 
 Hepinize kolay gelsin.

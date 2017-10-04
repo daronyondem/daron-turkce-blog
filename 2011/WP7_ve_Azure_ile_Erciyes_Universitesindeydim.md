@@ -18,7 +18,7 @@ yaratmış! Teşekkür etmem gereken o kadar çok genç var ki Teknoloji
 Kulübü'nden....Ama önce bir etkinliğe göz atalım :)
 
 ![Kayseri, Erciyes Üniversitesi
-Etkinliği](http://cdn.daron.yondem.com/assets/2718/24102011_1.jpg)\
+Etkinliği](media/WP7_ve_Azure_ile_Erciyes_Universitesindeydim/24102011_1.jpg)\
 *Kayseri, Erciyes Üniversitesi Etkinliği*
 
 Etkinliğin ilk yarısında sevgili[Umut Erkal](http://www.uerkal.com/)

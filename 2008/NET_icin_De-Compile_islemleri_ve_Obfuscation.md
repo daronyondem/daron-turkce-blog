@@ -118,7 +118,7 @@ isterseniz doğrudan çift tıklayarak yeni bir pencerede kodların
 açılmasını sağlayabilirsiniz.
 
 ![ILDASM içerisinde EXE’mizin MSIL kodları açıkça
-gözüküyor](http://cdn.daron.yondem.com/assets/2191/19092008_1.png)\
+gözüküyor](media/NET_icin_De-Compile_islemleri_ve_Obfuscation/19092008_1.png)\
 *ILDASM içerisinde EXE’mizin MSIL kodları açıkça gözüküyor*
 
 Hazırladığımız örnek uygulamanın **Button\_Click** durumundaki MSIL
@@ -184,7 +184,7 @@ EXE veya DLL dosyasını seçebilirsiniz. Uygulamanın ana penceresindeki
 sınıf listesine hemen seçtiğiniz program da gelecektir.
 
 ![Reflector ile kaynak kodunu
-görebiliyoruz.](http://cdn.daron.yondem.com/assets/2191/19092008_2.png)\
+görebiliyoruz.](media/NET_icin_De-Compile_islemleri_ve_Obfuscation/19092008_2.png)\
 *Reflector ile kaynak kodunu görebiliyoruz.*
 
 Ufak bir gezinti ile istediğiniz sınıfın veya metodun koduna doğrudan
@@ -260,7 +260,7 @@ tamamladıktan sonra uygulamanın sağ altındaki “**XenoCode Application**”
 düğmesine basıyoruz.
 
 ![Obfuscation işlemi için
-yollardayız](http://cdn.daron.yondem.com/assets/2191/19092008_3.png)\
+yollardayız](media/NET_icin_De-Compile_islemleri_ve_Obfuscation/19092008_3.png)\
 *Obfuscation işlemi için yollardayız*
 
 Obfuscation işlemini tamamladıktan sonra sıra geldi testlerimizi

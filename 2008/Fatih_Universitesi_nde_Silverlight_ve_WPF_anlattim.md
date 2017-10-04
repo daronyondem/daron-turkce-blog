@@ -18,7 +18,7 @@ dönemde bunlar moda zaten) epey şaşırdım diyebilirim. Öğrenciler adına
 sevindim tabi ki.
 
 ![Fatih Üniversitesi Silverlight ve WPF
-Seminerleri](http://cdn.daron.yondem.com/assets/2233/31102008_1.jpg)\
+Seminerleri](media/Fatih_Universitesi_nde_Silverlight_ve_WPF_anlattim/31102008_1.jpg)\
 *Fatih Üniversitesi Silverlight ve WPF Seminerleri*
 
 İlginç anlar yaşadığım hatıralar edindiğim bir seminer oldu. WPF örneği

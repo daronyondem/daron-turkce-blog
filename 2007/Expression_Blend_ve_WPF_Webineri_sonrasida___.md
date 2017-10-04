@@ -17,7 +17,7 @@ inceledik.
 Webinere ait sunum dosyasını aşağıdan indirebilirsiniz.
 
 [Webiner Sunumu - 08122007\_1.pdf (1.07
-MB)](http://cdn.daron.yondem.com/assets/1878/08122007_1.pdf)
+MB)](media/Expression_Blend_ve_WPF_Webineri_sonrasida___/08122007_1.pdf)
 
 Webinere katılan herkese tekrar teşekkür ediyorum. Bir başka webinerde
 görüşmek dileğiyle.

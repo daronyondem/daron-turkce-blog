@@ -19,7 +19,7 @@ sonra "**Silverlight 2.0 ile Data Uygulamaları**" ve "**WPF**"
 oturumlarımızı tamamladık. Böylece dolu dolu bir üç gün geçirdik.
 
 ![Isparta, Süleyman Demirel Üniversitesi, INETA Boot
-Camp](http://cdn.daron.yondem.com/assets/2263/01122008_1.jpg)\
+Camp](media/Isparta_Boot_Camp/01122008_1.jpg)\
 *Isparta, Süleyman Demirel Üniversitesi, INETA Boot Camp*
 
 Etkinliklere katılan hem konuşmacı arkadaşlarıma hem de sevgili öğrenci
@@ -37,6 +37,6 @@ Son gün yaptığımız bazı örnekleri toparlayıp bir poşete koydum :)
 aşağıdaki linkten indirebilirsiniz.
 
 [Örneklere ait kaynak dosyalar - 01122008\_2.rar (2,81
-MB)](http://cdn.daron.yondem.com/assets/2263/01122008_2.rar)
+MB)](media/Isparta_Boot_Camp/01122008_2.rar)
 
 

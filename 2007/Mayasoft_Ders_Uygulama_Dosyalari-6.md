@@ -14,6 +14,6 @@ eğitime ait 14/16/21/23/28 Mayıs tarihli derslerdeki uygulamalarımıza
 ait dosyaları aşağıdaki linkten indirebilirsiniz.\
 
 [Uygulama Dosyaları - 28052007.zip (2.32
-MB)](http://cdn.daron.yondem.com/assets/1743/28052007.zip)
+MB)](media/Mayasoft_Ders_Uygulama_Dosyalari-6/28052007.zip)
 
 

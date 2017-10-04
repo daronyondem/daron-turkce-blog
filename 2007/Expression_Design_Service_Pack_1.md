@@ -10,7 +10,7 @@ Tags: Expression Design
 old.EntryID: 82d60ae0-644a-42d2-a5a2-42a4f7f1b1eb
 ---
 **![Expression
-Design](http://cdn.daron.yondem.com/assets/1823/expression_design_1.png)Expression
+Design](media/Expression_Design_Service_Pack_1/expression_design_1.png)Expression
 Design** ile çalışırken aldığınız XAML çıktılarında sorunlarla
 karşılaştıysanız veya XAML çıktısı alırken problemlerle boğuşmak zorunda
 kaldıysanız hemen aşağıdaki linkten Expression Design'a ait Service Pack

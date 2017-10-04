@@ -24,7 +24,7 @@ verdiği ücretsiz yazılım miktarı zaten ciddi miktarda ama ona rağmen
 "daha fazlasını" istemesek olmaz değil mi? :)
 
 ![Microsoft MEA VP Marco Comastri ile
-toplantımız.](http://cdn.daron.yondem.com/assets/2466/03122009_1.jpg)\
+toplantımız.](media/Microsoft_MEA_VP_Marco_Comastri_ile_RD_ve_MVP_toplantimiz/03122009_1.jpg)\
 *Microsoft MEA VP Marco Comastri ile toplantımız.*
 
 Bu ve bundan daha ciddi :) bir çok yorumu doğrudan MEA Başkanı'na

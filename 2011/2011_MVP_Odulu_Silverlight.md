@@ -16,7 +16,7 @@ Nisan'da sürekli aynı haberi paylaşıyorum sizlerle :) Şaka olma ihtimali
 var mı? Kim bilir :P
 
 ![2011 MVP Ödülü, Silverlight
-MVP'liği.](http://cdn.daron.yondem.com/assets/2555/01012011_11.jpg)\
+MVP'liği.](media/2011_MVP_Odulu_Silverlight/01012011_11.jpg)\
 *2011 MVP Ödülü, Silverlight MVP'liği.*
 
 Evet, MVP ünvanımın yenilenme zamanı yine. Her yıl yaptığımız gönüllü

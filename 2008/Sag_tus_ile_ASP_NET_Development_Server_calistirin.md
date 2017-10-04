@@ -15,7 +15,7 @@ sunumlarda çok işime yarıyor ve sıkça kullanıyorum. En son [Soru
 Merkezi](http://daron.yondem.com/tr/sorusor/login.aspx)'nde de bir
 arkadaşımız sorduğu için buraya hemen yazmaya karar verdim.
 
-![](http://cdn.daron.yondem.com/assets/2098/19062008_1.gif)
+![](media/Sag_tus_ile_ASP_NET_Development_Server_calistirin/19062008_1.gif)
 
 Gördüğünüz gibi aslında araç çok basit bir iş yapıyor. Sisteminizde
 herhangi bir klasöre sağ tuş ile tıkladığınızda karşınıza gelen menüden
@@ -27,7 +27,7 @@ projeyi açıp F5'e basmaktan veya klasör için IIS üzerinde ayar yapmaktan
 pratik olduğu kesin.
 
 [ASP.NET Development Server Kısayol Aracı - 19062007\_1.msi (355
-KB)](http://cdn.daron.yondem.com/assets/2098/19062007_1.msi)
+KB)](media/Sag_tus_ile_ASP_NET_Development_Server_calistirin/19062007_1.msi)
 
 Uygulamayı yazan **Infragistics**'ten **J. Ambrose Little**'a buradan
 teşekkürlerimizi de yolluyoruz ;)

@@ -18,7 +18,7 @@ epey kolaylaştırdı. Dersin sonunda elde ettiğimiz örneğin kodlarını
 aşağıdan indirebilirsiniz.
 
 [Örnek Uygulama Kaynak Kodu - 30022008\_1.rar (8,17
-KB)](http://cdn.daron.yondem.com/assets/2006/30022008_1.rar)
+KB)](media/4_Konu_4_Gun_serisinde_ikinci_konu_Silverlight/30022008_1.rar)
 
 Günün sonunda yine 17.30 civarı fire vermeye başladık. Aslında bu durum
 yapacağımız çekilişe kalanların şansını arttırdı :) Ne çekilişimi mi?
@@ -29,7 +29,7 @@ Happen Here" kitap hediye ettim. Özetle çok zevkli bir gündü haftaya
 Pazar tekrar görüşmek üzere.
 
 !["4 Konu, 4 Gün" Silverlight
-Günü](http://cdn.daron.yondem.com/assets/2006/30023008_2.jpg)\
+Günü](media/4_Konu_4_Gun_serisinde_ikinci_konu_Silverlight/30023008_2.jpg)\
 *"4 Konu, 4 Gün" Silverlight Günü*
 
 
