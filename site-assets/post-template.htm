@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/site-assets/favicon.ico">
+    <meta property="fb:page_id" content="207889319255642" />
+    <link href="https://fonts.googleapis.com/css?family=Bungee|Jockey+One|Merriweather:400,400i&amp;subset=latin-ext"
+        rel="stylesheet">
+    <script src="https://use.fontawesome.com/16872af2b1.js"></script>
+    <link rel="stylesheet" href="/style">
+    <script src="/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <title><TITLE-COMES-HERE></title>
+    <link rel="stylesheet" type="text/css" media="all" href="/site-assets/styles.css" />
+    <script>
+        function onLoad()
+        {
+            var rootDiv = document.getElementsByClassName("content")[0];
+            var images = rootDiv.getElementsByTagName('img');
+
+            [].forEach.call( images, function(img) {
+                img.addEventListener( 'load', imageLoaded(img), false );
+            } );
+
+            function imageLoaded(sender) {
+                if(sender.clientWidth < rootDiv.clientWidth)
+                {
+                    sender.style.marginLeft = 0
+                }
+            }
+        }
+
+    </script>
+    <HEADER-ADDITIONS>
+</head>
+
+<body onload="onLoad();">
+    <div class="content">
+        <h1><TITLE-COMES-HERE></h1>
+        <CONTENT-COMES-HERE>
+    </div>
+    <div class="footer">
+        <a href="/"><i class="fa fa-angle-double-left" aria-hidden="true"></i></a>
+    </div>
+</body>
+
+</html>
