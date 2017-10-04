@@ -14,12 +14,13 @@ Tasarım Eğitimi'**ne ait **HTML başlangıç** bölümü ile ilgili ders
 notlarını toplu olarak aşağıdaki linkten indirebilirsiniz. Türkçe blog
 sitemi açmamla beraber, her ders sonrası derlediğim notları ve ders
 esnasında yaptığımız uygulamaların kodlarını tahminen bir sonraki gün
-buradan indirebiliyor olacaksınız.\
+buradan indirebiliyor olacaksınız.
+
 Ayrıca derslerle ilgili ders saatleri dışındaki sorularınızı da söz
 konusu dersin notlarının bulunduğu mesaja yorum olarak
 yollayabilirsiniz.
 
-[07042007\_1.zip (27.43
+[07042007_1.zip (27.43
 KB)](media/Web_Tasarim_Egitimi_HTML_Baslangic_Notlari/07042007_1.zip)
 
 
