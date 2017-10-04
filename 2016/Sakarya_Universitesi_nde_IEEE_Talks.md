@@ -14,7 +14,7 @@ Dün Sakarya Üniversitesi'ndeydim. IEEE ekibinin organizasyonunda "**Boş Durma
 
 Eğlenceli bir gün olmanın ötesinde bir de ilginç bir rastlantının da tadını çıkarma şansım oldu :) VLOG'u izleyenler görmüş olabilirler ama blogda da ayrıca bahsetmek istiyorum. Aşağıda gördüğünüz fotoğraf aslında basit bir "Öncesi ve Sonrası" fotoğrafı :) 
 
-![](http://blob.daron.yondem.com/assets/3008/sakarya-before-after.jpg)
+![](media/Sakarya_Universitesi_nde_IEEE_Talks/sakarya-before-after.jpg)
 
 Sevgili Uğur Can'a bu güzel hatıra için ufak bir paragraf hediye ettim :) Bakın neler yazdı;
 
@@ -22,7 +22,7 @@ Sevgili Uğur Can'a bu güzel hatıra için ufak bir paragraf hediye ettim :) Ba
 
 Nereden nereye? :) Demeden edemiyor insan. Uğur Can'a nice başarılar diliyorum. Yazılımla ilgili heyecanını kaybetmediği bir gelecek diliyorum! Daha çok ürettiği ve üretmeye devam ettiği bir gelecek diliyorum!
 
-![](http://blob.daron.yondem.com/assets/3008/sakarya-uni.jpg)
+![](media/Sakarya_Universitesi_nde_IEEE_Talks/sakarya-uni.jpg)
 
 Etkinlikteki katkısından olan tüm kardeşlerime ve **IEEE** ekibine de çok teşekkür ediyorum! Hepiniz eline sağlık.
 

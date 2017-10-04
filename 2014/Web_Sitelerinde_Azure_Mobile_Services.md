@@ -102,7 +102,7 @@ parametreyi tamamen sildim. "todoItem" adındaki mobile services
 varsayılan örneği ile gelen tabloya da "Everyone" okuma izni verdim.
 
 ![Herkese okuma izni
-verdik.](http://blob.daron.yondem.com/assets/2911/mobileservices_1.png)
+verdik.](media/Web_Sitelerinde_Azure_Mobile_Services/mobileservices_1.png)
 *Herkese okuma izni verdik.*
 
 İşte bu kadar :) artık Azure Mobile Services SDK içerisindeki Windows 8

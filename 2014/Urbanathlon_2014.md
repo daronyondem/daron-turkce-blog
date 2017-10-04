@@ -73,7 +73,7 @@ Tüm bu kötü deneyimlere rağmen ben yarışta çok eğlendim ve seneye tekrar
 da katılacağım. Ama seneye yanımda su ve bozuk para getireceğim. Size de
 aynısını tavsiye ederim.
 
-![](http://blob.daron.yondem.com/assets/2919/urban.jpg)
+![](media/Urbanathlon_2014/urban.jpg)
 
 Parkura dönersek :) Aslına bakarsanız bu yarışta hem yarış öncesi hem de
 yarış boyunca yaşadıklarım nedeniyle hala neden bu yarışı bu kadar

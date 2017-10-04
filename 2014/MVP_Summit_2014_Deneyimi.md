@@ -26,7 +26,7 @@ ortamı ve summit deneyimini az çok paylaşabilirim. Umarım sizler de
 beğenirsiniz :) Görüşmek üzere.
 
 ![Her şey çok
-gizli...](http://blob.daron.yondem.com/assets/2922/nda.jpg)
+gizli...](media/MVP_Summit_2014_Deneyimi/nda.jpg)
 *Her şey çok gizli...*
 
 

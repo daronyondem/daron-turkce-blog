@@ -82,7 +82,7 @@ public class GithubKaydi
 
 Yukarıdan aşağıya göz atacak olursak, ilk olarak tabi ki Newtonsoft'un JSON kütüphanesini import ediyorum. Bunu aslında **project.json** içerisinde de nuget paketi ile de yapabilirsiniz, fakat itiraf etmek gerekirse bende bu sefer ısrarla nuget restore'u çalıştırmadı Azure Functions :) Aşağıdaki gibi dev console'da elle giriştim, yine yediremedim. 
 
-![Portal'daki Dev Console'daki çırpınışlar](http://blob.daron.yondem.com/assets/3044/webhook-3.png)
+![Portal'daki Dev Console'daki çırpınışlar](media/Azure_Functions_ile_Webhooks_Binding/webhook-3.png)
 
 **[project.json]**
 ```javascript
@@ -129,15 +129,15 @@ En sonda verdiğimiz bu response'un Github için hiçbir değeri yok. Yani HTTP 
 
 Github arayüzüne gidip istediğiniz repo'nun **Settings** kısmına geçerseniz **WebHooks** ayarlarını bulabilirsiniz. Buradan yeni bir webhook eklememiz gerekiyor.
 
-![github'ta yeni webhook tanımlarken](http://blob.daron.yondem.com/assets/3044/webhook-1.png)
+![github'ta yeni webhook tanımlarken](media/Azure_Functions_ile_Webhooks_Binding/webhook-1.png)
 
 Function App ile beraber gelen default access key'i kullanırsanız sondaki "==" kısımları canınızı sıkabilir. Github aldığı değeri URL encode ediyor :) O nedenle o "=="ler %3D'lere dönüşüyor. O nedenle benim tavsiyem Azure Functions portaline gidip özel key tanımlamanız. 
 
-![Kendi Function Access Key'lerinizi portalde ekleyebilirsiniz.](http://blob.daron.yondem.com/assets/3044/webhook-4.png)
+![Kendi Function Access Key'lerinizi portalde ekleyebilirsiniz.](media/Azure_Functions_ile_Webhooks_Binding/webhook-4.png)
 
 Portalde keyinizi tanımladıktan sonra bunu her zamanki gibi URL'e **code** parametresi ile ekleyip son URL'i github'a verebilirsiniz.
 
-![Github'taki WebHook eventlerinin listesi.](http://blob.daron.yondem.com/assets/3044/webhook-2.png)
+![Github'taki WebHook eventlerinin listesi.](media/Azure_Functions_ile_Webhooks_Binding/webhook-2.png)
 
 Biz sadece Pull Request'leri ile ilgili eventleri dinleyeceğimiz için webhook yaratırken de sadece bunu seçmenizde fayda var.
 
@@ -145,6 +145,6 @@ Github'daki **Secret** kısmını merak edenler varsa, o kısımda verdiğiniz k
 
 ### Sonuç
 
-![Github eventleri Table Services'da loglandı](http://blob.daron.yondem.com/assets/3044/webhook-5.png)
+![Github eventleri Table Services'da loglandı](media/Azure_Functions_ile_Webhooks_Binding/webhook-5.png)
 
 Sonuç olarak githubdaki eventler WebHook üzerinden bize geliyor ve biz de Table Services'a atıyoruz. Bundan sonrası artık size kalmış :) 

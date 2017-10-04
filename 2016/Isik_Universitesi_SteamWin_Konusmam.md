@@ -10,7 +10,7 @@ Tags: Seminer
 ---
 Dün kısa bir oturum için Işık Üniveristesi'ndeydim. **SteamWin** ve **TurkishWIN**'in (Turkish Women's Internation Network) düzenlediği networking etkinliklerinden birinde bana söylenene göre ilk erkek konuşmacı oldum :) İtiraf etmek gerekirse ilk defa bayan oranını bu kadar yüksek olduğu bir gruba konuştum :) Malum genel mühendislik bölümleri manzarasını hepimiz biliyoruz :) 
 
-![SteamWin Etkinliği Duyuru Afişi](http://blob.daron.yondem.com/assets/3029/steamwin_twitter1.jpg)
+![SteamWin Etkinliği Duyuru Afişi](media/Isik_Universitesi_SteamWin_Konusmam/steamwin_twitter1.jpg)
 
 Şaka bir yana, benim için süper eğlenceli bir oturum oldu. Daha önce dinleme şansını bulanlar için, benim "Boş Durma Boşa Çalış" oturumundan birkaç kare paylaştığımı söyleyebilirim. Organizasyona daveti için sevgili **Melek Pulatkonak**'a teşekkürlerimi iletiyorum. 
 

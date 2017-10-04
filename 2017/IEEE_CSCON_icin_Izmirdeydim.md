@@ -10,7 +10,7 @@ Tags: Seminer, Windows Azure
 ---
 Dün yine İzmir'deydim :) Bu sefer IEEE Türkiye'nin **CSCON 2017** konferansı için Dokuz Eylül Üniversitesi'ndeydim. Tam günlük bir Azure eğitimi yaptık :)
 
-![Azure Eğitiminden bir kare.](http://blob.daron.yondem.com/assets/3057/cscon.jpg)
+![Azure Eğitiminden bir kare.](media/IEEE_CSCON_icin_Izmirdeydim/cscon.jpg)
 
 Gün boyunca beni yalnız bırakmayan sevgili İzmir MSP'lerine buradan çok teşekkür ediyorum :) Süper bir misafirperverlik gösterdiler. Bu arada, unutmadan, eğer "Eğitimi kaçırdık bizim için ne var?" diyorsanız sizi de [Youtube'daki geçen seneki Microsoft Yaz Okulu videolarıma](https://www.youtube.com/watch?v=hXIaylJg5F8) alabilirim. 
 

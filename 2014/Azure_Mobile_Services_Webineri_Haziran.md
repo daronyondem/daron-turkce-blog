@@ -32,7 +32,7 @@ Mobil uygulama geliştirme ile ilgilenen herkes için ilginç bir webiner
 olacağından eminim.
 
 ![Azure Mobile Services
-Webiner](http://blob.daron.yondem.com/assets/2910/azure.jpg)
+Webiner](media/Azure_Mobile_Services_Webineri_Haziran/azure.jpg)
 
 Katılım için kayıt olmayı unutmayın!
 <http://msft.it/Microsoft-Azure-Mobil-Servisler-Kayit>

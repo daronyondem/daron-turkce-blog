@@ -18,7 +18,7 @@ geliştirme deneyimine dair yeni araçlardan oluşuyor. Gelin bu yazıda
 Azure SDK 2.5'te WebJobs ile ilgili ne yenilikler varmış bir göz atalım.
 
 ![Publish as Azure
-WebJobs](http://blob.daron.yondem.com/assets/2923/webjobs_sdk25.png)
+WebJobs](media/Azure_SDK_2_5_ile_WebJobs_Yenilikleri/webjobs_sdk25.png)
 *Publish as Azure WebJobs*
 
 İlk göreceğiniz yenilik "Solution Explorer" içerisinde herhangi bir
@@ -28,7 +28,7 @@ görüntüsünü görebileceğiniz sihirbaz farklı Job tipleri arasındaki
 geçişleri ve ayarları kolaylaştırıyor.
 
 ![WebJobs Publishing
-Wizard](http://blob.daron.yondem.com/assets/2923/webjobs_sdk25_2.png)
+Wizard](media/Azure_SDK_2_5_ile_WebJobs_Yenilikleri/webjobs_sdk25_2.png)
 *WebJobs Publishing Wizard*
 
 Sihirbaz içerisinde yapılan tüm ayarlar webjob-publish-settings.json
@@ -54,7 +54,7 @@ göstermiş olması. Buradan rahatlıkla WebJobs'ları listeleyerek OnDemand
 Job'ları da Visual Studio içerisinden çalıştırabiliyorsunuz.
 
 ![Server Explorer'da
-WebJobs](http://blob.daron.yondem.com/assets/2923/webjobs_sdk25_3.png)
+WebJobs](media/Azure_SDK_2_5_ile_WebJobs_Yenilikleri/webjobs_sdk25_3.png)
 *Server Explorer'da WebJobs*
 
 Son güzellik ise artık WebJobs'ları doğrudan Visual Studio içerisinden
@@ -63,7 +63,7 @@ konusu Job'a sağ tıklayıp "Attach Debugger" demeniz yeterli olacak.
 Böylece WebJobs için de Remote Debugging yapabileceksiniz.
 
 ![WebJobs
-Debugging](http://blob.daron.yondem.com/assets/2923/webjobs_sdk25_4.png)
+Debugging](media/Azure_SDK_2_5_ile_WebJobs_Yenilikleri/webjobs_sdk25_4.png)
 *WebJobs Debugging*
 
 SDK 2.5 içerisinde Webjobs yenilikleri bunlar. Webjobs da kendi içinde

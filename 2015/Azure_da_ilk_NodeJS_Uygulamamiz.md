@@ -12,7 +12,7 @@ Eski JavaScript'cilerden kimler kaldı bakiyim? :) Kendi adıma parmak kaldırab
 
 İlk olarak yapmamız gereken Azure Portal'ına gidip Web App slotumuzu provision etmek. Bunun için yeni portalda Web+Mobile sekmesinden "Web App"'i seçerek ilerleyebilirsiniz. Provisioning işlemi tamamlandırken bir yandan da "Merhaba Dünya" kıvamında bir Node uygulaması hazırlayalım.
 
-![azure_web_app](http://blob.daron.yondem.com/assets/2980/azure_web_app.jpg)￼
+![azure_web_app](media/Azure_da_ilk_NodeJS_Uygulamamiz/azure_web_app.jpg)￼
 
 Basit bir Node uygulaması için şu an ihtiyacımız olan tek şey bir JavaScript dosyası. Bu dosyanın içerisinde Node http modülünü kullanarak localhost üzerinde 2001 portunda bir http sunucusu oluşturacağız. Sonra da gelen her talebe cevaben bir selam vereceğiz :)
 
@@ -44,7 +44,7 @@ Yukarıdaki komutları server.js'in bulunduğu yerde çalıştırmamız gerekiyo
 
 Azure'daki Git Remote Endpoint adresini nasıl alacağınız merak ediyorsanız, o da aslında portalda mevcut. 
 
-![azure_web_app_node](http://blob.daron.yondem.com/assets/2980/azure_web_app_node.jpg)￼
+![azure_web_app_node](media/Azure_da_ilk_NodeJS_Uygulamamiz/azure_web_app_node.jpg)￼
 
 Git clone url olarak geçen adresi alıp kullanabilirsiniz. Aslına bakarsanız tüm remote ekleme senaryosu yerine doğrudan Clone mantığını da kullanabilirdik :) ama localde olan biteni görmenizin daha faydalı olacağını düşündüm. Artık her şey hazır olduğuna göre, local repo'dan Azure'a değişiklikleri gönderebiliriz.
 

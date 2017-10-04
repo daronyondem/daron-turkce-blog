@@ -10,7 +10,7 @@ Tags: Seminer
 ---
 Dün Yaşar Üniversitesi'nde konuşmak için İzmir'deydim. Yine teknik olmayan bir oturum olarak "Boş Durma Boşa Çalış" oturumunu sundum. Nedense kimse teknik oturum istemiyor artık :) "Serverless" diyorum, "Microservices" diyorum :) satmıyor :)
 
-![Yaşar Üniversitesi Ziyaretim](http://blob.daron.yondem.com/assets/3049/yasar-uni.jpg)
+![Yaşar Üniversitesi Ziyaretim](media/Yasar_Universitesi_Bos_Durma_Bosa_Calis/yasar-uni.jpg)
 
 Şaka bir yana benim için güzel ve eğlenceli bir gün oldu. **"Boş Durma Boşa Çalış"** oturumu teknik oturumlarıma kıyasla çok daha fazla kişiye dokunabiliyor. Sanırım bolca tercih edilmesinin nedeni de bu. 
 

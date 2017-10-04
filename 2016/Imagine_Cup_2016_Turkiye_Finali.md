@@ -14,7 +14,7 @@ Dün **Imagine Cup 2016 Türkiye Finali**'ndeydim. Tüm finali Periscope'dan can
 
 Yanlış hatırlamıyorsam 2008'den beridir Imagine Cup Türkiye finallerinde jüride oluyorum. Tüm bu yıllarda biriken jüri deneyimimi ve yorumlarımı da ayrı bir video olarak paylaşmayı planlıyorum. Takip etmeyenler [Youtube kanalına](http://daron.tv) kaydolsunlar :)
 
-![](http://blob.daron.yondem.com/assets/3012/imaginecup2016.jpg)
+![](media/Imagine_Cup_2016_Turkiye_Finali/imaginecup2016.jpg)
 
 Dereceye girsin, girmesin, tabi ki katılan herkesin emeğine sağlık. Dereceye girsin, girmesin, tüm gruplara tavsiyem daha sıkı çalışmaları. 
 

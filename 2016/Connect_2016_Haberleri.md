@@ -10,7 +10,7 @@ Tags: .NET Core, Azure App Insights, Azure Container Services, Docker, DocumentD
 ---
 Biraz önce Microsoft'un [Connect](https://connectevent.microsoft.com/) etkinliği başladı ve duyurular peşi sıra geliyor. Online olarak izleyemeyenler için duyuruları hızlıca özetlemenin yanı sıra aslında Connect etkinliğinin bir de Türkiye ayağını duyurmak istiyorum :) Karşınızda [**re-Connect Türkiye**](https://www.eventbrite.com/e/re-connect-2016-registration-29265713537) :) Etkinliğin ajandasını yarın duyuracağız, ama genel olarak yurt dışındaki Connect'in yerelleştirilmiş hali olarak düşünebilirsiniz. 
 
-![](http://blob.daron.yondem.com/assets/3030/banner.png)
+![](media/Connect_2016_Haberleri/banner.png)
 
 Gelelim haberlere :)
 

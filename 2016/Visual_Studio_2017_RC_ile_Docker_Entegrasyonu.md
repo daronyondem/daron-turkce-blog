@@ -21,7 +21,7 @@ Visual Studio 2017 RC Go-Live lisansına sahip olsa da, yani Microsoft "Bu ürü
 
 Hyper-V tarafındaki konfigürasyonu değiştirmek isterseniz Hyper-V içerisinde makineye sağ tıklayarak upgrade / yükseltme yapabilirsiniz.
 
-![Hyper-V'de VM Configuration'unun yükseltmek.](http://blob.daron.yondem.com/assets/3033/hyperv-1.png)
+![Hyper-V'de VM Configuration'unun yükseltmek.](media/Visual_Studio_2017_RC_ile_Docker_Entegrasyonu/hyperv-1.png)
 
 İşlemci desteği konusuna gelince, VT-x yoksa zaten sisteme Hyper-V yükleyemezsiniz. Bu arada, unutmadan, BIOS'da Virtualization kapalı olabilir :) Uzun süredir VM kullanmadıysanız bir bakmakta fayda var. EPT ise Windows 8 ile beraber gelen Second Level Address Translation (SLAT)'ın Intel'cesi :) Intel EPT (Extended Page Tables), AMD içinse RVI (Rapid Virtualization Indexing) veya NPT (Nested Page Tables). Bu özelliğin işlemcinizde olup olmadığını [CoreInfo](http://technet.microsoft.com/en-us/sysinternals/cc835722) ile **coreinfo.exe -v** diyerek kontrol edebilirsiniz. 
 
@@ -39,7 +39,7 @@ Bu noktada sanal makinen içinde olduğunuzu ve Visual Studio 2017 RC'yi de yük
 
 Kurulum sonrası yapmayı unutmamanız gereken bir şey var. Linux üzerindeki Container'ların ayrı bir nested VM'de çalıştığını unutmayalım. Bu VM içerisindeki Container'lar ile Visual Studio 2017 RC'nin çalıştığı ortam arasındaki iletişim için Shared Drive olarak C'yi eklemeniz gerekecek. 
 
-![Docker'a C'ye ulaşma izni veriyoruz.](http://blob.daron.yondem.com/assets/3033/docker-step1.png)
+![Docker'a C'ye ulaşma izni veriyoruz.](media/Visual_Studio_2017_RC_ile_Docker_Entegrasyonu/docker-step1.png)
 
 "Shared Drives" kısmına ulaşmak için system tray'deki Docker ikonun sağ tıklayıp "Settings" kısmına geçebilirsiniz.
 
@@ -47,11 +47,11 @@ Kurulum sonrası yapmayı unutmamanız gereken bir şey var. Linux üzerindeki C
 
 Bu noktadan sonrası artık çok kolay. Visual Studio içerisindeki yeni bir .NET Core projesi yaratırken artık "*Enable Container (Docker) Support*" diyerek gerekli Docker-Compose.yml ve Dockerfile'ların yaratılmasını sağlayabiliyorsunuz. 
 
-![Docker'a C'ye ulaşma izni veriyoruz.](http://blob.daron.yondem.com/assets/3033/docker-step2.png)
+![Docker'a C'ye ulaşma izni veriyoruz.](media/Visual_Studio_2017_RC_ile_Docker_Entegrasyonu/docker-step2.png)
 
 Aşağıdaki ekran görüntüsünde "Docker" da çalıştırma özelliğinin doğrudan Debug menüsünün yerini aldığını görebilirsiniz. Ayrıca "Solution Explorer" içerisinde de gerekli Docker Artifactlarını görebiliyoruz. 
 
-![Docker artık Visual Studio'da Native](http://blob.daron.yondem.com/assets/3033/docker-step3.png)
+![Docker artık Visual Studio'da Native](media/Visual_Studio_2017_RC_ile_Docker_Entegrasyonu/docker-step3.png)
 
 Dockerfile'ın içine baktığımızda aspnetcore imajından türediğini, 80 portunun dinlendiğini, source parametresi aldığını fakat gelmezse de PublishOutPut klasöründeki dosyaları container'ın dosya sistemine kopyalandığını ve *dotnet* ile bizim assemblynin ayağa kaldırıldığını görebiliyoruz.
 
@@ -98,7 +98,7 @@ Burada enteresan olan aslında tüm build işlemini yapacak olan kodun da ayrı 
 
 Yeni projenizi Visual Studio içerisinden çalıştırdığınızda her zamanki gibi tarayıcıda sitenizi görecekseniz. Fakat arkada gerçekleşenler eski ASP.NET'e göre aslında çok farklı. Birincisi Hyper-V üzerinde bir Linux'ümüz var ve tüm kod orada çalışıyor. İkincisi ise tüm bunlar tabi ki bir Container üzerinde.
 
-![Linux container'ımız hayatta ve .NET Core uygulamamız çalışır durumda.](http://blob.daron.yondem.com/assets/3033/docker-step4.png) 
+![Linux container'ımız hayatta ve .NET Core uygulamamız çalışır durumda.](media/Visual_Studio_2017_RC_ile_Docker_Entegrasyonu/docker-step4.png) 
 
 İstediğiniz zaman konsola gidip hızlı bir *"docker ps"* ile sistemdeki containerları listeleyebilirsiniz. 
 

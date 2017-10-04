@@ -10,7 +10,7 @@ Tags:
 ---
 Bugün StartersHub'ın düzenlediği **XO Selection Day**'deydim. **Iot, Big Data veya FinTech** odaklı 26 Startup'ın yer aldığı günde ben de mentor olarak bulundum. Startup etkinliklerine mentor veya jüri olarak katılırken genel olarak teknik karar verici şapkamı takıyorum. Bunun nedeni aslında çoğu zaman zaten jüriden veya mentorlardan yeterince iş kararları tarafında tavsiyelerin çıkıyor olduğunu düşünmem. Tüm bu manzara içerisinde startuplarda gördüğüm en büyük eksik ise aslında teknik tarafta değil :) Yani daha oraya gelemeden zaten bir pazar araştırması sorunsalı ile karşı karşıyayız. Çoğu startup bir fikre sahip olan girişimci ruhun ortaya bir POC/MVP çıkarması ile yola çıkarken içerisine girdiği pazarın durumunu incelemiyor. Durum böyle olunca aslında herkes karanlıkta ay ışığına doğru kulaç atıyor :) Ben startup etkinliklerinde her ne kadar teknik olarak startuplara nerede yardımcı olabilirim diye baksam da nihai noktada verdiğim üç tavsiye oluyor;
 
-![Starterhub XO Selection Day 2017](http://blob.daron.yondem.com/assets/3050/startershub.jpg)
+![Starterhub XO Selection Day 2017](media/Starterhub_XO_Selection_Days_Mentorluk/startershub.jpg)
 
 - Pazarı araştırın. Yaptığınızı yapanlar var mı? Ne yapıyorlar? Nasıl yapıyorlar? Neden onların yerine sizin ürününüz seçilsin? Onların yerinde olsanız sizin ürünü gördüğünüzde ne düşünür ve ne yapardınız?
 - Teknik fizibilite çalışması yapın. Hayal ettiğiniz teknik altyapı hayal ettiğiniz şekilde ölçeklenebiliyor mu?

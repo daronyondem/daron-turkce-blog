@@ -69,7 +69,7 @@ bir ShareFolder'ın ismini verip referansını aldıktan sonra
 REST üzerinden Folder Share'i yaratmış olduk.
 
 ![Azure Files Storage Account Endpoint'lerinden
-biri.](http://blob.daron.yondem.com/assets/2912/azurefiles_1.png)
+biri.](media/Azure_Files_Nedir_Nasil_Kullanilir/azurefiles_1.png)
 *Azure Files Storage Account Endpoint'lerinden biri.*
 
 Şimdi bu noktada birkaç uyarıda bulunmam gerek ve bunlar maalesef can
@@ -88,7 +88,7 @@ etmek gerekirse dev/testing açısından bu durum biraz kötü. En azından
 local emülatör desteği gelirse süper olacak.
 
 ![Azure Files Folder Share VM'e
-maplendi.](http://blob.daron.yondem.com/assets/2912/azurefiles_2.png)
+maplendi.](media/Azure_Files_Nedir_Nasil_Kullanilir/azurefiles_2.png)
 *Azure Files Folder Share VM'e maplendi.*
 
 Kod ile REST üzerinden Folder Share'i oluşturduktan sonra hemen test

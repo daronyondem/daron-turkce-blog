@@ -10,7 +10,7 @@ Tags:
 ---
 Hafta sonu Boğaziçi Üniversitesi’nde düzenlenen EXIT 15 Etkinliğinde bir Azure oturumum vardı. Sonrasında da jüri koltuğuna oturup Hackathon boyunca depreşip bir şeyler yapmaya çalışan grupları değerlendirdik :)
 
-![](http://blob.daron.yondem.com/assets/2971/exit15)
+![](media/EXIT_15_Hackathon_Finali/exit15)
 
 Periscope denemelerine devam edip, jüri koltuğundan tüm finali canlı yayınlamakla kalmayı, üzerine kaydını da Youtube’a koydum :) Merak edenler aşağıda finali ve jüri olarak yorumlarımızı izleyebilirler.
 

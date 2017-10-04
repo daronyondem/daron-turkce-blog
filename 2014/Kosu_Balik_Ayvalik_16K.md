@@ -24,7 +24,7 @@ yapalım desek de eninde sonunda herkes birinci vitese alıp tırmanış
 moduna geçmek zorunda kaldı.
 
 ![Koşu-Balık-Ayvalık 16K, Cunda,
-2014](http://blob.daron.yondem.com/assets/2917/cunda_1.jpg)
+2014](media/Kosu_Balik_Ayvalik_16K/cunda_1.jpg)
 *Koşu-Balık-Ayvalık 16K, Cunda, 2014*
 
 Parkur'un beni en zorlayan tarafı özellikle sonunda dik iniş oldu. Hangi
@@ -54,7 +54,7 @@ diye bence olay biter. Böylece hem adam gibi suyumuzu içeriz hem de
 şişeleri yerlere atmayız.
 
 ![Koşu Öncesi Toplanmaca, Cunda,
-2014](http://blob.daron.yondem.com/assets/2917/cunda_2.jpg)
+2014](media/Kosu_Balik_Ayvalik_16K/cunda_2.jpg)
 *Koşu Öncesi Toplanmaca, Cunda, 2014*
 
 Benim yarışı tamamlama süreme gelince :) İtiraf etmek gerekirse hedefim

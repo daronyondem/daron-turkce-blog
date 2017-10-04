@@ -102,7 +102,7 @@ Yukarıdaki metodun imzasına baktığınızda bir **timerTrigger** ve bir de **
 
 Ben bu örnekte basit bir şekilde saat bilgisini push notification olarak gönderdim.
 
-![Azure Functions'dan Push Notification gönderirken...](http://blob.daron.yondem.com/assets/3045/notificationhub-1.png)
+![Azure Functions'dan Push Notification gönderirken...](media/Azure_Functions_ve_Notification_Hub_Binding/notificationhub-1.png)
 
 İşte gördüğünüz gibi olay bu kadar basit. Artık ister **timerTrigger** gibi yapılarla belirli aralıklarla bir durumu kontrol edip ona göre push notification gönderme kararı alın, ister bir kuyruğu dinleyip görev geldiğinde notification gönderin. Dediğim gibi bundan sonrası sizin ihtiyaçlarınıza göre şekillendirilebilir. Önemli olan kısım Azure Functions ve NotificationHub Binding ile beraber aslında full bir back-end derdine girmeden notification ihtiyaçlarınızın neredeyse hepsini karşılayabiliyorsunuz. 
 

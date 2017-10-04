@@ -19,7 +19,7 @@ yolları da bildiğim için öngörebildiğim yokuşları koşmanın zevkli
 olacağını düşündüm. Öyle de oldu.
 
 ![GurmeRun, 6.2K,
-Nışantaşı](http://blob.daron.yondem.com/assets/2918/gurme_1.jpg)\
+Nışantaşı](media/GurmeRun_6_2K/gurme_1.jpg)\
 *GurmeRun, 6.2K, Nışantaşı*
 
 Parkurun 2. KM'sine doğru toplam 60m'lik bir tırmanış var. Ben inanılmaz

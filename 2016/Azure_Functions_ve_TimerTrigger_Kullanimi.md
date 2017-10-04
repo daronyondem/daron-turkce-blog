@@ -46,7 +46,7 @@ Yukarıda da Function kodumuzun kendisini görebilirsiniz. **myTimer** olarak ge
 
 Daha sonraki adımlarda **TimerInfo** üzerinden alabileceğimiz bazı ek bilgileri de göstermek istedim. Örneğin **GetNextOccurrence** ile bir zaman verip o zamandan sonra ne zaman Timer'ın çalışacağını alabiliyorsunuz. Bizim timer iki dakikada bir çalışacak ve ben beş dakika sonra hangi zamanda tekrar çalışacağını soruyorum TimerInfo'ya. Son satırda da **ScheduleStatus.Last** diyerek en son çalıştığı zamanı alıyorum. Eğer bir dakikadan kısa süreli timerlar kullanıyorsanız **ScheduleStatus** null gelecektir. Bu da [hardcoded bir kural](https://github.com/Azure/azure-webjobs-sdk-extensions/blob/97413de6b312b4d529b42206123853a8fca07918/src/WebJobs.Extensions/Extensions/Timers/Scheduling/TimerSchedule.cs).
 
-![iki dakikada bir Timer çalışıyor.](http://blob.daron.yondem.com/assets/3041/timerTrigger-1.png)
+![iki dakikada bir Timer çalışıyor.](media/Azure_Functions_ve_TimerTrigger_Kullanimi/timerTrigger-1.png)
 
 Yukarıda da gördüğünüz gibi Timer ile ilgili bir sıkıntımız yok. Normal şartlarda Azure Functions'da Consumption Plan'daysanız birazdan soracağım soruyu sormanız anlamlı olmaz fakat özellikle App Service Plan'daysanız App Service Plan'ı scale ettiğinizde Timer'larınızın her sunucuda çalışıp çalışmayacağından, yani daha basit bir tabirle tek instance olup olmadıklarından emin olamayabilirsiniz. Cevabı; hiç fark etmez. **timerTrigger**'lar her zaman Singleton ;) Bunu başarabilmek için de **host.json**'daki storage account ayarlarından gidip bir blob lease alıyor runtime. Eğer function çalıştığında lease alamazsa zaten çalıştığını varsayacak. Eğer bir hata nedeniyle lease bırakılmamışsa bu sefer de tabi ki timeoutu beklemeniz gerekecek.
 

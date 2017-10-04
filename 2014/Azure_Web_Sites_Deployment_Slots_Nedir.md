@@ -24,7 +24,7 @@ Sonrasında hemen portalda sitenizin altındaki "Deployment Slots"
 listesinden yeni bir slot ekleyebilirsiniz.
 
 ![Staging Deployment Slot
-ekliyoruz.](http://blob.daron.yondem.com/assets/2924/deploymentstlots_1.gif)
+ekliyoruz.](media/Azure_Web_Sites_Deployment_Slots_Nedir/deploymentstlots_1.gif)
 *Staging Deployment Slot ekliyoruz.*
 
 Yeni slot eklerken slota vereceğiniz ismin yanı sıra yeni slottaki
@@ -36,7 +36,7 @@ deplyoment slot yaratabilirsiniz. Bunun bir nedeni de ileride
 bahsedeceğimiz A/B Testing senaryoları.
 
 ![SWAP
-Zamanı](http://blob.daron.yondem.com/assets/2924/deploymentstlots_2.gif)
+Zamanı](media/Azure_Web_Sites_Deployment_Slots_Nedir/deploymentstlots_2.gif)
 *SWAP Zamanı*
 
 Her şey hazır olduğunda üst bardaki "SWAP" düğmesine basarak hedef bir
@@ -76,7 +76,7 @@ slota gönderip toplanan veriyi karşılaştırarak sitenizle ilgili hangi
 tasarım değişikliğinin daha doğru olacağına karar verebilirsiniz.
 
 ![Testing in
-production...](http://blob.daron.yondem.com/assets/2924/deploymentstlots_3.gif)
+production...](media/Azure_Web_Sites_Deployment_Slots_Nedir/deploymentstlots_3.gif)
 *Testing in production...*
 
 Ne kadar adı korkutucu gözükse de :) bu özelliği Azure tarafında

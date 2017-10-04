@@ -45,7 +45,7 @@ tercihim bu durumu yokuşlar yerine soğuk algınlığımın üzerine atmak :)
 Hasta olmasan kesin 30 dakikada bitirirdim... değil mi?
 
 ![Neşet Suyu
-Parkuru](http://blob.daron.yondem.com/assets/2914/neset_suyu_1.jpg)
+Parkuru](media/Neset_Suyu_Istanbul_Kosu_Parkuru/neset_suyu_1.jpg)
 *Neşet Suyu Parkuru*
 
 Her şey bir yana parkur gerçekten de güzel. 6KM de güzel ve ortalama bir
@@ -59,7 +59,7 @@ yoldan giderseniz diğer yönde gitmiş oluyorsunuz ve o durumda da doğal
 olarak parkurun tam sonunda güzel bir yokuş sizi bekliyor :)
 
 ![Neşet Suyu Girişi (Sol - Sağ Parkur Başlangıç
-Noktaları)](http://blob.daron.yondem.com/assets/2914/neset_suyu_2.jpg)
+Noktaları)](media/Neset_Suyu_Istanbul_Kosu_Parkuru/neset_suyu_2.jpg)
 *Neşet Suyu Girişi (Sol - Sağ Parkur Başlangıç Noktaları)*
 
 Parkur boyunca beni en çok şaşırtan şey hiçbir noktada telefon çekmiyor
@@ -80,7 +80,7 @@ ya da koşuya başlamadan önce eşe dosta haber verin "1 saatten aramazsam
 anla ki başıma bir şey geldi" tadında.
 
 ![Neşet Suyu Start
-Noktası](http://blob.daron.yondem.com/assets/2914/neset_suyu_3.jpg)
+Noktası](media/Neset_Suyu_Istanbul_Kosu_Parkuru/neset_suyu_3.jpg)
 *Neşet Suyu Start Noktası*
 
 Peki bu kadar konuştum da Neşet Suyu'na nasıl giderim derseniz? Araba

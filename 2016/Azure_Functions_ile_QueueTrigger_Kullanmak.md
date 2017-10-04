@@ -81,7 +81,7 @@ Yukarıda en basit hali ile bir log atan Azure Function var. Gelin şimdi bu fun
 - **popReceipt** ise eğer **CloudQueueMessage** mesaj ile manual işlemler yapmak isterseniz işinize yarayabilir. O anki Azure Functions instance'ının kuyruktan mesajı alırken elde ettiği **popReceipt**'ı size verir. Böylece eğer elinizdeki işlem uzun sürer ve başka bir instance da kuyruktan aynı işi alırsa **popReceipt** ile storage API'larına gittiğinizde geriye hata alma şansınız olur. Genelde **popReceipt** kullanımını Azure Stroge SDK zaten kendi içerisinde hallediyor. Ama Azure Storage'ın REST API'larına kendiniz gitmek isterseniz bir queue mesajına bir delete veya update yapmanız için elinizdeki kesinlikle **popReceipt**'ınızın olması gerekir. Bir anlamda sizin kuyruktan mesajı alma biletiniz diyebiliriz. İtiraf etmek gerekirse bir Azure Functions içerisinde bu parametreyi kullanma ihtimaliniz epey düşük.
 - **dequeueCount** parametresi ile bir mesajın kuyruktan kaç defa alındığını verir. Sürekli kuyruktan aldığınız fakat bir türlü başarılı bir şekilde işleyemediğiniz mesajları işlemeyi kaç defa deneyeceğinizi belirlemeniz gerekiyor. Zehirli mesajlar olarak da adlandırılan bu mesajlar bir süre sonra sayı olarak artarsa sürekli kısır döngüde aynı mesajları işlemeye çalışıp hep başarısız olan bir ortama sebep verebilir. Buna engel olmak için **dequeueCount** kullanarak bir mesajın kaç defa denendiğini görebilirsiniz. Varsayılan ayarlarda Azure Functions bir mesajı 5 defa işlemeyi deneyip sonra doğrudan **samplequeue-poison** kuyruğuna taşıyacaktır. Bu kuyruğun adı tahmin edeceğiniz üzere sürekli olarak sizin orijinal kuyruk adınızın sonuna **-poison** eklenerek oluşturulur. **Poison** (zehirli) mesaj kuyruğunu dinleyerek gerekli işlemleri yapmak da artık size kalıyor. 
 
-![Queue Trigger Log çıktısı](http://blob.daron.yondem.com/assets/3040/queuetrigger-1.png)
+![Queue Trigger Log çıktısı](media/Azure_Functions_ile_QueueTrigger_Kullanmak/queuetrigger-1.png)
 
 Bir mesajın başarılı bir şekilde işlenip işlenmediğine Azure Functions nasıl karar verir? diye sorarsanız, cevabı basit. Eğer function geriye bir exception dönmüyorsa alınan mesaj başarılı bir şekilde işlendi demektir.
 
@@ -181,7 +181,7 @@ public class OrnekMesaj
 
 Yukarıdaki örnekte kaynak kuyruktan gelen metnin üzerine " devam..." metnini eklerken artık geriye basit bir **String** olarak değil de custom **OrnekMesaj** nesnesi ile gönderiyoruz. Buradan yeni kuyruk objesine, göreve deserialize işlemini JSON deserializer kullaran Azure Functions Runtime kendisi halledecek. Aynı işlemi input binding'lerde de kullanabilirsiniz. 
 
-![Output Binding'de JSON Deserialization](http://blob.daron.yondem.com/assets/3040/queuetrigger-2.png)
+![Output Binding'de JSON Deserialization](media/Azure_Functions_ile_QueueTrigger_Kullanmak/queuetrigger-2.png)
 
 Yukarıdaki ekran görüntüsünde yaptığımız örneklerin output binding sonuçlarını görebilirsiniz. 
 

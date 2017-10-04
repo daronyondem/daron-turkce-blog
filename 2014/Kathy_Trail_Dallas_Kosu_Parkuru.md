@@ -31,7 +31,7 @@ Koşudan hemen sonra metro duraklarında beklemek vs pek iyi bir fikir
 gibi gelmedi dönüş macerası olarak.
 
 ![Kathy Trail'in sonunda "Smile" tabelası ince bir düşünce ürünü
-:)](http://blob.daron.yondem.com/assets/2913/kathy.jpg)
+:)](media/Kathy_Trail_Dallas_Kosu_Parkuru/kathy.jpg)
 *Kathy Trail'in sonunda "Smile" tabelası ince bir düşünce ürünü :)*
 
 Yukarıda koşunun sonundan bir kare var. Koşu parkurunun sonundaki bu
@@ -49,7 +49,7 @@ Parkur boyunca bazı eski köprülerden geçiyorsunuz, bu köprülere
 yaklaşırken bisiklet ve koşu yolları birleşiyor.
 
 ![Kathy Trail
-Koşusu](http://blob.daron.yondem.com/assets/2913/kathy_2.jpg)
+Koşusu](media/Kathy_Trail_Dallas_Kosu_Parkuru/kathy_2.jpg)
 *Kathy Trail Koşusu*
 
 Aslına bakarsanız ben parkuru tersinden koştum :) İtiraf ediyorum.
@@ -61,7 +61,7 @@ metrede bitiyor. Tabi aralarda ufak tırmanışlar da yok değil. Aşağıdaki
 grafik parkurun genel iniş çıkışı ile ilgili fikir verecektir.
 
 ![Kathy Trail Ters Yön Eğimi
-:)](http://blob.daron.yondem.com/assets/2913/kathy_3.jpg)
+:)](media/Kathy_Trail_Dallas_Kosu_Parkuru/kathy_3.jpg)
 *Kathy Trail Ters Yön Eğimi :)*
 
 Kathy Trail'in en hoşuma giden tarafı aslında halk tarafından bağışlarla

@@ -10,7 +10,7 @@ Tags:
 ---
 Dün Düzce Üniversitesi’ndeydim :) BTFest etkinliğinde “Boş Durma Boşa Çalış” adındaki :) artık herkesın yavaş yavaş merak etmeye başladığını farkında olduğum oturumumu sundum.
 
-![](http://blob.daron.yondem.com/assets/2975/duzce)
+![](media/Duzce_Universitesi_Ziyaretim/duzce)
 
 Etkinlikteki oturumum sonrası epey güldüren sorulardan sonra :) organizasyon ekibi ve üniversiteden hocalarımızla da bir yemek kaçamağı yaptık. Erkenden İstanbul’a dönmeyi düşünürken sohbet-muhabbet ile dönüşümüz epey gecikti açıkçası. Tüm bunları tabi ki süper organizasyon ekibi ve hocalarımızın da hoş sohbetine borçluyum. 
 

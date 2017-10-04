@@ -28,7 +28,7 @@ bunlar yarışı çok daha keyifli bir hale getirdi bu sene. Geçen sene
 engellerin çoğu arka arkaya dizilmişti.
 
 ![Mudrace 5K,
-2014](http://blob.daron.yondem.com/assets/2916/mudrace_1.jpg)
+2014](media/MudRace_5K_2014_Camur_Kosusu/mudrace_1.jpg)
 *Mudrace 5K, 2014*
 
 Yukarıda benim GPS'ten yarış boyunca yakaladığım yolu bulabilirsiniz.
@@ -45,7 +45,7 @@ sürede parkuru tamamladım ama tam parkurun sonuna doğru motivasyon
 kaybetmek hoş olmadı.
 
 ![Mudrace Finisher
-Madalyaları](http://blob.daron.yondem.com/assets/2916/mudrace_2.jpg)
+Madalyaları](media/MudRace_5K_2014_Camur_Kosusu/mudrace_2.jpg)
 *Mudrace Finisher Madalyaları*
 
 Yarışın sonunda yaşadığım bir diğer hayal kırıklığı ve kızgınlık ise

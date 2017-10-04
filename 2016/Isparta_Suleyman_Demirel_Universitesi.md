@@ -15,4 +15,4 @@ frameborder="0" allowfullscreen></iframe>
 
 Etkinliğe katılan ve organizasyonunda emeği geçen tüm kardeşlerime ve tabi ki yine beni yalnız bırakmayan hocalarımıza buradan çok teşekkürler! Tekrar görüşmek üzere.
 
-![](http://blob.daron.yondem.com/assets/3018/isparta-2016.jpg)
+![](media/Isparta_Suleyman_Demirel_Universitesi/isparta-2016.jpg)

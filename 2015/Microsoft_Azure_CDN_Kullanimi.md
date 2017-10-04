@@ -30,19 +30,19 @@ Bunun için **Origin Type** olarak **Custom Origin** diyerek URL vermeniz yeterl
 Verdiğiniz URL kendi veri merkezinizde veya Amazon'da vs olabilir. 
 
 ![Yeni bir CDN Endpoint
-eklerken.](http://blob.daron.yondem.com/assets/2981/CDN_1.png)  
+eklerken.](media/Microsoft_Azure_CDN_Kullanimi/CDN_1.png)  
 *Yeni bir CDN Endpoint eklerken.*
 
 Endpointi yarattıktan sonra ihtiyacınıza göre **HTTPS** ve/veya **QueryString** desteğini de alt 
 menüden açabilirsiniz.
 
 ![Endpointin kaynağını
-belirlerken.](http://blob.daron.yondem.com/assets/2981/CDN_2.png)  
+belirlerken.](media/Microsoft_Azure_CDN_Kullanimi/CDN_2.png)  
 
 Ek olarak standard CDN Endpoint adresi yerine kendi domaininizden bir sub-domain
 kullanmak isterseniz bunu da **Manage Domains* bölümünden yaparak ufak bir CNAME ayarı
 ile işi bitirebilirsiniz.
 
-![Azure CDN POP lokasyonları.](http://blob.daron.yondem.com/assets/2981/cdn_pop_locations_update.png)  
+![Azure CDN POP lokasyonları.](media/Microsoft_Azure_CDN_Kullanimi/cdn_pop_locations_update.png)  
 
 Görüşmek üzere!

@@ -23,7 +23,7 @@ dünya arasında proxy işlemi görürken transformasyon, ölçümleme,
 authorization gibi bir çok ek işlevsellik sunuyor.
 
 ![Azure API
-Management](http://blob.daron.yondem.com/assets/2920/apimanagement_1.png)
+Management](media/Azure_API_Management_Giris/apimanagement_1.png)
 *Azure API Management*
 
 Her Azure ürününde olduğu gibi API Management için de Azure portalından
@@ -56,7 +56,7 @@ edeceğiniz üzere tüm bu işlemleri zaten API Management otomatik olarak
 hallediyor.
 
 ![API Management portalına
-geçelim.](http://blob.daron.yondem.com/assets/2920/apimanagement_2.png)
+geçelim.](media/Azure_API_Management_Giris/apimanagement_2.png)
 *API Management portalına geçelim.*
 
 API Management Service Account'unuzun provisioning işlemi sonrasında
@@ -65,7 +65,7 @@ Console'a geçmenize fayda var. Tüm işimiz Management Console içerisinde
 olacak.
 
 ![Yeni bir API
-ekleyelim.](http://blob.daron.yondem.com/assets/2920/apimanagement_3.png)
+ekleyelim.](media/Azure_API_Management_Giris/apimanagement_3.png)
 *Yeni bir API ekleyelim.*
 
 Yeni API'mızı eklerken istediğimiz ismi ve URL'i tanımlayabiliriz. Daha
@@ -75,7 +75,7 @@ bir API'ın üzerine bir çok özellik ekleyebiliyor. Bir sonraki adımda
 karşınıza gelen sayfada API'mızın ana ayarlarını yapacağız.
 
 ![API'mızın ana ayarları
-burada.](http://blob.daron.yondem.com/assets/2920/apimanagement_4.png)
+burada.](media/Azure_API_Management_Giris/apimanagement_4.png)
 *API'mızın ana ayarları burada.*
 
 API'ya verdiğimiz isin developer portalımızda gözükecek. Web Service URL
@@ -87,7 +87,7 @@ farklı operasyonları tanımlamaya. Hemen "Operations" tabından "Add
 Operation" diyerek sonraki adıma geçebilirsiniz.
 
 ![GET Operasyonumuzu
-tanımlıyoruz.](http://blob.daron.yondem.com/assets/2920/apimanagement_5.png)
+tanımlıyoruz.](media/Azure_API_Management_Giris/apimanagement_5.png)
 *GET Operasyonumuzu tanımlıyoruz.*
 
 URL Template kısmında gördüğünüz operasyon tipi bizim dışarıya
@@ -116,7 +116,7 @@ olacağız. Hemen ekranın sağ üstünde "Developer Portal" linki
 göreceksiniz. Tıklayın!
 
 ![API Management Developer Portal
-karşınızda.](http://blob.daron.yondem.com/assets/2920/apimanagement_6.png)
+karşınızda.](media/Azure_API_Management_Giris/apimanagement_6.png)
 *API Management Developer Portal karşınızda.*
 
 Portala girdiğinizde üst kısımdan "API" sekmesine tıklarsanız tüm

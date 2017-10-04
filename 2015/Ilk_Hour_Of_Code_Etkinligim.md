@@ -18,4 +18,4 @@ Hour Of Code herkese açık. Hepiniz gönüllü olabilirsiniz. 13 Aralık'ı ge�
 
 Kendinize çok iyi bakın ;) Görüşürüz.
 
-![](http://blob.daron.yondem.com/assets/2992/hourofcode.jpg)
+![](media/Ilk_Hour_Of_Code_Etkinligim/hourofcode.jpg)

@@ -10,7 +10,7 @@ Tags: Windows Azure
 ---
 Salı günü günübirlik bir ziyaret ile **Elazığ, Fırat Üniversitesi**'ndeydim. Birkaç yıl olmuş Elazığ'a gitmeyeli :) Güzel bir etkinlikte önce Azure ve Cloud konuştuk sonra da "Tüm derdim Kaizen" adındaki üretkenlik odaklı oturumumu sundum. 
 
-![](http://blob.daron.yondem.com/assets/2967/firat.jpg)
+![](media/Elazig_Firat_Universitesi_Ziyaretim/firat.jpg)
 
 Etkinlikteki emeği geçen tüm genç arkadaşlarıma buradan çok teşekkür ediyorum. Gün boyunca süper bir misafirperverlik gösterdiler. 
 
