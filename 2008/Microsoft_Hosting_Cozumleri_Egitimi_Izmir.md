@@ -1,7 +1,7 @@
 ---
 FallbackID: 2161
 Title: Microsoft Hosting Çözümleri Eğitimi, İzmir
-PublishDate: 8/21/2008
+PublishDate: 21/8/2008
 EntryID: Microsoft_Hosting_Cozumleri_Egitimi_Izmir
 IsActive: True
 Section: software

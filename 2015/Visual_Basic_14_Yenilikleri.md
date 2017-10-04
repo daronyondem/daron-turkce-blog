@@ -1,7 +1,7 @@
 ---
 FallbackID: 2958
 Title: Visual Basic 14 Yenilikleri
-PublishDate: 3/10/2015
+PublishDate: 10/3/2015
 EntryID: Visual_Basic_14_Yenilikleri
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3018
 Title: Isparta Süleyman Demirel Üniversitesi
-PublishDate: 4/28/2016
+PublishDate: 28/4/2016
 EntryID: Isparta_Suleyman_Demirel_Universitesi
 IsActive: True
 Section: software

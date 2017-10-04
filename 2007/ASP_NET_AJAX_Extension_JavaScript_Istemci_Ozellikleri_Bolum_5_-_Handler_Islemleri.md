@@ -1,7 +1,7 @@
 ---
 FallbackID: 1784
 Title: ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 5 - Handler İşlemleri)
-PublishDate: 9/12/2007
+PublishDate: 12/9/2007
 EntryID: ASP_NET_AJAX_Extension_JavaScript_Istemci_Ozellikleri_Bolum_5_-_Handler_Islemleri
 IsActive: True
 Section: software

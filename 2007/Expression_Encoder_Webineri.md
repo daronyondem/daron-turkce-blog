@@ -1,7 +1,7 @@
 ---
 FallbackID: 1862
 Title: Expression Encoder Webineri
-PublishDate: 11/25/2007
+PublishDate: 25/11/2007
 EntryID: Expression_Encoder_Webineri
 IsActive: True
 Section: software

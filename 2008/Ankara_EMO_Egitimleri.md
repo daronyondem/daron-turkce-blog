@@ -1,7 +1,7 @@
 ---
 FallbackID: 2067
 Title: Ankara, EMO Eğitimleri
-PublishDate: 5/26/2008
+PublishDate: 26/5/2008
 EntryID: Ankara_EMO_Egitimleri
 IsActive: True
 Section: software

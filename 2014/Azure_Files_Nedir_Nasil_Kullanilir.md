@@ -1,7 +1,7 @@
 ---
 FallbackID: 2912
 Title: Azure Files Nedir? Nasıl Kullanılır?
-PublishDate: 7/29/2014
+PublishDate: 29/7/2014
 EntryID: Azure_Files_Nedir_Nasil_Kullanilir
 IsActive: True
 Section: software

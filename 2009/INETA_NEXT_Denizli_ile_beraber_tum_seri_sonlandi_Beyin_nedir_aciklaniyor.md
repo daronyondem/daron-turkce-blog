@@ -1,7 +1,7 @@
 ---
 FallbackID: 2480
 Title: INETA NEXT Denizli ile beraber tüm seri sonlandı! Beyin nedir açıklanıyor! :)
-PublishDate: 12/27/2009
+PublishDate: 27/12/2009
 EntryID: INETA_NEXT_Denizli_ile_beraber_tum_seri_sonlandi_Beyin_nedir_aciklaniyor
 IsActive: True
 Section: software

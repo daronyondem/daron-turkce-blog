@@ -1,7 +1,7 @@
 ---
 FallbackID: 2142
 Title: Expression Blend 2.5 XAML Intellisense Add-In
-PublishDate: 8/3/2008
+PublishDate: 3/8/2008
 EntryID: Expression_Blend_2_5_XAML_Intellisense_Add-In
 IsActive: True
 Section: software

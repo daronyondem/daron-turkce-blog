@@ -1,7 +1,7 @@
 ---
 FallbackID: 2814
 Title: 2012 için Nokia Developer Champion seçildim.
-PublishDate: 5/23/2012
+PublishDate: 23/5/2012
 EntryID: 2012_icin_Nokia_Developer_Champion_secildim
 IsActive: True
 Section: software

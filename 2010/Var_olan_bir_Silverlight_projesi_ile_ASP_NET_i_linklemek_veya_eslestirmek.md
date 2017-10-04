@@ -1,7 +1,7 @@
 ---
 FallbackID: 2529
 Title: Var olan bir Silverlight projesi ile ASP.NET'i linklemek / eşleştirmek
-PublishDate: 7/19/2010
+PublishDate: 19/7/2010
 EntryID: Var_olan_bir_Silverlight_projesi_ile_ASP_NET_i_linklemek_veya_eslestirmek
 IsActive: True
 Section: software

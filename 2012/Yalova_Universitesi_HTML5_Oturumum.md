@@ -1,7 +1,7 @@
 ---
 FallbackID: 2748
 Title: Yalova Üniversitesi HTML5 Oturumum
-PublishDate: 1/4/2012
+PublishDate: 4/1/2012
 EntryID: Yalova_Universitesi_HTML5_Oturumum
 IsActive: True
 Section: software

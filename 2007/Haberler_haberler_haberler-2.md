@@ -1,7 +1,7 @@
 ---
 FallbackID: 1838
 Title: Haberler... haberler... haberler...
-PublishDate: 11/6/2007
+PublishDate: 6/11/2007
 EntryID: Haberler_haberler_haberler-2
 IsActive: True
 Section: software

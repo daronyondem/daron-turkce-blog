@@ -1,7 +1,7 @@
 ---
 FallbackID: 3058
 Title: Visual Studio 2017 Lansmanı'nda Docker ve Containers Yenilikleri
-PublishDate: 3/30/2017
+PublishDate: 30/3/2017
 EntryID: Visual_Studio_2017_Lansmani_Docker_Containers
 IsActive: True
 Section: software

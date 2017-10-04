@@ -1,7 +1,7 @@
 ---
 FallbackID: 2037
 Title: Silverlight 2.0 XAP Paketleri ve Kaynak Dosyalar
-PublishDate: 4/27/2008
+PublishDate: 27/4/2008
 EntryID: Silverlight_2_0_XAP_Paketleri_ve_Kaynak_Dosyalar
 IsActive: True
 Section: software

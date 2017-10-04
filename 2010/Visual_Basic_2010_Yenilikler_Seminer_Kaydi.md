@@ -1,7 +1,7 @@
 ---
 FallbackID: 2484
 Title: Visual Basic 2010 Yenilikler Seminer Kaydı
-PublishDate: 1/21/2010
+PublishDate: 21/1/2010
 EntryID: Visual_Basic_2010_Yenilikler_Seminer_Kaydi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1913
 Title: Visual Studio 2008 ile gelen hoş bir yenilik daha :)
-PublishDate: 1/9/2008
+PublishDate: 9/1/2008
 EntryID: Visual_Studio_2008_ile_gelen_hos_bir_yenilik_daha
 IsActive: True
 Section: software

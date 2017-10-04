@@ -1,6 +1,6 @@
-﻿---
+---
 Title: Manisa Celal Bayar Üniversitesi'nde Hackathon
-PublishDate: 4/23/2017
+PublishDate: 23/4/2017
 IsActive: True
 Section: software
 MinutesSpent: 16

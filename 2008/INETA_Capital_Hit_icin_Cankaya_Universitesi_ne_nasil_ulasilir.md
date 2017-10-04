@@ -1,7 +1,7 @@
 ---
 FallbackID: 2205
 Title: INETA Capital Hit için Çankaya Üniversitesi'ne nasıl ulaşılır?
-PublishDate: 10/4/2008
+PublishDate: 4/10/2008
 EntryID: INETA_Capital_Hit_icin_Cankaya_Universitesi_ne_nasil_ulasilir
 IsActive: True
 Section: software

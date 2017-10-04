@@ -1,7 +1,7 @@
 ---
 FallbackID: 1769
 Title: AJAX Control Toolkit Extender Kontrolleri Yaratmak
-PublishDate: 8/31/2007
+PublishDate: 31/8/2007
 EntryID: AJAX_Control_Toolkit_Extender_Kontrolleri_Yaratmak
 IsActive: True
 Section: software

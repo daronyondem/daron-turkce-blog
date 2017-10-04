@@ -1,7 +1,7 @@
 ---
 FallbackID: 2333
 Title: INETA Eskişehir Hit tamamlandı.
-PublishDate: 3/10/2009
+PublishDate: 10/3/2009
 EntryID: INETA_Eskisehir_Hit_tamamlandi
 IsActive: True
 Section: software

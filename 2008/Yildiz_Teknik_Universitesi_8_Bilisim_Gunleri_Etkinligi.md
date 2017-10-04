@@ -1,7 +1,7 @@
 ---
 FallbackID: 2242
 Title: Yıldız Teknik Üniversitesi 8. Bilişim Günleri Etkinliği
-PublishDate: 11/10/2008
+PublishDate: 10/11/2008
 EntryID: Yildiz_Teknik_Universitesi_8_Bilisim_Gunleri_Etkinligi
 IsActive: True
 Section: software

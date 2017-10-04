@@ -1,7 +1,7 @@
 ---
 FallbackID: 2402
 Title: Silverlight'ın web servisine ulaşımını dinamik adreslerle yönetmek.
-PublishDate: 9/6/2009
+PublishDate: 6/9/2009
 EntryID: Silverlight_in_web_servisine_ulasimini_dinamik_adreslerle_yonetmek
 IsActive: True
 Section: software

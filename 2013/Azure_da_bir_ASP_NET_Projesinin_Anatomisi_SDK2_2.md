@@ -1,7 +1,7 @@
 ---
 FallbackID: 2873
 Title: Azure'da bir ASP.NET Projesinin Anatomisi (SDK2.2)
-PublishDate: 11/28/2013
+PublishDate: 28/11/2013
 EntryID: Azure_da_bir_ASP_NET_Projesinin_Anatomisi_SDK2_2
 IsActive: True
 Section: software

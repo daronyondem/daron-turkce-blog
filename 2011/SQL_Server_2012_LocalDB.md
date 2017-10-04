@@ -1,7 +1,7 @@
 ---
 FallbackID: 2731
 Title: SQL Server 2012 ve LocalDB
-PublishDate: 11/29/2011
+PublishDate: 29/11/2011
 EntryID: SQL_Server_2012_LocalDB
 IsActive: True
 Section: software

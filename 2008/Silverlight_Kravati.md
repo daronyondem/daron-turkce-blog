@@ -1,7 +1,7 @@
 ---
 FallbackID: 2068
 Title: Silverlight Kravatı! :)
-PublishDate: 5/27/2008
+PublishDate: 27/5/2008
 EntryID: Silverlight_Kravati
 IsActive: True
 Section: software

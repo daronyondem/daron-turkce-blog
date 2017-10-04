@@ -1,7 +1,7 @@
 ---
 FallbackID: 2045
 Title: Silverlight 2.0 ile Oyun Programlama'ya Giriş
-PublishDate: 5/4/2008
+PublishDate: 4/5/2008
 EntryID: Silverlight_2_0_ile_Oyun_Programlama_ya_Giris
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2517
 Title: Windows Phone 7'de Navigation API ve uygulama yapısı.
-PublishDate: 5/4/2010
+PublishDate: 4/5/2010
 EntryID: Windows_Phone_7_de_Navigation_API_ve_uygulama_yapisi
 IsActive: True
 Section: software

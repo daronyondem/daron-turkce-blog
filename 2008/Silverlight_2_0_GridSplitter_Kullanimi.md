@@ -1,7 +1,7 @@
 ---
 FallbackID: 2063
 Title: Silverlight 2.0 GridSplitter Kullanımı
-PublishDate: 5/22/2008
+PublishDate: 22/5/2008
 EntryID: Silverlight_2_0_GridSplitter_Kullanimi
 IsActive: True
 Section: software

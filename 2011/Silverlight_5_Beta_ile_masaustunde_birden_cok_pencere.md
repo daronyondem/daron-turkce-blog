@@ -1,7 +1,7 @@
 ---
 FallbackID: 2563
 Title: Silverlight 5 Beta ile masaüstünde birden çok pencere!
-PublishDate: 4/20/2011
+PublishDate: 20/4/2011
 EntryID: Silverlight_5_Beta_ile_masaustunde_birden_cok_pencere
 IsActive: True
 Section: software

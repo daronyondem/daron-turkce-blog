@@ -1,7 +1,7 @@
-﻿---
+---
 Title: Samsun 19 Mayıs Üniversitesi Kariyer Günleri
 EntryID: Samsun-Kariyer-Gunleri
-PublishDate: 4/22/2017
+PublishDate: 22/4/2017
 IsActive: True
 Section: software
 MinutesSpent: 16

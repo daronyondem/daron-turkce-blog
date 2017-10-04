@@ -1,7 +1,7 @@
 ---
 FallbackID: 2974
 Title: Gaziantep KITTECH Oturumum
-PublishDate: 4/25/2015
+PublishDate: 25/4/2015
 EntryID: Gaziantep_KITTECH_Oturumum
 IsActive: True
 Section: software

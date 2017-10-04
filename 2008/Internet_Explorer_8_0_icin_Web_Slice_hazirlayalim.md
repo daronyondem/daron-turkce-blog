@@ -1,7 +1,7 @@
 ---
 FallbackID: 2185
 Title: Internet Explorer 8.0 için Web Slice hazırlayalım.
-PublishDate: 9/14/2008
+PublishDate: 14/9/2008
 EntryID: Internet_Explorer_8_0_icin_Web_Slice_hazirlayalim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2698
 Title: Build Konferansı İkinci Gün Raporu
-PublishDate: 9/15/2011
+PublishDate: 15/9/2011
 EntryID: Build_Konferansi_Ikinci_Gun_Raporu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2789
 Title: INETA Ankara'daydı...
-PublishDate: 2/6/2012
+PublishDate: 6/2/2012
 EntryID: INETA_Ankara_2012
 IsActive: True
 Section: software

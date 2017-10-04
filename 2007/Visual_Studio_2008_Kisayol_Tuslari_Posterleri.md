@@ -1,7 +1,7 @@
 ---
 FallbackID: 1853
 Title: Visual Studio 2008 Kısayol Tuşları Posterleri
-PublishDate: 11/18/2007
+PublishDate: 18/11/2007
 EntryID: Visual_Studio_2008_Kisayol_Tuslari_Posterleri
 IsActive: True
 Section: software

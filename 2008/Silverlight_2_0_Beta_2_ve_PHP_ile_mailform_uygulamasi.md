@@ -1,7 +1,7 @@
 ---
 FallbackID: 2126
 Title: Silverlight 2.0 Beta 2 ve PHP ile mailform uygulaması
-PublishDate: 7/18/2008
+PublishDate: 18/7/2008
 EntryID: Silverlight_2_0_Beta_2_ve_PHP_ile_mailform_uygulamasi
 IsActive: True
 Section: software

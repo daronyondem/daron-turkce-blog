@@ -1,7 +1,7 @@
 ---
 FallbackID: 2510
 Title: NedirTV 4. Yıl Dönümü etkinliği sonrasında...
-PublishDate: 4/11/2010
+PublishDate: 11/4/2010
 EntryID: NedirTV_4_Yil_Donumu_etkinligi_sonrasinda
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2076
 Title: Edirne M.P. Anadolu Ticaret Meslek ve Ticaret Meslek Lisesi Seminerleri
-PublishDate: 6/4/2008
+PublishDate: 4/6/2008
 EntryID: Edirne_M_P_Anadolu_Ticaret_Meslek_ve_Ticaret_Meslek_Lisesi_Seminerleri
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2258
 Title: YTÜ, Davutpaşa kampüsü seminerleri.
-PublishDate: 11/26/2008
+PublishDate: 26/11/2008
 EntryID: YTU_Davutpasa_kampusu_seminerleri
 IsActive: True
 Section: software

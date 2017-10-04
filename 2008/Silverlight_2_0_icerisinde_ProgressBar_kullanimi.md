@@ -1,7 +1,7 @@
 ---
 FallbackID: 2207
 Title: Silverlight 2.0 içerisinde ProgressBar kullanımı.
-PublishDate: 10/6/2008
+PublishDate: 6/10/2008
 EntryID: Silverlight_2_0_icerisinde_ProgressBar_kullanimi
 IsActive: True
 Section: software

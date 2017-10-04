@@ -1,7 +1,7 @@
 ---
 FallbackID: 2819
 Title: SQL Azure'daki Veritabanınızı Yedeklemek
-PublishDate: 10/2/2012
+PublishDate: 2/10/2012
 EntryID: SQL_Azure_daki_Veritabaninizi_Yedeklemek
 IsActive: True
 Section: software

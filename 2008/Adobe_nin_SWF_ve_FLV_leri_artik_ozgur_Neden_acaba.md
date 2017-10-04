@@ -1,7 +1,7 @@
 ---
 FallbackID: 2044
 Title: Adobe'nin SWF ve FLV'leri artık özgür. Neden acaba?
-PublishDate: 5/2/2008
+PublishDate: 2/5/2008
 EntryID: Adobe_nin_SWF_ve_FLV_leri_artik_ozgur_Neden_acaba
 IsActive: True
 Section: software

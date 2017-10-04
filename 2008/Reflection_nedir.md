@@ -1,7 +1,7 @@
 ---
 FallbackID: 2195
 Title: Reflection nedir?
-PublishDate: 9/24/2008
+PublishDate: 24/9/2008
 EntryID: Reflection_nedir
 IsActive: True
 Section: software

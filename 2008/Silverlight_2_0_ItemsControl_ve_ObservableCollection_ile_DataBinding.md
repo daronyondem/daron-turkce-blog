@@ -1,7 +1,7 @@
 ---
 FallbackID: 2038
 Title: Silverlight 2.0 ItemsControl ve ObservableCollection ile DataBinding
-PublishDate: 4/27/2008
+PublishDate: 27/4/2008
 EntryID: Silverlight_2_0_ItemsControl_ve_ObservableCollection_ile_DataBinding
 IsActive: True
 Section: software

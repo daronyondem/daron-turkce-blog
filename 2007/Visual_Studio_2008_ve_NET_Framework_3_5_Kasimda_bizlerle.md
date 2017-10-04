@@ -1,7 +1,7 @@
 ---
 FallbackID: 1841
 Title: Visual Studio 2008 ve .NET Framework 3.5 Kasım'da bizlerle...
-PublishDate: 11/7/2007
+PublishDate: 7/11/2007
 EntryID: Visual_Studio_2008_ve_NET_Framework_3_5_Kasimda_bizlerle
 IsActive: True
 Section: software

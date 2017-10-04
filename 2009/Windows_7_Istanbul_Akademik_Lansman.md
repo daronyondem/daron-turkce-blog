@@ -1,7 +1,7 @@
 ---
 FallbackID: 2430
 Title: Windows 7 İstanbul Akademik Lansman
-PublishDate: 10/23/2009
+PublishDate: 23/10/2009
 EntryID: Windows_7_Istanbul_Akademik_Lansman
 IsActive: True
 Section: software

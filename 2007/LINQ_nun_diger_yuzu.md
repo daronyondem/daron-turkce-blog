@@ -1,7 +1,7 @@
 ---
 FallbackID: 1897
 Title: LINQ'nun diğer yüzü :)
-PublishDate: 12/26/2007
+PublishDate: 26/12/2007
 EntryID: LINQ_nun_diger_yuzu
 IsActive: True
 Section: software

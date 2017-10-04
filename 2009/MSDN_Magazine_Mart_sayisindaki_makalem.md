@@ -1,7 +1,7 @@
 ---
 FallbackID: 2330
 Title: MSDN Magazine Mart sayısındaki makalem...
-PublishDate: 3/1/2009
+PublishDate: 1/3/2009
 EntryID: MSDN_Magazine_Mart_sayisindaki_makalem
 IsActive: True
 Section: software

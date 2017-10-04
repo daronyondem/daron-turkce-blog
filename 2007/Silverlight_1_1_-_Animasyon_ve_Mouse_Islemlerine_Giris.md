@@ -1,7 +1,7 @@
 ---
 FallbackID: 1840
 Title: Silverlight 1.1 - Animasyon ve Mouse İşlemlerine Giriş
-PublishDate: 11/7/2007
+PublishDate: 7/11/2007
 EntryID: Silverlight_1_1_-_Animasyon_ve_Mouse_Islemlerine_Giris
 IsActive: True
 Section: software

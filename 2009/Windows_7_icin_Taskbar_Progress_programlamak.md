@@ -1,7 +1,7 @@
 ---
 FallbackID: 2437
 Title: Windows 7 için Taskbar Progress'i programlamak.
-PublishDate: 10/30/2009
+PublishDate: 30/10/2009
 EntryID: Windows_7_icin_Taskbar_Progress_programlamak
 IsActive: True
 Section: software

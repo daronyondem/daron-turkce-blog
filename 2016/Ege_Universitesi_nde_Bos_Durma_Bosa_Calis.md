@@ -1,7 +1,7 @@
 ---
 FallbackID: 3003
 Title: Ege Üniversitesi'nde Boş Durma Boşa Çalış
-PublishDate: 3/13/2016
+PublishDate: 13/3/2016
 EntryID: Ege_Universitesi_nde_Bos_Durma_Bosa_Calis
 IsActive: True
 Section: software

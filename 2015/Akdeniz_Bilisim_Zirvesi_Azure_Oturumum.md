@@ -1,7 +1,7 @@
 ---
 FallbackID: 2983
 Title: Akdeniz Bilişim Zirvesi Azure Oturumum
-PublishDate: 10/16/2015
+PublishDate: 16/10/2015
 EntryID: Akdeniz_Bilisim_Zirvesi_Azure_Oturumum
 IsActive: True
 Section: software

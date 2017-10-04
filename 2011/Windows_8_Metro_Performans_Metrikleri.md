@@ -1,7 +1,7 @@
 ---
 FallbackID: 2711
 Title: Windows 8 Metro Uygulamalarında Performans Metrikleri
-PublishDate: 9/25/2011
+PublishDate: 25/9/2011
 EntryID: Windows_8_Metro_Performans_Metrikleri
 IsActive: True
 Section: software

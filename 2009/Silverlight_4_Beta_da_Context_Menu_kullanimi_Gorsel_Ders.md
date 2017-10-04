@@ -1,7 +1,7 @@
 ---
 FallbackID: 2467
 Title: Silverlight 4 Beta'da Context Menu kullanımı - Görsel Ders
-PublishDate: 12/5/2009
+PublishDate: 5/12/2009
 EntryID: Silverlight_4_Beta_da_Context_Menu_kullanimi_Gorsel_Ders
 IsActive: True
 Section: software

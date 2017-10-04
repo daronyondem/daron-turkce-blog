@@ -1,7 +1,7 @@
 ---
 FallbackID: 2753
 Title: IAAS, PAAS, SAAS ve Windows Azure
-PublishDate: 3/13/2012
+PublishDate: 13/3/2012
 EntryID: IAAS_PAAS_SAAS_ve_Windows_Azure
 IsActive: True
 Section: software

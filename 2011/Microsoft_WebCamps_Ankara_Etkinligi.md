@@ -1,7 +1,7 @@
 ---
 FallbackID: 2542
 Title: Microsoft WebCamps Ankara Etkinliği
-PublishDate: 1/12/2011
+PublishDate: 12/1/2011
 EntryID: Microsoft_WebCamps_Ankara_Etkinligi
 IsActive: True
 Section: software

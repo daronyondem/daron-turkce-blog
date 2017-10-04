@@ -1,7 +1,7 @@
 ---
 FallbackID: 2976
 Title: Izmir Dokuz Eylül Üniversitesi'nde Cloud 101
-PublishDate: 5/8/2015
+PublishDate: 8/5/2015
 EntryID: Izmir_Dokuz_Eylul_Universitesinde_Cloud_101
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2320
 Title: Mobil dünyası Star'ını arıyor!
-PublishDate: 2/6/2009
+PublishDate: 6/2/2009
 EntryID: Mobil_dunyasi_Starini_ariyor
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1971
 Title: 24 saat ücretsiz Silverlight eğitimi!
-PublishDate: 2/27/2008
+PublishDate: 27/2/2008
 EntryID: 24_saat_ucretsiz_Silverlight_egitimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2970
 Title: IAAS Azure Meetup Gerçekleşti
-PublishDate: 4/13/2015
+PublishDate: 13/4/2015
 EntryID: IAAS_Azure_Meetup_Gerceklesti
 IsActive: True
 Section: software

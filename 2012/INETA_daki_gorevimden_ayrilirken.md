@@ -1,7 +1,7 @@
 ---
 FallbackID: 2834
 Title: INETA'daki görevimden ayrılırken...
-PublishDate: 12/25/2012
+PublishDate: 25/12/2012
 EntryID: INETA_daki_gorevimden_ayrilirken
 IsActive: True
 Section: software

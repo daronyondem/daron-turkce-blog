@@ -1,7 +1,7 @@
 ---
 FallbackID: 2152
 Title: Silverlight 2 Beta 2 ve Visual Studio 2008 SP1 sorunları
-PublishDate: 8/12/2008
+PublishDate: 12/8/2008
 EntryID: Silverlight_2_Beta_2_ve_Visual_Studio_2008_SP1_sorunlari
 IsActive: True
 Section: software

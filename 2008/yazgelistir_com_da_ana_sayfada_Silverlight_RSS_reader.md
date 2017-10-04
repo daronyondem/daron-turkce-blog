@@ -1,7 +1,7 @@
 ---
 FallbackID: 2100
 Title: yazgelistir.com'da ana sayfada Silverlight RSS reader ;)
-PublishDate: 6/21/2008
+PublishDate: 21/6/2008
 EntryID: yazgelistir_com_da_ana_sayfada_Silverlight_RSS_reader
 IsActive: True
 Section: software

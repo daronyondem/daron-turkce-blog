@@ -1,7 +1,7 @@
 ---
 FallbackID: 2695
 Title: Silverlight 5 RC'de Media Command desteği.
-PublishDate: 9/12/2011
+PublishDate: 12/9/2011
 EntryID: Silverlight_5_RC_de_Media_Command_destegi
 IsActive: True
 Section: software

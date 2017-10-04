@@ -1,7 +1,7 @@
 ---
 FallbackID: 2180
 Title: NBC Silverlight yerine Flash mı seçmiş? Allah Allah! :)
-PublishDate: 9/8/2008
+PublishDate: 8/9/2008
 EntryID: NBC_Silverlight_yerine_Flash_mi_secmis_Allah_Allah
 IsActive: True
 Section: software

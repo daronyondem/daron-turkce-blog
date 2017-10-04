@@ -1,7 +1,7 @@
 ---
 FallbackID: 2373
 Title: Silverlight Toolkit'ten AutoCompleteBox kullanımı.
-PublishDate: 6/23/2009
+PublishDate: 23/6/2009
 EntryID: Silverlight_Toolkitten_AutoCompleteBox_kullanimi
 IsActive: True
 Section: software

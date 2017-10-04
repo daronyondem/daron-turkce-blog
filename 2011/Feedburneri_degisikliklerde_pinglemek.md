@@ -1,7 +1,7 @@
 ---
 FallbackID: 2685
 Title: Feedburner'ı değişikliklerde pinglemek
-PublishDate: 9/3/2011
+PublishDate: 3/9/2011
 EntryID: Feedburneri_degisikliklerde_pinglemek
 IsActive: True
 Section: software

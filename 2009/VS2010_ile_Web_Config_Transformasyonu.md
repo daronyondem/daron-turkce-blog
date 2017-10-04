@@ -1,7 +1,7 @@
 ---
 FallbackID: 2416
 Title: VS2010 ile Web.Config Transformasyonu
-PublishDate: 9/19/2009
+PublishDate: 19/9/2009
 EntryID: VS2010_ile_Web_Config_Transformasyonu
 IsActive: True
 Section: software

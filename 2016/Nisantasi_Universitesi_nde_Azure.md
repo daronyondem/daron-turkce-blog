@@ -1,7 +1,7 @@
 ---
 FallbackID: 2997
 Title: Nışantaşı Üniversitesi'nde Azure
-PublishDate: 1/15/2016
+PublishDate: 15/1/2016
 EntryID: Nisantasi_Universitesi_nde_Azure
 IsActive: True
 Section: software

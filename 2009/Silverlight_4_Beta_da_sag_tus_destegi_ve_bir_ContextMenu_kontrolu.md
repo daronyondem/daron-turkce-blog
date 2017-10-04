@@ -1,7 +1,7 @@
 ---
 FallbackID: 2454
 Title: Silverlight 4 Beta'da sağ tuş desteği ve bir ContextMenü kontrolü
-PublishDate: 11/22/2009
+PublishDate: 22/11/2009
 EntryID: Silverlight_4_Beta_da_sag_tus_destegi_ve_bir_ContextMenu_kontrolu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1980
 Title: Bilişim kahramanlarının ayak sesleri
-PublishDate: 3/5/2008
+PublishDate: 5/3/2008
 EntryID: Bilisim_kahramanlarinin_ayak_sesleri
 IsActive: True
 Section: software

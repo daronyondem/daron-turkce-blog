@@ -1,7 +1,7 @@
 ---
 FallbackID: 1947
 Title: www.weebr.com Silverlight Showcase'de.
-PublishDate: 2/5/2008
+PublishDate: 5/2/2008
 EntryID: www_weebr_com_Silverlight_Showcase_de
 IsActive: True
 Section: software

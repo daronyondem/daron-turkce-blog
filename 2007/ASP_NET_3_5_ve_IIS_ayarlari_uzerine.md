@@ -1,7 +1,7 @@
 ---
 FallbackID: 1901
 Title: ASP.NET 3.5 ve IIS ayarları üzerine...
-PublishDate: 12/29/2007
+PublishDate: 29/12/2007
 EntryID: ASP_NET_3_5_ve_IIS_ayarlari_uzerine
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1898
 Title: LINQ2XML
-PublishDate: 12/27/2007
+PublishDate: 27/12/2007
 EntryID: LINQ2XML
 IsActive: True
 Section: software

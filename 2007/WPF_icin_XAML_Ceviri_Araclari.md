@@ -1,7 +1,7 @@
 ---
 FallbackID: 1825
 Title: WPF için XAML Çeviri Araçları
-PublishDate: 10/25/2007
+PublishDate: 25/10/2007
 EntryID: WPF_icin_XAML_Ceviri_Araclari
 IsActive: True
 Section: software

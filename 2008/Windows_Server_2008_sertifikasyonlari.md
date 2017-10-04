@@ -1,7 +1,7 @@
 ---
 FallbackID: 1924
 Title: Windows Server 2008 sertifikasyonları.
-PublishDate: 1/19/2008
+PublishDate: 19/1/2008
 EntryID: Windows_Server_2008_sertifikasyonlari
 IsActive: True
 Section: software

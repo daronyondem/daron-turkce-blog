@@ -1,7 +1,7 @@
 ---
 FallbackID: 2468
 Title: Silverlight 4 Beta ile Commanding Yapısı - Görsel Ders
-PublishDate: 12/6/2009
+PublishDate: 6/12/2009
 EntryID: Silverlight_4_Beta_ile_Commanding_Yapisi_Gorsel_Ders
 IsActive: True
 Section: software

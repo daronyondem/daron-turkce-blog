@@ -1,7 +1,7 @@
 ---
 FallbackID: 1794
 Title: Vista Business, Daemon Tools ve DVD Sürücü Üçlemesi
-PublishDate: 9/27/2007
+PublishDate: 27/9/2007
 EntryID: Vista_Business_Daemon_Tools_ve_DVD_Surucu_Uclemesi
 IsActive: True
 Section: software

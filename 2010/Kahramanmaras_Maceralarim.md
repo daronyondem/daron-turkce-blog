@@ -1,7 +1,7 @@
 ---
 FallbackID: 2493
 Title: Kahramanmaraş Maceralarım :)
-PublishDate: 2/27/2010
+PublishDate: 27/2/2010
 EntryID: Kahramanmaras_Maceralarim
 IsActive: True
 Section: software

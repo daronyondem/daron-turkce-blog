@@ -1,7 +1,7 @@
 ---
 FallbackID: 1904
 Title: WPF ve LINQ'nun beraber kullanımı
-PublishDate: 12/31/2007
+PublishDate: 31/12/2007
 EntryID: WPF_ve_LINQ_nun_beraber_kullanimi
 IsActive: True
 Section: software

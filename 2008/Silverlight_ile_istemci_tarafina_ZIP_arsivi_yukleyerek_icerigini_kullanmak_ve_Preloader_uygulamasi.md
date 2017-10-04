@@ -1,7 +1,7 @@
 ---
 FallbackID: 1909
 Title: Silverlight ile istemci tarafına ZIP arşivi yükleyerek içeriğini kullanmak ve Preloader uygulaması
-PublishDate: 1/5/2008
+PublishDate: 5/1/2008
 EntryID: Silverlight_ile_istemci_tarafina_ZIP_arsivi_yukleyerek_icerigini_kullanmak_ve_Preloader_uygulamasi
 IsActive: True
 Section: software

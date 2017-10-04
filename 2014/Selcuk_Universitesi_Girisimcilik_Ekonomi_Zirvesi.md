@@ -1,7 +1,7 @@
 ---
 FallbackID: 2907
 Title: Konya Selçuk Üniversitesi Girişimcilik ve Ekonomi Zirvesi
-PublishDate: 5/9/2014
+PublishDate: 9/5/2014
 EntryID: Selcuk_Universitesi_Girisimcilik_Ekonomi_Zirvesi
 IsActive: True
 Section: software

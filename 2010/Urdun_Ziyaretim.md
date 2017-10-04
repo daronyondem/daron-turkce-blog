@@ -1,7 +1,7 @@
 ---
 FallbackID: 2528
 Title: Ürdün Ziyaretim...
-PublishDate: 5/20/2010
+PublishDate: 20/5/2010
 EntryID: Urdun_Ziyaretim
 IsActive: True
 Section: software

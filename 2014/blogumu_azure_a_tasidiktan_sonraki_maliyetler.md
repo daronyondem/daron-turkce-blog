@@ -1,7 +1,7 @@
 ---
 FallbackID: 2875
 Title: Blogumu Azure'a taşıdıktan sonraki maliyetler.
-PublishDate: 1/31/2014
+PublishDate: 31/1/2014
 EntryID: blogumu_azure_a_tasidiktan_sonraki_maliyetler
 IsActive: True
 Section: software

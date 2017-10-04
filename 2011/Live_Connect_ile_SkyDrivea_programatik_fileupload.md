@@ -1,7 +1,7 @@
 ---
 FallbackID: 2708
 Title: Live Connect ile SkyDrive'a programatik file upload
-PublishDate: 9/24/2011
+PublishDate: 24/9/2011
 EntryID: Live_Connect_ile_SkyDrivea_programatik_fileupload
 IsActive: True
 Section: software

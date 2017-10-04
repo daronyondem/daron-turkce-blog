@@ -1,7 +1,7 @@
 ---
 FallbackID: 2314
 Title: INETA Professional Hit Katılımcıları
-PublishDate: 1/24/2009
+PublishDate: 24/1/2009
 EntryID: INETA_Professional_Hit_Katilimcilari
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1795
 Title: facebook.com'dayım...
-PublishDate: 9/29/2007
+PublishDate: 29/9/2007
 EntryID: facebook-comdayim
 IsActive: True
 Section: software

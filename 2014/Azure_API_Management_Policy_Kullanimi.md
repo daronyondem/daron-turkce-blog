@@ -1,7 +1,7 @@
 ---
 FallbackID: 2921
 Title: Azure API Management Policy Kullanımı
-PublishDate: 10/28/2014
+PublishDate: 28/10/2014
 EntryID: Azure_API_Management_Policy_Kullanimi
 IsActive: True
 Section: software

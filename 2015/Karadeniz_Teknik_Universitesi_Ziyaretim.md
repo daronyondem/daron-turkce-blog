@@ -1,7 +1,7 @@
 ---
 FallbackID: 2995
 Title: Karadeniz Teknik Üniversitesi Ziyaretim
-PublishDate: 12/20/2015
+PublishDate: 20/12/2015
 EntryID: Karadeniz_Teknik_Universitesi_Ziyaretim
 IsActive: True
 Section: software

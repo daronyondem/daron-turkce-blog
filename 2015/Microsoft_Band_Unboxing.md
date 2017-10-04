@@ -1,7 +1,7 @@
 ---
 FallbackID: 2964
 Title: Microsoft Band Unboxing
-PublishDate: 3/27/2015
+PublishDate: 27/3/2015
 EntryID: Microsoft_Band_Unboxing
 IsActive: True
 Section: software

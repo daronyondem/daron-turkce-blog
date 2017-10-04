@@ -1,7 +1,7 @@
 ---
 FallbackID: 3049
 Title: Yaşar Üniversitesi'nde Boş Durma Boşa Çalış
-PublishDate: 2/19/2017
+PublishDate: 19/2/2017
 EntryID: Yasar_Universitesi_Bos_Durma_Bosa_Calis
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1759
 Title: İstemci Taraflı MD5 ile Yüksek Güvenlik
-PublishDate: 8/23/2007
+PublishDate: 23/8/2007
 EntryID: Istemci_Tarafli_MD5_ile_Yuksek_Guvenlik
 IsActive: True
 Section: software

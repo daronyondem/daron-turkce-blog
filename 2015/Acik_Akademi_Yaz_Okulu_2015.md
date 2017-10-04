@@ -1,7 +1,7 @@
 ---
 FallbackID: 2978
 Title: Açık Akademi Yaz Okulu 2015
-PublishDate: 8/17/2015
+PublishDate: 17/8/2015
 EntryID: Acik_Akademi_Yaz_Okulu_2015
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2973
 Title: Trakya Üniversitesi Oturumum
-PublishDate: 4/21/2015
+PublishDate: 21/4/2015
 EntryID: Trakya_Universitesi_Oturumum
 IsActive: True
 Section: software

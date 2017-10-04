@@ -1,7 +1,7 @@
 ---
 FallbackID: 2245
 Title: Silverlight Toolkit'ten WrapPanel'in kullanımı.
-PublishDate: 11/13/2008
+PublishDate: 13/11/2008
 EntryID: Silverlight_Toolkit_ten_WrapPanel_in_kullanimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2501
 Title: Silverlight 4 Beta ve WPF 4 Beta Yenilikleri Seminer Kaydı
-PublishDate: 4/2/2010
+PublishDate: 2/4/2010
 EntryID: Silverlight_4_Beta_ve_WPF_4_Beta_Yenilikleri_Seminer_Kaydi
 IsActive: True
 Section: software

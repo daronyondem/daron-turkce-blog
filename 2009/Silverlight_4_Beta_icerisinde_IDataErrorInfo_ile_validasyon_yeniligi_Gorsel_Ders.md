@@ -1,7 +1,7 @@
 ---
 FallbackID: 2471
 Title: Silverlight 4 Beta içerisinde IDataErrorInfo ile validasyon yeniliği - Görsel Ders
-PublishDate: 12/9/2009
+PublishDate: 9/12/2009
 EntryID: Silverlight_4_Beta_icerisinde_IDataErrorInfo_ile_validasyon_yeniligi_Gorsel_Ders
 IsActive: True
 Section: software

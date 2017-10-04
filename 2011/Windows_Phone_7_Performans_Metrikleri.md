@@ -1,7 +1,7 @@
 ---
 FallbackID: 2712
 Title: Windows Phone 7'de Performans Metrikleri
-PublishDate: 9/26/2011
+PublishDate: 26/9/2011
 EntryID: Windows_Phone_7_Performans_Metrikleri
 IsActive: True
 Section: software

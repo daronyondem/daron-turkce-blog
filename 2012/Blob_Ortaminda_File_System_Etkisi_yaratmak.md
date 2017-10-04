@@ -1,7 +1,7 @@
 ---
 FallbackID: 2776
 Title: Blob Ortamında File System Etkisi yaratmak
-PublishDate: 6/26/2012
+PublishDate: 26/6/2012
 EntryID: Blob_Ortaminda_File_System_Etkisi_yaratmak
 IsActive: True
 Section: software

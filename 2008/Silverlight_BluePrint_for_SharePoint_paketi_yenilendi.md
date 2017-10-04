@@ -1,7 +1,7 @@
 ---
 FallbackID: 2167
 Title: Silverlight BluePrint for SharePoint paketi yenilendi
-PublishDate: 8/28/2008
+PublishDate: 28/8/2008
 EntryID: Silverlight_BluePrint_for_SharePoint_paketi_yenilendi
 IsActive: True
 Section: software

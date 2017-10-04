@@ -1,7 +1,7 @@
 ---
 FallbackID: 2570
 Title: Silverlight Performance Profiling
-PublishDate: 4/26/2011
+PublishDate: 26/4/2011
 EntryID: Silverlight_Performance_Profiling
 IsActive: True
 Section: software

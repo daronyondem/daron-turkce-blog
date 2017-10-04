@@ -1,7 +1,7 @@
 ---
 FallbackID: 1811
 Title: Expression Media ve Expression Encoder Webineri Sonrası...
-PublishDate: 10/13/2007
+PublishDate: 13/10/2007
 EntryID: Expression_Media_ve_Expression_Encoder_Webineri_Sonrasi
 IsActive: True
 Section: software

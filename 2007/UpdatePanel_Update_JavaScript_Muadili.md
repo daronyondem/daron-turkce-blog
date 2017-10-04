@@ -1,7 +1,7 @@
 ---
 FallbackID: 1774
 Title: UpdatePanel.Update JavaScript Muadili
-PublishDate: 9/5/2007
+PublishDate: 5/9/2007
 EntryID: UpdatePanel_Update_JavaScript_Muadili
 IsActive: True
 Section: software

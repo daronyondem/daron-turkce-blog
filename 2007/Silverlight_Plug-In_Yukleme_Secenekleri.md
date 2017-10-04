@@ -1,7 +1,7 @@
 ---
 FallbackID: 1893
 Title: Silverlight Plug-In Yükleme Seçenekleri
-PublishDate: 12/22/2007
+PublishDate: 22/12/2007
 EntryID: Silverlight_Plug-In_Yukleme_Secenekleri
 IsActive: True
 Section: software

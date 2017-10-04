@@ -1,7 +1,7 @@
 ---
 FallbackID: 2346
 Title: Silverlight 3.0 Oturumum sonrasında makaleler de yolda...
-PublishDate: 4/12/2009
+PublishDate: 12/4/2009
 EntryID: Silverlight_3_0_Oturumum_sonrasinda_makaleler_de_yolda
 IsActive: True
 Section: software

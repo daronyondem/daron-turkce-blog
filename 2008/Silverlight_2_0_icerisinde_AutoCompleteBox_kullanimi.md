@@ -1,7 +1,7 @@
 ---
 FallbackID: 2252
 Title: Silverlight 2.0 içerisinde AutoCompleteBox kullanımı.
-PublishDate: 11/20/2008
+PublishDate: 20/11/2008
 EntryID: Silverlight_2_0_icerisinde_AutoCompleteBox_kullanimi
 IsActive: True
 Section: software

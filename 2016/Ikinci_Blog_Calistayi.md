@@ -1,7 +1,7 @@
 ---
 FallbackID: 3048
 Title: 2. Blog Çalıştayı
-PublishDate: 12/29/2016
+PublishDate: 29/12/2016
 EntryID: Ikinci_Blog_Calistayi
 IsActive: True
 Section: software

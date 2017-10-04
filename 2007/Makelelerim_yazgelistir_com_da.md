@@ -1,7 +1,7 @@
 ---
 FallbackID: 1771
 Title: Makelelerim yazgelistir.com'da...
-PublishDate: 9/3/2007
+PublishDate: 3/9/2007
 EntryID: Makelelerim_yazgelistir_com_da
 IsActive: True
 Section: software

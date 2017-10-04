@@ -1,7 +1,7 @@
 ---
 FallbackID: 2075
 Title: Silverlight 2.0 Beta 1 içerisinde ToggleButton kullanımı
-PublishDate: 6/3/2008
+PublishDate: 3/6/2008
 EntryID: Silverlight_2_0_Beta_1_icerisinde_ToggleButton_kullanimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2835
 Title: XOMNI'deki yeni görevim
-PublishDate: 12/30/2012
+PublishDate: 30/12/2012
 EntryID: XOMNI_deki_yeni_gorevim
 IsActive: True
 Section: software

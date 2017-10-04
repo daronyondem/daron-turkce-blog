@@ -1,7 +1,7 @@
 ---
 FallbackID: 2315
 Title: INETA Professional Hit ve Katılım konusunda.
-PublishDate: 1/23/2009
+PublishDate: 23/1/2009
 EntryID: INETA_Professional_Hit_ve_Katilim_konusunda
 IsActive: True
 Section: software

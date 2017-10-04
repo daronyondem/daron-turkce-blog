@@ -1,7 +1,7 @@
 ---
 FallbackID: 1871
 Title: AJAX ve WCF Servisleri 
-PublishDate: 12/1/2007
+PublishDate: 1/12/2007
 EntryID: AJAX-ve-WCF-Servisleri
 IsActive: True
 Section: software

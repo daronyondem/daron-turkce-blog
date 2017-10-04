@@ -1,7 +1,7 @@
 ---
 FallbackID: 2452
 Title: Silverlight 4 Beta ile Clipboard Erişimi
-PublishDate: 11/20/2009
+PublishDate: 20/11/2009
 EntryID: Silverlight_4_Beta_ile_Clipboard_Erisimi
 IsActive: True
 Section: software

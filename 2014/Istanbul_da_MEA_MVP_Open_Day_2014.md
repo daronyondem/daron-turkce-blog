@@ -1,7 +1,7 @@
 ---
 FallbackID: 2895
 Title: İstanbul'da MEA MVP Open Day 2014
-PublishDate: 3/23/2014
+PublishDate: 23/3/2014
 EntryID: Istanbul_da_MEA_MVP_Open_Day_2014
 IsActive: True
 Section: software

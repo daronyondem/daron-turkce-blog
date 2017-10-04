@@ -1,7 +1,7 @@
 ---
 FallbackID: 2481
 Title: Dertli Kerem'den 2009 yılı incileri...
-PublishDate: 12/30/2009
+PublishDate: 30/12/2009
 EntryID: Dertli_Kerem_den_2009_yili_incileri
 IsActive: True
 Section: software

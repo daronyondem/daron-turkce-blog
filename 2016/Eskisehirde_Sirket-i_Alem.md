@@ -1,7 +1,7 @@
 ---
 FallbackID: 3004
 Title: Eskişehir'de Şirket-i Alem
-PublishDate: 3/14/2016
+PublishDate: 14/3/2016
 EntryID: Eskisehirde_Sirket-i_Alem
 IsActive: True
 Section: software

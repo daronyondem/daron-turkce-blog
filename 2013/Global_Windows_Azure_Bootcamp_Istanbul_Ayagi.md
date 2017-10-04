@@ -1,7 +1,7 @@
 ---
 FallbackID: 2841
 Title: Global Windows Azure Bootcamp İstanbul Ayağı
-PublishDate: 4/18/2013
+PublishDate: 18/4/2013
 EntryID: Global_Windows_Azure_Bootcamp_Istanbul_Ayagi
 IsActive: True
 Section: software

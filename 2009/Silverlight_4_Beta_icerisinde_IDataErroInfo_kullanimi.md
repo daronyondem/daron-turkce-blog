@@ -1,7 +1,7 @@
 ---
 FallbackID: 2457
 Title: Silverlight 4 Beta içerisinde IDataErroInfo kullanımı.
-PublishDate: 11/25/2009
+PublishDate: 25/11/2009
 EntryID: Silverlight_4_Beta_icerisinde_IDataErroInfo_kullanimi
 IsActive: True
 Section: software

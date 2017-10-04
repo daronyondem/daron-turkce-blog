@@ -1,7 +1,7 @@
 ---
 FallbackID: 2002
 Title: yazgelistir.com'daki yeni makalelerim.
-PublishDate: 3/26/2008
+PublishDate: 26/3/2008
 EntryID: yazgelistir_com_daki_yeni_makalelerim
 IsActive: True
 Section: software

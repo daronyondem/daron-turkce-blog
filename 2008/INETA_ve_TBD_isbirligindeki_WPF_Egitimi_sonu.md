@@ -1,7 +1,7 @@
 ---
 FallbackID: 2014
 Title: INETA ve TBD işbirliğindeki WPF Eğitimi sonu.
-PublishDate: 4/7/2008
+PublishDate: 7/4/2008
 EntryID: INETA_ve_TBD_isbirligindeki_WPF_Egitimi_sonu
 IsActive: True
 Section: software

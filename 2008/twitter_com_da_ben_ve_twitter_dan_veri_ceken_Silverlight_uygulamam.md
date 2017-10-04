@@ -1,7 +1,7 @@
 ---
 FallbackID: 2058
 Title: twitter.com'da ben ve twitter'dan veri çeken Silverlight uygulamam
-PublishDate: 5/17/2008
+PublishDate: 17/5/2008
 EntryID: twitter_com_da_ben_ve_twitter_dan_veri_ceken_Silverlight_uygulamam
 IsActive: True
 Section: software

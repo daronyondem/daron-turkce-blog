@@ -1,7 +1,7 @@
 ---
 FallbackID: 2966
 Title: Çanakkale 18 Mart Üniversitesi Cloud101 Oturumum
-PublishDate: 3/30/2015
+PublishDate: 30/3/2015
 EntryID: Canakkale_18_Mart_Universitesi_Cloud101_Oturumum
 IsActive: True
 Section: software

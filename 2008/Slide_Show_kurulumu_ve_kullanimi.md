@@ -1,7 +1,7 @@
 ---
 FallbackID: 1964
 Title: Slide.Show kurulumu ve kullanımı
-PublishDate: 2/20/2008
+PublishDate: 20/2/2008
 EntryID: Slide_Show_kurulumu_ve_kullanimi
 IsActive: True
 Section: software

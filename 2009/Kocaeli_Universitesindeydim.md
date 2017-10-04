@@ -1,7 +1,7 @@
 ---
 FallbackID: 2326
 Title: Kocaeli Üniversitesi'ndeydim...
-PublishDate: 2/21/2009
+PublishDate: 21/2/2009
 EntryID: Kocaeli_Universitesindeydim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2965
 Title: 2015 MVP, RD Programı ve Gelişmeler
-PublishDate: 4/1/2015
+PublishDate: 1/4/2015
 EntryID: 2015_MVP_RD_Programi_ve_Gelismeler
 IsActive: True
 Section: software

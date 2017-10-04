@@ -1,7 +1,7 @@
 ---
 FallbackID: 2553
 Title: TechEd ME 2011 sonrasında...
-PublishDate: 3/11/2011
+PublishDate: 11/3/2011
 EntryID: TechEd_ME_2011_sonrasinda
 IsActive: True
 Section: software

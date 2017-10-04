@@ -1,7 +1,7 @@
 ---
 FallbackID: 2780
 Title: BlockBlob ve PageBlob Detayları
-PublishDate: 7/24/2012
+PublishDate: 24/7/2012
 EntryID: BlockBlob_ve_PageBlob_Detaylari
 IsActive: True
 Section: software

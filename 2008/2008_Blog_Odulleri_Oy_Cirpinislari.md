@@ -1,7 +1,7 @@
 ---
 FallbackID: 2031
 Title: 2008 Blog Ödülleri "Oy Çırpınışları"
-PublishDate: 4/22/2008
+PublishDate: 22/4/2008
 EntryID: 2008_Blog_Odulleri_Oy_Cirpinislari
 IsActive: True
 Section: software

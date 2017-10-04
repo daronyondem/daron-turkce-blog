@@ -1,7 +1,7 @@
 ---
 FallbackID: 2555
 Title: 2011 MVP Ödülü: Silverlight 
-PublishDate: 4/2/2011
+PublishDate: 2/4/2011
 EntryID: 2011_MVP_Odulu_Silverlight
 IsActive: True
 Section: software

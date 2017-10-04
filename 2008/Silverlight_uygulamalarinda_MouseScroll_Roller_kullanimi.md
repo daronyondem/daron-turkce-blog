@@ -1,7 +1,7 @@
 ---
 FallbackID: 1967
 Title: Silverlight uygulamalarında MouseScroll (Roller) kullanımı.
-PublishDate: 2/24/2008
+PublishDate: 24/2/2008
 EntryID: Silverlight_uygulamalarinda_MouseScroll_Roller_kullanimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2463
 Title: Silverlight 4 Beta'da Combobox Yenilikleri ve DataBinding değişiklikleri - Görsel Ders
-PublishDate: 12/2/2009
+PublishDate: 2/12/2009
 EntryID: Silverlight_4_Beta_da_Combobox_Yenilikleri_ve_DataBinding_degisiklikleri_Gorsel_Ders
 IsActive: True
 Section: software

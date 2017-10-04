@@ -1,7 +1,7 @@
 ---
 FallbackID: 2512
 Title: Ankara Üniversitesi Seminerim ve bazı detaylar :)
-PublishDate: 4/21/2010
+PublishDate: 21/4/2010
 EntryID: Ankara_Universitesi_Seminerim_ve_bazi_detaylar
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2575
 Title: Silverlight UI Ninja Video Kaydı (FullHD)
-PublishDate: 5/2/2011
+PublishDate: 2/5/2011
 EntryID: Silverlight_UI_Ninja_Video_Kaydi_FullHD
 IsActive: True
 Section: software

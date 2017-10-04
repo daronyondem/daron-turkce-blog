@@ -1,7 +1,7 @@
 ---
 FallbackID: 1979
 Title: Yeni Görevim: INETA Türkiye Başkanlığı
-PublishDate: 3/5/2008
+PublishDate: 5/3/2008
 EntryID: Yeni_Gorevim_INETA_Turkiye_Baskanligi
 IsActive: True
 Section: software

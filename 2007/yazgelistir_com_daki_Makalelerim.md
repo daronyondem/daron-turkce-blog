@@ -1,7 +1,7 @@
 ---
 FallbackID: 1801
 Title: yazgelistir.com'daki Makalelerim...
-PublishDate: 10/5/2007
+PublishDate: 5/10/2007
 EntryID: yazgelistir_com_daki_Makalelerim
 IsActive: True
 Section: software

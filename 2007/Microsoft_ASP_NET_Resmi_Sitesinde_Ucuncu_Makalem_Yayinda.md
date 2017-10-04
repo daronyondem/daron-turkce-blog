@@ -1,7 +1,7 @@
 ---
 FallbackID: 1738
 Title: Microsoft ASP.NET Resmi Sitesi'nde Üçüncü Makalem Yayında
-PublishDate: 5/2/2007
+PublishDate: 2/5/2007
 EntryID: Microsoft_ASP_NET_Resmi_Sitesinde_Ucuncu_Makalem_Yayinda
 IsActive: True
 Section: software

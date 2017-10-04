@@ -1,7 +1,7 @@
 ---
 FallbackID: 1750
 Title: ASP.NET AJAX kitabım hepsiburada.com'da 1. sırada.
-PublishDate: 7/25/2007
+PublishDate: 25/7/2007
 EntryID: ASPNET_AJAX_kitabim_hepsiburada_com_da_Birinci_sirada
 IsActive: True
 Section: software

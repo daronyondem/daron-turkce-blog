@@ -1,7 +1,7 @@
 ---
 FallbackID: 2105
 Title: Microsoft Dubai Silverlight 2.0 Eğitimi
-PublishDate: 6/27/2008
+PublishDate: 27/6/2008
 EntryID: Microsoft_Dubai_Silverlight_2_0_Egitimi
 IsActive: True
 Section: software

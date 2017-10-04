@@ -1,7 +1,7 @@
 ---
 FallbackID: 2901
 Title: WebSite ile Web Application Arasındaki Fark Nedir?
-PublishDate: 4/13/2014
+PublishDate: 13/4/2014
 EntryID: WebSite_ile_Web_Application_Arasindaki_Fark_Nedir
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2378
 Title: Silverlight 3.0 içerisinde görsel veri validasyonu.
-PublishDate: 7/4/2009
+PublishDate: 4/7/2009
 EntryID: Silverlight_3_0_icerisinde_gorsel_veri_validasyonu
 IsActive: True
 Section: software

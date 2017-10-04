@@ -1,7 +1,7 @@
 ---
 FallbackID: 2511
 Title: Karadeniz Teknik Üniversitesi Visual Studio 2010 Lansmanı
-PublishDate: 4/19/2010
+PublishDate: 19/4/2010
 EntryID: Karadeniz_Teknik_Universitesi_Visual_Studio_2010_Lansmani
 IsActive: True
 Section: software

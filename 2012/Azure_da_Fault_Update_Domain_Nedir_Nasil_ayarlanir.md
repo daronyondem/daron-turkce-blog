@@ -1,7 +1,7 @@
 ---
 FallbackID: 2768
 Title: Azure'da Fault Domain ve Update Domain Nedir? Nasıl ayarlanır?
-PublishDate: 4/17/2012
+PublishDate: 17/4/2012
 EntryID: Azure_da_Fault_Update_Domain_Nedir_Nasil_ayarlanir
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1817
 Title: Visual Studio 2008 ve Language Integrated Query
-PublishDate: 10/20/2007
+PublishDate: 20/10/2007
 EntryID: Visual_Studio_2008_ve_Language_Integrated_Query
 IsActive: True
 Section: software

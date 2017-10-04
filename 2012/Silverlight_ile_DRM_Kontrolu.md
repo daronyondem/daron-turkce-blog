@@ -1,7 +1,7 @@
 ---
 FallbackID: 2750
 Title: Silverlight ile DRM Kontrolü
-PublishDate: 1/15/2012
+PublishDate: 15/1/2012
 EntryID: Silverlight_ile_DRM_Kontrolu
 IsActive: True
 Section: software

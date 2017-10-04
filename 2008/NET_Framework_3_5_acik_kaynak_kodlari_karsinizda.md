@@ -1,7 +1,7 @@
 ---
 FallbackID: 1922
 Title: .NET Framework 3.5 açık kaynak kodları karşınızda!
-PublishDate: 1/18/2008
+PublishDate: 18/1/2008
 EntryID: NET_Framework_3_5_acik_kaynak_kodlari_karsinizda
 IsActive: True
 Section: software

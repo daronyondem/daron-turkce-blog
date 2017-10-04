@@ -1,7 +1,7 @@
 ---
 FallbackID: 2955
 Title: Cross Challenge 11K
-PublishDate: 2/23/2015
+PublishDate: 23/2/2015
 EntryID: Cross_Challenge_11K
 IsActive: True
 Section: fitness

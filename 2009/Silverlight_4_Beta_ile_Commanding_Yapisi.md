@@ -1,7 +1,7 @@
 ---
 FallbackID: 2455
 Title: Silverlight 4 Beta ile Commanding Yapısı
-PublishDate: 11/23/2009
+PublishDate: 23/11/2009
 EntryID: Silverlight_4_Beta_ile_Commanding_Yapisi
 IsActive: True
 Section: software

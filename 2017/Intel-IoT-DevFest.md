@@ -1,6 +1,6 @@
 ---
 Title: Intel IoT DevFest'de XOGO'daki deneyimlerimizi paylaştım.
-PublishDate: 6/3/2017
+PublishDate: 3/6/2017
 IsActive: True
 Section: software
 MinutesSpent: 9

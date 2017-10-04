@@ -1,7 +1,7 @@
 ---
 FallbackID: 1865
 Title: Silverlight 1.1 Tools Alpha ve Visual Studio 2008
-PublishDate: 11/29/2007
+PublishDate: 29/11/2007
 EntryID: Silverlight_1_1_Tools_Alpha_ve_Visual_Studio_2008
 IsActive: True
 Section: software

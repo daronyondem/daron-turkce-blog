@@ -1,7 +1,7 @@
 ---
 FallbackID: 2133
 Title: Bilişim sektöründe güvenlik üzerine bir röportaj
-PublishDate: 7/25/2008
+PublishDate: 25/7/2008
 EntryID: Bilisim_sektorunde_guvenlik_uzerine_bir_roportaj
 IsActive: True
 Section: software

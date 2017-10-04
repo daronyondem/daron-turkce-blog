@@ -1,7 +1,7 @@
 ---
 FallbackID: 3039
 Title: Azure Functions ve WebJobs Karşılaştırması
-PublishDate: 12/4/2016
+PublishDate: 4/12/2016
 EntryID: Azure_Functions_ve_WebJobs_Karsilastirmasi
 IsActive: True
 Section: software

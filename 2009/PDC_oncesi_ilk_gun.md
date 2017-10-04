@@ -1,7 +1,7 @@
 ---
 FallbackID: 2448
 Title: PDC öncesi ilk gün!
-PublishDate: 11/17/2009
+PublishDate: 17/11/2009
 EntryID: PDC_oncesi_ilk_gun
 IsActive: True
 Section: software

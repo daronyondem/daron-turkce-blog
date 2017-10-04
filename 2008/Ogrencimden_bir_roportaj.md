@@ -1,7 +1,7 @@
 ---
 FallbackID: 2015
 Title: Öğrencimden bir röportaj...
-PublishDate: 4/8/2008
+PublishDate: 8/4/2008
 EntryID: Ogrencimden_bir_roportaj
 IsActive: True
 Section: software

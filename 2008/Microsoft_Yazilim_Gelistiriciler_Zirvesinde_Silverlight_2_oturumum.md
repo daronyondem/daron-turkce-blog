@@ -1,7 +1,7 @@
 ---
 FallbackID: 2265
 Title: Microsoft Yazılım Geliştiriciler Zirvesi'nde Silverlight 2 oturumum.
-PublishDate: 12/4/2008
+PublishDate: 4/12/2008
 EntryID: Microsoft_Yazilim_Gelistiriciler_Zirvesinde_Silverlight_2_oturumum
 IsActive: True
 Section: software

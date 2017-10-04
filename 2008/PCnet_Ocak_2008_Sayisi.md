@@ -1,7 +1,7 @@
 ---
 FallbackID: 1907
 Title: PCnet Ocak 2008 Sayısı
-PublishDate: 1/4/2008
+PublishDate: 4/1/2008
 EntryID: PCnet_Ocak_2008_Sayisi
 IsActive: True
 Section: software

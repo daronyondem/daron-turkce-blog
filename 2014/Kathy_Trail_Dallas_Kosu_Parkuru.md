@@ -1,7 +1,7 @@
 ---
 FallbackID: 2913
 Title: Kathy Trail Dallas Koşu Parkuru
-PublishDate: 8/1/2014
+PublishDate: 1/8/2014
 EntryID: Kathy_Trail_Dallas_Kosu_Parkuru
 IsActive: True
 Section: fitness

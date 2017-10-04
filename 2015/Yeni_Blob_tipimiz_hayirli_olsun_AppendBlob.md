@@ -1,7 +1,7 @@
 ---
 FallbackID: 2979
 Title: Yeni Blob tipimiz hayırlı olsun: AppendBlob
-PublishDate: 9/2/2015
+PublishDate: 2/9/2015
 EntryID: Yeni_Blob_tipimiz_hayirli_olsun_AppendBlob
 IsActive: True
 Section: software

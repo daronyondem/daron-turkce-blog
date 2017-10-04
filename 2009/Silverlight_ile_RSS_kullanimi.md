@@ -1,7 +1,7 @@
 ---
 FallbackID: 2429
 Title: Silverlight ile RSS kullanımı
-PublishDate: 10/23/2009
+PublishDate: 23/10/2009
 EntryID: Silverlight_ile_RSS_kullanimi
 IsActive: True
 Section: software

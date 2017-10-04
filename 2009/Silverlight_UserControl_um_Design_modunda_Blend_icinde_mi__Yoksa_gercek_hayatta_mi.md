@@ -1,7 +1,7 @@
 ---
 FallbackID: 2336
 Title: Silverlight UserControl'üm Design modunda Blend içinde mi? Yoksa gerçek hayatta mı?
-PublishDate: 3/16/2009
+PublishDate: 16/3/2009
 EntryID: Silverlight_UserControl_um_Design_modunda_Blend_icinde_mi__Yoksa_gercek_hayatta_mi
 IsActive: True
 Section: software

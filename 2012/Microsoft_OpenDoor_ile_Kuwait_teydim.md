@@ -1,7 +1,7 @@
-﻿---
+---
 FallbackID: 2798
 Title: Microsoft OpenDoor ile Kuwait'teydim.
-PublishDate: 2/17/2012
+PublishDate: 17/2/2012
 EntryID: Microsoft_OpenDoor_ile_Kuwait_teydim
 IsActive: True
 Section: software

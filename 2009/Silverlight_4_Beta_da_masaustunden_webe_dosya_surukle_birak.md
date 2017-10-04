@@ -1,7 +1,7 @@
 ---
 FallbackID: 2460
 Title: Silverlight 4 Beta'da masaüstünden webe dosya sürükle & bırak!
-PublishDate: 11/28/2009
+PublishDate: 28/11/2009
 EntryID: Silverlight_4_Beta_da_masaustunden_webe_dosya_surukle_birak
 IsActive: True
 Section: software

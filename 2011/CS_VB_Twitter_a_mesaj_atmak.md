@@ -1,7 +1,7 @@
 ---
 FallbackID: 2736
 Title: .NET'ten Twitter'a mesaj atmak
-PublishDate: 12/1/2011
+PublishDate: 1/12/2011
 EntryID: CS_VB_Twitter_a_mesaj_atmak
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1731
 Title: CSS Optimizasyonu
-PublishDate: 4/23/2007
+PublishDate: 23/4/2007
 EntryID: CSS_Optimizasyonu
 IsActive: True
 Section: software

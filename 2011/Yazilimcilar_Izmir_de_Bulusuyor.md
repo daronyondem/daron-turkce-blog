@@ -1,7 +1,7 @@
 ---
 FallbackID: 2739
 Title: Yazılımcılar İzmir'de Buluşuyor! Etkinliği Kaçırmayın!
-PublishDate: 12/2/2011
+PublishDate: 2/12/2011
 EntryID: Yazilimcilar_Izmir_de_Bulusuyor
 IsActive: True
 Section: software

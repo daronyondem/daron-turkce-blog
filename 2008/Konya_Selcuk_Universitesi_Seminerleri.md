@@ -1,7 +1,7 @@
 ---
 FallbackID: 2055
 Title: Konya, Selçuk Üniversitesi Seminerleri
-PublishDate: 5/14/2008
+PublishDate: 14/5/2008
 EntryID: Konya_Selcuk_Universitesi_Seminerleri
 IsActive: True
 Section: software

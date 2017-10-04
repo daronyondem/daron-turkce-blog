@@ -1,7 +1,7 @@
 ---
 FallbackID: 2909
 Title: Dell Venue 8 Pro Deneyimlerim
-PublishDate: 7/22/2014
+PublishDate: 22/7/2014
 EntryID: Dell_Venue_8_Pro_Deneyimlerim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2054
 Title: Çanakkale 18 Mart Üniversitesi WPF ve Silverlight Semineri
-PublishDate: 5/12/2008
+PublishDate: 12/5/2008
 EntryID: Canakkale_18_Mart_Universitesi_WPF_ve_Silverlight_Semineri
 IsActive: True
 Section: software

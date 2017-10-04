@@ -1,7 +1,7 @@
 ---
 FallbackID: 2174
 Title: INETA Summer Hit 2008 Silverlight 2.0 semineri video kaydı.
-PublishDate: 9/3/2008
+PublishDate: 3/9/2008
 EntryID: INETA_Summer_Hit_2008_Silverlight_2_0_semineri_video_kaydi
 IsActive: True
 Section: software

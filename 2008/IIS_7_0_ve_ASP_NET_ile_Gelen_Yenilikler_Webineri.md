@@ -1,7 +1,7 @@
 ---
 FallbackID: 1917
 Title: IIS 7.0 ve ASP.NET ile Gelen Yenilikler Webineri
-PublishDate: 1/12/2008
+PublishDate: 12/1/2008
 EntryID: IIS_7_0_ve_ASP_NET_ile_Gelen_Yenilikler_Webineri
 IsActive: True
 Section: software

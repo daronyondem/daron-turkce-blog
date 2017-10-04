@@ -1,6 +1,6 @@
-﻿---
+---
 Title: 4 RD Fazla Mesai'de
-PublishDate: 6/21/2017
+PublishDate: 21/6/2017
 IsActive: True
 Section: software
 MinutesSpent: 10

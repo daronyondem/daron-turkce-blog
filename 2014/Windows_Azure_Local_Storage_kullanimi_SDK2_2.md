@@ -1,7 +1,7 @@
 ---
 FallbackID: 2892
 Title: Windows Azure'da Local Storage kullanımı (SDK2.2)
-PublishDate: 3/10/2014
+PublishDate: 10/3/2014
 EntryID: Windows_Azure_Local_Storage_kullanimi_SDK2_2
 IsActive: True
 Section: software

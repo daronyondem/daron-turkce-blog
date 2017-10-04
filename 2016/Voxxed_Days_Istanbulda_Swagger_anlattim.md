@@ -1,7 +1,7 @@
 ---
 FallbackID: 3020
 Title: Voxxed Days Istanbul'da Swagger anlattım.
-PublishDate: 5/8/2016
+PublishDate: 8/5/2016
 EntryID: Voxxed_Days_Istanbulda_Swagger_anlattim
 IsActive: True
 Section: software

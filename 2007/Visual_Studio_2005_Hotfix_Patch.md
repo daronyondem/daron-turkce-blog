@@ -1,7 +1,7 @@
 ---
 FallbackID: 1758
 Title: Visual Studio 2005 Hotfix Patch
-PublishDate: 8/22/2007
+PublishDate: 22/8/2007
 EntryID: Visual_Studio_2005_Hotfix_Patch
 IsActive: True
 Section: software

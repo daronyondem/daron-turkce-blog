@@ -1,7 +1,7 @@
 ---
 FallbackID: 2309
 Title: Quicker for Silverlight
-PublishDate: 1/17/2009
+PublishDate: 17/1/2009
 EntryID: Quicker_for_Silverlight
 IsActive: True
 Section: software

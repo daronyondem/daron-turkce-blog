@@ -1,7 +1,7 @@
 ---
 FallbackID: 2032
 Title: Silverlight 2.0 Beta 1 ile Klasik ASMX Web Servisi kullanımı
-PublishDate: 4/23/2008
+PublishDate: 23/4/2008
 EntryID: Silverlight_2_0_Beta_1_ile_Klasik_ASMX_Web_Servisi_kullanimi
 IsActive: True
 Section: software

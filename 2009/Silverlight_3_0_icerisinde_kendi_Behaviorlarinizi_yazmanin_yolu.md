@@ -1,7 +1,7 @@
 ---
 FallbackID: 2394
 Title: Silverlight 3.0 içerisinde kendi Behavior'larınızı yazmanın yolu.
-PublishDate: 8/22/2009
+PublishDate: 22/8/2009
 EntryID: Silverlight_3_0_icerisinde_kendi_Behaviorlarinizi_yazmanin_yolu
 IsActive: True
 Section: software

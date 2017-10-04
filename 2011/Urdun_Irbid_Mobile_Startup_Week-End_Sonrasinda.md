@@ -1,7 +1,7 @@
 ---
 FallbackID: 2567
 Title: Ürdün, Irbid, Mobile Startup Week-End Sonrasında...
-PublishDate: 4/24/2011
+PublishDate: 24/4/2011
 EntryID: Urdun_Irbid_Mobile_Startup_Week-End_Sonrasinda
 IsActive: True
 Section: software

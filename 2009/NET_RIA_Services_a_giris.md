@@ -1,7 +1,7 @@
 ---
 FallbackID: 2421
 Title: .NET RIA Services'a giriş.
-PublishDate: 10/9/2009
+PublishDate: 9/10/2009
 EntryID: NET_RIA_Services_a_giris
 IsActive: True
 Section: software

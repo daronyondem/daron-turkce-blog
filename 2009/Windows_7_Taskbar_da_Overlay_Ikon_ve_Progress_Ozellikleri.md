@@ -1,7 +1,7 @@
 ---
 FallbackID: 2384
 Title: Windows 7 Taskbar'da Overlay İkon ve Progress Özellikleri
-PublishDate: 8/10/2009
+PublishDate: 10/8/2009
 EntryID: Windows_7_Taskbar_da_Overlay_Ikon_ve_Progress_Ozellikleri
 IsActive: True
 Section: software

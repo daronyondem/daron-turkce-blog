@@ -1,7 +1,7 @@
 ---
 FallbackID: 2507
 Title: Silverlight 4'te desktop (Out-Of-Browser) uygulamalarının pencere tasarımını değiştirmek
-PublishDate: 4/7/2010
+PublishDate: 7/4/2010
 EntryID: Silverlight_4te_desktop_Out-Of-Browser_uygulamalarinin_pencere_tasarimini_degistirmek
 IsActive: True
 Section: software

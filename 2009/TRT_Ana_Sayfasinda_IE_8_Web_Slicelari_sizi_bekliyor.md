@@ -1,7 +1,7 @@
 ---
 FallbackID: 2319
 Title: TRT Ana Sayfasında IE 8 Web Slice'ları sizi bekliyor!
-PublishDate: 2/5/2009
+PublishDate: 5/2/2009
 EntryID: TRT_Ana_Sayfasinda_IE_8_Web_Slicelari_sizi_bekliyor
 IsActive: True
 Section: software

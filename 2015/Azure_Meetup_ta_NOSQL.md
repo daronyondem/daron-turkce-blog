@@ -1,7 +1,7 @@
 ---
 FallbackID: 2957
 Title: Azure Meetup'ta NOSQL
-PublishDate: 3/7/2015
+PublishDate: 7/3/2015
 EntryID: Azure_Meetup_ta_NOSQL
 IsActive: True
 Section: software

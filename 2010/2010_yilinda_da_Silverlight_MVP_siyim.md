@@ -1,7 +1,7 @@
 ---
 FallbackID: 2502
 Title: 2010 yılında da Silverlight MVP'siyim.
-PublishDate: 4/1/2010
+PublishDate: 1/4/2010
 EntryID: 2010_yilinda_da_Silverlight_MVP_siyim
 IsActive: True
 Section: software

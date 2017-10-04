@@ -1,7 +1,7 @@
 ---
 FallbackID: 2194
 Title: Vista UAC ve Winforms uygulamaları ilişkisinde yazılımcının yeri :)
-PublishDate: 9/23/2008
+PublishDate: 23/9/2008
 EntryID: Vista_UAC_ve_Winforms_uygulamalari_iliskisinde_yazilimcinin_yeri
 IsActive: True
 Section: software

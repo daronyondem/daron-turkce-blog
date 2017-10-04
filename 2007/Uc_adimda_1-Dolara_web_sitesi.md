@@ -1,7 +1,7 @@
 ---
 FallbackID: 1807
 Title: Üç adımda 1$'a web sitesi...
-PublishDate: 10/9/2007
+PublishDate: 9/10/2007
 EntryID: Uc_adimda_1-Dolara_web_sitesi
 IsActive: True
 Section: software

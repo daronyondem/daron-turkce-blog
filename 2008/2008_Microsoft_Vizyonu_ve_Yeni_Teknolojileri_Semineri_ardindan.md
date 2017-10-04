@@ -1,7 +1,7 @@
 ---
 FallbackID: 1918
 Title: 2008 Microsoft Vizyonu ve Yeni Teknolojileri Semineri ardından.
-PublishDate: 1/13/2008
+PublishDate: 13/1/2008
 EntryID: 2008_Microsoft_Vizyonu_ve_Yeni_Teknolojileri_Semineri_ardindan
 IsActive: True
 Section: software

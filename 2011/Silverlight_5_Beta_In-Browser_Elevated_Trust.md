@@ -1,7 +1,7 @@
 ---
 FallbackID: 2568
 Title: Silverlight 5 Beta In-Browser Elevated Trust
-PublishDate: 4/25/2011
+PublishDate: 25/4/2011
 EntryID: Silverlight_5_Beta_In-Browser_Elevated_Trust
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2482
 Title: 2010'da neler olacak?
-PublishDate: 1/3/2010
+PublishDate: 3/1/2010
 EntryID: 2010_da_neler_olacak
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2240
 Title: Colorful Expression ile birbiri ile uyumlu renkleri yakalamak.
-PublishDate: 11/8/2008
+PublishDate: 8/11/2008
 EntryID: Colorful_Expression_ile_birbiri_ile_uyumlu_renkleri_yakalamak
 IsActive: True
 Section: software

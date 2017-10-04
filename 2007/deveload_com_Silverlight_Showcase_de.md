@@ -1,7 +1,7 @@
 ---
 FallbackID: 1882
 Title: deveload.com Silverlight Showcase'de!
-PublishDate: 12/11/2007
+PublishDate: 11/12/2007
 EntryID: deveload_com_Silverlight_Showcase_de
 IsActive: True
 Section: software

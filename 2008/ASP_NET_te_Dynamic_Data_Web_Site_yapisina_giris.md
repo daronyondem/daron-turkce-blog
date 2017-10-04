@@ -1,7 +1,7 @@
 ---
 FallbackID: 2213
 Title: ASP.NET'te Dynamic Data Web Site yapısına giriş.
-PublishDate: 10/12/2008
+PublishDate: 12/10/2008
 EntryID: ASP_NET_te_Dynamic_Data_Web_Site_yapisina_giris
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2504
 Title: Expression Studio Seminer Video Kaydı
-PublishDate: 4/3/2010
+PublishDate: 3/4/2010
 EntryID: Expression_Studio_Seminer_Video_Kaydi
 IsActive: True
 Section: software

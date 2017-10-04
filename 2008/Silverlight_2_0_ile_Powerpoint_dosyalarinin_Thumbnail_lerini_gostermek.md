@@ -1,7 +1,7 @@
 ---
 FallbackID: 2121
 Title: Silverlight 2.0 ile Powerpoint dosyalarının Thumbnail'lerini göstermek.
-PublishDate: 7/13/2008
+PublishDate: 13/7/2008
 EntryID: Silverlight_2_0_ile_Powerpoint_dosyalarinin_Thumbnail_lerini_gostermek
 IsActive: True
 Section: software

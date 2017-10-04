@@ -1,7 +1,7 @@
 ---
 FallbackID: 2355
 Title: WPF ve MultiTouch Development Seminer kaydı Online!
-PublishDate: 4/20/2009
+PublishDate: 20/4/2009
 EntryID: WPF_ve_MultiTouch_Development_Seminer_kaydi_Online
 IsActive: True
 Section: software

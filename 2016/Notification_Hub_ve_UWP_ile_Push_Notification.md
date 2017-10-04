@@ -1,7 +1,7 @@
 ---
 FallbackID: 3046
 Title: Azure Notification Hub ve UWP ile Push Notification Kullanımı
-PublishDate: 12/11/2016
+PublishDate: 11/12/2016
 EntryID: Notification_Hub_ve_UWP_ile_Push_Notification
 IsActive: True
 Section: software

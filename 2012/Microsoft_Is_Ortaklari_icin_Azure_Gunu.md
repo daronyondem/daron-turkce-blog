@@ -1,7 +1,7 @@
 ---
 FallbackID: 2808
 Title: Microsoft İş Ortakları'na özel Azure Günü
-PublishDate: 4/8/2012
+PublishDate: 8/4/2012
 EntryID: Microsoft_Is_Ortaklari_icin_Azure_Gunu
 IsActive: True
 Section: software

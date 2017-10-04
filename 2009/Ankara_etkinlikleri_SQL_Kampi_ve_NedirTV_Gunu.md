@@ -1,7 +1,7 @@
 ---
 FallbackID: 2361
 Title: Ankara etkinlikleri; SQL Kampı ve NedirTV Günü
-PublishDate: 4/30/2009
+PublishDate: 30/4/2009
 EntryID: Ankara_etkinlikleri_SQL_Kampi_ve_NedirTV_Gunu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1826
 Title: Türkiye'nin ilk Silverlight ve Expression Studio Eğitimi
-PublishDate: 10/26/2007
+PublishDate: 26/10/2007
 EntryID: Turkiyenin_ilk_Silverlight_ve_Expression_Studio_Egitimi
 IsActive: True
 Section: software

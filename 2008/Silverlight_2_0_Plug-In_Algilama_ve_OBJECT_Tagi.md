@@ -1,7 +1,7 @@
 ---
 FallbackID: 2119
 Title: Silverlight 2.0 Plug-In Algılama ve OBJECT Tagı
-PublishDate: 7/11/2008
+PublishDate: 11/7/2008
 EntryID: Silverlight_2_0_Plug-In_Algilama_ve_OBJECT_Tagi
 IsActive: True
 Section: software

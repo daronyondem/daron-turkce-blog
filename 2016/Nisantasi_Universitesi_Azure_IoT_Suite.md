@@ -1,7 +1,7 @@
 ---
 FallbackID: 3002
 Title: Nışantaşı Üniversitesi'nde Azure IoT Suite
-PublishDate: 3/11/2016
+PublishDate: 11/3/2016
 EntryID: Nisantasi_Universitesi_Azure_IoT_Suite
 IsActive: True
 Section: software

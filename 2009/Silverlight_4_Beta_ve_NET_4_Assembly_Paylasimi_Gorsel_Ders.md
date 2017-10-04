@@ -1,7 +1,7 @@
 ---
 FallbackID: 2472
 Title: Silverlight 4 Beta ve :NET 4 Assembly Paylaşımı - Görsel Ders
-PublishDate: 12/10/2009
+PublishDate: 10/12/2009
 EntryID: Silverlight_4_Beta_ve_NET_4_Assembly_Paylasimi_Gorsel_Ders
 IsActive: True
 Section: software

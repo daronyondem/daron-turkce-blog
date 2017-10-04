@@ -1,7 +1,7 @@
 ---
 FallbackID: 2357
 Title: Silverlight 3.0 Beta içerisinde WriteableBitmap kullanımı.
-PublishDate: 4/25/2009
+PublishDate: 25/4/2009
 EntryID: Silverlight_3_0_Beta_icerisinde_WriteableBitmap_kullanimi
 IsActive: True
 Section: software

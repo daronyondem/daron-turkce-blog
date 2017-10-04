@@ -1,7 +1,7 @@
 ---
 FallbackID: 2859
 Title: Geçmiş ve gelecekle ilgili sizin değerlendirmeleriniz.
-PublishDate: 10/21/2013
+PublishDate: 21/10/2013
 EntryID: anket_2013
 IsActive: True
 Section: software

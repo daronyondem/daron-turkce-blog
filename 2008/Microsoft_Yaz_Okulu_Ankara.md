@@ -1,7 +1,7 @@
 ---
 FallbackID: 2153
 Title: Microsoft Yaz Okulu, Ankara
-PublishDate: 8/14/2008
+PublishDate: 14/8/2008
 EntryID: Microsoft_Yaz_Okulu_Ankara
 IsActive: True
 Section: software

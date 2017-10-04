@@ -1,7 +1,7 @@
 ---
 FallbackID: 2785
 Title: Azure Stroge'da Queue Servisi
-PublishDate: 8/28/2012
+PublishDate: 28/8/2012
 EntryID: Azure_Stroge_da_Queue_Servisi
 IsActive: True
 Section: software

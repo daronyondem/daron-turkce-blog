@@ -1,7 +1,7 @@
 ---
 FallbackID: 2141
 Title: Deep Zoom Composer yeni sürümü ve PhotoZoom Live Labs
-PublishDate: 8/2/2008
+PublishDate: 2/8/2008
 EntryID: Deep_Zoom_Composer_yeni_surumu_ve_PhotoZoom_Live_Labs
 IsActive: True
 Section: software

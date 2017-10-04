@@ -1,7 +1,7 @@
 ---
 FallbackID: 2352
 Title: Imagine Cup Türkiye Finali'nde WPF ve MultiTouch oturumum.
-PublishDate: 4/18/2009
+PublishDate: 18/4/2009
 EntryID: Imagine_Cup_Turkiye_Finalinde_WPF_ve_MultiTouch_oturumum
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2286
 Title: KKTC Doğu Akdeniz Üniversitesi Microsoft Oyun Turu
-PublishDate: 12/24/2008
+PublishDate: 24/12/2008
 EntryID: KKTC_Dogu_Akdeniz_Universitesi_Microsoft_Oyun_Turu
 IsActive: True
 Section: software

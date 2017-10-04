@@ -1,7 +1,7 @@
 ---
 FallbackID: 2576
 Title: Internet Explorer 9 Kitabı
-PublishDate: 5/2/2011
+PublishDate: 2/5/2011
 EntryID: Internet_Explorer_9_Kitabi
 IsActive: True
 Section: software

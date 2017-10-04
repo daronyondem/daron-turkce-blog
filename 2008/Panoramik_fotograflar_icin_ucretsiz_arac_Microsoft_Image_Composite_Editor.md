@@ -1,7 +1,7 @@
 ---
 FallbackID: 2208
 Title: Panoramik fotoğraflar için ücretsiz araç : Microsoft Image Composite Editor
-PublishDate: 10/7/2008
+PublishDate: 7/10/2008
 EntryID: Panoramik_fotograflar_icin_ucretsiz_arac_Microsoft_Image_Composite_Editor
 IsActive: True
 Section: software

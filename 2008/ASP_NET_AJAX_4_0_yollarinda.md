@@ -1,7 +1,7 @@
 ---
 FallbackID: 2137
 Title: ASP.NET AJAX 4.0 yollarında....
-PublishDate: 7/28/2008
+PublishDate: 28/7/2008
 EntryID: ASP_NET_AJAX_4_0_yollarinda
 IsActive: True
 Section: software

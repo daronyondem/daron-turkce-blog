@@ -1,7 +1,7 @@
 ---
 FallbackID: 2206
 Title: CEBIT fuarında GEEK ZONE'a beklerim ;)
-PublishDate: 10/5/2008
+PublishDate: 5/10/2008
 EntryID: CEBIT_fuarinda_GEEK_ZONE_a_beklerim
 IsActive: True
 Section: software

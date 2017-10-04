@@ -1,7 +1,7 @@
 ---
 FallbackID: 1880
 Title: Doğu Akdeniz Üniversitesi ADO.NET ve SQL Eğitimi
-PublishDate: 12/10/2007
+PublishDate: 10/12/2007
 EntryID: Dogu_Akdeniz_Universitesi_ADO_NET_ve_SQL_Egitimi
 IsActive: True
 Section: software

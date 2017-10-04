@@ -1,7 +1,7 @@
 ---
 FallbackID: 2812
 Title: Üretkenliğinizi arttırmak için : RescueTime!
-PublishDate: 5/23/2012
+PublishDate: 23/5/2012
 EntryID: Uretkenliginizi_arttirmak_icin_RescueTime
 IsActive: True
 Section: software

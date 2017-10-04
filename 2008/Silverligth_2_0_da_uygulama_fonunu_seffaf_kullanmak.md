@@ -1,7 +1,7 @@
 ---
 FallbackID: 2106
 Title: Silverligth 2.0'da uygulama fonunu şeffaf kullanmak
-PublishDate: 6/26/2008
+PublishDate: 26/6/2008
 EntryID: Silverligth_2_0_da_uygulama_fonunu_seffaf_kullanmak
 IsActive: True
 Section: software

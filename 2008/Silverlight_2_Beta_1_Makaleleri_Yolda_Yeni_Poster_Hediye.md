@@ -1,7 +1,7 @@
 ---
 FallbackID: 1992
 Title: Silverlight 2 Beta 1 Makaleleri Yolda (Yeni Poster Hediye)
-PublishDate: 3/17/2008
+PublishDate: 17/3/2008
 EntryID: Silverlight_2_Beta_1_Makaleleri_Yolda_Yeni_Poster_Hediye
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2759
 Title: Azure'da bir ASP.NET Projesinin Anatomisi
-PublishDate: 4/3/2012
+PublishDate: 3/4/2012
 EntryID: Azure_da_bir_ASP_NET_Projesinin_Anatomisi
 IsActive: True
 Section: software

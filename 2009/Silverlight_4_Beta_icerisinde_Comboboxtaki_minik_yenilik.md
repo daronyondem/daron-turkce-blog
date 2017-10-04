@@ -1,7 +1,7 @@
 ---
 FallbackID: 2450
 Title: Silverlight 4 Beta içerisinde Combobox'taki minik yenilik!
-PublishDate: 11/19/2009
+PublishDate: 19/11/2009
 EntryID: Silverlight_4_Beta_icerisinde_Comboboxtaki_minik_yenilik
 IsActive: True
 Section: software

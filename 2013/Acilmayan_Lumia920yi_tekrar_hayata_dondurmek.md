@@ -1,7 +1,7 @@
 ---
 FallbackID: 2836
 Title: Açılmayan Lumia920'yi tekrar hayata döndürmek
-PublishDate: 2/9/2013
+PublishDate: 9/2/2013
 EntryID: Acilmayan_Lumia920yi_tekrar_hayata_dondurmek
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1972
 Title: 15 dakikada hazırlanan XLINQ ile online aktivite kayıt sistemi
-PublishDate: 2/29/2008
+PublishDate: 29/2/2008
 EntryID: 15_dakikada_hazirlanan_XLINQ_ile_online_aktivite_kayit_sistemi
 IsActive: True
 Section: software

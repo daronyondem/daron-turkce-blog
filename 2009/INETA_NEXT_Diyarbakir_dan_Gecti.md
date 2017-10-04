@@ -1,7 +1,7 @@
 ---
 FallbackID: 2470
 Title: INETA NEXT Diyarbakır'dan Geçti!
-PublishDate: 12/8/2009
+PublishDate: 8/12/2009
 EntryID: INETA_NEXT_Diyarbakir_dan_Gecti
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2059
 Title: Yeni Kitap : ASP.NET 3.5 AJAX
-PublishDate: 5/18/2008
+PublishDate: 18/5/2008
 EntryID: Yeni_Kitap_ASP_NET_3-5_AJAX
 IsActive: True
 Section: software

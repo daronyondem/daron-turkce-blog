@@ -1,7 +1,7 @@
 ---
 FallbackID: 2356
 Title: Silverlight 3.0 ve Pixel Shader Efektleri
-PublishDate: 4/24/2009
+PublishDate: 24/4/2009
 EntryID: Silverlight_3_0_ve_Pixel_Shader_Efektleri
 IsActive: True
 Section: software

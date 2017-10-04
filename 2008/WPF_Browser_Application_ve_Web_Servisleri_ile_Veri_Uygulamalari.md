@@ -1,7 +1,7 @@
 ---
 FallbackID: 2077
 Title: WPF Browser Application ve Web Servisleri ile Veri Uygulamaları
-PublishDate: 6/5/2008
+PublishDate: 5/6/2008
 EntryID: WPF_Browser_Application_ve_Web_Servisleri_ile_Veri_Uygulamalari
 IsActive: True
 Section: software

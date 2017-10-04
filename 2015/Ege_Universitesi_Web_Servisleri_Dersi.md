@@ -1,7 +1,7 @@
 ---
 FallbackID: 2994
 Title: Ege Üniversitesi Web Servisleri Dersi
-PublishDate: 12/17/2015
+PublishDate: 17/12/2015
 EntryID: Ege_Universitesi_Web_Servisleri_Dersi
 IsActive: True
 Section: software

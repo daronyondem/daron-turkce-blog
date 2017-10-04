@@ -1,7 +1,7 @@
 ---
 FallbackID: 2417
 Title: Web Platform Installer 2.0 Çıktı!
-PublishDate: 9/25/2009
+PublishDate: 25/9/2009
 EntryID: Web_Platform_Installer_2_0_Cikti
 IsActive: True
 Section: software

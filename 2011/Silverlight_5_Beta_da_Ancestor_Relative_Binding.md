@@ -1,7 +1,7 @@
 ---
 FallbackID: 2573
 Title: Silverlight 5 Beta'da Ancestor Relative Binding
-PublishDate: 4/30/2011
+PublishDate: 30/4/2011
 EntryID: Silverlight_5_Beta_da_Ancestor_Relative_Binding
 IsActive: True
 Section: software

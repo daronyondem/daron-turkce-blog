@@ -1,7 +1,7 @@
 ---
 FallbackID: 2757
 Title: Windows Azure'da bir sunucunun yaşam döngüsü!
-PublishDate: 3/20/2012
+PublishDate: 20/3/2012
 EntryID: Windows_Azure_da_bir_sunucunun_yasam_dongusu
 IsActive: True
 Section: software

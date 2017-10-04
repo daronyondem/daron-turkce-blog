@@ -1,7 +1,7 @@
 ---
 FallbackID: 2774
 Title: Windows Azure'da Blob Storage'a giriş
-PublishDate: 6/12/2012
+PublishDate: 12/6/2012
 EntryID: Windows_Azure_da_Blob_Storage_a_giris
 IsActive: True
 Section: software

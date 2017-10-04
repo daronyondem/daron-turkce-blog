@@ -1,7 +1,7 @@
 ---
 FallbackID: 1973
 Title: Bir XLINQ hikayesi... 15 dakikalık projeden inciler.
-PublishDate: 3/1/2008
+PublishDate: 1/3/2008
 EntryID: Bir_XLINQ_hikayesi_15_dakikalik_projeden_inciler
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2400
 Title: Expression Blend ile Databinding
-PublishDate: 9/4/2009
+PublishDate: 4/9/2009
 EntryID: Expression_Blend_ile_Databinding
 IsActive: True
 Section: software

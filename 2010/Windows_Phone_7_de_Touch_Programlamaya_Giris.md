@@ -1,7 +1,7 @@
 ---
 FallbackID: 2516
 Title: Windows Phone 7'de Touch Programlamaya Giriş
-PublishDate: 5/3/2010
+PublishDate: 3/5/2010
 EntryID: Windows_Phone_7_de_Touch_Programlamaya_Giris
 IsActive: True
 Section: software

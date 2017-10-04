@@ -1,7 +1,7 @@
 ---
 FallbackID: 2030
 Title: Silverlight 2.0 PopUp Kontrolü
-PublishDate: 4/21/2008
+PublishDate: 21/4/2008
 EntryID: Silverlight_2_0_PopUp_Kontrolu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2016
 Title: Winforms kontrollerinin WPF uygulamalarında kullanımı.
-PublishDate: 4/9/2008
+PublishDate: 9/4/2008
 EntryID: Winforms_kontrollerinin_WPF_uygulamalarinda_kullanimi
 IsActive: True
 Section: software

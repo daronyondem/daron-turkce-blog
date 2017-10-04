@@ -1,7 +1,7 @@
 ---
 FallbackID: 2719
 Title: Kasım Ayı Webinerleri, SL, WP7, Win8, IE10, Azure
-PublishDate: 10/30/2011
+PublishDate: 30/10/2011
 EntryID: Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure
 IsActive: True
 Section: software

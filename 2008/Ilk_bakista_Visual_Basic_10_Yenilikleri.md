@@ -1,7 +1,7 @@
 ---
 FallbackID: 2232
 Title: İlk bakışta Visual Basic 10 Yenilikleri!
-PublishDate: 10/31/2008
+PublishDate: 31/10/2008
 EntryID: Ilk_bakista_Visual_Basic_10_Yenilikleri
 IsActive: True
 Section: software

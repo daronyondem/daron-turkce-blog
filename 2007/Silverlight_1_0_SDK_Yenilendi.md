@@ -1,7 +1,7 @@
 ---
 FallbackID: 1854
 Title: Silverlight 1.0 SDK Yenilendi
-PublishDate: 11/19/2007
+PublishDate: 19/11/2007
 EntryID: Silverlight_1_0_SDK_Yenilendi
 IsActive: True
 Section: software

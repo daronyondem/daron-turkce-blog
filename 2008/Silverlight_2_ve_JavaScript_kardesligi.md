@@ -1,7 +1,7 @@
 ---
 FallbackID: 2024
 Title: Silverlight 2.0 ve JavaScript kardeşliği
-PublishDate: 4/14/2008
+PublishDate: 14/4/2008
 EntryID: Silverlight_2_ve_JavaScript_kardesligi
 IsActive: True
 Section: software

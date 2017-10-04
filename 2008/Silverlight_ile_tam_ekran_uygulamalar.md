@@ -1,7 +1,7 @@
 ---
 FallbackID: 1910
 Title: Silverlight ile tam ekran uygulamalar
-PublishDate: 1/6/2008
+PublishDate: 6/1/2008
 EntryID: Silverlight_ile_tam_ekran_uygulamalar
 IsActive: True
 Section: software

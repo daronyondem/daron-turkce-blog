@@ -1,7 +1,7 @@
 ---
 FallbackID: 1799
 Title: Türkiye'nin ilk Silverlight Webineri
-PublishDate: 10/4/2007
+PublishDate: 4/10/2007
 EntryID: Turkiyenin_ilk_Silverlight_Webineri
 IsActive: True
 Section: software

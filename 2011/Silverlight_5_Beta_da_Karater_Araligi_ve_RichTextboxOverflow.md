@@ -1,7 +1,7 @@
 ---
 FallbackID: 2566
 Title: Silverlight 5 Beta'da Karater Aralığı ve RichTextboxOverflow
-PublishDate: 4/23/2011
+PublishDate: 23/4/2011
 EntryID: Silverlight_5_Beta_da_Karater_Araligi_ve_RichTextboxOverflow
 IsActive: True
 Section: software

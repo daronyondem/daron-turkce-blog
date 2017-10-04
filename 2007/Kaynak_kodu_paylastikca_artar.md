@@ -1,7 +1,7 @@
 ---
 FallbackID: 1830
 Title: Kaynak kodu paylaştıkça artar...
-PublishDate: 10/31/2007
+PublishDate: 31/10/2007
 EntryID: Kaynak_kodu_paylastikca_artar
 IsActive: True
 Section: software

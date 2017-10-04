@@ -1,7 +1,7 @@
 ---
 FallbackID: 3036
 Title: Azure Functions ile ilk Serverless Maceramız
-PublishDate: 12/1/2016
+PublishDate: 1/12/2016
 EntryID: Azure_Functions_ile_ilk_Serverless_Maceramiz
 IsActive: True
 Section: software

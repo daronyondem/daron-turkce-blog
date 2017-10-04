@@ -1,7 +1,7 @@
 ---
 FallbackID: 3056
 Title: İstanbul Ticaret Üniversitesi'nde Azure anlattım.
-PublishDate: 3/25/2017
+PublishDate: 25/3/2017
 EntryID: Istanbul_Ticaret_Universitesinde_Azure_anlattim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2092
 Title: sosyalleşmek isteyeceğiniz 28 web ünlüsü
-PublishDate: 6/13/2008
+PublishDate: 13/6/2008
 EntryID: sosyallesmek_isteyeceginiz_28_web_unlusu
 IsActive: True
 Section: software

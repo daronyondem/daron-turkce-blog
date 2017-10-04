@@ -1,7 +1,7 @@
 ---
 FallbackID: 2807
 Title: 5. Yılımda Windows Azure MVP'siyim!
-PublishDate: 4/2/2012
+PublishDate: 2/4/2012
 EntryID: Besinci_Yilimda_Windows_Azure_MVP_siyim
 IsActive: True
 Section: software

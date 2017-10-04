@@ -1,7 +1,7 @@
 ---
 FallbackID: 2074
 Title: Gördüğüm ilk Silverlight Şapkalı'ya hediyem var :)
-PublishDate: 6/2/2008
+PublishDate: 2/6/2008
 EntryID: Gordugum_ilk_Silverlight_Sapkali_ya_hediyem_var
 IsActive: True
 Section: software

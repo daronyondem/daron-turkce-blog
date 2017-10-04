@@ -1,7 +1,7 @@
 ---
 FallbackID: 1948
 Title: Silverlight ve Fırça (Brush) Yapıları
-PublishDate: 2/6/2008
+PublishDate: 6/2/2008
 EntryID: Silverlight_ve_Firca_Brush_Yapilari
 IsActive: True
 Section: software

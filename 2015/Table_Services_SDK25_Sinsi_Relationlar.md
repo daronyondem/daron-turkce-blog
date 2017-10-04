@@ -1,7 +1,7 @@
 ---
 FallbackID: 2954
 Title: Table Services (SDK2.5) : Sinsi Relationlar
-PublishDate: 2/14/2015
+PublishDate: 14/2/2015
 EntryID: Table_Services_SDK25_Sinsi_Relationlar
 IsActive: True
 Section: software

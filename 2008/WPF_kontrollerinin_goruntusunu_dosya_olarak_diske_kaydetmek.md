@@ -1,7 +1,7 @@
 ---
 FallbackID: 2268
 Title: WPF kontrollerinin görüntüsünü dosya olarak diske kaydetmek...
-PublishDate: 12/7/2008
+PublishDate: 7/12/2008
 EntryID: WPF_kontrollerinin_goruntusunu_dosya_olarak_diske_kaydetmek
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2818
 Title: Azure'da Trace.WriteLine yapacak olsak?
-PublishDate: 9/25/2012
+PublishDate: 25/9/2012
 EntryID: Azure_da_Trace_WriteLine_yapacak_olsak
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2992
 Title: İlk Hour Of Code Etkinliğim
-PublishDate: 12/11/2015
+PublishDate: 11/12/2015
 EntryID: Ilk_Hour_Of_Code_Etkinligim
 IsActive: True
 Section: software

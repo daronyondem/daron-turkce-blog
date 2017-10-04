@@ -1,6 +1,6 @@
-﻿---
+---
 Title: Azure Cosmos DB Nedir?
-PublishDate: 6/18/2017
+PublishDate: 18/6/2017
 IsActive: True
 Section: software
 MinutesSpent: 105

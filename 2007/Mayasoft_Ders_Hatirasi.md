@@ -1,7 +1,7 @@
 ---
 FallbackID: 1737
 Title: Mayasoft Ders Hatırası
-PublishDate: 5/1/2007
+PublishDate: 1/5/2007
 EntryID: Mayasoft_Ders_Hatirasi
 IsActive: True
 Section: software

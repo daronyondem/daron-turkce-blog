@@ -1,7 +1,7 @@
 ---
 FallbackID: 2723
 Title: Silverlight geliştiricileri için WP7.5'e Giriş Webineri Kaydı Hazır
-PublishDate: 11/3/2011
+PublishDate: 3/11/2011
 EntryID: SL_gelistiricilerine_WP75_Giris_Webiner_Kaydi
 IsActive: True
 Section: software

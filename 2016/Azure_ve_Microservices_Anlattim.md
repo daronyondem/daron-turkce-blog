@@ -1,7 +1,7 @@
 ---
 FallbackID: 3032
 Title: Azure ve Microservices Anlattım
-PublishDate: 11/18/2016
+PublishDate: 18/11/2016
 EntryID: Azure_ve_Microservices_Anlattim
 IsActive: True
 Section: software

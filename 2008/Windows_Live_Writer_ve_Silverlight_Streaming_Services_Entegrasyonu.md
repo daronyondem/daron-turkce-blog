@@ -1,7 +1,7 @@
 ---
 FallbackID: 1908
 Title: Windows Live Writer ve Silverlight Streaming Services Entegrasyonu
-PublishDate: 1/5/2008
+PublishDate: 5/1/2008
 EntryID: Windows_Live_Writer_ve_Silverlight_Streaming_Services_Entegrasyonu
 IsActive: True
 Section: software

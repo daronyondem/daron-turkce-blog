@@ -1,7 +1,7 @@
 ---
 FallbackID: 2996
 Title: ODTÜ'de BigData ve IoT
-PublishDate: 1/7/2016
+PublishDate: 7/1/2016
 EntryID: ODTU_de_BigData_ve_IoT
 IsActive: True
 Section: software

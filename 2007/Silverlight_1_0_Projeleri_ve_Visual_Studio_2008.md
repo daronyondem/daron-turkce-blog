@@ -1,7 +1,7 @@
 ---
 FallbackID: 1895
 Title: Silverlight 1.0 Projeleri ve Visual Studio 2008
-PublishDate: 12/24/2007
+PublishDate: 24/12/2007
 EntryID: Silverlight_1_0_Projeleri_ve_Visual_Studio_2008
 IsActive: True
 Section: software

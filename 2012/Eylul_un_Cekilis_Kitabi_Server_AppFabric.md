@@ -1,7 +1,7 @@
 ---
 FallbackID: 2816
 Title: Eylül'ün Çekiliş Kitabı Server AppFabric üzerine!
-PublishDate: 9/1/2012
+PublishDate: 1/9/2012
 EntryID: Eylul_un_Cekilis_Kitabi_Server_AppFabric
 IsActive: True
 Section: software

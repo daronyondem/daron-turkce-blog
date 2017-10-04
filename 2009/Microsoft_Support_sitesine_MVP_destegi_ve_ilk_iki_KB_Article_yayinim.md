@@ -1,7 +1,7 @@
 ---
 FallbackID: 2432
 Title: Microsoft Support sitesine MVP desteği ve ilk iki KB Article yayınım.
-PublishDate: 10/26/2009
+PublishDate: 26/10/2009
 EntryID: Microsoft_Support_sitesine_MVP_destegi_ve_ilk_iki_KB_Article_yayinim
 IsActive: True
 Section: software

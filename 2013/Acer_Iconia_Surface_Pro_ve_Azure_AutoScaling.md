@@ -1,7 +1,7 @@
 ---
 FallbackID: 2851
 Title: Haftanın Özeti; Acer Iconia, Surface Pro ve Azure AutoScaling
-PublishDate: 7/13/2013
+PublishDate: 13/7/2013
 EntryID: Acer_Iconia_Surface_Pro_ve_Azure_AutoScaling
 IsActive: True
 Section: software

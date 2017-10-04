@@ -1,7 +1,7 @@
 ---
 FallbackID: 2729
 Title: Windows 8 Tablet Development Giriş (Video)
-PublishDate: 11/19/2011
+PublishDate: 19/11/2011
 EntryID: Win8_Tablet_Development_Giris_Video
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3009
 Title: İstanbul Aydın Üniversitesi'nde Cloud 
-PublishDate: 4/7/2016
+PublishDate: 7/4/2016
 EntryID: Istanbul_Aydin_Universitesinde_Cloud
 IsActive: True
 Section: software

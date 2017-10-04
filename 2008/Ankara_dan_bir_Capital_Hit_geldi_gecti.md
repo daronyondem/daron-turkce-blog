@@ -1,7 +1,7 @@
 ---
 FallbackID: 2222
 Title: Ankara'dan bir "Capital Hit" geldi geçti...
-PublishDate: 10/21/2008
+PublishDate: 21/10/2008
 EntryID: Ankara_dan_bir_Capital_Hit_geldi_gecti
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1991
 Title: Silverlight T-Shirt isteyenler buraya!
-PublishDate: 3/16/2008
+PublishDate: 16/3/2008
 EntryID: Silverlight_T-Shirt_isteyenler_buraya
 IsActive: True
 Section: software

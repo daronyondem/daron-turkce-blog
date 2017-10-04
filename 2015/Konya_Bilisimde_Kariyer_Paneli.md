@@ -1,7 +1,7 @@
 ---
 FallbackID: 2988
 Title: Konya Bilişim'de Kariyer Paneli
-PublishDate: 11/18/2015
+PublishDate: 18/11/2015
 EntryID: Konya_Bilisimde_Kariyer_Paneli
 IsActive: True
 Section: software

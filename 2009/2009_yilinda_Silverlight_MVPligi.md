@@ -1,7 +1,7 @@
 ---
 FallbackID: 2343
 Title: 2009 yılında Silverlight MVP'liği!
-PublishDate: 4/2/2009
+PublishDate: 2/4/2009
 EntryID: 2009_yilinda_Silverlight_MVPligi
 IsActive: True
 Section: software

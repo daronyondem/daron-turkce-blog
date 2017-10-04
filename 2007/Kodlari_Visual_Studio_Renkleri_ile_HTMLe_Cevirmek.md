@@ -1,7 +1,7 @@
 ---
 FallbackID: 1798
 Title: Kodları Visual Studio Renkleri ile HTML'e Çevirmek
-PublishDate: 10/3/2007
+PublishDate: 3/10/2007
 EntryID: Kodlari_Visual_Studio_Renkleri_ile_HTMLe_Cevirmek
 IsActive: True
 Section: software

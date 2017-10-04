@@ -1,7 +1,7 @@
 ---
 FallbackID: 2345
 Title: Adana, Çukurova Üniversitesi'nde Silverlight 3.0 ve WPF oturumlarım
-PublishDate: 4/3/2009
+PublishDate: 3/4/2009
 EntryID: Adana_Cukurova_Universitesinde_Silverlight_3_0_ve_WPF_oturumlarim
 IsActive: True
 Section: software

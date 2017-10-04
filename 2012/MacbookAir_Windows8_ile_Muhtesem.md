@@ -1,7 +1,7 @@
 ---
 FallbackID: 2809
 Title: Macbook Air Windows 8 ile Muhteşem
-PublishDate: 8/31/2012
+PublishDate: 31/8/2012
 EntryID: MacbookAir_Windows8_ile_Muhtesem
 IsActive: True
 Section: software

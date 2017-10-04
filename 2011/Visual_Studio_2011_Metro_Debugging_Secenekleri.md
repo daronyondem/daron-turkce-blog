@@ -1,7 +1,7 @@
 ---
 FallbackID: 2703
 Title: Visual Studio 2011 Metro Debugging Seçenekleri
-PublishDate: 9/20/2011
+PublishDate: 20/9/2011
 EntryID: Visual_Studio_2011_Metro_Debugging_Secenekleri
 IsActive: True
 Section: software

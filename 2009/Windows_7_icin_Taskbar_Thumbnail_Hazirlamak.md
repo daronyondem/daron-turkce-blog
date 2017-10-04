@@ -1,7 +1,7 @@
 ---
 FallbackID: 2434
 Title: Windows 7 için Taskbar Thumbnail Hazırlamak
-PublishDate: 10/27/2009
+PublishDate: 27/10/2009
 EntryID: Windows_7_icin_Taskbar_Thumbnail_Hazirlamak
 IsActive: True
 Section: software

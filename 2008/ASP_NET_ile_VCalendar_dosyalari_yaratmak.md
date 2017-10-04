@@ -1,7 +1,7 @@
 ---
 FallbackID: 2073
 Title: ASP.NET ile VCalendar dosyaları yaratmak
-PublishDate: 6/1/2008
+PublishDate: 1/6/2008
 EntryID: ASP_NET_ile_VCalendar_dosyalari_yaratmak
 IsActive: True
 Section: software

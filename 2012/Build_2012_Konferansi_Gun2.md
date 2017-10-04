@@ -1,7 +1,7 @@
 ---
 FallbackID: 2826
 Title: Build 2012 Konferansı 2. gün keynote ve geri kalanlar.
-PublishDate: 11/3/2012
+PublishDate: 3/11/2012
 EntryID: Build_2012_Konferansi_Gun2
 IsActive: True
 Section: software

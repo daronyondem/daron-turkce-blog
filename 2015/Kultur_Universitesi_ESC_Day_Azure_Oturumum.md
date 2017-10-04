@@ -1,7 +1,7 @@
 ---
 FallbackID: 2982
 Title: Kültür Üniversitesi ESC Day Azure Oturumum
-PublishDate: 10/13/2015
+PublishDate: 13/10/2015
 EntryID: Kultur_Universitesi_ESC_Day_Azure_Oturumum
 IsActive: True
 Section: software

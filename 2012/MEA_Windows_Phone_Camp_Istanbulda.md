@@ -1,7 +1,7 @@
 ---
 FallbackID: 2811
 Title: MEA Windows Phone Camp İstanbulda!
-PublishDate: 5/21/2012
+PublishDate: 21/5/2012
 EntryID: MEA_Windows_Phone_Camp_Istanbulda
 IsActive: True
 Section: software

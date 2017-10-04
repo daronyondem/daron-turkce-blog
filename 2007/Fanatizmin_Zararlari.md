@@ -1,7 +1,7 @@
 ---
 FallbackID: 1884
 Title: Fanatizmin Zararları
-PublishDate: 12/14/2007
+PublishDate: 14/12/2007
 EntryID: Fanatizmin_Zararlari
 IsActive: True
 Section: software

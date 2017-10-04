@@ -1,7 +1,7 @@
 ---
 FallbackID: 2104
 Title: Microsoft Qatar Silverlight 2.0 Eğitimi
-PublishDate: 6/26/2008
+PublishDate: 26/6/2008
 EntryID: Microsoft_Qatar_Silverlight_2_0_Egitimi
 IsActive: True
 Section: software

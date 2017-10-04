@@ -1,7 +1,7 @@
 ---
 FallbackID: 2297
 Title: IE8'de Offline ve Online Çalışma Modları
-PublishDate: 1/5/2009
+PublishDate: 5/1/2009
 EntryID: IE8_de_Offline_ve_Online_Calisma_Modlari
 IsActive: True
 Section: software

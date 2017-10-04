@@ -1,7 +1,7 @@
 ---
 FallbackID: 2894
 Title: Azure SQL Database Giriş
-PublishDate: 3/13/2014
+PublishDate: 13/3/2014
 EntryID: Azure_SQL_Database_Giris
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1932
 Title: Microsoft Student 2 Business Silverlight Eğitimi
-PublishDate: 1/26/2008
+PublishDate: 26/1/2008
 EntryID: Microsoft_Student_2_Business_Silverlight_Egitimi
 IsActive: True
 Section: software

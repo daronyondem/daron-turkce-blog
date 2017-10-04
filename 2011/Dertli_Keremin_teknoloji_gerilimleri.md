@@ -1,7 +1,7 @@
-﻿---
+---
 FallbackID: 2702
 Title: Dertli Kerem'in ölen teknoloji gerilimleri
-PublishDate: 9/19/2011
+PublishDate: 19/9/2011
 EntryID: Dertli_Keremin_teknoloji_gerilimleri
 IsActive: True
 Section: software

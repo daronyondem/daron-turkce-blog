@@ -1,7 +1,7 @@
 ---
 FallbackID: 2266
 Title: Silverlight 2.0 ve Adaptive Streaming
-PublishDate: 12/5/2008
+PublishDate: 5/12/2008
 EntryID: Silverlight_2_0_ve_Adaptive_Streaming
 IsActive: True
 Section: software

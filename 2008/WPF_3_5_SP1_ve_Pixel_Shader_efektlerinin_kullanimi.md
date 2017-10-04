@@ -1,7 +1,7 @@
 ---
 FallbackID: 2210
 Title: WPF 3.5 SP1 ve Pixel Shader efektlerinin kullanımı...
-PublishDate: 10/9/2008
+PublishDate: 9/10/2008
 EntryID: WPF_3_5_SP1_ve_Pixel_Shader_efektlerinin_kullanimi
 IsActive: True
 Section: software

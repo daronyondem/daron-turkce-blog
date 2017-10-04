@@ -1,7 +1,7 @@
 ---
 FallbackID: 2182
 Title: 70-502 WPF sınavına girdim ;)
-PublishDate: 9/11/2008
+PublishDate: 11/9/2008
 EntryID: 70-502_WPF_sinavina_girdim
 IsActive: True
 Section: software

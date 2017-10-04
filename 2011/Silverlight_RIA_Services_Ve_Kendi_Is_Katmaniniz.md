@@ -1,7 +1,7 @@
 ---
 FallbackID: 2733
 Title: Silverlight, RIA Services Ve Kendi İş+Data Katmanınız (Video)
-PublishDate: 11/24/2011
+PublishDate: 24/11/2011
 EntryID: Silverlight_RIA_Services_Ve_Kendi_Is_Katmaniniz
 IsActive: True
 Section: software

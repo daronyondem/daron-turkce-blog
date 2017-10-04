@@ -1,7 +1,7 @@
 ---
 FallbackID: 2453
 Title: Silverlight 4 Beta içerisinde Implicit Style kullanımı
-PublishDate: 11/21/2009
+PublishDate: 21/11/2009
 EntryID: Silverlight_4_Beta_icerisinde_Implicit_Style_kullanimi
 IsActive: True
 Section: software

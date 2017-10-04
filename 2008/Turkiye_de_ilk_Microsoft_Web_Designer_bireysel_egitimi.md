@@ -1,7 +1,7 @@
 ---
 FallbackID: 1969
 Title: Türkiye'de ilk Microsoft Web Designer bireysel eğitimi
-PublishDate: 2/26/2008
+PublishDate: 26/2/2008
 EntryID: Turkiye_de_ilk_Microsoft_Web_Designer_bireysel_egitimi
 IsActive: True
 Section: software

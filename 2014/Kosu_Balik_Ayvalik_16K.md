@@ -1,7 +1,7 @@
 ---
 FallbackID: 2917
 Title: Koşu, Balık, Ayvalık 16K
-PublishDate: 9/22/2014
+PublishDate: 22/9/2014
 EntryID: Kosu_Balik_Ayvalik_16K
 IsActive: True
 Section: fitness

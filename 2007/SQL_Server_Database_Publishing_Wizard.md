@@ -1,7 +1,7 @@
 ---
 FallbackID: 1814
 Title: SQL Server Database Publishing Wizard
-PublishDate: 10/16/2007
+PublishDate: 16/10/2007
 EntryID: SQL_Server_Database_Publishing_Wizard
 IsActive: True
 Section: software

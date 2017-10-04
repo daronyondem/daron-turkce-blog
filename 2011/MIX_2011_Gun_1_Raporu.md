@@ -1,7 +1,7 @@
 ---
 FallbackID: 2557
 Title: MIX 2011 Gün 1 Raporu :)
-PublishDate: 4/13/2011
+PublishDate: 13/4/2011
 EntryID: MIX_2011_Gun_1_Raporu
 IsActive: True
 Section: software

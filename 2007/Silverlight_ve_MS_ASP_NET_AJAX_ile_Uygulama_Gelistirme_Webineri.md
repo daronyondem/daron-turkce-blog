@@ -1,7 +1,7 @@
 ---
 FallbackID: 1836
 Title: Silverlight ve MS ASP.NET AJAX ile Uygulama Geliştirme Webineri
-PublishDate: 11/4/2007
+PublishDate: 4/11/2007
 EntryID: Silverlight_ve_MS_ASP_NET_AJAX_ile_Uygulama_Gelistirme_Webineri
 IsActive: True
 Section: software

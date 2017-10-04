@@ -1,7 +1,7 @@
 ---
 FallbackID: 2872
 Title: IAAS, PAAS, SAAS ve Windows Azure (SDK2.2)
-PublishDate: 11/26/2013
+PublishDate: 26/11/2013
 EntryID: IAAS_PAAS_SAAS_ve_Windows_Azure_SDK2_2
 IsActive: True
 Section: software

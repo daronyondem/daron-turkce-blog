@@ -1,7 +1,7 @@
 ---
 FallbackID: 2227
 Title: Silverlight 2.0 Eğitimi BTAkademi'de.
-PublishDate: 10/26/2008
+PublishDate: 26/10/2008
 EntryID: Silverlight_2_0_Egitimi_BTAkademi_de
 IsActive: True
 Section: software

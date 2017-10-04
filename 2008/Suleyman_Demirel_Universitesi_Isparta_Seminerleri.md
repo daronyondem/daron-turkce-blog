@@ -1,7 +1,7 @@
 ---
 FallbackID: 2001
 Title: Süleyman Demirel Üniversitesi, Isparta Seminerleri
-PublishDate: 3/26/2008
+PublishDate: 26/3/2008
 EntryID: Suleyman_Demirel_Universitesi_Isparta_Seminerleri
 IsActive: True
 Section: software

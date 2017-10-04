@@ -1,7 +1,7 @@
 ---
 FallbackID: 2253
 Title: Silverlight 2.0 ile Oyun Programlama Semineri video kaydı karşınızda.
-PublishDate: 11/21/2008
+PublishDate: 21/11/2008
 EntryID: Silverlight_2_0_ile_Oyun_Programlama_Semineri_video_kaydi_karsinizda
 IsActive: True
 Section: software

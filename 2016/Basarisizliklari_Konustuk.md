@@ -1,7 +1,7 @@
 ---
 FallbackID: 3031
 Title: Başarısızlıkları Konuştuk
-PublishDate: 11/17/2016
+PublishDate: 17/11/2016
 EntryID: Basarisizliklari_Konustuk
 IsActive: True
 Section: software

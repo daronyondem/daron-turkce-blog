@@ -1,7 +1,7 @@
 ---
 FallbackID: 2083
 Title: Dertli Kerem yine, yeni, yeniden...
-PublishDate: 6/10/2008
+PublishDate: 10/6/2008
 EntryID: Dertli_Kerem_yine_yeni_yeniden
 IsActive: True
 Section: software

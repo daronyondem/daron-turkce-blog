@@ -1,7 +1,7 @@
 ---
 FallbackID: 1927
 Title: ASP.NET Compile Seçenekleri
-PublishDate: 1/22/2008
+PublishDate: 22/1/2008
 EntryID: ASP_NET_Compile_Secenekleri
 IsActive: True
 Section: software

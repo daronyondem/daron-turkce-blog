@@ -1,7 +1,7 @@
 ---
 FallbackID: 2221
 Title: Photoshop'tan Silverlight 2.0 DeepZoom Export
-PublishDate: 10/20/2008
+PublishDate: 20/10/2008
 EntryID: Photoshoptan_Silverlight_2_0_DeepZoom_Export
 IsActive: True
 Section: software

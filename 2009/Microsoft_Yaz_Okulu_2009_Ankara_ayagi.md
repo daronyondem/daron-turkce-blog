@@ -1,7 +1,7 @@
 ---
 FallbackID: 2383
 Title: Microsoft Yaz Okulu 2009 - Ankara ayağı...
-PublishDate: 8/1/2009
+PublishDate: 1/8/2009
 EntryID: Microsoft_Yaz_Okulu_2009_Ankara_ayagi
 IsActive: True
 Section: software

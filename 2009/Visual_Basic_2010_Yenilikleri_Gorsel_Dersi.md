@@ -1,7 +1,7 @@
 ---
 FallbackID: 2414
 Title: Visual Basic 2010 Yenilikleri Görsel Dersi
-PublishDate: 9/17/2009
+PublishDate: 17/9/2009
 EntryID: Visual_Basic_2010_Yenilikleri_Gorsel_Dersi
 IsActive: True
 Section: software

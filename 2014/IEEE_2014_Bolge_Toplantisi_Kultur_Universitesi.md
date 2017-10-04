@@ -1,7 +1,7 @@
 ---
 FallbackID: 2948
 Title: IEEE 2014 Toplantısı'nda Kültür Üniversitesi'ndeydim.
-PublishDate: 10/19/2014
+PublishDate: 19/10/2014
 EntryID: IEEE_2014_Bolge_Toplantisi_Kultur_Universitesi
 IsActive: True
 Section: software

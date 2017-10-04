@@ -1,7 +1,7 @@
 ---
 FallbackID: 2004
 Title: Silverlight 2.0 Uygulamalarında farklı XAML dosyaları kullanmak.
-PublishDate: 3/29/2008
+PublishDate: 29/3/2008
 EntryID: Silverlight_2_0_Uygulamalarinda_farkli_XAML_dosyalari_kullanmak
 IsActive: True
 Section: software

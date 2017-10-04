@@ -1,7 +1,7 @@
 ---
 FallbackID: 2347
 Title: INETA NEXT HIT ve Silverlight 3.0 Seminerim...
-PublishDate: 4/12/2009
+PublishDate: 12/4/2009
 EntryID: INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3038
 Title: Azure Functions ile BlobTrigger Kullanmak
-PublishDate: 12/3/2016
+PublishDate: 3/12/2016
 EntryID: Azure_Functions_ile_BlobTrigger_Kullanmak
 IsActive: True
 Section: software

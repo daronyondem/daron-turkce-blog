@@ -1,7 +1,7 @@
 ---
 FallbackID: 3040
 Title: Azure Functions ile QueueTrigger Kullanmak
-PublishDate: 12/5/2016
+PublishDate: 5/12/2016
 EntryID: Azure_Functions_ile_QueueTrigger_Kullanmak
 IsActive: True
 Section: software

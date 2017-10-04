@@ -1,7 +1,7 @@
 ---
 FallbackID: 2262
 Title: Isparta Süleyman Demirel Üniversitesi'nde Microsoft Oyun Turu
-PublishDate: 11/30/2008
+PublishDate: 30/11/2008
 EntryID: Isparta_Suleyman_Demirel_Universitesinde_Microsoft_Oyun_Turu
 IsActive: True
 Section: software

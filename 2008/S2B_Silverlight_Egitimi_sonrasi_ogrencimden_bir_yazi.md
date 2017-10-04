@@ -1,7 +1,7 @@
 ---
 FallbackID: 1945
 Title: S2B Silverlight Eğitimi sonrası öğrencimden bir yazı :)
-PublishDate: 2/4/2008
+PublishDate: 4/2/2008
 EntryID: S2B_Silverlight_Egitimi_sonrasi_ogrencimden_bir_yazi
 IsActive: True
 Section: software

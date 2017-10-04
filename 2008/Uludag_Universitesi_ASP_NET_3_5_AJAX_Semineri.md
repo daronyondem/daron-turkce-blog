@@ -1,7 +1,7 @@
 ---
 FallbackID: 2287
 Title: Uludağ Üniversitesi ASP.NET 3.5 AJAX Semineri
-PublishDate: 12/25/2008
+PublishDate: 25/12/2008
 EntryID: Uludag_Universitesi_ASP_NET_3_5_AJAX_Semineri
 IsActive: True
 Section: software

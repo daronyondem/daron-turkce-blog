@@ -1,6 +1,6 @@
-﻿---
+---
 Title: İki yıl daha Microsoft RD Programı'ndayım.
-PublishDate: 5/3/2017
+PublishDate: 3/5/2017
 IsActive: True
 Section: software
 MinutesSpent: 7

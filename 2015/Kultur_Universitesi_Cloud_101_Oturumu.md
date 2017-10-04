@@ -1,7 +1,7 @@
 ---
 FallbackID: 2960
 Title: Kültür Üniversitesi Cloud 101 Oturumu
-PublishDate: 3/12/2015
+PublishDate: 12/3/2015
 EntryID: Kultur_Universitesi_Cloud_101_Oturumu
 IsActive: True
 Section: software

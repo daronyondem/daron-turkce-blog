@@ -1,7 +1,7 @@
 ---
 FallbackID: 1885
 Title: Biraz gülümseme...
-PublishDate: 12/14/2007
+PublishDate: 14/12/2007
 EntryID: Biraz_gulumseme
 IsActive: True
 Section: software

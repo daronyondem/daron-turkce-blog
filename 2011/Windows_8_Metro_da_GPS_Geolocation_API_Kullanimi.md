@@ -1,7 +1,7 @@
 ---
 FallbackID: 2707
 Title: Windows 8 Metro'da GPS ve Geolocation API Kullanımı
-PublishDate: 9/23/2011
+PublishDate: 23/9/2011
 EntryID: Windows_8_Metro_da_GPS_Geolocation_API_Kullanimi
 IsActive: True
 Section: software

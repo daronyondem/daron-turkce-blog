@@ -1,7 +1,7 @@
 ---
 FallbackID: 2056
 Title: Visual Studio 2008 ve .NET Framework 3.5 SP1 Beta 
-PublishDate: 5/15/2008
+PublishDate: 15/5/2008
 EntryID: Visual_Studio_2008_ve_NET_Framework_3_5_SP1_Beta
 IsActive: True
 Section: software

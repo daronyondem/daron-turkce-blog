@@ -1,7 +1,7 @@
 ---
 FallbackID: 2331
 Title: ODTÜ ve Bilkent'te Silverlight ile oyun programlama seminerlerim.
-PublishDate: 3/2/2009
+PublishDate: 2/3/2009
 EntryID: ODTU_ve_Bilkent_te_Silverlight_ile_oyun_programlama_seminerlerim
 IsActive: True
 Section: software

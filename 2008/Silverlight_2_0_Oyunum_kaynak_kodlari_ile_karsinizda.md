@@ -1,7 +1,7 @@
 ---
 FallbackID: 2249
 Title: Silverlight 2.0 Oyunum kaynak kodları ile karşınızda! :)
-PublishDate: 11/17/2008
+PublishDate: 17/11/2008
 EntryID: Silverlight_2_0_Oyunum_kaynak_kodlari_ile_karsinizda
 IsActive: True
 Section: software

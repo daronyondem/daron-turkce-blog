@@ -1,7 +1,7 @@
 ---
 FallbackID: 2107
 Title: RIAtalks.com'da Silverlight sunumum.
-PublishDate: 6/28/2008
+PublishDate: 28/6/2008
 EntryID: RIAtalks_com_da_Silverlight_sunumum
 IsActive: True
 Section: software

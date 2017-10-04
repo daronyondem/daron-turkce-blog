@@ -1,7 +1,7 @@
 ---
 FallbackID: 1732
 Title: Orcas Beta1 sürümü ve Express Serisi CTP sürümleri çıktı.
-PublishDate: 4/23/2007
+PublishDate: 23/4/2007
 EntryID: Orcas_Beta1_surumu_ve_Express_Serisi_CTP_surumleri_cikti
 IsActive: True
 Section: software

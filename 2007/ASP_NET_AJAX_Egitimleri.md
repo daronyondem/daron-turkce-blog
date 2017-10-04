@@ -1,7 +1,7 @@
 ---
 FallbackID: 1746
 Title: ASP.NET AJAX Eğitimleri
-PublishDate: 7/5/2007
+PublishDate: 5/7/2007
 EntryID: ASP_NET_AJAX_Egitimleri
 IsActive: True
 Section: software

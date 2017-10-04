@@ -1,7 +1,7 @@
 ---
 FallbackID: 2837
 Title: Sitenize Windows 8 ve Internet Explorer 10 için Flip Ahead Ekleyin
-PublishDate: 3/16/2013
+PublishDate: 16/3/2013
 EntryID: Sitenize_Flip_Ahead_Ekleyin
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2166
 Title: CETURK seminerleri videoları yayında.
-PublishDate: 8/27/2008
+PublishDate: 27/8/2008
 EntryID: CETURK_seminerleri_videolari_yayinda
 IsActive: True
 Section: software

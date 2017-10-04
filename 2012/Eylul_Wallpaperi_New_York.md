@@ -1,7 +1,7 @@
 ---
 FallbackID: 2817
 Title: Eylül Wallpaper'ı New York'tan
-PublishDate: 9/6/2012
+PublishDate: 6/9/2012
 EntryID: Eylul_Wallpaperi_New_York
 IsActive: True
 Section: software

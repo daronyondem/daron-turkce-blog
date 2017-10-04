@@ -1,7 +1,7 @@
 ---
 FallbackID: 2778
 Title: Azure SDK ile beraber gelen emülatörler ne ayak? :)
-PublishDate: 7/10/2012
+PublishDate: 10/7/2012
 EntryID: Azure_SDK_ile_beraber_gelen_emulatorler_ne_ayak
 IsActive: True
 Section: software

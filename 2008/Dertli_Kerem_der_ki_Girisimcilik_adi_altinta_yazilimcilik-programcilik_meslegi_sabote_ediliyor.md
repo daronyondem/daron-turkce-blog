@@ -1,7 +1,7 @@
 ---
 FallbackID: 2178
 Title: Dertli Kerem der ki "Girişimcilik adı altınta yazılımcılık/programcılık mesleği sabote ediliyor!"
-PublishDate: 9/7/2008
+PublishDate: 7/9/2008
 EntryID: Dertli_Kerem_der_ki_Girisimcilik_adi_altinta_yazilimcilik-programcilik_meslegi_sabote_ediliyor
 IsActive: True
 Section: software

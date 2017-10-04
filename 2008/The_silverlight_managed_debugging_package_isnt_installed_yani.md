@@ -1,7 +1,7 @@
 ---
 FallbackID: 2261
 Title: The silverlight managed debugging package isn't installed, yani?
-PublishDate: 11/29/2008
+PublishDate: 29/11/2008
 EntryID: The_silverlight_managed_debugging_package_isnt_installed_yani
 IsActive: True
 Section: software

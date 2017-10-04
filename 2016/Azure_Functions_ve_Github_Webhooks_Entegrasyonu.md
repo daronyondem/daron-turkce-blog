@@ -1,7 +1,7 @@
 ---
 FallbackID: 3047
 Title: Azure Functions ve Github Webhooks Entegrasyonu
-PublishDate: 12/13/2016
+PublishDate: 13/12/2016
 EntryID: Azure_Functions_ve_Github_Webhooks_Entegrasyonu
 IsActive: True
 Section: software

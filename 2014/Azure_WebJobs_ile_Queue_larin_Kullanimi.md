@@ -1,7 +1,7 @@
 ---
 FallbackID: 2915
 Title: Azure WebJobs ile Queue'ların Kullanımı
-PublishDate: 8/9/2014
+PublishDate: 9/8/2014
 EntryID: Azure_WebJobs_ile_Queue_larin_Kullanimi
 IsActive: True
 Section: software

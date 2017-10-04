@@ -1,7 +1,7 @@
 ---
 FallbackID: 2003
 Title: Silverlight Streaming Services'da Silverlight 2.0 desteği.
-PublishDate: 3/28/2008
+PublishDate: 28/3/2008
 EntryID: Silverlight_Streaming_Services_da_Silverlight_2_0_destegi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2534
 Title: Silverlight 4'te FluidMoveBehavior ne işe yarar?
-PublishDate: 9/4/2010
+PublishDate: 4/9/2010
 EntryID: Silverlight_4_te_FluidMoveBehavior_ne_ise_yarar
 IsActive: True
 Section: software

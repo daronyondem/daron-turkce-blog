@@ -1,7 +1,7 @@
 ---
 FallbackID: 1919
 Title: IIS7.0 ve ASP.NET 3.5 yenilikleri webineri sonrasında...
-PublishDate: 1/15/2008
+PublishDate: 15/1/2008
 EntryID: IIS7_0_ve_ASP_NET_3_5_yenilikleri_webineri_sonrasinda
 IsActive: True
 Section: software

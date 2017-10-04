@@ -1,7 +1,7 @@
 ---
 FallbackID: 2199
 Title: DeepZoom Composer ve Silverlight 2.0 RC0 Sorunu
-PublishDate: 9/28/2008
+PublishDate: 28/9/2008
 EntryID: DeepZoom_Composer_ve_Silverlight_2_0_RC0_Sorunu
 IsActive: True
 Section: software

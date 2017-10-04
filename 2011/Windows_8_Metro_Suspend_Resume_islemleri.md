@@ -1,7 +1,7 @@
 ---
 FallbackID: 2700
 Title: Windows 8 Metro Uygulamarında Suspend/Resume İşlemleri
-PublishDate: 9/17/2011
+PublishDate: 17/9/2011
 EntryID: Windows_8_Metro_Suspend_Resume_islemleri
 IsActive: True
 Section: software

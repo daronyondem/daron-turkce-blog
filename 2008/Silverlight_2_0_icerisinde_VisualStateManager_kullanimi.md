@@ -1,7 +1,7 @@
 ---
 FallbackID: 2089
 Title: Silverlight 2.0 içerisinde VisualStateManager kullanımı.
-PublishDate: 6/13/2008
+PublishDate: 13/6/2008
 EntryID: Silverlight_2_0_icerisinde_VisualStateManager_kullanimi
 IsActive: True
 Section: software

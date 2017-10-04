@@ -1,7 +1,7 @@
 ---
 FallbackID: 2760
 Title: Azure'da Web ve Worker Role Konfigürasyon Yapısı
-PublishDate: 4/10/2012
+PublishDate: 10/4/2012
 EntryID: Azure_da_Web_ve_Worker_Role_Konfigurasyon_Yapisi
 IsActive: True
 Section: software

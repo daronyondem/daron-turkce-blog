@@ -1,7 +1,7 @@
 ---
 FallbackID: 2833
 Title: Haberler... Duyurular....
-PublishDate: 12/18/2012
+PublishDate: 18/12/2012
 EntryID: Haberler_Duyurular_121812
 IsActive: True
 Section: software

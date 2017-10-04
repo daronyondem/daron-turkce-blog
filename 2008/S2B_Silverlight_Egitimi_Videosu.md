@@ -1,7 +1,7 @@
 ---
 FallbackID: 1966
 Title: S2B Silverlight Eğitimi Videosu
-PublishDate: 2/22/2008
+PublishDate: 22/2/2008
 EntryID: S2B_Silverlight_Egitimi_Videosu
 IsActive: True
 Section: software

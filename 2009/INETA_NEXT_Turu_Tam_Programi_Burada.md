@@ -1,7 +1,7 @@
 ---
 FallbackID: 2462
 Title: INETA NEXT Turu Tam Programı Burada!
-PublishDate: 11/30/2009
+PublishDate: 30/11/2009
 EntryID: INETA_NEXT_Turu_Tam_Programi_Burada
 IsActive: True
 Section: software

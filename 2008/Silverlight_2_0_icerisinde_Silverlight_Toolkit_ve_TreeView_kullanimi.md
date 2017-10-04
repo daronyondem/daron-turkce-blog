@@ -1,7 +1,7 @@
 ---
 FallbackID: 2230
 Title: Silverlight 2.0 içerisinde Silverlight Toolkit ve TreeView kullanımı
-PublishDate: 10/29/2008
+PublishDate: 29/10/2008
 EntryID: Silverlight_2_0_icerisinde_Silverlight_Toolkit_ve_TreeView_kullanimi
 IsActive: True
 Section: software

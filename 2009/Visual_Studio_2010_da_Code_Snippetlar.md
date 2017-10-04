@@ -1,7 +1,7 @@
 ---
 FallbackID: 2426
 Title: Visual Studio 2010'da Code Snippet'lar.
-PublishDate: 10/21/2009
+PublishDate: 21/10/2009
 EntryID: Visual_Studio_2010_da_Code_Snippetlar
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2683
 Title: Türkiye'de artık bir LINQ kitabı var.
-PublishDate: 9/3/2011
+PublishDate: 3/9/2011
 EntryID: Turkiyede_artik_bir_LINQ_kitabi_var
 IsActive: True
 Section: software

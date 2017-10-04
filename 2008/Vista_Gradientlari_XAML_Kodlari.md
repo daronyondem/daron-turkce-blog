@@ -1,7 +1,7 @@
 ---
 FallbackID: 2065
 Title: Vista Gradientları XAML Kodları
-PublishDate: 5/23/2008
+PublishDate: 23/5/2008
 EntryID: Vista_Gradientlari_XAML_Kodlari
 IsActive: True
 Section: software

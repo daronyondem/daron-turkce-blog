@@ -1,7 +1,7 @@
 ---
 FallbackID: 2823
 Title: Kasım 2012 Çekiliş Kitapları
-PublishDate: 11/6/2012
+PublishDate: 6/11/2012
 EntryID: Kasim_2012_Cekilis_Kitaplari
 IsActive: True
 Section: software

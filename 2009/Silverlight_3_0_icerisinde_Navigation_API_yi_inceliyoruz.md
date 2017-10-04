@@ -1,7 +1,7 @@
 ---
 FallbackID: 2401
 Title: Silverlight 3.0 içerisinde Navigation API'yı inceliyoruz.
-PublishDate: 9/5/2009
+PublishDate: 5/9/2009
 EntryID: Silverlight_3_0_icerisinde_Navigation_API_yi_inceliyoruz
 IsActive: True
 Section: software

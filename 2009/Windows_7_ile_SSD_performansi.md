@@ -1,7 +1,7 @@
 ---
 FallbackID: 2420
 Title: Windows 7 ile SSD performansı!
-PublishDate: 10/3/2009
+PublishDate: 3/10/2009
 EntryID: Windows_7_ile_SSD_performansi
 IsActive: True
 Section: software

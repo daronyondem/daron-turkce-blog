@@ -1,7 +1,7 @@
 ---
 FallbackID: 2424
 Title: Organik Yazılım Günü 1.5! Kaçırmayın!
-PublishDate: 10/20/2009
+PublishDate: 20/10/2009
 EntryID: Organik_Yazilim_Gunu_1_5__Kacirmayin
 IsActive: True
 Section: software

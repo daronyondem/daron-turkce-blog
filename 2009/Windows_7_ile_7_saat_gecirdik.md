@@ -1,7 +1,7 @@
 ---
 FallbackID: 2380
 Title: Windows 7 ile 7 saat geçirdik!
-PublishDate: 7/13/2009
+PublishDate: 13/7/2009
 EntryID: Windows_7_ile_7_saat_gecirdik
 IsActive: True
 Section: software

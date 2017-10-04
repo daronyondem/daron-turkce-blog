@@ -1,7 +1,7 @@
 ---
 FallbackID: 2071
 Title: Silverlight 2.0 HyperlinkButton Kullanımı
-PublishDate: 5/30/2008
+PublishDate: 30/5/2008
 EntryID: Silverlight_2_0_HyperlinkButton_Kullanimi
 IsActive: True
 Section: software

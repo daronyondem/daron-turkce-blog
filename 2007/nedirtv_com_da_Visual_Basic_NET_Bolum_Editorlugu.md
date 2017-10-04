@@ -1,7 +1,7 @@
 ---
 FallbackID: 1773
 Title: nedirtv?com'da Visual Basic.NET Bölüm Editörlüğü
-PublishDate: 9/4/2007
+PublishDate: 4/9/2007
 EntryID: nedirtv_com_da_Visual_Basic_NET_Bolum_Editorlugu
 IsActive: True
 Section: software

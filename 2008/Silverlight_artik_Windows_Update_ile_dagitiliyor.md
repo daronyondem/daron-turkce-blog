@@ -1,7 +1,7 @@
 ---
 FallbackID: 1929
 Title: Silverlight artık Windows Update ile dağıtılıyor!
-PublishDate: 1/23/2008
+PublishDate: 23/1/2008
 EntryID: Silverlight_artik_Windows_Update_ile_dagitiliyor
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2874
 Title: Makinemizi Windows Azure'a hazırlamak (SDK2.2)
-PublishDate: 11/27/2013
+PublishDate: 27/11/2013
 EntryID: Makinemizi_Windows_Azure_a_hazirlamak_SDK2_2
 IsActive: True
 Section: software

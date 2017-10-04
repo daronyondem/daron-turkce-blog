@@ -1,7 +1,7 @@
 ---
 FallbackID: 1868
 Title: Expression Blend SP1
-PublishDate: 11/30/2007
+PublishDate: 30/11/2007
 EntryID: Expression_Blend_SP1
 IsActive: True
 Section: software

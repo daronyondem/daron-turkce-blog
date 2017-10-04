@@ -1,7 +1,7 @@
 ---
 FallbackID: 2508
 Title: Akdeniz Üniversitesi Seminerim
-PublishDate: 4/7/2010
+PublishDate: 7/4/2010
 EntryID: Akdeniz_Universitesi_Seminerim
 IsActive: True
 Section: software

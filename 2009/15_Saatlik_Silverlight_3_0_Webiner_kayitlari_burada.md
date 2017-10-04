@@ -1,7 +1,7 @@
 ---
 FallbackID: 2381
 Title: 15 Saatlik Silverlight 3.0 Webiner kayıtları! Burada! :)
-PublishDate: 7/15/2009
+PublishDate: 15/7/2009
 EntryID: 15_Saatlik_Silverlight_3_0_Webiner_kayitlari_burada
 IsActive: True
 Section: software

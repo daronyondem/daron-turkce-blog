@@ -1,7 +1,7 @@
 ---
 FallbackID: 2093
 Title: Soru Sorma Merkezi Açıldı!
-PublishDate: 6/15/2008
+PublishDate: 15/6/2008
 EntryID: Soru_Sorma_Merkezi_Acildi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2549
 Title: Silverlight 4 ile JPEG Kaydetmek / Encoding
-PublishDate: 2/5/2011
+PublishDate: 5/2/2011
 EntryID: Silverlight_4_ile_JPEG_Kaydetmek_Encoding
 IsActive: True
 Section: software

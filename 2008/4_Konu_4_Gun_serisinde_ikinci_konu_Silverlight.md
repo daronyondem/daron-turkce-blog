@@ -1,7 +1,7 @@
 ---
 FallbackID: 2006
 Title: "4 Konu, 4 Gün" serisinde ikinci konu : Silverlight
-PublishDate: 3/31/2008
+PublishDate: 31/3/2008
 EntryID: 4_Konu_4_Gun_serisinde_ikinci_konu_Silverlight
 IsActive: True
 Section: software

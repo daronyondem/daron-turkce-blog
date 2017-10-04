@@ -1,7 +1,7 @@
 ---
 FallbackID: 1988
 Title: yazgelistir.com Silverlight Bölümü ve Editörlüğü :)
-PublishDate: 3/12/2008
+PublishDate: 12/3/2008
 EntryID: yazgelistir_com_Silverlight_Bolumu_ve_Editorlugu
 IsActive: True
 Section: software

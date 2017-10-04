@@ -1,7 +1,7 @@
 ---
 FallbackID: 2147
 Title: SQL 2008 çıktı!
-PublishDate: 8/7/2008
+PublishDate: 7/8/2008
 EntryID: SQL_2008_cikti
 IsActive: True
 Section: software

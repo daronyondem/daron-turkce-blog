@@ -1,7 +1,7 @@
 ---
 FallbackID: 1943
 Title: Gümüş Devrim: Silverlight, İTÜ-Botego Semineri ardından
-PublishDate: 2/4/2008
+PublishDate: 4/2/2008
 EntryID: Gumus_Devrim_Silverlight_ITU-Botego_Semineri_ardindan
 IsActive: True
 Section: software

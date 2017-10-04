@@ -1,7 +1,7 @@
 ---
 FallbackID: 2829
 Title: giik.FM'den haberler; yeni PodCast ve hafta sonu Surface buluşması!
-PublishDate: 11/15/2012
+PublishDate: 15/11/2012
 EntryID: yeni_PodCast_ve_hafta_sonu_Surface_bulusmasi
 IsActive: True
 Section: software

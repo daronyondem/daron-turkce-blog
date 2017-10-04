@@ -1,7 +1,7 @@
 ---
 FallbackID: 1821
 Title: Baştan Sonra Silverlight Kurulumu
-PublishDate: 10/24/2007
+PublishDate: 24/10/2007
 EntryID: Bastan_Sonra_Silverlight_Kurulumu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2391
 Title: Silverlight 3.0 ile Assembly Caching
-PublishDate: 8/16/2009
+PublishDate: 16/8/2009
 EntryID: Silverlight_3_0_ile_Assembly_Caching
 IsActive: True
 Section: software

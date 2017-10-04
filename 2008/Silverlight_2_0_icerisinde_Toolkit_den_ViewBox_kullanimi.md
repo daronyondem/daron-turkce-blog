@@ -1,7 +1,7 @@
 ---
 FallbackID: 2250
 Title: Silverlight 2.0 içerisinde Toolkit'den ViewBox kullanımı.
-PublishDate: 11/18/2008
+PublishDate: 18/11/2008
 EntryID: Silverlight_2_0_icerisinde_Toolkit_den_ViewBox_kullanimi
 IsActive: True
 Section: software

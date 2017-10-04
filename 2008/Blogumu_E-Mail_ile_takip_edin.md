@@ -1,7 +1,7 @@
 ---
 FallbackID: 2219
 Title: Blogumu E-Mail ile takip edin!
-PublishDate: 10/18/2008
+PublishDate: 18/10/2008
 EntryID: Blogumu_E-Mail_ile_takip_edin
 IsActive: True
 Section: software

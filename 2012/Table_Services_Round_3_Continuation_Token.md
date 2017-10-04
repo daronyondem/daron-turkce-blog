@@ -1,7 +1,7 @@
 ---
 FallbackID: 2784
 Title: Table Services Round 3 : Continuation Token
-PublishDate: 8/21/2012
+PublishDate: 21/8/2012
 EntryID: Table_Services_Round_3_Continuation_Token
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2151
 Title: .NET Framework 3.5 SP1 çıktı!
-PublishDate: 8/11/2008
+PublishDate: 11/8/2008
 EntryID: NET_Framework_3_5_SP1_cikti
 IsActive: True
 Section: software

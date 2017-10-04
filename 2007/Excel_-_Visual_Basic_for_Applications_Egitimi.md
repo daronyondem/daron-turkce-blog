@@ -1,7 +1,7 @@
 ---
 FallbackID: 1753
 Title: Excel - Visual Basic for Applications Eğitimi
-PublishDate: 8/12/2007
+PublishDate: 12/8/2007
 EntryID: Excel_-_Visual_Basic_for_Applications_Egitimi
 IsActive: True
 Section: software

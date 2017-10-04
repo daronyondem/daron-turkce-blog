@@ -1,7 +1,7 @@
 ---
 FallbackID: 2959
 Title: Table Services SDK 2.5 Continuation Token
-PublishDate: 3/11/2015
+PublishDate: 11/3/2015
 EntryID: Table_Services_SDK_25_Continuation_Token
 IsActive: True
 Section: software

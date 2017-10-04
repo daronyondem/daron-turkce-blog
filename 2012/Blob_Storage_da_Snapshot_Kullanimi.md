@@ -1,7 +1,7 @@
 ---
 FallbackID: 2777
 Title: Blob Storage'da Snapshot Kullanımı
-PublishDate: 7/3/2012
+PublishDate: 3/7/2012
 EntryID: Blob_Storage_da_Snapshot_Kullanimi
 IsActive: True
 Section: software

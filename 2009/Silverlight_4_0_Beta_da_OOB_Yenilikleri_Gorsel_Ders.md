@@ -1,7 +1,7 @@
 ---
 FallbackID: 2469
 Title: Silverlight 4.0 Beta'da OOB Yenilikleri - Görsel Ders
-PublishDate: 12/7/2009
+PublishDate: 7/12/2009
 EntryID: Silverlight_4_0_Beta_da_OOB_Yenilikleri_Gorsel_Ders
 IsActive: True
 Section: software

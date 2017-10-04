@@ -1,7 +1,7 @@
 ---
 FallbackID: 1949
 Title: Silverlight Projelerinin Yapı Taşları
-PublishDate: 2/7/2008
+PublishDate: 7/2/2008
 EntryID: Silverlight_Projelerinin_Yapi_Taslari
 IsActive: True
 Section: software

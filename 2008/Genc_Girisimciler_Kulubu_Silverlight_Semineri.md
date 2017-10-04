@@ -1,7 +1,7 @@
 ---
 FallbackID: 1925
 Title: Genç Girişimciler Kulübü Silverlight Semineri
-PublishDate: 1/20/2008
+PublishDate: 20/1/2008
 EntryID: Genc_Girisimciler_Kulubu_Silverlight_Semineri
 IsActive: True
 Section: software

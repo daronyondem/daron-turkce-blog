@@ -1,7 +1,7 @@
 ---
 FallbackID: 1858
 Title: SQL 2008 Kasım CTP Çıktı!
-PublishDate: 11/21/2007
+PublishDate: 21/11/2007
 EntryID: SQL_2008_Kasim_CTP_Cikti
 IsActive: True
 Section: software

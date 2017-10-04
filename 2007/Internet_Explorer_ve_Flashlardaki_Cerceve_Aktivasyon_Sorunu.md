@@ -1,7 +1,7 @@
 ---
 FallbackID: 1735
 Title: Internet Explorer ve Flash'lardaki Çerçeve (Aktivasyon) Sorunu
-PublishDate: 4/28/2007
+PublishDate: 28/4/2007
 EntryID: Internet_Explorer_ve_Flashlardaki_Cerceve_Aktivasyon_Sorunu
 IsActive: True
 Section: software

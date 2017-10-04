@@ -1,6 +1,6 @@
-﻿---
+---
 Title: Fatih Sultan Mehmet Üniversitesi Azure Sunumum
-PublishDate: 5/2/2017
+PublishDate: 2/5/2017
 IsActive: True
 Section: software
 MinutesSpent: 4

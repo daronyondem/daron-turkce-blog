@@ -1,7 +1,7 @@
 ---
 FallbackID: 2431
 Title: Windows 7'de sensörlerle çalışmak.
-PublishDate: 10/25/2009
+PublishDate: 25/10/2009
 EntryID: Windows_7_de_sensorlerle_calismak
 IsActive: True
 Section: software

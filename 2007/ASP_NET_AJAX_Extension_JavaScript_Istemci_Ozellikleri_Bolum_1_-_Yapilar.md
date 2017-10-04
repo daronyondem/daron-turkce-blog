@@ -1,7 +1,7 @@
 ---
 FallbackID: 1780
 Title: ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 1 - Yapılar)
-PublishDate: 9/8/2007
+PublishDate: 8/9/2007
 EntryID: ASP_NET_AJAX_Extension_JavaScript_Istemci_Ozellikleri_Bolum_1_-_Yapilar
 IsActive: True
 Section: software

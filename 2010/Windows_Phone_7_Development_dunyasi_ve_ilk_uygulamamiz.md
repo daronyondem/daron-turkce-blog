@@ -1,7 +1,7 @@
 ---
 FallbackID: 2515
 Title: Windows Phone 7 Development dünyası ve ilk uygulamamız
-PublishDate: 5/2/2010
+PublishDate: 2/5/2010
 EntryID: Windows_Phone_7_Development_dunyasi_ve_ilk_uygulamamiz
 IsActive: True
 Section: software

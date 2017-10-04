@@ -1,7 +1,7 @@
 ---
 FallbackID: 2201
 Title: CETURK etkinliğindeki WPF seminerimin videosu karşınızda.
-PublishDate: 9/30/2008
+PublishDate: 30/9/2008
 EntryID: CETURK_etkinligindeki_WPF_seminerimin_videosu_karsinizda
 IsActive: True
 Section: software

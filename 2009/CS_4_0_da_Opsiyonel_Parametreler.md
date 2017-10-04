@@ -1,7 +1,7 @@
 ---
 FallbackID: 2427
 Title: C# 4.0'da Opsiyonel Parametreler
-PublishDate: 10/22/2009
+PublishDate: 22/10/2009
 EntryID: CS_4_0_da_Opsiyonel_Parametreler
 IsActive: True
 Section: software

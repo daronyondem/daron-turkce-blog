@@ -1,7 +1,7 @@
 ---
 FallbackID: 1987
 Title: Silverlight uygulamaları ve IIS MIME Type ayarı.
-PublishDate: 3/12/2008
+PublishDate: 12/3/2008
 EntryID: Silverlight_uygulamalari_ve_IIS_MIME_Type_ayari
 IsActive: True
 Section: software

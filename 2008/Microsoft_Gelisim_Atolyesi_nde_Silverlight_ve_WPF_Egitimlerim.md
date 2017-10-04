@@ -1,7 +1,7 @@
 ---
 FallbackID: 2168
 Title: Microsoft Gelişim Atölyesi'nde Silverlight ve WPF Eğitimlerim
-PublishDate: 8/29/2008
+PublishDate: 29/8/2008
 EntryID: Microsoft_Gelisim_Atolyesi_nde_Silverlight_ve_WPF_Egitimlerim
 IsActive: True
 Section: software

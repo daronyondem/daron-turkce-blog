@@ -1,7 +1,7 @@
 ---
 FallbackID: 2746
 Title: HTML5'te her tarayıcı ile uyumluluk yolunda audio tag kullanımı deneyimlerim
-PublishDate: 12/30/2011
+PublishDate: 30/12/2011
 EntryID: HTML5_ve_audio_tag_hikayesi
 IsActive: True
 Section: software

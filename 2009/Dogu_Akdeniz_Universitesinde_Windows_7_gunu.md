@@ -1,7 +1,7 @@
 ---
 FallbackID: 2441
 Title: Doğu Akdeniz Üniversitesinde Windows 7 günü!
-PublishDate: 11/7/2009
+PublishDate: 7/11/2009
 EntryID: Dogu_Akdeniz_Universitesinde_Windows_7_gunu
 IsActive: True
 Section: software

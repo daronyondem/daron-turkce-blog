@@ -1,7 +1,7 @@
 ---
 FallbackID: 2251
 Title: Silverlight 2.0 içerisinde Toolkit'ten Label kontrolünün kullanımı.
-PublishDate: 11/19/2008
+PublishDate: 19/11/2008
 EntryID: Silverlight_2_0_icerisinde_Toolkitten_Label_kontrolunun_kullanimi
 IsActive: True
 Section: software

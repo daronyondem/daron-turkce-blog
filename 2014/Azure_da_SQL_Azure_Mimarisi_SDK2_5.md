@@ -1,7 +1,7 @@
 ---
 FallbackID: 2940
 Title: Azure'da SQL Azure Mimarisi (SDK2.5)
-PublishDate: 12/2/2014
+PublishDate: 2/12/2014
 EntryID: Azure_da_SQL_Azure_Mimarisi_SDK2_5
 IsActive: True
 Section: software

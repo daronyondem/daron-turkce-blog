@@ -1,7 +1,7 @@
 ---
 FallbackID: 1959
 Title: Silverlight nesnelerini fare ile döndür / çevir / yuvarla :)
-PublishDate: 2/16/2008
+PublishDate: 16/2/2008
 EntryID: Silverlight_nesnelerini_fare_ile_dondur_cevir_yuvarla
 IsActive: True
 Section: software

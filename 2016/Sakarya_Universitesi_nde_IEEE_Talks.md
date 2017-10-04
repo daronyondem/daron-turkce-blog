@@ -1,7 +1,7 @@
 ---
 FallbackID: 3008
 Title: Sakarya Üniversitesi'nde IEEE Talks
-PublishDate: 3/18/2016
+PublishDate: 18/3/2016
 EntryID: Sakarya_Universitesi_nde_IEEE_Talks
 IsActive: True
 Section: software

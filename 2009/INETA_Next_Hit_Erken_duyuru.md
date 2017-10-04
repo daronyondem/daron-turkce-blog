@@ -1,7 +1,7 @@
 ---
 FallbackID: 2313
 Title: INETA Next Hit! Erken duyuru!
-PublishDate: 1/24/2009
+PublishDate: 24/1/2009
 EntryID: INETA_Next_Hit_Erken_duyuru
 IsActive: True
 Section: software

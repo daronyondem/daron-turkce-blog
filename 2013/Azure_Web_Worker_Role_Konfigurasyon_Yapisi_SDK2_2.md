@@ -1,7 +1,7 @@
 ---
 FallbackID: 2879
 Title: Azure'da Web ve Worker Role Konfigürasyon Yapısı (SDK2.2)
-PublishDate: 11/29/2013
+PublishDate: 29/11/2013
 EntryID: Azure_Web_Worker_Role_Konfigurasyon_Yapisi_SDK2_2
 IsActive: True
 Section: software

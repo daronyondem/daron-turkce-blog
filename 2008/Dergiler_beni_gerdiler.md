@@ -1,7 +1,7 @@
 ---
 FallbackID: 2018
 Title: Dergiler beni gerdiler!
-PublishDate: 4/11/2008
+PublishDate: 11/4/2008
 EntryID: Dergiler_beni_gerdiler
 IsActive: True
 Section: software

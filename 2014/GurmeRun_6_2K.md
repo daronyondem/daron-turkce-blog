@@ -1,7 +1,7 @@
 ---
 FallbackID: 2918
 Title: GurmeRun 6.2K
-PublishDate: 9/29/2014
+PublishDate: 29/9/2014
 EntryID: GurmeRun_6_2K
 IsActive: True
 Section: fitness

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2128
 Title: Silverlight 2.0 içerisinden Download penceresi açtırmak.
-PublishDate: 7/20/2008
+PublishDate: 20/7/2008
 EntryID: Silverlight_2_0_icerisinden_Download_penceresi_actirmak
 IsActive: True
 Section: software

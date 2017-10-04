@@ -1,7 +1,7 @@
 ---
 FallbackID: 2156
 Title: SanalKurs altıncı sayısında yayınlanan röportajım...
-PublishDate: 8/16/2008
+PublishDate: 16/8/2008
 EntryID: SanalKurs_altinci_sayisinda_yayinlanan_roportajim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1957
 Title: Silverlight animasyonlarında fare imlecini değiştirmek.
-PublishDate: 2/13/2008
+PublishDate: 13/2/2008
 EntryID: Silverlight_animasyonlarinda_fare_imlecini_degistirmek
 IsActive: True
 Section: software

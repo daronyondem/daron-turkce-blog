@@ -1,7 +1,7 @@
 ---
 FallbackID: 1823
 Title: Expression Design Service Pack 1
-PublishDate: 10/24/2007
+PublishDate: 24/10/2007
 EntryID: Expression_Design_Service_Pack_1
 IsActive: True
 Section: software

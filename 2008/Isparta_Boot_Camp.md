@@ -1,7 +1,7 @@
 ---
 FallbackID: 2263
 Title: Isparta Boot Camp
-PublishDate: 12/2/2008
+PublishDate: 2/12/2008
 EntryID: Isparta_Boot_Camp
 IsActive: True
 Section: software

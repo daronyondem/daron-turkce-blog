@@ -1,7 +1,7 @@
 ---
 FallbackID: 2371
 Title: Silverlight 3.0 içerisinde 3D Projection.
-PublishDate: 6/14/2009
+PublishDate: 14/6/2009
 EntryID: Silverlight_3_0_icerisinde_3D_Projection
 IsActive: True
 Section: software

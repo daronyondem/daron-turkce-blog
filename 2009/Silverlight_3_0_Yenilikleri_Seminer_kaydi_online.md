@@ -1,7 +1,7 @@
 ---
 FallbackID: 2354
 Title: Silverlight 3.0 Yenilikleri Seminer kaydı online!
-PublishDate: 4/19/2009
+PublishDate: 19/4/2009
 EntryID: Silverlight_3_0_Yenilikleri_Seminer_kaydi_online
 IsActive: True
 Section: software

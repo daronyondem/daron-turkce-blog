@@ -1,7 +1,7 @@
 ---
 FallbackID: 2998
 Title: MSDN Flash Mart İçeriği
-PublishDate: 2/17/2016
+PublishDate: 17/2/2016
 EntryID: MSDN_Flash_Mart_Icerigi
 IsActive: True
 Section: software

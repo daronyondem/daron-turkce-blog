@@ -1,7 +1,7 @@
 ---
 FallbackID: 2914
 Title: Neşet Suyu İstanbul Koşu Parkuru
-PublishDate: 8/2/2014
+PublishDate: 2/8/2014
 EntryID: Neset_Suyu_Istanbul_Kosu_Parkuru
 IsActive: True
 Section: fitness

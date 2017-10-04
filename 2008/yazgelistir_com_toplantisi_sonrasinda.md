@@ -1,7 +1,7 @@
 ---
 FallbackID: 1935
 Title: yazgelistir.com toplantısı sonrasında...
-PublishDate: 1/29/2008
+PublishDate: 29/1/2008
 EntryID: yazgelistir_com_toplantisi_sonrasinda
 IsActive: True
 Section: software

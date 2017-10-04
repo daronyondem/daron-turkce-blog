@@ -1,7 +1,7 @@
 ---
 FallbackID: 2294
 Title: Web sayfalarında otomatik kod renklendirmek.
-PublishDate: 1/2/2009
+PublishDate: 2/1/2009
 EntryID: Web_sayfalarinda_otomatik_kod_renklendirmek
 IsActive: True
 Section: software

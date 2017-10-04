@@ -1,7 +1,7 @@
 ---
 FallbackID: 3019
 Title: Mersin Toros Üniversitesi'nde Cloud 101
-PublishDate: 4/29/2016
+PublishDate: 29/4/2016
 EntryID: Mersin_Toros_Universitesinde_Cloud_101
 IsActive: True
 Section: software

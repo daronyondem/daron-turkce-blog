@@ -1,7 +1,7 @@
 ---
 FallbackID: 3011
 Title: Edirne'de Microsoft Tech Tour
-PublishDate: 4/9/2016
+PublishDate: 9/4/2016
 EntryID: Edirne_de_Microsoft_Tech_Tour
 IsActive: True
 Section: software

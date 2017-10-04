@@ -1,7 +1,7 @@
 ---
 FallbackID: 3016
 Title: Adana, Çukurova Üniversitesi'ndeydim
-PublishDate: 4/21/2016
+PublishDate: 21/4/2016
 EntryID: Adana_Cukurova_Universitesindeydim
 IsActive: True
 Section: software

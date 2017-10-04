@@ -1,7 +1,7 @@
 ---
 FallbackID: 2382
 Title: Mailgrup Ankara buluşması...
-PublishDate: 7/31/2009
+PublishDate: 31/7/2009
 EntryID: Mailgrup_Ankara_bulusmasi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2766
 Title: Windows Azure'da ilk projemiz ve deployment
-PublishDate: 4/24/2012
+PublishDate: 24/4/2012
 EntryID: Windows_Azure_da_ilk_projemiz_ve_deployment
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2503
 Title: .NET Framework 4.0 RC ve Visual Studio 2010 RC Yenilikleri Seminer Video Kaydı
-PublishDate: 4/3/2010
+PublishDate: 3/4/2010
 EntryID: NET_Framework_4_0_RC_ve_Visual_Studio_2010_RC_Yenilikleri_Seminer_Video_Kaydi
 IsActive: True
 Section: software

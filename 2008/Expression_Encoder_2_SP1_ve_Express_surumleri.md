@@ -1,7 +1,7 @@
 ---
 FallbackID: 2234
 Title: Expression Encoder 2 SP1 ve Express sürümleri!
-PublishDate: 11/1/2008
+PublishDate: 1/11/2008
 EntryID: Expression_Encoder_2_SP1_ve_Express_surumleri
 IsActive: True
 Section: software

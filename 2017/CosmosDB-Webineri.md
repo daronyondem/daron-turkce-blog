@@ -1,6 +1,6 @@
 ---
 Title: Microsoft için sunduğum CosmosDB Webineri
-PublishDate: 6/16/2017
+PublishDate: 16/6/2017
 IsActive: True
 Section: software
 MinutesSpent: 13

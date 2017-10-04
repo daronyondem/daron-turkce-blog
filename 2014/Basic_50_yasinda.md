@@ -1,7 +1,7 @@
 ---
 FallbackID: 2905
 Title: Basic 50 yaşında!
-PublishDate: 5/1/2014
+PublishDate: 1/5/2014
 EntryID: Basic_50_yasinda
 IsActive: True
 Section: software

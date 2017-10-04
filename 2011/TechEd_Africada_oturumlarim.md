@@ -1,7 +1,7 @@
 ---
 FallbackID: 2690
 Title: TechEd Africa'da oturumlarım.
-PublishDate: 9/7/2011
+PublishDate: 7/9/2011
 EntryID: TechEd_Africada_oturumlarim
 IsActive: True
 Section: software

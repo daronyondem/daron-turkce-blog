@@ -1,7 +1,7 @@
 ---
 FallbackID: 2796
 Title: Windows Phone Camp Istanbul
-PublishDate: 2/15/2012
+PublishDate: 15/2/2012
 EntryID: Windows_Phone_Camp_Istanbul
 IsActive: True
 Section: software

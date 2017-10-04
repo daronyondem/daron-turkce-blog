@@ -1,7 +1,7 @@
 ---
 FallbackID: 2887
 Title: Windows Phone'da XAML Transformasyonları
-PublishDate: 3/1/2014
+PublishDate: 1/3/2014
 EntryID: Windows_Phone_XAML_Transformasyonlari
 IsActive: True
 Section: software

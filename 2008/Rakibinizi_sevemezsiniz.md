@@ -1,7 +1,7 @@
 ---
 FallbackID: 1970
 Title: Rakibinizi sevemezsiniz!
-PublishDate: 2/27/2008
+PublishDate: 27/2/2008
 EntryID: Rakibinizi_sevemezsiniz
 IsActive: True
 Section: software

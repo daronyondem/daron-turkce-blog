@@ -1,7 +1,7 @@
 ---
 FallbackID: 2694
 Title: Silverlight 5 RC ile PInvoke kullanarak CD-ROM'u açalım :)
-PublishDate: 9/11/2011
+PublishDate: 11/9/2011
 EntryID: Silverlight_5_RC_ile_PInvoke
 IsActive: True
 Section: software

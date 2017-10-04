@@ -1,7 +1,7 @@
 ---
 FallbackID: 2854
 Title: Microsoft Yaz Okulu 2013
-PublishDate: 9/7/2013
+PublishDate: 7/9/2013
 EntryID: Microsoft_Yaz_Okulu_2013
 IsActive: True
 Section: software

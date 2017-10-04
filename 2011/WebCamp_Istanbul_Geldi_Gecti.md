@@ -1,7 +1,7 @@
 ---
 FallbackID: 2743
 Title: WebCamp İstanbul Geldi Geçti :)
-PublishDate: 12/19/2011
+PublishDate: 19/12/2011
 EntryID: WebCamp_Istanbul_Geldi_Gecti
 IsActive: True
 Section: software

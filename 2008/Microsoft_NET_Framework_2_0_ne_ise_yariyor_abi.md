@@ -1,7 +1,7 @@
 ---
 FallbackID: 1914
 Title: Microsoft .NET Framework 2.0 ne işe yarıyor abi?
-PublishDate: 1/10/2008
+PublishDate: 10/1/2008
 EntryID: Microsoft_NET_Framework_2_0_ne_ise_yariyor_abi
 IsActive: True
 Section: software

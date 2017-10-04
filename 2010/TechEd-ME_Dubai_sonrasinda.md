@@ -1,7 +1,7 @@
 ---
 FallbackID: 2494
 Title: TechEd-ME Dubai sonrasında...
-PublishDate: 3/4/2010
+PublishDate: 4/3/2010
 EntryID: TechEd-ME_Dubai_sonrasinda
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2533
 Title: SL4'te ListBox ile gelen yeni State'ler ve kullanımı ile oluşan hoş manzara.
-PublishDate: 9/3/2010
+PublishDate: 3/9/2010
 EntryID: SL4te_ListBox_ile_gelen_yeni_Stateler_ve_kullanimi_ile_olusan_hos_manzara
 IsActive: True
 Section: software

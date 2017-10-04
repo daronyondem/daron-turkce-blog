@@ -1,7 +1,7 @@
 ---
 FallbackID: 2744
 Title: HTML5'deki Yeni Input Type'lar
-PublishDate: 12/24/2011
+PublishDate: 24/12/2011
 EntryID: HTML5_deki_Yeni_Input_Typelar
 IsActive: True
 Section: software

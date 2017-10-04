@@ -1,7 +1,7 @@
 ---
 FallbackID: 2773
 Title: Varolan bir veritabanını Azure ortamına taşımak!
-PublishDate: 6/5/2012
+PublishDate: 5/6/2012
 EntryID: Varolan_bir_veritabanini_Azure_ortamina_tasimak
 IsActive: True
 Section: software

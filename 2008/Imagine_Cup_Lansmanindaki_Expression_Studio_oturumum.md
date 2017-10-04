@@ -1,7 +1,7 @@
 ---
 FallbackID: 2282
 Title: Imagine Cup Lansmanı'ndaki Expression Studio oturumum.
-PublishDate: 12/20/2008
+PublishDate: 20/12/2008
 EntryID: Imagine_Cup_Lansmanindaki_Expression_Studio_oturumum
 IsActive: True
 Section: software

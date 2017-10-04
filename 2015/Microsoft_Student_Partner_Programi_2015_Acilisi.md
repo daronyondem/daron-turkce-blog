@@ -1,7 +1,7 @@
 ---
 FallbackID: 2956
 Title: Microsoft Student Partner Programı 2015 Açılışı
-PublishDate: 2/24/2015
+PublishDate: 24/2/2015
 EntryID: Microsoft_Student_Partner_Programi_2015_Acilisi
 IsActive: True
 Section: software

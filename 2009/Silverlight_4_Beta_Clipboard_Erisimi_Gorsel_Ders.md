@@ -1,7 +1,7 @@
 ---
 FallbackID: 2465
 Title: Silverlight 4 Beta Clipboard Erişimi - Görsel Ders
-PublishDate: 12/3/2009
+PublishDate: 3/12/2009
 EntryID: Silverlight_4_Beta_Clipboard_Erisimi_Gorsel_Ders
 IsActive: True
 Section: software

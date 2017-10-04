@@ -1,7 +1,7 @@
 ---
 FallbackID: 2975
 Title: Düzce Üniversitesi Ziyaretim
-PublishDate: 5/6/2015
+PublishDate: 6/5/2015
 EntryID: Duzce_Universitesi_Ziyaretim
 IsActive: True
 Section: software

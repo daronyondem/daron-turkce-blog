@@ -1,7 +1,7 @@
 ---
 FallbackID: 2226
 Title: INETA Capital Hit Panel video kaydı...
-PublishDate: 10/25/2008
+PublishDate: 25/10/2008
 EntryID: INETA_Capital_Hit_Panel_video_kaydi
 IsActive: True
 Section: software

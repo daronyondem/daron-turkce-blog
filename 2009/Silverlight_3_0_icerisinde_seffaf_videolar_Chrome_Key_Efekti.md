@@ -1,7 +1,7 @@
 ---
 FallbackID: 2377
 Title: Silverlight 3.0 içerisinde şeffaf videolar (Chrome Key Efekti)
-PublishDate: 7/3/2009
+PublishDate: 3/7/2009
 EntryID: Silverlight_3_0_icerisinde_seffaf_videolar_Chrome_Key_Efekti
 IsActive: True
 Section: software

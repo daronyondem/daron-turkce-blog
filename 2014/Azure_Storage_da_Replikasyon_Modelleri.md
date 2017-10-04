@@ -1,7 +1,7 @@
 ---
 FallbackID: 2943
 Title: Azure Storage'da Replikasyon Modelleri
-PublishDate: 12/5/2014
+PublishDate: 5/12/2014
 EntryID: Azure_Storage_da_Replikasyon_Modelleri
 IsActive: True
 Section: software

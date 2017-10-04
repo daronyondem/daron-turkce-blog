@@ -1,7 +1,7 @@
 ---
 FallbackID: 1998
 Title: 4 Gün 4 Konu Eğitimi Talihlileri
-PublishDate: 3/23/2008
+PublishDate: 23/3/2008
 EntryID: 4_Gun_4_Konu_Egitimi_Talihlileri
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2724
 Title: Windows Phone 7.5'te Multitasking (Video)
-PublishDate: 11/4/2011
+PublishDate: 4/11/2011
 EntryID: Windows_Phone_75te_Multiasking
 IsActive: True
 Section: software

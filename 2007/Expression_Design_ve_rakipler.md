@@ -1,7 +1,7 @@
 ---
 FallbackID: 1855
 Title: Expression Design ve rakipler
-PublishDate: 11/20/2007
+PublishDate: 20/11/2007
 EntryID: Expression_Design_ve_rakipler
 IsActive: True
 Section: software

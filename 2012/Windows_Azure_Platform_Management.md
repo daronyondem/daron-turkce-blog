@@ -1,7 +1,7 @@
 ---
 FallbackID: 2781
 Title: Windows Azure Platform Management
-PublishDate: 7/31/2012
+PublishDate: 31/7/2012
 EntryID: Windows_Azure_Platform_Management
 IsActive: True
 Section: software

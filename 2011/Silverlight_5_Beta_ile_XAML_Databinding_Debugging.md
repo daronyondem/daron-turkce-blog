@@ -1,7 +1,7 @@
 ---
 FallbackID: 2559
 Title: Silverlight 5 Beta ile XAML / Databinding Debugging
-PublishDate: 4/16/2011
+PublishDate: 16/4/2011
 EntryID: Silverlight_5_Beta_ile_XAML_Databinding_Debugging
 IsActive: True
 Section: software

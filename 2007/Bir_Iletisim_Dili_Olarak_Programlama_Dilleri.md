@@ -1,7 +1,7 @@
 ---
 FallbackID: 1808
 Title: Bir İletişim Dili Olarak Programlama Dilleri
-PublishDate: 10/9/2007
+PublishDate: 9/10/2007
 EntryID: Bir_Iletisim_Dili_Olarak_Programlama_Dilleri
 IsActive: True
 Section: software

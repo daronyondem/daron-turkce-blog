@@ -1,7 +1,7 @@
 ---
 FallbackID: 1920
 Title: Silverlight Semineri
-PublishDate: 1/16/2008
+PublishDate: 16/1/2008
 EntryID: Silverlight_Semineri
 IsActive: True
 Section: software

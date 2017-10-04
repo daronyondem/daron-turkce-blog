@@ -1,7 +1,7 @@
 ---
 FallbackID: 1787
 Title: Web sitelerine içerik nasıl hazırlanmalı?
-PublishDate: 9/19/2007
+PublishDate: 19/9/2007
 EntryID: Web_sitelerine_icerik_nasil_hazirlanmali
 IsActive: True
 Section: software

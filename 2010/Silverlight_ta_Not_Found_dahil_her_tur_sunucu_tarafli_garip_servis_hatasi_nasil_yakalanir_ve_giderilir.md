@@ -1,7 +1,7 @@
 ---
 FallbackID: 2532
 Title: Silverlight'ta "Not Found" dahil her tür sunucu taraflı garip servis hatası nasıl yakalanır/giderilir
-PublishDate: 9/1/2010
+PublishDate: 1/9/2010
 EntryID: Silverlight_ta_Not_Found_dahil_her_tur_sunucu_tarafli_garip_servis_hatasi_nasil_yakalanir_ve_giderilir
 IsActive: True
 Section: software

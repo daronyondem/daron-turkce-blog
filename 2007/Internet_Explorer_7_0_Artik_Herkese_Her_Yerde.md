@@ -1,7 +1,7 @@
 ---
 FallbackID: 1803
 Title: Internet Explorer 7.0 Artık Herkese... Her Yerde...
-PublishDate: 10/5/2007
+PublishDate: 5/10/2007
 EntryID: Internet_Explorer_7_0_Artik_Herkese_Her_Yerde
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2036
 Title: Silverlight 2.0 Cross-Domain WebClient ile REST (GET) ve XLINQ Kullanımı
-PublishDate: 4/25/2008
+PublishDate: 25/4/2008
 EntryID: Silverlight_2_0_Cross-Domain_WebClient_ile_REST_GET_ve_XLINQ_Kullanimi
 IsActive: True
 Section: software

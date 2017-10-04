@@ -1,7 +1,7 @@
 ---
 FallbackID: 2301
 Title: Orijinal Silverlight 2 kontrolleri açık kaynak kodları ile dağıtımda!
-PublishDate: 1/8/2009
+PublishDate: 8/1/2009
 EntryID: Orijinal_Silverlight_2_kontrolleri_acik_kaynak_kodlari_ile_dagitimda
 IsActive: True
 Section: software

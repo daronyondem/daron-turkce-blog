@@ -1,7 +1,7 @@
 ---
 FallbackID: 2771
 Title: Windows Azure'da veritabanı olarak SQL Azure
-PublishDate: 5/22/2012
+PublishDate: 22/5/2012
 EntryID: Windows_Azure_da_veritabani_olarak_SQL_Azure
 IsActive: True
 Section: software

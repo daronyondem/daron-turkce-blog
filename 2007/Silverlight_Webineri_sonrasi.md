@@ -1,7 +1,7 @@
 ---
 FallbackID: 1802
 Title: Silverlight Webineri sonrası...
-PublishDate: 10/5/2007
+PublishDate: 5/10/2007
 EntryID: Silverlight_Webineri_sonrasi
 IsActive: True
 Section: software

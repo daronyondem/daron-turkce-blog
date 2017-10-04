@@ -1,7 +1,7 @@
 ---
 FallbackID: 1786
 Title: nedirtv?com'da WPF - Silverlight Bölümü Açtık!
-PublishDate: 9/14/2007
+PublishDate: 14/9/2007
 EntryID: nedirtv_com_da_WPF_-_Silverlight_Bolumu_Actik
 IsActive: True
 Section: software

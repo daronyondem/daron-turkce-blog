@@ -1,7 +1,7 @@
 ---
 FallbackID: 2547
 Title: Silverlight 4 içerisinde InkPresenter Kullanımı
-PublishDate: 2/3/2011
+PublishDate: 3/2/2011
 EntryID: Silverlight_4_icerisinde_InkPresenter_Kullanimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2782
 Title: Azure Storage Table Services
-PublishDate: 8/7/2012
+PublishDate: 7/8/2012
 EntryID: Azure_Storage_Table_Services
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2042
 Title: Silverlight 2.0 içerisinde Isolated Storage kullanımı
-PublishDate: 5/1/2008
+PublishDate: 1/5/2008
 EntryID: Silverlight_2_0_icerisinde_Isolated_Storage_kullanimi
 IsActive: True
 Section: software

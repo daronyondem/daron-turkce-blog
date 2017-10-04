@@ -1,7 +1,7 @@
 ---
 FallbackID: 2514
 Title: Isparta Süleyman Demirel Üniversitesi ziyaretim...
-PublishDate: 4/28/2010
+PublishDate: 28/4/2010
 EntryID: Isparta_Suleyman_Demirel_Universitesi_ziyaretim
 IsActive: True
 Section: software

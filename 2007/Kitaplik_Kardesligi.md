@@ -1,7 +1,7 @@
 ---
 FallbackID: 1832
 Title: Kitaplık Kardeşliği :)
-PublishDate: 10/31/2007
+PublishDate: 31/10/2007
 EntryID: Kitaplik_Kardesligi
 IsActive: True
 Section: software

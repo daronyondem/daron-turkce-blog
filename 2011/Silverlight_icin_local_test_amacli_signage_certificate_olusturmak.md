@@ -1,7 +1,7 @@
 ---
 FallbackID: 2572
 Title: Silverlight için local, test amaçlı signage certificate oluşturmak.
-PublishDate: 4/29/2011
+PublishDate: 29/4/2011
 EntryID: Silverlight_icin_local_test_amacli_signage_certificate_olusturmak
 IsActive: True
 Section: software

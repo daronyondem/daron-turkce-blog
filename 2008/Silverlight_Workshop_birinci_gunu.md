@@ -1,7 +1,7 @@
 ---
 FallbackID: 1985
 Title: Silverlight Workshop birinci günü.
-PublishDate: 3/10/2008
+PublishDate: 10/3/2008
 EntryID: Silverlight_Workshop_birinci_gunu
 IsActive: True
 Section: software

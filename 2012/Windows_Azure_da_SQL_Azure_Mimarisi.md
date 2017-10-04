@@ -1,7 +1,7 @@
 ---
 FallbackID: 2772
 Title: Windows Azure'da SQL Azure Mimarisi
-PublishDate: 5/29/2012
+PublishDate: 29/5/2012
 EntryID: Windows_Azure_da_SQL_Azure_Mimarisi
 IsActive: True
 Section: software

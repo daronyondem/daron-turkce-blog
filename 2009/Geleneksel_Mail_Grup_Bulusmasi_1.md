@@ -1,7 +1,7 @@
 ---
 FallbackID: 2323
 Title: Geleneksel Mail Grup Buluşması 1 
-PublishDate: 2/16/2009
+PublishDate: 16/2/2009
 EntryID: Geleneksel_Mail_Grup_Bulusmasi_1
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2113
 Title: Silverlight 2.0 içerisinde sağ tuş menüsünü değiştirmek.
-PublishDate: 7/5/2008
+PublishDate: 5/7/2008
 EntryID: Silverlight_2_0_icerisinde_sag_tus_menusunu_degistirmek
 IsActive: True
 Section: software

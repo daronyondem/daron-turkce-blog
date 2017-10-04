@@ -1,7 +1,7 @@
 ---
 FallbackID: 2741
 Title: MSP'lere özel Azure Camp!
-PublishDate: 12/9/2011
+PublishDate: 9/12/2011
 EntryID: MSP_lere_ozel_Azure_Camp
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2801
 Title: MVP Summit 2012
-PublishDate: 3/6/2012
+PublishDate: 6/3/2012
 EntryID: MVP_Summit_2012
 IsActive: True
 Section: software

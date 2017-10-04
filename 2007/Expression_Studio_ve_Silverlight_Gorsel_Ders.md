@@ -1,7 +1,7 @@
 ---
 FallbackID: 1824
 Title: Expression Studio ve Silverlight Görsel Ders
-PublishDate: 10/25/2007
+PublishDate: 25/10/2007
 EntryID: Expression_Studio_ve_Silverlight_Gorsel_Ders
 IsActive: True
 Section: software

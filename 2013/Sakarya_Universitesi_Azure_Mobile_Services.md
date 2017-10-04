@@ -1,7 +1,7 @@
 ---
 FallbackID: 2844
 Title: Sakarya Üniversitesi Azure Mobile Services Oturumum
-PublishDate: 5/1/2013
+PublishDate: 1/5/2013
 EntryID: Sakarya_Universitesi_Azure_Mobile_Services
 IsActive: True
 Section: software

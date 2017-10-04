@@ -1,7 +1,7 @@
 ---
 FallbackID: 2159
 Title: İzmir Microsoft Yaz Okulu
-PublishDate: 8/20/2008
+PublishDate: 20/8/2008
 EntryID: Izmir_Microsoft_Yaz_Okulu
 IsActive: True
 Section: software

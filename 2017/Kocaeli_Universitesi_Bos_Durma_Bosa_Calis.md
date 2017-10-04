@@ -1,7 +1,7 @@
 ---
 FallbackID: 3051
 Title: Kocaeli Üniversitesi'nde Boş Durma Boşa Çalış
-PublishDate: 3/7/2017
+PublishDate: 7/3/2017
 EntryID: Kocaeli_Universitesi_Bos_Durma_Bosa_Calis
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2048
 Title: Silverlight 2.0 ile ilgili yeni yazgelistir.com Makalelerim
-PublishDate: 5/7/2008
+PublishDate: 7/5/2008
 EntryID: Silverlight_2_0_ile_ilgili_yeni_yazgelistir_com_Makalelerim
 IsActive: True
 Section: software

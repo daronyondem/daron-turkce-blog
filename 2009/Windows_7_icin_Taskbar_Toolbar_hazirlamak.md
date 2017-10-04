@@ -1,7 +1,7 @@
 ---
 FallbackID: 2436
 Title: Windows 7 için Taskbar Toolbar hazırlamak.
-PublishDate: 10/29/2009
+PublishDate: 29/10/2009
 EntryID: Windows_7_icin_Taskbar_Toolbar_hazirlamak
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2130
 Title: RIAtalks Konferansı'nda Silverlight sunumum.
-PublishDate: 7/22/2008
+PublishDate: 22/7/2008
 EntryID: RIAtalks_Konferansinda_Silverlight_sunumum
 IsActive: True
 Section: software

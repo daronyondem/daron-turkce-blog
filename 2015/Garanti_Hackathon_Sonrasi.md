@@ -1,7 +1,7 @@
 ---
 FallbackID: 2989
 Title: Garanti Hackathon Sonrası
-PublishDate: 11/23/2015
+PublishDate: 23/11/2015
 EntryID: Garanti_Hackathon_Sonrasi
 IsActive: True
 Section: software

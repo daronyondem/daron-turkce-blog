@@ -1,7 +1,7 @@
 ---
 FallbackID: 2198
 Title: INETA Capital Hit
-PublishDate: 9/26/2008
+PublishDate: 26/9/2008
 EntryID: INETA_Capital_Hit
 IsActive: True
 Section: software

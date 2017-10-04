@@ -1,7 +1,7 @@
 ---
 FallbackID: 2701
 Title: ASP.NET 4.5'teki dahili JS/CSS Minification
-PublishDate: 9/18/2011
+PublishDate: 18/9/2011
 EntryID: ASPNET_45teki_dahili_JS_CSS_Minification
 IsActive: True
 Section: software

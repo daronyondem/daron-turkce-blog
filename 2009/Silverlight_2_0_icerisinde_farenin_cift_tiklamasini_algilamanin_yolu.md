@@ -1,7 +1,7 @@
 ---
 FallbackID: 2299
 Title: Silverlight 2.0 içerisinde farenin çift tıklamasını algılamanın yolu.
-PublishDate: 1/6/2009
+PublishDate: 6/1/2009
 EntryID: Silverlight_2_0_icerisinde_farenin_cift_tiklamasini_algilamanin_yolu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2908
 Title: Azure Mobile Services Webiner Kaydı
-PublishDate: 5/10/2014
+PublishDate: 10/5/2014
 EntryID: Azure_Mobile_Services_Webiner_Kaydi
 IsActive: True
 Section: software

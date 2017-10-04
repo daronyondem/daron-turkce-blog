@@ -1,7 +1,7 @@
 ---
 FallbackID: 3054
 Title: Karadeniz Teknik Üniversitesi'nde Azure anlattım.
-PublishDate: 3/16/2017
+PublishDate: 16/3/2017
 EntryID: Karadeniz_Teknik_Universitesinde_Azure_anlattim
 IsActive: True
 Section: software

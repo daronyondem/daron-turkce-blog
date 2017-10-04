@@ -1,7 +1,7 @@
 ---
 FallbackID: 2247
 Title: Bursa, Uludağ Üniversitesi'nde Silverlight ve WPF şenliği...
-PublishDate: 11/14/2008
+PublishDate: 14/11/2008
 EntryID: Bursa_Uludag_Universitesinde_Silverlight_ve_WPF_senligi
 IsActive: True
 Section: software

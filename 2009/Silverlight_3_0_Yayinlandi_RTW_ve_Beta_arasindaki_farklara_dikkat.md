@@ -1,7 +1,7 @@
 ---
 FallbackID: 2379
 Title: Silverlight 3.0 Yayınlandı - RTW ve Beta arasındaki farklara dikkat.
-PublishDate: 7/12/2009
+PublishDate: 12/7/2009
 EntryID: Silverlight_3_0_Yayinlandi_RTW_ve_Beta_arasindaki_farklara_dikkat
 IsActive: True
 Section: software

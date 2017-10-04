@@ -1,7 +1,7 @@
 ---
 FallbackID: 2280
 Title: INETA K12 Ekibi ve INETA K12 Konuşmacılarımız
-PublishDate: 12/18/2008
+PublishDate: 18/12/2008
 EntryID: INETA_K12_Ekibi_ve_INETA_K12_Konusmacilarimiz
 IsActive: True
 Section: software

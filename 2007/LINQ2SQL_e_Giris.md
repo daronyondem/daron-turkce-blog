@@ -1,7 +1,7 @@
 ---
 FallbackID: 1877
 Title: LINQ2SQL'e Giriş
-PublishDate: 12/8/2007
+PublishDate: 8/12/2007
 EntryID: LINQ2SQL_e_Giris
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3014
 Title: 2016 MVP Ödülü
-PublishDate: 4/18/2016
+PublishDate: 18/4/2016
 EntryID: 2016_MVP_Odulu
 IsActive: True
 Section: software

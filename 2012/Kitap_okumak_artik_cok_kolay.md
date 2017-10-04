@@ -1,7 +1,7 @@
 ---
 FallbackID: 2832
 Title: Kitap okumak artık çok kolay!
-PublishDate: 12/4/2012
+PublishDate: 4/12/2012
 EntryID: Kitap_okumak_artik_cok_kolay
 IsActive: True
 Section: software

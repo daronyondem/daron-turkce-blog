@@ -1,7 +1,7 @@
 ---
 FallbackID: 1725
 Title: SWOT Analizi nedir, nasıl yapılır?
-PublishDate: 4/12/2007
+PublishDate: 12/4/2007
 EntryID: SWOT_Analizi_nedir_nasil_yapilir
 IsActive: True
 Section: software

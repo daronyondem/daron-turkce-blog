@@ -1,7 +1,7 @@
 ---
 FallbackID: 1968
 Title: Dinamik Silverlight animasyonları yaratıyoruz.
-PublishDate: 2/25/2008
+PublishDate: 25/2/2008
 EntryID: Dinamik_Silverlight_animasyonlari_yaratiyoruz
 IsActive: True
 Section: software

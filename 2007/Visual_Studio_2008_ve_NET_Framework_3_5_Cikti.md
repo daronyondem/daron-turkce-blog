@@ -1,7 +1,7 @@
 ---
 FallbackID: 1856
 Title: Visual Studio 2008 ve .NET Framework 3.5 Çıktı!
-PublishDate: 11/20/2007
+PublishDate: 20/11/2007
 EntryID: Visual_Studio_2008_ve_NET_Framework_3_5_Cikti
 IsActive: True
 Section: software

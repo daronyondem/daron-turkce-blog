@@ -1,7 +1,7 @@
 ---
 FallbackID: 2404
 Title: Expression Blend 3 içerisinden SketchFlow'a ait görsel ders.
-PublishDate: 9/8/2009
+PublishDate: 8/9/2009
 EntryID: Expression_Blend_3_icerisinden_SketchFlowa_ait_gorsel_ders
 IsActive: True
 Section: software

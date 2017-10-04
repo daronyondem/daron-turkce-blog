@@ -1,7 +1,7 @@
 ---
 FallbackID: 2459
 Title: Silverlight 4 Beta ile WebCam desteği ve fotoğraf çekimi!
-PublishDate: 11/27/2009
+PublishDate: 27/11/2009
 EntryID: Silverlight_4_Beta_ile_WebCam_destegi_ve_fotograf_cekimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2035
 Title: Silverlgiht 2.0 ve WCF Servisleri
-PublishDate: 4/25/2008
+PublishDate: 25/4/2008
 EntryID: Silverlgiht_2_0_ve_WCF_Servisleri
 IsActive: True
 Section: software

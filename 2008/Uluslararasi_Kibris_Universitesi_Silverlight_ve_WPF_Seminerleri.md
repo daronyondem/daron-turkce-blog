@@ -1,7 +1,7 @@
 ---
 FallbackID: 2019
 Title: Uluslararası Kıbrıs Üniversitesi Silverlight ve WPF Seminerleri
-PublishDate: 4/10/2008
+PublishDate: 10/4/2008
 EntryID: Uluslararasi_Kibris_Universitesi_Silverlight_ve_WPF_Seminerleri
 IsActive: True
 Section: software

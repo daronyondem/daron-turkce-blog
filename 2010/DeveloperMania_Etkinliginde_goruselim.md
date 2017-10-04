@@ -1,7 +1,7 @@
 ---
 FallbackID: 2497
 Title: DeveloperMania Etkinliği'nde görüşelim!
-PublishDate: 3/24/2010
+PublishDate: 24/3/2010
 EntryID: DeveloperMania_Etkinliginde_goruselim
 IsActive: True
 Section: software

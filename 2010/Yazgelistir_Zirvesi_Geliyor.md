@@ -1,7 +1,7 @@
 ---
 FallbackID: 2513
 Title: Yazgeliştir Zirvesi Geliyor...
-PublishDate: 4/23/2010
+PublishDate: 23/4/2010
 EntryID: Yazgelistir_Zirvesi_Geliyor
 IsActive: True
 Section: software

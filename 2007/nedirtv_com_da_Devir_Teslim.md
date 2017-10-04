@@ -1,7 +1,7 @@
 ---
 FallbackID: 1860
 Title: nedirtv?com'da Devir Teslim
-PublishDate: 11/22/2007
+PublishDate: 22/11/2007
 EntryID: nedirtv_com_da_Devir_Teslim
 IsActive: True
 Section: software

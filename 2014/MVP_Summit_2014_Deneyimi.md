@@ -1,7 +1,7 @@
 ---
 FallbackID: 2922
 Title: MVP Summit 2014 Deneyimi
-PublishDate: 11/12/2014
+PublishDate: 12/11/2014
 EntryID: MVP_Summit_2014_Deneyimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2172
 Title: INETA Summer Hit 2008 Paneli video kaydı.
-PublishDate: 9/2/2008
+PublishDate: 2/9/2008
 EntryID: INETA_Summer_Hit_2008_Paneli_video_kaydi
 IsActive: True
 Section: software

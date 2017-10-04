@@ -1,7 +1,7 @@
 ---
 FallbackID: 2010
 Title: Silverlight ile Video Uygulamaları Eğitimi
-PublishDate: 4/3/2008
+PublishDate: 3/4/2008
 EntryID: Silverlight_ile_Video_Uygulamalari_Egitimi
 IsActive: True
 Section: software

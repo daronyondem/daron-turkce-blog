@@ -1,7 +1,7 @@
 ---
 FallbackID: 2749
 Title: INETA İzmir Paneli Kaydı (Video)
-PublishDate: 1/10/2012
+PublishDate: 10/1/2012
 EntryID: INETA_Izmir_Paneli_Video_Kaydi
 IsActive: True
 Section: software

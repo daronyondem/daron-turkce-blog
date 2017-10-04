@@ -1,7 +1,7 @@
 ---
 FallbackID: 2020
 Title: Microsoft SharePoint Konferansı Silverlight BluePrint
-PublishDate: 4/12/2008
+PublishDate: 12/4/2008
 EntryID: Microsoft_SharePoint_Konferansi_Silverlight_BluePrint
 IsActive: True
 Section: software

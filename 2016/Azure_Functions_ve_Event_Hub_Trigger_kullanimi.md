@@ -1,7 +1,7 @@
 ---
 FallbackID: 3043
 Title: Azure Functions ve Event Hub Trigger kullanımı
-PublishDate: 12/8/2016
+PublishDate: 8/12/2016
 EntryID: Azure_Functions_ve_Event_Hub_Trigger_kullanimi
 IsActive: True
 Section: software

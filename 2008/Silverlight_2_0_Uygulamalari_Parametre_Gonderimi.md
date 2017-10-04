@@ -1,7 +1,7 @@
 ---
 FallbackID: 2040
 Title: Silverlight 2.0 Uygulamaları Parametre Gönderimi
-PublishDate: 4/29/2008
+PublishDate: 29/4/2008
 EntryID: Silverlight_2_0_Uygulamalari_Parametre_Gonderimi
 IsActive: True
 Section: software

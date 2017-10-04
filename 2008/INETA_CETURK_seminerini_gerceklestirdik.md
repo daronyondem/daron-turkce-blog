@@ -1,7 +1,7 @@
 ---
 FallbackID: 2192
 Title: INETA CETURK seminerini gerçekleştirdik.
-PublishDate: 9/21/2008
+PublishDate: 21/9/2008
 EntryID: INETA_CETURK_seminerini_gerceklestirdik
 IsActive: True
 Section: software

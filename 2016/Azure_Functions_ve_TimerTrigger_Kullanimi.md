@@ -1,7 +1,7 @@
 ---
 FallbackID: 3041
 Title: Azure Functions ve TimerTrigger Kullanımı
-PublishDate: 12/6/2016
+PublishDate: 6/12/2016
 EntryID: Azure_Functions_ve_TimerTrigger_Kullanimi
 IsActive: True
 Section: software

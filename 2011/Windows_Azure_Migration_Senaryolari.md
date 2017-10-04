@@ -1,7 +1,7 @@
 ---
 FallbackID: 2735
 Title: Windows Azure Migration Senaryoları (Video)
-PublishDate: 11/26/2011
+PublishDate: 26/11/2011
 EntryID: Windows_Azure_Migration_Senaryolari
 IsActive: True
 Section: software

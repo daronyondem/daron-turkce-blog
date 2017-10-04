@@ -1,7 +1,7 @@
 ---
 FallbackID: 2492
 Title: 2009 Yılı Gold RD Ödülüm ve Türkiye'den yeni bir RD
-PublishDate: 2/25/2010
+PublishDate: 25/2/2010
 EntryID: 2009_Yili_Gold_RD_Odulum_ve_Turkiye_den_yeni_bir_RD
 IsActive: True
 Section: software

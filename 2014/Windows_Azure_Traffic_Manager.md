@@ -1,7 +1,7 @@
 ---
 FallbackID: 2889
 Title: Windows Azure Traffic Manager
-PublishDate: 3/4/2014
+PublishDate: 4/3/2014
 EntryID: Windows_Azure_Traffic_Manager
 IsActive: True
 Section: software

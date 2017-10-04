@@ -1,7 +1,7 @@
 ---
 FallbackID: 2310
 Title: INETA Week-End Kıbrıs'ı tamamladık.
-PublishDate: 1/19/2009
+PublishDate: 19/1/2009
 EntryID: INETA_Week-End_Kibrisi_tamamladik
 IsActive: True
 Section: software

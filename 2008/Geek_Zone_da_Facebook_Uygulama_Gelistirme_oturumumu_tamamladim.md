@@ -1,7 +1,7 @@
 ---
 FallbackID: 2209
 Title: Geek Zone'da Facebook Uygulama Geliştirme oturumumu tamamladım.
-PublishDate: 10/8/2008
+PublishDate: 8/10/2008
 EntryID: Geek_Zone_da_Facebook_Uygulama_Gelistirme_oturumumu_tamamladim
 IsActive: True
 Section: software

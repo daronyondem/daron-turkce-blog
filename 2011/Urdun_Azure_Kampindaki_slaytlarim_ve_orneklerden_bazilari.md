@@ -1,7 +1,7 @@
 ---
 FallbackID: 2544
 Title: Ürdün Azure Kampı'ndaki slaytlarım ve örneklerden bazıları.
-PublishDate: 1/31/2011
+PublishDate: 31/1/2011
 EntryID: Urdun_Azure_Kampindaki_slaytlarim_ve_orneklerden_bazilari
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2843
 Title: Azure Bootcamp İstanbul gerçekleşti!
-PublishDate: 4/28/2013
+PublishDate: 28/4/2013
 EntryID: Azure_Bootcamp_Istanbul_gerceklesti
 IsActive: True
 Section: software

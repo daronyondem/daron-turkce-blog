@@ -1,7 +1,7 @@
 ---
 FallbackID: 2418
 Title: WebsiteSpark ile web ajansları ve yazılım şirketlerine ücretsiz lisanslar!
-PublishDate: 9/26/2009
+PublishDate: 26/9/2009
 EntryID: WebsiteSpark_ile_web_ajanslari_ve_yazilim_sirketlerine_ucretsiz_lisanslar
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2677
 Title: Silverlight'tan tarayıcı penceresini kapatmak
-PublishDate: 8/31/2011
+PublishDate: 31/8/2011
 EntryID: silverlight_tarayici_penceresini_kapatmak
 IsActive: True
 Section: software

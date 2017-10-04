@@ -1,7 +1,7 @@
 ---
 FallbackID: 2051
 Title: Silverlight 2.0 ve Socket Programlama Mucizesi
-PublishDate: 5/10/2008
+PublishDate: 10/5/2008
 EntryID: Silverlight_2_0_ve_Socket_Programlama_Mucizesi
 IsActive: True
 Section: software

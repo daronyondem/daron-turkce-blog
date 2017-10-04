@@ -1,7 +1,7 @@
 ---
 FallbackID: 2276
 Title: Silverlight 2 DataGrid yenilendi! Aralık 2008 sürümü karşınızda.
-PublishDate: 12/15/2008
+PublishDate: 15/12/2008
 EntryID: Silverlight_2_DataGrid_yenilendi_Aralik_2008_surumu_karsinizda
 IsActive: True
 Section: software

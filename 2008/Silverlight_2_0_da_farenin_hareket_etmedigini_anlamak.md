@@ -1,7 +1,7 @@
 ---
 FallbackID: 2200
 Title: Silverlight 2.0'da farenin hareket etmediğini anlamak.
-PublishDate: 9/29/2008
+PublishDate: 29/9/2008
 EntryID: Silverlight_2_0_da_farenin_hareket_etmedigini_anlamak
 IsActive: True
 Section: software

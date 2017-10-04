@@ -1,7 +1,7 @@
 ---
 FallbackID: 1958
 Title: Silverlight ile bir EKG animasyonu
-PublishDate: 2/15/2008
+PublishDate: 15/2/2008
 EntryID: Silverlight_ile_bir_EKG_animasyonu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2693
 Title: SQL Express'ten Scheduled Backup Almak
-PublishDate: 9/10/2011
+PublishDate: 10/9/2011
 EntryID: SQL_Expressten_Scheduled_Backup_Almak
 IsActive: True
 Section: software

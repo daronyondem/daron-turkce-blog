@@ -1,7 +1,7 @@
 ---
 FallbackID: 2526
 Title: Windows Phone 7'de GPS sensörüne erişim.
-PublishDate: 5/13/2010
+PublishDate: 13/5/2010
 EntryID: Windows_Phone_7_de_GPS_sensorune_erisim
 IsActive: True
 Section: software

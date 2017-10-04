@@ -1,7 +1,7 @@
 ---
 FallbackID: 2272
 Title: Visual Basic 2008 Klavye Kısayolları Posteri
-PublishDate: 12/11/2008
+PublishDate: 11/12/2008
 EntryID: Visual_Basic_2008_Klavye_Kisayollari_Posteri
 IsActive: True
 Section: software

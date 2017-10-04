@@ -1,7 +1,7 @@
 ---
 FallbackID: 1740
 Title: Web Tasarımlarında Renklerin Ahengi
-PublishDate: 5/4/2007
+PublishDate: 4/5/2007
 EntryID: Web_Tasarimlarinda_Renklerin_Ahengi
 IsActive: True
 Section: software

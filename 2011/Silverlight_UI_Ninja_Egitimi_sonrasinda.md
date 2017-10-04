@@ -1,7 +1,7 @@
 ---
 FallbackID: 2571
 Title: Silverlight UI Ninja Eğitimi sonrasında...
-PublishDate: 4/27/2011
+PublishDate: 27/4/2011
 EntryID: Silverlight_UI_Ninja_Egitimi_sonrasinda
 IsActive: True
 Section: software

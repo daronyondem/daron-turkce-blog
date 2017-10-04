@@ -1,7 +1,7 @@
 ---
 FallbackID: 2969
 Title: Build 2015 2. Gün
-PublishDate: 4/30/2015
+PublishDate: 30/4/2015
 EntryID: Build_2015_2_Gun
 IsActive: True
 Section: software

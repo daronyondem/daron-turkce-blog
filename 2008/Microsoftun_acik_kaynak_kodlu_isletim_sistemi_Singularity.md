@@ -1,7 +1,7 @@
 ---
 FallbackID: 2255
 Title: Microsoft'un açık kaynak kodlu işletim sistemi Singularity
-PublishDate: 11/23/2008
+PublishDate: 23/11/2008
 EntryID: Microsoftun_acik_kaynak_kodlu_isletim_sistemi_Singularity
 IsActive: True
 Section: software

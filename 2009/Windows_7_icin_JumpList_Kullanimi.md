@@ -1,7 +1,7 @@
 ---
 FallbackID: 2438
 Title: Windows 7 için JumpList Kullanımı
-PublishDate: 10/31/2009
+PublishDate: 31/10/2009
 EntryID: Windows_7_icin_JumpList_Kullanimi
 IsActive: True
 Section: software

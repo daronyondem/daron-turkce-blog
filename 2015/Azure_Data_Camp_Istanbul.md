@@ -1,7 +1,7 @@
 ---
 FallbackID: 2985
 Title: Azure Data Camp Istanbul
-PublishDate: 10/28/2015
+PublishDate: 28/10/2015
 EntryID: Azure_Data_Camp_Istanbul
 IsActive: True
 Section: software

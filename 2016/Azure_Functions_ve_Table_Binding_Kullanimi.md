@@ -1,7 +1,7 @@
 ---
 FallbackID: 3042
 Title: Azure Functions ve Table Binding Kullanımı
-PublishDate: 12/7/2016
+PublishDate: 7/12/2016
 EntryID: Azure_Functions_ve_Table_Binding_Kullanimi
 IsActive: True
 Section: software

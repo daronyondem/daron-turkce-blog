@@ -1,7 +1,7 @@
 ---
 FallbackID: 2005
 Title: SL 2.0'da ZIP içerisinden asenkron kaynak kullanımı.
-PublishDate: 3/30/2008
+PublishDate: 30/3/2008
 EntryID: SL_2_0_da_ZIP_icerisinden_asenkron_kaynak_kullanimi
 IsActive: True
 Section: software

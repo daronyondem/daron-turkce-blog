@@ -1,7 +1,7 @@
 ---
 FallbackID: 2270
 Title: WPF uygulamalarında özel dosyaları Resource olarak saklamak ve kullanmak
-PublishDate: 12/9/2008
+PublishDate: 9/12/2008
 EntryID: WPF_uygulamalarinda_ozel_dosyalari_Resource_olarak_saklamak_ve_kullanmak
 IsActive: True
 Section: software

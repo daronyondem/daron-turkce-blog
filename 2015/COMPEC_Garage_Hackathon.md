@@ -1,7 +1,7 @@
 ---
 FallbackID: 2987
 Title: COMPEC Garage Hackathon
-PublishDate: 11/16/2015
+PublishDate: 16/11/2015
 EntryID: COMPEC_Garage_Hackathon
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1849
 Title: Aptana : Ücretsiz, Kahraman JavaScript Editörü
-PublishDate: 11/15/2007
+PublishDate: 15/11/2007
 EntryID: Aptana_Ucretsiz_Kahraman_JavaScript_Editoru
 IsActive: True
 Section: software

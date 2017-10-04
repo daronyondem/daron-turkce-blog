@@ -1,7 +1,7 @@
 ---
 FallbackID: 1953
 Title: Animasyonlu örnek bir Silverlight düğmesi hazırlıyoruz.
-PublishDate: 2/9/2008
+PublishDate: 9/2/2008
 EntryID: Animasyonlu_ornek_bir_Silverlight_dugmesi_hazirliyoruz
 IsActive: True
 Section: software

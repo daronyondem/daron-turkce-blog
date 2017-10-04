@@ -1,7 +1,7 @@
 ---
 FallbackID: 2562
 Title: Silverligh 5 Beta ve DoubleClick
-PublishDate: 4/19/2011
+PublishDate: 19/4/2011
 EntryID: Silverligh_5_Beta_ve_DoubleClick
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2506
 Title: Silverlight'ta DataGrid'in gruplama özelliği ve görsel özelleştirme taktiği.
-PublishDate: 4/6/2010
+PublishDate: 6/4/2010
 EntryID: Silverlightta_DataGrid_in_gruplama_ozelligi_ve_gorsel_ozellestirme_taktigi
 IsActive: True
 Section: software

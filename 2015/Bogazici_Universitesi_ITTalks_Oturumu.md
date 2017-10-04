@@ -1,7 +1,7 @@
 ---
 FallbackID: 2993
 Title: Boğaziçi Üniversitesi ITTalks Oturumu
-PublishDate: 12/16/2015
+PublishDate: 16/12/2015
 EntryID: Bogazici_Universitesi_ITTalks_Oturumu
 IsActive: True
 Section: software

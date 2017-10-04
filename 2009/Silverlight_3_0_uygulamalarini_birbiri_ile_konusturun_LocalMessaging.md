@@ -1,7 +1,7 @@
 ---
 FallbackID: 2368
 Title: Silverlight 3.0 uygulamalarını birbiri ile konuşturun : LocalMessaging
-PublishDate: 6/5/2009
+PublishDate: 5/6/2009
 EntryID: Silverlight_3_0_uygulamalarini_birbiri_ile_konusturun_LocalMessaging
 IsActive: True
 Section: software

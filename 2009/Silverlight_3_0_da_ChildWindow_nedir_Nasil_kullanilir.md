@@ -1,7 +1,7 @@
 ---
 FallbackID: 2367
 Title: Silverlight 3.0'da ChildWindow nedir? Nasıl kullanılır?
-PublishDate: 6/4/2009
+PublishDate: 4/6/2009
 EntryID: Silverlight_3_0_da_ChildWindow_nedir_Nasil_kullanilir
 IsActive: True
 Section: software

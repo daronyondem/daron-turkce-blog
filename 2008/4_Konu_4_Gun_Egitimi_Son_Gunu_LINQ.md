@@ -1,7 +1,7 @@
 ---
 FallbackID: 2023
 Title: "4 Konu 4 Gün Eğitimi" Son Günü : LINQ
-PublishDate: 4/14/2008
+PublishDate: 14/4/2008
 EntryID: 4_Konu_4_Gun_Egitimi_Son_Gunu_LINQ
 IsActive: True
 Section: software

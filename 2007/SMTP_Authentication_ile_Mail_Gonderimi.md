@@ -1,7 +1,7 @@
 ---
 FallbackID: 1800
 Title: SMTP Authentication ile Mail Gönderimi
-PublishDate: 10/4/2007
+PublishDate: 4/10/2007
 EntryID: SMTP_Authentication_ile_Mail_Gonderimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2165
 Title: INETA Summer Hit sunumları...
-PublishDate: 8/26/2008
+PublishDate: 26/8/2008
 EntryID: INETA_Summer_Hit_sunumlari
 IsActive: True
 Section: software

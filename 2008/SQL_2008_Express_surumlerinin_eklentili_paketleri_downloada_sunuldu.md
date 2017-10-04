@@ -1,7 +1,7 @@
 ---
 FallbackID: 2162
 Title: SQL 2008 Express sürümlerinin eklentili paketleri downloada sunuldu.
-PublishDate: 8/23/2008
+PublishDate: 23/8/2008
 EntryID: SQL_2008_Express_surumlerinin_eklentili_paketleri_downloada_sunuldu
 IsActive: True
 Section: software

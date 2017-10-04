@@ -1,7 +1,7 @@
 ---
 FallbackID: 1729
 Title: AJAX ve Güvenlik Sorunları
-PublishDate: 4/20/2007
+PublishDate: 20/4/2007
 EntryID: AJAX_ve_Guvenlik_Sorunlari
 IsActive: True
 Section: software

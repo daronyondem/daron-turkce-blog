@@ -1,7 +1,7 @@
 ---
 FallbackID: 2951
 Title: Microsoft Türkiye Cloud DevCamp Istanbul
-PublishDate: 12/17/2014
+PublishDate: 17/12/2014
 EntryID: Microsoft_Turkiye_Cloud_DevCamp_Istanbul
 IsActive: True
 Section: software

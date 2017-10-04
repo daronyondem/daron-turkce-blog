@@ -1,7 +1,7 @@
 ---
 FallbackID: 2116
 Title: Silverlight 2.0 Beta 2 ile ASP.NET Forms Authentication kullanımı
-PublishDate: 7/8/2008
+PublishDate: 8/7/2008
 EntryID: Silverlight_2_0_Beta_2_ile_ASP_NET_Forms_Authentication_kullanimi
 IsActive: True
 Section: software

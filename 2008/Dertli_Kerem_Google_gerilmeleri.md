@@ -1,7 +1,7 @@
 ---
 FallbackID: 2224
 Title: Dertli Kerem Google gerilmeleri!
-PublishDate: 10/23/2008
+PublishDate: 23/10/2008
 EntryID: Dertli_Kerem_Google_gerilmeleri
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1961
 Title: Artık blogumda fotoğraf albümü var ;)
-PublishDate: 2/18/2008
+PublishDate: 18/2/2008
 EntryID: Artik_blogumda_fotograf_albumu_var
 IsActive: True
 Section: software

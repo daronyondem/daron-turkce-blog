@@ -1,7 +1,7 @@
 ---
 FallbackID: 1946
 Title: PCnet Şubat 2008 Sayısı
-PublishDate: 2/5/2008
+PublishDate: 5/2/2008
 EntryID: PCnet_Subat_2008_Sayisi
 IsActive: True
 Section: software

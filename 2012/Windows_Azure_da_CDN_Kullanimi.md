@@ -1,7 +1,7 @@
 ---
 FallbackID: 2787
 Title: Windows Azure'da CDN Kullanımı
-PublishDate: 9/11/2012
+PublishDate: 11/9/2012
 EntryID: Windows_Azure_da_CDN_Kullanimi
 IsActive: True
 Section: software

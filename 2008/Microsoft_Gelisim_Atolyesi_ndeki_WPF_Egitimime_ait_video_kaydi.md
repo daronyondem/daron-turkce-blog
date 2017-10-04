@@ -1,7 +1,7 @@
 ---
 FallbackID: 2173
 Title: Microsoft Gelişim Atölyesi'ndeki WPF Eğitimime ait video kaydı.
-PublishDate: 9/2/2008
+PublishDate: 2/9/2008
 EntryID: Microsoft_Gelisim_Atolyesi_ndeki_WPF_Egitimime_ait_video_kaydi
 IsActive: True
 Section: software

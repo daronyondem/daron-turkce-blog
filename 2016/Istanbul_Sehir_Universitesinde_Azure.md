@@ -1,7 +1,7 @@
 ---
 FallbackID: 3010
 Title: İstanbul Şehir Üniversitesi'nde Azure
-PublishDate: 4/8/2016
+PublishDate: 8/4/2016
 EntryID: Istanbul_Sehir_Universitesinde_Azure
 IsActive: True
 Section: software

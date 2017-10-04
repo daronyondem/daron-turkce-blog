@@ -1,7 +1,7 @@
 ---
 FallbackID: 2820
 Title: Ekim'in Çekiliş Kitapları bu sefer 5 tane!
-PublishDate: 10/1/2012
+PublishDate: 1/10/2012
 EntryID: Ekim_in_Cekilis_Kitablari_bu_sefer_5_tane
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1863
 Title: Expression Encoder Webineri sonrasında...
-PublishDate: 11/27/2007
+PublishDate: 27/11/2007
 EntryID: Expression_Encoder_Webineri_sonrasinda
 IsActive: True
 Section: software

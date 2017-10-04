@@ -1,7 +1,7 @@
 ---
 FallbackID: 2687
 Title: WPF'te Dependency Property'lerde başka neler var
-PublishDate: 9/5/2011
+PublishDate: 5/9/2011
 EntryID: WPFte_Dependency_Propertylerde_baska_neler_var
 IsActive: True
 Section: software

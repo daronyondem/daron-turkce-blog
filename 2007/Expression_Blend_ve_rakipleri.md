@@ -1,7 +1,7 @@
 ---
 FallbackID: 1867
 Title: Expression Blend ve rakipleri
-PublishDate: 11/30/2007
+PublishDate: 30/11/2007
 EntryID: Expression_Blend_ve_rakipleri
 IsActive: True
 Section: software

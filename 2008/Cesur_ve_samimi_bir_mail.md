@@ -1,7 +1,7 @@
 ---
 FallbackID: 2143
 Title: Cesur ve samimi bir mail...
-PublishDate: 8/4/2008
+PublishDate: 4/8/2008
 EntryID: Cesur_ve_samimi_bir_mail
 IsActive: True
 Section: software

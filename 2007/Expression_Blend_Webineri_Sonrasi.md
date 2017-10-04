@@ -1,7 +1,7 @@
 ---
 FallbackID: 1816
 Title: Expression Blend Webineri Sonrası
-PublishDate: 10/19/2007
+PublishDate: 19/10/2007
 EntryID: Expression_Blend_Webineri_Sonrasi
 IsActive: True
 Section: software

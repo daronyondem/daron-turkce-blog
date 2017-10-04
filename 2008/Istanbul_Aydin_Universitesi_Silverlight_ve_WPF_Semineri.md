@@ -1,7 +1,7 @@
 ---
 FallbackID: 2039
 Title: İstanbul Aydın Üniversitesi, Silverlight ve WPF Semineri
-PublishDate: 4/27/2008
+PublishDate: 27/4/2008
 EntryID: Istanbul_Aydin_Universitesi_Silverlight_ve_WPF_Semineri
 IsActive: True
 Section: software

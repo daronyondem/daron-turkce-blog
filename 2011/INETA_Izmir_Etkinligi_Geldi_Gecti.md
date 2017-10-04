@@ -1,7 +1,7 @@
 ---
 FallbackID: 2742
 Title: INETA İzmir Etkinliği Geldi Geçti.. :)
-PublishDate: 12/13/2011
+PublishDate: 13/12/2011
 EntryID: INETA_Izmir_Etkinligi_Geldi_Gecti
 IsActive: True
 Section: software

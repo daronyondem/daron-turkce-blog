@@ -1,7 +1,7 @@
 ---
 FallbackID: 2124
 Title: Soru Sorma Merkezi'nde 1 ayda 100 soru cevaplandı!
-PublishDate: 7/15/2008
+PublishDate: 15/7/2008
 EntryID: Soru_Sorma_Merkezi_nde_1_ayda_100_soru_cevaplandi
 IsActive: True
 Section: software

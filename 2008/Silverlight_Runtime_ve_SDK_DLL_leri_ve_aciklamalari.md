@@ -1,7 +1,7 @@
 ---
 FallbackID: 2103
 Title: Silverlight Runtime ve SDK DLL'leri ve açıklamaları
-PublishDate: 6/24/2008
+PublishDate: 24/6/2008
 EntryID: Silverlight_Runtime_ve_SDK_DLL_leri_ve_aciklamalari
 IsActive: True
 Section: software

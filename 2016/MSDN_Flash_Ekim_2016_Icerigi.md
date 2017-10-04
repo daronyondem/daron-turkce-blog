@@ -1,7 +1,7 @@
 ---
 FallbackID: 3028
 Title: MSDN Flash Ekim 2016 İçeriği
-PublishDate: 10/27/2016
+PublishDate: 27/10/2016
 EntryID: MSDN_Flash_Ekim_2016_Icerigi
 IsActive: True
 Section: software
