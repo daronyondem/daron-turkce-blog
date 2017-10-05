@@ -1,0 +1,20 @@
+[
+   {
+      "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]post[/]",
+      "RedirectionType":"Lookup"
+   },
+   {
+      "PatternToMatch":"[/]permalink.aspx[?]guid=",
+      "RedirectionType":"Lookup"
+   },
+   {
+      "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]blog",
+      "RedirectionType":"URL",
+      "URL":"/"
+   },
+   {
+      "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]rss",
+      "RedirectionType":"URL",
+      "URL":"/rss"
+   }
+]
