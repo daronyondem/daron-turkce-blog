@@ -16,5 +16,15 @@
       "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]rss",
       "RedirectionType":"URL",
       "URL":"/rss"
+   },
+   {
+      "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]archive",
+      "RedirectionType":"URL",
+      "URL":"/"
+   },
+   {
+      "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]page",
+      "RedirectionType":"URL",
+      "URL":"/"
    }
 ]
