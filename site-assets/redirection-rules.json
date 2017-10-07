@@ -26,5 +26,10 @@
       "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]page",
       "RedirectionType":"URL",
       "URL":"/"
+   },
+   {
+      "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]tag",
+      "RedirectionType":"URL",
+      "URL":"/"
    }
 ]
