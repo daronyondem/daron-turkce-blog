@@ -1,6 +1,6 @@
 [
    {
-      "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness))[/]post[/]",
+      "PatternToMatch":"[/]((tr)|(en)|(software)|(fitness)|(blog))[/]post[/]",
       "RedirectionType":"Lookup"
    },
    {
