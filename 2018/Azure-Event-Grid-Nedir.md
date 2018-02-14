@@ -1,6 +1,6 @@
 ﻿---
 Title: Azure Event Grid Nedir?
-PublishDate: 13/2/2017
+PublishDate: 13/2/2018
 IsActive: True
 MinutesSpent: 157 
 Tags: Azure Event Grid, Eventing, Azure Functions
