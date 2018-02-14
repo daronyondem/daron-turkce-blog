@@ -49,7 +49,7 @@ Yukarıdaki ekran görüntüsünde tüm gerekli ayarları görebilirsiniz. Anlat
 - **Suffix Filter**: Ben kullanmadım fakat ne işe yaradığı sanırım belli :) Blob URL suffix matching yapabiliyorsunuz.   
 
 Azure Functions tarafında Event'i adam gibi deserialize etmek için de kodu aşağıdaki şekilde değiştirebilirsiniz:)   
-
+   
 ```CS
 #r "Newtonsoft.Json"
 #r "Newtonsoft.Json"
@@ -81,8 +81,8 @@ Azure Event Grid'in fiyatlandırması gerçek bir cloud hizmetinin fiyatlandırm
 
 * 99.99% SLA
 * [Management SDK'leri Python, .Net, ve Node.js](https://docs.microsoft.com/azure/event-grid/sdk-overview)'leri için şu an yayında. Go, Ruby, ve Java SDK'leri ise yakında gelecek. 
-* [Publish SDK için şu an .Net desteği var](https://docs.microsoft.com/azure/event-grid/sdk-overview). Python, Node.js, Go, Ruby, ve Java yakında gelecek. 
-
+* [Publish SDK için şu an .Net desteği var](https://docs.microsoft.com/azure/event-grid/sdk-overview). Python, Node.js, Go, Ruby, ve Java yakında gelecek.   
+   
 Şimdilik bu kadar :) Sonraki yazılarda görüşmek üzere.
 
 
