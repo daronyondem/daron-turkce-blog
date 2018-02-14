@@ -1,6 +1,6 @@
 ﻿---
 Title: NBUY Geleceğine Yön Ver Etkinliğindeydim
-PublishDate: 10/2/2017
+PublishDate: 10/2/2018
 IsActive: True
 MinutesSpent: 12
 Tags: Seminer, Kişisel Gelişim
