@@ -46,9 +46,9 @@ Yukarıdaki ekran görüntüsünde tüm gerekli ayarları görebilirsiniz. Anlat
 - **Subscriber Type**: Event Hub veya Webhook olabiliyor. Azure Function için built-in Webhook desteği daha rahat oluyor diye düşündüm.
 - **Subscriber Endpoint**: Buradaki endpoint [EventGridExtensions](https://github.com/Azure/azure-functions-eventgrid-extension/blob/master/src/EventGridExtension/EventGridExtensionConfig.cs)'dan geliyor. Event Grid'e subscribe olurkenki validasyon gibi konuları bu extension hallediyor ve bizim Function içinde uğraşmamıza gerek kalmıyor. Bu konuyu da ileriki bir yazıda Azure dışı handler kullanırken inceleyeceğiz.
 - **Prefix Filter**: Sadece belirli bir containerdaki dosyaları işleyebilecek örnek bir filtre koymak istedim.
-- **Suffix Filter**: Ben kullanmadım fakat ne işe yaradığı sanırım belli :) Blob URL suffix matching yapabiliyorsunuz.
+- **Suffix Filter**: Ben kullanmadım fakat ne işe yaradığı sanırım belli :) Blob URL suffix matching yapabiliyorsunuz.   
 
-Azure Functiont tarafında Event'i adam gibi deserialize etmek için de kodu aşağıdaki şekilde değiştirebilirsiniz:)
+Azure Functions tarafında Event'i adam gibi deserialize etmek için de kodu aşağıdaki şekilde değiştirebilirsiniz:)   
 
 ```CS
 #r "Newtonsoft.Json"
