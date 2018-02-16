@@ -12,7 +12,7 @@ Hiç webhook açmak zorunda kaldınız mı? Veya şöyle sorayım; hiç size ait
 
 ### Eventin hangi tarafındasınız?
 
-Bu noktadan sonra Event Grid ile ilgilenme şekliniz aslında Event'in hangi tarafında olacağınıza göre değişiyor. Event alacak olan taraftaysanız (Handler) size verilecek bir endpointe subscribe olmanız gerekecek. Bu konuda da eğer elinizde özel olarak custom bir publisher (event yollayan) yoksa Azure içerisindeki implemantasyonlara göz atabilirsiniz. Azure kendi içinde de Event Grid'i kullanıyor ve çoğu hizmetin zaten Event Grid entegrasyonu var. Aşağıdaki grafikte de görebileceğiniz üzere default Azure Publisher'larından herhangi birine gidip subscribe olabilirsiniz. (Custom Topics konusuna sonraki bir yazıda bakacağız)
+Bu noktadan sonra Event Grid ile ilgilenme şekliniz aslında Event'in hangi tarafında olacağınıza göre değişiyor. Event alacak olan taraftaysanız (Handler) size verilecek bir endpointe subscribe olmanız gerekecek. Bu konuda da eğer elinizde özel olarak custom bir publisher (event yollayan) yoksa Azure içerisindeki implemantasyonlara göz atabilirsiniz. Azure kendi içinde de Event Grid'i kullanıyor ve çoğu hizmetin zaten Event Grid entegrasyonu var. Aşağıdaki grafikte de görebileceğiniz üzere default Azure Publisher'larından herhangi birine gidip subscribe olabilirsiniz. (Custom Topics konusuna sonraki bir yazıda bakacağız *Edit:[Event-Grid-Harici-Publisher-Handler](Yazı burada)*)
 
 ![Azure Event Grid Publisher ve Handler'lar](media/Azure-Event-Grid-Nedir/event-grid.gif)
 
