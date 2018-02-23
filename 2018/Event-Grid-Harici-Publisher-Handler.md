@@ -95,7 +95,7 @@ Bu hali ile Azure Function'ı koyduğumuz artık bu Function'ın HTTP Adresini a
 
 ![Event Grid'e subscribe oluyoruz.](media/Event-Grid-Harici-Publisher-Handler/event-subscription.jpg)
 
-Hemen Azure Portal'ında Event Grid Topic'e gidip **"+Event Subscriber"** diyoruz. Karşınıza yukarıdaki gibi bir ekran gelecektir. Buradan subscription'a bir isim verip **Subscriber Type** olarak da **Webhook** seçin. Son olarak bir de bizim Azure Function'ın HTTP adresini koyduk mu işlem tamamdır. Buradaki **Prefix Filter** ve **Suffix Filter** gelen eventin **Subject**i üzerinden işleyecek. Eğer filtrelemek istiyorsanız bu bilgileri de girebilirsiniz. 
+Hemen Azure Portal'ında Event Grid Topic'e gidip **"+Event Subscriber"** diyoruz. Karşınıza yukarıdaki gibi bir ekran gelecektir. Buradan subscription'a bir isim verip **Subscriber Type** olarak da **Webhook** seçin. Son olarak bir de bizim Azure Function'ın HTTP adresini koyduk mu işlem tamamdır. Buradaki **Prefix Filter** ve **Suffix Filter** gelen eventin **Subject**i üzerinden işleyecek. Eğer filtrelemek istiyorsanız bu bilgileri de girebilirsiniz. Ben **Subscribe to all event types** dedim, fakat siz buradan da filtrelemeler yapabilirsiniz. Event Type'lar one-to-one match olarak kullanılabilir ve **Advanced Matching** olarak sayılmadıklarında filtreleme için ayrı olarak para ödemezsiniz. Fiyatlandırma konusuna [önceki yazıda](Azure-Event-Grid-Nedir) göz atmıştık.
 
 ![Validasyon kodu geldi.](media/Event-Grid-Harici-Publisher-Handler/event-subscription-schema.jpg)
 
