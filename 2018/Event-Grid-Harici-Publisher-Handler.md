@@ -65,19 +65,16 @@ public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceW
 {
     var messages = await req.Content.ReadAsAsync<JArray>();
     log.Info(req.Content.ReadAsStringAsync().Result);
-    
     if (messages.Count > 0 && string.Equals((string)messages[0]["eventType"], 
         "Microsoft.EventGrid.SubscriptionValidationEvent", 
         System.StringComparison.OrdinalIgnoreCase))
     {
         log.Info("Validate request received");
-        
         return req.CreateResponse<object>(new
         {
             validationResponse = messages[0]["data"]["validationCode"]
         });
     }
-
     foreach (JObject message in messages)
     {
         EventGridEvent eventGridEvent = message.ToObject<EventGridEvent>();
@@ -85,7 +82,6 @@ public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceW
         log.Info($"Time: {eventGridEvent.EventTime}");
         log.Info($"Event data: {eventGridEvent.Data.ToString()}");
     }
-
     return req.CreateResponse(HttpStatusCode.OK);
 }
 ```
