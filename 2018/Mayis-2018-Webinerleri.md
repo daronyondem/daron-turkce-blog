@@ -34,7 +34,8 @@ Hani etkinlik yaptığımızda sürekli soruyorsunuz ya :) "Kaydı alınacak mı
         <td>30.05.2018 19.00</td>
         <td><a href="https://info.microsoft.com/ME-AZUREPLAT-WBNR-FY18-05May-30-AzureFunctions-MCW0007001_01Registration-ForminBody.html" target="_blank">Kaydol</a></td>
     </tr>
-</table>
+</table>   
+   
 <!---
 | Konu                                   | Tarih      |        |
 |----------------------------------------|------------|--------|
@@ -42,7 +43,8 @@ Hani etkinlik yaptığımızda sürekli soruyorsunuz ya :) "Kaydı alınacak mı
 | Infrastructure as Code with Azure      | 23.05.2018 19.00 | [Kaydol](https://info.microsoft.com/ME-AZUREPLAT-WBNR-FY18-05May-23-InfrastructureasCodewithAzure-MCW0006999_01Registration-ForminBody.html) |
 | Cognitive Services                     | 24.05.2018 19.00 | [Kaydol](https://info.microsoft.com/ME-AZUREPLAT-WBNR-FY18-05May-24-CognitiveServicesWebinar-MCW0007000_01Registration-ForminBody.html) |
 | Azure Functions ile Serverless'a Giriş | 30.05.2018 19.00 | [Kaydol](https://info.microsoft.com/ME-AZUREPLAT-WBNR-FY18-05May-30-AzureFunctions-MCW0007001_01Registration-ForminBody.html) |
--->
+-->   
+   
 Bu webinerlerin kayıtlar da tabi ki olacak :) Ama siz yine de canlı canlı katılmaya çalışın derim. Nitekim [giik.fm](giik.fm)'den biliyorsanız Yiğit bu konuda biraz hassas :) Kısmetse Haziran'da da yine dört webiner yapma planımız var. Konu tavsiyeleriniz varsa [twitter](https://twitter.com/daronyondem)'dan beklerim ;)
 
 Görüşmek üzere.
