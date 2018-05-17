@@ -22,7 +22,7 @@ Herşey bittiğinde Topic'in sayfasına giderek Endpoint adresini alabileceksini
 
 ![Event Grid Topic hazır ve endpoint alınabilir durumda.](media/Event-Grid-Harici-Publisher-Handler/event-grid-topic-created.jpg)
 
-Bu noktada Endpoint'i aldıktan sonra buraya ulaşmak için kullanabileceğiniz iki farklı Authentication metodu var. Birincisi "Access Keys" sekmesinden alacağınız Key'i HttpRequest'in Header'ında `aeg-sas-key` olarak taşımak. İkinci seçenek ise Shared Access Signature (SAS) kullanmak. SAS Token'ı de yine Hedaer'da taşımanız gerekiyor, fakat bu sefer header key `aeg-sas-token` olacak. Yazıyı uzatmamak adına SAS Token kısmına girmeyeceğim. Access Key ile devam edeceğiz. 
+Bu noktada Endpoint'i aldıktan sonra buraya ulaşmak için kullanabileceğiniz iki farklı Authentication metodu var. Birincisi "Access Keys" sekmesinden alacağınız Key'i HttpRequest'in Header'ında `aeg-sas-key` olarak taşımak. İkinci seçenek ise Shared Access Signature (SAS) kullanmak. SAS Token'ı de yine header'da taşımanız gerekiyor, fakat bu sefer header key `aeg-sas-token` olacak. Yazıyı uzatmamak adına SAS Token kısmına girmeyeceğim. Access Key ile devam edeceğiz. 
 
 ![Fiddler ile Event Publish ederken.](media/Event-Grid-Harici-Publisher-Handler/event-data-send-fiddler.jpg)
 
