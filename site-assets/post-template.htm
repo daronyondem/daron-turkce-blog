@@ -30,7 +30,7 @@
             } );
 
             function imageLoaded(sender) {
-                if(sender.clientWidth < rootDiv.clientWidth)
+                if(sender.clientWidth < (rootDiv.clientWidth + 1))
                 {
                     sender.style.marginLeft = 0
                 }
