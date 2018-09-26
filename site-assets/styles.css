@@ -151,6 +151,7 @@ h1 {
    font-weight: 400;
    text-transform: uppercase;
    border-top:1px solid black;
+   font-family: "Jockey One";
 }
 
 p.inverse-big {
@@ -288,6 +289,7 @@ h3 {
    color: rgba(51, 51, 51, 1);
    font-weight: 400;
    text-transform: lowercase;
+   font-family: "Jockey One";
 }
 .header 
 {
