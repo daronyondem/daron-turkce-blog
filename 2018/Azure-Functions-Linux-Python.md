@@ -1,5 +1,5 @@
 ---
-Title: Azure Functions ile Linux'te Pyhton
+Title: Azure Functions ile Linux'te Python
 PublishDate: 12/10/2018
 IsActive: True
 IsListed: True
