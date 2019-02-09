@@ -1,0 +1,42 @@
+
+.button{
+	border: 2px solid #736357;
+	background-color: #736357;
+	color: #fff;	
+}
+.button:before{
+	background-color: #fff;
+   border: 2px solid #fff;
+}
+.button:hover, .button:active {
+   color: #000;
+   border: 2px solid #736357;
+   background-color: #fff;
+}
+.button.bordered:hover, .button.bordered:active, .button.bordered:focus  {
+   color: #000;
+   border: 2px solid #736357;
+   background-color: #fff;
+}
+
+.skill .bar .bar-active, .skill .bar .bar-background, .tse-scrollbar .drag-handle {
+  background-color: #736357;
+}
+.side-panel .social .fa a, .side-panel .description i{
+	color: #fff;
+}
+.side-panel i, .social a:hover, .mfValidation {
+	color: #736357;
+}
+
+.side-panel .gallery .gallery-item .description {
+  background-color: rgba(115, 99, 87, 0.5);
+}
+
+.modal .modal-content:before {
+ border: solid 1px rgba(115, 99, 87, 0.5);
+}
+
+#player-nav li:hover {
+	background:rgba(115, 99, 87, 0.8)
+}
