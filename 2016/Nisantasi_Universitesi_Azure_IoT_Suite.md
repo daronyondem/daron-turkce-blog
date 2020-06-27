@@ -10,7 +10,7 @@ Tags: Azure IoT Hub, Seminer, Windows Azure
 ---
 Dün Nışantaşı Üniversitesi'ndeydim. **Azure IoT Suite** üzerine bir oturumum vardı. Oturumda IoT Suite içerisindeki iki projeden bahsederken IoT Hub'ın da biraz detaylarına girdik. Sunum dosyasına isteyenler [buradan](http://j.mp/darondecks) ulaşabilirler.
 
-![](media/Nisantasi_Universitesi_Azure_IoT_Suite/nisantasiuni.jpg)￼
+![](media/Nisantasi_Universitesi_Azure_IoT_Suite/nisantasiuni.jpg)
 
 Artık söylememe gerek var mı bilmiyorum :) ama gün boyunca yine bir VLOG da çektim. 
 
