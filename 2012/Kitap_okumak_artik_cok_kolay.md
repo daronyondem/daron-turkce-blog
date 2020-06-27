@@ -103,7 +103,7 @@ daha çok kitap okumaya motive eder. En azından bende durum böyle
 oluyordu :) Okuduğum bir kitabı çöpe atıp, "Tamam bitti işim"
 diyemiyordum. Ama tabi eninde sonunda o kitaplar atılıyor, yani nereye
 kadar biriktireceksin ki? Ama benim bu soruna da çözümüm var!
-Evet![Goodreads](http://www.goodreads.com/daronyondem)!
+Evet! [Goodreads](http://www.goodreads.com/daronyondem)!
 
 [GoodReads](http://www.goodreads.com/daronyondem) kesinlikle okuma
 alışkanlıklarımı değiştiren ve muhteşem kitaplara ulaşmamı sağlayan bir
