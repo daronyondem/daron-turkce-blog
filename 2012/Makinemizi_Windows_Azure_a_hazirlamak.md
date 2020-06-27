@@ -1,7 +1,7 @@
 ---
 FallbackID: 2758
-Title: Makinemizi Windows Azure'a hazırlamak
-PublishDate: 27/3/2012
+Title: "Makinemizi Windows Azure'a hazırlamak"
+date: "2012-3-27"
 EntryID: Makinemizi_Windows_Azure_a_hazirlamak
 IsActive: True
 Section: software

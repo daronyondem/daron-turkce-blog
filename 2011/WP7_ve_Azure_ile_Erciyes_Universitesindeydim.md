@@ -1,7 +1,7 @@
 ---
 FallbackID: 2718
-Title: WP7 ve Azure ile Erciyes Üniversitesin'deydim
-PublishDate: 28/10/2011
+Title: "WP7 ve Azure ile Erciyes Üniversitesin'deydim"
+date: "2011-10-28"
 EntryID: WP7_ve_Azure_ile_Erciyes_Universitesindeydim
 IsActive: True
 Section: software

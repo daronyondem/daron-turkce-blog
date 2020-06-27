@@ -1,7 +1,7 @@
 ---
 FallbackID: 2918
-Title: GurmeRun 6.2K
-PublishDate: 29/9/2014
+Title: "GurmeRun 6.2K"
+date: "2014-9-29"
 EntryID: GurmeRun_6_2K
 IsActive: True
 Section: fitness
@@ -32,14 +32,18 @@ trafiğin bu kadar yoğun olduğu bir bölgede organizasyon yapmak her
 babayiğidin harcı olmasa gerek diye tahmin ediyorum. Nitekim bu noktada
 Şişli Belediye'sinden de büyük yardım aldıkları ortada. Etkinlik boyunca
 defalarca teşekkür ettiler belediyeye.
-<iframe class="vine-embed" src="https://vine.co/v/OZjQ2FamUKv/embed/simple?related=0" width="480" height="480" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
+
+<iframe class="vine-embed" src="https://vine.co/v/OZjQ2FamUKv/embed/simple?related=0" width="480" height="480" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
+
 Etkinliğin sabahından bahsetmedim :) Pazar günü İstanbul sabahını
 hatırlayanlar bilirler, inanılmaz bir yağmur yağıyordu. Yine de
 etkinliğe çok ciddi katılım oldu. Yukarıdaki Vine'da yarış sonrası
 ortamı görebilirsiniz. Yarış esnasında ise yağmur yapmadı :) Aslında bu
 bir şans mı yoksa şanssızlık mı bilemiyorum. Uzun zaman olmuştu yağmurda
 koşmayalı ve kendimi çok hazırlamıştım. O nedenle sanırım ben biraz
-hayal kırıkığlığına uğradım.<iframe src="//instagram.com/p/tfGqaEEANc/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+hayal kırıkığlığına uğradım.
+
+<iframe src="//instagram.com/p/tfGqaEEANc/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 Peki etkinlikle ilgili hiç eleştirim yok mu? Bir tane var. Koşu
 esnasından koşuculara verilen sular yine bardaktaydı! "Yine" diyorum

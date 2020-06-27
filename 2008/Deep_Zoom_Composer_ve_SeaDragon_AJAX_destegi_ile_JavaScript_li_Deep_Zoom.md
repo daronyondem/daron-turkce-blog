@@ -1,7 +1,7 @@
 ---
 FallbackID: 2256
-Title: Deep Zoom Composer ve SeaDragon AJAX desteği ile JavaScript'li Deep Zoom!
-PublishDate: 23/11/2008
+Title: "Deep Zoom Composer ve SeaDragon AJAX desteği ile JavaScript'li Deep Zoom!"
+date: "2008-11-23"
 EntryID: Deep_Zoom_Composer_ve_SeaDragon_AJAX_destegi_ile_JavaScript_li_Deep_Zoom
 IsActive: True
 Section: software

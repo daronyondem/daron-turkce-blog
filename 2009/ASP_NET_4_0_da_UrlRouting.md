@@ -1,7 +1,7 @@
 ---
 FallbackID: 2413
-Title: ASP.NET 4.0'da UrlRouting
-PublishDate: 16/9/2009
+Title: "ASP.NET 4.0'da UrlRouting"
+date: "2009-9-16"
 EntryID: ASP_NET_4_0_da_UrlRouting
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2884
-Title: Azure'da Service Upgrade (SDK2.2)
-PublishDate: 24/2/2014
+Title: "Azure'da Service Upgrade (SDK2.2)"
+date: "2014-2-24"
 EntryID: Azure_da_Service_Upgrade_SDK2_2
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2959
-Title: Table Services SDK 2.5 Continuation Token
-PublishDate: 11/3/2015
+Title: "Table Services SDK 2.5 Continuation Token"
+date: "2015-3-11"
 EntryID: Table_Services_SDK_25_Continuation_Token
 IsActive: True
 Section: software
@@ -53,11 +53,15 @@ TableQuery<CustomerEntity> partitionScanQuery = new TableQuery<CustomerEntity>()
 TableContinuationToken token = null;
 do
 {
-    TableQuerySegment<CustomerEntity> segment =         await table.ExecuteQuerySegmentedAsync(partitionScanQuery, token);
+    TableQuerySegment<CustomerEntity> segment = 
+        await table.ExecuteQuerySegmentedAsync(partitionScanQuery, token);
     token = segment.ContinuationToken;
     foreach (CustomerEntity entity in segment)
     {
-        Console.WriteLine("Kim gelmiş?: {0},{1}\t{2}",                 entity.PartitionKey,                 entity.RowKey,                 entity.PhoneNumber);
+        Console.WriteLine("Kim gelmiş?: {0},{1}\t{2}", 
+                entity.PartitionKey, 
+                entity.RowKey, 
+                entity.PhoneNumber);
     }
 }
 while (token != null);

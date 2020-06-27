@@ -1,7 +1,7 @@
 ---
 FallbackID: 1954
-Title: Visual Studio 2008 İpucu
-PublishDate: 10/2/2008
+Title: "Visual Studio 2008 İpucu"
+date: "2008-2-10"
 EntryID: Visual_Studio_2008_Ipucu
 IsActive: True
 Section: software

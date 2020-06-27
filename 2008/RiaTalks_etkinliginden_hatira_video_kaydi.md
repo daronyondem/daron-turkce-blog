@@ -1,7 +1,7 @@
 ---
 FallbackID: 2157
-Title: RiaTalks etkinliğinden hatıra video kaydı...
-PublishDate: 18/8/2008
+Title: "RiaTalks etkinliğinden hatıra video kaydı..."
+date: "2008-8-18"
 EntryID: RiaTalks_etkinliginden_hatira_video_kaydi
 IsActive: True
 Section: software

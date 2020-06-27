@@ -1,7 +1,7 @@
 ---
 FallbackID: 1744
-Title: ASP.NET AJAX Kitabım Çıktı
-PublishDate: 7/6/2007
+Title: "ASP.NET AJAX Kitabım Çıktı"
+date: "2007-6-7"
 EntryID: ASP_NET_AJAX_Kitabim_Cikti
 IsActive: True
 Section: software

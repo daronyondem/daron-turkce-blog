@@ -1,7 +1,7 @@
 ---
 FallbackID: 2911
-Title: Web Sitelerinde Azure Mobile Services
-PublishDate: 23/7/2014
+Title: "Web Sitelerinde Azure Mobile Services"
+date: "2014-7-23"
 EntryID: Web_Sitelerinde_Azure_Mobile_Services
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2084
-Title: Blogumda yeni bir bölüm: Kütüphane!
-PublishDate: 10/6/2008
+Title: "Blogumda yeni bir bölüm": Kütüphane!
+date: "2008-6-10"
 EntryID: Blogumda_yeni_bir_bolum_Kutuphane
 IsActive: True
 Section: software

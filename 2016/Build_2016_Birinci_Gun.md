@@ -1,7 +1,7 @@
 ---
 FallbackID: 3005
-Title: Build 2016 1. Gün
-PublishDate: 31/3/2016
+Title: "Build 2016 1. Gün"
+date: "2016-3-31"
 EntryID: Build_2016_Birinci_Gun
 IsActive: True
 Section: software

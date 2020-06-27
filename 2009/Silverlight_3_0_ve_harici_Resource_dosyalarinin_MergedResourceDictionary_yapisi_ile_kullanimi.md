@@ -1,7 +1,7 @@
 ---
 FallbackID: 2370
-Title: Silverlight 3.0 ve harici Resource dosyalarının MergedResourceDictionary yapısı ile kullanımı
-PublishDate: 7/6/2009
+Title: "Silverlight 3.0 ve harici Resource dosyalarının MergedResourceDictionary yapısı ile kullanımı"
+date: "2009-6-7"
 EntryID: Silverlight_3_0_ve_harici_Resource_dosyalarinin_MergedResourceDictionary_yapisi_ile_kullanimi
 IsActive: True
 Section: software

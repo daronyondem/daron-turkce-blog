@@ -1,7 +1,7 @@
 ---
 FallbackID: 2108
-Title: Silverlight 2.0 içerisinde Localization kullanımı
-PublishDate: 30/6/2008
+Title: "Silverlight 2.0 içerisinde Localization kullanımı"
+date: "2008-6-30"
 EntryID: Silverlight_2_0_icerisinde_Localization_kullanimi
 IsActive: True
 Section: software

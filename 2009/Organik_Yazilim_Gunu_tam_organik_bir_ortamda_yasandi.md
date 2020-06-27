@@ -1,7 +1,7 @@
 ---
 FallbackID: 2374
-Title: Organik Yazılım Günü tam organik bir ortamda yaşandı!
-PublishDate: 29/6/2009
+Title: "Organik Yazılım Günü tam organik bir ortamda yaşandı!"
+date: "2009-6-29"
 EntryID: Organik_Yazilim_Gunu_tam_organik_bir_ortamda_yasandi
 IsActive: True
 Section: software

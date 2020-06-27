@@ -1,7 +1,7 @@
 ---
 FallbackID: 1848
-Title: Expression Design Webineri
-PublishDate: 14/11/2007
+Title: "Expression Design Webineri"
+date: "2007-11-14"
 EntryID: Expression_Design_Webineri
 IsActive: True
 Section: software

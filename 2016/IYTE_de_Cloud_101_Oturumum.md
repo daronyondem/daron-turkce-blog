@@ -1,7 +1,7 @@
 ---
 FallbackID: 3000
-Title: IYTE'de Cloud 101 Oturumum
-PublishDate: 4/3/2016
+Title: "IYTE'de Cloud 101 Oturumum"
+date: "2016-3-4"
 EntryID: IYTE_de_Cloud_101_Oturumum
 IsActive: True
 Section: software

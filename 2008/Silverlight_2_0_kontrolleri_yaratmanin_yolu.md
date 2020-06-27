@@ -1,7 +1,7 @@
 ---
 FallbackID: 2114
-Title: Silverlight 2.0 kontrolleri yaratmanın yolu.
-PublishDate: 6/7/2008
+Title: "Silverlight 2.0 kontrolleri yaratmanın yolu."
+date: "2008-7-6"
 EntryID: Silverlight_2_0_kontrolleri_yaratmanin_yolu
 IsActive: True
 Section: software

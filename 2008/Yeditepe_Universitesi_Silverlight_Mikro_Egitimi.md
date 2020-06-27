@@ -1,7 +1,7 @@
 ---
 FallbackID: 2012
-Title: Yeditepe Üniversitesi Silverlight (Mikro) Eğitimi
-PublishDate: 4/4/2008
+Title: "Yeditepe Üniversitesi Silverlight (Mikro) Eğitimi"
+date: "2008-4-4"
 EntryID: Yeditepe_Universitesi_Silverlight_Mikro_Egitimi
 IsActive: True
 Section: software

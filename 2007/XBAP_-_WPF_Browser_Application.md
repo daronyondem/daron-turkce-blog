@@ -1,7 +1,7 @@
 ---
 FallbackID: 1845
-Title: XBAP - WPF Browser Application
-PublishDate: 11/11/2007
+Title: "XBAP - WPF Browser Application"
+date: "2007-11-11"
 EntryID: XBAP_-_WPF_Browser_Application
 IsActive: True
 Section: software

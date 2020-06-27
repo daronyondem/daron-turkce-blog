@@ -1,7 +1,7 @@
 ---
 FallbackID: 1977
-Title: Bloglara etiket oldum, sonumuz hayrola :)
-PublishDate: 4/3/2008
+Title: "Bloglara etiket oldum, sonumuz hayrola":)
+date: "2008-3-4"
 EntryID: Bloglara_etiket_oldum_sonumuz_hayrola
 IsActive: True
 Section: software

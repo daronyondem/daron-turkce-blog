@@ -1,7 +1,7 @@
 ---
 FallbackID: 2324
-Title: Microsoft Regional Director
-PublishDate: 17/2/2009
+Title: "Microsoft Regional Director"
+date: "2009-2-17"
 EntryID: Microsoft_Regional_Director
 IsActive: True
 Section: software

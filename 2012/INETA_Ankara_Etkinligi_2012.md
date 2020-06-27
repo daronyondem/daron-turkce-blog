@@ -1,7 +1,7 @@
 ---
 FallbackID: 2752
-Title: INETA Ankara Etkinliği 2012
-PublishDate: 19/1/2012
+Title: "INETA Ankara Etkinliği 2012"
+date: "2012-1-19"
 EntryID: INETA_Ankara_Etkinligi_2012
 IsActive: True
 Section: software

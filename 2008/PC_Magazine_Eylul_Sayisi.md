@@ -1,7 +1,7 @@
 ---
 FallbackID: 2177
-Title: PC Magazine Eylül Sayısı
-PublishDate: 6/9/2008
+Title: "PC Magazine Eylül Sayısı"
+date: "2008-9-6"
 EntryID: PC_Magazine_Eylul_Sayisi
 IsActive: True
 Section: software

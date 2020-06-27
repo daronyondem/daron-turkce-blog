@@ -1,7 +1,7 @@
 ---
 FallbackID: 1779
-Title: WPF Windows Uygulamalarında Görsel Tetikleyiciler (Triggers)
-PublishDate: 7/9/2007
+Title: "WPF Windows Uygulamalarında Görsel Tetikleyiciler (Triggers)"
+date: "2007-9-7"
 EntryID: WPF_Windows_Uygulamalarinda_Gorsel_Tetikleyiciler_Triggers
 IsActive: True
 Section: software

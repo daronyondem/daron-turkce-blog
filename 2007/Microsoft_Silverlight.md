@@ -1,7 +1,7 @@
 ---
 FallbackID: 1727
-Title: Microsoft Silverlight
-PublishDate: 17/4/2007
+Title: "Microsoft Silverlight"
+date: "2007-4-17"
 EntryID: Microsoft_Silverlight
 IsActive: True
 Section: software

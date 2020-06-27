@@ -1,7 +1,7 @@
 ---
 FallbackID: 1770
-Title: Visual Studio 2005 Solution Explorer içerisinde bir klasörü klasik Explorer ile açmak.
-PublishDate: 2/9/2007
+Title: "Visual Studio 2005 Solution Explorer içerisinde bir klasörü klasik Explorer ile açmak."
+date: "2007-9-2"
 EntryID: VS2005_Solution_Explorer_icerisinde_bir_klasoru_klasik_Explorer_ile_acmak
 IsActive: True
 Section: software

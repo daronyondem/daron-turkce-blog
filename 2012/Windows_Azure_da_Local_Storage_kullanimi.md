@@ -1,7 +1,7 @@
 ---
 FallbackID: 2770
-Title: Windows Azure'da Local Storage kullanımı
-PublishDate: 15/5/2012
+Title: "Windows Azure'da Local Storage kullanımı"
+date: "2012-5-15"
 EntryID: Windows_Azure_da_Local_Storage_kullanimi
 IsActive: True
 Section: software

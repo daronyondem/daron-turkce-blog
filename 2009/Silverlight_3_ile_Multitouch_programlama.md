@@ -1,7 +1,7 @@
 ---
 FallbackID: 2390
-Title: Silverlight 3 ile Multitouch programlama.
-PublishDate: 15/8/2009
+Title: "Silverlight 3 ile Multitouch programlama."
+date: "2009-8-15"
 EntryID: Silverlight_3_ile_Multitouch_programlama
 IsActive: True
 Section: software

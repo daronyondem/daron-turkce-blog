@@ -1,7 +1,7 @@
 ---
 FallbackID: 2686
-Title: Silverlight'ta Dependency Property'ler
-PublishDate: 4/9/2011
+Title: "Silverlight'ta Dependency Property'ler"
+date: "2011-9-4"
 EntryID: Silverlightta_Dependency_Propertyler
 IsActive: True
 Section: software

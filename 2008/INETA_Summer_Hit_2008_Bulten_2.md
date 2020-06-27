@@ -1,7 +1,7 @@
 ---
 FallbackID: 2135
-Title: INETA Summer Hit 2008 Bülten 2
-PublishDate: 27/7/2008
+Title: "INETA Summer Hit 2008 Bülten 2"
+date: "2008-7-27"
 EntryID: INETA_Summer_Hit_2008_Bulten_2
 IsActive: True
 Section: software

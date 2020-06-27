@@ -1,7 +1,7 @@
 ---
 FallbackID: 2524
-Title: Windows Phone 7'de Accelerometer kullanımına giriş.
-PublishDate: 10/5/2010
+Title: "Windows Phone 7'de Accelerometer kullanımına giriş."
+date: "2010-5-10"
 EntryID: Windows_Phone_7_de_Accelerometer_kullanimina_giris
 IsActive: True
 Section: software

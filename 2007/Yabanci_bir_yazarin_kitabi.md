@@ -1,7 +1,7 @@
 ---
 FallbackID: 1789
-Title: Yabancı bir yazarın kitabı...
-PublishDate: 21/9/2007
+Title: "Yabancı bir yazarın kitabı..."
+date: "2007-9-21"
 EntryID: Yabanci_bir_yazarin_kitabi
 IsActive: True
 Section: software

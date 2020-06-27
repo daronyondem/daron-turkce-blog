@@ -1,7 +1,7 @@
 ---
 FallbackID: 2769
-Title: Azure'a Remote Desktop
-PublishDate: 8/5/2012
+Title: "Azure'a Remote Desktop"
+date: "2012-5-8"
 EntryID: Azure_a_Remote_Desktop
 IsActive: True
 Section: software

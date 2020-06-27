@@ -1,7 +1,7 @@
 ---
 FallbackID: 2407
-Title: Silverlight ile sıfırdan SlideShow uygulaması geliştirmek.
-PublishDate: 11/9/2009
+Title: "Silverlight ile sıfırdan SlideShow uygulaması geliştirmek."
+date: "2009-9-11"
 EntryID: Silverlight_ile_sifirdan_SlideShow_uygulamasi_gelistirmek
 IsActive: True
 Section: software

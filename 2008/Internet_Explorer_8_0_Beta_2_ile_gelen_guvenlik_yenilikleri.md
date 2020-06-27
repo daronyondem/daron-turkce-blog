@@ -1,7 +1,7 @@
 ---
 FallbackID: 2170
-Title: Internet Explorer 8.0 Beta 2 ile gelen güvenlik yenilikleri
-PublishDate: 31/8/2008
+Title: "Internet Explorer 8.0 Beta 2 ile gelen güvenlik yenilikleri"
+date: "2008-8-31"
 EntryID: Internet_Explorer_8_0_Beta_2_ile_gelen_guvenlik_yenilikleri
 IsActive: True
 Section: software

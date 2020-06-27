@@ -1,7 +1,7 @@
 ---
 FallbackID: 2498
-Title: Tayfun Akçay'ın TechTalk'larına konuk oldum ;)
-PublishDate: 25/3/2010
+Title: "Tayfun Akçay'ın TechTalk'larına konuk oldum ;)"
+date: "2010-3-25"
 EntryID: Tayfun_Akcay_in_TechTalklarina_konuk_oldum
 IsActive: True
 Section: software

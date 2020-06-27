@@ -1,7 +1,7 @@
 ---
 FallbackID: 2191
-Title: .NET için De-Compile işlemleri ve Obfuscation
-PublishDate: 20/9/2008
+Title: ".NET için De-Compile işlemleri ve Obfuscation"
+date: "2008-9-20"
 EntryID: NET_icin_De-Compile_islemleri_ve_Obfuscation
 IsActive: True
 Section: software

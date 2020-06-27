@@ -1,7 +1,7 @@
 ---
 FallbackID: 2799
-Title: INETA İstanbul 2012 Etkinliği Tamamlandı
-PublishDate: 20/2/2012
+Title: "INETA İstanbul 2012 Etkinliği Tamamlandı"
+date: "2012-2-20"
 EntryID: INETA_Istanbul_2012_Etkinligi_Tamamlandi
 IsActive: True
 Section: software

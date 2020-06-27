@@ -1,7 +1,7 @@
 ---
-Title: Sabancı Mesleki ve Teknik Anadolu Lisesi Ziyaretim
+Title: "Sabancı Mesleki ve Teknik Anadolu Lisesi Ziyaretim"
 EntryID: Sabanci-MTAL-Ziyaretim
-PublishDate: 6/4/2017
+date: "2017-4-6"
 IsActive: True
 Section: software
 MinutesSpent: 8

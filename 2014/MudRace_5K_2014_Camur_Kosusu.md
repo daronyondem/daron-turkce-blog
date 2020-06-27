@@ -1,7 +1,7 @@
 ---
 FallbackID: 2916
-Title: MudRace 5K 2014 Çamur Koşusu
-PublishDate: 15/9/2014
+Title: "MudRace 5K 2014 Çamur Koşusu"
+date: "2014-9-15"
 EntryID: MudRace_5K_2014_Camur_Kosusu
 IsActive: True
 Section: fitness

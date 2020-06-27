@@ -1,7 +1,7 @@
 ---
 FallbackID: 2288
-Title: SilverNight videoları!
-PublishDate: 27/12/2008
+Title: "SilverNight videoları!"
+date: "2008-12-27"
 EntryID: SilverNight_videolari
 IsActive: True
 Section: software

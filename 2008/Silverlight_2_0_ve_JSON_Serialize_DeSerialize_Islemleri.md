@@ -1,7 +1,7 @@
 ---
 FallbackID: 2060
-Title: Silverlight 2.0 ve JSON Serialize / DeSerialize İşlemleri
-PublishDate: 18/5/2008
+Title: "Silverlight 2.0 ve JSON Serialize / DeSerialize İşlemleri"
+date: "2008-5-18"
 EntryID: Silverlight_2_0_ve_JSON_Serialize_DeSerialize_Islemleri
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2828
-Title: Microsoft Surface RT Unboxing Videosu
-PublishDate: 9/11/2012
+Title: "Microsoft Surface RT Unboxing Videosu"
+date: "2012-11-9"
 EntryID: Microsoft_Surface_RT_Unboxing_Videosu
 IsActive: True
 Section: software

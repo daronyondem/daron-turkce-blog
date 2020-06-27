@@ -1,7 +1,7 @@
 ---
 FallbackID: 2164
-Title: PhotoSynth yayında!
-PublishDate: 24/8/2008
+Title: "PhotoSynth yayında!"
+date: "2008-8-24"
 EntryID: PhotoSynth_yayinda
 IsActive: True
 Section: software

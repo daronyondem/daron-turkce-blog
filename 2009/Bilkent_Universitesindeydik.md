@@ -1,7 +1,7 @@
 ---
 FallbackID: 2327
-Title: Bilkent Üniversitesi'ndeydik...
-PublishDate: 23/2/2009
+Title: "Bilkent Üniversitesi'ndeydik..."
+date: "2009-2-23"
 EntryID: Bilkent_Universitesindeydik
 IsActive: True
 Section: software

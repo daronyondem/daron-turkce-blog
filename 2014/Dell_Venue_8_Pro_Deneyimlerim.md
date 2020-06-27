@@ -1,7 +1,7 @@
 ---
 FallbackID: 2909
-Title: Dell Venue 8 Pro Deneyimlerim
-PublishDate: 22/7/2014
+Title: "Dell Venue 8 Pro Deneyimlerim"
+date: "2014-7-22"
 EntryID: Dell_Venue_8_Pro_Deneyimlerim
 IsActive: True
 Section: software
@@ -20,7 +20,9 @@ buluyorum. Kitap okumak konusundaki fikirlerimi ve deneyimleri daha önce
 [bir yazıda sizlerle paylaşmıştım. Okumayanlar göz atsın
 derim](http://daron.yondem.com/tr/post/Kitap_okumak_artik_cok_kolay) :)
 Biz dönelim Dell Venue 8 Pro'ya.
-<iframe src="//instagram.com/p/i6Sk_FkAOj/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
+<iframe src="//instagram.com/p/i6Sk_FkAOj/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
 Benim Dell Venue 8 Pro'yu esas satın alma amacım özellikle iş
 gezilerinde kullanabileceğim ve bir PC'de yapabileceğim her şeyi
 yapabileceğim bir cihaza sahip olmaktı. Ayrıca tablet kullanamıyorum

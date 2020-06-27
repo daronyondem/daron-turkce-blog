@@ -1,7 +1,7 @@
 ---
 FallbackID: 2094
-Title: Expression Encoder 2 için Silverlight Streaming Servisleri Plug-In
-PublishDate: 16/6/2008
+Title: "Expression Encoder 2 için Silverlight Streaming Servisleri Plug-In"
+date: "2008-6-16"
 EntryID: Expression_Encoder_2_icin_Silverlight_Streaming_Servisleri_Plug-In
 IsActive: True
 Section: software

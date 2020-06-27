@@ -1,7 +1,7 @@
 ---
 FallbackID: 1931
-Title: Visual Studio 2008 ve JavaScript Intellisense kullanımı
-PublishDate: 26/1/2008
+Title: "Visual Studio 2008 ve JavaScript Intellisense kullanımı"
+date: "2008-1-26"
 EntryID: Visual_Studio_2008_ve_JavaScript_Intellisense_kullanimi
 IsActive: True
 Section: software

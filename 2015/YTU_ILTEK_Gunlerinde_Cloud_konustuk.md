@@ -1,7 +1,7 @@
 ---
 FallbackID: 2963
-Title: YTÜ ILTEK Günleri'nde Cloud konuştuk.
-PublishDate: 25/3/2015
+Title: "YTÜ ILTEK Günleri'nde Cloud konuştuk."
+date: "2015-3-25"
 EntryID: YTU_ILTEK_Gunlerinde_Cloud_konustuk
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1896
-Title: Imagine Cup 2008 Facebook Application
-PublishDate: 24/12/2007
+Title: "Imagine Cup 2008 Facebook Application"
+date: "2007-12-24"
 EntryID: Imagine_Cup_2008_Facebook_Application
 IsActive: True
 Section: software

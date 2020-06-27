@@ -1,7 +1,7 @@
 ---
 FallbackID: 2220
-Title: 360 derecelik HD View'ler artık Silverlight 2.0 ile yayında.
-PublishDate: 19/10/2008
+Title: "360 derecelik HD View'ler artık Silverlight 2.0 ile yayında."
+date: "2008-10-19"
 EntryID: 360_derecelik_HD_View_ler_artik_Silverlight_2_0_ile_yayinda
 IsActive: True
 Section: software

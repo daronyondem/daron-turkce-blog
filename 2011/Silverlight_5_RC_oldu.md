@@ -1,7 +1,7 @@
 ---
 FallbackID: 2680
-Title: Silverlight 5 RC oldu!
-PublishDate: 2/9/2011
+Title: "Silverlight 5 RC oldu!"
+date: "2011-9-2"
 EntryID: Silverlight_5_RC_oldu
 IsActive: True
 Section: software

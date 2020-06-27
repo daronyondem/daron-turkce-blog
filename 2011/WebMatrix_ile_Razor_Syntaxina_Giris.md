@@ -1,7 +1,7 @@
 ---
 FallbackID: 2541
-Title: WebMatrix ile Razor Syntax'ına Giriş
-PublishDate: 3/1/2011
+Title: "WebMatrix ile Razor Syntax'ına Giriş"
+date: "2011-1-3"
 EntryID: WebMatrix_ile_Razor_Syntaxina_Giris
 IsActive: True
 Section: software

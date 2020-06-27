@@ -1,7 +1,7 @@
 ---
 FallbackID: 2810
-Title: Hafta sonu Windows 8 Kampı
-PublishDate: 21/4/2012
+Title: "Hafta sonu Windows 8 Kampı"
+date: "2012-4-21"
 EntryID: Hafta_sonu_Windows_8_Kampi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2013
-Title: INETA ve NETRON işbirliğinde ücretsiz Silverlight Eğitimi üçüncü ve son günü.
-PublishDate: 6/4/2008
+Title: "INETA ve NETRON işbirliğinde ücretsiz Silverlight Eğitimi üçüncü ve son günü."
+date: "2008-4-6"
 EntryID: INETA_ve_NETRON_isbirliginde_ucretsiz_Silverlight_Egitimi_ucuncu_ve_son_gunu
 IsActive: True
 Section: software

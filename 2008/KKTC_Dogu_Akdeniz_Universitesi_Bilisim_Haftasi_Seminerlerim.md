@@ -1,7 +1,7 @@
 ---
 FallbackID: 1983
-Title: KKTC Doğu Akdeniz Üniversitesi Bilişim Haftası Seminerlerim
-PublishDate: 9/3/2008
+Title: "KKTC Doğu Akdeniz Üniversitesi Bilişim Haftası Seminerlerim"
+date: "2008-3-9"
 EntryID: KKTC_Dogu_Akdeniz_Universitesi_Bilisim_Haftasi_Seminerlerim
 IsActive: True
 Section: software

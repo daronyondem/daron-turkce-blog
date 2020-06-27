@@ -1,7 +1,7 @@
 ---
 FallbackID: 2053
-Title: Silverlight 2.0 Calendar ve DatePicker kontrolleri.
-PublishDate: 11/5/2008
+Title: "Silverlight 2.0 Calendar ve DatePicker kontrolleri."
+date: "2008-5-11"
 EntryID: Silverlight_2_0_Calendar_ve_DatePicker_kontrolleri
 IsActive: True
 Section: software

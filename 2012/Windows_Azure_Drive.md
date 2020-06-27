@@ -1,7 +1,7 @@
 ---
 FallbackID: 2779
-Title: Windows Azure Drive
-PublishDate: 17/7/2012
+Title: "Windows Azure Drive"
+date: "2012-7-17"
 EntryID: Windows_Azure_Drive
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2410
-Title: DeepZoom Composer Yenilikleri Görsel Dersi
-PublishDate: 13/9/2009
+Title: "DeepZoom Composer Yenilikleri Görsel Dersi"
+date: "2009-9-13"
 EntryID: DeepZoom_Composer_Yenilikleri_Gorsel_Dersi
 IsActive: True
 Section: software

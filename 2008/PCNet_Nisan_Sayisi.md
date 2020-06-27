@@ -1,7 +1,7 @@
 ---
 FallbackID: 2008
-Title: PCNet Nisan Sayısı
-PublishDate: 2/4/2008
+Title: "PCNet Nisan Sayısı"
+date: "2008-4-2"
 EntryID: PCNet_Nisan_Sayisi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2949
-Title: Eskişehir Osmangazi Azure 101
-PublishDate: 15/12/2014
+Title: "Eskişehir Osmangazi Azure 101"
+date: "2014-12-15"
 EntryID: Eskisehir_Osmangazi_Azure_101
 IsActive: True
 Section: software

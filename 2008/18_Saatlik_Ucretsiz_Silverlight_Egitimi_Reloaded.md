@@ -1,7 +1,7 @@
 ---
 FallbackID: 2026
-Title: 18 Saatlik Ücretsiz Silverlight Eğitimi (Reloaded)
-PublishDate: 17/4/2008
+Title: "18 Saatlik Ücretsiz Silverlight Eğitimi (Reloaded)"
+date: "2008-4-17"
 EntryID: 18_Saatlik_Ucretsiz_Silverlight_Egitimi_Reloaded
 IsActive: True
 Section: software

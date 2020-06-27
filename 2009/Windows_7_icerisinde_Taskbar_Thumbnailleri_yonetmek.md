@@ -1,7 +1,7 @@
 ---
 FallbackID: 2388
-Title: Windows 7 içerisinde Taskbar Thumbnail'leri yönetmek.
-PublishDate: 12/8/2009
+Title: "Windows 7 içerisinde Taskbar Thumbnail'leri yönetmek."
+date: "2009-8-12"
 EntryID: Windows_7_icerisinde_Taskbar_Thumbnailleri_yonetmek
 IsActive: True
 Section: software

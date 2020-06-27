@@ -1,7 +1,7 @@
 ---
 FallbackID: 2061
-Title: Cross Domain Request için sunucu taraflı ASP.NET Proxy
-PublishDate: 19/5/2008
+Title: "Cross Domain Request için sunucu taraflı ASP.NET Proxy"
+date: "2008-5-19"
 EntryID: Cross_Domain_Request_icin_sunucu_tarafli_ASP_NET_Proxy
 IsActive: True
 Section: software

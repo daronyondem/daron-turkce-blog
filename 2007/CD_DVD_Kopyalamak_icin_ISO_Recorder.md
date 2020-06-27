@@ -1,7 +1,7 @@
 ---
 FallbackID: 1844
-Title: CD, DVD Kopyalamak için ISO Recorder
-PublishDate: 10/11/2007
+Title: "CD, DVD Kopyalamak için ISO Recorder"
+date: "2007-11-10"
 EntryID: CD_DVD_Kopyalamak_icin_ISO_Recorder
 IsActive: True
 Section: software

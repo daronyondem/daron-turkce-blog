@@ -1,7 +1,7 @@
 ---
 FallbackID: 2444
-Title: TechEd Gün 2 Süper Geçti!
-PublishDate: 10/11/2009
+Title: "TechEd Gün 2 Süper Geçti!"
+date: "2009-11-10"
 EntryID: TechEd_Gun_2_Super_Gecti
 IsActive: True
 Section: software

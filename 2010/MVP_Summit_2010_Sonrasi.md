@@ -1,7 +1,7 @@
 ---
 FallbackID: 2491
-Title: MVP Summit 2010 Sonrası
-PublishDate: 23/2/2010
+Title: "MVP Summit 2010 Sonrası"
+date: "2010-2-23"
 EntryID: MVP_Summit_2010_Sonrasi
 IsActive: True
 Section: software

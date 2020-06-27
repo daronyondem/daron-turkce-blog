@@ -1,7 +1,7 @@
 ---
 FallbackID: 3015
-Title: Bartın Üniversitesi Azure Oturumu
-PublishDate: 22/4/2016
+Title: "Bartın Üniversitesi Azure Oturumu"
+date: "2016-4-22"
 EntryID: Bartin_Universitesi_Azure_Oturumu
 IsActive: True
 Section: software

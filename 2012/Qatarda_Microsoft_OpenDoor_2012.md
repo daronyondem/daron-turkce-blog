@@ -1,7 +1,7 @@
 ---
 FallbackID: 2792
-Title: Qatar Microsoft OpenDoor 2012
-PublishDate: 12/2/2012
+Title: "Qatar Microsoft OpenDoor 2012"
+date: "2012-2-12"
 EntryID: Qatarda_Microsoft_OpenDoor_2012
 IsActive: True
 Section: software

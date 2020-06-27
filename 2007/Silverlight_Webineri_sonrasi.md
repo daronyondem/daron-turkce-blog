@@ -1,7 +1,7 @@
 ---
 FallbackID: 1802
-Title: Silverlight Webineri sonrası...
-PublishDate: 5/10/2007
+Title: "Silverlight Webineri sonrası..."
+date: "2007-10-5"
 EntryID: Silverlight_Webineri_sonrasi
 IsActive: True
 Section: software

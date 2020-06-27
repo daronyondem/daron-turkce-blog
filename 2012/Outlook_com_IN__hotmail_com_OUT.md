@@ -1,7 +1,7 @@
 ---
 FallbackID: 2815
-Title: Outlook.com IN, hotmail.com OUT
-PublishDate: 1/8/2012
+Title: "Outlook.com IN, hotmail.com OUT"
+date: "2012-8-1"
 EntryID: Outlook_com_IN__hotmail_com_OUT
 IsActive: True
 Section: software

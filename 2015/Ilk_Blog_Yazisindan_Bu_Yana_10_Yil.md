@@ -1,7 +1,7 @@
 ---
 FallbackID: 2986
-Title: İlk Blog Yazısından Bu Yana 10 Yıl
-PublishDate: 12/11/2015
+Title: "İlk Blog Yazısından Bu Yana 10 Yıl"
+date: "2015-11-12"
 EntryID: Ilk_Blog_Yazisindan_Bu_Yana_10_Yil
 IsActive: True
 Section: software

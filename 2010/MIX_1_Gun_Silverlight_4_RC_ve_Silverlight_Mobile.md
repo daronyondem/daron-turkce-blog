@@ -1,7 +1,7 @@
 ---
 FallbackID: 2495
-Title: MIX 1. Gün - Silverlight 4 RC ve Silverlight Mobile!
-PublishDate: 16/3/2010
+Title: "MIX 1. Gün - Silverlight 4 RC ve Silverlight Mobile!"
+date: "2010-3-16"
 EntryID: MIX_1_Gun_Silverlight_4_RC_ve_Silverlight_Mobile
 IsActive: True
 Section: software

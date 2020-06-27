@@ -1,7 +1,7 @@
 ---
 FallbackID: 2730
-Title: Adobe Edge ile HTML5'e erken bir bakış
-PublishDate: 22/11/2011
+Title: "Adobe Edge ile HTML5'e erken bir bakış"
+date: "2011-11-22"
 EntryID: Adobe_Edge_ile_HTML5
 IsActive: True
 Section: software

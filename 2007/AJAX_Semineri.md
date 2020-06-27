@@ -1,7 +1,7 @@
 ---
 FallbackID: 1749
-Title: AJAX Semineri
-PublishDate: 12/7/2007
+Title: "AJAX Semineri"
+date: "2007-7-12"
 EntryID: AJAX_Semineri
 IsActive: True
 Section: software

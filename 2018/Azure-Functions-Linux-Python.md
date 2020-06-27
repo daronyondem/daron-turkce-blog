@@ -1,6 +1,6 @@
 ---
-Title: Azure Functions ile Linux'te Pyhton
-PublishDate: 10/12/2018
+Title: "Azure Functions ile Linux'te Pyhton"
+date: "2018-12-10"
 IsActive: True
 IsListed: True
 MinutesSpent: 125

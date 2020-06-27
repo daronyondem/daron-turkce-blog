@@ -1,7 +1,7 @@
 ---
 FallbackID: 2091
-Title: Last.Fm Silverlight Widget!
-PublishDate: 14/6/2008
+Title: "Last.Fm Silverlight Widget!"
+date: "2008-6-14"
 EntryID: Last_Fm_Silverlight_Widget
 IsActive: True
 Section: software

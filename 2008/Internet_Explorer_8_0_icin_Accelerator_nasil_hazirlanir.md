@@ -1,7 +1,7 @@
 ---
 FallbackID: 2189
-Title: Internet Explorer 8.0 için Accelerator nasıl hazırlanır?
-PublishDate: 18/9/2008
+Title: "Internet Explorer 8.0 için Accelerator nasıl hazırlanır?"
+date: "2008-9-18"
 EntryID: Internet_Explorer_8_0_icin_Accelerator_nasil_hazirlanir
 IsActive: True
 Section: software

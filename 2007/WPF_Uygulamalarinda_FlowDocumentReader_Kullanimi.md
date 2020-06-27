@@ -1,7 +1,7 @@
 ---
 FallbackID: 1818
-Title: WPF Uygulamalarında FlowDocumentReader Kullanımı
-PublishDate: 21/10/2007
+Title: "WPF Uygulamalarında FlowDocumentReader Kullanımı"
+date: "2007-10-21"
 EntryID: WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi
 IsActive: True
 Section: software

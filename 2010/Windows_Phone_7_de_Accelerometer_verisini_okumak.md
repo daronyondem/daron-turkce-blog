@@ -1,7 +1,7 @@
 ---
 FallbackID: 2525
-Title: Windows Phone 7'de Accelerometer verisini okumak.
-PublishDate: 12/5/2010
+Title: "Windows Phone 7'de Accelerometer verisini okumak."
+date: "2010-5-12"
 EntryID: Windows_Phone_7_de_Accelerometer_verisini_okumak
 IsActive: True
 Section: software

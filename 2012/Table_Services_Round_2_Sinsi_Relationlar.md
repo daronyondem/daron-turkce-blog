@@ -1,14 +1,19 @@
 ---
 FallbackID: 2783
-Title: Table Services Round 2 : Sinsi Relationlar :)
-PublishDate: 14/8/2012
+Title: "Table Services Round 2": Sinsi Relationlar :)
+date: "2012-8-14"
 EntryID: Table_Services_Round_2_Sinsi_Relationlar
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Table_Services_SDK25_Sinsi_Relationlar)bulabilirsiniz.]**Konuyla ilgili bir önceki yazı; [Azure Storage Table
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Table_Services_SDK25_Sinsi_Relationlar)
+bulabilirsiniz.]**
+
+Konuyla ilgili bir önceki yazı; [Azure Storage Table
 Services](http://daron.yondem.com/tr/post/Azure_Storage_Table_Services)
 
 Table Services ile bir önceki yazıda bazı konuları bir sonraki :) yazıya

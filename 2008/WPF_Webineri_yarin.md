@@ -1,7 +1,7 @@
 ---
 FallbackID: 1986
-Title: WPF Webineri yarın!
-PublishDate: 11/3/2008
+Title: "WPF Webineri yarın!"
+date: "2008-3-11"
 EntryID: WPF_Webineri_yarin
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1941
-Title: ARANIYOR: AJAX Örnek Siteler
-PublishDate: 2/2/2008
+Title: "ARANIYOR": AJAX Örnek Siteler
+date: "2008-2-2"
 EntryID: ARANIYOR_AJAX_Ornek_Siteler
 IsActive: True
 Section: software

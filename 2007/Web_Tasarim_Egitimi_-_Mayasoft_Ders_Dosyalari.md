@@ -1,7 +1,7 @@
 ---
 FallbackID: 1724
-Title: Web Tasarım Eğitimi - Mayasoft Ders Dosyaları
-PublishDate: 10/4/2007
+Title: "Web Tasarım Eğitimi - Mayasoft Ders Dosyaları"
+date: "2007-4-10"
 EntryID: Web_Tasarim_Egitimi_-_Mayasoft_Ders_Dosyalari
 IsActive: True
 Section: software

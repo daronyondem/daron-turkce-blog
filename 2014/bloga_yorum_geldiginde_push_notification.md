@@ -1,7 +1,7 @@
 ---
 FallbackID: 2878
-Title: PushOver implementasyonu ile bloga yorum geldiğinde push notification
-PublishDate: 1/2/2014
+Title: "PushOver implementasyonu ile bloga yorum geldiğinde push notification"
+date: "2014-2-1"
 EntryID: bloga_yorum_geldiginde_push_notification
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2451
-Title: PDC Gün 2
-PublishDate: 19/11/2009
+Title: "PDC Gün 2"
+date: "2009-11-19"
 EntryID: PDC_Gun_2
 IsActive: True
 Section: software

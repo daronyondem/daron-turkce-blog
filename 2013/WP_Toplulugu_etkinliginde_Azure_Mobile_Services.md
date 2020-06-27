@@ -1,7 +1,7 @@
 ---
 FallbackID: 2846
-Title: WP Topluluğu etkinliğinde Azure Mobile Services
-PublishDate: 12/6/2013
+Title: "WP Topluluğu etkinliğinde Azure Mobile Services"
+date: "2013-6-12"
 EntryID: WP_Toplulugu_etkinliginde_Azure_Mobile_Services
 IsActive: True
 Section: software

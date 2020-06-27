@@ -1,7 +1,7 @@
 ---
 FallbackID: 2548
-Title: Silverlight InkPresenter Çizimleri Kaydetmek ve Geri Yüklemek
-PublishDate: 4/2/2011
+Title: "Silverlight InkPresenter Çizimleri Kaydetmek ve Geri Yüklemek"
+date: "2011-2-4"
 EntryID: Silverlight_InkPresenter_Cizimleri_Kaydetmek_ve_Geri_Yuklemek
 IsActive: True
 Section: software

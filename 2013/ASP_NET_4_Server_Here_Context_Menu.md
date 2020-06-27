@@ -1,7 +1,7 @@
 ---
 FallbackID: 2860
-Title: ASP.NET Server Here Context Menü - Güncelleme
-PublishDate: 17/10/2013
+Title: "ASP.NET Server Here Context Menü - Güncelleme"
+date: "2013-10-17"
 EntryID: ASP_NET_4_Server_Here_Context_Menu
 IsActive: True
 Section: software

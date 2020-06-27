@@ -1,7 +1,7 @@
 ---
 FallbackID: 2530
-Title: Silverlight Out Of Browser uygulamasını nasıl debug ederiz?
-PublishDate: 20/7/2010
+Title: "Silverlight Out Of Browser uygulamasını nasıl debug ederiz?"
+date: "2010-7-20"
 EntryID: Silverlight_Out_Of_Browser_uygulamasini_nasil_debug_ederiz
 IsActive: True
 Section: software

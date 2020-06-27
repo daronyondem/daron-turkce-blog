@@ -1,7 +1,7 @@
 ---
 FallbackID: 2246
-Title: The Silver Team :)
-PublishDate: 13/11/2008
+Title: "The Silver Team":)
+date: "2008-11-13"
 EntryID: The_Silver_Team
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1815
-Title: Windows Vista DreamScene
-PublishDate: 18/10/2007
+Title: "Windows Vista DreamScene"
+date: "2007-10-18"
 EntryID: Windows_Vista_DreamScene
 IsActive: True
 Section: software

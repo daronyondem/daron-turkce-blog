@@ -1,7 +1,7 @@
 ---
 FallbackID: 2017
-Title: Sahtekar CSS
-PublishDate: 9/4/2008
+Title: "Sahtekar CSS"
+date: "2008-4-9"
 EntryID: Sahtekar_CSS
 IsActive: True
 Section: software

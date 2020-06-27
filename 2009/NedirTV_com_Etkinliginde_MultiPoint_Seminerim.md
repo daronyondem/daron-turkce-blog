@@ -1,7 +1,7 @@
 ---
 FallbackID: 2335
-Title: NedirTV.com Etkinliğinde MultiPoint Seminerim
-PublishDate: 14/3/2009
+Title: "NedirTV.com Etkinliğinde MultiPoint Seminerim"
+date: "2009-3-14"
 EntryID: NedirTV_com_Etkinliginde_MultiPoint_Seminerim
 IsActive: True
 Section: software

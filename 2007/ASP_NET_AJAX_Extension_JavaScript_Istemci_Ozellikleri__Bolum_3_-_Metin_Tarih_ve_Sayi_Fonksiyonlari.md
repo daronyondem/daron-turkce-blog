@@ -1,7 +1,7 @@
 ---
 FallbackID: 1782
-Title: ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 3 - Metin, Tarih ve Sayı Fonksiyonları)
-PublishDate: 10/9/2007
+Title: "ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 3 - Metin, Tarih ve Sayı Fonksiyonları)"
+date: "2007-9-10"
 EntryID: ASP_NET_AJAX_Extension_JavaScript_Istemci_Ozellikleri__Bolum_3_-_Metin_Tarih_ve_Sayi_Fonksiyonlari
 IsActive: True
 Section: software

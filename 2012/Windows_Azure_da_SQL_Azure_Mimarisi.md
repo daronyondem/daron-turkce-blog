@@ -1,14 +1,19 @@
 ---
 FallbackID: 2772
-Title: Windows Azure'da SQL Azure Mimarisi
-PublishDate: 29/5/2012
+Title: "Windows Azure'da SQL Azure Mimarisi"
+date: "2012-5-29"
 EntryID: Windows_Azure_da_SQL_Azure_Mimarisi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Azure_da_SQL_Azure_Mimarisi_SDK2_5)bulabilirsiniz.]**Bu yazıda SQL Azure'a biraz daha farklı bir bakış açısı ile bakalım
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Azure_da_SQL_Azure_Mimarisi_SDK2_5)
+bulabilirsiniz.]**
+
+Bu yazıda SQL Azure'a biraz daha farklı bir bakış açısı ile bakalım
 istiyorum. SQL Azure ve Windows Azure'un beraber sahneye alındığında
 eldeki diğer senaryolarla nasıl uyuşabileceğine göz atalım. Sonrasında
 SQL Azure'un iç mimarisine bir bakış atıp nasıl bir çalışma yapısı

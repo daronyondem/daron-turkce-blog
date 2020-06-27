@@ -1,7 +1,7 @@
 ---
 FallbackID: 2565
-Title: Silverlight 5 Beta TrickPlay
-PublishDate: 22/4/2011
+Title: "Silverlight 5 Beta TrickPlay"
+date: "2011-4-22"
 EntryID: Silverlight_5_Beta_TrickPlay
 IsActive: True
 Section: software

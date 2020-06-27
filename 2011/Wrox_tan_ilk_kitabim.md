@@ -1,7 +1,7 @@
 ---
 FallbackID: 2725
-Title: 14 MVP ile Wrox'tan ilk kitabım! "Real World .NET, C#, and Silverlight"
-PublishDate: 14/11/2011
+Title: "14 MVP ile Wrox'tan ilk kitabım! "Real World .NET, C#, and Silverlight""
+date: "2011-11-14"
 EntryID: Wrox_tan_ilk_kitabim
 IsActive: True
 Section: software

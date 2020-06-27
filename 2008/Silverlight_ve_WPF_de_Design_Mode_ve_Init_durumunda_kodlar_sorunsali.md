@@ -1,7 +1,7 @@
 ---
 FallbackID: 2292
-Title: Silverlight ve WPF'de Design Mode ve Init durumunda kodlar sorunsalı.
-PublishDate: 31/12/2008
+Title: "Silverlight ve WPF'de Design Mode ve Init durumunda kodlar sorunsalı."
+date: "2008-12-31"
 EntryID: Silverlight_ve_WPF_de_Design_Mode_ve_Init_durumunda_kodlar_sorunsali
 IsActive: True
 Section: software

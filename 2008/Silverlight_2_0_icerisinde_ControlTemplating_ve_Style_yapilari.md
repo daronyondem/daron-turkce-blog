@@ -1,7 +1,7 @@
 ---
 FallbackID: 2047
-Title: Silverlight 2.0 içerisinde ControlTemplating ve Style yapıları.
-PublishDate: 6/5/2008
+Title: "Silverlight 2.0 içerisinde ControlTemplating ve Style yapıları."
+date: "2008-5-6"
 EntryID: Silverlight_2_0_icerisinde_ControlTemplating_ve_Style_yapilari
 IsActive: True
 Section: software

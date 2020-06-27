@@ -1,7 +1,7 @@
 ---
 FallbackID: 1857
-Title: Silverlight 1.0 Font Embedding
-PublishDate: 21/11/2007
+Title: "Silverlight 1.0 Font Embedding"
+date: "2007-11-21"
 EntryID: Silverlight_1_0_Font_Embedding
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3001
-Title: Urfa BİLMÖK 2016
-PublishDate: 8/3/2016
+Title: "Urfa BİLMÖK 2016"
+date: "2016-3-8"
 EntryID: Urfa_BILMOK_2016
 IsActive: True
 Section: software

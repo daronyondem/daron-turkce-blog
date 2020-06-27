@@ -1,7 +1,7 @@
 ---
 FallbackID: 2840
-Title: Service Bus Relay Services
-PublishDate: 4/4/2013
+Title: "Service Bus Relay Services"
+date: "2013-4-4"
 EntryID: Service_Bus_Relay_Services
 IsActive: True
 Section: software

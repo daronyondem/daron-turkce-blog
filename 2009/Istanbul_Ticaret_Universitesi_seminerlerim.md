@@ -1,7 +1,7 @@
 ---
 FallbackID: 2300
-Title: Istanbul Ticaret Üniversitesi seminerlerim.
-PublishDate: 7/1/2009
+Title: "Istanbul Ticaret Üniversitesi seminerlerim."
+date: "2009-1-7"
 EntryID: Istanbul_Ticaret_Universitesi_seminerlerim
 IsActive: True
 Section: software

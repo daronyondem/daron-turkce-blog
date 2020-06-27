@@ -1,7 +1,7 @@
 ---
 FallbackID: 2853
-Title: Jawbone UP İnceleme ve API Kullanımı
-PublishDate: 26/8/2013
+Title: "Jawbone UP İnceleme ve API Kullanımı"
+date: "2013-8-26"
 EntryID: Jawbone_UP_Inceleme_ve_API_Kullanimi
 IsActive: True
 Section: software

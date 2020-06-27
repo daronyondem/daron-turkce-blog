@@ -1,7 +1,7 @@
 ---
 FallbackID: 2228
-Title: Dertli Kerem'den "Geleneksel Sidik Yarışları Olimpiyatı" Protestosu!
-PublishDate: 27/10/2008
+Title: "Dertli Kerem'den "Geleneksel Sidik Yarışları Olimpiyatı" Protestosu!"
+date: "2008-10-27"
 EntryID: Dertli_Keremden_Geleneksel_Sidik_Yarislari_Olimpiyati_Protestosu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2804
-Title: Microsoft OpenDoor Bahrain
-PublishDate: 31/3/2012
+Title: "Microsoft OpenDoor Bahrain"
+date: "2012-3-31"
 EntryID: Microsoft_OpenDoor_Bahrain_2012
 IsActive: True
 Section: software

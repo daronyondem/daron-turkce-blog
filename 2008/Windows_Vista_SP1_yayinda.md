@@ -1,7 +1,7 @@
 ---
 FallbackID: 1995
-Title: Windows Vista SP1 yayında!
-PublishDate: 20/3/2008
+Title: "Windows Vista SP1 yayında!"
+date: "2008-3-20"
 EntryID: Windows_Vista_SP1_yayinda
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1846
-Title: LOLCODE.NET
-PublishDate: 12/11/2007
+Title: "LOLCODE.NET"
+date: "2007-11-12"
 EntryID: LOLCODE_NET
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2439
-Title: Organik Yazılım Günü 1.5 Bitti :)
-PublishDate: 1/11/2009
+Title: "Organik Yazılım Günü 1.5 Bitti":)
+date: "2009-11-1"
 EntryID: Organik_Yazilim_Gunu_1_5_Bitti
 IsActive: True
 Section: software

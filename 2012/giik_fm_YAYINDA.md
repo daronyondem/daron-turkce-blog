@@ -1,7 +1,7 @@
 ---
 FallbackID: 2824
-Title: giik.fm YAYINDA!!
-PublishDate: 24/10/2012
+Title: "giik.fm YAYINDA!!"
+date: "2012-10-24"
 EntryID: giik_fm_YAYINDA
 IsActive: True
 Section: software

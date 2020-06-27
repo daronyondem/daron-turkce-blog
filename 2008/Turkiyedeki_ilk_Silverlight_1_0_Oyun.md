@@ -1,7 +1,7 @@
 ---
 FallbackID: 1978
-Title: Türkiye'deki ilk Silverlight 1.0 Oyun!
-PublishDate: 5/3/2008
+Title: "Türkiye'deki ilk Silverlight 1.0 Oyun!"
+date: "2008-3-5"
 EntryID: Turkiyedeki_ilk_Silverlight_1_0_Oyun
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2316
-Title: INETA Profession Hit Bitti
-PublishDate: 29/1/2009
+Title: "INETA Profession Hit Bitti"
+date: "2009-1-29"
 EntryID: INETA_Profession_Hit_Bitti
 IsActive: True
 Section: software

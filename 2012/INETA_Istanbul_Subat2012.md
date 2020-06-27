@@ -1,7 +1,7 @@
 ---
 FallbackID: 2795
-Title: INETA İstanbul'da...
-PublishDate: 14/2/2012
+Title: "INETA İstanbul'da..."
+date: "2012-2-14"
 EntryID: INETA_Istanbul_Subat2012
 IsActive: True
 Section: software

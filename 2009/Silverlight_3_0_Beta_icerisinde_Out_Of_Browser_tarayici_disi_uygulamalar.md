@@ -1,7 +1,7 @@
 ---
 FallbackID: 2358
-Title: Silverlight 3.0 Beta içerisinde (Out Of Browser) tarayıcı dışı uygulamalar.
-PublishDate: 27/4/2009
+Title: "Silverlight 3.0 Beta içerisinde (Out Of Browser) tarayıcı dışı uygulamalar."
+date: "2009-4-27"
 EntryID: Silverlight_3_0_Beta_icerisinde_Out_Of_Browser_tarayici_disi_uygulamalar
 IsActive: True
 Section: software

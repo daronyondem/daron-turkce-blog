@@ -1,7 +1,7 @@
 ---
 FallbackID: 2800
-Title: Veri kaybını hayatımdan silen servis : DropBox
-PublishDate: 21/2/2012
+Title: "Veri kaybını hayatımdan silen servis": DropBox
+date: "2012-2-21"
 EntryID: Veri_kaybini_hayatimdan_silen_servis_DropBox
 IsActive: True
 Section: software

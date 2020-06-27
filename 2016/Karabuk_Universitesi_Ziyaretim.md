@@ -1,7 +1,7 @@
 ---
 FallbackID: 2999
-Title: Karabük Üniversitesi Ziyaretim
-PublishDate: 2/3/2016
+Title: "Karabük Üniversitesi Ziyaretim"
+date: "2016-3-2"
 EntryID: Karabuk_Universitesi_Ziyaretim
 IsActive: True
 Section: software

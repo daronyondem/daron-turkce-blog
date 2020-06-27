@@ -1,7 +1,7 @@
 ---
 FallbackID: 2311
-Title: INETA ve MEA Bölgesindeki Organizasyon Değişikliği
-PublishDate: 22/1/2009
+Title: "INETA ve MEA Bölgesindeki Organizasyon Değişikliği"
+date: "2009-1-22"
 EntryID: INETA_ve_MEA_Bolgesindeki_Organizasyon_Degisikligi
 IsActive: True
 Section: software

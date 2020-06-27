@@ -1,7 +1,7 @@
 ---
 FallbackID: 1874
-Title: Kurumların çalışanlarının bloglarının kurumların kendi sitelerinden daha popüler olduğunu biliyor muydunuz?
-PublishDate: 5/12/2007
+Title: "Kurumların çalışanlarının bloglarının kurumların kendi sitelerinden daha popüler olduğunu biliyor muydunuz?"
+date: "2007-12-5"
 EntryID: Kurumlarin_calisanlarinin_bloglari_ve_kurumlarin_kendi_siteleri
 IsActive: True
 Section: software

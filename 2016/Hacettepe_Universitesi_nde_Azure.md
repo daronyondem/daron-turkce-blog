@@ -1,7 +1,7 @@
 ---
 FallbackID: 3013
-Title: Hacettepe Üniversitesi'nde Azure
-PublishDate: 12/4/2016
+Title: "Hacettepe Üniversitesi'nde Azure"
+date: "2016-4-12"
 EntryID: Hacettepe_Universitesi_nde_Azure
 IsActive: True
 Section: software

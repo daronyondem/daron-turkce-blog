@@ -1,7 +1,7 @@
 ---
 FallbackID: 1930
-Title: Visual Studio 2008 MCTS Sertifikasyonları
-PublishDate: 25/1/2008
+Title: "Visual Studio 2008 MCTS Sertifikasyonları"
+date: "2008-1-25"
 EntryID: Visual_Studio_2008_MCTS_Sertifikasyonlari
 IsActive: True
 Section: software

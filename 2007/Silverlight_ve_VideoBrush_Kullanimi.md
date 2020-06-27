@@ -1,7 +1,7 @@
 ---
 FallbackID: 1828
-Title: Silverlight ve VideoBrush Kullanımı
-PublishDate: 30/10/2007
+Title: "Silverlight ve VideoBrush Kullanımı"
+date: "2007-10-30"
 EntryID: Silverlight_ve_VideoBrush_Kullanimi
 IsActive: True
 Section: software

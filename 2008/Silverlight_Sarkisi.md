@@ -1,7 +1,7 @@
 ---
 FallbackID: 2041
-Title: Silverlight Şarkısı
-PublishDate: 30/4/2008
+Title: "Silverlight Şarkısı"
+date: "2008-4-30"
 EntryID: Silverlight_Sarkisi
 IsActive: True
 Section: software

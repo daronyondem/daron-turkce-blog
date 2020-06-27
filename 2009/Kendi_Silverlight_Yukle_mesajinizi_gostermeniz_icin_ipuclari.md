@@ -1,7 +1,7 @@
 ---
 FallbackID: 2298
-Title: Kendi Silverlight Yükle mesajınızı göstermeniz için ipuçları
-PublishDate: 6/1/2009
+Title: "Kendi Silverlight Yükle mesajınızı göstermeniz için ipuçları"
+date: "2009-1-6"
 EntryID: Kendi_Silverlight_Yukle_mesajinizi_gostermeniz_icin_ipuclari
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1827
-Title: Silverlight MediaElement ve JavaScript
-PublishDate: 29/10/2007
+Title: "Silverlight MediaElement ve JavaScript"
+date: "2007-10-29"
 EntryID: Silverlight_MediaElement_ve_JavaScript
 IsActive: True
 Section: software

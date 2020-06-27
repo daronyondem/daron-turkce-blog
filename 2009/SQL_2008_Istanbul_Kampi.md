@@ -1,7 +1,7 @@
 ---
 FallbackID: 2353
-Title: SQL 2008 Istanbul Kampı!
-PublishDate: 19/4/2009
+Title: "SQL 2008 Istanbul Kampı!"
+date: "2009-4-19"
 EntryID: SQL_2008_Istanbul_Kampi
 IsActive: True
 Section: software

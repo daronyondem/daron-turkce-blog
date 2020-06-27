@@ -1,7 +1,7 @@
 ---
 FallbackID: 2425
-Title: Samsun 19 Mayıs Üniversitesi seminerlerim.
-PublishDate: 21/10/2009
+Title: "Samsun 19 Mayıs Üniversitesi seminerlerim."
+date: "2009-10-21"
 EntryID: Samsun_19_Mayis_Universitesi_seminerlerim
 IsActive: True
 Section: software

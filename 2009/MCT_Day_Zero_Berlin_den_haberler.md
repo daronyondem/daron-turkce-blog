@@ -1,7 +1,7 @@
 ---
 FallbackID: 2442
-Title: MCT Day Zero, Berlin'den haberler.
-PublishDate: 9/11/2009
+Title: "MCT Day Zero, Berlin'den haberler."
+date: "2009-11-9"
 EntryID: MCT_Day_Zero_Berlin_den_haberler
 IsActive: True
 Section: software

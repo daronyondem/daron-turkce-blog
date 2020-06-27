@@ -1,7 +1,7 @@
 ---
 FallbackID: 2149
-Title: riatalks.com aktivitesindeki Silverlight oturumumum.
-PublishDate: 10/8/2008
+Title: "riatalks.com aktivitesindeki Silverlight oturumumum."
+date: "2008-8-10"
 EntryID: riatalks_com_aktivitesindeki_Silverlight_oturumumum
 IsActive: True
 Section: software

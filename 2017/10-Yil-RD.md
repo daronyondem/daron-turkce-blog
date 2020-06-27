@@ -1,6 +1,6 @@
 ---
-Title: İki yıl daha Microsoft RD Programı'ndayım.
-PublishDate: 3/5/2017
+Title: "İki yıl daha Microsoft RD Programı'ndayım."
+date: "2017-5-3"
 IsActive: True
 Section: software
 MinutesSpent: 7

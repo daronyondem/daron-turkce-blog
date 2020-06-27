@@ -1,7 +1,7 @@
 ---
 FallbackID: 2290
-Title: MSP Days geldi geçti...
-PublishDate: 28/12/2008
+Title: "MSP Days geldi geçti..."
+date: "2008-12-28"
 EntryID: MSP_Days_geldi_gecti
 IsActive: True
 Section: software

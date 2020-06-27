@@ -1,7 +1,7 @@
 ---
 FallbackID: 2223
-Title: Dynamic Data Web Site'larda MetaData ile sütun özelliklerini ayarlamak.
-PublishDate: 22/10/2008
+Title: "Dynamic Data Web Site'larda MetaData ile sütun özelliklerini ayarlamak."
+date: "2008-10-22"
 EntryID: Dynamic_Data_Web_Site_larda_MetaData_ile_sutun_ozelliklerini_ayarlamak
 IsActive: True
 Section: software

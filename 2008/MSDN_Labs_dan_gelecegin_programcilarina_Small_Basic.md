@@ -1,7 +1,7 @@
 ---
 FallbackID: 2225
-Title: MSDN Labs'dan geleceğin programcılarına "Small Basic"
-PublishDate: 24/10/2008
+Title: "MSDN Labs'dan geleceğin programcılarına "Small Basic""
+date: "2008-10-24"
 EntryID: MSDN_Labs_dan_gelecegin_programcilarina_Small_Basic
 IsActive: True
 Section: software

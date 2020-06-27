@@ -1,7 +1,7 @@
 ---
 FallbackID: 2857
-Title: Windows Phone 8'de Uri Association
-PublishDate: 1/10/2013
+Title: "Windows Phone 8'de Uri Association"
+date: "2013-10-1"
 EntryID: Windows_Phone_8_de_Uri_Association
 IsActive: True
 Section: software

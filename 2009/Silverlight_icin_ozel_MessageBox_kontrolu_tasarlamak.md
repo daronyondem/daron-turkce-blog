@@ -1,7 +1,7 @@
 ---
 FallbackID: 2408
-Title: Silverlight için özel MessageBox kontrolü tasarlamak.
-PublishDate: 12/9/2009
+Title: "Silverlight için özel MessageBox kontrolü tasarlamak."
+date: "2009-9-12"
 EntryID: Silverlight_icin_ozel_MessageBox_kontrolu_tasarlamak
 IsActive: True
 Section: software

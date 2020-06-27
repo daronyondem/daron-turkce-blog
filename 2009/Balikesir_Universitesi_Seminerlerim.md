@@ -1,7 +1,7 @@
 ---
 FallbackID: 2474
-Title: Balıkesir Üniversitesi Seminerlerim
-PublishDate: 12/12/2009
+Title: "Balıkesir Üniversitesi Seminerlerim"
+date: "2009-12-12"
 EntryID: Balikesir_Universitesi_Seminerlerim
 IsActive: True
 Section: software

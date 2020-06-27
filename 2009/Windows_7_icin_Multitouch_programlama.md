@@ -1,7 +1,7 @@
 ---
 FallbackID: 2389
-Title: Windows 7 için Multitouch programlama.
-PublishDate: 14/8/2009
+Title: "Windows 7 için Multitouch programlama."
+date: "2009-8-14"
 EntryID: Windows_7_icin_Multitouch_programlama
 IsActive: True
 Section: software

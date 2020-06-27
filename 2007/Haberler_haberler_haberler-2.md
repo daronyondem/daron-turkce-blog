@@ -1,7 +1,7 @@
 ---
 FallbackID: 1838
-Title: Haberler... haberler... haberler...
-PublishDate: 6/11/2007
+Title: "Haberler... haberler... haberler..."
+date: "2007-11-6"
 EntryID: Haberler_haberler_haberler-2
 IsActive: True
 Section: software

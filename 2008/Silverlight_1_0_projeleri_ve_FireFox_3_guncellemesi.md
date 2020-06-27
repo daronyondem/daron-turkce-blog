@@ -1,7 +1,7 @@
 ---
 FallbackID: 2095
-Title: Silverlight 1.0 projeleri ve FireFox 3 güncellemesi
-PublishDate: 17/6/2008
+Title: "Silverlight 1.0 projeleri ve FireFox 3 güncellemesi"
+date: "2008-6-17"
 EntryID: Silverlight_1_0_projeleri_ve_FireFox_3_guncellemesi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2322
-Title: Tüm TRT kanalları ve radyoları Silverlight 2.0 ile yayında!
-PublishDate: 8/2/2009
+Title: "Tüm TRT kanalları ve radyoları Silverlight 2.0 ile yayında!"
+date: "2009-2-8"
 EntryID: Tum_TRT_kanallari_ve_radyolari_Silverlight_2_0_ile_yayinda
 IsActive: True
 Section: software

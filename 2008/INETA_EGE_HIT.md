@@ -1,7 +1,7 @@
 ---
 FallbackID: 2289
-Title: INETA EGE HIT
-PublishDate: 27/12/2008
+Title: "INETA EGE HIT"
+date: "2008-12-27"
 EntryID: INETA_EGE_HIT
 IsActive: True
 Section: software

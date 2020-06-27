@@ -1,7 +1,7 @@
 ---
 FallbackID: 2117
-Title: Çözüme Giden Yolda En Değerli Deneyimler
-PublishDate: 9/7/2008
+Title: "Çözüme Giden Yolda En Değerli Deneyimler"
+date: "2008-7-9"
 EntryID: Cozume_Giden_Yolda_En_Degerli_Deneyimler
 IsActive: True
 Section: software

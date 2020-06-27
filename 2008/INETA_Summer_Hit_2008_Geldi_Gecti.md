@@ -1,7 +1,7 @@
 ---
 FallbackID: 2144
-Title: INETA Summer Hit 2008 Geldi... Geçti...
-PublishDate: 4/8/2008
+Title: "INETA Summer Hit 2008 Geldi... Geçti..."
+date: "2008-8-4"
 EntryID: INETA_Summer_Hit_2008_Geldi_Gecti
 IsActive: True
 Section: software

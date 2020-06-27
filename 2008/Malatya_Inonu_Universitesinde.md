@@ -1,7 +1,7 @@
 ---
 FallbackID: 1996
-Title: Malatya İnönü Üniversitesinde...
-PublishDate: 20/3/2008
+Title: "Malatya İnönü Üniversitesinde..."
+date: "2008-3-20"
 EntryID: Malatya_Inonu_Universitesinde
 IsActive: True
 Section: software

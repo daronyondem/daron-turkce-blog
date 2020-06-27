@@ -1,7 +1,7 @@
 ---
 FallbackID: 1755
-Title: ASP.NET Uygulamalarına Programatik Restart
-PublishDate: 15/8/2007
+Title: "ASP.NET Uygulamalarına Programatik Restart"
+date: "2007-8-15"
 EntryID: ASP_NET_Uygulamalarina_Programatik_Restart
 IsActive: True
 Section: software

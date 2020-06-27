@@ -1,14 +1,19 @@
 ---
 FallbackID: 2773
-Title: Varolan bir veritabanını Azure ortamına taşımak!
-PublishDate: 5/6/2012
+Title: "Varolan bir veritabanını Azure ortamına taşımak!"
+date: "2012-6-5"
 EntryID: Varolan_bir_veritabanini_Azure_ortamina_tasimak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Veritabaninizi_Azure_ortamina_tasimak_SDK2_5)bulabilirsiniz.]**SQL Azure ile birşeyler yapmaya başladınız fakat hala elinizdeki
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Veritabaninizi_Azure_ortamina_tasimak_SDK2_5)
+bulabilirsiniz.]**
+
+SQL Azure ile birşeyler yapmaya başladınız fakat hala elinizdeki
 veritabanı ile nasıl ilerleyebileceğinizi kestiremiyorsunuz. Gelin o
 zaman beraber bir göz atalım. Birincisi ilk olarak web panelinde nasıl
 araçlarımız var bir ona bakalım.

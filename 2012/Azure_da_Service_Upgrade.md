@@ -1,7 +1,7 @@
 ---
 FallbackID: 2763
-Title: Azure'da Service Upgrade
-PublishDate: 1/5/2012
+Title: "Azure'da Service Upgrade"
+date: "2012-5-1"
 EntryID: Azure_da_Service_Upgrade
 IsActive: True
 Section: software

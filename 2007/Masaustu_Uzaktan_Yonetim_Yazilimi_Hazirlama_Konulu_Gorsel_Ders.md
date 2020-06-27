@@ -1,7 +1,7 @@
 ---
 FallbackID: 1775
-Title: Masaüstü Uzaktan Yönetim Yazilimi Hazirlama Konulu Görsel Ders
-PublishDate: 4/9/2007
+Title: "Masaüstü Uzaktan Yönetim Yazilimi Hazirlama Konulu Görsel Ders"
+date: "2007-9-4"
 EntryID: Masaustu_Uzaktan_Yonetim_Yazilimi_Hazirlama_Konulu_Gorsel_Ders
 IsActive: True
 Section: software

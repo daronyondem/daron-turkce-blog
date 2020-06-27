@@ -1,7 +1,7 @@
 ---
 FallbackID: 1829
-Title: Silverlight Eğitiminin Süper Özeti
-PublishDate: 30/10/2007
+Title: "Silverlight Eğitiminin Süper Özeti"
+date: "2007-10-30"
 EntryID: Silverlight_Egitiminin_Super_Ozeti
 IsActive: True
 Section: software

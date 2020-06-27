@@ -1,7 +1,7 @@
 ---
 FallbackID: 2958
-Title: Visual Basic 14 Yenilikleri
-PublishDate: 10/3/2015
+Title: "Visual Basic 14 Yenilikleri"
+date: "2015-3-10"
 EntryID: Visual_Basic_14_Yenilikleri
 IsActive: True
 Section: software
@@ -95,7 +95,8 @@ Dim arkadaslar = {"Örnek", 'Buraya yorum yazsak?
 
 Sanırım yukarıdaki manzarayı açıklamama gerek yok. Eskiden oraya yorum yazmak mümkün değildi. Özellikle çoklu satırlı LINQ sorgularında bu durum çok işe yarayacak.
 
-```VBPublic Function Something() As Integer  
+```VB
+Public Function Something() As Integer  
 End Function  
 Private Sub Grid_Loaded(sender As Object, e As RoutedEventArgs)
     MessageBox.Show(NameOf(Something))

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2890
-Title: Windows Phone'da LiveID Authentication
-PublishDate: 6/3/2014
+Title: "Windows Phone'da LiveID Authentication"
+date: "2014-3-6"
 EntryID: Windows_Phone_LiveID_Authentication
 IsActive: True
 Section: software

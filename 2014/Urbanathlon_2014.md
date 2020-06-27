@@ -1,7 +1,7 @@
 ---
 FallbackID: 2919
-Title: Urbanathlon 2014
-PublishDate: 13/10/2014
+Title: "Urbanathlon 2014"
+date: "2014-10-13"
 EntryID: Urbanathlon_2014
 IsActive: True
 Section: fitness

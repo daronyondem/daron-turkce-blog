@@ -1,7 +1,7 @@
 ---
 FallbackID: 2160
-Title: IIS 7.0 ve ASP.NET yenilikleri.
-PublishDate: 20/8/2008
+Title: "IIS 7.0 ve ASP.NET yenilikleri."
+date: "2008-8-20"
 EntryID: IIS_7_0_ve_ASP_NET_yenilikleri
 IsActive: True
 Section: software

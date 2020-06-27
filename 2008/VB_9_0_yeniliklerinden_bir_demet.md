@@ -1,7 +1,7 @@
 ---
 FallbackID: 1921
-Title: VB 9.0 yeniliklerinden bir demet.
-PublishDate: 17/1/2008
+Title: "VB 9.0 yeniliklerinden bir demet."
+date: "2008-1-17"
 EntryID: VB_9_0_yeniliklerinden_bir_demet
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2365
-Title: Web servislerimi Windows uygulamasında nasıl host ederim?
-PublishDate: 2/6/2009
+Title: "Web servislerimi Windows uygulamasında nasıl host ederim?"
+date: "2009-6-2"
 EntryID: Web_servislerimi_Windows_uygulamasinda_nasil_host_ederim
 IsActive: True
 Section: software

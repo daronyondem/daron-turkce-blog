@@ -1,7 +1,7 @@
 ---
 FallbackID: 2422
-Title: Bu kitaplar candır!
-PublishDate: 10/10/2009
+Title: "Bu kitaplar candır!"
+date: "2009-10-10"
 EntryID: Bu_kitaplar_candir
 IsActive: True
 Section: software

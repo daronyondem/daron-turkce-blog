@@ -1,7 +1,7 @@
 ---
 FallbackID: 2349
-Title: Fırat Üniversitesi Seminerlerim
-PublishDate: 15/4/2009
+Title: "Fırat Üniversitesi Seminerlerim"
+date: "2009-4-15"
 EntryID: Firat_Universitesi_Seminerlerim
 IsActive: True
 Section: software

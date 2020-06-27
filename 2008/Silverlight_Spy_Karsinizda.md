@@ -1,7 +1,7 @@
 ---
 FallbackID: 2115
-Title: Silverlight Spy Karşınızda :)
-PublishDate: 7/7/2008
+Title: "Silverlight Spy Karşınızda":)
+date: "2008-7-7"
 EntryID: Silverlight_Spy_Karsinizda
 IsActive: True
 Section: software

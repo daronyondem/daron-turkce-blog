@@ -1,7 +1,7 @@
 ---
 FallbackID: 2907
-Title: Konya Selçuk Üniversitesi Girişimcilik ve Ekonomi Zirvesi
-PublishDate: 9/5/2014
+Title: "Konya Selçuk Üniversitesi Girişimcilik ve Ekonomi Zirvesi"
+date: "2014-5-9"
 EntryID: Selcuk_Universitesi_Girisimcilik_Ekonomi_Zirvesi
 IsActive: True
 Section: software
@@ -19,7 +19,8 @@ yok ve gereksiz spoiler niteliği taşımaktan öteye bir işlevi olmaz. O
 yüzden içeriği merak ediyorsanız bu oturuma bir yerlerde denk gelmeniz
 gerekecek :)
 
-<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.785766928134542.1073741835.207889319255642&amp;type=1" data-width="750"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/media/set/?set=a.785766928134542.1073741835.207889319255642&amp;type=1">Post</a> by <a href="https://www.facebook.com/daronyoendem">Daron Yöndem</a>.</div></div>
+<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.785766928134542.1073741835.207889319255642&amp;type=1" data-width="750"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/media/set/?set=a.785766928134542.1073741835.207889319255642&amp;type=1">Post</a> by <a href="https://www.facebook.com/daronyoendem">Daron Yöndem</a>.</div></div>
 
 Etkinlik benim için inanılmaz eğlenceli geçti. Anadolu üniversitelerinde
 sahne almayı özlemişim diyebilirim :) Tüm öğrenciler inanılmaz içten ve

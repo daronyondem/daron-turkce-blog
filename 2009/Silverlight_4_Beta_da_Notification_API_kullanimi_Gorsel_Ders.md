@@ -1,7 +1,7 @@
 ---
 FallbackID: 2477
-Title: Silverlight 4 Beta'da Notification API kullanımı - Görsel Ders
-PublishDate: 15/12/2009
+Title: "Silverlight 4 Beta'da Notification API kullanımı - Görsel Ders"
+date: "2009-12-15"
 EntryID: Silverlight_4_Beta_da_Notification_API_kullanimi_Gorsel_Ders
 IsActive: True
 Section: software

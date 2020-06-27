@@ -1,6 +1,6 @@
 ---
-Title: Mayıs 2018 Webinerleri
-PublishDate: 11/5/2018
+Title: "Mayıs 2018 Webinerleri"
+date: "2018-5-11"
 IsActive: True
 MinutesSpent: 18
 Tags: IaC, Visual Studio App Center, Cognitive Services, Azure Functions

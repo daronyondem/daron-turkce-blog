@@ -1,7 +1,7 @@
 ---
 FallbackID: 2099
-Title: Afyon Kocatepe Üniversitesi Semineri
-PublishDate: 21/6/2008
+Title: "Afyon Kocatepe Üniversitesi Semineri"
+date: "2008-6-21"
 EntryID: Afyon_Kocatepe_Universitesi_Semineri
 IsActive: True
 Section: software

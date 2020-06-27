@@ -1,7 +1,7 @@
 ---
 FallbackID: 2863
-Title: Nokia Remote Device Access ile Testing
-PublishDate: 24/10/2013
+Title: "Nokia Remote Device Access ile Testing"
+date: "2013-10-24"
 EntryID: Nokia_Remote_Device_Access_ile_Testing
 IsActive: True
 Section: software

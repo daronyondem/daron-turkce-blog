@@ -1,7 +1,7 @@
 ---
 FallbackID: 2317
-Title: Dertli Kerem'a kardeş geldi :)
-PublishDate: 1/2/2009
+Title: "Dertli Kerem'a kardeş geldi":)
+date: "2009-2-1"
 EntryID: Dertli_Kereme_kardes_geldi
 IsActive: True
 Section: software

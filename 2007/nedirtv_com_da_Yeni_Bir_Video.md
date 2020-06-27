@@ -1,7 +1,7 @@
 ---
 FallbackID: 1820
-Title: nedirtv?com'da Yeni Bir Video
-PublishDate: 23/10/2007
+Title: "nedirtv?com'da Yeni Bir Video"
+date: "2007-10-23"
 EntryID: nedirtv_com_da_Yeni_Bir_Video
 IsActive: True
 Section: software

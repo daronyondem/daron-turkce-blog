@@ -1,7 +1,7 @@
 ---
 FallbackID: 2880
-Title: Azure da Fault Update Domain Nedir ve Nasil Ayarlanir (SDK2.2)
-PublishDate: 30/11/2013
+Title: "Azure da Fault Update Domain Nedir ve Nasil Ayarlanir (SDK2.2)"
+date: "2013-11-30"
 EntryID: Fault_ve_Update_Domain_SDK2_2
 IsActive: True
 Section: software

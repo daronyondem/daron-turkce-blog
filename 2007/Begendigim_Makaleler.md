@@ -1,7 +1,7 @@
 ---
 FallbackID: 1805
-Title: Beğendiğim Makaleler...
-PublishDate: 5/10/2007
+Title: "Beğendiğim Makaleler..."
+date: "2007-10-5"
 EntryID: Begendigim_Makaleler
 IsActive: True
 Section: software

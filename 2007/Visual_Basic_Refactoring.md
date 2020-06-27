@@ -1,7 +1,7 @@
 ---
 FallbackID: 1899
-Title: Visual Basic Refactoring
-PublishDate: 28/12/2007
+Title: "Visual Basic Refactoring"
+date: "2007-12-28"
 EntryID: Visual_Basic_Refactoring
 IsActive: True
 Section: software

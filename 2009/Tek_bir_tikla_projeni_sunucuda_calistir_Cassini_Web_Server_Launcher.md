@@ -1,7 +1,7 @@
 ---
 FallbackID: 2295
-Title: Tek bir tıkla projeni sunucuda çalıştır... Cassini Web Server Launcher
-PublishDate: 3/1/2009
+Title: "Tek bir tıkla projeni sunucuda çalıştır... Cassini Web Server Launcher"
+date: "2009-1-3"
 EntryID: Tek_bir_tikla_projeni_sunucuda_calistir_Cassini_Web_Server_Launcher
 IsActive: True
 Section: software

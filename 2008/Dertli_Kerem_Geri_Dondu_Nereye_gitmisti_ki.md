@@ -1,7 +1,7 @@
 ---
 FallbackID: 2127
-Title: Dertli Kerem Geri Döndü! Nereye gitmişti ki?
-PublishDate: 19/7/2008
+Title: "Dertli Kerem Geri Döndü! Nereye gitmişti ki?"
+date: "2008-7-19"
 EntryID: Dertli_Kerem_Geri_Dondu_Nereye_gitmisti_ki
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2011
-Title: 2008 Yılında MVP'lik Ödülü
-PublishDate: 2/4/2008
+Title: "2008 Yılında MVP'lik Ödülü"
+date: "2008-4-2"
 EntryID: 2008_Yilinda_MVP_lik_Odulu
 IsActive: True
 Section: software

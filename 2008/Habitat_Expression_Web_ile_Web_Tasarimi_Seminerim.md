@@ -1,7 +1,7 @@
 ---
 FallbackID: 2112
-Title: Habitat, Expression Web ile Web Tasarımı Seminerim
-PublishDate: 3/7/2008
+Title: "Habitat, Expression Web ile Web Tasarımı Seminerim"
+date: "2008-7-3"
 EntryID: Habitat_Expression_Web_ile_Web_Tasarimi_Seminerim
 IsActive: True
 Section: software

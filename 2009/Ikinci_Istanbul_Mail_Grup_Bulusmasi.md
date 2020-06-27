@@ -1,7 +1,7 @@
 ---
 FallbackID: 2409
-Title: 2. Istanbul Mail Grup Buluşması
-PublishDate: 13/9/2009
+Title: "2. Istanbul Mail Grup Buluşması"
+date: "2009-9-13"
 EntryID: Ikinci_Istanbul_Mail_Grup_Bulusmasi
 IsActive: True
 Section: software

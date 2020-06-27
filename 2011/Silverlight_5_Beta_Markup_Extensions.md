@@ -1,7 +1,7 @@
 ---
 FallbackID: 2561
-Title: Silverlight 5 Beta Markup Extensions
-PublishDate: 18/4/2011
+Title: "Silverlight 5 Beta Markup Extensions"
+date: "2011-4-18"
 EntryID: Silverlight_5_Beta_Markup_Extensions
 IsActive: True
 Section: software

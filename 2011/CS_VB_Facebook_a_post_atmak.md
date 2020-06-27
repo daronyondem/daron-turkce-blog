@@ -1,7 +1,7 @@
 ---
 FallbackID: 2737
-Title: .NET'ten Facebook'a post atmak.
-PublishDate: 5/12/2011
+Title: ".NET'ten Facebook'a post atmak."
+date: "2011-12-5"
 EntryID: CS_VB_Facebook_a_post_atmak
 IsActive: True
 Section: software

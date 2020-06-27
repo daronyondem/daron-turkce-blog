@@ -1,7 +1,7 @@
 ---
 FallbackID: 2139
-Title: INETA Summer Hit Bülten 3
-PublishDate: 30/7/2008
+Title: "INETA Summer Hit Bülten 3"
+date: "2008-7-30"
 EntryID: INETA_Summer_Hit_Bulten_3
 IsActive: True
 Section: software

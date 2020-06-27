@@ -1,7 +1,7 @@
 ---
 FallbackID: 1890
-Title: Fuar nedir?
-PublishDate: 19/12/2007
+Title: "Fuar nedir?"
+date: "2007-12-19"
 EntryID: Fuar_nedir
 IsActive: True
 Section: software

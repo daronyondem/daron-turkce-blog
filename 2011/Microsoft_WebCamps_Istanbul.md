@@ -1,7 +1,7 @@
 ---
 FallbackID: 2545
-Title: Microsoft WebCamps Istanbul
-PublishDate: 2/2/2011
+Title: "Microsoft WebCamps Istanbul"
+date: "2011-2-2"
 EntryID: Microsoft_WebCamps_Istanbul
 IsActive: True
 Section: software

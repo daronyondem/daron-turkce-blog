@@ -1,7 +1,7 @@
 ---
 FallbackID: 2531
-Title: Silverlight Out Of Browser uygulamalarını offline yükleme scriptleri
-PublishDate: 21/7/2010
+Title: "Silverlight Out Of Browser uygulamalarını offline yükleme scriptleri"
+date: "2010-7-21"
 EntryID: Silverlight_Out_Of_Browser_uygulamalarini_offline_yukleme_scriptleri
 IsActive: True
 Section: software

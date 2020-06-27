@@ -1,7 +1,7 @@
 ---
 FallbackID: 2392
-Title: DeepZoom Composer Yenilikleri!
-PublishDate: 17/8/2009
+Title: "DeepZoom Composer Yenilikleri!"
+date: "2009-8-17"
 EntryID: DeepZoom_Composer_Yenilikleri
 IsActive: True
 Section: software

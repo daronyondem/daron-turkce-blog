@@ -1,7 +1,7 @@
 ---
 FallbackID: 2458
-Title: Silverlight 4 Beta ile .NET 4.0 arasında Assembly paylaşımı
-PublishDate: 26/11/2009
+Title: "Silverlight 4 Beta ile .NET 4.0 arasında Assembly paylaşımı"
+date: "2009-11-26"
 EntryID: Silverlight_4_Beta_ile_NET_4_0_arasinda_Assembly_paylasimi
 IsActive: True
 Section: software

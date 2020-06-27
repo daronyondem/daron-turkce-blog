@@ -1,7 +1,7 @@
 ---
 FallbackID: 2821
-Title: Ekim Wallpaper'ı İstanbul'dan!
-PublishDate: 5/10/2012
+Title: "Ekim Wallpaper'ı İstanbul'dan!"
+date: "2012-10-5"
 EntryID: Ekim_Wallpaperi_Istanbuldan
 IsActive: True
 Section: software

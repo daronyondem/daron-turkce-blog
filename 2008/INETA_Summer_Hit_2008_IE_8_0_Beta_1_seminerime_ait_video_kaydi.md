@@ -1,7 +1,7 @@
 ---
 FallbackID: 2175
-Title: INETA Summer Hit 2008 IE 8.0 Beta 1 seminerime ait video kaydı.
-PublishDate: 4/9/2008
+Title: "INETA Summer Hit 2008 IE 8.0 Beta 1 seminerime ait video kaydı."
+date: "2008-9-4"
 EntryID: INETA_Summer_Hit_2008_IE_8_0_Beta_1_seminerime_ait_video_kaydi
 IsActive: True
 Section: software

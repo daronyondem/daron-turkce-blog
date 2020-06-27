@@ -1,7 +1,7 @@
 ---
 FallbackID: 2715
-Title: T-Mobile Samsung Omnia 7 ile Mango
-PublishDate: 29/9/2011
+Title: "T-Mobile Samsung Omnia 7 ile Mango"
+date: "2011-9-29"
 EntryID: TMobile_Samsung_Omnia_7_ile_Mango
 IsActive: True
 Section: software

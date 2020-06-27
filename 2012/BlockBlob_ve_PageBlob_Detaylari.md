@@ -1,14 +1,19 @@
 ---
 FallbackID: 2780
-Title: BlockBlob ve PageBlob Detayları
-PublishDate: 24/7/2012
+Title: "BlockBlob ve PageBlob Detayları"
+date: "2012-7-24"
 EntryID: BlockBlob_ve_PageBlob_Detaylari
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/BlockBlob_ve_PageBlob_Detaylari_SDK2_5)bulabilirsiniz.]**Bloblarla ilgili birçok detayı daha önceki yazılarda inceledik. Hatta
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/BlockBlob_ve_PageBlob_Detaylari_SDK2_5)
+bulabilirsiniz.]**
+
+Bloblarla ilgili birçok detayı daha önceki yazılarda inceledik. Hatta
 PageBlob ile BlockBlob arasındaki farklılığa da değinmiştik. Şu ana
 kadar bildiklerimizin üzerinden geçmek gerekirse PageBlob'ların 512
 byte'lık paketler (max4MB'lık paket olabilir) şekilde veri

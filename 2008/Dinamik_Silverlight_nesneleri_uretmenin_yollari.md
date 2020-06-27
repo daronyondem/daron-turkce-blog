@@ -1,7 +1,7 @@
 ---
 FallbackID: 1963
-Title: Dinamik Silverlight nesneleri üretmenin yolları.
-PublishDate: 20/2/2008
+Title: "Dinamik Silverlight nesneleri üretmenin yolları."
+date: "2008-2-20"
 EntryID: Dinamik_Silverlight_nesneleri_uretmenin_yollari
 IsActive: True
 Section: software

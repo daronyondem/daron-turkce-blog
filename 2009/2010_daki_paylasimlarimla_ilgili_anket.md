@@ -1,7 +1,7 @@
 ---
 FallbackID: 2479
-Title: 2010'daki paylaşımlarımla ilgili anket!
-PublishDate: 22/12/2009
+Title: "2010'daki paylaşımlarımla ilgili anket!"
+date: "2009-12-22"
 EntryID: 2010_daki_paylasimlarimla_ilgili_anket
 IsActive: True
 Section: software

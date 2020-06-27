@@ -1,7 +1,7 @@
 ---
 FallbackID: 1934
-Title: Silverlight ve Glyphs kullanımı
-PublishDate: 29/1/2008
+Title: "Silverlight ve Glyphs kullanımı"
+date: "2008-1-29"
 EntryID: Silverlight_ve_Glyphs_kullanimi
 IsActive: True
 Section: software

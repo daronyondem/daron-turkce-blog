@@ -1,7 +1,7 @@
 ---
 FallbackID: 2520
-Title: Windows Phone 7'de ApplicationBar ve Menü Kullanımı
-PublishDate: 7/5/2010
+Title: "Windows Phone 7'de ApplicationBar ve Menü Kullanımı"
+date: "2010-5-7"
 EntryID: Windows_Phone_7_de_ApplicationBar_ve_Menu_Kullanimi
 IsActive: True
 Section: software

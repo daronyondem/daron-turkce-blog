@@ -1,7 +1,7 @@
 ---
 FallbackID: 2146
-Title: INETA Summer Hit 2008 Fotoğrafları
-PublishDate: 7/8/2008
+Title: "INETA Summer Hit 2008 Fotoğrafları"
+date: "2008-8-7"
 EntryID: INETA_Summer_Hit_2008_Fotograflari
 IsActive: True
 Section: software

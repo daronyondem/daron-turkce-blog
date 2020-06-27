@@ -1,7 +1,7 @@
 ---
 FallbackID: 2243
-Title: Bursa, Uludağ Üniversitesi'nde Silverlight ve WPF anlatacağım! Herkes davetli!
-PublishDate: 11/11/2008
+Title: "Bursa, Uludağ Üniversitesi'nde Silverlight ve WPF anlatacağım! Herkes davetli!"
+date: "2008-11-11"
 EntryID: Bursa_Uludag_Universitesi_nde_Silverlight_ve_WPF_anlatacagim_Herkes_davetli
 IsActive: True
 Section: software

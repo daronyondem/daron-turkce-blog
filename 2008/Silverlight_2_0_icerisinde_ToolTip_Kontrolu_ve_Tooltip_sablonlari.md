@@ -1,7 +1,7 @@
 ---
 FallbackID: 2088
-Title: Silverlight 2.0 içerisinde ToolTip Kontrolü ve Tooltip şablonları
-PublishDate: 12/6/2008
+Title: "Silverlight 2.0 içerisinde ToolTip Kontrolü ve Tooltip şablonları"
+date: "2008-6-12"
 EntryID: Silverlight_2_0_icerisinde_ToolTip_Kontrolu_ve_Tooltip_sablonlari
 IsActive: True
 Section: software

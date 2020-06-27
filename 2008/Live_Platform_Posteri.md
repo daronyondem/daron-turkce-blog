@@ -1,7 +1,7 @@
 ---
 FallbackID: 1936
-Title: Live Platform Posteri
-PublishDate: 31/1/2008
+Title: "Live Platform Posteri"
+date: "2008-1-31"
 EntryID: Live_Platform_Posteri
 IsActive: True
 Section: software

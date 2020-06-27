@@ -1,7 +1,7 @@
 ---
 FallbackID: 2478
-Title: INETA NEXT Kayseri
-PublishDate: 21/12/2009
+Title: "INETA NEXT Kayseri"
+date: "2009-12-21"
 EntryID: INETA_NEXT_Kayseri
 IsActive: True
 Section: software

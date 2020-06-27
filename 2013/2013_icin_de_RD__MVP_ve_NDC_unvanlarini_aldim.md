@@ -1,7 +1,7 @@
 ---
 FallbackID: 2839
-Title: 2013 için de RD, MVP ve NDC ünvanlarını aldım.
-PublishDate: 2/4/2013
+Title: "2013 için de RD, MVP ve NDC ünvanlarını aldım."
+date: "2013-4-2"
 EntryID: 2013_icin_de_RD__MVP_ve_NDC_unvanlarini_aldim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1761
-Title: AJAX Web Sitelerinde Tarayıcıda Geri/İleri Düğmesi Sorunu
-PublishDate: 25/8/2007
+Title: "AJAX Web Sitelerinde Tarayıcıda Geri/İleri Düğmesi Sorunu"
+date: "2007-8-25"
 EntryID: AJAX_Web_Sitelerinde_Tarayicida_Geri-Ileri_Dugmesi_Sorunu
 IsActive: True
 Section: software

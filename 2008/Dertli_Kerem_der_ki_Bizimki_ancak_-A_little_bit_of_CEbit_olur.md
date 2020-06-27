@@ -1,7 +1,7 @@
 ---
 FallbackID: 2215
-Title: Dertli Kerem der ki "Bizimki ancak -A little bit of CEbit!- olur"
-PublishDate: 14/10/2008
+Title: "Dertli Kerem der ki "Bizimki ancak -A little bit of CEbit!- olur""
+date: "2008-10-14"
 EntryID: Dertli_Kerem_der_ki_Bizimki_ancak_-A_little_bit_of_CEbit_olur
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1772
-Title: ASP.NET ile Web Sitelerinin Ekran Görüntüsünü Almak
-PublishDate: 4/9/2007
+Title: "ASP.NET ile Web Sitelerinin Ekran Görüntüsünü Almak"
+date: "2007-9-4"
 EntryID: ASP_NET_ile_Web_Sitelerinin_Ekran_Goruntusunu_Almak
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3037
-Title: Azure Functions ile Debugging ve Logging
-PublishDate: 2/12/2016
+Title: "Azure Functions ile Debugging ve Logging"
+date: "2016-12-2"
 EntryID: Azure_Functions_ile_Debugging_ve_Logging
 IsActive: True
 Section: software

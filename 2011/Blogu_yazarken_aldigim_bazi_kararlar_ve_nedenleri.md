@@ -1,7 +1,7 @@
 ---
 FallbackID: 2681
-Title: Blogu yazarken aldığım bazı kararlar ve nedenleri...
-PublishDate: 2/9/2011
+Title: "Blogu yazarken aldığım bazı kararlar ve nedenleri..."
+date: "2011-9-2"
 EntryID: Blogu_yazarken_aldigim_bazi_kararlar_ve_nedenleri
 IsActive: True
 Section: software

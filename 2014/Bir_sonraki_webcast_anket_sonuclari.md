@@ -1,7 +1,7 @@
 ---
 FallbackID: 2883
-Title: "Bir sonraki webcast" anket sonuçları
-PublishDate: 18/2/2014
+Title: ""Bir sonraki webcast" anket sonuçları"
+date: "2014-2-18"
 EntryID: Bir_sonraki_webcast_anket_sonuclari
 IsActive: True
 Section: software

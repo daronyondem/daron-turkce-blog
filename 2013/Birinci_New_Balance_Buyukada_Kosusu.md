@@ -1,7 +1,7 @@
 ---
 FallbackID: 2855
-Title: 1. New Balance Büyükada Koşusu
-PublishDate: 17/9/2013
+Title: "1. New Balance Büyükada Koşusu"
+date: "2013-9-17"
 EntryID: Birinci_New_Balance_Buyukada_Kosusu
 IsActive: True
 Section: fitness

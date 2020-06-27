@@ -1,7 +1,7 @@
 ---
 FallbackID: 3007
-Title: Galatasaray Üniversitesi'nde Reunion
-PublishDate: 17/3/2016
+Title: "Galatasaray Üniversitesi'nde Reunion"
+date: "2016-3-17"
 EntryID: Galatasaray_Universitesi_nde_Reunion
 IsActive: True
 Section: software

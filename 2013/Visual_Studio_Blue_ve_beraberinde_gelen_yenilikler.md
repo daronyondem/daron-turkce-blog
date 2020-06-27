@@ -1,7 +1,7 @@
 ---
 FallbackID: 2838
-Title: Visual Studio Blue ve beraberinde gelen yenilikler...
-PublishDate: 1/4/2013
+Title: "Visual Studio Blue ve beraberinde gelen yenilikler..."
+date: "2013-4-1"
 EntryID: Visual_Studio_Blue_ve_beraberinde_gelen_yenilikler
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2267
-Title: MultiPoint Programlama'ya Giriş
-PublishDate: 6/12/2008
+Title: "MultiPoint Programlama'ya Giriş"
+date: "2008-12-6"
 EntryID: MultiPoint_Programlamaya_Giris
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1788
-Title: AJAX ve Silverlight Yazılarım Artık PCnet'te..
-PublishDate: 21/9/2007
+Title: "AJAX ve Silverlight Yazılarım Artık PCnet'te.."
+date: "2007-9-21"
 EntryID: AJAX_ve_Silverlight_Yazilarim_Artik_PCnette
 IsActive: True
 Section: software

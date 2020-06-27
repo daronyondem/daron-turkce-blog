@@ -1,7 +1,7 @@
 ---
 FallbackID: 1785
-Title: Haberler...
-PublishDate: 12/9/2007
+Title: "Haberler..."
+date: "2007-9-12"
 EntryID: Haberler
 IsActive: True
 Section: software

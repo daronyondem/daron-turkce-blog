@@ -1,7 +1,7 @@
 ---
 FallbackID: 2487
-Title: Denizli Windows 7 Partisi - Ah bu hayat çekilmez!?
-PublishDate: 30/1/2010
+Title: "Denizli Windows 7 Partisi - Ah bu hayat çekilmez!?"
+date: "2010-1-30"
 EntryID: Denizli_Windows_7_Partisi_Ah_bu_hayat_cekilmez
 IsActive: True
 Section: software

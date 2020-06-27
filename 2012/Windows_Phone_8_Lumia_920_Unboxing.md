@@ -1,7 +1,7 @@
 ---
 FallbackID: 2827
-Title: Windows Phone 8 Lumia 920 Unboxing
-PublishDate: 4/11/2012
+Title: "Windows Phone 8 Lumia 920 Unboxing"
+date: "2012-11-4"
 EntryID: Windows_Phone_8_Lumia_920_Unboxing
 IsActive: True
 Section: software

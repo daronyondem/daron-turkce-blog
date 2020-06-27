@@ -1,7 +1,7 @@
 ---
 FallbackID: 2901
-Title: WebSite ile Web Application Arasındaki Fark Nedir?
-PublishDate: 13/4/2014
+Title: "WebSite ile Web Application Arasındaki Fark Nedir?"
+date: "2014-4-13"
 EntryID: WebSite_ile_Web_Application_Arasindaki_Fark_Nedir
 IsActive: True
 Section: software
@@ -94,7 +94,10 @@ kullanmıyorsunuz demektir :)
 
 Başka başka....
 
-- WebApplication'da birden çok web projesi arasında dependency yaratabilirsiniz.- Dışarıdan assemblye ulaşıp farklı araçlarla UnitTest yapabilirsiniz. Web Sites ile de tabi ki UnitTest yaparsınız ama biraz daha takla atmak gerekir çünkü her sayfa assembly'de bir sınıfla eşleşmez.- Assembly versioning olayını WebSites'da doğal olarak yapamazsınız. Assembly delivery yok zaten.- PreBuild-PostBuild gibi olaylarınız sadece WebProject'lerde olabilir.
+- WebApplication'da birden çok web projesi arasında dependency yaratabilirsiniz.
+- Dışarıdan assemblye ulaşıp farklı araçlarla UnitTest yapabilirsiniz. Web Sites ile de tabi ki UnitTest yaparsınız ama biraz daha takla atmak gerekir çünkü her sayfa assembly'de bir sınıfla eşleşmez.
+- Assembly versioning olayını WebSites'da doğal olarak yapamazsınız. Assembly delivery yok zaten.
+- PreBuild-PostBuild gibi olaylarınız sadece WebProject'lerde olabilir.
 
 Tabi ki ek olarak Visual Studio'nın şablona göre içeri attığı farklı
 dosyalar ve klasör yapıları da var ama onlar pek de kritik değil.

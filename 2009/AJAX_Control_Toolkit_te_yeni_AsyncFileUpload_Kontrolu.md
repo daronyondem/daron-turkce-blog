@@ -1,7 +1,7 @@
 ---
 FallbackID: 2419
-Title: AJAX Control Toolkit'te yeni AsyncFileUpload Kontrolü
-PublishDate: 2/10/2009
+Title: "AJAX Control Toolkit'te yeni AsyncFileUpload Kontrolü"
+date: "2009-10-2"
 EntryID: AJAX_Control_Toolkit_te_yeni_AsyncFileUpload_Kontrolu
 IsActive: True
 Section: software

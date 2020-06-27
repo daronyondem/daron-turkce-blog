@@ -1,7 +1,7 @@
 ---
 FallbackID: 1791
-Title: Silverlight Hosting!!!
-PublishDate: 24/9/2007
+Title: "Silverlight Hosting!!!"
+date: "2007-9-24"
 EntryID: Silverlight_Hosting
 IsActive: True
 Section: software

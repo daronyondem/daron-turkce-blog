@@ -1,7 +1,7 @@
 ---
 FallbackID: 1937
-Title: Visual Studio 2008 ve XAML Biçimlendirme
-PublishDate: 30/1/2008
+Title: "Visual Studio 2008 ve XAML Biçimlendirme"
+date: "2008-1-30"
 EntryID: Visual_Studio_2008_ve_XAML_Bicimlendirme
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2751
-Title: 2011 Yılı İlgi Alanlarım
-PublishDate: 16/1/2012
+Title: "2011 Yılı İlgi Alanlarım"
+date: "2012-1-16"
 EntryID: 2011_Yili_Ilgi_Alanlarim
 IsActive: True
 Section: software

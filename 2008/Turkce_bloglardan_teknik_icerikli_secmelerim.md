@@ -1,7 +1,7 @@
 ---
 FallbackID: 1976
-Title: Türkçe bloglardan teknik içerikli seçmelerim...
-PublishDate: 3/3/2008
+Title: "Türkçe bloglardan teknik içerikli seçmelerim..."
+date: "2008-3-3"
 EntryID: Turkce_bloglardan_teknik_icerikli_secmelerim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2123
-Title: INETA Summer Hit 2008
-PublishDate: 15/7/2008
+Title: "INETA Summer Hit 2008"
+date: "2008-7-15"
 EntryID: INETA_Summer_Hit_2008
 IsActive: True
 Section: software

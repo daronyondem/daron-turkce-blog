@@ -1,7 +1,7 @@
 ---
 FallbackID: 2842
-Title: Mobilist Mobil Uygulama Geliştirme Konferansı
-PublishDate: 22/4/2013
+Title: "Mobilist Mobil Uygulama Geliştirme Konferansı"
+date: "2013-4-22"
 EntryID: Mobilist_Mobil_Uygulama_Gelistirme_Konferansi
 IsActive: True
 Section: software

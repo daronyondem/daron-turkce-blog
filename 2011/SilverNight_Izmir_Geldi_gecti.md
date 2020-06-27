@@ -1,7 +1,7 @@
 ---
 FallbackID: 2574
-Title: SilverNight İzmir :) Geldi, geçti...
-PublishDate: 1/5/2011
+Title: "SilverNight İzmir":) Geldi, geçti...
+date: "2011-5-1"
 EntryID: SilverNight_Izmir_Geldi_gecti
 IsActive: True
 Section: software

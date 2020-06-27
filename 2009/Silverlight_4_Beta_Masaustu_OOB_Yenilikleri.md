@@ -1,7 +1,7 @@
 ---
 FallbackID: 2456
-Title: Silverlight 4 Beta Masaüstü (OOB) Yenilikleri!
-PublishDate: 24/11/2009
+Title: "Silverlight 4 Beta Masaüstü (OOB) Yenilikleri!"
+date: "2009-11-24"
 EntryID: Silverlight_4_Beta_Masaustu_OOB_Yenilikleri
 IsActive: True
 Section: software

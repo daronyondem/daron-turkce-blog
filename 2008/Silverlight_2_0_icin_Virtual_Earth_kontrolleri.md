@@ -1,7 +1,7 @@
 ---
 FallbackID: 2274
-Title: Silverlight 2.0 için Virtual Earth kontrolleri
-PublishDate: 13/12/2008
+Title: "Silverlight 2.0 için Virtual Earth kontrolleri"
+date: "2008-12-13"
 EntryID: Silverlight_2_0_icin_Virtual_Earth_kontrolleri
 IsActive: True
 Section: software

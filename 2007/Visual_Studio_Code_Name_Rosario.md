@@ -1,7 +1,7 @@
 ---
 FallbackID: 1768
-Title: Visual Studio Code Name Rosario
-PublishDate: 30/8/2007
+Title: "Visual Studio Code Name Rosario"
+date: "2007-8-30"
 EntryID: Visual_Studio_Code_Name_Rosario
 IsActive: True
 Section: software

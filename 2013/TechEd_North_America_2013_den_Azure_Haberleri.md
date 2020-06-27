@@ -1,7 +1,7 @@
 ---
 FallbackID: 2845
-Title: TechEd North America 2013'den Azure Haberleri
-PublishDate: 4/6/2013
+Title: "TechEd North America 2013'den Azure Haberleri"
+date: "2013-6-4"
 EntryID: TechEd_North_America_2013_den_Azure_Haberleri
 IsActive: True
 Section: software

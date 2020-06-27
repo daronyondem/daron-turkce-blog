@@ -1,7 +1,7 @@
 ---
 FallbackID: 2179
-Title: Kurumsal piramitte yazılımcının tırmanışına ipuçları
-PublishDate: 8/9/2008
+Title: "Kurumsal piramitte yazılımcının tırmanışına ipuçları"
+date: "2008-9-8"
 EntryID: Kurumsal_piramitte_yazilimcinin_tirmanisina_ipuclari
 IsActive: True
 Section: software

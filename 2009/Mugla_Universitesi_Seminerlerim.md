@@ -1,7 +1,7 @@
 ---
 FallbackID: 2360
-Title: Muğla Üniversitesi Seminerlerim
-PublishDate: 28/4/2009
+Title: "Muğla Üniversitesi Seminerlerim"
+date: "2009-4-28"
 EntryID: Mugla_Universitesi_Seminerlerim
 IsActive: True
 Section: software

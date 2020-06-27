@@ -1,7 +1,7 @@
 ---
 FallbackID: 2505
-Title: Silverlight 4 RC Değişiklikleri / Yenilikleri Seminer Video Kaydı
-PublishDate: 4/4/2010
+Title: "Silverlight 4 RC Değişiklikleri / Yenilikleri Seminer Video Kaydı"
+date: "2010-4-4"
 EntryID: Silverlight_4_RC_Degisiklikleri_ve_Yenilikleri_Seminer_Video_Kaydi
 IsActive: True
 Section: software

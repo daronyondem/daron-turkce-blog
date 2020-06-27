@@ -1,7 +1,7 @@
 ---
 FallbackID: 2488
-Title: Mart sonunda Bulgaristan'dayım!
-PublishDate: 7/2/2010
+Title: "Mart sonunda Bulgaristan'dayım!"
+date: "2010-2-7"
 EntryID: Mart_sonunda_Bulgaristan_dayim
 IsActive: True
 Section: software

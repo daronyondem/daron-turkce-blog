@@ -1,7 +1,7 @@
 ---
 FallbackID: 2070
-Title: Silverlight 2.0 içerisinde fare roller'ını kullanmak...
-PublishDate: 28/5/2008
+Title: "Silverlight 2.0 içerisinde fare roller'ını kullanmak..."
+date: "2008-5-28"
 EntryID: Silverlight_2_0_icerisinde_fare_roller_ini_kullanmak
 IsActive: True
 Section: software

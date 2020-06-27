@@ -1,7 +1,7 @@
 ---
 FallbackID: 2338
-Title: MIX 2009 yollarında...
-PublishDate: 17/3/2009
+Title: "MIX 2009 yollarında..."
+date: "2009-3-17"
 EntryID: MIX_2009_yollarinda
 IsActive: True
 Section: software

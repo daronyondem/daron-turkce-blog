@@ -1,7 +1,7 @@
 ---
 FallbackID: 2278
-Title: Live Groups'a gelin!
-PublishDate: 16/12/2008
+Title: "Live Groups'a gelin!"
+date: "2008-12-16"
 EntryID: Live_Groups_a_gelin
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2257
-Title: Microsoft Yazılım Geliştiriciler Zirvesi
-PublishDate: 24/11/2008
+Title: "Microsoft Yazılım Geliştiriciler Zirvesi"
+date: "2008-11-24"
 EntryID: Microsoft_Yazilim_Gelistiriciler_Zirvesi
 IsActive: True
 Section: software

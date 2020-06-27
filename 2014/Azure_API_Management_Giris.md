@@ -1,7 +1,7 @@
 ---
 FallbackID: 2920
-Title: Azure API Management'a Giriş
-PublishDate: 27/10/2014
+Title: "Azure API Management'a Giriş"
+date: "2014-10-27"
 EntryID: Azure_API_Management_Giris
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3023
-Title: MSDN Flash Temmuz 2016 İçeriği
-PublishDate: 8/6/2016
+Title: "MSDN Flash Temmuz 2016 İçeriği"
+date: "2016-6-8"
 EntryID: MSDN_Flash_Temmuz_2016_Icerigi
 IsActive: True
 Section: software

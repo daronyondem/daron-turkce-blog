@@ -1,7 +1,7 @@
 ---
 FallbackID: 2120
-Title: BlogEngine Türkiye sitesi açıldı
-PublishDate: 11/7/2008
+Title: "BlogEngine Türkiye sitesi açıldı"
+date: "2008-7-11"
 EntryID: BlogEngine_Turkiye_sitesi_acildi
 IsActive: True
 Section: software

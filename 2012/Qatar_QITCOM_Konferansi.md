@@ -1,7 +1,7 @@
 ---
 FallbackID: 2802
-Title: Qatar QITCOM Konferansı
-PublishDate: 8/3/2012
+Title: "Qatar QITCOM Konferansı"
+date: "2012-3-8"
 EntryID: Qatar_QITCOM_Konferansi
 IsActive: True
 Section: software

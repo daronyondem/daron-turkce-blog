@@ -1,7 +1,7 @@
 ---
 FallbackID: 1956
-Title: Source Outliner aracı.
-PublishDate: 12/2/2008
+Title: "Source Outliner aracı."
+date: "2008-2-12"
 EntryID: Source_Outliner_araci
 IsActive: True
 Section: software

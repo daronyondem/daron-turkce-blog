@@ -1,7 +1,7 @@
 ---
 FallbackID: 2447
-Title: TechEd Online Röportajım
-PublishDate: 15/11/2009
+Title: "TechEd Online Röportajım"
+date: "2009-11-15"
 EntryID: TechEd_Online_Roportajim
 IsActive: True
 Section: software

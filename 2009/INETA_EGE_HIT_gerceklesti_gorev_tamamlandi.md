@@ -1,7 +1,7 @@
 ---
 FallbackID: 2304
-Title: INETA EGE HIT gerçekleşti, görev tamamlandı :)
-PublishDate: 12/1/2009
+Title: "INETA EGE HIT gerçekleşti, görev tamamlandı":)
+date: "2009-1-12"
 EntryID: INETA_EGE_HIT_gerceklesti_gorev_tamamlandi
 IsActive: True
 Section: software

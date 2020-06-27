@@ -1,7 +1,7 @@
 ---
 FallbackID: 1916
-Title: Silverlight ve WPF Eğitimi Sonrasında
-PublishDate: 11/1/2008
+Title: "Silverlight ve WPF Eğitimi Sonrasında"
+date: "2008-1-11"
 EntryID: Silverlight_ve_WPF_Egitimi_Sonrasinda
 IsActive: True
 Section: software

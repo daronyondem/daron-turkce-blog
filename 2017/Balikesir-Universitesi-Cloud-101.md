@@ -1,6 +1,6 @@
 ---
-Title: Balıkesir Üniversitesi'nde Azure anlattım.
-PublishDate: 22/11/2017
+Title: "Balıkesir Üniversitesi'nde Azure anlattım."
+date: "2017-11-22"
 IsActive: True
 MinutesSpent: 11
 Tags: Seminer, Azure

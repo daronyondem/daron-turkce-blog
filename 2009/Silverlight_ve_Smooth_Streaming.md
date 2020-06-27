@@ -1,7 +1,7 @@
 ---
 FallbackID: 2395
-Title: Silverlight ve Smooth Streaming
-PublishDate: 23/8/2009
+Title: "Silverlight ve Smooth Streaming"
+date: "2009-8-23"
 EntryID: Silverlight_ve_Smooth_Streaming
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3030
-Title: Connect 2016 Haberleri
-PublishDate: 16/11/2016
+Title: "Connect 2016 Haberleri"
+date: "2016-11-16"
 EntryID: Connect_2016_Haberleri
 IsActive: True
 Section: software

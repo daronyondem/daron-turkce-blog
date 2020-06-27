@@ -1,7 +1,7 @@
 ---
 FallbackID: 2435
-Title: İzmir Windows 7 Akademik Lansman, Silverlight Workshop ve... :)
-PublishDate: 28/10/2009
+Title: "İzmir Windows 7 Akademik Lansman, Silverlight Workshop ve...":)
+date: "2009-10-28"
 EntryID: Izmir_Windows_7_Akademik_Lansman_Silverlight_Workshop_ve
 IsActive: True
 Section: software

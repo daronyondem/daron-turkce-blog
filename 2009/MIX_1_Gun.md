@@ -1,7 +1,7 @@
 ---
 FallbackID: 2339
-Title: MIX 1. Gün
-PublishDate: 18/3/2009
+Title: "MIX 1. Gün"
+date: "2009-3-18"
 EntryID: MIX_1_Gun
 IsActive: True
 Section: software

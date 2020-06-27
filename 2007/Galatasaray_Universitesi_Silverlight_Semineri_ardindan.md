@@ -1,7 +1,7 @@
 ---
 FallbackID: 1887
-Title: Galatasaray Üniversitesi Silverlight Semineri ardından
-PublishDate: 15/12/2007
+Title: "Galatasaray Üniversitesi Silverlight Semineri ardından"
+date: "2007-12-15"
 EntryID: Galatasaray_Universitesi_Silverlight_Semineri_ardindan
 IsActive: True
 Section: software

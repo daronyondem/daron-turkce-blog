@@ -1,7 +1,7 @@
 ---
 FallbackID: 2527
-Title: Windows Phone 7'de Multitasking
-PublishDate: 14/5/2010
+Title: "Windows Phone 7'de Multitasking"
+date: "2010-5-14"
 EntryID: Windows_Phone_7_de_Multitasking
 IsActive: True
 Section: software

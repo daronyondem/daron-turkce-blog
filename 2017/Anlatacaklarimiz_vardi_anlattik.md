@@ -1,7 +1,7 @@
 ---
 FallbackID: 3055
-Title: Anlatacaklarımız vardı, anlattık.
-PublishDate: 20/3/2017
+Title: "Anlatacaklarımız vardı, anlattık."
+date: "2017-3-20"
 EntryID: Anlatacaklarimiz_vardi_anlattik
 IsActive: True
 Section: software

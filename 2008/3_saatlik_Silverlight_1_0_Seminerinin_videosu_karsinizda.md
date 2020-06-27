@@ -1,7 +1,7 @@
 ---
 FallbackID: 2122
-Title: 3 saatlik Silverlight 1.0 Seminerinin videosu karşınızda!
-PublishDate: 14/7/2008
+Title: "3 saatlik Silverlight 1.0 Seminerinin videosu karşınızda!"
+date: "2008-7-14"
 EntryID: 3_saatlik_Silverlight_1_0_Seminerinin_videosu_karsinizda
 IsActive: True
 Section: software

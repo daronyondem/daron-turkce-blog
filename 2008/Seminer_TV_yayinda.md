@@ -1,7 +1,7 @@
 ---
 FallbackID: 2176
-Title: Seminer TV yayında :)
-PublishDate: 5/9/2008
+Title: "Seminer TV yayında":)
+date: "2008-9-5"
 EntryID: Seminer_TV_yayinda
 IsActive: True
 Section: software

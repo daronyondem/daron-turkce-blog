@@ -1,7 +1,7 @@
 ---
 FallbackID: 2214
-Title: Dynamic Web Site'ların proje yapısı ve InLine Editing desteği.
-PublishDate: 13/10/2008
+Title: "Dynamic Web Site'ların proje yapısı ve InLine Editing desteği."
+date: "2008-10-13"
 EntryID: Dynamic_Web_Site_larin_proje_yapisi_ve_InLine_Editing_destegi
 IsActive: True
 Section: software

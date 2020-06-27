@@ -1,6 +1,6 @@
 ---
-Title: Azure Functions 2 Runtime'da .NET Core 2
-PublishDate: 3/10/2017
+Title: "Azure Functions 2 Runtime'da .NET Core 2"
+date: "2017-10-3"
 IsActive: True
 Section: software
 MinutesSpent: 115

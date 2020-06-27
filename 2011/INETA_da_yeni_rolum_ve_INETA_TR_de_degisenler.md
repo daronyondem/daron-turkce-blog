@@ -1,7 +1,7 @@
 ---
 FallbackID: 2745
-Title: INETA'da yeni rolüm ve INETA TR'de değişenler!
-PublishDate: 25/12/2011
+Title: "INETA'da yeni rolüm ve INETA TR'de değişenler!"
+date: "2011-12-25"
 EntryID: INETA_da_yeni_rolum_ve_INETA_TR_de_degisenler
 IsActive: True
 Section: software

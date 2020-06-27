@@ -1,7 +1,7 @@
 ---
 FallbackID: 2904
-Title: WebJobs Giriş ve Bloblarla Kullanımı
-PublishDate: 21/4/2014
+Title: "WebJobs Giriş ve Bloblarla Kullanımı"
+date: "2014-4-21"
 EntryID: WebJobs_Giris_ve_Bloblarla_Kullanimi
 IsActive: True
 Section: software

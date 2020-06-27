@@ -1,7 +1,7 @@
 ---
 FallbackID: 2717
-Title: TechEd Africa 2011 Maceraları
-PublishDate: 20/10/2011
+Title: "TechEd Africa 2011 Maceraları"
+date: "2011-10-20"
 EntryID: TechEd_Africa_2011_Maceralari
 IsActive: True
 Section: software

@@ -1,11 +1,122 @@
 ---
 FallbackID: 3038
-Title: Azure Functions ile BlobTrigger Kullanmak
-PublishDate: 3/12/2016
+Title: "Azure Functions ile BlobTrigger Kullanmak"
+date: "2016-12-3"
 EntryID: Azure_Functions_ile_BlobTrigger_Kullanmak
 IsActive: True
 Section: software
 MinutesSpent: 112
 Tags: Azure Functions
 ---
-Azure Functions aslında bakarsanız eski WebJobs'ın üzerinden ilerlenilerek geniştirilmiş bir hizmet. O nedenle ikisi arasında süper benzerlikler var. Birazdan anlatacaklarım WebJobs deneyimi olanlar için epey tanıdık gelecektir. Nitekim 2014'te tam da bu konuda [WebJobs yazısı](http://daron.yondem.com/software/post/WebJobs_Giris_ve_Bloblarla_Kullanimi) yazmıştım :) Gelelim konumuza, olayımız Azure Functions için farklı triggerlar kullanmak. Bunlardan [**httpTrigger**'ı geçen bir yazıda](http://daron.yondem.com/software/post/Azure_Functions_ile_ilk_Serverless_Maceramiz) görmüştük. Bu yazıda ise **blobTrigger**'a bakarak Azure Functions için **Input Binding** konusunu da göreceğiz.### Blob Trigger Ayarlamakİlk olarak yeni bir Azure Function ekliyoruz. İçindeki **functions.json**'ı değiştirerek bir blobTrigger tanımı yapacağız. Aşağıdaki şekilde solution'ı şekillendirmek için ister Visual Studio için yeni gelen araçları kullanın, ister elle dosyaları oluşturun, sonuç fark etmeyecek.![Blob Trigger Örnek Proje Yapısı](media/Azure_Functions_ile_BlobTrigger_Kullanmak/blobtrigger-1.png)**[function.json]**```javascript{  "disabled": false,  "bindings": [    {      "name": "myBlob",      "type": "blobTrigger",      "direction": "in",      "path": "blobcontainer",      "connection": "AzureWebJobsStorage"    }  ]}```Gelin yukarıdaki parametreleri tek tek inceleyelim. Bindings collection'ı içerisinde şu an için bir tane binding var. Bu binding'in adının ne olduğu şu an için önemli değil, fakat bu adı "myBlob" olduğunu unutmayın. Bir sonraki adımda bunun nereye denk geleceğini göreceğiz. Binding'in **type** bilgisi **blobTrigger** olarak tanımlanmış. Bunu da anlamak pek zor değil :) Runtime'a bir blobTrigger kullanacağımızı burada belirtmiş oluyoruz. Sonraki **direction** parametresi önemli. Şu an için bir InputBinding yaratıyoruz. Böylece dışarıdan içeriyi tetikleme işlemi yapacağımızı da belirtmiş oluyoruz. OutputBinding olayı da söz konusu, ona da birazdan bakacağız. Gelelim son iki parametreye; birincisi **path**. Path parametresi dinleyeceğimiz Storage hesabının neresini dinleyeceğimizi belirliyor. Ben buradan **blobContainer** yazdım. Storage Account içerisinde de **blobcontainer** diye bir container olduğunu varsaydım. Örneği çalıştırırken bu containerı elle yaratmak gerekecek. İkinci parametre olan **connection** ise Storage Account'a ulaşmak için gerekli olan connection stringi alacağımız **appsettings.json** da key/value çiftinin key name'i.  **[appsettings.json]**```javascript{  "IsEncrypted": false,  "Values": {    "AzureWebJobsStorage": "UseDevelopmentStorage=true",    "AzureWebJobsDashboard": "UseDevelopmentStorage=true"  }}```Ben örnekte local emülatörü kullandığım için appsettings.json'daki tüm değerleri de bu şekilde ayarladım. ### Input Binding **[run.csx]**```CSusing System;public static void Run(string myBlob, TraceWriter log){    log.Info($"Blobun içinde ne var?: {myBlob}");}```Sıra geldi Azure Function'ın kendisini yazmaya. Yukarıdaki gibi functionı yazarken dikkat etmemiz gereken tek nokta ilk parametre olan string parametrenin adının blobTrigger'ı tanımlarken kullandığımız **name** ile aynı olması. Buradaki bu parametreye doğrudan blob'un içeriği gelecek. Ben string kullandım çünkü containera bir TXT dosyası atacağım ama siz isterseniz bu parametreyi **TextReader, Stream, ICloudBlob, CloudBlockBlob** veya **CloudPageBlob** tipinde de tanımlayabilirsiniz. Functions runtime'ı deserialization işlemini halledecektir. Aslına bakarsanız eğer blob içerisinde schemasından emin olduğunuz bir JSON varsa doğrudan o tipi de verip geçebilirsiniz. Azure Functions bunu otomatik olarak deserialize edecektir. (Not: Şu an bu konuda bir bug var ve github'da da bu konuda [Issue](https://github.com/Azure/azure-webjobs-sdk-script/issues/869) var :))![Blob Trigger çalışıyor](media/Azure_Functions_ile_BlobTrigger_Kullanmak/blobtrigger-2.png)Yukarıdaki ekran görüntüsünden de anlayabileceğiniz üzere yeni bir blob geldiği anda içindeki metne ulaşabiliyoruz. Benim örneğimdeki metin "hop hop" şeklindeydi :) ### DetaylarBu noktada özellikle **blobTrigger**lar ile ilgili bahsetmemiz gereken birkaç şey var. Azure Functions blobları takip edebilmek ve yaratılan bir blob için sadece bir defa çalışabilmek adına bazı kayıtlar tutuyor. Bu kayıtları tutmak için de yine storage account içerisinde **azure-webjobs-hosts** adında bir container yaratıyor. İsterseniz bu containerın farklı bir storage account'da olmasını da sağlayabilirsiniz. Runtime'ın baktığı config değeri appsettings.json'daki **AzureWebJobsStorage** altında saklı olmalı. Ben yaptığım örnekte bu değeri blobtrigger yaratırken de connection string olarak kullandım, ama siz bunları ayırabilirsiniz. Diğer bir nokta ise bir türlü işlenemeyen bloblar. Bizim örnekte tabi bir olay yok, sadece okuma ve loglama yaptık ama sizin fonksiyonunuz tabi ki yeri geldiğinde hata da alabilecek işlemler yapıyor olabilir. Vazsayılan ayarlarında Azure Functions bir blobu işlemeyi en fazla 5 defa dener. Eğer beş defada bir blob başarılı bir şekilde fonksiyonunuz tarafından işlenemezse **AzureWebJobsStorage** ayarında belirlediğiniz storage account içerisinde **webjobs-blobtrigger-poison** adındaki kuyruğa bir mesaj atılır. Bu mesaj içerisinde FunctionId, blob tipi, container adı, blob adı ve etag bulunur. Bundan sonrasında konuyu çözmek size kalıyor. BlobTrigger ile ilgili hoşunuza gitmeyecek olan bir diğer haber ise özellikle blob sayısı çok arttığında bir yavaşlama olması. Biraz önce de bahsettiğimiz gibi aslında yeni gelen blobları anlamanın yöntemi alınan kayıtlar ile blobları karşılaştırmak. Bu durumda özellikle binlerce blob söz konusu olduğunda ciddi bir yavaşlığa neden olabiliyor. Eğer anında tepki verebilmek istiyorsanız ileriki yazılarda bahsedeceğim **QueueTrigger**'ı kullanmak daha doğru olacaktır. Yok illa BlobTrigger kullanacağım diyorsanız bir tavsiyem trigger source olarak ayarladığınız containerı temiz tutarak tetikleyen blobları silmeniz. Unutmadan, **azure-webjobs-hosts** altındaki kayıtları da silinmiş bloblar için silmenizde fayda var. ### Output Binding Yazıyı bitirmeden output binding'e de bir bakalım. İlk önce **function.json** da bir output binding tanımlamamız gerekecek.**[function.json]**```javascript{  "disabled": false,  "bindings": [    {      "name": "myBlob",      "type": "blobTrigger",      "direction": "in",      "path": "blobcontainer/{blobname}",      "connection": "AzureWebJobsStorage"    },    {      "name": "yourBlob",      "type": "blob",      "direction": "out",      "path": "blobcontainer2/{blobname}",      "connection": "AzureWebJobsStorage"    }  ]}```Tanımladığımız ikinci Binding'in adı **yourBlob** :) Bu aynı anda bizim Azure Function'ın da output parametresi olacak. Binding tipimiz **blob** ve direction **out**. Buraya kadar herşey eskisiyle aynı. **path** kısmında olay biraz ilginçleşiyor. Bizim örnekte yapacağımız şey elimize gelen blobu aynı alıp başka bir container'a kopyalamak. Bu durumda tabi ki bir de blobun adını bilmek gerek. Aksi halde kopyalayacağımız yerde bloba ne isim vereceğimizi bilemeyiz. Bunun için path bilgisinin içine **{blobname}** değişkenini koydum. Aynı değişkeni çaktırmadan input bindingin içindeki **path**e de ekledim. Böylece input binding ile gelirken blobun adı gelecek ve doğrudan output bindingdeki yerini alacak. Böylece binding ayarlarımızı tamamlamış olduk.**[run.csx]**```CS using System;public static void Run(string myBlob, TraceWriter log, out string yourBlob){    yourBlob = myBlob;}```Yukarıdaki kod ise final Azure Functions kodumuz. Kodun imzasında bakarsanız yeni bir output parametre göreceksiniz. İşte bu output parametre ile yeni blob içeriğini yeni container'a göndereceğiz. Function'ın içinde pek bir şey yaptığımız yok :) Siz daha anlamlı şeyler bulursunuz diye tahmin ediyorum.İşte hepsi bu kadar, böylece bir input trigger olarak blob alıp sonra da output binding ile blob çıkarmış olduk. Bunu da bir Azure Function olarak deploy edebiliyoruz :) Eski WebJobs bilenler için tekrar uyarımı geçiyim, Azure Functions zaten WebJobs üzerinde çalışıyor, ana farklılıklardan biri "Consumption Plan", yani deployment modeli. Yakında her iki altyapıyı karşılaştıran bir yazı yazmayı planlıyorum ;)Görüşürüz. 
+Azure Functions aslında bakarsanız eski WebJobs'ın üzerinden ilerlenilerek geniştirilmiş bir hizmet. O nedenle ikisi arasında süper benzerlikler var. Birazdan anlatacaklarım WebJobs deneyimi olanlar için epey tanıdık gelecektir. Nitekim 2014'te tam da bu konuda [WebJobs yazısı](http://daron.yondem.com/software/post/WebJobs_Giris_ve_Bloblarla_Kullanimi) yazmıştım :) 
+
+Gelelim konumuza, olayımız Azure Functions için farklı triggerlar kullanmak. Bunlardan [**httpTrigger**'ı geçen bir yazıda](http://daron.yondem.com/software/post/Azure_Functions_ile_ilk_Serverless_Maceramiz) görmüştük. Bu yazıda ise **blobTrigger**'a bakarak Azure Functions için **Input Binding** konusunu da göreceğiz.
+
+### Blob Trigger Ayarlamak
+
+İlk olarak yeni bir Azure Function ekliyoruz. İçindeki **functions.json**'ı değiştirerek bir blobTrigger tanımı yapacağız. Aşağıdaki şekilde solution'ı şekillendirmek için ister Visual Studio için yeni gelen araçları kullanın, ister elle dosyaları oluşturun, sonuç fark etmeyecek.
+
+![Blob Trigger Örnek Proje Yapısı](media/Azure_Functions_ile_BlobTrigger_Kullanmak/blobtrigger-1.png)
+
+**[function.json]**
+```javascript
+{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "blobcontainer",
+      "connection": "AzureWebJobsStorage"
+    }
+  ]
+}
+```
+
+Gelin yukarıdaki parametreleri tek tek inceleyelim. Bindings collection'ı içerisinde şu an için bir tane binding var. Bu binding'in adının ne olduğu şu an için önemli değil, fakat bu adı "myBlob" olduğunu unutmayın. Bir sonraki adımda bunun nereye denk geleceğini göreceğiz. Binding'in **type** bilgisi **blobTrigger** olarak tanımlanmış. Bunu da anlamak pek zor değil :) Runtime'a bir blobTrigger kullanacağımızı burada belirtmiş oluyoruz. Sonraki **direction** parametresi önemli. Şu an için bir InputBinding yaratıyoruz. Böylece dışarıdan içeriyi tetikleme işlemi yapacağımızı da belirtmiş oluyoruz. OutputBinding olayı da söz konusu, ona da birazdan bakacağız. Gelelim son iki parametreye; birincisi **path**. Path parametresi dinleyeceğimiz Storage hesabının neresini dinleyeceğimizi belirliyor. Ben buradan **blobContainer** yazdım. Storage Account içerisinde de **blobcontainer** diye bir container olduğunu varsaydım. Örneği çalıştırırken bu containerı elle yaratmak gerekecek. İkinci parametre olan **connection** ise Storage Account'a ulaşmak için gerekli olan connection stringi alacağımız **appsettings.json** da key/value çiftinin key name'i.  
+
+**[appsettings.json]**
+```javascript
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true"
+  }
+}
+```
+
+Ben örnekte local emülatörü kullandığım için appsettings.json'daki tüm değerleri de bu şekilde ayarladım. 
+
+### Input Binding 
+
+**[run.csx]**
+```CS
+using System;
+
+public static void Run(string myBlob, TraceWriter log)
+{
+    log.Info($"Blobun içinde ne var?: {myBlob}");
+}
+```
+
+Sıra geldi Azure Function'ın kendisini yazmaya. Yukarıdaki gibi functionı yazarken dikkat etmemiz gereken tek nokta ilk parametre olan string parametrenin adının blobTrigger'ı tanımlarken kullandığımız **name** ile aynı olması. Buradaki bu parametreye doğrudan blob'un içeriği gelecek. Ben string kullandım çünkü containera bir TXT dosyası atacağım ama siz isterseniz bu parametreyi **TextReader, Stream, ICloudBlob, CloudBlockBlob** veya **CloudPageBlob** tipinde de tanımlayabilirsiniz. Functions runtime'ı deserialization işlemini halledecektir. Aslına bakarsanız eğer blob içerisinde schemasından emin olduğunuz bir JSON varsa doğrudan o tipi de verip geçebilirsiniz. Azure Functions bunu otomatik olarak deserialize edecektir. (Not: Şu an bu konuda bir bug var ve github'da da bu konuda [Issue](https://github.com/Azure/azure-webjobs-sdk-script/issues/869) var :))
+
+![Blob Trigger çalışıyor](media/Azure_Functions_ile_BlobTrigger_Kullanmak/blobtrigger-2.png)
+
+Yukarıdaki ekran görüntüsünden de anlayabileceğiniz üzere yeni bir blob geldiği anda içindeki metne ulaşabiliyoruz. Benim örneğimdeki metin "hop hop" şeklindeydi :) 
+
+### Detaylar
+
+Bu noktada özellikle **blobTrigger**lar ile ilgili bahsetmemiz gereken birkaç şey var. Azure Functions blobları takip edebilmek ve yaratılan bir blob için sadece bir defa çalışabilmek adına bazı kayıtlar tutuyor. Bu kayıtları tutmak için de yine storage account içerisinde **azure-webjobs-hosts** adında bir container yaratıyor. İsterseniz bu containerın farklı bir storage account'da olmasını da sağlayabilirsiniz. Runtime'ın baktığı config değeri appsettings.json'daki **AzureWebJobsStorage** altında saklı olmalı. Ben yaptığım örnekte bu değeri blobtrigger yaratırken de connection string olarak kullandım, ama siz bunları ayırabilirsiniz. 
+
+Diğer bir nokta ise bir türlü işlenemeyen bloblar. Bizim örnekte tabi bir olay yok, sadece okuma ve loglama yaptık ama sizin fonksiyonunuz tabi ki yeri geldiğinde hata da alabilecek işlemler yapıyor olabilir. Vazsayılan ayarlarında Azure Functions bir blobu işlemeyi en fazla 5 defa dener. Eğer beş defada bir blob başarılı bir şekilde fonksiyonunuz tarafından işlenemezse **AzureWebJobsStorage** ayarında belirlediğiniz storage account içerisinde **webjobs-blobtrigger-poison** adındaki kuyruğa bir mesaj atılır. Bu mesaj içerisinde FunctionId, blob tipi, container adı, blob adı ve etag bulunur. Bundan sonrasında konuyu çözmek size kalıyor. 
+
+BlobTrigger ile ilgili hoşunuza gitmeyecek olan bir diğer haber ise özellikle blob sayısı çok arttığında bir yavaşlama olması. Biraz önce de bahsettiğimiz gibi aslında yeni gelen blobları anlamanın yöntemi alınan kayıtlar ile blobları karşılaştırmak. Bu durumda özellikle binlerce blob söz konusu olduğunda ciddi bir yavaşlığa neden olabiliyor. Eğer anında tepki verebilmek istiyorsanız ileriki yazılarda bahsedeceğim **QueueTrigger**'ı kullanmak daha doğru olacaktır. Yok illa BlobTrigger kullanacağım diyorsanız bir tavsiyem trigger source olarak ayarladığınız containerı temiz tutarak tetikleyen blobları silmeniz. Unutmadan, **azure-webjobs-hosts** altındaki kayıtları da silinmiş bloblar için silmenizde fayda var. 
+
+### Output Binding 
+
+Yazıyı bitirmeden output binding'e de bir bakalım. İlk önce **function.json** da bir output binding tanımlamamız gerekecek.
+
+**[function.json]**
+```javascript
+{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "blobcontainer/{blobname}",
+      "connection": "AzureWebJobsStorage"
+    },
+    {
+      "name": "yourBlob",
+      "type": "blob",
+      "direction": "out",
+      "path": "blobcontainer2/{blobname}",
+      "connection": "AzureWebJobsStorage"
+    }
+  ]
+}
+```
+
+Tanımladığımız ikinci Binding'in adı **yourBlob** :) Bu aynı anda bizim Azure Function'ın da output parametresi olacak. Binding tipimiz **blob** ve direction **out**. Buraya kadar herşey eskisiyle aynı. **path** kısmında olay biraz ilginçleşiyor. Bizim örnekte yapacağımız şey elimize gelen blobu aynı alıp başka bir container'a kopyalamak. Bu durumda tabi ki bir de blobun adını bilmek gerek. Aksi halde kopyalayacağımız yerde bloba ne isim vereceğimizi bilemeyiz. Bunun için path bilgisinin içine **{blobname}** değişkenini koydum. Aynı değişkeni çaktırmadan input bindingin içindeki **path**e de ekledim. Böylece input binding ile gelirken blobun adı gelecek ve doğrudan output bindingdeki yerini alacak. Böylece binding ayarlarımızı tamamlamış olduk.
+
+**[run.csx]**
+```CS 
+using System;
+
+public static void Run(string myBlob, TraceWriter log, out string yourBlob)
+{
+    yourBlob = myBlob;
+}
+
+```
+
+Yukarıdaki kod ise final Azure Functions kodumuz. Kodun imzasında bakarsanız yeni bir output parametre göreceksiniz. İşte bu output parametre ile yeni blob içeriğini yeni container'a göndereceğiz. Function'ın içinde pek bir şey yaptığımız yok :) Siz daha anlamlı şeyler bulursunuz diye tahmin ediyorum.
+
+İşte hepsi bu kadar, böylece bir input trigger olarak blob alıp sonra da output binding ile blob çıkarmış olduk. Bunu da bir Azure Function olarak deploy edebiliyoruz :) Eski WebJobs bilenler için tekrar uyarımı geçiyim, Azure Functions zaten WebJobs üzerinde çalışıyor, ana farklılıklardan biri "Consumption Plan", yani deployment modeli. Yakında her iki altyapıyı karşılaştıran bir yazı yazmayı planlıyorum ;)
+
+Görüşürüz. 

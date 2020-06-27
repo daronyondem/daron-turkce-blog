@@ -1,7 +1,7 @@
 ---
 FallbackID: 1783
-Title: ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 4 - DOM Fonksiyonları)
-PublishDate: 11/9/2007
+Title: "ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 4 - DOM Fonksiyonları)"
+date: "2007-9-11"
 EntryID: ASP_NET_AJAX_Extension_JavaScript_Istemci_Ozellikleri_Bolum_4_-_DOM_Fonksiyonlari
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1843
-Title: Vizyon Meselesi...
-PublishDate: 9/11/2007
+Title: "Vizyon Meselesi..."
+date: "2007-11-9"
 EntryID: Vizyon_Meselesi
 IsActive: True
 Section: software

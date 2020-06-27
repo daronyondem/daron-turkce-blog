@@ -1,7 +1,7 @@
 ---
 FallbackID: 2990
-Title: MakerLab'da Konulu Konuşmalar
-PublishDate: 28/11/2015
+Title: "MakerLab'da Konulu Konuşmalar"
+date: "2015-11-28"
 EntryID: MakerLabda_Konulu_Konusmalar
 IsActive: True
 Section: software

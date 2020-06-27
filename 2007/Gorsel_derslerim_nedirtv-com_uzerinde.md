@@ -1,7 +1,7 @@
 ---
 FallbackID: 1760
-Title: Görsel derslerim nedirtv?com üzerinde!
-PublishDate: 24/8/2007
+Title: "Görsel derslerim nedirtv?com üzerinde!"
+date: "2007-8-24"
 EntryID: Gorsel_derslerim_nedirtv-com_uzerinde
 IsActive: True
 Section: software

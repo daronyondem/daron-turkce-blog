@@ -1,7 +1,7 @@
 ---
 FallbackID: 2897
-Title: Azure Web Sites, Kudu ve Custom Site Extensions
-PublishDate: 25/3/2014
+Title: "Azure Web Sites, Kudu ve Custom Site Extensions"
+date: "2014-3-25"
 EntryID: Azure_Web_Sites_Kudu_ve_Custom_Site_Extensions
 IsActive: True
 Section: software

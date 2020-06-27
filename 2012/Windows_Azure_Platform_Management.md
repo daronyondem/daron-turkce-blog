@@ -1,7 +1,7 @@
 ---
 FallbackID: 2781
-Title: Windows Azure Platform Management
-PublishDate: 31/7/2012
+Title: "Windows Azure Platform Management"
+date: "2012-7-31"
 EntryID: Windows_Azure_Platform_Management
 IsActive: True
 Section: software
@@ -41,13 +41,28 @@ PowerShell script
 Yukarıdaki adreste bulabileceğiniz dosyayı notepad ile açın ve hemen
 aşağıdaki değişikliği tamamlayın.
 
-**[eski]**
+**[eski]**
+
 ```js
-$res1 = SearchUninstall -SearchFor 'Windows Azure SDK*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\';$res2 = SearchUninstall -SearchFor 'Windows Azure SDK*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\';($res1 -or $res2)```
+$res1 = SearchUninstall -SearchFor 'Windows Azure SDK*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\';
+$res2 = SearchUninstall -SearchFor 'Windows Azure SDK*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\';
+
+($res1 -or $res2)
+```
 
 **[yeni]**
 
-```js$res1 = SearchUninstall -SearchFor 'Windows Azure SDK*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\';$res2 = SearchUninstall -SearchFor 'Windows Azure SDK*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\';$res3 = SearchUninstall -SearchFor 'Windows Azure Tools*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\';$res4 = SearchUninstall -SearchFor 'Windows Azure Tools*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\';$res5 = SearchUninstall -SearchFor 'Windows Azure Emulators*' -SearchVersion '1.6.21103.1459' -UninstallKey 'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\';$res6 = SearchUninstall -SearchFor 'Windows Azure Emulators*' -SearchVersion '1.6.21103.1459' -UninstallKey 'HKLM:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\';($res1 -or $res2 -or $res3 -or $res4 -or $res5 -or $res6)```
+```js
+$res1 = SearchUninstall -SearchFor 'Windows Azure SDK*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\';
+$res2 = SearchUninstall -SearchFor 'Windows Azure SDK*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\';
+$res3 = SearchUninstall -SearchFor 'Windows Azure Tools*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\';
+$res4 = SearchUninstall -SearchFor 'Windows Azure Tools*' -SearchVersion '1.4.20227.1419' -UninstallKey 'HKLM:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\';
+$res5 = SearchUninstall -SearchFor 'Windows Azure Emulators*' -SearchVersion '1.6.21103.1459' -UninstallKey 'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\';
+$res6 = SearchUninstall -SearchFor 'Windows Azure Emulators*' -SearchVersion '1.6.21103.1459' -UninstallKey 'HKLM:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\';
+
+
+($res1 -or $res2 -or $res3 -or $res4 -or $res5 -or $res6)
+```
 
 Böylece artık dependency'lerimiz arasına bir OR koyup :) 1.6'ının da
 kontrol edilmesini sağladık. Şimdi StartHere.Cmd'yi başlatıp kurulumu

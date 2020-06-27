@@ -1,7 +1,7 @@
 ---
 FallbackID: 3045
-Title: Azure Functions ve Notification Hub Binding
-PublishDate: 10/12/2016
+Title: "Azure Functions ve Notification Hub Binding"
+date: "2016-12-10"
 EntryID: Azure_Functions_ve_Notification_Hub_Binding
 IsActive: True
 Section: software

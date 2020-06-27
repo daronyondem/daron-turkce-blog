@@ -1,7 +1,7 @@
 ---
 FallbackID: 1747
-Title: Web Tasarım Eğitimi - İlk Kur Sonlandı
-PublishDate: 6/7/2007
+Title: "Web Tasarım Eğitimi - İlk Kur Sonlandı"
+date: "2007-7-6"
 EntryID: Web_Tasarim_Egitimi_-_Ilk_Kur_Sonlandi
 IsActive: True
 Section: software

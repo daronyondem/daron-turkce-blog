@@ -1,7 +1,7 @@
 ---
 FallbackID: 2090
-Title: Ekşi Sözlük'te ben :)
-PublishDate: 13/6/2008
+Title: "Ekşi Sözlük'te ben":)
+date: "2008-6-13"
 EntryID: Eksi_Sozlukte_ben
 IsActive: True
 Section: software

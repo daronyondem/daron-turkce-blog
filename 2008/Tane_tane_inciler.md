@@ -1,7 +1,7 @@
 ---
 FallbackID: 1962
-Title: Tane tane inciler...
-PublishDate: 18/2/2008
+Title: "Tane tane inciler..."
+date: "2008-2-18"
 EntryID: Tane_tane_inciler
 IsActive: True
 Section: software

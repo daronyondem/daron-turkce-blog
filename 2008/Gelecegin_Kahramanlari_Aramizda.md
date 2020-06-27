@@ -1,7 +1,7 @@
 ---
 FallbackID: 2057
-Title: Geleceğin Kahramanları Aramızda :)
-PublishDate: 16/5/2008
+Title: "Geleceğin Kahramanları Aramızda":)
+date: "2008-5-16"
 EntryID: Gelecegin_Kahramanlari_Aramizda
 IsActive: True
 Section: software

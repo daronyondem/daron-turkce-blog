@@ -1,7 +1,7 @@
 ---
 FallbackID: 2285
-Title: Yazdığınız kodun kalitesini arttırmak adına birkaç ip ucu.
-PublishDate: 23/12/2008
+Title: "Yazdığınız kodun kalitesini arttırmak adına birkaç ip ucu."
+date: "2008-12-23"
 EntryID: Yazdiginiz_kodun_kalitesini_arttirmak_adina_birkac_ip_ucu
 IsActive: True
 Section: software

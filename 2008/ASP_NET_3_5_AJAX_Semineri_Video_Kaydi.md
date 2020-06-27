@@ -1,7 +1,7 @@
 ---
 FallbackID: 2291
-Title: ASP.NET 3.5 AJAX Semineri Video Kaydı
-PublishDate: 30/12/2008
+Title: "ASP.NET 3.5 AJAX Semineri Video Kaydı"
+date: "2008-12-30"
 EntryID: ASP_NET_3_5_AJAX_Semineri_Video_Kaydi
 IsActive: True
 Section: software

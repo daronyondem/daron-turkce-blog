@@ -1,7 +1,7 @@
 ---
 FallbackID: 2876
-Title: Dikeyeksen'den Yüzde 40 İndirim Kuponu
-PublishDate: 11/1/2014
+Title: "Dikeyeksen'den Yüzde 40 İndirim Kuponu"
+date: "2014-1-11"
 EntryID: Dikeyeksen_den_Yuzde_40_Indirim_Kuponu
 IsActive: True
 Section: software

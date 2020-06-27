@@ -1,7 +1,7 @@
 ---
 FallbackID: 1819
-Title: Silverlight Uygulamalarında Performans
-PublishDate: 22/10/2007
+Title: "Silverlight Uygulamalarında Performans"
+date: "2007-10-22"
 EntryID: Silverlight_Uygulamalarinda_Performans
 IsActive: True
 Section: software

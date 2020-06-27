@@ -1,7 +1,7 @@
 ---
 FallbackID: 1776
-Title: WPF Windows Uygulamalarında Pencereler Arası Veri İletişimi
-PublishDate: 6/9/2007
+Title: "WPF Windows Uygulamalarında Pencereler Arası Veri İletişimi"
+date: "2007-9-6"
 EntryID: WPF_Windows_Uygulamalarinda_Pencereler_Arasi_Veri_Iletisimi
 IsActive: True
 Section: software

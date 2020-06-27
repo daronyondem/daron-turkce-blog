@@ -1,7 +1,7 @@
 ---
 FallbackID: 2461
-Title: Silverlight 4 Beta'da NotificationWindow kullanımı.
-PublishDate: 29/11/2009
+Title: "Silverlight 4 Beta'da NotificationWindow kullanımı."
+date: "2009-11-29"
 EntryID: Silverlight_4_Beta_da_NotificationWindow_kullanimi
 IsActive: True
 Section: software

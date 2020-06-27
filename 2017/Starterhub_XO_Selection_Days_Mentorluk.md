@@ -1,7 +1,7 @@
 ---
 FallbackID: 3050
-Title: Starterhub XO Selection Days'de Mentorluk
-PublishDate: 2/3/2017
+Title: "Starterhub XO Selection Days'de Mentorluk"
+date: "2017-3-2"
 EntryID: Starterhub_XO_Selection_Days_Mentorluk
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2187
-Title: DreamSpark Türkiye'de de hayata geçti.
-PublishDate: 16/9/2008
+Title: "DreamSpark Türkiye'de de hayata geçti."
+date: "2008-9-16"
 EntryID: DreamSpark_Turkiyede_de_hayata_gecti
 IsActive: True
 Section: software

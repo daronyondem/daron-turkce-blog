@@ -1,7 +1,7 @@
 ---
 FallbackID: 1847
-Title: ASP.NET AJAX Kitabım Tükeniyor :)
-PublishDate: 13/11/2007
+Title: "ASP.NET AJAX Kitabım Tükeniyor":)
+date: "2007-11-13"
 EntryID: ASP_NET_AJAX_Kitabim_Tukeniyor
 IsActive: True
 Section: software

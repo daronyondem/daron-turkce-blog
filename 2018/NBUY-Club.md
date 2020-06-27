@@ -1,15 +1,15 @@
-﻿---
-Title: NBUY Geleceğine Yön Ver Etkinliğindeydim
-PublishDate: 10/2/2018
+---
+Title: "NBUY Gelecegine Y�n Ver Etkinligindeydim"
+date: "2018-2-10"
 IsActive: True
 MinutesSpent: 12
-Tags: Seminer, Kişisel Gelişim
+Tags: Seminer, Kisisel Gelisim
 ---
 
-Dün Microsoft Türkiye ofisinde [NBUY Club](http://nbuy.club/)'ın **Geleceğe Yön Ver Etkinliği**'ndeydim. Sağolsun, sevgili MVP [Erdem Avni Selçuk](http://www.eravse.com/) bundan birkaç hafta önce bana etkinlikten bahsedip gençlere anlatmak isteyeceğim birşeyler olup olmadığını sorunca tabi ki aklıma benim "Boş Durma Boşa Çalış" oturumu geldi :) Her ne kadar genelde bu oturumu tek başına sunmayı tercih etmesem de, bu sefer Erdem'i kıramadım. Güzel de oldu. Eğlenceli bir gün geçirdim. LinkedIn ve Twitter'daki paylaşımlara bakınca katılan arkadaşlara da ufak bir faydam dokunmuş sanırım :) 
+D�n Microsoft T�rkiye ofisinde [NBUY Club](http://nbuy.club/)'in **Gelecege Y�n Ver Etkinligi**'ndeydim. Sagolsun, sevgili MVP [Erdem Avni Sel�uk](http://www.eravse.com/) bundan birka� hafta �nce bana etkinlikten bahsedip gen�lere anlatmak isteyecegim birseyler olup olmadigini sorunca tabi ki aklima benim "Bos Durma Bosa �alis" oturumu geldi :) Her ne kadar genelde bu oturumu tek basina sunmayi tercih etmesem de, bu sefer Erdem'i kiramadim. G�zel de oldu. Eglenceli bir g�n ge�irdim. LinkedIn ve Twitter'daki paylasimlara bakinca katilan arkadaslara da ufak bir faydam dokunmus sanirim :) 
 
-![Boş Durma Boşa Çalış Oturumum](media/NBUY-Club/bos-durma-bosa-calis-nbuy-club.jpg)
+![Bos Durma Bosa �alis Oturumum](media/NBUY-Club/bos-durma-bosa-calis-nbuy-club.jpg)
 
-Hazır bloga post atarken hemen önümüzdeki hafta olacak bir etkinliği de duyurayım. Hafta sonu İzmir'de Yaşar Üniversitesi'nde [Günümüz Teknolojisi 2018](https://www.eventbrite.com/e/gunumuz-teknolojisi-2018-registration-42709851315) etkinliğinde Serverless ve Azure Functions anlatacağım. Gelmeyi düşünüyorsanız kayıt olmayı unutmayın ;) 
+Hazir bloga post atarken hemen �n�m�zdeki hafta olacak bir etkinligi de duyurayim. Hafta sonu Izmir'de Yasar �niversitesi'nde [G�n�m�z Teknolojisi 2018](https://www.eventbrite.com/e/gunumuz-teknolojisi-2018-registration-42709851315) etkinliginde Serverless ve Azure Functions anlatacagim. Gelmeyi d�s�n�yorsaniz kayit olmayi unutmayin ;) 
 
-Şimdilik bu kadar ;) Görüşmek üzere.
+Simdilik bu kadar ;) G�r�smek �zere.

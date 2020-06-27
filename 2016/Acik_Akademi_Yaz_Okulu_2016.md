@@ -1,7 +1,7 @@
 ---
 FallbackID: 3024
-Title: Açık Akademi Yaz Okulu 2016
-PublishDate: 16/8/2016
+Title: "Açık Akademi Yaz Okulu 2016"
+date: "2016-8-16"
 EntryID: Acik_Akademi_Yaz_Okulu_2016
 IsActive: True
 Section: software

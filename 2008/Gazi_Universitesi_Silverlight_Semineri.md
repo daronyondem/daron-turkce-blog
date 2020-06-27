@@ -1,7 +1,7 @@
 ---
 FallbackID: 2025
-Title: Gazi Üniversitesi Silverlight Semineri
-PublishDate: 16/4/2008
+Title: "Gazi Üniversitesi Silverlight Semineri"
+date: "2008-4-16"
 EntryID: Gazi_Universitesi_Silverlight_Semineri
 IsActive: True
 Section: software

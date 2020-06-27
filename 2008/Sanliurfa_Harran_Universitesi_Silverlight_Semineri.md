@@ -1,7 +1,7 @@
 ---
 FallbackID: 2028
-Title: Şanlıurfa Harran Üniversitesi Silverlight Semineri
-PublishDate: 19/4/2008
+Title: "Şanlıurfa Harran Üniversitesi Silverlight Semineri"
+date: "2008-4-19"
 EntryID: Sanliurfa_Harran_Universitesi_Silverlight_Semineri
 IsActive: True
 Section: software

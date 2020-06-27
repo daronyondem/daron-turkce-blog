@@ -1,7 +1,7 @@
 ---
 FallbackID: 1754
-Title: Access 2007 Connection String ve Sunucu Yüklemesi
-PublishDate: 14/8/2007
+Title: "Access 2007 Connection String ve Sunucu Yüklemesi"
+date: "2007-8-14"
 EntryID: Access_2007_Connection_String_ve_Sunucu_Yuklemesi
 IsActive: True
 Section: software

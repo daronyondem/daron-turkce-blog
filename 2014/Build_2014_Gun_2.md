@@ -1,7 +1,7 @@
 ---
 FallbackID: 2900
-Title: Build 2014 Gün 2
-PublishDate: 4/4/2014
+Title: "Build 2014 Gün 2"
+date: "2014-4-4"
 EntryID: Build_2014_Gun_2
 IsActive: True
 Section: software

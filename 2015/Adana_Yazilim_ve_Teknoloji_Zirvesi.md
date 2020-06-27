@@ -1,7 +1,7 @@
 ---
 FallbackID: 2991
-Title: Adana Yazılım ve Teknoloji Zirvesi
-PublishDate: 3/12/2015
+Title: "Adana Yazılım ve Teknoloji Zirvesi"
+date: "2015-12-3"
 EntryID: Adana_Yazilim_ve_Teknoloji_Zirvesi
 IsActive: True
 Section: software

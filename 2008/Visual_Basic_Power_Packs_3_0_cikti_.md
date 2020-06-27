@@ -1,7 +1,7 @@
 ---
 FallbackID: 1965
-Title: Visual Basic Power Packs 3.0 çıktı.
-PublishDate: 22/2/2008
+Title: "Visual Basic Power Packs 3.0 çıktı."
+date: "2008-2-22"
 EntryID: Visual_Basic_Power_Packs_3_0_cikti_
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2212
-Title: Geek Zone'da WPF ile 3D Programlama oturumum.
-PublishDate: 11/10/2008
+Title: "Geek Zone'da WPF ile 3D Programlama oturumum."
+date: "2008-10-11"
 EntryID: Geek_Zone_da_WPF_ile_3D_Programlama_oturumum
 IsActive: True
 Section: software

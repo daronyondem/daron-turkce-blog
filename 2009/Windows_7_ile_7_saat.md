@@ -1,7 +1,7 @@
 ---
 FallbackID: 2375
-Title: Windows 7 ile 7 saat
-PublishDate: 1/7/2009
+Title: "Windows 7 ile 7 saat"
+date: "2009-7-1"
 EntryID: Windows_7_ile_7_saat
 IsActive: True
 Section: software

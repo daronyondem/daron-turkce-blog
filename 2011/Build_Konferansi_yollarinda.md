@@ -1,7 +1,7 @@
 ---
 FallbackID: 2692
-Title: Build Konferansı yollarında...
-PublishDate: 9/9/2011
+Title: "Build Konferansı yollarında..."
+date: "2011-9-9"
 EntryID: Build_Konferansi_yollarinda
 IsActive: True
 Section: software

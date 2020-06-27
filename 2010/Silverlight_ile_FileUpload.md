@@ -1,7 +1,7 @@
 ---
 FallbackID: 2490
-Title: Silverlight ile FileUpload
-PublishDate: 14/2/2010
+Title: "Silverlight ile FileUpload"
+date: "2010-2-14"
 EntryID: Silverlight_ile_FileUpload
 IsActive: True
 Section: software

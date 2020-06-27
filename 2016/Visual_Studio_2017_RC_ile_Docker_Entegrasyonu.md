@@ -1,7 +1,7 @@
 ---
 FallbackID: 3033
-Title: Visual Studio 2017 RC ile Docker Entegrasyonu
-PublishDate: 23/11/2016
+Title: "Visual Studio 2017 RC ile Docker Entegrasyonu"
+date: "2016-11-23"
 EntryID: Visual_Studio_2017_RC_ile_Docker_Entegrasyonu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2136
-Title: PHP için SQL Server 2005 sürücüleri
-PublishDate: 28/7/2008
+Title: "PHP için SQL Server 2005 sürücüleri"
+date: "2008-7-28"
 EntryID: PHP_icin_SQL_Server_2005_suruculeri
 IsActive: True
 Section: software

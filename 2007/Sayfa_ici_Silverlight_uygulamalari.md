@@ -1,7 +1,7 @@
 ---
 FallbackID: 1886
-Title: Sayfa içi Silverlight uygulamaları
-PublishDate: 14/12/2007
+Title: "Sayfa içi Silverlight uygulamaları"
+date: "2007-12-14"
 EntryID: Sayfa_ici_Silverlight_uygulamalari
 IsActive: True
 Section: software

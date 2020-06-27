@@ -1,7 +1,7 @@
 ---
 FallbackID: 1797
-Title: İlk Kurumsal Silverlight
-PublishDate: 1/10/2007
+Title: "İlk Kurumsal Silverlight"
+date: "2007-10-1"
 EntryID: Ilk_Kurumsal_Silverlight
 IsActive: True
 Section: software

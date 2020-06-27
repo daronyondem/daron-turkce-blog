@@ -1,7 +1,7 @@
 ---
 FallbackID: 2393
-Title: Silverlight 3 ile gelen Behaviorlar
-PublishDate: 21/8/2009
+Title: "Silverlight 3 ile gelen Behaviorlar"
+date: "2009-8-21"
 EntryID: Silverlight_3_ile_gelen_Behaviorlar
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1989
-Title: Channel 10'de ben :)
-PublishDate: 13/3/2008
+Title: "Channel 10'de ben":)
+date: "2008-3-13"
 EntryID: Channel_10_de_ben
 IsActive: True
 Section: software

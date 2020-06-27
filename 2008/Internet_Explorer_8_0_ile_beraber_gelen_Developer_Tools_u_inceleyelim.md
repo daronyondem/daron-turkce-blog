@@ -1,7 +1,7 @@
 ---
 FallbackID: 2183
-Title: Internet Explorer 8.0 ile beraber gelen Developer Tools'u inceleyelim.
-PublishDate: 12/9/2008
+Title: "Internet Explorer 8.0 ile beraber gelen Developer Tools'u inceleyelim."
+date: "2008-9-12"
 EntryID: Internet_Explorer_8_0_ile_beraber_gelen_Developer_Tools_u_inceleyelim
 IsActive: True
 Section: software

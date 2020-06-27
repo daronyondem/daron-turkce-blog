@@ -1,7 +1,7 @@
 ---
 FallbackID: 2740
-Title: Kıbrıs Windows Phone 7 Gece Kampı ve Windows Azure BootCamp!
-PublishDate: 4/12/2011
+Title: "Kıbrıs Windows Phone 7 Gece Kampı ve Windows Azure BootCamp!"
+date: "2011-12-4"
 EntryID: Kibris_WP7_Kampi_ve_Windows_Azure_BootCamp
 IsActive: True
 Section: software

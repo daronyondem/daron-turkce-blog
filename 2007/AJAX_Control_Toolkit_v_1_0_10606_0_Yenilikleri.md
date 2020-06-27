@@ -1,7 +1,7 @@
 ---
 FallbackID: 1748
-Title: AJAX Control Toolkit v.1.0.10606.0 Yenilikleri
-PublishDate: 10/7/2007
+Title: "AJAX Control Toolkit v.1.0.10606.0 Yenilikleri"
+date: "2007-7-10"
 EntryID: AJAX_Control_Toolkit_v_1_0_10606_0_Yenilikleri
 IsActive: True
 Section: software

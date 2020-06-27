@@ -1,7 +1,7 @@
 ---
 FallbackID: 2307
-Title: Windows 7 T-Shirt tasarımım.
-PublishDate: 14/1/2009
+Title: "Windows 7 T-Shirt tasarımım."
+date: "2009-1-14"
 EntryID: Windows_7_T-Shirt_tasarimim
 IsActive: True
 Section: software

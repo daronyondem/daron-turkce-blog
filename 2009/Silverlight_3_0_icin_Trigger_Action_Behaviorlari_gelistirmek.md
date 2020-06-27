@@ -1,7 +1,7 @@
 ---
 FallbackID: 2396
-Title: Silverlight 3.0 için Trigger Action Behavior'ları geliştirmek.
-PublishDate: 24/8/2009
+Title: "Silverlight 3.0 için Trigger Action Behavior'ları geliştirmek."
+date: "2009-8-24"
 EntryID: Silverlight_3_0_icin_Trigger_Action_Behaviorlari_gelistirmek
 IsActive: True
 Section: software

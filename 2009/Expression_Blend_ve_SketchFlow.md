@@ -1,7 +1,7 @@
 ---
 FallbackID: 2403
-Title: Expression Blend ve SketchFlow
-PublishDate: 6/9/2009
+Title: "Expression Blend ve SketchFlow"
+date: "2009-9-6"
 EntryID: Expression_Blend_ve_SketchFlow
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2155
-Title: Java ve Silverlight kardeşliği.
-PublishDate: 16/8/2008
+Title: "Java ve Silverlight kardeşliği."
+date: "2008-8-16"
 EntryID: Java_ve_Silverlight_kardesligi
 IsActive: True
 Section: software

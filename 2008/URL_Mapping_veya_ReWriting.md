@@ -1,7 +1,7 @@
 ---
 FallbackID: 1955
-Title: URL Mapping veya ReWriting
-PublishDate: 12/2/2008
+Title: "URL Mapping veya ReWriting"
+date: "2008-2-12"
 EntryID: URL_Mapping_veya_ReWriting
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2046
-Title: Silverlight Eğitimi 2. Gün Bitti
-PublishDate: 5/5/2008
+Title: "Silverlight Eğitimi 2. Gün Bitti"
+date: "2008-5-5"
 EntryID: Silverlight_Egitimi_2_Gun_Bitti
 IsActive: True
 Section: software

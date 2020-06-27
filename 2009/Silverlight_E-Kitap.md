@@ -1,7 +1,7 @@
 ---
 FallbackID: 2337
-Title: Silverlight E-Kitap
-PublishDate: 17/3/2009
+Title: "Silverlight E-Kitap"
+date: "2009-3-17"
 EntryID: Silverlight_E-Kitap
 IsActive: True
 Section: software

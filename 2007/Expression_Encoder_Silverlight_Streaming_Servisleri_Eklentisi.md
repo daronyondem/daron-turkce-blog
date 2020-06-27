@@ -1,7 +1,7 @@
 ---
 FallbackID: 1835
-Title: Expression Encoder Silverlight Streaming Servisleri Eklentisi
-PublishDate: 3/11/2007
+Title: "Expression Encoder Silverlight Streaming Servisleri Eklentisi"
+date: "2007-11-3"
 EntryID: Expression_Encoder_Silverlight_Streaming_Servisleri_Eklentisi
 IsActive: True
 Section: software

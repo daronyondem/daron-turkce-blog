@@ -1,7 +1,7 @@
 ---
 FallbackID: 2734
-Title: Windows Azure Platformunda Ne Nedir? (Video)
-PublishDate: 25/11/2011
+Title: "Windows Azure Platformunda Ne Nedir? (Video)"
+date: "2011-11-25"
 EntryID: Windows_Azure_Platformunda_Ne_Nedir
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2312
-Title: BasariliGencler.com Röportajım
-PublishDate: 22/1/2009
+Title: "BasariliGencler.com Röportajım"
+date: "2009-1-22"
 EntryID: BasariliGencler_com_Roportajim
 IsActive: True
 Section: software

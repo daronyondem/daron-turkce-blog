@@ -1,7 +1,7 @@
 ---
 FallbackID: 2341
-Title: Internet Explorer 8 Kitapçığı
-PublishDate: 25/3/2009
+Title: "Internet Explorer 8 Kitapçığı"
+date: "2009-3-25"
 EntryID: Internet_Explorer_8_Kitapcigi
 IsActive: True
 Section: software

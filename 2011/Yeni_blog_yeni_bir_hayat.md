@@ -1,7 +1,7 @@
 ---
 FallbackID: 2678
-Title: Yeni blog, yeni bir hayat!
-PublishDate: 1/9/2011
+Title: "Yeni blog, yeni bir hayat!"
+date: "2011-9-1"
 EntryID: Yeni_blog_yeni_bir_hayat
 IsActive: True
 Section: software

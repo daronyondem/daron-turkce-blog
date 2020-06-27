@@ -1,7 +1,7 @@
 ---
 FallbackID: 1939
-Title: Expression Design ve XAML Çıktıları
-PublishDate: 31/1/2008
+Title: "Expression Design ve XAML Çıktıları"
+date: "2008-1-31"
 EntryID: Expression_Design_ve_XAML_Ciktilari
 IsActive: True
 Section: software

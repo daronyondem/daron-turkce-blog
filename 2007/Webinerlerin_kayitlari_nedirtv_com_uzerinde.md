@@ -1,7 +1,7 @@
 ---
 FallbackID: 1851
-Title: Webinerlerin kayıtları nedirtv?com üzerinde.
-PublishDate: 16/11/2007
+Title: "Webinerlerin kayıtları nedirtv?com üzerinde."
+date: "2007-11-16"
 EntryID: Webinerlerin_kayitlari_nedirtv_com_uzerinde
 IsActive: True
 Section: software

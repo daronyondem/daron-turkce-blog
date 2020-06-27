@@ -1,7 +1,7 @@
 ---
 FallbackID: 2235
-Title: SeminerTV Silverlight 2.0 ile karşınızda!
-PublishDate: 3/11/2008
+Title: "SeminerTV Silverlight 2.0 ile karşınızda!"
+date: "2008-11-3"
 EntryID: SeminerTV_Silverlight_2_0_ile_karsinizda
 IsActive: True
 Section: software

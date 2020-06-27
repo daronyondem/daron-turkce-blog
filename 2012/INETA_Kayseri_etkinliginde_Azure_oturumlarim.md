@@ -1,7 +1,7 @@
 ---
 FallbackID: 2803
-Title: INETA Kayseri etkinliğinde Azure oturumlarım.
-PublishDate: 19/3/2012
+Title: "INETA Kayseri etkinliğinde Azure oturumlarım."
+date: "2012-3-19"
 EntryID: INETA_Kayseri_etkinliginde_Azure_oturumlarim
 IsActive: True
 Section: software

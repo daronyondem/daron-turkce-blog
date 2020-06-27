@@ -1,7 +1,7 @@
 ---
 FallbackID: 2864
-Title: 1080P Windows Phone'lar için uygulama geliştirirken dikkat edilmesi gerekenler.
-PublishDate: 25/10/2013
+Title: "1080P Windows Phone'lar için uygulama geliştirirken dikkat edilmesi gerekenler."
+date: "2013-10-25"
 EntryID: 1080P_Windows_Phone_icin_uygulama_gelistirirken
 IsActive: True
 Section: software

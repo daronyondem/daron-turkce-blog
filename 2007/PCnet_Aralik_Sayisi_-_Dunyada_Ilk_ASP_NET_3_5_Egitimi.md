@@ -1,7 +1,7 @@
 ---
 FallbackID: 1875
-Title: PCnet Aralık Sayısı - Dünyada İlk ASP.NET 3.5 Eğitimi
-PublishDate: 6/12/2007
+Title: "PCnet Aralık Sayısı - Dünyada İlk ASP.NET 3.5 Eğitimi"
+date: "2007-12-6"
 EntryID: PCnet_Aralik_Sayisi_-_Dunyada_Ilk_ASP_NET_3_5_Egitimi
 IsActive: True
 Section: software

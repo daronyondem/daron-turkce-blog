@@ -1,14 +1,17 @@
 ---
 FallbackID: 2784
-Title: Table Services Round 3 : Continuation Token
-PublishDate: 21/8/2012
+Title: "Table Services Round 3": Continuation Token
+date: "2012-8-21"
 EntryID: Table_Services_Round_3_Continuation_Token
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Table_Services_SDK_25_Continuation_Token)bulabilirsiniz.]**
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Table_Services_SDK_25_Continuation_Token)
+bulabilirsiniz.]**
 
 Hiç denediniz mi bilmiyorum :) ama eğer ki bir table'dan 1000'den fazla
 nesneniz varsa.. ki kesinlikle olacaktır. Hatta Table Service'in en

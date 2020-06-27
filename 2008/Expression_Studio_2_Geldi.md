@@ -1,7 +1,7 @@
 ---
 FallbackID: 2043
-Title: Expression Studio 2 Geldi!!
-PublishDate: 1/5/2008
+Title: "Expression Studio 2 Geldi!!"
+date: "2008-5-1"
 EntryID: Expression_Studio_2_Geldi
 IsActive: True
 Section: software

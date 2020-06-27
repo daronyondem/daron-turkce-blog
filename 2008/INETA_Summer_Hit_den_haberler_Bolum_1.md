@@ -1,7 +1,7 @@
 ---
 FallbackID: 2129
-Title: INETA Summer Hit'den haberler: Bölüm 1
-PublishDate: 20/7/2008
+Title: "INETA Summer Hit'den haberler": Bölüm 1
+date: "2008-7-20"
 EntryID: INETA_Summer_Hit_den_haberler_Bolum_1
 IsActive: True
 Section: software

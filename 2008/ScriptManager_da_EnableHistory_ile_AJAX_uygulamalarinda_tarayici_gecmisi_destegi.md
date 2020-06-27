@@ -1,7 +1,7 @@
 ---
 FallbackID: 2154
-Title: ScriptManager'da EnableHistory ile AJAX uygulamalarında tarayıcı geçmişi desteği.
-PublishDate: 15/8/2008
+Title: "ScriptManager'da EnableHistory ile AJAX uygulamalarında tarayıcı geçmişi desteği."
+date: "2008-8-15"
 EntryID: ScriptManager_da_EnableHistory_ile_AJAX_uygulamalarinda_tarayici_gecmisi_destegi
 IsActive: True
 Section: software

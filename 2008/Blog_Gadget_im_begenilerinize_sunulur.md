@@ -1,7 +1,7 @@
 ---
 FallbackID: 1974
-Title: Blog Gadget'ım beğenilerinize sunulur :)
-PublishDate: 2/3/2008
+Title: "Blog Gadget'ım beğenilerinize sunulur":)
+date: "2008-3-2"
 EntryID: Blog_Gadget_im_begenilerinize_sunulur
 IsActive: True
 Section: software

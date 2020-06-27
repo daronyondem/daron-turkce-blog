@@ -1,7 +1,7 @@
 ---
 FallbackID: 2302
-Title: Silverlight 2.0 içerisinde maskeleme (clipping)
-PublishDate: 9/1/2009
+Title: "Silverlight 2.0 içerisinde maskeleme (clipping)"
+date: "2009-1-9"
 EntryID: Silverlight_2_0_icerisinde_maskeleme_clipping
 IsActive: True
 Section: software

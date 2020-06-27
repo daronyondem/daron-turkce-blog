@@ -1,7 +1,7 @@
 ---
 FallbackID: 2334
-Title: Internet Explorer 8.0 içerisinde AJAX ile geri ve ileri butonlarına dair çözüm.
-PublishDate: 14/3/2009
+Title: "Internet Explorer 8.0 içerisinde AJAX ile geri ve ileri butonlarına dair çözüm."
+date: "2009-3-14"
 EntryID: Internet_Explorer_8_0_icerisinde_AJAX_ile_geri_ve_ileri_butonlarina_dair_cozum
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2539
-Title: Silverlight tekrar ölmüş duydunuz mu?
-PublishDate: 4/11/2010
+Title: "Silverlight tekrar ölmüş duydunuz mu?"
+date: "2010-11-4"
 EntryID: Silverlight_tekrar_olmus_duydunuz_mu
 IsActive: True
 Section: software

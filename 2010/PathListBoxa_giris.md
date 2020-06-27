@@ -1,7 +1,7 @@
 ---
 FallbackID: 2536
-Title: PathListBox'a giriş.
-PublishDate: 6/9/2010
+Title: "PathListBox'a giriş."
+date: "2010-9-6"
 EntryID: PathListBoxa_giris
 IsActive: True
 Section: software

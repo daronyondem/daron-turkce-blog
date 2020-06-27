@@ -1,7 +1,7 @@
 ---
 FallbackID: 2485
-Title: Türkiye'den 2010-2011 Microsoft Regional Director'ları belli oldu.
-PublishDate: 21/1/2010
+Title: "Türkiye'den 2010-2011 Microsoft Regional Director'ları belli oldu."
+date: "2010-1-21"
 EntryID: Turkiye_den_2010-2011_Microsoft_Regional_Director_lari_belli_oldu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2961
-Title: MEA MVP Open Day 2015
-PublishDate: 15/3/2015
+Title: "MEA MVP Open Day 2015"
+date: "2015-3-15"
 EntryID: MEA_MVP_Open_Day_2015
 IsActive: True
 Section: software

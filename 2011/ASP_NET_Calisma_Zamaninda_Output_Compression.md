@@ -1,7 +1,7 @@
 ---
 FallbackID: 2691
-Title: ASP.NET Çalışma Zamanında Output Compression
-PublishDate: 8/9/2011
+Title: "ASP.NET Çalışma Zamanında Output Compression"
+date: "2011-9-8"
 EntryID: ASP_NET_Calisma_Zamaninda_Output_Compression
 IsActive: True
 Section: software

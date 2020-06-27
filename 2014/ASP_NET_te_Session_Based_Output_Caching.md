@@ -1,7 +1,7 @@
 ---
 FallbackID: 2898
-Title: ASP.NET'te Session Based Output Caching
-PublishDate: 26/3/2014
+Title: "ASP.NET'te Session Based Output Caching"
+date: "2014-3-26"
 EntryID: ASP_NET_te_Session_Based_Output_Caching
 IsActive: True
 Section: software

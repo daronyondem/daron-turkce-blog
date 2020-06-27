@@ -1,7 +1,7 @@
 ---
 FallbackID: 2271
-Title: SilverNight talihlileri belli oldu!
-PublishDate: 10/12/2008
+Title: "SilverNight talihlileri belli oldu!"
+date: "2008-12-10"
 EntryID: SilverNight_talihlileri_belli_oldu
 IsActive: True
 Section: software

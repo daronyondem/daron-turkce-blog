@@ -1,7 +1,7 @@
 ---
 FallbackID: 2523
-Title: ODTÜ BÖTE Kurultayı oturumum.
-PublishDate: 10/5/2010
+Title: "ODTÜ BÖTE Kurultayı oturumum."
+date: "2010-5-10"
 EntryID: ODTU_BOTE_Kurultayi_oturumum
 IsActive: True
 Section: software

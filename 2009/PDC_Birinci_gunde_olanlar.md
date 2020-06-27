@@ -1,7 +1,7 @@
 ---
 FallbackID: 2449
-Title: PDC 1. günde olanlar!
-PublishDate: 18/11/2009
+Title: "PDC 1. günde olanlar!"
+date: "2009-11-18"
 EntryID: PDC_Birinci_gunde_olanlar
 IsActive: True
 Section: software

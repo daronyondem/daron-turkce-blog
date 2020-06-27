@@ -1,7 +1,7 @@
 ---
 FallbackID: 2363
-Title: Microsoft TechEd 2009 North America İlk Gün
-PublishDate: 11/5/2009
+Title: "Microsoft TechEd 2009 North America İlk Gün"
+date: "2009-5-11"
 EntryID: Microsoft_TechEd_2009_North_America_Ilk_Gun
 IsActive: True
 Section: software

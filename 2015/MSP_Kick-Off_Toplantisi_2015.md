@@ -1,7 +1,7 @@
 ---
 FallbackID: 2984
-Title: MSP Kick-Off Toplantısı 2015
-PublishDate: 17/10/2015
+Title: "MSP Kick-Off Toplantısı 2015"
+date: "2015-10-17"
 EntryID: MSP_Kick-Off_Toplantisi_2015
 IsActive: True
 Section: software

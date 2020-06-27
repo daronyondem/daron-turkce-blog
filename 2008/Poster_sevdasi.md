@@ -1,7 +1,7 @@
 ---
 FallbackID: 1942
-Title: Poster sevdası...
-PublishDate: 3/2/2008
+Title: "Poster sevdası..."
+date: "2008-2-3"
 EntryID: Poster_sevdasi
 IsActive: True
 Section: software

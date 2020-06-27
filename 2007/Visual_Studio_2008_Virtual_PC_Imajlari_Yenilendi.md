@@ -1,7 +1,7 @@
 ---
 FallbackID: 1831
-Title: Visual Studio 2008 Virtual PC İmajları Yenilendi
-PublishDate: 30/10/2007
+Title: "Visual Studio 2008 Virtual PC İmajları Yenilendi"
+date: "2007-10-30"
 EntryID: Visual_Studio_2008_Virtual_PC_Imajlari_Yenilendi
 IsActive: True
 Section: software

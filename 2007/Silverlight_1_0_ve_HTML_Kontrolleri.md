@@ -1,7 +1,7 @@
 ---
 FallbackID: 1872
-Title: Silverlight 1.0 ve HTML Kontrolleri
-PublishDate: 3/12/2007
+Title: "Silverlight 1.0 ve HTML Kontrolleri"
+date: "2007-12-3"
 EntryID: Silverlight_1_0_ve_HTML_Kontrolleri
 IsActive: True
 Section: software

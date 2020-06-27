@@ -1,7 +1,7 @@
 ---
 FallbackID: 2021
-Title: Silverlight 1.0 ile Mayın Tarlası
-PublishDate: 13/4/2008
+Title: "Silverlight 1.0 ile Mayın Tarlası"
+date: "2008-4-13"
 EntryID: Silverlight_1_ile_Mayin_Tarlasi
 IsActive: True
 Section: software

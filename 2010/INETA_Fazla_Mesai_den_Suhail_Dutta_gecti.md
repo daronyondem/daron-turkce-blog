@@ -1,7 +1,7 @@
 ---
 FallbackID: 2521
-Title: INETA Fazla Mesai'dan Suhail Dutta geçti!
-PublishDate: 8/5/2010
+Title: "INETA Fazla Mesai'dan Suhail Dutta geçti!"
+date: "2010-5-8"
 EntryID: INETA_Fazla_Mesai_den_Suhail_Dutta_gecti
 IsActive: True
 Section: software

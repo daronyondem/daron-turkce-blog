@@ -1,7 +1,7 @@
 ---
 FallbackID: 1990
-Title: Visual Basic'teki IIF ile yeni IF arasında "I" farkı hakkında :)
-PublishDate: 15/3/2008
+Title: "Visual Basic'teki IIF ile yeni IF arasında "I" farkı hakkında":)
+date: "2008-3-15"
 EntryID: Visual_Basic_teki_IIF_ile_yeni_IF_arasinda_I_farki_hakkinda
 IsActive: True
 Section: software

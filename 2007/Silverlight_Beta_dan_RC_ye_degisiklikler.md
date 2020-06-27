@@ -1,7 +1,7 @@
 ---
 FallbackID: 1756
-Title: Silverlight Beta'dan RC'ye değişiklikler
-PublishDate: 16/8/2007
+Title: "Silverlight Beta'dan RC'ye değişiklikler"
+date: "2007-8-16"
 EntryID: Silverlight_Beta_dan_RC_ye_degisiklikler
 IsActive: True
 Section: software

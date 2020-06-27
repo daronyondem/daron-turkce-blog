@@ -1,7 +1,7 @@
 ---
 FallbackID: 2508
-Title: Akdeniz Üniversitesi Seminerim
-PublishDate: 7/4/2010
+Title: "Akdeniz Üniversitesi Seminerim"
+date: "2010-4-7"
 EntryID: Akdeniz_Universitesi_Seminerim
 IsActive: True
 Section: software

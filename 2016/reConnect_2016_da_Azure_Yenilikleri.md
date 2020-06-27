@@ -1,7 +1,7 @@
 ---
 FallbackID: 3035
-Title: reConnect 2016'da Azure Yenilikleri
-PublishDate: 24/11/2016
+Title: "reConnect 2016'da Azure Yenilikleri"
+date: "2016-11-24"
 EntryID: reConnect_2016_da_Azure_Yenilikleri
 IsActive: True
 Section: software

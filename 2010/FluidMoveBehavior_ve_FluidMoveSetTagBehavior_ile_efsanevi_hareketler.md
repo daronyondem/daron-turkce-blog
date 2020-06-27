@@ -1,7 +1,7 @@
 ---
 FallbackID: 2535
-Title: FluidMoveBehavior ve FluidMoveSetTagBehavior ile efsanevi hareketler.
-PublishDate: 5/9/2010
+Title: "FluidMoveBehavior ve FluidMoveSetTagBehavior ile efsanevi hareketler."
+date: "2010-9-5"
 EntryID: FluidMoveBehavior_ve_FluidMoveSetTagBehavior_ile_efsanevi_hareketler
 IsActive: True
 Section: software

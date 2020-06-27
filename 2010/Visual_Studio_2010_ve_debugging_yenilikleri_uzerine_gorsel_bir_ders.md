@@ -1,7 +1,7 @@
 ---
 FallbackID: 2483
-Title: Visual Studio 2010 ve debugging yenilikleri üzerine görsel bir ders.
-PublishDate: 19/1/2010
+Title: "Visual Studio 2010 ve debugging yenilikleri üzerine görsel bir ders."
+date: "2010-1-19"
 EntryID: Visual_Studio_2010_ve_debugging_yenilikleri_uzerine_gorsel_bir_ders
 IsActive: True
 Section: software

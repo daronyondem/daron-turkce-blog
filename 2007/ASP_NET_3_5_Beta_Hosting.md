@@ -1,7 +1,7 @@
 ---
 FallbackID: 1752
-Title: ASP.NET 3.5 Beta Hosting
-PublishDate: 3/8/2007
+Title: "ASP.NET 3.5 Beta Hosting"
+date: "2007-8-3"
 EntryID: ASP_NET_3_5_Beta_Hosting
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1951
-Title: Silverlight projelerineki Silverlight.js dosyasının incelikleri.
-PublishDate: 9/2/2008
+Title: "Silverlight projelerineki Silverlight.js dosyasının incelikleri."
+date: "2008-2-9"
 EntryID: Silverlight_projelerineki_Silverlight_js_dosyasinin_incelikleri
 IsActive: True
 Section: software

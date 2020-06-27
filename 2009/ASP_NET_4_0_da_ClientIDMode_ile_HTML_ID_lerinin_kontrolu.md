@@ -1,7 +1,7 @@
 ---
 FallbackID: 2411
-Title: ASP.NET 4.0'da ClientIDMode ile HTML ID'lerinin kontrolü.
-PublishDate: 14/9/2009
+Title: "ASP.NET 4.0'da ClientIDMode ile HTML ID'lerinin kontrolü."
+date: "2009-9-14"
 EntryID: ASP_NET_4_0_da_ClientIDMode_ile_HTML_ID_lerinin_kontrolu
 IsActive: True
 Section: software

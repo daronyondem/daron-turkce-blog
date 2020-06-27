@@ -1,7 +1,7 @@
 ---
 FallbackID: 2423
-Title: İngilizce Internet Explorer 8 Kitapçığım
-PublishDate: 10/10/2009
+Title: "İngilizce Internet Explorer 8 Kitapçığım"
+date: "2009-10-10"
 EntryID: Ingilizce_Internet_Explorer_8_Kitapcigim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2033
-Title: Doğu Akdeniz Üniversitesi Microsoft Weekend
-PublishDate: 23/4/2008
+Title: "Doğu Akdeniz Üniversitesi Microsoft Weekend"
+date: "2008-4-23"
 EntryID: Dogu_Akdeniz_Universitesi_Microsoft_Weekend
 IsActive: True
 Section: software

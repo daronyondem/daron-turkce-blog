@@ -1,7 +1,7 @@
 ---
 FallbackID: 1833
-Title: PCnet Kasım Sayısı - Dünyada İlk Silverlight Eğitimi
-PublishDate: 2/11/2007
+Title: "PCnet Kasım Sayısı - Dünyada İlk Silverlight Eğitimi"
+date: "2007-11-2"
 EntryID: PCnet_Kasim_Sayisi_-_Dunyada_Ilk_Silverlight_Egitimi
 IsActive: True
 Section: software

@@ -1,14 +1,19 @@
 ---
 FallbackID: 2777
-Title: Blob Storage'da Snapshot Kullanımı
-PublishDate: 3/7/2012
+Title: "Blob Storage'da Snapshot Kullanımı"
+date: "2012-7-3"
 EntryID: Blob_Storage_da_Snapshot_Kullanimi
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Blob_Storage_da_Snapshot_Kullanimi_SDK2_5)bulabilirsiniz.]**Blobların en sevdiğimiz özelliklerinden biri blob başına snapshot
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Blob_Storage_da_Snapshot_Kullanimi_SDK2_5)
+bulabilirsiniz.]**
+
+Blobların en sevdiğimiz özelliklerinden biri blob başına snapshot
 alabiliyor olmamız :) Sınır yok, istediğiniz kadar snapshot
 alabilirsiniz :) (yeter ki parasını ödeyin) Şaka bir yana SnapShot
 almanın kolaylığı ve "yedekleme" amaçlı olarak süper faydalı olmasın

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2237
-Title: Microsoft Oyun Turu'nda Silverlight 2.0 ile Oyun Programlama
-PublishDate: 4/11/2008
+Title: "Microsoft Oyun Turu'nda Silverlight 2.0 ile Oyun Programlama"
+date: "2008-11-4"
 EntryID: Microsoft_Oyun_Turunda_Silverlight_2_0_ile_Oyun_Programlama
 IsActive: True
 Section: software

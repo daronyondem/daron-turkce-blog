@@ -1,7 +1,7 @@
 ---
 FallbackID: 2372
-Title: Organik Yazılım Günü'nde görüşürüz!
-PublishDate: 17/6/2009
+Title: "Organik Yazılım Günü'nde görüşürüz!"
+date: "2009-6-17"
 EntryID: Organik_Yazilim_Gunu_nde_gorusuruz
 IsActive: True
 Section: software

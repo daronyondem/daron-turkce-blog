@@ -1,7 +1,7 @@
 ---
 FallbackID: 2000
-Title: ASP.NET 3.5 AJAX Günü
-PublishDate: 25/3/2008
+Title: "ASP.NET 3.5 AJAX Günü"
+date: "2008-3-25"
 EntryID: ASP_NET_3_5_AJAX_Gunu
 IsActive: True
 Section: software

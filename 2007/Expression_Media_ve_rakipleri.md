@@ -1,7 +1,7 @@
 ---
 FallbackID: 1861
-Title: Expression Media ve rakipleri
-PublishDate: 24/11/2007
+Title: "Expression Media ve rakipleri"
+date: "2007-11-24"
 EntryID: Expression_Media_ve_rakipleri
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2308
-Title: INETA Professional Hit
-PublishDate: 15/1/2009
+Title: "INETA Professional Hit"
+date: "2009-1-15"
 EntryID: INETA_Professional_Hit
 IsActive: True
 Section: software

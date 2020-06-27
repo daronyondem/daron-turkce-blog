@@ -1,7 +1,7 @@
 ---
 FallbackID: 2475
-Title: Silverlight 4 Beta içerisinden masaüstünden sürükle & bırak kullanımı - Görsel Ders
-PublishDate: 13/12/2009
+Title: "Silverlight 4 Beta içerisinden masaüstünden sürükle & bırak kullanımı - Görsel Ders"
+date: "2009-12-13"
 EntryID: Silverlight_4_Beta_icerisinden_masaustunden_surukle_birak_kullanimi_Gorsel_Ders
 IsActive: True
 Section: software

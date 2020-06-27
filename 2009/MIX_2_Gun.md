@@ -1,7 +1,7 @@
 ---
 FallbackID: 2340
-Title: MIX 2. Gün
-PublishDate: 20/3/2009
+Title: "MIX 2. Gün"
+date: "2009-3-20"
 EntryID: MIX_2_Gun
 IsActive: True
 Section: software

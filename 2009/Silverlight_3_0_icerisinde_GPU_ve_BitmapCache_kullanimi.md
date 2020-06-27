@@ -1,7 +1,7 @@
 ---
 FallbackID: 2369
-Title: Silverlight 3.0 içerisinde GPU ve BitmapCache kullanımı.
-PublishDate: 6/6/2009
+Title: "Silverlight 3.0 içerisinde GPU ve BitmapCache kullanımı."
+date: "2009-6-6"
 EntryID: Silverlight_3_0_icerisinde_GPU_ve_BitmapCache_kullanimi
 IsActive: True
 Section: software

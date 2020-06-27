@@ -1,7 +1,7 @@
 ---
 FallbackID: 2546
-Title: Silverlight ve Balder ile 3D
-PublishDate: 1/2/2011
+Title: "Silverlight ve Balder ile 3D"
+date: "2011-2-1"
 EntryID: Silverlight_ve_Balder_ile_3D
 IsActive: True
 Section: software

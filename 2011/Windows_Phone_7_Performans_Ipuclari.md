@@ -1,7 +1,7 @@
 ---
 FallbackID: 2713
-Title: Windows Phone 7 Performans İpuçları
-PublishDate: 27/9/2011
+Title: "Windows Phone 7 Performans İpuçları"
+date: "2011-9-27"
 EntryID: Windows_Phone_7_Performans_Ipuclari
 IsActive: True
 Section: software

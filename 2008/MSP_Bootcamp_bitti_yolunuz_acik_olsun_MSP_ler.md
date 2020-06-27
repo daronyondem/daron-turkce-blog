@@ -1,7 +1,7 @@
 ---
 FallbackID: 2188
-Title: MSP Bootcamp bitti, yolunuz açık olsun MSP'ler :)
-PublishDate: 17/9/2008
+Title: "MSP Bootcamp bitti, yolunuz açık olsun MSP'ler":)
+date: "2008-9-17"
 EntryID: MSP_Bootcamp_bitti_yolunuz_acik_olsun_MSP_ler
 IsActive: True
 Section: software

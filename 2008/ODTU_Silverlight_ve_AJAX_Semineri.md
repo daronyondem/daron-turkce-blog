@@ -1,7 +1,7 @@
 ---
 FallbackID: 2009
-Title: ODTÜ Silverlight ve AJAX Semineri
-PublishDate: 1/4/2008
+Title: "ODTÜ Silverlight ve AJAX Semineri"
+date: "2008-4-1"
 EntryID: ODTU_Silverlight_ve_AJAX_Semineri
 IsActive: True
 Section: software

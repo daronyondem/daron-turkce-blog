@@ -1,7 +1,7 @@
 ---
 FallbackID: 2953
-Title: Azure Meetup
-PublishDate: 5/1/2015
+Title: "Azure Meetup"
+date: "2015-1-5"
 EntryID: Azure_Meetup
 IsActive: True
 Section: software

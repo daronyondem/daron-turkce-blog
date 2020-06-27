@@ -1,7 +1,7 @@
 ---
 FallbackID: 1892
-Title: Visual Studio 2008 ve ASP.NET 2.0 AJAX Extensions 1.0 kullanımı
-PublishDate: 21/12/2007
+Title: "Visual Studio 2008 ve ASP.NET 2.0 AJAX Extensions 1.0 kullanımı"
+date: "2007-12-21"
 EntryID: Visual_Studio_2008_ve_ASP_NET_2_0_AJAX_Extensions_1_kullanimi
 IsActive: True
 Section: software

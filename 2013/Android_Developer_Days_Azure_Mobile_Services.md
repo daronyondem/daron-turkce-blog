@@ -1,7 +1,7 @@
 ---
 FallbackID: 2847
-Title: Android Developer Days'de Azure Mobile Services
-PublishDate: 15/6/2013
+Title: "Android Developer Days'de Azure Mobile Services"
+date: "2013-6-15"
 EntryID: Android_Developer_Days_Azure_Mobile_Services
 IsActive: True
 Section: software

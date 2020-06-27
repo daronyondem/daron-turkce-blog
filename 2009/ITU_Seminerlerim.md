@@ -1,7 +1,7 @@
 ---
 FallbackID: 2428
-Title: İTÜ Seminerlerim
-PublishDate: 23/10/2009
+Title: "İTÜ Seminerlerim"
+date: "2009-10-23"
 EntryID: ITU_Seminerlerim
 IsActive: True
 Section: software

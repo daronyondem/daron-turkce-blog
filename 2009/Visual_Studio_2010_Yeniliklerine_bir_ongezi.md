@@ -1,7 +1,7 @@
 ---
 FallbackID: 2406
-Title: Visual Studio 2010 Yeniliklerine bir öngezi!
-PublishDate: 9/9/2009
+Title: "Visual Studio 2010 Yeniliklerine bir öngezi!"
+date: "2009-9-9"
 EntryID: Visual_Studio_2010_Yeniliklerine_bir_ongezi
 IsActive: True
 Section: software

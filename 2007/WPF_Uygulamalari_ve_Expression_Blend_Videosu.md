@@ -1,7 +1,7 @@
 ---
 FallbackID: 1792
-Title: WPF Uygulamalari ve Expression Blend Videosu
-PublishDate: 26/9/2007
+Title: "WPF Uygulamalari ve Expression Blend Videosu"
+date: "2007-9-26"
 EntryID: WPF_Uygulamalari_ve_Expression_Blend_Videosu
 IsActive: True
 Section: software

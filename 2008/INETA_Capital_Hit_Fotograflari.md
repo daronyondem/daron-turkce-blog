@@ -1,7 +1,7 @@
 ---
 FallbackID: 2231
-Title: INETA Capital Hit Fotoğrafları!
-PublishDate: 30/10/2008
+Title: "INETA Capital Hit Fotoğrafları!"
+date: "2008-10-30"
 EntryID: INETA_Capital_Hit_Fotograflari
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 3043
-Title: Azure Functions ve Event Hub Trigger kullanımı
-PublishDate: 8/12/2016
+Title: "Azure Functions ve Event Hub Trigger kullanımı"
+date: "2016-12-8"
 EntryID: Azure_Functions_ve_Event_Hub_Trigger_kullanimi
 IsActive: True
 Section: software
@@ -95,7 +95,9 @@ public class OrnekObje
 ```
 
 Yukarıdaki function'da **telemetriGelen** string tipinden bir değişken ve bize doğrudan Event Hub'a gönderilen veriyi getiriyor. Biz bu örnekte Random birer **ParitionKey** ve **RowKey** vererek doğrudan Table Services'a atıyoruz. Eğer **eventData** ile ilgili daha çok veriye ulaşmak isterseniz **Service Bus SDK'ine başvurmanız gerekecek.
-![Table Services'a attığımız Event Hub verisi.](media/Azure_Functions_ve_Event_Hub_Trigger_kullanimi/eventhubtrigger-1.png)
+
+![Table Services'a attığımız Event Hub verisi.](media/Azure_Functions_ve_Event_Hub_Trigger_kullanimi/eventhubtrigger-1.png)
+
 **[project.json]**
 ```javascript
 {

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2279
-Title: Abdurrahman-Nermin Bilimli Anadolu Teknik Lisesi sunumlarım.
-PublishDate: 17/12/2008
+Title: "Abdurrahman-Nermin Bilimli Anadolu Teknik Lisesi sunumlarım."
+date: "2008-12-17"
 EntryID: Abdurrahman-Nermin_Bilimli_Anadolu_Teknik_Lisesi_sunumlarim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1993
-Title: 4 Konu 4 Gün Ücretsiz Eğitim
-PublishDate: 17/3/2008
+Title: "4 Konu 4 Gün Ücretsiz Eğitim"
+date: "2008-3-17"
 EntryID: 4_Konu_4_Gun_Ucretsiz_Egitim
 IsActive: True
 Section: software

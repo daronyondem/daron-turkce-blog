@@ -1,7 +1,7 @@
 ---
 FallbackID: 2862
-Title: Nokia Glance Background
-PublishDate: 19/10/2013
+Title: "Nokia Glance Background"
+date: "2013-10-19"
 EntryID: Nokia_Glance_Background
 IsActive: True
 Section: software

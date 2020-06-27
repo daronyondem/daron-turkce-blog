@@ -1,7 +1,7 @@
 ---
 FallbackID: 2398
-Title: Silverlight Code Camp
-PublishDate: 2/9/2009
+Title: "Silverlight Code Camp"
+date: "2009-9-2"
 EntryID: Silverlight_Code_Camp
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2924
-Title: Azure Web Sites Deployment Slots Nedir?
-PublishDate: 19/11/2014
+Title: "Azure Web Sites Deployment Slots Nedir?"
+date: "2014-11-19"
 EntryID: Azure_Web_Sites_Deployment_Slots_Nedir
 IsActive: True
 Section: software

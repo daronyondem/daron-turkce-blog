@@ -1,6 +1,6 @@
 ---
-Title: 11. Ulusal BÖTE Öğrenci Kurultayı Azure Sunumum
-PublishDate: 30/4/2017
+Title: "11. Ulusal BÖTE Öğrenci Kurultayı Azure Sunumum"
+date: "2017-4-30"
 IsActive: True
 Section: software
 MinutesSpent: 9

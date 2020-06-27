@@ -1,7 +1,7 @@
 ---
 FallbackID: 1864
-Title: Kahire Expression Studio Eğitimim sonrasında...
-PublishDate: 28/11/2007
+Title: "Kahire Expression Studio Eğitimim sonrasında..."
+date: "2007-11-28"
 EntryID: Kahire_Expression_Studio_Egitimim_sonrasinda
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2747
-Title: Nice mutlu yıllara! Elveda 2011, Hoş Geldin 2012! :)
-PublishDate: 31/12/2011
+Title: "Nice mutlu yıllara! Elveda 2011, Hoş Geldin 2012!":)
+date: "2011-12-31"
 EntryID: Nice_mutlu_yillara_Elveda_2011_Hos_Geldin_2012
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2239
-Title: Microsoft Ankara Hoster Eğitimi
-PublishDate: 7/11/2008
+Title: "Microsoft Ankara Hoster Eğitimi"
+date: "2008-11-7"
 EntryID: Microsoft_Ankara_Hoster_Egitimi
 IsActive: True
 Section: software

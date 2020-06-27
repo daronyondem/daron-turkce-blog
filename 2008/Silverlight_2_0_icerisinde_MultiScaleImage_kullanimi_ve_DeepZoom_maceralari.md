@@ -1,7 +1,7 @@
 ---
 FallbackID: 2132
-Title: Silverlight 2.0 içerisinde MultiScaleImage kullanımı ve DeepZoom maceraları
-PublishDate: 24/7/2008
+Title: "Silverlight 2.0 içerisinde MultiScaleImage kullanımı ve DeepZoom maceraları"
+date: "2008-7-24"
 EntryID: Silverlight_2_0_icerisinde_MultiScaleImage_kullanimi_ve_DeepZoom_maceralari
 IsActive: True
 Section: software

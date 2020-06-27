@@ -1,7 +1,7 @@
 ---
 FallbackID: 2952
-Title: Azure Storage Table Services (SDK2.5)
-PublishDate: 10/12/2014
+Title: "Azure Storage Table Services (SDK2.5)"
+date: "2014-12-10"
 EntryID: Azure_Storage_Table_Services_SDK2_5
 IsActive: True
 Section: software

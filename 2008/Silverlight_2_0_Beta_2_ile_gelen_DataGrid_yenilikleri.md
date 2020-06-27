@@ -1,7 +1,7 @@
 ---
 FallbackID: 2087
-Title: Silverlight 2.0 Beta 2 ile gelen DataGrid yenilikleri
-PublishDate: 10/6/2008
+Title: "Silverlight 2.0 Beta 2 ile gelen DataGrid yenilikleri"
+date: "2008-6-10"
 EntryID: Silverlight_2_0_Beta_2_ile_gelen_DataGrid_yenilikleri
 IsActive: True
 Section: software

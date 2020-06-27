@@ -1,7 +1,7 @@
 ---
 FallbackID: 2923
-Title: Azure SDK 2.5 ile WebJobs Yenilikleri
-PublishDate: 18/11/2014
+Title: "Azure SDK 2.5 ile WebJobs Yenilikleri"
+date: "2014-11-18"
 EntryID: Azure_SDK_2_5_ile_WebJobs_Yenilikleri
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2466
-Title: Microsoft MEA VP Marco Comastri ile RD ve MVP toplantımız.
-PublishDate: 3/12/2009
+Title: "Microsoft MEA VP Marco Comastri ile RD ve MVP toplantımız."
+date: "2009-12-3"
 EntryID: Microsoft_MEA_VP_Marco_Comastri_ile_RD_ve_MVP_toplantimiz
 IsActive: True
 Section: software

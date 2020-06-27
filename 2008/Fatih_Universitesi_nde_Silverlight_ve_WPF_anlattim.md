@@ -1,7 +1,7 @@
 ---
 FallbackID: 2233
-Title: Fatih Üniversitesi'nde Silverlight ve WPF anlattım.
-PublishDate: 31/10/2008
+Title: "Fatih Üniversitesi'nde Silverlight ve WPF anlattım."
+date: "2008-10-31"
 EntryID: Fatih_Universitesi_nde_Silverlight_ve_WPF_anlattim
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1975
-Title: PCnet Mart Sayısı
-PublishDate: 1/3/2008
+Title: "PCnet Mart Sayısı"
+date: "2008-3-1"
 EntryID: PCnet_Mart_Sayisi
 IsActive: True
 Section: software

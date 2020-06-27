@@ -1,7 +1,7 @@
 ---
 FallbackID: 2027
-Title: yazgelistir.com'daki yeni yazılarım.
-PublishDate: 18/4/2008
+Title: "yazgelistir.com'daki yeni yazılarım."
+date: "2008-4-18"
 EntryID: yazgelistir_com_yeni_yazilarim
 IsActive: True
 Section: software

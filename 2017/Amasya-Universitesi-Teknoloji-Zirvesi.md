@@ -1,6 +1,6 @@
 ---
-Title: Amasya Üniversitesi Teknoloji Zirvesi'nde Cloud ve IoT
-PublishDate: 27/4/2017
+Title: "Amasya Üniversitesi Teknoloji Zirvesi'nde Cloud ve IoT"
+date: "2017-4-27"
 IsActive: True
 Section: software
 MinutesSpent: 8

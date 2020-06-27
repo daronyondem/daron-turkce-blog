@@ -1,7 +1,7 @@
 ---
 FallbackID: 1850
-Title: Silverlight animasyonum FireFox'da çalışmıyor! "100%" genişlik ve yükseklik sorunu.
-PublishDate: 14/11/2007
+Title: "Silverlight animasyonum FireFox'da çalışmıyor! "100%" genişlik ve yükseklik sorunu."
+date: "2007-11-14"
 EntryID: Silverlight_animasyonum_FireFox_da_calismiyor_genislik_ve_yukseklik_sorunu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2445
-Title: TechEd 3. Gün
-PublishDate: 11/11/2009
+Title: "TechEd 3. Gün"
+date: "2009-11-11"
 EntryID: TechEd_3_Gun
 IsActive: True
 Section: software

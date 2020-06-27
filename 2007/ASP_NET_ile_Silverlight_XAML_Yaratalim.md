@@ -1,7 +1,7 @@
 ---
 FallbackID: 1876
-Title: ASP.NET ile Silverlight XAML Yaratalım
-PublishDate: 7/12/2007
+Title: "ASP.NET ile Silverlight XAML Yaratalım"
+date: "2007-12-7"
 EntryID: ASP_NET_ile_Silverlight_XAML_Yaratalim
 IsActive: True
 Section: software

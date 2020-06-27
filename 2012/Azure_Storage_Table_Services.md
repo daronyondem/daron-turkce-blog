@@ -1,14 +1,19 @@
 ---
 FallbackID: 2782
-Title: Azure Storage Table Services
-PublishDate: 7/8/2012
+Title: "Azure Storage Table Services"
+date: "2012-8-7"
 EntryID: Azure_Storage_Table_Services
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Azure_Storage_Table_Services_SDK2_5)bulabilirsiniz.]**Azure ortamında Storage Services kapsamında yarattığımız her bir Storage
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Azure_Storage_Table_Services_SDK2_5)
+bulabilirsiniz.]**
+
+Azure ortamında Storage Services kapsamında yarattığımız her bir Storage
 account ile beraber bize bir blob, bir table, bir de queue servisi
 sağlandığını biliyoruz. Bugüne kadar bloblarla ilgili birçok konuya
 değinmiş olsak da daha Table servisi ile ilgili birşey yapmadık :) Şimdi

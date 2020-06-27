@@ -1,7 +1,7 @@
 ---
 FallbackID: 1730
-Title: Sayfa Genelinde Kaydırma Çubuğundan Etkilenmeyen Sabit DIV (Katman)
-PublishDate: 22/4/2007
+Title: "Sayfa Genelinde Kaydırma Çubuğundan Etkilenmeyen Sabit DIV (Katman)"
+date: "2007-4-22"
 EntryID: Sayfa_Genelinde_Kaydirma_Cubugundan_Etkilenmeyen_Sabit_DIV
 IsActive: True
 Section: software

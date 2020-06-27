@@ -1,6 +1,6 @@
 ---
-Title: Fatih Sultan Mehmet Üniversitesi Azure Sunumum
-PublishDate: 2/5/2017
+Title: "Fatih Sultan Mehmet Üniversitesi Azure Sunumum"
+date: "2017-5-2"
 IsActive: True
 Section: software
 MinutesSpent: 4

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1905
-Title: LINQ ile INSERT, UPDATE ve DELETE
-PublishDate: 2/1/2008
+Title: "LINQ ile INSERT, UPDATE ve DELETE"
+date: "2008-1-2"
 EntryID: LINQ_ile_INSERT_UPDATE_ve_DELETE
 IsActive: True
 Section: software

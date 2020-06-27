@@ -1,7 +1,7 @@
 ---
 FallbackID: 1878
-Title: Expression Blend ve WPF Webineri sonrasıda...
-PublishDate: 9/12/2007
+Title: "Expression Blend ve WPF Webineri sonrasıda..."
+date: "2007-12-9"
 EntryID: Expression_Blend_ve_WPF_Webineri_sonrasida___
 IsActive: True
 Section: software

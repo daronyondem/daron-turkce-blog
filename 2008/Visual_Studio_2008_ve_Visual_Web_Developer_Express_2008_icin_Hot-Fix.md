@@ -1,7 +1,7 @@
 ---
 FallbackID: 1952
-Title: Visual Studio 2008 ve Visual Web Developer Express 2008 için Hot-Fix
-PublishDate: 9/2/2008
+Title: "Visual Studio 2008 ve Visual Web Developer Express 2008 için Hot-Fix"
+date: "2008-2-9"
 EntryID: Visual_Studio_2008_ve_Visual_Web_Developer_Express_2008_icin_Hot-Fix
 IsActive: True
 Section: software

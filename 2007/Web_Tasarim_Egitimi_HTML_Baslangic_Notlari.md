@@ -1,7 +1,7 @@
 ---
 FallbackID: 1722
-Title: Web Tasarım Eğitimi HTML Başlangıç Notları
-PublishDate: 6/4/2007
+Title: "Web Tasarım Eğitimi HTML Başlangıç Notları"
+date: "2007-4-6"
 EntryID: Web_Tasarim_Egitimi_HTML_Baslangic_Notlari
 IsActive: True
 Section: software

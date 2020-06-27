@@ -1,7 +1,7 @@
 ---
 FallbackID: 1822
-Title: Sertifikasyonlarla İlgili Sıkça Sorulan Sorular
-PublishDate: 24/10/2007
+Title: "Sertifikasyonlarla İlgili Sıkça Sorulan Sorular"
+date: "2007-10-24"
 EntryID: Sertifikasyonlarla_Ilgili_Sikca_Sorulan_Sorular
 IsActive: True
 Section: software

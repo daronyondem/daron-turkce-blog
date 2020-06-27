@@ -1,7 +1,7 @@
 ---
 FallbackID: 2405
-Title: Expression Blend 3 ile tasarımcılar için veri uygulamaları.
-PublishDate: 9/9/2009
+Title: "Expression Blend 3 ile tasarımcılar için veri uygulamaları."
+date: "2009-9-9"
 EntryID: Expression_Blend_3_ile_tasarimcilar_icin_veri_uygulamalari
 IsActive: True
 Section: software

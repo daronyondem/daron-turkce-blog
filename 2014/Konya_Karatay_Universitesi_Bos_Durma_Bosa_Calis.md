@@ -1,7 +1,7 @@
 ---
 FallbackID: 2950
-Title: Konya Karatay Üniversitesi, Boş Durma Boşa Çalış :)
-PublishDate: 12/12/2014
+Title: "Konya Karatay Üniversitesi, Boş Durma Boşa Çalış":)
+date: "2014-12-12"
 EntryID: Konya_Karatay_Universitesi_Bos_Durma_Bosa_Calis
 IsActive: True
 Section: software

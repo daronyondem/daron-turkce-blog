@@ -1,7 +1,7 @@
 ---
 FallbackID: 2049
-Title: Dertli Kerem yine iş başında!
-PublishDate: 8/5/2008
+Title: "Dertli Kerem yine iş başında!"
+date: "2008-5-8"
 EntryID: Dertli_Kerem_yine_is_basinda
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2350
-Title: Silverlight 3.0 içerisinde DataForm kullanımı.
-PublishDate: 15/4/2009
+Title: "Silverlight 3.0 içerisinde DataForm kullanımı."
+date: "2009-4-15"
 EntryID: Silverlight_3_0_icerisinde_DataForm_kullanimi
 IsActive: True
 Section: software

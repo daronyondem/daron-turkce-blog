@@ -1,7 +1,7 @@
 ---
 FallbackID: 2203
-Title: Silverlight 2.0 RC0 içerisinde PasswordBox kullanımı.
-PublishDate: 2/10/2008
+Title: "Silverlight 2.0 RC0 içerisinde PasswordBox kullanımı."
+date: "2008-10-2"
 EntryID: Silverlight_2_0_RC0_icerisinde_PasswordBox_kullanimi
 IsActive: True
 Section: software

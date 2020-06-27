@@ -1,7 +1,7 @@
 ---
 FallbackID: 2830
-Title: Nokia Lumia lansmanı dün gerçekleşti!
-PublishDate: 22/11/2012
+Title: "Nokia Lumia lansmanı dün gerçekleşti!"
+date: "2012-11-22"
 EntryID: Nokia_Lumia_lansmani_dun_gerceklesti
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2518
-Title: INETA Fazla Mesai'de Suhail Dutta konuşuyor!
-PublishDate: 4/5/2010
+Title: "INETA Fazla Mesai'de Suhail Dutta konuşuyor!"
+date: "2010-5-4"
 EntryID: INETA_Fazla_Mesai_de_Suhail_Dutta_konusuyor
 IsActive: True
 Section: software

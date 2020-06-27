@@ -1,7 +1,7 @@
 ---
 FallbackID: 2273
-Title: Imagine Cup 2009 Lansmanı
-PublishDate: 12/12/2008
+Title: "Imagine Cup 2009 Lansmanı"
+date: "2008-12-12"
 EntryID: Imagine_Cup_2009_Lansmani
 IsActive: True
 Section: software

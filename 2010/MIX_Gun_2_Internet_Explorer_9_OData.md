@@ -1,7 +1,7 @@
 ---
 FallbackID: 2496
-Title: MIX Gün 2 : Internet Explorer 9, OData
-PublishDate: 18/3/2010
+Title: "MIX Gün 2": Internet Explorer 9, OData
+date: "2010-3-18"
 EntryID: MIX_Gun_2_Internet_Explorer_9_OData
 IsActive: True
 Section: software

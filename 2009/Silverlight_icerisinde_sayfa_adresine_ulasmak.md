@@ -1,7 +1,7 @@
 ---
 FallbackID: 2306
-Title: Silverlight içerisinde sayfa adresine ulaşmak
-PublishDate: 14/1/2009
+Title: "Silverlight içerisinde sayfa adresine ulaşmak"
+date: "2009-1-14"
 EntryID: Silverlight_icerisinde_sayfa_adresine_ulasmak
 IsActive: True
 Section: software

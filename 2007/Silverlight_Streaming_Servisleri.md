@@ -1,7 +1,7 @@
 ---
 FallbackID: 1812
-Title: Silverlight Streaming Servisleri
-PublishDate: 16/10/2007
+Title: "Silverlight Streaming Servisleri"
+date: "2007-10-16"
 EntryID: Silverlight_Streaming_Servisleri
 IsActive: True
 Section: software

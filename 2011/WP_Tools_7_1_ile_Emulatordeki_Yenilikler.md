@@ -1,7 +1,7 @@
 ---
 FallbackID: 2716
-Title: Windows Phone Tools 7.1 ile Emülatördeki Yenilikler
-PublishDate: 30/9/2011
+Title: "Windows Phone Tools 7.1 ile Emülatördeki Yenilikler"
+date: "2011-9-30"
 EntryID: WP_Tools_7_1_ile_Emulatordeki_Yenilikler
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1944
-Title: Silverlight ve MediaElement kullanımı.
-PublishDate: 4/2/2008
+Title: "Silverlight ve MediaElement kullanımı."
+date: "2008-2-4"
 EntryID: Silverlight_ve_MediaElement_kullanimi
 IsActive: True
 Section: software

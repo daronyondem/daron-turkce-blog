@@ -1,7 +1,7 @@
 ---
 FallbackID: 2193
-Title: Dinamik Assembly Üretimi (Kodla Dinamik DLL Compile Etmek)
-PublishDate: 22/9/2008
+Title: "Dinamik Assembly Üretimi (Kodla Dinamik DLL Compile Etmek)"
+date: "2008-9-22"
 EntryID: Dinamik_Assembly_Uretimi_Kodla_Dinamik_DLL_Compile_Etmek
 IsActive: True
 Section: software

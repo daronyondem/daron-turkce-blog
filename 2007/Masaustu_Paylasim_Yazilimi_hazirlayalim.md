@@ -1,7 +1,7 @@
 ---
 FallbackID: 1767
-Title: Masaüstü Paylaşım Yazılımı hazırlayalım...
-PublishDate: 29/8/2007
+Title: "Masaüstü Paylaşım Yazılımı hazırlayalım..."
+date: "2007-8-29"
 EntryID: Masaustu_Paylasim_Yazilimi_hazirlayalim
 IsActive: True
 Section: software

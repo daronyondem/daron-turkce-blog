@@ -1,7 +1,7 @@
 ---
 FallbackID: 2078
-Title: Silverlight 2.0 Beta 1 içerisinde DataGrid kullanımı!
-PublishDate: 6/6/2008
+Title: "Silverlight 2.0 Beta 1 içerisinde DataGrid kullanımı!"
+date: "2008-6-6"
 EntryID: Silverlight_2_0_Beta_1_icerisinde_DataGrid_kullanimi
 IsActive: True
 Section: software

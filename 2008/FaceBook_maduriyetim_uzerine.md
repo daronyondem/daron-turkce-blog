@@ -1,7 +1,7 @@
 ---
 FallbackID: 2218
-Title: FaceBook maduriyetim üzerine...
-PublishDate: 17/10/2008
+Title: "FaceBook maduriyetim üzerine..."
+date: "2008-10-17"
 EntryID: FaceBook_maduriyetim_uzerine
 IsActive: True
 Section: software

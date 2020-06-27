@@ -1,7 +1,7 @@
 ---
 FallbackID: 1763
-Title: İstemci Taraflı AJAX Yüklemelerini JavaScript ile İptal Etmek
-PublishDate: 27/8/2007
+Title: "İstemci Taraflı AJAX Yüklemelerini JavaScript ile İptal Etmek"
+date: "2007-8-27"
 EntryID: Istemci_Tarafli_AJAX_Yuklemelerini_JavaScript_ile_Iptal_Etmek
 IsActive: True
 Section: software

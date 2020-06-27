@@ -1,7 +1,7 @@
 ---
 FallbackID: 2885
-Title: Windows Phone 8 için HTML5-JS ile uygulama geliştirenlere ipuçları
-PublishDate: 26/2/2014
+Title: "Windows Phone 8 için HTML5-JS ile uygulama geliştirenlere ipuçları"
+date: "2014-2-26"
 EntryID: Windows_Phone_8_HTML5_JS_ipuclari
 IsActive: True
 Section: software

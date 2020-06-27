@@ -1,7 +1,7 @@
 ---
 FallbackID: 2397
-Title: Windows 7'de VHD'den boot etmek!
-PublishDate: 2/9/2009
+Title: "Windows 7'de VHD'den boot etmek!"
+date: "2009-9-2"
 EntryID: Windows_7_de_VHD_den_boot_etmek
 IsActive: True
 Section: software

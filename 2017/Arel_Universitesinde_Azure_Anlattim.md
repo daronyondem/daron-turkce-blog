@@ -1,7 +1,7 @@
 ---
 FallbackID: 3052
-Title: Arel Üniversitesi'nde Azure Anlattım
-PublishDate: 8/3/2017
+Title: "Arel Üniversitesi'nde Azure Anlattım"
+date: "2017-3-8"
 EntryID: Arel_Universitesinde_Azure_Anlattim
 IsActive: True
 Section: software

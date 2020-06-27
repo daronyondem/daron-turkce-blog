@@ -1,7 +1,7 @@
 ---
 FallbackID: 2888
-Title: Azure'a Remote Desktop (SDK2.2)
-PublishDate: 3/3/2014
+Title: "Azure'a Remote Desktop (SDK2.2)"
+date: "2014-3-3"
 EntryID: Azure_Remote_Desktop_SDK2_2
 IsActive: True
 Section: software

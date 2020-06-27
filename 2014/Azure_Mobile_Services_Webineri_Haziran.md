@@ -1,7 +1,7 @@
 ---
 FallbackID: 2910
-Title: Azure Mobile Services Webineri Haziran
-PublishDate: 4/6/2014
+Title: "Azure Mobile Services Webineri Haziran"
+date: "2014-6-4"
 EntryID: Azure_Mobile_Services_Webineri_Haziran
 IsActive: True
 Section: software

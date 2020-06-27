@@ -1,7 +1,7 @@
 ---
 FallbackID: 1889
-Title: Expression Blend 2 December Preview
-PublishDate: 17/12/2007
+Title: "Expression Blend 2 December Preview"
+date: "2007-12-17"
 EntryID: Expression_Blend_2_December_Preview
 IsActive: True
 Section: software

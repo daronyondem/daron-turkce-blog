@@ -1,7 +1,7 @@
 ---
 FallbackID: 2980
-Title: Azure'da ilk NodeJS Uygulamamız
-PublishDate: 4/9/2015
+Title: "Azure'da ilk NodeJS Uygulamamız"
+date: "2015-9-4"
 EntryID: Azure_da_ilk_NodeJS_Uygulamamiz
 IsActive: True
 Section: software

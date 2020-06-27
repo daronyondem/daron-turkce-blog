@@ -1,7 +1,7 @@
 ---
 FallbackID: 2852
-Title: Leap Motion'a ilk bakış, ilk dokunuş
-PublishDate: 20/8/2013
+Title: "Leap Motion'a ilk bakış, ilk dokunuş"
+date: "2013-8-20"
 EntryID: Leap_Motion_ilk_bakis_ilk_dokunus
 IsActive: True
 Section: software

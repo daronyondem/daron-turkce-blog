@@ -1,7 +1,7 @@
 ---
 FallbackID: 2858
-Title: Windows Phone 8 Update 3 Developer Preview
-PublishDate: 16/10/2013
+Title: "Windows Phone 8 Update 3 Developer Preview"
+date: "2013-10-16"
 EntryID: Windows_Phone_8_Update_3_Developer_Preview
 IsActive: True
 Section: software

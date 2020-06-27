@@ -1,7 +1,7 @@
 ---
 FallbackID: 2709
-Title: Microsoft Student Partner Programı 2011-12 Kick Off Toplantısı
-PublishDate: 25/9/2011
+Title: "Microsoft Student Partner Programı 2011-12 Kick Off Toplantısı"
+date: "2011-9-25"
 EntryID: MSP_Programi_2011-12_Kick_Off_Toplantisi
 IsActive: True
 Section: software

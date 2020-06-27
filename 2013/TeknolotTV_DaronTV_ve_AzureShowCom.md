@@ -1,7 +1,7 @@
 ---
 FallbackID: 2848
-Title: Teknolot.TV, Daron.TV ve AzureShow.com :)
-PublishDate: 25/6/2013
+Title: "Teknolot.TV, Daron.TV ve AzureShow.com":)
+date: "2013-6-25"
 EntryID: TeknolotTV_DaronTV_ve_AzureShowCom
 IsActive: True
 Section: software

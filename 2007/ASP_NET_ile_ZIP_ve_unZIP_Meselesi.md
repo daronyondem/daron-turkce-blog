@@ -1,7 +1,7 @@
 ---
 FallbackID: 1810
-Title: ASP.NET ile ZIP ve unZIP Meselesi
-PublishDate: 11/10/2007
+Title: "ASP.NET ile ZIP ve unZIP Meselesi"
+date: "2007-10-11"
 EntryID: ASP_NET_ile_ZIP_ve_unZIP_Meselesi
 IsActive: True
 Section: software

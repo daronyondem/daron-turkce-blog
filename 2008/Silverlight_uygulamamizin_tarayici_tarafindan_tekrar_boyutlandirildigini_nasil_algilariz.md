@@ -1,7 +1,7 @@
 ---
 FallbackID: 2086
-Title: Silverlight uygulamamızın tarayıcı tarafından tekrar boyutlandırıldığını nasıl algılarız?
-PublishDate: 9/6/2008
+Title: "Silverlight uygulamamızın tarayıcı tarafından tekrar boyutlandırıldığını nasıl algılarız?"
+date: "2008-6-9"
 EntryID: Silverlight_uygulamamizin_tarayici_tarafindan_tekrar_boyutlandirildigini_nasil_algilariz
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2856
-Title: 5KM Çamur Koşusu İnanılmaz Eğlenceli
-PublishDate: 4/10/2013
+Title: "5KM Çamur Koşusu İnanılmaz Eğlenceli"
+date: "2013-10-4"
 EntryID: 5KM_Camur_Kosusu_Inanilmaz_Eglenceli
 IsActive: True
 Section: fitness

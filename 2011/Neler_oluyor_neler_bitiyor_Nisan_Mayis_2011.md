@@ -1,7 +1,7 @@
 ---
 FallbackID: 2564
-Title: Neler oluyor, neler bitiyor :) Nisan - Mayıs 2011
-PublishDate: 20/4/2011
+Title: "Neler oluyor, neler bitiyor":) Nisan - Mayıs 2011
+date: "2011-4-20"
 EntryID: Neler_oluyor_neler_bitiyor_Nisan_Mayis_2011
 IsActive: True
 Section: software

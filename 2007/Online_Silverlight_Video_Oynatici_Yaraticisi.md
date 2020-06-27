@@ -1,7 +1,7 @@
 ---
 FallbackID: 1809
-Title: Online Silverlight Video Oynatıcı Yaratıcısı...
-PublishDate: 11/10/2007
+Title: "Online Silverlight Video Oynatıcı Yaratıcısı..."
+date: "2007-10-11"
 EntryID: Online_Silverlight_Video_Oynatici_Yaraticisi
 IsActive: True
 Section: software

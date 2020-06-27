@@ -1,7 +1,7 @@
 ---
 FallbackID: 1994
-Title: Silverlight 2.0 XAP Paketleri
-PublishDate: 19/3/2008
+Title: "Silverlight 2.0 XAP Paketleri"
+date: "2008-3-19"
 EntryID: Silverlight_2_0_XAP_Paketleri
 IsActive: True
 Section: software

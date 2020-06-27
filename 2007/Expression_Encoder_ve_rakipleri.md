@@ -1,7 +1,7 @@
 ---
 FallbackID: 1870
-Title: Expression Encoder ve rakipleri
-PublishDate: 1/12/2007
+Title: "Expression Encoder ve rakipleri"
+date: "2007-12-1"
 EntryID: Expression_Encoder_ve_rakipleri
 IsActive: True
 Section: software

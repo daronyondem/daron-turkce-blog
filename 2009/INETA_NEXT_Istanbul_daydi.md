@@ -1,7 +1,7 @@
 ---
 FallbackID: 2476
-Title: INETA NEXT İstanbul'daydı!
-PublishDate: 14/12/2009
+Title: "INETA NEXT İstanbul'daydı!"
+date: "2009-12-14"
 EntryID: INETA_NEXT_Istanbul_daydi
 IsActive: True
 Section: software

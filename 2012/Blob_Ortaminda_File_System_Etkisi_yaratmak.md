@@ -1,14 +1,19 @@
 ---
 FallbackID: 2776
-Title: Blob Ortamında File System Etkisi yaratmak
-PublishDate: 26/6/2012
+Title: "Blob Ortamında File System Etkisi yaratmak"
+date: "2012-6-26"
 EntryID: Blob_Ortaminda_File_System_Etkisi_yaratmak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Blob_Ortaminda_File_System_Etkisi_yaratmak_SDK2_5)bulabilirsiniz.]**Blob konusunu inceledikçe aslında adam akıllı dosya tutabileceğimiz :)
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Blob_Ortaminda_File_System_Etkisi_yaratmak_SDK2_5)
+bulabilirsiniz.]**
+
+Blob konusunu inceledikçe aslında adam akıllı dosya tutabileceğimiz :)
 süper bir yer olduğu hissiyatı eminim ki sizin de içinizi kaplamıştır.
 Bu düşünce yapısı ile ilerlerken aslında akla gelebilecek daha bir sürü
 soru var. Örneğin bir sitede kullandığımız CSS, JavaScript dosyaları

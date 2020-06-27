@@ -1,7 +1,7 @@
 ---
 FallbackID: 2486
-Title: Windows Management Instrumentation ne ola ki?
-PublishDate: 26/1/2010
+Title: "Windows Management Instrumentation ne ola ki?"
+date: "2010-1-26"
 EntryID: Windows_Management_Instrumentation_ne_ola_ki
 IsActive: True
 Section: software

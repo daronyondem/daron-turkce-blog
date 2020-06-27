@@ -1,7 +1,7 @@
 ---
 FallbackID: 2697
-Title: Build Konferansı İlk Gün Raporu (Windows 8 burada! :))
-PublishDate: 14/9/2011
+Title: "Build Konferansı İlk Gün Raporu (Windows 8 burada!":))
+date: "2011-9-14"
 EntryID: Build_Konferansi_Ilk_Gun_Raporu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1790
-Title: AJAX Control Toolkit 10902 sürümü çıktı.
-PublishDate: 23/9/2007
+Title: "AJAX Control Toolkit 10902 sürümü çıktı."
+date: "2007-9-23"
 EntryID: AJAX_Control_Toolkit_10902_surumu_cikti
 IsActive: True
 Section: software

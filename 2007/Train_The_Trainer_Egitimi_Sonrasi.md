@@ -1,7 +1,7 @@
 ---
 FallbackID: 1762
-Title: "Train The Trainer" Eğitimi Sonrası
-PublishDate: 25/8/2007
+Title: ""Train The Trainer" Eğitimi Sonrası"
+date: "2007-8-25"
 EntryID: Train_The_Trainer_Egitimi_Sonrasi
 IsActive: True
 Section: software

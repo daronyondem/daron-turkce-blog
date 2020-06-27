@@ -1,7 +1,7 @@
 ---
 FallbackID: 2281
-Title: MSP Days, 27-28 Aralık'ta...
-PublishDate: 20/12/2008
+Title: "MSP Days, 27-28 Aralık'ta..."
+date: "2008-12-20"
 EntryID: MSP_Days_27-28_Aralikta
 IsActive: True
 Section: software

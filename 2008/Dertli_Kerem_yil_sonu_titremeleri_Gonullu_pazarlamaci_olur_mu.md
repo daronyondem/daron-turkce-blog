@@ -1,7 +1,7 @@
 ---
 FallbackID: 2284
-Title: Dertli Kerem yıl sonu titremeleri.... Gönüllü pazarlamacı olur mu?
-PublishDate: 23/12/2008
+Title: "Dertli Kerem yıl sonu titremeleri.... Gönüllü pazarlamacı olur mu?"
+date: "2008-12-23"
 EntryID: Dertli_Kerem_yil_sonu_titremeleri_Gonullu_pazarlamaci_olur_mu
 IsActive: True
 Section: software

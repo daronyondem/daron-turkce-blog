@@ -1,7 +1,7 @@
 ---
 FallbackID: 2915
-Title: Azure WebJobs ile Queue'ların Kullanımı
-PublishDate: 9/8/2014
+Title: "Azure WebJobs ile Queue'ların Kullanımı"
+date: "2014-8-9"
 EntryID: Azure_WebJobs_ile_Queue_larin_Kullanimi
 IsActive: True
 Section: software
@@ -29,7 +29,13 @@ parametre olarak geçiyor.
 
 **[C\#]**
 
-```cspublic static void KuyruktanGelen([QueueInput("kuyrugum")] string parametre){}```
+```cs
+public static void KuyruktanGelen([QueueInput("kuyrugum")] string parametre)
+{
+
+}
+```
+
 Metodun parametresini isterseniz yukarıdaki gibi dekore ederek
 QueueInput'a kullanmak istediğiniz kuyruğun adını verebiliyorsunuz.
 Parametre tipi eğer string olarak bırakılırsa aslında arka planda
@@ -59,7 +65,17 @@ getirmeye çalışmış. Bence çok da iyi iş çıkarmışlar.
 
 **[C\#]**
 
-```cspublic class OrnekKuyrukMesaji{    public string Icerik1 { get; set; }    public string Icerik2 { get; set; }}public static void KuyruktanGelen([QueueInput("queuename")] OrnekKuyrukMesaji parametre){}```
+```cs
+public class OrnekKuyrukMesaji
+{
+    public string Icerik1 { get; set; }
+    public string Icerik2 { get; set; }
+}
+public static void KuyruktanGelen([QueueInput("queuename")] OrnekKuyrukMesaji parametre)
+{
+
+}
+```
 
 Bence bu çok şık bir hareket. Atla deve değil. Sonuç itibari ile gelen
 String biz de DeSerialize edebilirdik ama böyle ufak şeyler hem kodu
@@ -76,7 +92,29 @@ mesaj atabileceğimize göz atacağız.
 
 **[C\#]**
 
-```cspublic class OrnekKuyrukMesaji{    public string Icerik1 { get; set; }    public string Icerik2 { get; set; }}public class GidenMesaj{    public string Icerik1 { get; set; }    public string Icerik2 { get; set; }}public static void KuyruktanGelenKuyrugaGider(    [QueueInput("gelenkuyruk")] OrnekKuyrukMesaji parametre,    [QueueOutput("gidenkuyruk")] out GidenMesaj gidenParametre,    [QueueOutput("log")] out string log){    gidenParametre = new GidenMesaj();    gidenParametre.Icerik2 = parametre.Icerik1;    gidenParametre.Icerik1 = parametre.Icerik1;    log = gidenParametre.Icerik1;}```
+```cs
+public class OrnekKuyrukMesaji
+{
+    public string Icerik1 { get; set; }
+    public string Icerik2 { get; set; }
+}
+
+public class GidenMesaj
+{
+    public string Icerik1 { get; set; }
+    public string Icerik2 { get; set; }
+}
+public static void KuyruktanGelenKuyrugaGider(
+    [QueueInput("gelenkuyruk")] OrnekKuyrukMesaji parametre,
+    [QueueOutput("gidenkuyruk")] out GidenMesaj gidenParametre,
+    [QueueOutput("log")] out string log)
+{
+    gidenParametre = new GidenMesaj();
+    gidenParametre.Icerik2 = parametre.Icerik1;
+    gidenParametre.Icerik1 = parametre.Icerik1;
+    log = gidenParametre.Icerik1;
+}
+```
 
 Yukarıdaki örnekteki iki farklı POCO'yu bir kenara koyalım. En son
 metoda baktığınızda bir değil tam üç tane kuyrukla alakamız olduğunu

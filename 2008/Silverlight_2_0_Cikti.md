@@ -1,7 +1,7 @@
 ---
 FallbackID: 2216
-Title: Silverlight 2.0 Çıktı!
-PublishDate: 15/10/2008
+Title: "Silverlight 2.0 Çıktı!"
+date: "2008-10-15"
 EntryID: Silverlight_2_0_Cikti
 IsActive: True
 Section: software

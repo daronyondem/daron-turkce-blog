@@ -1,7 +1,7 @@
 ---
 FallbackID: 1866
-Title: Acil İş İlanı
-PublishDate: 29/11/2007
+Title: "Acil İş İlanı"
+date: "2007-11-29"
 EntryID: Acil_Is_Ilani
 IsActive: True
 Section: software

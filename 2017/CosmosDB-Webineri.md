@@ -1,6 +1,6 @@
 ---
-Title: Microsoft için sunduğum CosmosDB Webineri
-PublishDate: 16/6/2017
+Title: "Microsoft için sunduğum CosmosDB Webineri"
+date: "2017-6-16"
 IsActive: True
 Section: software
 MinutesSpent: 13

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1757
-Title: AJAX Control Toolkit Animation Extender
-PublishDate: 17/8/2007
+Title: "AJAX Control Toolkit Animation Extender"
+date: "2007-8-17"
 EntryID: AJAX_Control_Toolkit_Animation_Extender
 IsActive: True
 Section: software

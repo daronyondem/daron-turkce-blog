@@ -1,7 +1,7 @@
 ---
 FallbackID: 2109
-Title: Silverlight 2.0 içerisinde asenkron font dosyası indirerek kullanmak
-PublishDate: 1/7/2008
+Title: "Silverlight 2.0 içerisinde asenkron font dosyası indirerek kullanmak"
+date: "2008-7-1"
 EntryID: Silverlight_2_0_icerisinde_asenkron_font_dosyasi_indirerek_kullanmak
 IsActive: True
 Section: software

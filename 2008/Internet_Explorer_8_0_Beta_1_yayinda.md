@@ -1,7 +1,7 @@
 ---
 FallbackID: 1984
-Title: Internet Explorer 8.0 Beta 1 yayında.
-PublishDate: 8/3/2008
+Title: "Internet Explorer 8.0 Beta 1 yayında."
+date: "2008-3-8"
 EntryID: Internet_Explorer_8_0_Beta_1_yayinda
 IsActive: True
 Section: software

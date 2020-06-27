@@ -1,6 +1,6 @@
 ---
-Title: 4 RD Fazla Mesai'de
-PublishDate: 21/6/2017
+Title: "4 RD Fazla Mesai'de"
+date: "2017-6-21"
 IsActive: True
 Section: software
 MinutesSpent: 10

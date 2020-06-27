@@ -1,7 +1,7 @@
 ---
 FallbackID: 2118
-Title: Silverlight 2.0 içerisinde Open File Dialog kullanımı
-PublishDate: 10/7/2008
+Title: "Silverlight 2.0 içerisinde Open File Dialog kullanımı"
+date: "2008-7-10"
 EntryID: Silverlight_2_0_icerisinde_Open_File_Dialog_kullanimi
 IsActive: True
 Section: software

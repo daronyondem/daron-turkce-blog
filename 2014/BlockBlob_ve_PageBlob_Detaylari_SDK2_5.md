@@ -1,7 +1,7 @@
 ---
 FallbackID: 2947
-Title: BlockBlob ve PageBlob Detayları (SDK2.5)
-PublishDate: 9/12/2014
+Title: "BlockBlob ve PageBlob Detayları (SDK2.5)"
+date: "2014-12-9"
 EntryID: BlockBlob_ve_PageBlob_Detaylari_SDK2_5
 IsActive: True
 Section: software

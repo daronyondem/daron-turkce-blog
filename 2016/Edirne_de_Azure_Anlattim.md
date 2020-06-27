@@ -1,7 +1,7 @@
 ---
 FallbackID: 3017
-Title: Edirne'de Azure Anlattım
-PublishDate: 23/4/2016
+Title: "Edirne'de Azure Anlattım"
+date: "2016-4-23"
 EntryID: Edirne_de_Azure_Anlattim
 IsActive: True
 Section: software

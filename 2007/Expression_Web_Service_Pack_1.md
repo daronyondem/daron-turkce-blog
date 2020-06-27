@@ -1,7 +1,7 @@
 ---
 FallbackID: 1888
-Title: Expression Web Service Pack 1
-PublishDate: 16/12/2007
+Title: "Expression Web Service Pack 1"
+date: "2007-12-16"
 EntryID: Expression_Web_Service_Pack_1
 IsActive: True
 Section: software

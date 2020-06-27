@@ -1,7 +1,7 @@
 ---
 FallbackID: 2148
-Title: INETA Summer Hit 2008 Video
-PublishDate: 8/8/2008
+Title: "INETA Summer Hit 2008 Video"
+date: "2008-8-8"
 EntryID: INETA_Summer_Hit_2008_Video
 IsActive: True
 Section: software

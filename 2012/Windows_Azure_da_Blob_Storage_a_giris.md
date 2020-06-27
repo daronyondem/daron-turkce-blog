@@ -1,14 +1,19 @@
 ---
 FallbackID: 2774
-Title: Windows Azure'da Blob Storage'a giriş
-PublishDate: 12/6/2012
+Title: "Windows Azure'da Blob Storage'a giriş"
+date: "2012-6-12"
 EntryID: Windows_Azure_da_Blob_Storage_a_giris
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Azure_Blob_Storage_giris_SDK2_5)bulabilirsiniz.]**Uzun süredir Azure yazılarında sürekli olarak :) uygulamamızın çalıştığı
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Azure_Blob_Storage_giris_SDK2_5)
+bulabilirsiniz.]**
+
+Uzun süredir Azure yazılarında sürekli olarak :) uygulamamızın çalıştığı
 sanal makinenin diskinin aslında kalıcı veri saklama alanı olarak
 kullanılamayacağından bahsediyorum. Nedenini sanırım bugüne kadar
 netleştirebilmişizdir :) Peki o zaman en basit haliyle kullanıcıdan

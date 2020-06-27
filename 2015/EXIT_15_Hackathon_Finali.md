@@ -1,7 +1,7 @@
 ---
 FallbackID: 2971
-Title: EXIT 15 Hackathon Finali
-PublishDate: 14/4/2015
+Title: "EXIT 15 Hackathon Finali"
+date: "2015-4-14"
 EntryID: EXIT_15_Hackathon_Finali
 IsActive: True
 Section: software

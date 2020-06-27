@@ -1,7 +1,7 @@
 ---
 FallbackID: 2196
-Title: Uygulamayı bilgisayarın ikinci ekranına nasıl iteriz? :)
-PublishDate: 25/9/2008
+Title: "Uygulamayı bilgisayarın ikinci ekranına nasıl iteriz?":)
+date: "2008-9-25"
 EntryID: Uygulamayi_bilgisayarin_ikinci_ekranina_nasil_iteriz
 IsActive: True
 Section: software

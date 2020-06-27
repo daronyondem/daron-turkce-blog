@@ -1,7 +1,7 @@
 ---
 FallbackID: 2131
-Title: INETA nedir? Ne yapar?
-PublishDate: 23/7/2008
+Title: "INETA nedir? Ne yapar?"
+date: "2008-7-23"
 EntryID: INETA_nedir_Ne_yapar
 IsActive: True
 Section: software

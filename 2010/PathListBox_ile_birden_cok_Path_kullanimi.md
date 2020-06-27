@@ -1,7 +1,7 @@
 ---
 FallbackID: 2537
-Title: PathListBox ile birden çok Path kullanımı.
-PublishDate: 7/9/2010
+Title: "PathListBox ile birden çok Path kullanımı."
+date: "2010-9-7"
 EntryID: PathListBox_ile_birden_cok_Path_kullanimi
 IsActive: True
 Section: software

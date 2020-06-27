@@ -1,7 +1,7 @@
 ---
 FallbackID: 2509
-Title: NedirTV 4. Yıl Dönümü Etkinliği
-PublishDate: 8/4/2010
+Title: "NedirTV 4. Yıl Dönümü Etkinliği"
+date: "2010-4-8"
 EntryID: NedirTV_4_Yil_Donumu_Etkinligi
 IsActive: True
 Section: software

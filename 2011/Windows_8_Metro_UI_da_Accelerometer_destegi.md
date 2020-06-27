@@ -1,7 +1,7 @@
 ---
 FallbackID: 2704
-Title: Windows 8 Metro UI'da Accelerometer desteği
-PublishDate: 21/9/2011
+Title: "Windows 8 Metro UI'da Accelerometer desteği"
+date: "2011-9-21"
 EntryID: Windows_8_Metro_UI_da_Accelerometer_destegi
 IsActive: True
 Section: software

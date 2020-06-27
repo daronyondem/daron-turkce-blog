@@ -1,7 +1,7 @@
 ---
 FallbackID: 2500
-Title: Bulgaristan MSDays Etkinliği, Sofya Üniversitesi Semineri sonrasında...
-PublishDate: 1/4/2010
+Title: "Bulgaristan MSDays Etkinliği, Sofya Üniversitesi Semineri sonrasında..."
+date: "2010-4-1"
 EntryID: Bulgaristan_MSDays_Etkinligi_Sofya_Universitesi_Semineri_sonrasinda
 IsActive: True
 Section: software

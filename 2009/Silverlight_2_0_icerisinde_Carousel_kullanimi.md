@@ -1,7 +1,7 @@
 ---
 FallbackID: 2296
-Title: Silverlight 2.0 içerisinde Carousel kullanımı.
-PublishDate: 4/1/2009
+Title: "Silverlight 2.0 içerisinde Carousel kullanımı."
+date: "2009-1-4"
 EntryID: Silverlight_2_0_icerisinde_Carousel_kullanimi
 IsActive: True
 Section: software

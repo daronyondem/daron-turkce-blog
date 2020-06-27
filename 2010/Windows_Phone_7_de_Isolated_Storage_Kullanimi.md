@@ -1,7 +1,7 @@
 ---
 FallbackID: 2519
-Title: Windows Phone 7'de Isolated Storage Kullanımı
-PublishDate: 5/5/2010
+Title: "Windows Phone 7'de Isolated Storage Kullanımı"
+date: "2010-5-5"
 EntryID: Windows_Phone_7_de_Isolated_Storage_Kullanimi
 IsActive: True
 Section: software

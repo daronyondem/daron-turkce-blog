@@ -1,7 +1,7 @@
 ---
 FallbackID: 1926
-Title: Visua Basic 2008 ve LINQ2XML için XML2Schema Aracı
-PublishDate: 21/1/2008
+Title: "Visua Basic 2008 ve LINQ2XML için XML2Schema Aracı"
+date: "2008-1-21"
 EntryID: Visua_Basic_2008_ve_LINQ2XML_icin_XML2Schema_Araci
 IsActive: True
 Section: software

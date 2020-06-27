@@ -1,7 +1,7 @@
 ---
 FallbackID: 2849
-Title: Build 2013 Gün 1 Özeti
-PublishDate: 27/6/2013
+Title: "Build 2013 Gün 1 Özeti"
+date: "2013-6-27"
 EntryID: Build_2013_Gun_1_Ozeti
 IsActive: True
 Section: software

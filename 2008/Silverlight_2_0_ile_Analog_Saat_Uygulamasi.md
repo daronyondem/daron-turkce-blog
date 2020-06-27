@@ -1,7 +1,7 @@
 ---
 FallbackID: 2102
-Title: Silverlight 2.0 ile Analog Saat Uygulaması
-PublishDate: 23/6/2008
+Title: "Silverlight 2.0 ile Analog Saat Uygulaması"
+date: "2008-6-23"
 EntryID: Silverlight_2_0_ile_Analog_Saat_Uygulamasi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2305
-Title: Bu hafta sonu INETA Week-End ile yavru vatandayız!
-PublishDate: 13/1/2009
+Title: "Bu hafta sonu INETA Week-End ile yavru vatandayız!"
+date: "2009-1-13"
 EntryID: Bu_hafta_sonu_INETA_Week-End_ile_yavru_vatandayiz
 IsActive: True
 Section: software

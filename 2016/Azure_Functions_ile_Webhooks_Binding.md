@@ -1,7 +1,7 @@
 ---
 FallbackID: 3044
-Title: Azure Functions ile Webhooks Binding
-PublishDate: 9/12/2016
+Title: "Azure Functions ile Webhooks Binding"
+date: "2016-12-9"
 EntryID: Azure_Functions_ile_Webhooks_Binding
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2269
-Title: WPF kontrollerinin görselliğini yazıcıya göndermek ;)
-PublishDate: 8/12/2008
+Title: "WPF kontrollerinin görselliğini yazıcıya göndermek ;)"
+date: "2008-12-8"
 EntryID: WPF_kontrollerinin_gorselligini_yaziciya_gondermek
 IsActive: True
 Section: software

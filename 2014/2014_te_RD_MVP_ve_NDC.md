@@ -1,7 +1,7 @@
 ---
 FallbackID: 2902
-Title: 2014'te RD, MVP ve NDC 
-PublishDate: 15/4/2014
+Title: "2014'te RD, MVP ve NDC"
+date: "2014-4-15"
 EntryID: 2014_te_RD_MVP_ve_NDC
 IsActive: True
 Section: software

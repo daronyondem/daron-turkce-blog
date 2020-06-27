@@ -1,7 +1,7 @@
 ---
 FallbackID: 2415
-Title: .NET Framework 4.0 ile Parallel Programlama
-PublishDate: 18/9/2009
+Title: ".NET Framework 4.0 ile Parallel Programlama"
+date: "2009-9-18"
 EntryID: NET_Framework_4_0_ile_Parallel_Programlama
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2861
-Title: Nike Fuelband İnceleme ve API Wrapper Source Code
-PublishDate: 18/10/2013
+Title: "Nike Fuelband İnceleme ve API Wrapper Source Code"
+date: "2013-10-18"
 EntryID: Nike_Fuelband_Inceleme_ve_API_Wrapper_Source_Code
 IsActive: True
 Section: software

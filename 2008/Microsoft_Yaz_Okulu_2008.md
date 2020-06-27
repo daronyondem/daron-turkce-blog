@@ -1,7 +1,7 @@
 ---
 FallbackID: 2034
-Title: Microsoft Yaz Okulu 2008
-PublishDate: 23/4/2008
+Title: "Microsoft Yaz Okulu 2008"
+date: "2008-4-23"
 EntryID: Microsoft_Yaz_Okulu_2008
 IsActive: True
 Section: software

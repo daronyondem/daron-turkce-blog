@@ -1,7 +1,7 @@
 ---
 FallbackID: 1999
-Title: Silverlight Eğitimi 2. Gün
-PublishDate: 24/3/2008
+Title: "Silverlight Eğitimi 2. Gün"
+date: "2008-3-24"
 EntryID: Silverlight_Egitimi_2_Gun
 IsActive: True
 Section: software

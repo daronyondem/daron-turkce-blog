@@ -1,7 +1,7 @@
 ---
 FallbackID: 2522
-Title: İzmir Visual Studio 2010 Lansmanı
-PublishDate: 8/5/2010
+Title: "İzmir Visual Studio 2010 Lansmanı"
+date: "2010-5-8"
 EntryID: Izmir_Visual_Studio_2010_Lansmani
 IsActive: True
 Section: software

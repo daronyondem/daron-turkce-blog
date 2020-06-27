@@ -1,7 +1,7 @@
 ---
 FallbackID: 3026
-Title: MSDN Flash Ağustos 2016 İçeriği
-PublishDate: 22/8/2016
+Title: "MSDN Flash Ağustos 2016 İçeriği"
+date: "2016-8-22"
 EntryID: MSDN_Flash_Agustos_2016_Icerigi
 IsActive: True
 Section: software

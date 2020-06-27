@@ -1,7 +1,7 @@
 ---
 FallbackID: 2181
-Title: Internet Explorer 8.0 ile beraber "Compatibility View" ve web sitelerinin uyumluluk ayarları.
-PublishDate: 10/9/2008
+Title: "Internet Explorer 8.0 ile beraber "Compatibility View" ve web sitelerinin uyumluluk ayarları."
+date: "2008-9-10"
 EntryID: Internet_Explorer_8_0_ile_beraber_Compatibility_View_ve_web_sitelerinin_uyumluluk_ayarlari_
 IsActive: True
 Section: software

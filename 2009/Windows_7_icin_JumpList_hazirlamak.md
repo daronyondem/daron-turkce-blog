@@ -1,7 +1,7 @@
 ---
 FallbackID: 2387
-Title: Windows 7 için JumpList hazırlamak.
-PublishDate: 13/8/2009
+Title: "Windows 7 için JumpList hazırlamak."
+date: "2009-8-13"
 EntryID: Windows_7_icin_JumpList_hazirlamak
 IsActive: True
 Section: software

@@ -1,14 +1,19 @@
 ---
 FallbackID: 2778
-Title: Azure SDK ile beraber gelen emülatörler ne ayak? :)
-PublishDate: 10/7/2012
+Title: "Azure SDK ile beraber gelen emülatörler ne ayak?":)
+date: "2012-7-10"
 EntryID: Azure_SDK_ile_beraber_gelen_emulatorler_ne_ayak
 IsActive: True
 Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
-**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygunşekilde güncellenmiş halini[burada](http://daron.yondem.com/software/post/Azure_SDK_2_5_ile_beraber_gelen_emulatorler)bulabilirsiniz.]**Azure SDK'yi yüklediğinizde makinenize iki farklı emülatör yükleniyor.
+**[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
+şekilde güncellenmiş halini
+[burada](http://daron.yondem.com/software/post/Azure_SDK_2_5_ile_beraber_gelen_emulatorler)
+bulabilirsiniz.]**
+
+Azure SDK'yi yüklediğinizde makinenize iki farklı emülatör yükleniyor.
 Bunlardan biri DevFabric de denilen Compute Emulator, yani uygulamanıza
 Azure ortamını yaşatan arkadaş, diğeri ise Storage Emulator, Azure
 Storage servislerini lokalde test etmemizi sağlayan araç. Her iki araca

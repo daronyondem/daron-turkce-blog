@@ -1,7 +1,7 @@
 ---
 FallbackID: 2325
-Title: Silverlight 2.0 için Update
-PublishDate: 19/2/2009
+Title: "Silverlight 2.0 için Update"
+date: "2009-2-19"
 EntryID: Silverlight_2_0_icin_Update
 IsActive: True
 Section: software

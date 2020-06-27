@@ -1,7 +1,7 @@
 ---
 FallbackID: 2110
-Title: Microsoft Istanbul'da Silverlight 2.0 ve WPF Eğitimi
-PublishDate: 2/7/2008
+Title: "Microsoft Istanbul'da Silverlight 2.0 ve WPF Eğitimi"
+date: "2008-7-2"
 EntryID: Microsoft_Istanbul_da_Silverlight_2_0_ve_WPF_Egitimi
 IsActive: True
 Section: software

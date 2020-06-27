@@ -1,7 +1,7 @@
 ---
 FallbackID: 2229
-Title: INETA Capital Hit Yolculuk Hatıra Videosu
-PublishDate: 27/10/2008
+Title: "INETA Capital Hit Yolculuk Hatıra Videosu"
+date: "2008-10-27"
 EntryID: INETA_Capital_Hit_Yolculuk_Hatira_Videosu
 IsActive: True
 Section: software

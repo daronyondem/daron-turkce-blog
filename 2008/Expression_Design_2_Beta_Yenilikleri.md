@@ -1,7 +1,7 @@
 ---
 FallbackID: 1997
-Title: Expression Design 2 Beta Yenilikleri
-PublishDate: 21/3/2008
+Title: "Expression Design 2 Beta Yenilikleri"
+date: "2008-3-21"
 EntryID: Expression_Design_2_Beta_Yenilikleri
 IsActive: True
 Section: software

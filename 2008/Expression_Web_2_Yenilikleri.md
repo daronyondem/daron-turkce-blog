@@ -1,7 +1,7 @@
 ---
 FallbackID: 2062
-Title: Expression Web 2 Yenilikleri
-PublishDate: 21/5/2008
+Title: "Expression Web 2 Yenilikleri"
+date: "2008-5-21"
 EntryID: Expression_Web_2_Yenilikleri
 IsActive: True
 Section: software

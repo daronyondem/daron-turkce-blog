@@ -1,7 +1,7 @@
 ---
 FallbackID: 1852
-Title: KoçAllianz Silverlight Eğitimi
-PublishDate: 18/11/2007
+Title: "KoçAllianz Silverlight Eğitimi"
+date: "2007-11-18"
 EntryID: KocAllianz_Silverlight_Egitimi
 IsActive: True
 Section: software

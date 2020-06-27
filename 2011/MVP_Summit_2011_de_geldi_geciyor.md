@@ -1,7 +1,7 @@
 ---
 FallbackID: 2551
-Title: MVP Summit 2011 de geldi geçiyor!
-PublishDate: 2/3/2011
+Title: "MVP Summit 2011 de geldi geçiyor!"
+date: "2011-3-2"
 EntryID: MVP_Summit_2011_de_geldi_geciyor
 IsActive: True
 Section: software

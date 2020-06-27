@@ -1,7 +1,7 @@
 ---
 FallbackID: 2786
-Title: Windows Azure'da Özel Domain Kullanımı
-PublishDate: 4/9/2012
+Title: "Windows Azure'da Özel Domain Kullanımı"
+date: "2012-9-4"
 EntryID: Windows_Azure_da_Ozel_Domain_Kullanimi
 IsActive: True
 Section: software

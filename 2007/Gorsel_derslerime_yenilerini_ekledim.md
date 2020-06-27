@@ -1,7 +1,7 @@
 ---
 FallbackID: 1766
-Title: Görsel derslerime yenilerini ekledim.
-PublishDate: 29/8/2007
+Title: "Görsel derslerime yenilerini ekledim."
+date: "2007-8-29"
 EntryID: Gorsel_derslerime_yenilerini_ekledim
 IsActive: True
 Section: software

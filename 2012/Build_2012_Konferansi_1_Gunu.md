@@ -1,7 +1,7 @@
 ---
 FallbackID: 2825
-Title: Build 2012 Konferansı 1. Günü Giik.FM Podcast'i ve detaylar
-PublishDate: 30/10/2012
+Title: "Build 2012 Konferansı 1. Günü Giik.FM Podcast'i ve detaylar"
+date: "2012-10-30"
 EntryID: Build_2012_Konferansi_1_Gunu
 IsActive: True
 Section: software

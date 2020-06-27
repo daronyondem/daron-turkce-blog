@@ -1,7 +1,7 @@
 ---
 FallbackID: 2473
-Title: Silverlight 4 Beta içerisinde WebCam erişimi - Görsel Ders
-PublishDate: 11/12/2009
+Title: "Silverlight 4 Beta içerisinde WebCam erişimi - Görsel Ders"
+date: "2009-12-11"
 EntryID: Silverlight_4_Beta_icerisinde_WebCam_erisimi_Gorsel_Ders
 IsActive: True
 Section: software

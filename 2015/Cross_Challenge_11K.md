@@ -1,7 +1,7 @@
 ---
 FallbackID: 2955
-Title: Cross Challenge 11K
-PublishDate: 23/2/2015
+Title: "Cross Challenge 11K"
+date: "2015-2-23"
 EntryID: Cross_Challenge_11K
 IsActive: True
 Section: fitness
@@ -25,7 +25,8 @@ Organizasyon anlamında AntrenmanYap ekibi yine süper bir iş çıkardı. Bu ka
 
 ![Sucuk!](media/Cross_Challenge_11K/cross_3.jpg)
 
-Yarış bitiminde sponsorun dağıttığı sucuk :) süperdi. Ama yarış sonunda muz olmaması da beni düşündürdü. Sadece geleneksel yarış sonu meyvesi olduğu için değil tabi ki :) merak ettiğim yarışa katılan vejeteryenler tek ikramın sucuk olması hakkında ne düşündüler acaba? :) Ben artık yarışlara yanımda muz vs götürmüyorum. Oysa bu beklentinin yanlış olduğunu anladım. Bazen elma da dağıtıldığı oluyor ki bence besin içeriği açısından muz daha doğru bir seçim. Etkinlikle ilgili ince detaylara takılacak olursam ikinci eleştirim de bu muz eksiği konusu olabilir :)
+Yarış bitiminde sponsorun dağıttığı sucuk :) süperdi. Ama yarış sonunda muz olmaması da beni düşündürdü. Sadece geleneksel yarış sonu meyvesi olduğu için değil tabi ki :) merak ettiğim yarışa katılan vejeteryenler tek ikramın sucuk olması hakkında ne düşündüler acaba? :) Ben artık yarışlara yanımda muz vs götürmüyorum. Oysa bu beklentinin yanlış olduğunu anladım. Bazen elma da dağıtıldığı oluyor ki bence besin içeriği açısından muz daha doğru bir seçim. Etkinlikle ilgili ince detaylara takılacak olursam ikinci eleştirim de bu muz eksiği konusu olabilir :)
+
 ![Madalyayı kaptım!](media/Cross_Challenge_11K/cross_4.jpg)
 
 Sonuç olarak süper bir yarıştı. Ben inanılmaz zevk aldım :) Umarım bu parkurda daha çok yarış organizasyonu yapılır. Son olarak bir eleştiri daha kondurmadan edemeyeceğim :) Etkinlik madalyalarında "tarih" olmamasını daha önceki yarış değerlendirmelerimde paylaşmıştım. AntrenmanYap tarih konusunu atlamamış ama bu sefer de mesafe yok :) Bu madalyaya 10 sene sonra baktığımda kaç KM koştum belli değil :) Böyle giderse yarış organizasyonları ile ilgili bir checklist yapacağım organizasyon yapanlar için :) Madalyada, mesafe, tarih, koşunun adı olmalı. Benden söylemesi!

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2125
-Title: Expression Web 2 ve PHP desteğine dair ayarlar.
-PublishDate: 17/7/2008
+Title: "Expression Web 2 ve PHP desteğine dair ayarlar."
+date: "2008-7-17"
 EntryID: Expression_Web_2_ve_PHP_destegine_dair_ayarlar
 IsActive: True
 Section: software

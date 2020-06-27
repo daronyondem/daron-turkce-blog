@@ -1,7 +1,7 @@
 ---
 FallbackID: 1839
-Title: .NET Framework sürümleri arasındaki farklar ve sürpriz poster :)
-PublishDate: 6/11/2007
+Title: ".NET Framework sürümleri arasındaki farklar ve sürpriz poster":)
+date: "2007-11-6"
 EntryID: NET_Framework_surumleri_arasindaki_farklar_ve_surpriz_poster
 IsActive: True
 Section: software

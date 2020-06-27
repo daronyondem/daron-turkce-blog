@@ -1,7 +1,7 @@
 ---
 FallbackID: 2186
-Title: Internet Explorer 8.0 için Search Provider ve Search Suggestions sistemlerini hazırlamak.
-PublishDate: 15/9/2008
+Title: "Internet Explorer 8.0 için Search Provider ve Search Suggestions sistemlerini hazırlamak."
+date: "2008-9-15"
 EntryID: Internet_Explorer_8_0_icin_Search_Provider_ve_Search_Suggestions_sistemlerini_hazirlamak
 IsActive: True
 Section: software

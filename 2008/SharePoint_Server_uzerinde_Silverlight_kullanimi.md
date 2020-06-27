@@ -1,7 +1,7 @@
 ---
 FallbackID: 2022
-Title: SharePoint Server üzerinde Silverlight kullanımı.
-PublishDate: 13/4/2008
+Title: "SharePoint Server üzerinde Silverlight kullanımı."
+date: "2008-4-13"
 EntryID: SharePoint_Server_uzerinde_Silverlight_kullanimi
 IsActive: True
 Section: software

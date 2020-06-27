@@ -1,7 +1,7 @@
 ---
 FallbackID: 2264
-Title: Silverlight ile Vista Gadget hazırlamak süper!
-PublishDate: 3/12/2008
+Title: "Silverlight ile Vista Gadget hazırlamak süper!"
+date: "2008-12-3"
 EntryID: Silverlight_ile_Vista_Gadget_hazirlamak_super
 IsActive: True
 Section: software

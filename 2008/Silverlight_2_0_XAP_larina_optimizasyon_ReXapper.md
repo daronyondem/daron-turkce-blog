@@ -1,7 +1,7 @@
 ---
 FallbackID: 2236
-Title: Silverlight 2.0 XAP'larına optimizasyon: ReXapper!
-PublishDate: 4/11/2008
+Title: "Silverlight 2.0 XAP'larına optimizasyon": ReXapper!
+date: "2008-11-4"
 EntryID: Silverlight_2_0_XAP_larina_optimizasyon_ReXapper
 IsActive: True
 Section: software

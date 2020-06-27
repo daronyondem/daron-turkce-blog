@@ -1,7 +1,7 @@
 ---
 FallbackID: 2202
-Title: Debug modunda XML değişkenlerini incelemek için gelişmiş XML Visualizer
-PublishDate: 1/10/2008
+Title: "Debug modunda XML değişkenlerini incelemek için gelişmiş XML Visualizer"
+date: "2008-10-1"
 EntryID: Debug_modunda_XML_degiskenlerini_incelemek_icin_gelismis_XML_Visualizer
 IsActive: True
 Section: software

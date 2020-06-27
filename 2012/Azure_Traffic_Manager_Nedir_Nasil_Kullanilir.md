@@ -1,7 +1,7 @@
 ---
 FallbackID: 2822
-Title: Azure Traffic Manager Nedir? Nasıl Kullanılır?
-PublishDate: 9/10/2012
+Title: "Azure Traffic Manager Nedir? Nasıl Kullanılır?"
+date: "2012-10-9"
 EntryID: Azure_Traffic_Manager_Nedir_Nasil_Kullanilir
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1981
-Title: Silverlight 2.0 Beta 1 ve Expression Blend 2.5 yayında.
-PublishDate: 6/3/2008
+Title: "Silverlight 2.0 Beta 1 ve Expression Blend 2.5 yayında."
+date: "2008-3-6"
 EntryID: Silverlight_2_0_Beta_1_ve_Expression_Blend_2_5_yayinda
 IsActive: True
 Section: software

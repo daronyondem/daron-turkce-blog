@@ -1,7 +1,7 @@
 ---
 FallbackID: 1764
-Title: Live Search XML Web Servisleri'ni Kullanarak Kendi Arama Motorunuzu Yaratın
-PublishDate: 28/8/2007
+Title: "Live Search XML Web Servisleri'ni Kullanarak Kendi Arama Motorunuzu Yaratın"
+date: "2007-8-28"
 EntryID: Live_Search_XML_Web_Servislerini_Kullanarak_Kendi_Arama_Motorunuzu_Yaratin
 IsActive: True
 Section: software

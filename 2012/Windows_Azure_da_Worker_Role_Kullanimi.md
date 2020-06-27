@@ -1,7 +1,7 @@
 ---
 FallbackID: 2788
-Title: Windows Azure'da Worker Role Kullanımı
-PublishDate: 18/9/2012
+Title: "Windows Azure'da Worker Role Kullanımı"
+date: "2012-9-18"
 EntryID: Windows_Azure_da_Worker_Role_Kullanimi
 IsActive: True
 Section: software

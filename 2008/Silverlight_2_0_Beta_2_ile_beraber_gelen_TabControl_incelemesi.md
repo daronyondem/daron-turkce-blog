@@ -1,7 +1,7 @@
 ---
 FallbackID: 2081
-Title: Silverlight 2.0 Beta 2 ile beraber gelen TabControl incelemesi
-PublishDate: 9/6/2008
+Title: "Silverlight 2.0 Beta 2 ile beraber gelen TabControl incelemesi"
+date: "2008-6-9"
 EntryID: Silverlight_2_0_Beta_2_ile_beraber_gelen_TabControl_incelemesi
 IsActive: True
 Section: software

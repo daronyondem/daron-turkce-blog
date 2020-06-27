@@ -1,7 +1,7 @@
 ---
 FallbackID: 2283
-Title: Bir SilverNight geçti...
-PublishDate: 21/12/2008
+Title: "Bir SilverNight geçti..."
+date: "2008-12-21"
 EntryID: Bir_SilverNight_gecti
 IsActive: True
 Section: software

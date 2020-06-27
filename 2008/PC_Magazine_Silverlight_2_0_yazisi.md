@@ -1,7 +1,7 @@
 ---
 FallbackID: 2140
-Title: PC Magazine Silverlight 2.0 yazısı
-PublishDate: 31/7/2008
+Title: "PC Magazine Silverlight 2.0 yazısı"
+date: "2008-7-31"
 EntryID: PC_Magazine_Silverlight_2_0_yazisi
 IsActive: True
 Section: software

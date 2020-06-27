@@ -1,7 +1,7 @@
 ---
 FallbackID: 2962
-Title: Sivas Cumhuriyet Üniversitesi Ziyaretim
-PublishDate: 21/3/2015
+Title: "Sivas Cumhuriyet Üniversitesi Ziyaretim"
+date: "2015-3-21"
 EntryID: Sivas_Cumhuriyet_Universitesi_Ziyaretim
 IsActive: True
 Section: software

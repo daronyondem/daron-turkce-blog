@@ -1,7 +1,7 @@
 ---
 FallbackID: 2328
-Title: Silverlight 2.0 için özel ön yükleme ekranları geliştirmek. (PreLoader)
-PublishDate: 25/2/2009
+Title: "Silverlight 2.0 için özel ön yükleme ekranları geliştirmek. (PreLoader)"
+date: "2009-2-25"
 EntryID: Silverlight_2_0_icin_ozel_on_yukleme_ekranlari_gelistirmek_PreLoader
 IsActive: True
 Section: software

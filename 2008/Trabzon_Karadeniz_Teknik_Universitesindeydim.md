@@ -1,7 +1,7 @@
 ---
 FallbackID: 2260
-Title: Trabzon, Karadeniz Teknik Üniversitesi'ndeydim.
-PublishDate: 28/11/2008
+Title: "Trabzon, Karadeniz Teknik Üniversitesi'ndeydim."
+date: "2008-11-28"
 EntryID: Trabzon_Karadeniz_Teknik_Universitesindeydim
 IsActive: True
 Section: software

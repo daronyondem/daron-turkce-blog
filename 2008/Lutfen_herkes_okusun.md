@@ -1,7 +1,7 @@
 ---
 FallbackID: 1938
-Title: Lütfen herkes okusun!
-PublishDate: 1/2/2008
+Title: "Lütfen herkes okusun!"
+date: "2008-2-1"
 EntryID: Lutfen_herkes_okusun
 IsActive: True
 Section: software

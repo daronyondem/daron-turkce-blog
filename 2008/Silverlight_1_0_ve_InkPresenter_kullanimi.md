@@ -1,7 +1,7 @@
 ---
 FallbackID: 1933
-Title: Silverlight 1.0 ve InkPresenter kullanımı
-PublishDate: 28/1/2008
+Title: "Silverlight 1.0 ve InkPresenter kullanımı"
+date: "2008-1-28"
 EntryID: Silverlight_1_0_ve_InkPresenter_kullanimi
 IsActive: True
 Section: software

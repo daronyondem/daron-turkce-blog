@@ -1,7 +1,7 @@
 ---
 FallbackID: 1741
-Title: Mayasoft Ders Uygulama Dosyaları
-PublishDate: 9/5/2007
+Title: "Mayasoft Ders Uygulama Dosyaları"
+date: "2007-5-9"
 EntryID: Mayasoft_Ders_Uygulama_Dosyalari-5
 IsActive: True
 Section: software

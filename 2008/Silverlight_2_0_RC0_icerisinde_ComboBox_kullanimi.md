@@ -1,7 +1,7 @@
 ---
 FallbackID: 2204
-Title: Silverlight 2.0 RC0 içerisinde ComboBox kullanımı.
-PublishDate: 3/10/2008
+Title: "Silverlight 2.0 RC0 içerisinde ComboBox kullanımı."
+date: "2008-10-3"
 EntryID: Silverlight_2_0_RC0_icerisinde_ComboBox_kullanimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2979
-Title: Yeni Blob tipimiz hayırlı olsun: AppendBlob
-PublishDate: 2/9/2015
+Title: "Yeni Blob tipimiz hayırlı olsun": AppendBlob
+date: "2015-9-2"
 EntryID: Yeni_Blob_tipimiz_hayirli_olsun_AppendBlob
 IsActive: True
 Section: software
@@ -17,7 +17,9 @@ Genel olarak blob tiplerini şöyle hızlıca hatırlayacak olursak;
 Tüm bu manzarayı göz önüne aldığınızda AppendBlob'lar özellikle loglama amaçlı kullanım için tasarlanmış gibi durabilir. Bana da sorarsanız durum bundan ibaret :) BlockBlob'lardan farklı olarak bir **AppendBlob** içerisine gönderdiğiniz bir block'u silemezsiniz, değiştiremezsiniz. Zaten gönderdiğiniz bir block'a karşılığı BlockBlob'da olduğu gibi size bir BlockID de verilmiyor. Yine özellikle BlockBlob ile karşılaştıracak olursak ilginç farklılıklardan biri de AppendBlob'a gönderilen her Block'un boyutunun birbirinden farklı olabileceği. Bu esneklik içerisinde bir Block en büyük 4MB olabilir ve bir AppendBlob'da azami 50.000 Block bulunabiliyor. Buradan kaba bir hesapla bir AppendBlob'un en büyük 195GB olabileceğini kestirmek zor değil :) Bu rakam PageBlob'larda 1TB.
 
 Basit hali ile bir FileUpload örneği yapacak olursak Azure Storage SDK sayesinde işimiz pek de zor değil esasen. Tek yapmamız gereken kullandığımız blob tipini değiştirmek.
-**[C\#]**```cs
+
+**[C\#]**
+```cs
 CloudAppendBlob appendThis = container.GetAppendBlobReference(ImageToUpload);
 await appendThis.UploadFromFileAsync(ImageToUpload, FileMode.Open);
 ```

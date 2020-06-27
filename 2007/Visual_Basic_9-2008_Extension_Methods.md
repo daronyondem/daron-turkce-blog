@@ -1,7 +1,7 @@
 ---
 FallbackID: 1879
-Title: Visual Basic 9.0 (2008) Extension Methods
-PublishDate: 10/12/2007
+Title: "Visual Basic 9.0 (2008) Extension Methods"
+date: "2007-12-10"
 EntryID: Visual_Basic_9-2008_Extension_Methods
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2184
-Title: Internet Explorer 8.0 ve dahili JSON işlemleri
-PublishDate: 13/9/2008
+Title: "Internet Explorer 8.0 ve dahili JSON işlemleri"
+date: "2008-9-13"
 EntryID: Internet_Explorer_8_0_ve_dahili_JSON_islemleri
 IsActive: True
 Section: software

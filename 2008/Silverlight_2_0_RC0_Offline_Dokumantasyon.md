@@ -1,7 +1,7 @@
 ---
 FallbackID: 2211
-Title: Silverlight 2.0 RC0 Offline Dokümantasyon
-PublishDate: 10/10/2008
+Title: "Silverlight 2.0 RC0 Offline Dokümantasyon"
+date: "2008-10-10"
 EntryID: Silverlight_2_0_RC0_Offline_Dokumantasyon
 IsActive: True
 Section: software

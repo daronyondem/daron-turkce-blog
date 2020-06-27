@@ -1,7 +1,7 @@
 ---
 FallbackID: 2728
-Title: Omnia 7'ye Internet Sharing
-PublishDate: 17/11/2011
+Title: "Omnia 7'ye Internet Sharing"
+date: "2011-11-17"
 EntryID: Omnia_7_Internet_Sharing
 IsActive: True
 Section: software

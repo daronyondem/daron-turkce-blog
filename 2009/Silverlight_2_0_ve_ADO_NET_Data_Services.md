@@ -1,7 +1,7 @@
 ---
 FallbackID: 2303
-Title: Silverlight 2.0 ve ADO.NET Data Services
-PublishDate: 10/1/2009
+Title: "Silverlight 2.0 ve ADO.NET Data Services"
+date: "2009-1-10"
 EntryID: Silverlight_2_0_ve_ADO_NET_Data_Services
 IsActive: True
 Section: software

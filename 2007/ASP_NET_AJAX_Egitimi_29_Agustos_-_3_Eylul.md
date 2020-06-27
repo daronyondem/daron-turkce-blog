@@ -1,7 +1,7 @@
 ---
 FallbackID: 1765
-Title: ASP.NET AJAX Eğitimi 29 Ağustos - 3 Eylül
-PublishDate: 28/8/2007
+Title: "ASP.NET AJAX Eğitimi 29 Ağustos - 3 Eylül"
+date: "2007-8-28"
 EntryID: ASP_NET_AJAX_Egitimi_29_Agustos_-_3_Eylul
 IsActive: True
 Section: software

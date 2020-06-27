@@ -1,7 +1,7 @@
 ---
 FallbackID: 2293
-Title: Herkese yeni yıl hediyesi : Silverlight 2.0 E-Kart
-PublishDate: 1/1/2009
+Title: "Herkese yeni yıl hediyesi": Silverlight 2.0 E-Kart
+date: "2009-1-1"
 EntryID: Herkese_yeni_yil_hediyesi_Silverlight_2_0_E-Kart
 IsActive: True
 Section: software

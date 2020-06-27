@@ -1,7 +1,7 @@
 ---
 FallbackID: 1982
-Title: Expression Studio 2 Beta'ları yayında.
-PublishDate: 7/3/2008
+Title: "Expression Studio 2 Beta'ları yayında."
+date: "2008-3-7"
 EntryID: Expression_Studio_2_Beta_lari_yayinda
 IsActive: True
 Section: software

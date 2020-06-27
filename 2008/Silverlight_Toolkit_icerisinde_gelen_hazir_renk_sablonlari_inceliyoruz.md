@@ -1,7 +1,7 @@
 ---
 FallbackID: 2238
-Title: Silverlight Toolkit içerisinde gelen hazır renk şablonları (Thema) inceliyoruz.
-PublishDate: 6/11/2008
+Title: "Silverlight Toolkit içerisinde gelen hazır renk şablonları (Thema) inceliyoruz."
+date: "2008-11-6"
 EntryID: Silverlight_Toolkit_icerisinde_gelen_hazir_renk_sablonlari_inceliyoruz
 IsActive: True
 Section: software

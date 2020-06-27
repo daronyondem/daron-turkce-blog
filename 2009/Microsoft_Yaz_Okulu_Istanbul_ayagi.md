@@ -1,7 +1,7 @@
 ---
 FallbackID: 2386
-Title: Microsoft Yaz Okulu, İstanbul ayağı...
-PublishDate: 12/8/2009
+Title: "Microsoft Yaz Okulu, İstanbul ayağı..."
+date: "2009-8-12"
 EntryID: Microsoft_Yaz_Okulu_Istanbul_ayagi
 IsActive: True
 Section: software

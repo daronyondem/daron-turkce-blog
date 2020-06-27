@@ -1,7 +1,7 @@
 ---
 FallbackID: 2696
-Title: Sanal Android ile site testi
-PublishDate: 13/9/2011
+Title: "Sanal Android ile site testi"
+date: "2011-9-13"
 EntryID: Sanal_Android_ile_site_testi
 IsActive: True
 Section: software

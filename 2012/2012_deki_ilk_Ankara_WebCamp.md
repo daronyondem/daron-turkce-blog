@@ -1,7 +1,7 @@
 ---
 FallbackID: 2754
-Title: 2012'deki ilk Ankara WebCamp
-PublishDate: 27/1/2012
+Title: "2012'deki ilk Ankara WebCamp"
+date: "2012-1-27"
 EntryID: 2012_deki_ilk_Ankara_WebCamp
 IsActive: True
 Section: software

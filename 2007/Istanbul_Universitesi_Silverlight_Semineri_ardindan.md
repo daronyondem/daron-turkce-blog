@@ -1,7 +1,7 @@
 ---
 FallbackID: 1881
-Title: İstanbul Üniversitesi Silverlight Semineri ardından.
-PublishDate: 12/12/2007
+Title: "İstanbul Üniversitesi Silverlight Semineri ardından."
+date: "2007-12-12"
 EntryID: Istanbul_Universitesi_Silverlight_Semineri_ardindan
 IsActive: True
 Section: software

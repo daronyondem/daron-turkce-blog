@@ -1,7 +1,7 @@
 ---
 FallbackID: 2244
-Title: Hazır WPF Temaları
-PublishDate: 11/11/2008
+Title: "Hazır WPF Temaları"
+date: "2008-11-11"
 EntryID: Hazir_WPF_Temalari
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2082
-Title: Karşınızda İbrahim Yöndem! :) Alkış?
-PublishDate: 10/6/2008
+Title: "Karşınızda İbrahim Yöndem!":) Alkış?
+date: "2008-6-10"
 EntryID: Karsinizda_Ibrahim_Yondem_Alkis
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2344
-Title: Klavyenin ucunda Kahire var...
-PublishDate: 3/4/2009
+Title: "Klavyenin ucunda Kahire var..."
+date: "2009-4-3"
 EntryID: Klavyenin_ucunda_Kahire_var
 IsActive: True
 Section: software

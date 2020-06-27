@@ -1,7 +1,7 @@
 ---
 FallbackID: 2893
-Title: Windows Phone'da Background Task'lardan PeriodicTask
-PublishDate: 12/3/2014
+Title: "Windows Phone'da Background Task'lardan PeriodicTask"
+date: "2014-3-12"
 EntryID: Windows_Phone_Background_Task_PeriodicTask
 IsActive: True
 Section: software

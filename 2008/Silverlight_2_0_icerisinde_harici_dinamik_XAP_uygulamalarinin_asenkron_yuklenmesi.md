@@ -1,7 +1,7 @@
 ---
 FallbackID: 2111
-Title: Silverlight 2.0 içerisinde harici dinamik XAP (Silverlight 2.0) uygulamalarının asenkron yüklenmesi.
-PublishDate: 2/7/2008
+Title: "Silverlight 2.0 içerisinde harici dinamik XAP (Silverlight 2.0) uygulamalarının asenkron yüklenmesi."
+date: "2008-7-2"
 EntryID: Silverlight_2_0_icerisinde_harici_dinamik_XAP_uygulamalarinin_asenkron_yuklenmesi
 IsActive: True
 Section: software

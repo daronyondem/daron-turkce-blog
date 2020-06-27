@@ -1,7 +1,7 @@
 ---
 FallbackID: 1793
-Title: Blogumdaki ilk Silverlight :)
-PublishDate: 26/9/2007
+Title: "Blogumdaki ilk Silverlight":)
+date: "2007-9-26"
 EntryID: Blogumdaki_ilk_Silverlight
 IsActive: True
 Section: software

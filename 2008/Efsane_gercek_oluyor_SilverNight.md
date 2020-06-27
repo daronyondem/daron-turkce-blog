@@ -1,7 +1,7 @@
 ---
 FallbackID: 2259
-Title: Efsane gerçek oluyor: SilverNight!
-PublishDate: 27/11/2008
+Title: "Efsane gerçek oluyor": SilverNight!
+date: "2008-11-27"
 EntryID: Efsane_gercek_oluyor_SilverNight
 IsActive: True
 Section: software

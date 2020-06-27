@@ -1,7 +1,7 @@
 ---
 FallbackID: 2560
-Title: Open in Expression Blend Silverlight 5 Sorunu
-PublishDate: 17/4/2011
+Title: "Open in Expression Blend Silverlight 5 Sorunu"
+date: "2011-4-17"
 EntryID: Open_in_Expression_Blend_Silverlight_5_Sorunu
 IsActive: True
 Section: software

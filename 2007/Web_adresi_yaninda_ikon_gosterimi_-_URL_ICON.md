@@ -1,7 +1,7 @@
 ---
 FallbackID: 1723
-Title: Web adresi yanında ikon gösterimi - URL ICON
-PublishDate: 8/4/2007
+Title: "Web adresi yanında ikon gösterimi - URL ICON"
+date: "2007-4-8"
 EntryID: Web_adresi_yaninda_ikon_gosterimi_-_URL_ICON
 IsActive: True
 Section: software

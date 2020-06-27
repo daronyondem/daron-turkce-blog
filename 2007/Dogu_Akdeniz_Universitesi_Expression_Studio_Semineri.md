@@ -1,7 +1,7 @@
 ---
 FallbackID: 1902
-Title: Doğu Akdeniz Üniversitesi Expression Studio Semineri
-PublishDate: 30/12/2007
+Title: "Doğu Akdeniz Üniversitesi Expression Studio Semineri"
+date: "2007-12-30"
 EntryID: Dogu_Akdeniz_Universitesi_Expression_Studio_Semineri
 IsActive: True
 Section: software

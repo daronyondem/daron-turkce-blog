@@ -1,6 +1,6 @@
 ---
-Title: Teknolot Meetup Grubu
-PublishDate: 11/10/2018
+Title: "Teknolot Meetup Grubu"
+date: "2018-10-11"
 IsActive: True
 MinutesSpent: 27
 Tags: Meetup, Teknolot

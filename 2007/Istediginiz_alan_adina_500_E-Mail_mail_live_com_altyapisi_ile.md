@@ -1,7 +1,7 @@
 ---
 FallbackID: 1894
-Title: İstediğiniz alan adına 500 E-Mail mail.live.com altyapısı ile...
-PublishDate: 23/12/2007
+Title: "İstediğiniz alan adına 500 E-Mail mail.live.com altyapısı ile..."
+date: "2007-12-23"
 EntryID: Istediginiz_alan_adina_500_E-Mail_mail_live_com_altyapisi_ile
 IsActive: True
 Section: software

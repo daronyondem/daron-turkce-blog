@@ -1,7 +1,7 @@
 ---
 FallbackID: 1796
-Title: PCnet Ekim Sayısı
-PublishDate: 2/10/2007
+Title: "PCnet Ekim Sayısı"
+date: "2007-10-2"
 EntryID: PCnet_Ekim_Sayisi
 IsActive: True
 Section: software

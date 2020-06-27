@@ -1,7 +1,7 @@
 ---
 FallbackID: 2096
-Title: Silverlight 2.0 kontrollerinin varsayılan görselliklerine ait XAML kodları
-PublishDate: 18/6/2008
+Title: "Silverlight 2.0 kontrollerinin varsayılan görselliklerine ait XAML kodları"
+date: "2008-6-18"
 EntryID: Silverlight_2_0_kontrollerinin_varsayilan_gorselliklerine_ait_XAML_kodlari
 IsActive: True
 Section: software

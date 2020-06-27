@@ -1,7 +1,7 @@
 ---
 FallbackID: 3012
-Title: Imagine Cup 2016 Türkiye Finali
-PublishDate: 15/4/2016
+Title: "Imagine Cup 2016 Türkiye Finali"
+date: "2016-4-15"
 EntryID: Imagine_Cup_2016_Turkiye_Finali
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2072
-Title: ASP.NET ve Culture ayarları
-PublishDate: 31/5/2008
+Title: "ASP.NET ve Culture ayarları"
+date: "2008-5-31"
 EntryID: ASP_NET_ve_Culture_ayarlari
 IsActive: True
 Section: software

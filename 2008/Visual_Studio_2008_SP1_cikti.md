@@ -1,7 +1,7 @@
 ---
 FallbackID: 2150
-Title: Visual Studio 2008 SP1 çıktı!
-PublishDate: 10/8/2008
+Title: "Visual Studio 2008 SP1 çıktı!"
+date: "2008-8-10"
 EntryID: Visual_Studio_2008_SP1_cikti
 IsActive: True
 Section: software

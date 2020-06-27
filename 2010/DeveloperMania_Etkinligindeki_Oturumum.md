@@ -1,7 +1,7 @@
 ---
 FallbackID: 2499
-Title: DeveloperMania Etkinliğindeki Oturumum
-PublishDate: 29/3/2010
+Title: "DeveloperMania Etkinliğindeki Oturumum"
+date: "2010-3-29"
 EntryID: DeveloperMania_Etkinligindeki_Oturumum
 IsActive: True
 Section: software

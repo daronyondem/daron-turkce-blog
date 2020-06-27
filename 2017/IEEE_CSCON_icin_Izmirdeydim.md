@@ -1,7 +1,7 @@
 ---
 FallbackID: 3057
-Title: IEEE CSCON için İzmirdeydim.
-PublishDate: 26/3/2017
+Title: "IEEE CSCON için İzmirdeydim."
+date: "2017-3-26"
 EntryID: IEEE_CSCON_icin_Izmirdeydim
 IsActive: True
 Section: software

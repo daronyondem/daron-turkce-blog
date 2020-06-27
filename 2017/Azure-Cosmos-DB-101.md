@@ -1,6 +1,6 @@
 ---
-Title: Azure Cosmos DB Nedir?
-PublishDate: 18/6/2017
+Title: "Azure Cosmos DB Nedir?"
+date: "2017-6-18"
 IsActive: True
 Section: software
 MinutesSpent: 105

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2699
-Title: İlk Windows 8 HTML5 Metro Uygulamamız
-PublishDate: 16/9/2011
+Title: "İlk Windows 8 HTML5 Metro Uygulamamız"
+date: "2011-9-16"
 EntryID: Ilk_Windows_8_HTML5_Metro_Uygulamamiz
 IsActive: True
 Section: software

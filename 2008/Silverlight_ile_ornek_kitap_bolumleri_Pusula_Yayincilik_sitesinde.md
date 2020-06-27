@@ -1,7 +1,7 @@
 ---
 FallbackID: 1923
-Title: Silverlight ile örnek kitap bölümleri Pusula Yayıncılık sitesinde.
-PublishDate: 18/1/2008
+Title: "Silverlight ile örnek kitap bölümleri Pusula Yayıncılık sitesinde."
+date: "2008-1-18"
 EntryID: Silverlight_ile_ornek_kitap_bolumleri_Pusula_Yayincilik_sitesinde
 IsActive: True
 Section: software

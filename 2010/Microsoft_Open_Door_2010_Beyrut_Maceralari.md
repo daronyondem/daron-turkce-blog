@@ -1,7 +1,7 @@
 ---
 FallbackID: 2538
-Title: Microsoft Open Door 2010, Beyrut Maceraları
-PublishDate: 8/10/2010
+Title: "Microsoft Open Door 2010, Beyrut Maceraları"
+date: "2010-10-8"
 EntryID: Microsoft_Open_Door_2010_Beyrut_Maceralari
 IsActive: True
 Section: software

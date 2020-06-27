@@ -1,6 +1,6 @@
 ---
-Title: Azure Event Grid için Kendi Publisher ve Handler'ınızı Yazın
-PublishDate: 16/2/2018
+Title: "Azure Event Grid için Kendi Publisher ve Handler'ınızı Yazın"
+date: "2018-2-16"
 IsActive: True
 MinutesSpent: 158
 Tags: Azure Event Grid, Eventing

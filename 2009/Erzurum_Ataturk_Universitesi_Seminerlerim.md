@@ -1,7 +1,7 @@
 ---
 FallbackID: 2329
-Title: Erzurum, Atatürk Üniversitesi Seminerlerim
-PublishDate: 28/2/2009
+Title: "Erzurum, Atatürk Üniversitesi Seminerlerim"
+date: "2009-2-28"
 EntryID: Erzurum_Ataturk_Universitesi_Seminerlerim
 IsActive: True
 Section: software

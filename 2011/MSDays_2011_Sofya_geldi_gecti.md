@@ -1,7 +1,7 @@
 ---
 FallbackID: 2556
-Title: MSDays 2011 Sofya geldi geçti :)
-PublishDate: 4/4/2011
+Title: "MSDays 2011 Sofya geldi geçti":)
+date: "2011-4-4"
 EntryID: MSDays_2011_Sofya_geldi_gecti
 IsActive: True
 Section: software

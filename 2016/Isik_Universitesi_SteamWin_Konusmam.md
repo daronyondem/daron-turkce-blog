@@ -1,7 +1,7 @@
 ---
 FallbackID: 3029
-Title: Işık Üniversitesi SteamWin Konuşmam
-PublishDate: 4/11/2016
+Title: "Işık Üniversitesi SteamWin Konuşmam"
+date: "2016-11-4"
 EntryID: Isik_Universitesi_SteamWin_Konusmam
 IsActive: True
 Section: software

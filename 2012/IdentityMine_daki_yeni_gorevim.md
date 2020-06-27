@@ -1,7 +1,7 @@
 ---
 FallbackID: 2791
-Title: IdentityMine'daki yeni görevim.
-PublishDate: 7/2/2012
+Title: "IdentityMine'daki yeni görevim."
+date: "2012-2-7"
 EntryID: IdentityMine_daki_yeni_gorevim
 IsActive: True
 Section: software

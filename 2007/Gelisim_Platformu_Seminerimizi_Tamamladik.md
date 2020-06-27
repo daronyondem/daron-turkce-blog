@@ -1,7 +1,7 @@
 ---
 FallbackID: 1751
-Title: Gelişim Platformu Seminerimizi Tamamladık
-PublishDate: 31/7/2007
+Title: "Gelişim Platformu Seminerimizi Tamamladık"
+date: "2007-7-31"
 EntryID: Gelisim_Platformu_Seminerimizi_Tamamladik
 IsActive: True
 Section: software

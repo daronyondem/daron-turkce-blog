@@ -1,7 +1,7 @@
 ---
 FallbackID: 1777
-Title: Silverlight 1.0 Çıktı!
-PublishDate: 5/9/2007
+Title: "Silverlight 1.0 Çıktı!"
+date: "2007-9-5"
 EntryID: Silverlight_1_Cikti
 IsActive: True
 Section: software

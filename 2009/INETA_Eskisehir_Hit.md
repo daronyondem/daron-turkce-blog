@@ -1,7 +1,7 @@
 ---
 FallbackID: 2332
-Title: INETA Eskişehir Hit
-PublishDate: 2/3/2009
+Title: "INETA Eskişehir Hit"
+date: "2009-3-2"
 EntryID: INETA_Eskisehir_Hit
 IsActive: True
 Section: software

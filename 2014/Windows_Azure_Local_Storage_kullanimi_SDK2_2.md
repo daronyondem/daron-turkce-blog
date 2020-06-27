@@ -1,7 +1,7 @@
 ---
 FallbackID: 2892
-Title: Windows Azure'da Local Storage kullanımı (SDK2.2)
-PublishDate: 10/3/2014
+Title: "Windows Azure'da Local Storage kullanımı (SDK2.2)"
+date: "2014-3-10"
 EntryID: Windows_Azure_Local_Storage_kullanimi_SDK2_2
 IsActive: True
 Section: software
@@ -45,7 +45,10 @@ olduğunu unutmamak çok kritik!
 
 **[C\#]**
 
-```csLocalResource X = RoleEnvironment.GetLocalResource("OrnekStorage");var Path = X.RootPath;```
+```cs
+LocalResource X = RoleEnvironment.GetLocalResource("OrnekStorage");
+var Path = X.RootPath;
+```
 
 İşte kod bu kadar :) Yukarıdaki kodu çalıştırdığınızda Path değişkenine
 "E:\\XXX\\YYY" gibi bir disk yolu gelecektir. Artık o yolu kullanarak

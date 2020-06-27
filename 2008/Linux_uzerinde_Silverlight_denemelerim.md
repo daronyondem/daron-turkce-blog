@@ -1,7 +1,7 @@
 ---
 FallbackID: 2069
-Title: Linux üzerinde Silverlight denemelerim...
-PublishDate: 27/5/2008
+Title: "Linux üzerinde Silverlight denemelerim..."
+date: "2008-5-27"
 EntryID: Linux_uzerinde_Silverlight_denemelerim
 IsActive: True
 Section: software

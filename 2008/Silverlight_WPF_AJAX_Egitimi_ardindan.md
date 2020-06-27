@@ -1,7 +1,7 @@
 ---
 FallbackID: 1950
-Title: Silverlight, WPF, AJAX Eğitimi ardından...
-PublishDate: 8/2/2008
+Title: "Silverlight, WPF, AJAX Eğitimi ardından..."
+date: "2008-2-8"
 EntryID: Silverlight_WPF_AJAX_Egitimi_ardindan
 IsActive: True
 Section: software

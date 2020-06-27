@@ -1,7 +1,7 @@
 ---
 FallbackID: 1859
-Title: Expression Web ve rakipler
-PublishDate: 21/11/2007
+Title: "Expression Web ve rakipler"
+date: "2007-11-21"
 EntryID: Expression_Web_ve_rakipler
 IsActive: True
 Section: software

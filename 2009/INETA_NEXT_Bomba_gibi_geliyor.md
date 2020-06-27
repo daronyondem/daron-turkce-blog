@@ -1,7 +1,7 @@
 ---
 FallbackID: 2446
-Title: INETA NEXT Bomba gibi geliyor!
-PublishDate: 14/11/2009
+Title: "INETA NEXT Bomba gibi geliyor!"
+date: "2009-11-14"
 EntryID: INETA_NEXT_Bomba_gibi_geliyor
 IsActive: True
 Section: software

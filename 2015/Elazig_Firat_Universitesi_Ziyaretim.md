@@ -1,7 +1,7 @@
 ---
 FallbackID: 2967
-Title: Elazığ Fırat Üniversitesi Ziyaretim
-PublishDate: 2/4/2015
+Title: "Elazığ Fırat Üniversitesi Ziyaretim"
+date: "2015-4-2"
 EntryID: Elazig_Firat_Universitesi_Ziyaretim
 IsActive: True
 Section: software

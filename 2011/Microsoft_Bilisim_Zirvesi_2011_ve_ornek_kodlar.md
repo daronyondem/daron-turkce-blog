@@ -1,7 +1,7 @@
 ---
 FallbackID: 2554
-Title: Microsoft Bilişim Zirvesi 2011 ve örnek kodlar
-PublishDate: 11/3/2011
+Title: "Microsoft Bilişim Zirvesi 2011 ve örnek kodlar"
+date: "2011-3-11"
 EntryID: Microsoft_Bilisim_Zirvesi_2011_ve_ornek_kodlar
 IsActive: True
 Section: software

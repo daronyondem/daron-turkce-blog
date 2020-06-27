@@ -1,7 +1,7 @@
 ---
 FallbackID: 2169
-Title: Internet Explorer 8.0 Beta 2 çıktı!
-PublishDate: 30/8/2008
+Title: "Internet Explorer 8.0 Beta 2 çıktı!"
+date: "2008-8-30"
 EntryID: Internet_Explorer_8_0_Beta_2_cikti
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2775
-Title: Windows Azure'da Blob Storage Maceralarına Devam
-PublishDate: 19/6/2012
+Title: "Windows Azure'da Blob Storage Maceralarına Devam"
+date: "2012-6-19"
 EntryID: Windows_Azure_da_Blob_Storage_Maceralarina_Devam
 IsActive: True
 Section: software

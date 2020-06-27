@@ -1,7 +1,7 @@
 ---
 FallbackID: 2052
-Title: Silverlight 2.0 içerisinde Hue / Saturation ve Lightness ile dinamik renk paletleri yaratmanın yolu.
-PublishDate: 11/5/2008
+Title: "Silverlight 2.0 içerisinde Hue / Saturation ve Lightness ile dinamik renk paletleri yaratmanın yolu."
+date: "2008-5-11"
 EntryID: Silverlight_2_0_icerisinde_Hue_Saturation_ve_Lightness_ile_dinamik_renk_paletleri_yaratmanin_yolu
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2029
-Title: Visual Studio 2008 Sertifikasyon Sınavları
-PublishDate: 19/4/2008
+Title: "Visual Studio 2008 Sertifikasyon Sınavları"
+date: "2008-4-19"
 EntryID: Visual_Studio_2008_Sertifikasyon_Sinavlari
 IsActive: True
 Section: software

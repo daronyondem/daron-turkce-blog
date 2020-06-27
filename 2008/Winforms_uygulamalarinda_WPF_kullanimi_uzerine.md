@@ -1,7 +1,7 @@
 ---
 FallbackID: 1940
-Title: Winforms uygulamalarında WPF kullanımı üzerine.
-PublishDate: 2/2/2008
+Title: "Winforms uygulamalarında WPF kullanımı üzerine."
+date: "2008-2-2"
 EntryID: Winforms_uygulamalarinda_WPF_kullanimi_uzerine
 IsActive: True
 Section: software

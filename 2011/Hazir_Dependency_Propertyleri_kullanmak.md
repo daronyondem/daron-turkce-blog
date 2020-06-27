@@ -1,7 +1,7 @@
 ---
 FallbackID: 2689
-Title: Hazır Dependency Property'leri kullanmak
-PublishDate: 6/9/2011
+Title: "Hazır Dependency Property'leri kullanmak"
+date: "2011-9-6"
 EntryID: Hazir_Dependency_Propertyleri_kullanmak
 IsActive: True
 Section: software

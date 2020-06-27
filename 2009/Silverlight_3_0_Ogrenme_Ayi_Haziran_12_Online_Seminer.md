@@ -1,7 +1,7 @@
 ---
 FallbackID: 2364
-Title: Silverlight 3.0 Öğrenme Ayı : Haziran, 12 Online Seminer!
-PublishDate: 1/6/2009
+Title: "Silverlight 3.0 Öğrenme Ayı": Haziran, 12 Online Seminer!
+date: "2009-6-1"
 EntryID: Silverlight_3_0_Ogrenme_Ayi_Haziran_12_Online_Seminer
 IsActive: True
 Section: software

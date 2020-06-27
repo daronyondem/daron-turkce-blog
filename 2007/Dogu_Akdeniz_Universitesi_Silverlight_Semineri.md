@@ -1,7 +1,7 @@
 ---
 FallbackID: 1900
-Title: Doğu Akdeniz Üniversitesi Silverlight Semineri
-PublishDate: 29/12/2007
+Title: "Doğu Akdeniz Üniversitesi Silverlight Semineri"
+date: "2007-12-29"
 EntryID: Dogu_Akdeniz_Universitesi_Silverlight_Semineri
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 2171
-Title: CETURK Microsoft Yazılım Teknolojileri Seminerleri
-PublishDate: 1/9/2008
+Title: "CETURK Microsoft Yazılım Teknolojileri Seminerleri"
+date: "2008-9-1"
 EntryID: CETURK_Microsoft_Yazilim_Teknolojileri_Seminerleri
 IsActive: True
 Section: software

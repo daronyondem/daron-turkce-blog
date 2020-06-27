@@ -1,7 +1,7 @@
 ---
 FallbackID: 2705
-Title: Windows 8 Metro UI'da AppBar Kullanımı
-PublishDate: 22/9/2011
+Title: "Windows 8 Metro UI'da AppBar Kullanımı"
+date: "2011-9-22"
 EntryID: Windows_8_Metro_UI_da_AppBar_Kullanimi
 IsActive: True
 Section: software

@@ -1,7 +1,7 @@
 ---
 FallbackID: 1778
-Title: Ne kadar ayrıcalıklısınız?
-PublishDate: 6/9/2007
+Title: "Ne kadar ayrıcalıklısınız?"
+date: "2007-9-6"
 EntryID: Ne_kadar_ayricaliklisiniz
 IsActive: True
 Section: software

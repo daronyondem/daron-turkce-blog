@@ -1,7 +1,7 @@
 ---
 FallbackID: 2489
-Title: TechEd Middle-East'de konuşuyorum!
-PublishDate: 10/2/2010
+Title: "TechEd Middle-East'de konuşuyorum!"
+date: "2010-2-10"
 EntryID: TechEd_Middle-East_de_konusuyorum
 IsActive: True
 Section: software

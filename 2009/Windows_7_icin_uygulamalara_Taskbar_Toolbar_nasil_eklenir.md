@@ -1,7 +1,7 @@
 ---
 FallbackID: 2385
-Title: Windows 7 için uygulamalara Taskbar Toolbar nasıl eklenir?
-PublishDate: 11/8/2009
+Title: "Windows 7 için uygulamalara Taskbar Toolbar nasıl eklenir?"
+date: "2009-8-11"
 EntryID: Windows_7_icin_uygulamalara_Taskbar_Toolbar_nasil_eklenir
 IsActive: True
 Section: software

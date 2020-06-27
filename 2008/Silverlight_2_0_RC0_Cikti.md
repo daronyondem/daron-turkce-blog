@@ -1,7 +1,7 @@
 ---
 FallbackID: 2197
-Title: Silverlight 2.0 RC0 Çıktı!
-PublishDate: 26/9/2008
+Title: "Silverlight 2.0 RC0 Çıktı!"
+date: "2008-9-26"
 EntryID: Silverlight_2_0_RC0_Cikti
 IsActive: True
 Section: software

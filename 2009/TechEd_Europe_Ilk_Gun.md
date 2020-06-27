@@ -1,7 +1,7 @@
 ---
 FallbackID: 2443
-Title: TechEd Europe İlk Gün!
-PublishDate: 10/11/2009
+Title: "TechEd Europe İlk Gün!"
+date: "2009-11-10"
 EntryID: TechEd_Europe_Ilk_Gun
 IsActive: True
 Section: software
