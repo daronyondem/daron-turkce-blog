@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4, Windows Phone 7, Windows Phone
 old.EntryID: 0a36608a-7227-4374-aea3-6e7e31061a4a
 ---
+# Windows Phone 7'de Navigation API ve uygulama yapısı.
 Bu makalemizde Windows Phone 7 içerisinde uygulama geliştirirken
 kullanabileceğimiz hazır gelen navigasyon sistemine göz atacağız. Fakat
 bunun öncesinde tavsiyem benzerliklerinden dolayı Silverlight 3.0
@@ -169,3 +170,5 @@ private void button1_Click(object sender, RoutedEventArgs e)
 ```
 
 Hepinize kolay gelsin.
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-4 tarihinde yayinlanmistir.*

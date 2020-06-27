@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, LINQ, Seminer, Silverlight, WPF, ASP.NET
 old.EntryID: a4013ca9-3c14-4bec-b037-a8f21e92cd52
 ---
+# Süleyman Demirel Üniversitesi, Isparta Seminerleri
 Son iki gündür Isparta, **Süleyman Demirel Üniversitesi**'ndeydim. İki
 gün boyunca **Silverlight, WPF, ASP.NET 3.5 AJAX ve LINQ** konularına
 değindik. SDÜ zaten daha önce de öğrencilerinden bana gelen soru
@@ -35,3 +36,5 @@ Isparta](media/Suleyman_Demirel_Universitesi_Isparta_Seminerleri/25032008_2.jpg)
 *Eğirdir Gölü Tepesi, Isparta*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-26 tarihinde yayinlanmistir.*

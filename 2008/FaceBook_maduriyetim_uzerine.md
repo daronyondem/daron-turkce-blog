@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: 826daa4c-b7c7-4eaa-ac56-182f6952295a
 ---
+# FaceBook maduriyetim üzerine...
 Şu FaceBook'dan vaz geçemedik gitti bir türlü. Bir çılgınlık aldı başını
 gidiyor. Bir PostBack ile 100 event invitation gönderme sınırı olup son
 40 denememim hiçbirinde bunu beceremeyecek kadar zayıf altyapısı ile her
@@ -40,3 +41,5 @@ neden benim avatarımın yanında hep "Kilo Verme Hapları"nın reklamları
 çıkıyor anlamış değilim! Nedir bu arkadaşım ya! :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-17 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2008
 old.EntryID: 8d0fa7e1-b8da-45be-b55c-056a33d039c7
 ---
+# Visual Studio 2008 SP1 çıktı!
 Visual Studio 2008 SP1 ile beraber [daha
 önce](http://daron.yondem.com/tr/post/8e408fc8-e8aa-4497-bf3e-ae8f50381e0c)
 sizlere blogumdan bahsetmiş olduğum yeniliklerin neredeyse hepsi geliyor
@@ -32,3 +33,5 @@ birkaçı ise JScript formatlama seçeneği IIS Module ve HttpHandler
 şablonları oldu. Yeni oyuncaklarımız hazır :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-10 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: f8af49d6-9885-410b-9fdf-7edc6423659f
 ---
+# Microsoft MEA VP Marco Comastri ile RD ve MVP toplantımız.
 Bugün RD ve MVP'ler olarak Microsoft MEA (Ortadoğu Afrika) bölgesi
 Başkan Yardımcısı **Marco Comastri** ile bir toplantımız oldu.
 Toplantıda malum tahmin edebileceğiniz üzere bizler için önemli olan
@@ -43,3 +44,5 @@ da bir efsane olacak gibi duruyor :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-3 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Gadget
 ---
+# Leap Motion'a ilk bakış, ilk dokunuş
 Kaç ay oldu hatırlamıyorum ama epey zaman oldu [Leap
 Motion'ın](https://www.leapmotion.com/) Leap cihazı ile ilgili ilk
 videoyu internette izlediğimde "İşte bu!" demiştim. Kinect'in el
@@ -340,3 +341,5 @@ gelecektir.
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-8-20 tarihinde yayinlanmistir.*

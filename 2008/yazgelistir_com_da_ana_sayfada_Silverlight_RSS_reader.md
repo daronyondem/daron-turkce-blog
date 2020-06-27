@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: f6d36cbe-9550-42d9-93b2-8637ac009085
 ---
+# yazgelistir.com'da ana sayfada Silverlight RSS reader ;)
 Son [yazgelistir.com](http://www.yazgelistir.com/) Editör toplantımızda
 aldığımız kararlardan biri de yazgelistir.com ana sayfasında gözüken
 "**Son Makaleler**" kısmını biraz daha kullanışlı hale getirmekti. Bu
@@ -37,3 +38,5 @@ KB)](media/yazgelistir_com_da_ana_sayfada_Silverlight_RSS_reader/21062008_1.rar)
 Hepinize kolay gelsin....
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-21 tarihinde yayinlanmistir.*

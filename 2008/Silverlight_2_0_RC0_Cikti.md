@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 5bcec32b-257f-4ae6-aaf4-51f2aacb2979
 ---
+# Silverlight 2.0 RC0 Çıktı!
 Silverlight'ın RTW (Release To Web) olmasına yani tam olarak son haline
 gelmesine çok az kaldı. Bugün **RC0 (Release Candidate)** sürümü sadece
 yazılım geliştiricilerin kullanımına sunuldu. Yani eğer yazılım
@@ -77,3 +78,5 @@ dönmem gerekiyor ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-26 tarihinde yayinlanmistir.*

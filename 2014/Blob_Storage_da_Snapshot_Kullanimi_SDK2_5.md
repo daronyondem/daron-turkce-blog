@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Blob Storage'da Snapshot Kullanımı (SDK2.5)
 Blobların en sevdiğim özelliklerinden biri blob başına snapshot
 alabiliyor olmamız :) Sınır yok, istediğiniz kadar snapshot
 alabilirsiniz :) (yeter ki parasını ödeyin) Şaka bir yana SnapShot
@@ -115,3 +116,5 @@ yarayabilecek metodlar mevcut ;)
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-7 tarihinde yayinlanmistir.*

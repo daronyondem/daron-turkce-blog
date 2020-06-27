@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: a0323ab1-6402-413a-a973-949320c362ca
 ---
+# Silverlight animasyonum FireFox'da çalışmıyor! 100% genişlik ve yükseklik sorunu.
 Daha önceki blog yazılarımdan
 [birinde](http://daron.yondem.com/tr/post/22ed2164-f1bf-4fd4-a25e-1cab7bb7059b)
 Türkiye'nin ilk kurumsal Silverlight uygulaması olarak DEVELOAD
@@ -127,3 +128,5 @@ tamamen yayılacaktır.
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-14 tarihinde yayinlanmistir.*

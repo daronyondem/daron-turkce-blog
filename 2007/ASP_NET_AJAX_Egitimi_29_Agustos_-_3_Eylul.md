@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Eğitimler
 old.EntryID: 14065710-90c2-4d61-8c21-752beea739a1
 ---
+# ASP.NET AJAX Eğitimi 29 Ağustos - 3 Eylül
 ASP.NET AJAX eğitimlerim devam ediyor. 29 Ağustos tarihinde başlayacak
 olan sınıfımız için acil kayıtlarınızı [MayaSoft Bilişim
 Akademisi](http://www.mayasoft.com.tr)'ne yaptırabilirsiniz. Eğitim
@@ -24,3 +25,5 @@ veriliyor olacak.
 <http://www.mayasoft.com.tr/bulten/ajax/mayasoft.htm>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-28 tarihinde yayinlanmistir.*

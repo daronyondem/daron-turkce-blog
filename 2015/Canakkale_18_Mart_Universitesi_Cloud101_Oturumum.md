@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 8
 Tags: Azure Search, Windows Azure
 ---
+# Çanakkale 18 Mart Üniversitesi Cloud101 Oturumum
 Geçen hafta sonu Çanakkale 18 Mart Üniversitesi'ndeydik. Sevgili [Gökhan Gülbiz](https://twitter.com/gokhangulbiz) ve [İlkay İlknur](http://www.ilkayilknur.com) ile ortaya karışık bir etkinlik yaptık :) Ben **Cloud101** oturumum ile girişi yaptıktan sonra Gökhan Azure Search, İlkay ise C#6 anlattı. 
 
 ![](media/Canakkale_18_Mart_Universitesi_Cloud101_Oturumum/canakkale.jpg)
@@ -20,3 +21,5 @@ Birkaç yıl olmuştu Çanakkale 18 Mart'ı ziyaret etmeyeli. Etkinliğe katıla
 Biz tabi fırsattan istifade bir ufak gezi yaptık dönüş yolunda. Truva ve Şehitlik ziyareti sonrasında İstanbul'a döndük :) Güzel bir hafta sonuydu. Umarım katılan herkes için de faydalı olmuştur.
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-3-30 tarihinde yayinlanmistir.*

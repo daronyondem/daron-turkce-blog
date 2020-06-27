@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 4bfde604-04ab-427c-81cb-fc775b72f912
 ---
+# Silverlight 2.0 Cross-Domain WebClient ile REST (GET) ve XLINQ Kullanımı
 Silverlight 2.0 ile beraber istemci tarafında .NET dillerini
 kullanabildiğimizi ilk duyduğumda aklıma gelen ilk şey **WebClient**
 sınıfını artık istemci tarafında da kullanıp kullanamayacağım olmuştu.
@@ -427,3 +428,5 @@ ulaşabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-25 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Metro UI, Visual Studio 11, Windows 8
 ---
+# Windows 8 Metro'da GPS ve Geolocation API Kullanımı
 Bu makalemizde Windows 8 içerisinde WinRT (Windows Runtime)'daki
 Geolocation (GPS) API'lerine yani kullanıcının konumunu bulma konusuna
 değineceğiz. Geolocation API'lerinin kullanımı kolay olsa da diğer
@@ -192,3 +193,5 @@ Bu makale **Visual Studio 11 Express for Windows Developer Preview**\
 ve **Windows 8 Developer Preview Build 8102** kullanılarak yazılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-23 tarihinde yayinlanmistir.*

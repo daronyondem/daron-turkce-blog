@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Genel
 ---
+# Macbook Air Windows 8 ile Muhteşem
 Eskiden donanım incelemeleri yazardım :)
 [Darkhardware'de](http://www.darkhardware.com/) editördüm. Sonrasında
 PCWorld'de PCExtra'da da bolca yazmıştım hatta. Ne günlerdi :) Lise
@@ -186,3 +187,5 @@ vermekten iyi olacaktır diye tahmin ediyorum :) Özetle.. "**MacBook Air
 Windows 8 ile muhteşem!**"
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-8-31 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 9
 Tags: Seminer, Windows Azure
 ---
+# Arel Üniversitesi'nde Azure Anlattım
 Dün Azure anlatmak üzere **İstanbul Arel Üniversitesi**'ndeydim. Her zamanki Cloud 101 oturumunu yaptım :) 
 
 ![Arel Üniversitesi'nde Azure oturumum](media/Arel_Universitesinde_Azure_Anlattim/arel-uni.jpg)
@@ -17,3 +18,5 @@ Oturumda arkadaşlar salonun fotoğrafını çekmemişler sanırım ki sadece yu
 Gittiğim yerlerden haberdar olmak isteyenler [buradan](http://eepurl.com/Z_rMf) mail adreslerini bırakabilir. Son zamanlarda bu haberleri [Instagram](http://www.instagram.com/daronyondem)'da da stories kısmına atmaya başladım :) Orası da bir alternatif olabilir.
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2017-3-8 tarihinde yayinlanmistir.*

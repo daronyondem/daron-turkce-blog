@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 3754d829-39bc-468e-9336-6d0fb3295188
 ---
+# Silverlight Hosting!!!
 Yok böyle birşey! Biraz agresif bir giriş olduğunun farkındayım fakat
 insanları kısmen aptal yerine koyan ticari mantıktan artık bıkkınlık
 geldi. Silverlight'ın hayatımıza yeni yeni girmesinden faydalanan yerli
@@ -33,3 +34,5 @@ olarak bu mesaja ekleyin. Elimden geldiğince açıklık getirmeye
 çalışacağım.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-24 tarihinde yayinlanmistir.*

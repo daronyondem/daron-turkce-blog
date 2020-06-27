@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF, MultiPoint SDK
 old.EntryID: 957721ed-ace9-454e-8294-ebb5839317e9
 ---
+# MultiPoint Programlama'ya Giriş
 Makalemize ilk olarak MultiPoint programlamanın ne olduğunu tanımlayarak
 başlayalım. Bugün bilgisayarlarımızda alıştığımız sistem sadece tek bir
 Pointer / İmleç kontrol etmeye dayanır. Örneğin bilgisayarınıza iki fare
@@ -370,3 +371,5 @@ gerisi sizin hayal gücünüze kalmış ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-6 tarihinde yayinlanmistir.*

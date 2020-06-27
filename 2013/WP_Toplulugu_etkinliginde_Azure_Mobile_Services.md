@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Windows Azure
 ---
+# WP Topluluğu etkinliğinde Azure Mobile Services
 Geçen hafta sonu Ankara'daydım. Baktım İstanbul'da eylemler yumuşadı,
 "*Nerede hareket orada bereket*" diyerek... Sanırım ağlanacak halimizle
 ilgili espri yapmak alışkanlık haline geldi. Her neyse... Cumartesi günü
@@ -34,3 +35,5 @@ Days](http://www.androiddeveloperdays.com/tr/sessions/get-the-power-of-cloud-wit
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-6-12 tarihinde yayinlanmistir.*

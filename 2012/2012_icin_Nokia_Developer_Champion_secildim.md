@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 7, Windows Phone 7.5
 ---
+# 2012 için Nokia Developer Champion seçildim.
 Nokia'nın Windows Phone'a olan yatırımını sanırım artık herkes
 biliyordur :) Bu vesile ile ben de bir süre önce "[Nokia Developer
 Champion](http://www.developer.nokia.com/Profile/?u=daronyondem)"
@@ -33,3 +34,5 @@ Camp](http://daron.yondem.com/tr/post/MEA_Windows_Phone_Camp_Istanbulda)'te
 görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-5-23 tarihinde yayinlanmistir.*

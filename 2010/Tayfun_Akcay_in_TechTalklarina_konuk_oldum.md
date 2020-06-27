@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 9, OData, Silverlight 4, Visual Studio 2010, Windows Phone 7, Internet Explorer, Windows Phone
 old.EntryID: 33adf9c4-5949-4fdb-8584-148ebb1616f9
 ---
+# Tayfun Akçay'ın TechTalk'larına konuk oldum ;)
 Sevgili [Tayfun Akçay](http://gunluk.tayfunakcay.com) bir süre önce
 [TechTalk](http://gunluk.tayfunakcay.com/Category/TechTalk.aspx)
 PostCast serisine başladı. Serinin en keyifli yanı Tayfun'un
@@ -33,3 +34,5 @@ süre bu seriyi kazasız belasız devam ettirir ;)
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-3-25 tarihinde yayinlanmistir.*

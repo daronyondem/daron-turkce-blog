@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
 old.EntryID: 54009553-010c-4955-a841-f9416cd73734
 ---
+# ASP.NET ve Culture ayarları
 ASP.NET uygulamalarında **Date.Now()** gibi çoğu sınıf o anki
 **CurrentCulture** üzerinden gerekli bilgileri alarak çalışır. Yani
 uygulamanın çalıştığı makinen Regional Settings'i Türkiye'ye göre
@@ -64,3 +65,5 @@ tanımlayabilirsiniz.
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-31 tarihinde yayinlanmistir.*

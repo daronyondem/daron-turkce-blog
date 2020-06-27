@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IIS 7.0, Webiner
 old.EntryID: f198b9e9-fc52-4995-bf92-4b1aaecb83ee
 ---
+# IIS7.0 ve ASP.NET 3.5 yenilikleri webineri sonrasında...
 Bugün **40** kişilik bir katılım ile **IIS7.0 ve ASP.NET 3.5**
 **Yenilikleri** webinerimizi gerçekleştirdik. Webiner boyunca IIS 7.0
 ile gelen ve yazılım geliştiricilerin hayatını kolaylaştıracak
@@ -31,3 +32,5 @@ açabilirsiniz, fakat sisteminizde .NET Framework 3.0 kurulu olması
 gerekir.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-15 tarihinde yayinlanmistir.*

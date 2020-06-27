@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight 4
 old.EntryID: 6da235ad-bdcd-46dc-a328-0428eb447d65
 ---
+# PathListBox'a giriş.
 Silverlight tarafında en sık ihtiyaç duyduğumuz ve benim de en çok
 karşılaştığım sorulardan biri eldeki nesnelerin bir yol üzerinde
 konumlandırılması oluyor. Belki de bu soruyu özellikle hatırlamamın
@@ -152,3 +153,5 @@ Hepinize kolay gelsin!
 KB)](media/PathListBoxa_giris/05092010_7.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-9-6 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: b621640a-b973-45e9-a67a-7b8493ca872a
 ---
+# Silverlight 4 Beta'da sağ tuş desteği ve bir ContextMenü kontrolü
 Silverlight 3 zamanlarında gelen en önemli isteklerden biri farenin sağ
 tuşu ile ilgili eventları yakalayabilmekti. Biliyorsunuz normal
 şartlarda herhangi bir Silverlight uygulamasına sağ tuş ile tıklarsanız
@@ -431,3 +432,5 @@ yakında Silverlight Toolkit'te görürüz bu kontrolü.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-22 tarihinde yayinlanmistir.*

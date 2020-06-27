@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 26
 Tags: Kişisel Gelişim, Seminer
 ---
+# Sakarya Üniversitesi'nde IEEE Talks
 Dün Sakarya Üniversitesi'ndeydim. IEEE ekibinin organizasyonunda "**Boş Durma Boşa Çalış**" adlı oturumumu sundum. Gün boyunca VLOG çekmeye de devam ettim :)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T5R5QSa_Xyk" frameborder="0" allowfullscreen></iframe>
@@ -27,3 +28,5 @@ Nereden nereye? :) Demeden edemiyor insan. Uğur Can'a nice başarılar diliyoru
 Etkinlikteki katkısından olan tüm kardeşlerime ve **IEEE** ekibine de çok teşekkür ediyorum! Hepiniz eline sağlık.
 
 Görüşmek üzere!
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-3-18 tarihinde yayinlanmistir.*

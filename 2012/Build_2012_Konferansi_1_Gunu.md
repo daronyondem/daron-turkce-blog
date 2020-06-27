@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Podcast, Windows 8, Windows Phone, Windows Phone 8, WinRT
 ---
+# Build 2012 Konferansı 1. Günü Giik.FM Podcast'i ve detaylar
 Bugünlerde Build konferansı için Microsoft kampüsünde, Seattle'dayım.
 Build konferansını [geçen
 yıldan](http://daron.yondem.com/tr/search/build) hatırlayanlarınız
@@ -124,3 +125,5 @@ detaylı bir yazı yazmayı planlıyorum.
 Yarın görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-10-30 tarihinde yayinlanmistir.*

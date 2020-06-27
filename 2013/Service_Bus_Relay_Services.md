@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Service Bus Relay Services
 Diyelim ki şirket içerisinde bir uygulama var ve bu uygulamanın açtığı
 bazı WCF servisleri mevcut. Uygulamalarınızdan biri de Azure'da duruyor.
 Azure'daki uygulamanızın bu servisleri kullanması lazım fakat şirket
@@ -130,3 +131,5 @@ görebilirsiniz. Service Bus'ın detaylarına baktığımızda "Relays" tabında
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-4-4 tarihinde yayinlanmistir.*

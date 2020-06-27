@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: cc8e1337-02e6-4b90-9dc9-47ae1114fc7e
 ---
+# INETA Week-End Kıbrıs'ı tamamladık.
 Bu hafta sonu Microsoft'tan **Tayfun Akçay** ile beraber KKTC'de **Doğu
 Akdeniz Üniversitesi**'ni ziyaret ettik. Toplam üç gün süren bir
 aktivite serisi yaparak faydalı olduğu kadar da eğlenceli bir ortam
@@ -25,3 +26,5 @@ Güngör**'e, sevgili Hakan ve tüm ACM grubuna buradan selamlarımı
 gönderiyorum, çok teşekkürler desteğiniz ve misafirperverliğiniz için.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-19 tarihinde yayinlanmistir.*

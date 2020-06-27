@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
 old.EntryID: b75ae7e9-86e6-4c49-b122-fe63eaece90b
 ---
+# Microsoft SharePoint Konferansı Silverlight BluePrint
 Bugün Swiss Hotel'de düzenlenen **Microsoft SharePoint Konferans**
 serisinin İstanbul ayağında **Silverlight BluePrint ile SharePoint**
 entegrasyonu konusunu işledik. 50 dakika gibi kısa bir sürede hem
@@ -25,3 +26,5 @@ Silverlight entegrasyonundan bahsettiğim bir makaleyi yarın bloguma
 ekleyeceğim. Yarın da sizi bloguma beklerim ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-12 tarihinde yayinlanmistir.*

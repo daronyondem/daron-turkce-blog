@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# INETA'da yeni rolüm ve INETA TR'de değişenler!
 Her yılbaşı bir anlamda yeni bir başlangıca vesile olma potansiyeli
 taşır :) İşte bu yılbaşında bu potansiyeli kinetiğe çevirip :) INETA
 tarafında iki bayrak değişikliği yapıyoruz. Bunlardan ilki INETA Türkiye
@@ -64,3 +65,5 @@ yeni bir yıl diliyorum ;)
 Bu vesile ile :) hepinizi öpüyorum!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-25 tarihinde yayinlanmistir.*

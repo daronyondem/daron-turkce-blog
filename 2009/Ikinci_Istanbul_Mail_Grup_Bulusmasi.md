@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 83c94ae6-109b-4cf8-9cbd-2e64d78027b7
 ---
+# 2. Istanbul Mail Grup Buluşması
 Dokuz aylık mail grubumuzun ikinci İstanbul buluşmasını bir iftarda
 toplanarak yaptık. Benim için her zamanki gibi çok zevkli bir buluşma
 oldu. Umarım katılan herkes iyi vakit geçirmiştir.
@@ -29,3 +30,5 @@ ulaşabilirsiniz. Fotoğraflar için her zamanki gibi
 [Tuba'a](http://www.tubacebi.com/) teşekkür ediyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-13 tarihinde yayinlanmistir.*

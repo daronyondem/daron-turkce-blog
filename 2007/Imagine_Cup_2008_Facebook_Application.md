@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 5fe43277-0fad-4a1a-b33b-88b068262ac2
 ---
+# Imagine Cup 2008 Facebook Application
 Sektörü takip ediyorsanız Microsoft'un **Imagine Cup 2008** yarışmasını
 duymuşsunuzdur. Uluslararası bir yarışma olma özelliğine sahip
 aktivitede Türkiye'den gruplar da yer alıyor. Bu çerçevede Deveload
@@ -41,3 +42,5 @@ sahipsiniz.
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-24 tarihinde yayinlanmistir.*

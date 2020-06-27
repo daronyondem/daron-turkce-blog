@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Studio, Webiner
 old.EntryID: 66f48e1b-5512-4cc3-8107-1e2ad6088b8c
 ---
+# Expression Media ve Expression Encoder Webineri Sonrası...
 Dün çok güzel bir webiner ile toplam bir buçuk saat içerisinde
 **Expression Media** ve **Expression Encoder**'ın neredeyse tüm
 özelliklerine değinmeyi başardık. Webinerle ilgili sunum dosyasını
@@ -23,3 +24,5 @@ görüşmek dileği ile bayramınızı da kutlayarak yazımı sonlandırıyorum 
 KB)](media/Expression_Media_ve_Expression_Encoder_Webineri_Sonrasi/12102007_1.pdf)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-13 tarihinde yayinlanmistir.*

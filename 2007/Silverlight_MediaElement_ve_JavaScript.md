@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight
 old.EntryID: 7bc99221-292d-4a23-a7cf-2f4aa892984a
 ---
+# Silverlight MediaElement ve JavaScript
 Silverlight 1.0 uygulamalarında Video yayınının gücünden daha önceki
 yazılarımda bahsetmiştim. Gelin şimdi hep beraber sıfırdan bir
 Silverlight Video Oynatıcı'sı hazırlayalım. **Expression Blend 2
@@ -191,3 +192,5 @@ yerini hızlıca inceledik. Bu yazımı takiben sonraki makalemde bu
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-29 tarihinde yayinlanmistir.*

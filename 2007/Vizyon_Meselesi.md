@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, Genel, ASP.NET
 old.EntryID: 879afd81-3086-4dc7-a95d-6ff6285354dc
 ---
+# Vizyon Meselesi...
 Yazımın tamamen "yıkama yağlama" kokacağının farkında olarak başlıyorum
 bu cümlelere. Ben böyle bir yazı okuyacak olsam kesinlikle "yağcılık
 yapmış" derim :) Umarım sizler demezsiniz. En azından blogumu bir
@@ -87,3 +88,5 @@ Editörü Daron Dedeoğlu Pardus programlama ekibindedir.\
  **Cevap**: Eeee.... Yok :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-9 tarihinde yayinlanmistir.*

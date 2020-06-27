@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
 old.EntryID: 02fbfef5-7ce2-4870-84b9-3f2c36ef2a6d
 ---
+# Silverlight T-Shirt isteyenler buraya!
 Seminerlerde, videolarda ve geçen gün lansmanda üzerimdeki **Silverlight
 T-Shirt**'ü büyük beğeni kazandı :) O kadar ki bir an tekstil sektörüne
 girsem mi diye düşünmedim değil. Maalesef beğenilerini bana "**Ben de
@@ -48,3 +49,5 @@ ayarlayabiliyorsunuz. Artık hepinizi bir sonraki seminerde Silverlight
 T-Shirt'leri ile bekliyorum. Kahramanlar aramızda ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-16 tarihinde yayinlanmistir.*

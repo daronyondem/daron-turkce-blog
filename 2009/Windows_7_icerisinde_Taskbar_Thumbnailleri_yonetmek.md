@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: eab076d7-acf7-494c-85a1-046736d571e0
 ---
+# Windows 7 içerisinde Taskbar Thumbnail'leri yönetmek.
 Bir uygulama içerisinden birden çok pencerenin olduğu yılları
 hatırlarsınız dersem belki de "O yıllar geride mi kaldı?"
 diyebilirsiniz. MDI formları yıllarda uygulamalarımızın en önemli
@@ -436,3 +437,5 @@ style="color: #2b91af;">Canvas</span>.SetZIndex(Resim2, 11);
 MB)](media/Windows_7_icerisinde_Taskbar_Thumbnailleri_yonetmek/12082009_3.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-8-12 tarihinde yayinlanmistir.*

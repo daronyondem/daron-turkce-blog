@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: fc636b54-3792-4545-b19f-7fc6c1f74aa5
 ---
+# Silverlight 4 Beta içerisinde IDataErroInfo kullanımı.
 Silverlight içerisinde validasyon yapma ve uygun mesajları gösterme
 konusunda kullandığımız sistem Property'ler içerisinde uygun
 Exception'ları vermekten farklı birşey değildi. Bu konuda Silverlight 3
@@ -330,3 +331,5 @@ için "Assembly Paylaşımı" konulu makaleye göz atmayı unutmayın.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-25 tarihinde yayinlanmistir.*

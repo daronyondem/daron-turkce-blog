@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2008
 old.EntryID: 76554683-21db-4577-b76b-d59bc0cd4dee
 ---
+# Visual Studio 2008 ve Visual Web Developer Express 2008 için Hot-Fix
 **Visual Studio 2008** veya **Visual Web Developer Express 2008**
 kullanıcıları için yeni bir Hot-Fix (Patch) çıktı. Özellikle HTML editör
 kısmı ile ilgili sorunları gideren patch bazı durumlarda arayüzün
@@ -20,3 +21,5 @@ bilgisayarınıza yükleyebilirsiniz.
 <https://connect.microsoft.com/VisualStudio/Downloads/DownloadDetails.aspx?DownloadID=10826>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-9 tarihinde yayinlanmistir.*

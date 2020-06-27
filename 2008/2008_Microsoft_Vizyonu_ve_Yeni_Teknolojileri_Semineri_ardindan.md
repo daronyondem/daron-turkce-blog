@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight, WPF
 old.EntryID: 07ea4566-19ea-42bb-8cba-3bb6919847ef
 ---
+# 2008 Microsoft Vizyonu ve Yeni Teknolojileri Semineri ardından.
 Dün sevgili tasarım dehamız [Ercan
 Altuğ](http://ercanaltug.blogspot.com/) ve dostum [Eralp
 Erat](http://www.eralperat.com/) ile beraber
@@ -32,3 +33,5 @@ Semineri](media/2008_Microsoft_Vizyonu_ve_Yeni_Teknolojileri_Semineri_ardindan/1
 *2008 Microsoft Vizyonu ve Yeni Teknolojileri Semineri*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-13 tarihinde yayinlanmistir.*

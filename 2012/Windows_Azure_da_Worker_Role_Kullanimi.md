@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure'da Worker Role Kullanımı
 Bugüne kadar birçok detaya bakmış olsak da Worker Role'lere hiç göz
 atmadık. Bunun nedenlerinden biri tabi ki Worker Role'lerin aslında
 özüne bakılacak olursa süper basit olmasıydı :) Ama yine de hızlıca bir
@@ -238,3 +239,5 @@ Emulator'ın console görüntülerinden Trace'leri izleyebilirsiniz ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-9-18 tarihinde yayinlanmistir.*

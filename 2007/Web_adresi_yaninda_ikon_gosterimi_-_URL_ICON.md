@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: HTML
 old.EntryID: e4fb9d4e-2d54-408d-9ec2-59a1e491fc75
 ---
+# Web adresi yanında ikon gösterimi - URL ICON
 Web'de gezerken girdiğiniz her siteye göre farklı ikonların adres
 çubuğunda gösterildiğini farkına varmışsınızdır. Söz konusu adres
 çubuğunda gösterilen ikonlar aynı şekilde "Favorites" bölümlerine
@@ -44,3 +45,5 @@ eklemelisiniz.
 Kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-8 tarihinde yayinlanmistir.*

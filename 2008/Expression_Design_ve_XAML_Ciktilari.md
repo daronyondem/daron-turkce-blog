@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Design, Silverlight, WPF
 old.EntryID: 8332611c-6d2d-4f97-92d4-9d29f0711a6e
 ---
+# Expression Design ve XAML Çıktıları
 İster **Silverlight** ister **WPF** uygulamalarında vektörel çizimlere
 animasyonlar katıyor olmak hayati öneme sahip. Bu çerçevede bizim
 elimizde hali hazırda bulunan vektörel çizimleri veya yapacağımız yeni
@@ -128,3 +129,5 @@ Export bölümü ile ilgili büyük çapta değişiklikler içeren Expression
 Design SP1 yükleme paketini bilgisayarınıza yüklemenizde fayda var.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-31 tarihinde yayinlanmistir.*

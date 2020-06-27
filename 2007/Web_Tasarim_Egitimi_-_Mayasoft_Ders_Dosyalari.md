@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: b7e0911a-472c-49df-875d-646821757e32
 ---
+# Web Tasarım Eğitimi - Mayasoft Ders Dosyaları
 **Mayasoft Bilgi Teknolojileri Akademisi**'nde vermekte olduğum **Web
 Tasarım Eğitimi**'ne ait 09.04.2007 tarihli derste öğrendiklerimizle
 ilgili yaptığımız uygulamaya ait dosyaları aşağıdaki linkten
@@ -56,3 +57,5 @@ baştan söylemeliyim.
 İyi çalışmalar ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-10 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Makinemizi Windows Azure'a hazırlamak
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/Makinemizi_Windows_Azure_a_hazirlamak_SDK2_2)
@@ -98,3 +99,5 @@ hazır. Hadi ne bekliyorsunuz?
 Bir sonraki yazıda görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-3-27 tarihinde yayinlanmistir.*

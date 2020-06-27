@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET, Görsel Ders
 old.EntryID: 10bc527f-299d-4804-900e-966103880a72
 ---
+# Görsel derslerim nedirtv?com üzerinde!
 Uzun süredir görsel dersler hazırlamayı düşünüyordum. Esas sorun bu
 dersleri nasıl blog üzerinden paylaşacağımdı. Terzi kendi söküğünü
 dikemez konseptine uygun olarak bu konuda blogum için özel bir sayfa
@@ -32,3 +33,5 @@ Extender](http://www.nedirtv.com/VideoDetay.aspx?VideoID=60)
 Kullanimi](http://www.nedirtv.com/VideoDetay.aspx?VideoID=59)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-24 tarihinde yayinlanmistir.*

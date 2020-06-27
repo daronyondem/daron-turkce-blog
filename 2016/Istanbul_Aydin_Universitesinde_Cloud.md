@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 12
 Tags: Windows Azure
 ---
+# İstanbul Aydın Üniversitesi'nde Cloud
 Dün **İstanbul Aydın Üniversitesi**'ni ziyaret ettim. **Cloud 101** adındaki **Azure, AWS ve Google Cloud**'dan genel anlamda bahsettiğim oturumu sundum. Sunum boyunca özellikle üniversitedeki  hocalarımızın soruları beni çok mutlu etti. Genelde özel sektörden gelen konuşmacılara karşı önyargılı olan akademisyenlere alışık olduğum için durumu biraz garipsemedim desem yalan olur :)
 
 ![](media/Istanbul_Aydin_Universitesinde_Cloud/istanbul-aydin-universitesi.jpg)
@@ -15,3 +16,5 @@ Dün **İstanbul Aydın Üniversitesi**'ni ziyaret ettim. **Cloud 101** adındak
 Etkinlikte emeği geçen Bilişim Kulübü'ndeki kardeşlerime davetleri için çok teşekkür ediyorum :) Her zamanki gibi Azure ile ilgilenenleri kesinlikle [Istanbul Azure Meetup](http://www.meetup.com/Istanbul-Azure-Meetup/)'a da bekliyorum.
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-4-7 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure Platformunda Ne Nedir? (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"
 yavaş yavaş sona yaklaşıyor! Dün akşam serideki webinerlerinden
@@ -23,3 +24,5 @@ Webiner kaydı hazır :) Hemen
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-25 tarihinde yayinlanmistir.*

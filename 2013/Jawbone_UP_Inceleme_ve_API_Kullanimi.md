@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Gadget
 ---
+# Jawbone UP İnceleme ve API Kullanımı
 Pedormetrelerle hiç uğraştınız mı bilmiyorum fakat son zamanlarda çok
 farklı pedometreler farklı özelliklerle ortaya çıkıyorlar veya belki de
 ben spora olan ilgimin hayatıma geri gelmesi ile bu durumun daha bir
@@ -242,3 +243,5 @@ Github'da beklerim ;)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-8-26 tarihinde yayinlanmistir.*

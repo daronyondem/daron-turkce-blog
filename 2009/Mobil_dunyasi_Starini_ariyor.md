@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 928c70af-7c26-4aaa-b18f-e0012abb8c63
 ---
+# Mobil dünyası Star'ını arıyor!
 Yarışmayı kazananları büyük bir sürpriz bekliyor! Sanırım bir yazıya
 böyle başlamak epey garip olsa gerek fakat maalesef şu anda sürpriz
 olduğu için sizlerle paylaşamayacağım fakat yarışmanın birincisini
@@ -21,3 +22,5 @@ Siteyi tamamen Silverlight 2.0 ile yaptığımızı özellikle belirtmek
 isterim :) Hepiniz iyi şanslar ;) Bakalım Star siz misiniz?
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-6 tarihinde yayinlanmistir.*

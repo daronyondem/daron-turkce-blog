@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight
 old.EntryID: 7f3952db-0bfb-4172-8e44-057cbbd00b98
 ---
+# Silverlight ve VideoBrush Kullanımı
 Dünkü Silverlight ve MediaElement örneğimize **VideoBrush** ile devam
 edeceğiz. İlk olarak MediaElement nesnemizi biraz daha ufaltarak yansıma
 için ekranda yer açalım. Sonrasında da MediaElement'imize bir isim
@@ -485,3 +486,5 @@ hayal gücünüze kalmış.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-30 tarihinde yayinlanmistir.*

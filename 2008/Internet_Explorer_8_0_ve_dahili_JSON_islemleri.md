@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 5fd841c9-c9df-4e1c-a0d0-0f35e19c839a
 ---
+# Internet Explorer 8.0 ve dahili JSON işlemleri
 AJAX ile programlama yaparken en sık kullandığımız veri taşıma
 formatlarından biri JSON (JavaScript Object Notation). Detaylarına
 baktığımızda ASP.NET AJAX içerisinde de tüm PageMethod'lar sunucundan
@@ -121,3 +122,5 @@ style="color: blue;">this</span>.JSON)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-13 tarihinde yayinlanmistir.*

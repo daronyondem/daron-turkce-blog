@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Ekim'in Çekiliş Kitapları bu sefer 5 tane!
 [Geçen ayki "Kitap
 Çekilişi"](http://daron.yondem.com/tr/post/Eylul_un_Cekilis_Kitabi_Server_AppFabric)
 ile beraber oluşan yoğun ilgi ile beraber ben de bu ay biraz daha
@@ -63,3 +64,5 @@ derim.
 Hepinize bol şanslar!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-10-1 tarihinde yayinlanmistir.*

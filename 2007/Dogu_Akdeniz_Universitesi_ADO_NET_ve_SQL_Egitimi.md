@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: 8738565d-aa29-4a4e-9798-b44ad488bb1c
 ---
+# Doğu Akdeniz Üniversitesi ADO.NET ve SQL Eğitimi
 Son 10 gündür KKTC'de **Doğu Akdeniz Üniversitesi**'nde ADO.NET ve SQL
 eğitimindeydim. Her zamanki gibi muhteşem bir eğitim geçirdik. Özellikle
 eğitimin sonundaki Visual Studio 2008 ve LINQ2SQL kısmı ağızları açık
@@ -32,3 +33,5 @@ olan [BTDays](http://www.btdays.com/) ekibinden Göker Toplu'ya buradan
 ayrıca teşekkür ediyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-10 tarihinde yayinlanmistir.*

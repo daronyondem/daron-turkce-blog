@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
 old.EntryID: ec8facbd-6ae8-4547-ba12-211dc5ad9fcd
 ---
+# Windows Phone 7'de GPS sensörüne erişim.
 GPS sensörleri gün geçtikçe her yerde karşımıza çıkıyor. Kişisel olarak
 konuşmam gerekirse bir cep telefonu satın alırken GPS sensörüne sahip
 olması benim için satın alma kararımda çok önemli bir kriter. Özellikle
@@ -228,3 +229,5 @@ Location implementasyonu rahatlıkla yapılabilir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-13 tarihinde yayinlanmistir.*

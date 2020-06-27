@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 7
 ---
+# Windows Phone 7 Performans İpuçları
 Dün[Windows Phone 7'de performans
 metriklerinden](http://daron.yondem.com/tr/post/Windows_Phone_7_Performans_Metrikleri)
 bahsettikten sonra bugün biraz da performans analizi ve ipuçlarına
@@ -212,3 +213,5 @@ Umarım bu analizlerle uygulamalarınızı daha performanslı hale
 getirebilirsiniz ;) Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-27 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 105
 Tags: Azure Functions, Azure Notification Hub
 ---
+# Azure Functions ve Notification Hub Binding
 Mobil uygulamaların back-end tarafı ile ilgili bana gelen en popüler sorular push notificationlar ile ilgili oluyor. Belirli aralıklarla bazı şeyleri kontrol edip notification yollamak bunların arasında en popüleri. Azure Functions ile beraber gelen Azure Notification Hub Output Binding desteği aslında bu tarz senaryolar için biçilmiş kaftan. 
 
 ### Hazırlıklar
@@ -107,3 +108,5 @@ Ben bu örnekte basit bir şekilde saat bilgisini push notification olarak gönd
 İşte gördüğünüz gibi olay bu kadar basit. Artık ister **timerTrigger** gibi yapılarla belirli aralıklarla bir durumu kontrol edip ona göre push notification gönderme kararı alın, ister bir kuyruğu dinleyip görev geldiğinde notification gönderin. Dediğim gibi bundan sonrası sizin ihtiyaçlarınıza göre şekillendirilebilir. Önemli olan kısım Azure Functions ve NotificationHub Binding ile beraber aslında full bir back-end derdine girmeden notification ihtiyaçlarınızın neredeyse hepsini karşılayabiliyorsunuz. 
 
 Hepinize kolay gelsin.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-10 tarihinde yayinlanmistir.*

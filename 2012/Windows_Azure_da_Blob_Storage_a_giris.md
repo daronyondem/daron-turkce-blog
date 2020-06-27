@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Windows Azure'da Blob Storage'a giriş
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Azure_Blob_Storage_giris_SDK2_5)
@@ -240,3 +241,5 @@ Bir sonraki yazıda biraz daha detaya girerek Blob konumuza devam
 edeceğiz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-6-12 tarihinde yayinlanmistir.*

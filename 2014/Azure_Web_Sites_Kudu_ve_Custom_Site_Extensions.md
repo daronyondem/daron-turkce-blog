@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure Web Sites, Kudu ve Custom Site Extensions
 Azure Web Sites üzerinde bir siteniz varsa doğrudan o sitenin bulunduğu
 donanıma erişiminiz olmadığını da bilirsiniz. Siteniz seçtiğiniz profile
 göre paylaşımlı bir ortamda veya size özel bir sunucuda da barındırılsa
@@ -139,3 +140,5 @@ veriyor. Hayırlısı diyelim :)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-3-25 tarihinde yayinlanmistir.*

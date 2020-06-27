@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 76dd338b-91ca-4b44-8cbf-5e112c5d1b6d
 ---
+# Internet Explorer 8 Kitapçığı
 **![Internet Explorer 8
 Kitapçığı](media/Internet_Explorer_8_Kitapcigi/24032009_1.jpg)Internet
 Explorer 8** lansmanı yapılalı yaklaşık bir hafta oluyor. Ben de sizlere
@@ -30,3 +31,5 @@ Internet Explorer 8 Kitapçık ([Mirror
 [Mirror 2](media/Internet_Explorer_8_Kitapcigi/ie8_ebook_tr.pdf))
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-25 tarihinde yayinlanmistir.*

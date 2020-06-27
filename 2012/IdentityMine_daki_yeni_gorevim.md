@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# IdentityMine'daki yeni görevim.
 Tam sekiz yıl oldu :) kendi şirketimde, DEVELOAD'da maceraları atılmaya
 başlayalı. Bu maceralardan çok şeyler öğrendiğimi itiraf etmem gerek :)
 Başka bir şekilde sekiz yılda bu deneyim birikimini toparlamam mümkün
@@ -43,3 +44,5 @@ Hepinizle bu sevinçli haberi paylaşmak istedim ;) Kendinize çok iyi
 bakın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-7 tarihinde yayinlanmistir.*

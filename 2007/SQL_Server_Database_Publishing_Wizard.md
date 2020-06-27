@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET, Visual Studio 2005, SQL Server 2005
 old.EntryID: d865738a-4fb1-4101-b289-518215a39dbe
 ---
+# SQL Server Database Publishing Wizard
 Yeni hazırladığınız web sitenizi SQL2005 veritabanı üzerine kurguladınız
 ve lokal olarak kendi makinenizde yarattığınız SQL veritabanına
 hazırladığınız site ile bazı verilerinizi de girdiniz. Sıra geldi web
@@ -62,3 +63,5 @@ ilgili bir yazıyı da bir gün yazmam gerekir :)
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-16 tarihinde yayinlanmistir.*

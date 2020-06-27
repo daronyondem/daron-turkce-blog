@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 4283a271-24a9-4a62-aed6-d38d291dd9a2
 ---
+# Silverlight 3.0 Beta içerisinde (Out Of Browser) tarayıcı dışı uygulamalar.
 Silverlight 3.0 Beta ile beraber gelen ilginç özelliklerden biri de
 herhangi bir Silverlight uygulamasını doğrudan masaüstüne alabiliyor
 olmamız. Gelin öncelikle hızlı bir demo ile yeni yarattığımız bir
@@ -769,3 +770,5 @@ yapabilmek için de birkaç satır koddan ödeye geçmenize gerek kalmıyor.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-27 tarihinde yayinlanmistir.*

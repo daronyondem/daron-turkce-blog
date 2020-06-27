@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET 4.5, Windows Azure, HTML5, WCF, WF, Windows 8, Windows Phone, Windows Phone 7.5, Windows Server 8
 ---
+# INETA İzmir Etkinliği Geldi Geçti..
 Vuuhuuu :) Uzun süre olmuştu INETA tarafında hafta sonu iki günlük
 etkinlikler yapmayalı. Eski efsane aynı tadı ile geliyor desem yeridir.
 İlk etkinliğimiz olan INETA İzmir'i geçen hafta sonu alnımız akı ile
@@ -49,3 +50,5 @@ Eh artık teşekkürleri bitirdim galiba :) Bir sonraki etkinlik sizin
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-13 tarihinde yayinlanmistir.*

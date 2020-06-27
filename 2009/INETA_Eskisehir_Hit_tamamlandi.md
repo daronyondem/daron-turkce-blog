@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Silverlight 2.0, WPF, ASP.NET
 old.EntryID: 76edc641-ece6-48bd-bf3f-b164eb6e8422
 ---
+# INETA Eskişehir Hit tamamlandı.
 Blogdan da duyurduğum üzere geçen hafta sonunu Eskişehir'de geçirdik.
 Yine çok zevkli bir etkinlikte iki gün boyunca yoğun bir tempo ile
 birçok konuya değindik. **Silverlight, Oyun Programlama, WPF, LINQ,
@@ -33,3 +34,5 @@ Eskişehir'e buradan en kısa zamanda tekrar görüşmek üzere diyerek
 seminerlere katılan tüm arkadaşlara çok teşekkür ediyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-10 tarihinde yayinlanmistir.*

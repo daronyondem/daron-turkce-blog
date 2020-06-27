@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Design
 old.EntryID: eb52af92-3369-4e26-a519-61fc18518097
 ---
+# Expression Design 2 Beta Yenilikleri
 Expression Studio ürün ailesinin ikinci sürümüne adım adım yaklaştığımız
 bu günlerde fırsatını buldukça Expression Studio 2 ile ilgili de gelen
 yenilikleri kapsayan yazılar yazmak istiyorum. Bu çerçevede ilk olarak
@@ -103,3 +104,5 @@ bir evrim geçiriyor. Slice olayına el atılmış ve bence muhteşem bir
 sistem oluşturulmuş. Devamını heyecanla bekliyoruz Microsoft :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-21 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Makinemizi Windows Azure'a hazırlamak (SDK2.2)
 Windows Azure dünyasına girişimize devam ederken :) sıra geldi yavaş
 yavaş elleri kirletmeye... Azure ile ilgili ilk projemizi yaratma
 yolunda ilerlerken doğal olarak Visual Studio açıp birşeyler yapmak için
@@ -91,3 +92,5 @@ hazır. Hadi ne bekliyorsunuz?
 Bir sonraki yazıda görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-11-27 tarihinde yayinlanmistir.*

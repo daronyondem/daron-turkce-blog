@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 65
 Tags: Azure Functions
 ---
+# Azure Functions ve TimerTrigger Kullanımı
 Belirli zamanlarda veya aralıkla iş yapmak hep problem olmuştur :) Hem istediğim zamanda ve aralıkta çalışmasından emin olmak isteriz hem de altyapıyı ölçeklendirdiğimizde söz konusu işin yine bir defa çalışmış olmasını isteriz :) Hayat zor :) Şaka bir yana, tüm bunlar için Azure Functions içerisinde kullanımı süper basit bir yapı var, adı da **timerTrigger**. Gelin hızlıca detaylarına göz atalım.
 
 **[function.js]**
@@ -64,3 +65,5 @@ Varsayılan ayarlarda blob lease'ler bir dakikalığına alınır. Fakat isterse
 Bundan sonraki artık size kalmış. İsterseniz **timerTrigger** ile beraber [Queue Binding](http://daron.yondem.com/software/post/Azure_Functions_ile_QueueTrigger_Kullanmak) kullanarak belirli sürelerde kuyruğa iş atarsanız, isterseniz [Blob Binding](http://daron.yondem.com/software/post/Azure_Functions_ile_BlobTrigger_Kullanmak) maceralara atılırsınız :) tercih size kalmış. Tabi bunların hiçbirini kullanmayıp istediğiniz kodu da Azure Functions'da çalıştırabilirsin. 
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-6 tarihinde yayinlanmistir.*

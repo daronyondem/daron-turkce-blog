@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET, Visual Studio 2005, Visual Studio 2008
 old.EntryID: 2ea76610-e01e-4804-9e0c-959185549c5d
 ---
+# ASP.NET Compile Seçenekleri
 Web projelerinin dağıtımında kaynak kodların korunması veya en azından
 alenen ortaya konmaması genelde ticari projelerde istenen bir durumdur.
 Kendi adıma konuşmam gerekirse ben hem daha kolay kullanım hem de
@@ -79,3 +80,5 @@ ulaşabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-22 tarihinde yayinlanmistir.*

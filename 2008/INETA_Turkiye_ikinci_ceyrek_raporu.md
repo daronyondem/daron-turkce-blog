@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: cc8058d8-3e1e-450c-a2a6-3817e2a4ae1f
 ---
+# INETA Türkiye ikinci çeyrek raporu.
 Geçenlerde **INETA** tarafında ikinci çeyrek değerlendirmesi
 çerçevesinde raporumu hazırlarken "*Neden bu raporu sitemden de
 paylaşmıyorum?*" diye bir an düşündüm. Aradan biraz zaman geçse de
@@ -55,3 +56,5 @@ saldıracağız, ordumuz genişliyor :)
 Bizi izlemeye devam edin (çok klişe oldu ama neyse ;))\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-26 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, WPF
 old.EntryID: 381ac071-65ee-494f-b2a9-d971af95f3bf
 ---
+# Vista Gradientları XAML Kodları
 Özellikle "*developer*" tabanlı olanlar için hazırlanan bir uygulamanın
 görsel arayüzünü süslemek hem bir "çin işkencesi" oluyor hem de ortaya
 zaten güzel bir ürün de çıkmıyor. Bu gibi durumlarda eğer projelerinizde
@@ -548,3 +549,5 @@ Gradientları](media/Vista_Gradientlari_XAML_Kodlari/23052008_1.png)\
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-23 tarihinde yayinlanmistir.*

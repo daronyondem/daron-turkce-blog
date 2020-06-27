@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 02884a23-9355-4a2b-885a-4577f2003d08
 ---
+# twitter.com'da ben ve twitter'dan veri çeken Silverlight uygulamam
 Uzun süredir "*Yahu nedir ki bu twitter??*" şeklinde düşünerek takip
 ediyordum olan biteni. Bugün biraz zaman bulunca twitter.com üzerinden
 kendime yeni bir hesap açmaya karar verdim. Hesabımı açmamla beraber cep
@@ -54,3 +55,5 @@ Kolay gelsin ;)
 KB)](media/twitter_com_da_ben_ve_twitter_dan_veri_ceken_Silverlight_uygulamam/16052008_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-17 tarihinde yayinlanmistir.*

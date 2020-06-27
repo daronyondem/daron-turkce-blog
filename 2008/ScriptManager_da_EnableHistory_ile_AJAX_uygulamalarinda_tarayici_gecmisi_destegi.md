@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 306e7425-d52e-46f4-a6e1-dfaf893ef598
 ---
+# ScriptManager'da EnableHistory ile AJAX uygulamalarında tarayıcı geçmişi desteği.
 AJAX kullanılan sitelerde tarayıcıların "Geri" düğmesinin çalışmaması
 sorunu ile ilgili farklı JavaScript kütüphanelerinde çözümler bulunsa da
 ASP.NET ile sunucu tarafında kullanılabilecek tek bir çözüm vardı.
@@ -276,3 +277,5 @@ kopyalayarak paylaşabileceklerdir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-15 tarihinde yayinlanmistir.*

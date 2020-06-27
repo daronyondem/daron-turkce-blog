@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0, WPF
 old.EntryID: a0559273-f847-4275-9d26-62036902dc11
 ---
+# Adana, Çukurova Üniversitesi'nde Silverlight 3.0 ve WPF oturumlarım
 İki gündür **Adana, Çukurova Üniversitesi**'ndeydim. İlk gün
 Microsoft'un Gençsen Geleceksin etkinliğinde konuşmacı olduktan sonra
 ikinci gün de teknik oturumlar ile **Silverlight 3.0** ve **WPF**
@@ -40,3 +41,5 @@ ediyorum, umarım olabildiğince faydalı bir etkinlik olmuştur. En kısa
 zamanda tekrar görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-3 tarihinde yayinlanmistir.*

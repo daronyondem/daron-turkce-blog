@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 33ceddaf-3f67-4e5d-a8a1-1cba7344c3cd
 ---
+# Silverlight nesnelerinin fare ile dinamik olarak büyütülerek küçültülmesi.
 Silverlight animasyonları içerisindeki nesnelerin dinamik olarak
 kullanıcılar tarafından boyutlandırılmasını sağlayabilirsiniz. Bunun
 için de tabi ki en hızlı yol kullanıcıya fare ile herhangi bir nesneyi
@@ -241,3 +242,5 @@ style="color: blue;">null</span>);
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-17 tarihinde yayinlanmistir.*

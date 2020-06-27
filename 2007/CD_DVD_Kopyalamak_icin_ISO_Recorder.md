@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 351debde-e76b-48ff-ba6d-87c507c89782
 ---
+# CD, DVD Kopyalamak için ISO Recorder
 CD ve DVD yaratmak için ek bir program olmaksınız Windows'un kendi
 sistemlerini kullanabiliyoruz. Fakat maalesef CD veya DVD'lerin image
 dosyalarını alacak veya image dosyalarında CD ve DVD yazacak bir araç
@@ -28,3 +29,5 @@ To CD" seçeneği ile direk CD veya DVD'ye ISO dosyalarını yazabilirsiniz.
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-10 tarihinde yayinlanmistir.*

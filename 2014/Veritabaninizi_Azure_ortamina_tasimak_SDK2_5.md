@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
+# Varolan bir veritabanını Azure ortamına taşımak! (SDK2.5)
 SQL Azure ile birşeyler yapmaya başladınız fakat hala elinizdeki
 veritabanı ile nasıl ilerleyebileceğinizi kestiremiyorsunuz. Gelin o
 zaman beraber bir göz atalım. Birincisi ilk olarak web panelinde nasıl
@@ -91,3 +92,5 @@ Gördüğünüz üzere kullanılabilecek bir çok seçenek mevcut. Bunlardan han
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-3 tarihinde yayinlanmistir.*

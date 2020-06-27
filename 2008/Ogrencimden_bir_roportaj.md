@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: abeb4c0c-6880-4c74-9d4f-41c9cfadb7cf
 ---
+# Öğrencimden bir röportaj...
 Geçenlerde sonlandırdığımız **INETA** ve **NETRON** işbirliğindeki üç
 günlük ücretsiz Silverlight eğitiminden bahsetmiştim. Eğitim boyunca her
 güne kesintisiz bir şekilde katılan öğrencilerimden **Oğuzcan Şahin**
@@ -27,3 +28,5 @@ bekliyorum.
 yanlış anlaşılmasın :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-8 tarihinde yayinlanmistir.*

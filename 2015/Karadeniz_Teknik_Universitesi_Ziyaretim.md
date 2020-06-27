@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 8
 Tags: Seminer, Windows Azure
 ---
+# Karadeniz Teknik Üniversitesi Ziyaretim
 Dün Trabzon Karadeniz Teknik Üniversitesi'ndeydim. [Bilgisayar Mühendisliği kulübü](https://twitter.com/ktu_cec)nün düzenlediği Azure Fest etkinliğinde Azure konuştuk. Azure oturumunun haricinde yoğun istek üzerine :) "Boş Durma Boşa Çalış" sunumumu da yaptım.  
 
 ![](media/Karadeniz_Teknik_Universitesi_Ziyaretim/trabzon.jpg)
@@ -17,3 +18,5 @@ Benim için eğlenceli ve bir o kadar da hızlı geçen bir gündü. Maalesef bu
 Etkinlikte emeği olan tüm Bilgisayar Mühendisliği ekibine ve sevgili MSP kardeşlerimiz Hilal Şener, Yavuz Gedik'e de çok teşekkür ediyorum. 
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-12-20 tarihinde yayinlanmistir.*

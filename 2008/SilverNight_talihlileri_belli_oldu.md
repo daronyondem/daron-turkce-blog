@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 18f0cbc6-eaff-46a8-8afc-2e9a0328ea08
 ---
+# SilverNight talihlileri belli oldu!
 Bugün [SilverNight'ın](http://www.silvernight.ms) çekiliş günüydü :)
 Malum artık çekiliş için kayıtları kapattık ve gözümüzü de kapatıp
 parmağımızı listede rastgele yerlere basarak çekilişimizi yaptık. :)
@@ -35,3 +36,5 @@ yetiştiririz.
 Sevgilerle...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-10 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2008
 old.EntryID: cc932bbb-aa85-4bc1-8db1-6c488c587e80
 ---
+# Source Outliner aracı.
 Code-Behind dosyaları hayatımızı kolaylaştırsa da bazı durumlarda
 istediğimiz kodu bulmak gerçekten zor olabiliyor. Bu tarz durumlarda
 aslında tüm nesnelerin bir listesini tutan bir pencere olsa da oradan
@@ -31,3 +32,5 @@ nesneye ait kodun bulunduğu yere otomatik olarak götürüyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-12 tarihinde yayinlanmistir.*

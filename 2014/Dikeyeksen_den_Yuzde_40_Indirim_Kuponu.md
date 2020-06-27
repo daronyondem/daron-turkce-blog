@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Haberler
 ---
+# Dikeyeksen'den Yüzde 40 İndirim Kuponu
 Sizlerle paylaşmak istediğim ve biraz da geç kaldığım bir duyuru var :)
 Dikeyeksen yayınları bana ve dolaylı olarak sizlere kıyak geçerek **tüm
 kitaplarında %40 indirim** yapıyor! Hafta başında Twitter ve
@@ -27,3 +28,5 @@ yarısına kadar geçerli**. O nedenle acele etmenizde fayda var.
 Kendinize çok iyi bakın. Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-1-11 tarihinde yayinlanmistir.*

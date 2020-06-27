@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: live.com
 old.EntryID: 9b8ae27a-fec2-457d-811b-31028a9c1d38
 ---
+# İstediğiniz alan adına 500 E-Mail mail.live.com altyapısı ile...
 Sizlere bir süredir yayında olan bir Windows Live hizmetinden bahsetmek
 istiyorum. Bu hizmetten maalesef özellikle Türkiye'de kimsenin haberi
 yok sanırım :) Çok az yerde kullanıldığını gördüm.
@@ -43,3 +44,5 @@ yaparak arttırma talebinde de bulunabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-23 tarihinde yayinlanmistir.*

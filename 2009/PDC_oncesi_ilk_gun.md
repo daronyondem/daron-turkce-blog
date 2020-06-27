@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 76531f24-40fb-4713-b72d-30d6b3321081
 ---
+# PDC öncesi ilk gün!
 PDC öncesinde Los Angeles ısınma turlarını yaptığım bugünlerde ikinci
 ziyaretimde sonunda Los Angeles'ta bir yerleri görme fırsatım oldu :)
 Daha önce ziyaretminde sadece teknoloji mağazalarını gezebilirken bu
@@ -47,3 +48,5 @@ ama yarına kadar yazamam! Yarınki Keynote'dan görüntülerle görüşmek
 üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-17 tarihinde yayinlanmistir.*

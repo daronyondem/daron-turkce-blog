@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'a Remote Desktop (SDK2.2)
 İlk zamanlarda Azure'a Remote Desktop ile bağlanmak çok daha meşakkatli
 bir işken artık yeni SDK'ler ile beraber çok basit bir hale geldi. Peki
 nedir tam olarak bu Remote Desktop? Azure'a Remote Desktop ile bağlanmak
@@ -157,3 +158,5 @@ olduk hem biraz da azure'daki sanal bir makineyi karıştırdık ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-3-3 tarihinde yayinlanmistir.*

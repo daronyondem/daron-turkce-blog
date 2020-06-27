@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 16
 Tags: Seminer
 ---
+# Imagine Cup 2016 Türkiye Finali
 Dün **Imagine Cup 2016 Türkiye Finali**'ndeydim. Tüm finali Periscope'dan canlı olarak yayınladım, kaydını da sonrasında [Youtube](http://daron.tv) üzerinden paylaştım. Merak edenler final sunumlarını, jürinin sunumlar esnasında yorumlarını ve nihai değerlendirmeyi aşağıdaki videodan izleyebilirler.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xa_xSN9XxY0" frameborder="0" allowfullscreen></iframe>
@@ -19,3 +20,5 @@ Yanlış hatırlamıyorsam 2008'den beridir Imagine Cup Türkiye finallerinde j�
 Dereceye girsin, girmesin, tabi ki katılan herkesin emeğine sağlık. Dereceye girsin, girmesin, tüm gruplara tavsiyem daha sıkı çalışmaları. 
 
 Bu sene [Imagine Cup Pan-Arap](https://www.imaginecup.com/custom/panarab) Finali'nde de Jüri koltuğunda olacağım. [(Oldu, bitti bile)](http://daron.yondem.com/software/post/Imagine_Cup_Pan_Arab_Semi_Finals_2016) Mısır, Saudi Arabistan, Ürdün gibi 13 ülkenin bölge finali olan Pan-Arap Finali bu sene Kahire'de gerçekleşecek. Oradan canlı yayın yapabilir miyim emin değilim :) ama VLOG olabilir, en kötü blog olur :) bir şeyler aktaracağım kesin. Özellikle bu seneki **MVP MEA Day** ile de birleşmesi efsane olacak. Neyse, çok uzatmadan, bir sonrakinde görüşmek üzere...
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-4-15 tarihinde yayinlanmistir.*

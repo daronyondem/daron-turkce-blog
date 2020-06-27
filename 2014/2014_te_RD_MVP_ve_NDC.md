@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: MVP, Nokia, Windows Azure, Windows Phone, Windows Phone 7, Windows Phone 7.5, Windows Phone 8
 ---
+# 2014'te RD, MVP ve NDC
 Karambolde unutmuşum bu blog postu atmayı :)
 [Build](http://daron.yondem.com/tr/search/Build%202014) vs yoğunlukta
 fırsat bulamadım. Her yıl olduğu gibi yine Nisan dönemi benim için
@@ -30,3 +31,5 @@ Microsoft hem de Nokia'ya teşekkürler. Umarım çok daha güzelini ve
 iyisini yaptığımız bir yıl olur önümüzdeki yıl.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-4-15 tarihinde yayinlanmistir.*

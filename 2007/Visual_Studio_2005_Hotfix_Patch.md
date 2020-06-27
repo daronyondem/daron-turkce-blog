@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET
 old.EntryID: 19c06ecb-be08-4150-9634-4286cd4f1e50
 ---
+# Visual Studio 2005 Hotfix Patch
 F5 tuşu ile Visual Studio içerisinde Debug başlattığınızda projeleriniz
 1 dakikaya yakın bir bekleme süresi sonunda çalışır hale geliyorsa
 aşağıdaki adresten gerekli yamayı indirerek bilgisayarınıza
@@ -21,3 +22,5 @@ code-behind dosyalarında aynı anda farklı kodların Debug için
 işaretlenmesinden kaynaklanıyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-22 tarihinde yayinlanmistir.*

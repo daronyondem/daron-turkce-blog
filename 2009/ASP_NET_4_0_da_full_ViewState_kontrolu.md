@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 4.0, ASP.NET
 old.EntryID: 8ae727f9-12e9-4e50-8613-a0507c2f393c
 ---
+# ASP.NET 4.0'da full ViewState kontrolü!
 ASP.NET'teki performans optimizasyonu açısından en sevmediğimiz fakat
 yine işimizi kolaylaştırdığı için kullanmak durumunda kaldığımız bir
 diğer özellik de ViewState. Sayfa içerisinde kontrollerin
@@ -71,3 +72,5 @@ kontrolde de geçerli olmasını sağlıyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-15 tarihinde yayinlanmistir.*

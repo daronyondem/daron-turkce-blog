@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 46
 Tags: Azure CDN, Windows Azure
 ---
+# Microsoft Azure CDN Kullanımı
 CDN (Content Delivery Network)'leri tüm dünyaya yayılmış bir static
 içerik cacheleme servisi olarak düşünebilirsiniz. Uygulamanıza veya
 blob'unuza gelecek trafiğin ciddi şekilde azalmasını, kaldırılabilecek
@@ -46,3 +47,5 @@ ile işi bitirebilirsiniz.
 ![Azure CDN POP lokasyonları.](media/Microsoft_Azure_CDN_Kullanimi/cdn_pop_locations_update.png)  
 
 Görüşmek üzere!
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-10-9 tarihinde yayinlanmistir.*

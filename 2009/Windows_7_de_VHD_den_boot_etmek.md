@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: a8587e2e-11e7-4f93-9f96-ab17b5a3cad8
 ---
+# Windows 7'de VHD'den boot etmek!
 Windows 7 ile beraber gelen ve biz yazılımcıların özellikle yeni
 teknolojileri test ederken kullanabileceğimiz en güzel özellik VHD'den
 boot etme özelliği. Malum Beta veya Alpha yazılımları normal
@@ -155,3 +156,5 @@ BitLocker ile şifreleme şansınız yok.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-2 tarihinde yayinlanmistir.*

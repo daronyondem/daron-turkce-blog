@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: d13fee74-fe21-4eb5-8645-1782e7b8e21b
 ---
+# 2010'daki paylaşımlarımla ilgili anket!
 2010'a şurada birkaç gün kaldı. Bu çerçevede 2010'da yapmayı
 planladıklarımla ilgili bazı kararları da sizlerle beraber almaya karar
 verdim. Böylece hemen ortaya aşağıda linkini göreceğiniz anket çıktı.
@@ -23,3 +24,5 @@ yapacağıma karar vereceğim. Hepinize şimdiden katkınız ve zamanınız içi
 çok teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-22 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 14cc9b66-5b59-414d-894a-f96af83a4eaa
 ---
+# TechEd Online Röportajım
 Hatırlarsanız Berlin, TechEd Europe ziyaretimi sizlerle blogumdan
 paylaşırken TechEd Online için de bir "[Multitouch in
 Silverlight](http://www.msteched.com/online/view.aspx?tid=de0bf60e-9e5f-492d-a176-818281e94cb2)"
@@ -22,3 +23,5 @@ Silverlight](http://go2.microsoft.com/fwlink/?LinkId=108181)](http://go2.microso
 
 </div>
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-15 tarihinde yayinlanmistir.*

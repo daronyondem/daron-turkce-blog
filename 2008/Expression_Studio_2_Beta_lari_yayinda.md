@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web
 old.EntryID: 52a90f73-8481-4b1c-948f-0d2b29502004
 ---
+# Expression Studio 2 Beta'ları yayında.
 **Expression Studio** yazılım paketi Microsoft'un tasarımcıları
 hedefleyen ve bizim **WPF, Silverlight** dünyasında harikalar
 yaratmamızı sağlayan ürünleri içeriyor. Expression Studio'nun yeni
@@ -23,3 +24,5 @@ yenilikleri ayrı yazılar olarak sizlerle paylaşacağım.
 MB)](http://www.microsoft.com/downloads/details.aspx?FamilyId=BBE5A30B-E95E-4B0D-A7C6-6367CDD2A9EF&displaylang=en)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-7 tarihinde yayinlanmistir.*

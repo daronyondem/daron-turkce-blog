@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 78f37932-2240-488d-936f-6c5cea7e6b54
 ---
+# DeepZoom Composer ve Silverlight 2.0 RC0 Sorunu
 Silverlight 2.0 RC0 çıktıktan sonra **DeepZoom Composer** ile proje
 yaratmayı denediyseniz göreceksiniz ki DeepZoom Composer hala **Beta 2**
 projeleri yaratıyor. Aslında arada çok büyük farklar olduğunu söyleyemem
@@ -27,3 +28,5 @@ sizin bilgisayarınızdaki yükleme yerine kopyalamanız gerekecek.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-28 tarihinde yayinlanmistir.*

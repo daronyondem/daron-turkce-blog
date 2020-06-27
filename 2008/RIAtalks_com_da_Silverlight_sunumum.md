@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight, Silverlight 2.0
 old.EntryID: 5ede58db-44a0-4584-9931-985e7c4424c9
 ---
+# RIAtalks.com'da Silverlight sunumum.
 Bugün [riatalks.com](http://riatalks.com) aktivitesindeydim. RIA (Rich
 Internet Application) konusu çerçevesinde gerçekleştirilen aktivite
 serisinde benim de ufak bir Silverlight konuşmam oldu. Çok fazla teknik
@@ -23,3 +24,5 @@ kare...](media/RIAtalks_com_da_Silverlight_sunumum/28062008_1.jpg)\
 Üniversitesi'nde düzenlenen aktiviteye katılmalarını tavsiye ederim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-28 tarihinde yayinlanmistir.*

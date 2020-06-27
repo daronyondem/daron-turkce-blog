@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'da bir ASP.NET Projesinin Anatomisi
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/Azure_da_bir_ASP_NET_Projesinin_Anatomisi_SDK2_2)
@@ -233,3 +234,5 @@ sadece kullanacağınız şeyleri ekleyerek ilerleyebilirsiniz.
 Bir sonraki yazıda görüşmek üzere....
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-4-3 tarihinde yayinlanmistir.*

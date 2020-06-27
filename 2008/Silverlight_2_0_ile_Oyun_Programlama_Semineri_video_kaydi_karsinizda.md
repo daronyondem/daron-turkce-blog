@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 13fa1172-d2a2-405c-bb68-f81c40739e5b
 ---
+# Silverlight 2.0 ile Oyun Programlama Semineri video kaydı karşınızda.
 Hatırlarsanız geçen hafta sonu Cumartesi günü Microsoft Türkiye'de [Oyun
 Turu](http://daron.yondem.com/tr/post/05675b05-d628-4a42-85cf-e35fccfdbb37)'nun
 ilk ayağını İstanbul ofisinde gerçekleştirmiştik. Hatta onun sonrasında
@@ -35,3 +36,5 @@ Silverlight](http://go2.microsoft.com/fwlink/?LinkId=108181)](http://go2.microso
 Hepinize iyi seyirler ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-21 tarihinde yayinlanmistir.*

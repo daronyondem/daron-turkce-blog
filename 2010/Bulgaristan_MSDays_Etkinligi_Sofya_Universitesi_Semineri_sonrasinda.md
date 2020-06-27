@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: MultiTouch, Silverlight 4
 old.EntryID: cf847935-b068-4007-96af-66a3a7da2933
 ---
+# Bulgaristan MSDays Etkinliği, Sofya Üniversitesi Semineri sonrasında...
 Son üç gündür Bulgaristan, Sofya'dayım. Çoook önceleri sizlere
 duyurduğum
 [MSDays](http://daron.yondem.com/tr/post/45624dfb-764a-447f-b48c-dd065018e378)
@@ -75,3 +76,5 @@ içinde ekstra hareketlere girişeceğiz. Bunlardan ilkini zaten
 etkinliğini kaçırmayın derim ;) Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-1 tarihinde yayinlanmistir.*

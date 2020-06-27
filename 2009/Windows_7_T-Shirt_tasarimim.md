@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: 35c9cde8-4e56-489a-a18d-1c0e19a5c66c
 ---
+# Windows 7 T-Shirt tasarımım.
 Bir başka T-Shirt tasarımım ile karşınızdayım :) Bir önceki SilverMan
 T-Shirt'ünün gördüğü ilgiden sonra tekstil sektörüne atılmasam da
 Windows 7'nin bende yarattığı heyecanın bir yansıması olarak hemen
@@ -34,3 +35,5 @@ dosyalarını aşağıdan indirebilirsiniz.
 MB)](media/Windows_7_T-Shirt_tasarimim/14012009_2.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-14 tarihinde yayinlanmistir.*

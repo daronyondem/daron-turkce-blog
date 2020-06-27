@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Edge, HTML5
 ---
+# Adobe Edge ile HTML5'e erken bir bakış
 Son zamanların ciddi popüler konularından biri HTML5 :) Aslında bu
 konuda konuşacak çok şey var. Danışmanlıklarımın %90'ında HTML5 soruları
 aldığımı itiraf etmem gerek. HTML5'in geleceği, gerçekten ne kadar
@@ -318,3 +319,5 @@ Hepinize kolay gelsin.
 Bu makalede**Adobe Edge Preview 3** kullanılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-22 tarihinde yayinlanmistir.*

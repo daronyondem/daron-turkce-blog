@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET, Azure Mobile Services, HTML, HTML5, JavaScript, Windows Azure
 ---
+# Web Sitelerinde Azure Mobile Services
 Azure Mobile Services konusunda bundan önce sizlerle [bazı videolar
 paylaştım, webcastler
 yaptık](http://daron.yondem.com/tr/tag/Azure_Mobile_Services) ama itiraf
@@ -140,3 +141,5 @@ sorun ile karşılaşılabileceğini düşünmüyorum.
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-7-23 tarihinde yayinlanmistir.*

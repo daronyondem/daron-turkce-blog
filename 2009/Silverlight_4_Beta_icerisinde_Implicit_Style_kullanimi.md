@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 138d7aa7-feeb-497c-8bac-881d9d9d8d0f
 ---
+# Silverlight 4 Beta içerisinde Implicit Style kullanımı
 Silverlight içerisinde bir uygulamanın arayüzünü temalaştırmak için
 bugüne kadar uyguladığımız yöntem hazır bir temayı harici bir Resource
 dosyasında tutmaktı. Böylece istediğimiz zaman Resource dosyasını
@@ -346,3 +347,5 @@ da bir o kadar basitleşti.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-21 tarihinde yayinlanmistir.*

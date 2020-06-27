@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 100
 Tags: Visual Basic .NET
 ---
+# Visual Basic 14 Yenilikleri
 Yavaş yavaş bir sonraki .NET sürümüne doğru yaklaştığımız bu günlerde gelin bu yazıda Visual Basic 14 ile beraber neler geliyor? Neler değişiyor bir göz atalım. 
 
 ```VB
@@ -145,3 +146,5 @@ Visual Basic kullanan şurada bir elin parmakları kadar kalmış olsak da Rosyl
 Görüşmek üzere.
 
 *[Dikkat: Bu yazının içeriğinde bahsedilen konular 23 Şubat tarihinde yayınlanmış olan Visual Studio 2015 CTP 6 kullanılarak düzenlenmiştir.]*
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-3-10 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure Traffic Manager Nedir? Nasıl Kullanılır?
 Biliyorsunuz Azure datacenter'ları tüm dünyada farklı noktalara
 konumlanmış durumda. Hatta bir servis deploy ederken hangi datacenter'a
 deploy edeceğimizi de biz seçiyoruz. Ama çoğu zaman uygulamanız sadece
@@ -115,3 +116,5 @@ servislerle aynı olmalı çünkü zaten ayrı ayrı tanımlama şansımız yok.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-10-9 tarihinde yayinlanmistir.*

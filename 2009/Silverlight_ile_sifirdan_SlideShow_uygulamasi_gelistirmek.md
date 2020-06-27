@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Görsel Ders, Silverlight 3.0
 old.EntryID: 42427a1e-a30a-461f-a2fc-259128e56185
 ---
+# Silverlight ile sıfırdan SlideShow uygulaması geliştirmek.
 Bir süre önce aldığım bir mail beni biraz şaşırtmıştı. Aldığım mailde
 Silverlight ile basit bir SlideShow uygulamasının nasıl yapılabileceği
 soruluyordu. Şaşırmammın nedeni ise aslında bu gibi bir uygulamanın
@@ -31,3 +32,5 @@ ziyaret edebilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-11 tarihinde yayinlanmistir.*

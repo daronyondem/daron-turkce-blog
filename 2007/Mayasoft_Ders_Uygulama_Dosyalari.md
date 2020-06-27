@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: 586bbb2e-890d-4f4c-aa81-f5c75332aa6b
 ---
+# Mayasoft Ders Uygulama Dosyaları
 **Mayasoft Bilişim Akademisi**'nde sürdüğümüz **Web Tasarım** kursunun
 **11.04.2007** tarihli dersine ait uygulama dosyalarını aşağıdaki
 linkten indirebilirsiniz.
@@ -28,3 +29,5 @@ MB)](http://download.adobe.com/pub/adobe/photoshop/win/cs2/Photoshop_CS2_tryout.
 Sevgiler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-12 tarihinde yayinlanmistir.*

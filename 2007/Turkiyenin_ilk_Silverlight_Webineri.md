@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Webiner
 old.EntryID: 5b72bf4f-0e3d-4705-a016-e9377759ecea
 ---
+# Türkiye'nin ilk Silverlight Webineri
 Türkiye'nin ilk Silverlight webinerini Microsoft'dan [Nuri
 Çankaya](http://www.nuricankaya.com) ile beraber yarın gerçekleştiriyor
 olacağız. Silverlight örneklerinden başlayarak Expression Design,
@@ -39,3 +40,5 @@ civarında olan Office Live Meeting istemcisini de bilgisayarınıza
 şimdiden kurarsanız son anda sorun yaşama ihtimalinden kurtulursunuz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-4 tarihinde yayinlanmistir.*

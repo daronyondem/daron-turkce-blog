@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Eğitimler
 old.EntryID: 8af9c764-b799-4566-9286-d4c138e5a359
 ---
+# AJAX Semineri
 AJAX konulu çalışmalarım yoğun bir şekilde devam ediyor. Sırada AJAX
 başlıklı **3 saatlik** bir seminer var. **Gelişim Platformu** bünyesinde
 düzenleyeceğimiz seminer boyunca **Mayasoft Bilişim Akademisi**’nde
@@ -24,3 +25,5 @@ yeterli.
 <http://www.gelisimplatformu.org/uye/uye_aktivite_detay.asp?MODE=AKTIVITE&akt_id=3693>\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-7-12 tarihinde yayinlanmistir.*

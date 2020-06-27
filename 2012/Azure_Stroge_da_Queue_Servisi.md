@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Azure Stroge'da Queue Servisi
 Azure Storage Account'larda gelen blob ve table'dan sonra son servis
 olan queue (kuyruk) servisi veri saklama açısından diğer servisler kadar
 öne çıkmasa da sonuç itibari güzel bir kuyruklama altyapısı olarak
@@ -113,3 +114,5 @@ görevleri ve önemleri gerçekten çok büyük ;) En kısa zamanda farklı
 makalelerde kuyrukları sahnede görmek üzere ;) Kendinize çok iyi bakın!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-8-28 tarihinde yayinlanmistir.*

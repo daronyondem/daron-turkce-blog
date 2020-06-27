@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 3facf213-7838-4230-81f2-7687e1f7a635
 ---
+# KKTC Doğu Akdeniz Üniversitesi Bilişim Haftası Seminerlerim
 Bu hafta başı 3, 4 Mart tarihlerinde **KKTC Doğu Akdeniz
 Üniversitesi**'nde "Bilişim Haftası" çerçevesinde iki seminerim oldu.
 Seminerlerden ilki "**Microsoft Sertifikasyonları ve Yazılım Sektöründe
@@ -54,3 +55,5 @@ MB)](media/KKTC_Dogu_Akdeniz_Universitesi_Bilisim_Haftasi_Seminerlerim/08032008_
 MB)](media/KKTC_Dogu_Akdeniz_Universitesi_Bilisim_Haftasi_Seminerlerim/08032008_2.xps)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-9 tarihinde yayinlanmistir.*

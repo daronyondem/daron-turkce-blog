@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: c592fa8b-b33c-4d5b-9c6c-b203733643c6
 ---
+# Silverlight 4 Beta içerisinde IDataErrorInfo ile validasyon yeniliği - Görsel Ders
 Bu görsel dersimizde Silverligh 4 Beta ile beraber gelen IDataErrorInfo
 interface'inin Silveright tarafında kullanımına ve validasyon
 senaryolarında yarattığı farklara göz atıyoruz.
@@ -27,3 +28,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-9 tarihinde yayinlanmistir.*

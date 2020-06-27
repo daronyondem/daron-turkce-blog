@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: f7e4c07b-9773-44e0-8e38-74d60e175a9d
 ---
+# INETA Next Hit! Erken duyuru!
 Hepinize tekrar selamlar, bugün epey yoğun bir trafik var blogumda
 farkındayım :)
 
@@ -44,3 +45,5 @@ Bu etkinlik ile ilgili esas duyurulara Mart ayında başlayacağız ama
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-24 tarihinde yayinlanmistir.*

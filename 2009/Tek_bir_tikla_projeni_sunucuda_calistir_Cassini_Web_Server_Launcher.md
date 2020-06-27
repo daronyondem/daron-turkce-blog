@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Silverlight, Silverlight 2.0, ASP.NET
 old.EntryID: 2efde635-a690-4339-91b1-02dc870a08de
 ---
+# Tek bir tıkla projeni sunucuda çalıştır... Cassini Web Server Launcher
 Yeni yılda hayatınızı kolaylaştırma yolunda iddialıyım :) Bu sefer de
 benim işimi çok kolaylaştıran bir aracı sizlerle paylaşacağım.
 
@@ -58,3 +59,5 @@ ASP.NET 2.0 dediğine bakmayın 3.5 SP1 ile herhangi bir sorunu yok.
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-3 tarihinde yayinlanmistir.*

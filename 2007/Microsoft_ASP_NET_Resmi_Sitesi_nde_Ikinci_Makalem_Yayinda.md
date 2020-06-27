@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Genel
 old.EntryID: 5ffabf46-4fea-415d-af68-e2c8bbdfc979
 ---
+# Microsoft ASP.NET Resmi Sitesi'nde İkinci Makalem Yayında
 **Microsoft ASP.NET Resmi Sitesi**'nde [ilk
 makalem](http://daron.yondem.com/en/post/c328a95a-0d22-4309-803e-a2df88e92bcb)
 yayınlandığında (28 Mayıs 2006) heyecanımı [İngilizce blog
@@ -32,3 +33,5 @@ görebilirsiniz. İleride tüm eski makaleler gibi
 yerini alacaktır.\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-29 tarihinde yayinlanmistir.*

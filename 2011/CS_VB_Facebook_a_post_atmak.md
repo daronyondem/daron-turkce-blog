@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET, C#, Visual Basic .NET
 ---
+# .NET'ten Facebook'a post atmak.
 Hazır [.NET'ten Twitter'a mesaj
 atma](http://daron.yondem.com/tr/post/CS_VB_Twitter_a_mesaj_atmak)
 konusuna bakmışken :) Gelin bir de aynı hikayenin Facebook ayağına göz
@@ -165,3 +166,5 @@ style="color:#a31515;">"message"</span>, message}})
 İşte budur! :) Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-5 tarihinde yayinlanmistir.*

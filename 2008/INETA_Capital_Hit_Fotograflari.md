@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight 2.0
 old.EntryID: 3857a275-e650-4eda-9f58-48203fc74e67
 ---
+# INETA Capital Hit Fotoğrafları!
 Sonunda söz verdiğim gibi elime ulaşan tüm [INETA Capital
 Hit](http://daron.yondem.com/tr/post/e7784945-391f-4e80-af92-2e8499d13592)
 fotoğraflarını sizlerle paylaşıyorum. Aşağıdaki adresten tüm
@@ -40,3 +41,5 @@ KB)](media/INETA_Capital_Hit_Fotograflari/29102008_1.rar)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-30 tarihinde yayinlanmistir.*

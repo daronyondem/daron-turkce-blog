@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: ad1bed02-aa17-41ca-8b56-827511895049
 ---
+# Mayasoft Ders Uygulama Dosyaları
 **Mayasoft Bilişim Akademisi**'nde devam etmekte olan **Web Tasarım**
 sınıfımızda uyguladığımız **16.04.2007** tarihli derse ait uygulama
 dosyalarını aşağıdaki linkten indirebilirsiniz. Tavsiyem bir sonraki
@@ -22,3 +23,5 @@ yükleyebiliyor olacaksınız. Şimdiden sıkı çalışmakta fayda var :)
 KB)](media/Mayasoft_Ders_Uygulama_Dosyalari-2/16042007_1.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-17 tarihinde yayinlanmistir.*

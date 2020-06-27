@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Silverlight 2.0
 old.EntryID: ae6093a0-1a24-4f4b-8cac-743a30f8ff79
 ---
+# Microsoft Qatar Silverlight 2.0 Eğitimi
 Son üç gündür Qatar, Doha'da **Microsoft Qatar** için **Aljazeera TV
 IT** departmanın **Silverlight 2.0** eğitimi veriyorum. Eğitim boyunca
 Silverlight 2.0 Beta 2 kullanarak birçok proje yapmakla beraber tabi ki
@@ -31,3 +32,5 @@ yapılanan bir şehir diyebiliriz. Ama benim güzelim ege sahillerim varken
 :) Doha'nın şansı biraz az. 4 mevsim ülkemizin değerini bilelim ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-26 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.0, .NET Framework 3.5, ASP.NET 3.5, LINQ, Silverlight 2.0, Visual Basic 2005, Visual Basic 2008, Visual Studio 2005, Visual Studio 2008, WCF, WF, WPF, Visual Basic .NET, ASP.NET
 old.EntryID: 91811a42-498f-4a1e-bd17-43df2d73277e
 ---
+# Reflection nedir?
 Başlık olarak “**Reflection**” yazdıktan sonra ardına sayfalarca
 açıklama ve örnek konulabilir. Hatta bu konuda ayrı bir kitap bile
 yazılabilir. Reflection’ın çok farklı kullanımlar var. Özetleyerek hızlı
@@ -546,3 +547,5 @@ Gelenler.GetMethod(<span style="color: #a31515;">"Metin"</span>) !=
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-24 tarihinde yayinlanmistir.*

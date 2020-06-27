@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 7.5
 ---
+# Windows Phone 7.5'te Multitasking (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"
 devam ediyor! Dün akşam serinin ikinci webineri olan "**Windows Phone
@@ -24,3 +25,5 @@ Webiner kaydını yine başarılı bir şekilde almayı başardım :) Hemen
 Bir sonraki webiner bayramdan sonra. Görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-4 tarihinde yayinlanmistir.*

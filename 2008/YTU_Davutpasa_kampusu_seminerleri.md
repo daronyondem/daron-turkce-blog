@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ, Seminer, Silverlight 2.0, WPF
 old.EntryID: 84738ec2-71bf-46d7-b282-4062491d297d
 ---
+# YTÜ, Davutpaşa kampüsü seminerleri.
 Bugün **YTÜ, Davutpaşa Kampüsü**'ndeydim. Güne ağır bir **LINQ** oturumu
 ile başladık :) Biraz herkesi sıkıntı bastı :) Sonra yemek molası ile
 dinlenip **WPF** ve **Silverlight** oturumlarına geçtik. Günün sonunda
@@ -31,3 +32,5 @@ Organizasyondaki katkılarından dolayı sevgili **Bahar Göktepe** ve
  
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-26 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure, CSS, HTML, HTML5, IE 10, IE 9, Internet Explorer, JavaScript, Seminer, WebSockets, Windows Phone, Windows Phone 7
 ---
+# 2012'deki ilk Ankara WebCamp
 Sonunda Ankara WebCamp'i de yaptık! :) Neden "Sonunda" diyorum çünkü bu
 ikinci denememiz oldu. İlkinde uçak havaalanına inemeyip Samsun'a
 geçince :) etkinliği iptal etmek zorunda kalmıştık. İkinci denemede kara
@@ -33,3 +34,5 @@ etkinliği ile iki haftaya tekrar Ankara'da olacağız bu sefer çok daha
 geniş bir ekiple. Kaçırmayın derim ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-1-27 tarihinde yayinlanmistir.*

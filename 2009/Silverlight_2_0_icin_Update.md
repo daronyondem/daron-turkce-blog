@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 9fc7c78e-df02-49a9-91ad-938bb22623cd
 ---
+# Silverlight 2.0 için Update
 Bugün Silverlight 2.0 Runtime için yeni bir update çıktı. İstemci
 tarafında Silverlight Runtime kendini otomatik olarak update edecek
 şekilde ayarlı geldiği için çoğu kullanıcı bu değişikliği fark
@@ -23,3 +24,5 @@ yükleme haricinde Visual Studio için herhangi bir ek yükleme vs yapmanız
 gerekmiyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-19 tarihinde yayinlanmistir.*

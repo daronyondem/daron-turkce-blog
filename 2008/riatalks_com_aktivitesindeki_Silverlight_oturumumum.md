@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 5c3bc9b1-525f-4833-a1e0-b41e1575f9f3
 ---
+# riatalks.com aktivitesindeki Silverlight oturumumum.
 Cuma ve cumartesi günlerimi riatalks.com aktivitesinde geçirdim. Benim
 de cuma akşam üstü bir Silverlight sunumum vardı. Her konuşmacıya 45
 dakika ayrıldığı için benim açımdan epey sıkıntılı bir manzara oluştu.
@@ -30,3 +31,5 @@ dolayı teşekkür etmem gerek. Video son haline geldiğinde sizinle
 paylaşacağım.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-10 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, Silverlight 3.0
 old.EntryID: 0a51c06a-9567-4eba-86d1-c0461e921ec2
 ---
+# Silverlight 3.0 Öğrenme Ayı
 Haziran ayı ile beraber yaz dönemi geldi. Tatile gidemeyenler olarak :)
 gelin bu dönemi yenilenme/gelişme dönemi olarak değerlendirelim :) Bu
 ayı "**Silverlight Öğrenme Ayı**" ilan ediyorum ;) ve **12 Seminerden**
@@ -120,3 +121,5 @@ için duyuru konusunda desteğini rica ediyorum. Ne kadar çok kişi
 faydalanırsa o kadar mutluluk verci olur benim için, hepimiz için.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-1 tarihinde yayinlanmistir.*

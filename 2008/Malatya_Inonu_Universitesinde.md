@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 0785ca06-895f-412f-b507-a792633e3335
 ---
+# Malatya İnönü Üniversitesinde...
 Bugün sabahtan Malatya yollarındaydık. Sevgili [Murat
 Duman](http://www.muratduman.net/) ile beraber **Gençsen Geleceksin**
 etkinliği çerçevesinde **Malatya İnönü Üniversitesi**'nde toplamda 3
@@ -38,3 +39,5 @@ yaratabilmek bile bence çok önemliydi. Üç saatte daha fazlası da
 yapılamazdı sanırım :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-20 tarihinde yayinlanmistir.*

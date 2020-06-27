@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Wallpaper
 ---
+# Eylül Wallpaper'ı New York'tan
 Son iki-üç yıldır fotoğrafçılıkla da ilgilendiğimi eskiden beni
 facebook'tan takip edenler bilirler :) Bazı fotoğrafları oradan
 paylaşmıştım. Sonrasında neredeyse tüm fotoğraflarımı
@@ -37,3 +38,5 @@ shutter speed söz konusu. Makine olarak ise ana makinem olan Canon
 Umarım beğenirsiniz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-9-6 tarihinde yayinlanmistir.*

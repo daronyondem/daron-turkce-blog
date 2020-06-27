@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend
 old.EntryID: 43a371f7-1ad2-4e44-9c79-e57e5bb9a23b
 ---
+# Expression Blend 2.5 XAML Intellisense Add-In
 Expression Blend içerisinde eksikliği en çok eleştiri alan özelliklerden
 biri XAML Intellisense bulunmaması. Konsept olarak Expression ürün
 ailesi tasarımcıları hedeflediği için Blend içerisinde XAML kodunun elle
@@ -40,3 +41,5 @@ uyumlu olduğunu ve ancak WPF projelerinde Intellisense sağlayabildiğini
 de hatırlatarak yazımı sonlandırıyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-3 tarihinde yayinlanmistir.*

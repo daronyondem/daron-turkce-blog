@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 1ad17d05-0f1c-4cea-affc-01b15cde28a2
 ---
+# Windows Server 2008 sertifikasyonları.
 Windows Server 2008 lansmanının yaklaştığı bugünlerde yavaş yavaş yeni
 sertifikasyonlar da kendini göstermeye başladı. Microsoft Server ürün
 ailesi için sertifikasyonlardaki gerekli değişiklikleri yaparak son
@@ -53,3 +54,5 @@ Umarım yakında Visual Studio 2008 tarafı da netleşir ve okullu
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-19 tarihinde yayinlanmistir.*

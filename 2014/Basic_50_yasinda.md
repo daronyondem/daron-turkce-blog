@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Visual Basic .NET
 ---
+# Basic 50 yaşında!
 ![Eski Basic
 günleri...](media/Basic_50_yasinda/basic_01.gif)
 
@@ -76,3 +77,5 @@ kutlu olsun Basic!
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-5-1 tarihinde yayinlanmistir.*

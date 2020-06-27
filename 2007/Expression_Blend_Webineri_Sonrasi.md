@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Studio, Webiner
 old.EntryID: 88f53f65-a2a1-4b76-9a39-4a1d169f0ee9
 ---
+# Expression Blend Webineri Sonrası
 Bugün Microsoft İstanbul ofislerinde Microsoft'dan sevgili dostum [Nuri
 Çankaya](http://www.nuricankaya.com) ile beraber Expression Blend
 webinerini başarıyla tamamladık. Webinere ait sunumu aşağıdaki linkten
@@ -21,3 +22,5 @@ sürümünü bulabilirsiniz.
 MB)](media/Expression_Blend_Webineri_Sonrasi/18102007_1.pdf)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-19 tarihinde yayinlanmistir.*

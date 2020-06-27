@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Haberler, Silverlight
 old.EntryID: 7fbe4600-4298-4d30-a350-6839069a2b4a
 ---
+# Haberler...
 Yazılım sektörü ile ilgili dünyadaki ve Türkiye'deki gelişmelerle ilgili
 ufak bir haber geçidi oluşturmaya karar verdim :) Gelin beraberce
 inceleyelim.
@@ -48,3 +49,5 @@ verilmekte.
 değil de böyle topluca derlemeye çalışacağım.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-12 tarihinde yayinlanmistir.*

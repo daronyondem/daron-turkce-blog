@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Windows Azure'da Local Storage kullanımı (SDK2.2)
 Azure ortamı ile ilgilendiğimizden beridir :) sürekli olarak her bir
 role instance'ın aslında kendi kalıcı veri saklama ortamının
 bulunmadığından bahsediyoruz. Bunun tabi ki bir çözümü var :) Windows
@@ -72,3 +73,5 @@ yaptığımız IO işlem yoğunluğuna göre ek bir para vs ödememiz gerekmiyor
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-3-10 tarihinde yayinlanmistir.*

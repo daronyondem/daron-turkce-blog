@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, WPF
 old.EntryID: ac59d348-18d2-45b3-9fdf-3476d26b90af
 ---
+# Uluslararası Kıbrıs Üniversitesi Silverlight ve WPF Seminerleri
 Son iki gündür KKTC'de **Uluslararsı Kıbrıs Üniversitesi**'ndeydim. İlk
 gün güzel bir **WPF** semineri yaptık, ikinci gün de **Silverlight** ile
 yolumuza devam ettik. Önce **WPF** sonra **Silverlight** yapmanın büyük
@@ -39,3 +40,5 @@ maalesef hatırlayamadığım :) fotoğrafları çeken **Yasin'e** de çok
 teşekkürler.  Gerçek bir fotoğrafcılık aşığı.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-10 tarihinde yayinlanmistir.*

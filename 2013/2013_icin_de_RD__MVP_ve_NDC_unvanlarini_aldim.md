@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: MVP, Nokia, Windows Azure, Windows Phone, Windows Phone 8
 ---
+# 2013 için de RD, MVP ve NDC ünvanlarını aldım.
 Yılın yenilenme zamanı :) İlginç bir şekilde yıllık bazda aldığım tüm
 ödüller 1 Nisan'a denk geliyor :) Acaba toplu olarak herkes bana şaka mı
 yapıyor yıllardır diye düşünüyorum bazen :) Dün hem Microsoft tarafından
@@ -24,3 +25,5 @@ Microsoft hem de Nokia'ya teşekkürler. Umarım çok daha güzelini ve
 iyisini yaptığımız bir yıl olur önümüzdeki yıl.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-4-2 tarihinde yayinlanmistir.*

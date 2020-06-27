@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: ab42f061-9aeb-4016-96b1-808b0449104d
 ---
+# yazgelistir.com makalelerim...
 yazgelistir.com'a gönderdiğim üç makalem daha yayınlanmış. Makalelere
 aşağıdaki adreslerden ulaşarak oylayabilirsiniz :)
 
@@ -20,3 +21,5 @@ Kullanımı](http://www.yazgelistir.com/Makaleler/1000001511.ygpx)\
 Application](http://www.yazgelistir.com/Makaleler/1000001523.ygpx)\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-30 tarihinde yayinlanmistir.*

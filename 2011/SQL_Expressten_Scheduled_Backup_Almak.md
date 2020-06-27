@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Server 2008
 ---
+# SQL Express'ten Scheduled Backup Almak
 Blogu yazarkenki hikayalerim bitmiyor değil mi? :) Eh uzun süredir rahat
 rahat her noktasındaki taktiklerden bahsedebileceğim kendimce özgür bir
 proje yazdım :) Genelde müşterilere yapınca projelerin içlerinden
@@ -123,3 +124,5 @@ ile ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-10 tarihinde yayinlanmistir.*

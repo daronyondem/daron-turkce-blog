@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: SQL Server 2008
 old.EntryID: 9b2a1c3d-019a-4707-8101-07c1e9d197fa
 ---
+# Bu kitaplar candır!
 Bilirsiniz pek kitap tanıtımı yazmam. Bundan herhalde bir yıl kadar
 önceydi kendi kütüphanemdeki kitapları kısaca tanıtmıştım. Bugün size
 tanıtmak istediğim iki kitap var. Bunlardan ilki sevgili [Yaşar
@@ -59,3 +60,5 @@ Bu arada benim de kitapları bitirmem lazım artık off off uzadı da uzadı
 :) Neyse kalın sağlıcakla :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-10 tarihinde yayinlanmistir.*

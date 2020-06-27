@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Bir sonraki webcast anket sonuçları
 Geçenlerde Twitter ve Facebook üzerinden bir anket paylaşmıştım. Yakın
 zamanda yapmayı planladığım bir webinerle ilgili öncesinde sizin de
 fikirlerinizi almaktı amacım. Webineri planlayarak yakında blogdan,
@@ -19,3 +20,5 @@ bırakıyorum ;)
 sonuçları.](media/Bir_sonraki_webcast_anket_sonuclari/info.jpg)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-2-18 tarihinde yayinlanmistir.*

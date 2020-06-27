@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 6
 Tags: Seminer, Windows Azure
 ---
+# İstanbul Ticaret Üniversitesi'nde Azure anlattım.
 Dün **İstanbul Ticaret Üniversitesi**'ndeydim. Her zamanki **Cloud 101** oturumunu sundum. Benden sonra da sevgili **Yiğit Özaksüt** Xamarin anlattı :) 
 
 ![İstanbul Ticaret Üniversitesi Azure oturumu sonrası toplu fotoğraf.](media/Istanbul_Ticaret_Universitesinde_Azure_anlattim/ticaret-uni.jpg)
@@ -17,3 +18,5 @@ Etkinlikte emeği geçen tüm kardeşlerime ve bizi misafir eden hocalarımıza 
 Uzun süredir etkinliklerde yukarıdaki gibi bir toplu fotoğraf da çekilmediğimizin farkına vardım :) Eski günleri hatırlattı açıkçası.
 
 Bir sonrakinde görüşmek üzere. 
+
+*Bu yazi http://daron.yondem.com adresinde, 2017-3-25 tarihinde yayinlanmistir.*

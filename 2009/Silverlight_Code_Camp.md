@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: eb77e575-f459-43c0-a292-b215a832d7b0
 ---
+# Silverlight Code Camp
 Son beş gündür KKTC'deydim. "**Silverlight Code Camp**" adında EESTEC
 Famagusta'nın organizasyonundaki etkinlikte gönüllü eğitmen olarak yer
 aldım. Bu süreçte tabi ki çok da eğleceli bir beş gün geçirme şansım
@@ -24,3 +25,5 @@ Ayrıca tüm organizasyon ekibi bence süperdiniz! Bir başka etkinliklte ;)
 görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-2 tarihinde yayinlanmistir.*

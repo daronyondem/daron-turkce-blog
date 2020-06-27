@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 9
 Tags: Seminer, Windows Azure
 ---
+# Hacettepe Üniversitesi'nde Azure
 Dün Ankara'da **Hacettepe Üniversitesi**'ndeydim. **Microsoft Tech Tour** çerçevesinde tahmin edebileceğiniz üzere **Azure, Cloud ve IoT** derken ortaya karışık bir oturum yaptım. Oturum sonrasında da gençlerle bol bol sohbet etme şansımız oldu.
 
 ![](media/Hacettepe_Universitesi_nde_Azure/ankara-hacettepe.jpg) 
@@ -17,3 +18,5 @@ Gün boyunca VLOG çekmeyi de unutmadım :)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DNiVqxBpwEc" frameborder="0" allowfullscreen></iframe>
 
 Etkinlikle ilgili emeklerinden dolayı sevgili Ekrem Candemir kardeşime de çok teşekkür ediyorum.  Herkesin emeğine sağlık. Bir sonraki etkinlikte görüşmek üzere. 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-4-12 tarihinde yayinlanmistir.*

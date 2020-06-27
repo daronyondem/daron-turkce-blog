@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Görsel Ders, Silverlight 3.0, WPF
 old.EntryID: 1e7b394e-e01e-42f8-8ec5-63d48ef2ef35
 ---
+# Expression Blend 3 ile tasarımcılar için veri uygulamaları.
 Tasarımcılar ile yazılımcılar arasındaki iletişim sorunları çözmek
 projelerin işleyişindeki en önemli noktalardan biri. Expression Blend 3
 ve Visual Studio'nun kullanımı ile bir tasarımcı ile yazılımcının
@@ -29,3 +30,5 @@ ziyaret edebilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-9 tarihinde yayinlanmistir.*

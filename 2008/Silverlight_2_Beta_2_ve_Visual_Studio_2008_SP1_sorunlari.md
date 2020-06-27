@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 881a227c-2b32-4959-8bc6-6e58410b74b4
 ---
+# Silverlight 2 Beta 2 ve Visual Studio 2008 SP1 sorunları
 Visual Studio 2008 SP1 yüklemesi sonrası **Silverlight 2 Beta 2** ile
 çalışanlar artık çalışamadıklarını görecekler :) Bu nedenle yeni bir
 yükleme paketi Microsoft tarafından hazırlandı. İlk olarak
@@ -21,3 +22,5 @@ aşağıdaki adresten gerekli yüklemeyi bilgisayarınıza indirerek
 Kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-12 tarihinde yayinlanmistir.*

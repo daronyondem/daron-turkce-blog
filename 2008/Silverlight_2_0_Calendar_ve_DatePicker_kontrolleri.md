@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 6baea5ad-5be9-48e9-bf60-3077c691c3cc
 ---
+# Silverlight 2.0 Calendar ve DatePicker kontrolleri.
 Silverlight 2.0 ile beni en çok şaşırtan özelliklerden biri de WPF'in
 web sürümü diyebileceğimiz ve WPF'e kıyasla bir çok eksiği olan bir
 torun olarak Silverlight ile beraber artık WPF'de bulunmayan bazı
@@ -220,3 +221,5 @@ fark.](media/Silverlight_2_0_Calendar_ve_DatePicker_kontrolleri/10052008_2.png)\
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-11 tarihinde yayinlanmistir.*

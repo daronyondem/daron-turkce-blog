@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight
 old.EntryID: a0698a5e-ea8b-45b9-99a6-c48401e9fe9d
 ---
+# Galatasaray Üniversitesi Silverlight Semineri ardından
 Dün **Galatasaray Üniversitesi'**nde **Bilişim Kulübü**'nun katkıları
 ile süper bir **Silverlight** semineri yaptık. Her zamanki gibi tüm gün
 yoğun bir ders temposundan çıktıktan sonra ciddi bir konsantrasyon
@@ -25,3 +26,5 @@ ve özellikle sevgili kardeşim **MSP, Emre Çalışır**'a buradan teşekkür
 etmek istiyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-15 tarihinde yayinlanmistir.*

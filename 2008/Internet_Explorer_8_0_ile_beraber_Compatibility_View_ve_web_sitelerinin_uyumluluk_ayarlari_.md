@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 0dba3012-ce4b-4019-a77c-74290742ce5f
 ---
+# Internet Explorer 8.0 ile beraber Compatibility View ve web sitelerinin uyumluluk ayarları.
 Internet Explorer ile diğer web tarayıcıları arasında kod uyumsuzluk
 sorunları web programcıları olarak hepimiz biliyoruz. Hazırladığımız
 siteleri tek tek farklı tarayıcılarda test etmek zorunda olmak ve
@@ -139,3 +140,5 @@ silinecektir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-10 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: MultiTouch, Windows 7, WPF
 old.EntryID: ad40863e-5a6c-4319-a943-345e25af7299
 ---
+# Doğu Akdeniz Üniversitesinde Windows 7 günü!
 Bugün Kıbrıs, Doğu Akdeniz Üniversitesi'nde yine her zamanki gibi güzel
 bir gün geçirdim. Aslında maceramız dün başladı :) Dün Microsoft'u
 **Gençsen Geleceksin** turu çerçevesinde bir sunumum oldu. Sonrasında
@@ -26,3 +27,5 @@ Kük](http://www.olcaykuk.com/)'e çok teşekkür ediyorum. Umarım herkes
 için faydalı bir iki gün olmuştur ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-7 tarihinde yayinlanmistir.*

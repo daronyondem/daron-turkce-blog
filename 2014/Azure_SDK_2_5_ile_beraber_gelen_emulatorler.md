@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure SDK 2.5 ile beraber gelen emülatörler ne ayak?
 Azure SDK'yi yüklediğinizde makinenize iki farklı emülatör yükleniyor.
 Bunlardan biri DevFabric de denilen Compute Emulator, yani uygulamanıza
 Azure ortamını yaşatan arkadaş, diğeri ise Storage Emulator, Azure
@@ -104,3 +105,5 @@ yaşayabiliyoruz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-8 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: e7544005-c501-4854-a453-21ee571f1cb4
 ---
+# Bir SilverNight geçti...
 Süper bir geceydi. Neden mi? :) Tabi ki SilverNight yüzünden. Talihliler
 arasında yer alamayanların unuttuğunu tahmin ettiğim **SilverNight**
 etkinliğimizi bu sabah bitirdik. Tüm etkinliği canlı olarak
@@ -94,3 +95,5 @@ unutamayacağım :)
 En kısa zamanda etkinlik videoları ile görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-21 tarihinde yayinlanmistir.*

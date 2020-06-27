@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 0d6e2f91-2641-4a31-9cf8-59782990b2f7
 ---
+# MIX 2. Gün
 Güzel bir gün daha geldi ve geçti :) MIX'in 2. gününe damgasını vuran
 tabi ki Internet Explorer 8 oldu. Internet Explorer 8'in yayın alınması
 ile beraber yayılan bu heyecan sonraki oturumlarda da devam etti
@@ -57,3 +58,5 @@ insanlara nereleri gezdiğimi söylediğimde tepkileri açık ve netti "ur
 geek!" :) So what?
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-20 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 590b9184-d245-4358-b9b9-1cb1bcb0e709
 ---
+# Silverlight 1.0 ile Mayın Tarlası
 Öğrencilerimle gurur duyuyorum :) "Öğrencilerim" dedikçe kendimi biraz
 yaşlandırdığımın farkındayım ama gerçekten çok gurur verici bir tablo
 söz konusu. Karşınızda yepyeni bir Silverlight 1.0 oyunu daha! Bu sefer
@@ -23,3 +24,5 @@ Ben olsam oyunun kaynak kodlarını da incelerdim :)
 Teşekkürler Melih...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-13 tarihinde yayinlanmistir.*

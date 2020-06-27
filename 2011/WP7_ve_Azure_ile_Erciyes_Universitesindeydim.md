@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure, Windows Phone, Windows Phone 7.5
 ---
+# WP7 ve Azure ile Erciyes Üniversitesin'deydim
 Vay be :) Uzun süre olmuş üniversitelere gitmeyeli... Bu sene seminer
 kapsamında açılışı **Kayseri, Erciyes Üniversitesi** ile yaptım :)
 Sanırım iki yıl olmuş Erciyes'e gitmeyeli. Tek kelimeyle muhteşemdi
@@ -48,3 +49,5 @@ isteklerinizi gönderebilirsiniz ;)*
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-10-28 tarihinde yayinlanmistir.*

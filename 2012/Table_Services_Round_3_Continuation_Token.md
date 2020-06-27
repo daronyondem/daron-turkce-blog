@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Table Services Round 3
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Table_Services_SDK_25_Continuation_Token)
@@ -105,3 +106,5 @@ Böylece sayfa sayfa kayıtları bizim elle almamız da mümkün ;)
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-8-21 tarihinde yayinlanmistir.*

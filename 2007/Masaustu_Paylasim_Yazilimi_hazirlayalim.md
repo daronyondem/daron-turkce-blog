@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Basic 2005, Visual Basic .NET
 old.EntryID: 3ecdca82-ba86-4154-a47c-4ae0ce61681a
 ---
+# Masaüstü Paylaşım Yazılımı hazırlayalım...
 Masaüstü paylaşım yazılımları özellikle teknik sorunlarda müşterilere
 yardımcı olma noktasında gerçekten cankurtaran özelliğine sahipler. Peki
 hiç kendi masaüstü paylaşım yazılımınızı programlamayı denediniz mi? Hiç
@@ -298,3 +299,5 @@ olabilirler. Gerçekten hoş bir uygulama olacağı kesin. Eminim ki
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-29 tarihinde yayinlanmistir.*

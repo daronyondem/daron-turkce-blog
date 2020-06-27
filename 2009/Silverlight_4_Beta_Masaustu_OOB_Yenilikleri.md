@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: c7de1450-c795-4894-bb63-c0ce9169e6ec
 ---
+# Silverlight 4 Beta Masaüstü (OOB) Yenilikleri!
 Silverlight uygulamalarının rahatlıkle en ufak bir kod bile yazılmadan
 masaüstüne taşınması muhteşem bir de yazılım geliştirici deneyimi!
 Sanırım bu cümlem epey sansasyonel olabilir :) Kod yazılmayan bir şey
@@ -225,3 +226,5 @@ genişletmemizde büyük fayda sağlıyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-24 tarihinde yayinlanmistir.*

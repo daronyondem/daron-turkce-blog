@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.0, .NET Framework 4.5, ASP.NET 4.0, ASP.NET 4.5, ASP.NET MVC 4
 ---
+# ASP.NET Server Here Context Menü - Güncelleme
 Birkaç yıldır bloğumu takip edenler hatırlayacaktır. [ASP.NET Web Server
 Here Context menü
 extension](http://daron.yondem.com/tr/post/2efde635-a690-4339-91b1-02dc870a08de)'ı
@@ -49,3 +50,5 @@ Bytes)](media/ASP_NET_4_Server_Here_Context_Menu/registry.zip)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-17 tarihinde yayinlanmistir.*

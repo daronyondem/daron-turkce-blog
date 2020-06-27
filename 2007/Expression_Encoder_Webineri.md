@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Encoder, Webiner
 old.EntryID: ff7523bf-582c-44f1-962f-9bca5f4b630d
 ---
+# Expression Encoder Webineri
 **26 Kasım, Pazartesi** günü saat **15.15-16.00** arasında **Expression
 Encoder** webineri ile tekrar karşınızda olacağım. Webiner süresince
 Expression Encoder ile video işlemlerini, Silverlight ile video
@@ -25,3 +26,5 @@ Bu webiner Microsoft Kurumsal Webiner serisinden olduğu için yukarıdaki
 linkten giriş yaparak kayıt olmanız gerekiyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-25 tarihinde yayinlanmistir.*

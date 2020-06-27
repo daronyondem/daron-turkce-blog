@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 8c973c99-7603-47d3-ab93-9e355c842674
 ---
+# Bu hafta sonu INETA Week-End ile yavru vatandayız!
 Önümüzdeki hafta sonuna girerken Cuma gününden başlayarak KKTC'de
 **INETA Week-End** ile tekrar karşınızda olacağız. 16-17-18 Ocak
 tarihlerinde KKTC **Doğu Akdeniz Üniversitesi'**nde gerçekleştireceğimiz
@@ -36,3 +37,5 @@ Güngör katılacak. Dolu dolu bir hafta sonu olacağından eminim. KKTC'deki
 herkesi bekleriz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-13 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Vista, Visual Studio 2008
 old.EntryID: 357c7100-3f44-48f9-a83b-da73c22c343a
 ---
+# Vista UAC ve Winforms uygulamaları ilişkisinde yazılımcının yeri
 Windows Vista ile beraber karşımıza çıkan UAC (User Account Control)
 aslında Winforms programcılığında çok şey değiştirdi. Özetle artık
 istediğimiz gibi herhangi bir klasöre dosya yazamıyoruz veya Registry
@@ -146,3 +147,5 @@ uygulamanıza her yere ulaşım hakkı verildiği anlamına gelir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-23 tarihinde yayinlanmistir.*

@@ -8,8 +8,11 @@ Section: software
 MinutesSpent: 3
 Tags: MVP
 ---
+# 2016 MVP Ödülü
 Her sene 1 Nisan şaka gibi :) bir haberi aldığım gün. Microsoft'un yıllık olarak verdiği MVP ödülünün bir anlamda bittiği ve benim eski bir MVP olmakla yenilenmiş bir MVP olmak arasındaki durumumun belli olduğu gün 1 Nisan. Bu sene de güzel haberi aldım ve Microsoft Azure alanında 2016 yılı için de MVP ödülünü aldım. Bu benim programdaki 9. yılım oluyor. Seneye herkese benden çay :) Tabi ödülü alırsak :)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nfWL1SwF850" frameborder="0" allowfullscreen></iframe>
 
 Bu sene bir farklılık yapıp gelen ödülün paketine bir unboxing videosu çektim :) Maksat hareket olsun. Hem merak edenlerin de merakı giderilmiş olur :) Dokuz yıldır beni yalnız bırakmadığınız için hepinize çok teşekkürler!
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-4-18 tarihinde yayinlanmistir.*

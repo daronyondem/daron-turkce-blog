@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Server 2012
 ---
+# SQL Server 2012 ve LocalDB
 Her zaman hayal etmişimdir :) Şu SQL Express Windows'la yüklü gelse diye
 :) Ne kadar kolaylaşırdı her tür uygulamada direk SQL DB'leri kullanmak
 değil mi? Şimdi tabi ki alternatif çözümler ve, bazıları MS tarafında
@@ -124,3 +125,5 @@ Management Studio RC0** ve **Windows 8 Developer Preview Build 8102**
 kullanılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-29 tarihinde yayinlanmistir.*

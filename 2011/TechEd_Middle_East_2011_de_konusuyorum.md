@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4, TechEd, Windows Phone 7, Windows Phone
 old.EntryID: 5295172f-0650-44fa-b0b5-cb3973cd96e0
 ---
+# TechEd Middle East 2011'de konuşuyorum!
 Geçen sene de [konuşmacı olduğum TechEd
 Middle-East](http://daron.yondem.com/tr/post/6110df43-11cd-4c54-8227-4bdfe98e5dc3)
 bu sene artık epey yaklaştı. Bu sene etkinliğe katılmayı düşünenleriniz
@@ -55,3 +56,5 @@ görüşebilir belki beraber bir yemek yiyebiliriz ;)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-2-5 tarihinde yayinlanmistir.*

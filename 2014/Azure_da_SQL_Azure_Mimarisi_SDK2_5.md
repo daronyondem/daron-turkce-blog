@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
+# Azure'da SQL Azure Mimarisi (SDK2.5)
 Bu yazıda SQL Azure'a biraz daha farklı bir bakış açısı ile bakalım
 istiyorum. SQL Azure ve Microsoft Azure'un beraber sahneye alındığında
 eldeki diğer senaryolarla nasıl uyuşabileceğine göz atalım. Sonrasında
@@ -95,3 +96,5 @@ sunucularda olabiliyorlar. İşte tam da bu nedenle şimdilik cross-db
 query yok.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-2 tarihinde yayinlanmistir.*

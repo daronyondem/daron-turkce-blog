@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: a1426eb0-7120-4a66-9d5c-de5027fd59ed
 ---
+# Silverlight 2.0 ve JavaScript kardeşliği
 Silverlight 2.0 ile beraber istemci tarafında VB.NET veya C\#
 kullanabileceğimizi artık biliyoruz. Durum böyle olunca söz konusu .NET
 dilleri ile Silverlight uygulamasının dışına çıkarak HTML sayfasındaki
@@ -243,3 +244,5 @@ SL.Content.Page.Kare(2)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-14 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows Azure, Silverlight 4, WebMatrix
 old.EntryID: 604bfc93-1dd2-47bc-b76f-db6bd387878b
 ---
+# Microsoft WebCamps Istanbul
 Bugün sabaha karşı altıda Ürdün uçağı İstanbul'a indi ve memlekete
 vardım :) Sonrasında koşa koşa bir eve uğrayıp hemen WebCamps
 etkinliğinin İstanbul ayağı için Microsoft binasına doğru koşuma devam
@@ -37,3 +38,5 @@ etkinlik olmuştur.
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-2-2 tarihinde yayinlanmistir.*

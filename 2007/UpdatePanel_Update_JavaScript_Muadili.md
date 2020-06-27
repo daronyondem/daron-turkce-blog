@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 8353a00e-5035-4f21-a13d-56aa8c0e6419
 ---
+# UpdatePanel.Update JavaScript Muadili
 ASP.NET AJAX Extension 1.0 ile beraber gelen **UpdatePanel** sunucu
 kontrolü biz yazılım geliştiricilerin hayatını ciddi şekilde
 kolaylaştırdı. Fakat maalesef **UpdatePanel'in** çok büyük bir eksiği.
@@ -659,3 +660,5 @@ Hepinize kolay gelsin.
 KB)](media/UpdatePanel_Update_JavaScript_Muadili/04092007_1.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-5 tarihinde yayinlanmistir.*

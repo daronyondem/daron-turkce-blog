@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 9
 Tags: Seminer
 ---
+# Işık Üniversitesi SteamWin Konuşmam
 Dün kısa bir oturum için Işık Üniveristesi'ndeydim. **SteamWin** ve **TurkishWIN**'in (Turkish Women's Internation Network) düzenlediği networking etkinliklerinden birinde bana söylenene göre ilk erkek konuşmacı oldum :) İtiraf etmek gerekirse ilk defa bayan oranını bu kadar yüksek olduğu bir gruba konuştum :) Malum genel mühendislik bölümleri manzarasını hepimiz biliyoruz :) 
 
 ![SteamWin Etkinliği Duyuru Afişi](media/Isik_Universitesi_SteamWin_Konusmam/steamwin_twitter1.jpg)
@@ -17,3 +18,5 @@ Dün kısa bir oturum için Işık Üniveristesi'ndeydim. **SteamWin** ve **Turk
 Bu gibi katıldığım etkinlikleri kaçırmak istemeyenler lütfen [twitter](http://www.twitter.com/daronyondem) ve [facebook](http://facebook.com/daronyoendem) üzerinden beni takip edebilecekleri gibi [mail listesine](http://eepurl.com/Z_rMf) de üye olabilir ;)
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-11-4 tarihinde yayinlanmistir.*

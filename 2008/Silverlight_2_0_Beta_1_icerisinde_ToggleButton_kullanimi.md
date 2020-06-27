@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 7c6bdbb7-6971-43b7-ad1f-9a74ecfe404a
 ---
+# Silverlight 2.0 Beta 1 içerisinde ToggleButton kullanımı
 Checkbox ve RadioButton kontrolleri neredeyse her projede en az bir defa
 kullandığımız kontroller arasında yerlerini alırlar. Bu kontroller gibi
 farklı kontroller oluşturarak kullanıcıyı bir durumdan haberdar etmek
@@ -269,3 +270,5 @@ uygulayabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-3 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, WPF
 old.EntryID: 4ab9dca1-60d1-4704-8823-2da24c52e475
 ---
+# Geek Zone'da WPF ile 3D Programlama oturumum.
 Bugün yine CEBIT'te TBD'nin organizasyonunda "**Geek Zone**"da
 konuşmacıydım. Bu sefer konu "**WPF ile 3D Animasyon Programlama**"
 şeklindeydi. 25 dakikalık bir sunumda tam gaz 3D animasyon dünyasına
@@ -31,3 +32,5 @@ indirebilirsiniz.
 KB)](media/Geek_Zone_da_WPF_ile_3D_Programlama_oturumum/10102008_2.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-11 tarihinde yayinlanmistir.*

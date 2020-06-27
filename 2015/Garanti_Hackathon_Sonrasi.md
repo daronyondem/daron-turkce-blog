@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 13
 Tags: Hackathon
 ---
+# Garanti Hackathon Sonrası
 Hafta sonu Garanti Bankası'nın düzenlediği [bankacılık Hackathon'unda](https://hackathon.garanti.com.tr/) jürideydim. Son zamanlarda birden çok hackathona üst üste jüri olarak katılma şansım oldu. Tüm bu deneyimi ayrıca bir blog post veya [youtube'da video olarak](https://www.youtube.com/user/daronyondem) paylaşma planım da var. Doğal olarak marka bilinirliliği ile doğru orantılı olarak hackathon sonrası sosyal medyada ciddi dedikodular gezdi :) 
 
 ![](media/Garanti_Hackathon_Sonrasi/hackhaton-image.jpg)
@@ -17,3 +18,5 @@ Bir jüri olarak beni zorlayan hackathon'a katılan gruplar arasındaki yaş ve 
 Umarım sektörde bu gibi hackathonların sayısı artar. Özellikle doğrudan yazılım sektöründe bulunmayan markaların da yazılım sektörüne özel sosyal aktivitiler yapıyor olması beni çok sevindiriyor. Yarışmada derece alan, almayan her grubu kutluyorum! Elinize sağlık!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-11-23 tarihinde yayinlanmistir.*

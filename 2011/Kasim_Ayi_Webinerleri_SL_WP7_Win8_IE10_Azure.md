@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure, HTML5, IE 10, Silverlight 4, Webiner, Windows 8, Windows Phone, Windows Phone 7.5, WinRT
 ---
+# Kasım Ayı Webinerleri, SL, WP7, Win8, IE10, Azure
 Uzun süredir webcast yapamıyorum :) Ben de tüm konuları şöylece bir
 toparladım ve Kasım ayını webcast ayı ilan edip :) toplam sekiz webcast
 planladım. WebCast'lerin tarihlerini ve kayıt linklerini aşağıda
@@ -46,3 +47,5 @@ giriş yapabilirsiniz.*
 Görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-10-30 tarihinde yayinlanmistir.*

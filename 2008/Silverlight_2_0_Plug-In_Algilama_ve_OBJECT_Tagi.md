@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 93e2a455-2966-4863-aad6-e1e1f1390c45
 ---
+# Silverlight 2.0 Plug-In Algılama ve OBJECT Tagı
 **Silverlight 2.0 Beta 2** ile beraber 1.0 sürümüne göre uygulamaların
 dağıtım sistemi değişti ve karşımıza
 [XAP](http://daron.yondem.com/tr/post/e93f297c-9d8c-4e34-807e-d6a0e9e47147)
@@ -280,3 +281,5 @@ JavaScript fonksiyonu herhangi bir hata durumunda hata mesajını alarak
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-11 tarihinde yayinlanmistir.*

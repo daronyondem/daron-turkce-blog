@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows Phone 7, Silverlight 5, Kinect, Surface, Windows Phone
 old.EntryID: 99736c98-eba4-4182-a4f9-0a108b0782a5
 ---
+# MIX 2011 2. Gün Raporu
 Dün MIX2011'in lk gün duyurularını sizlerle paylaşmıştım. Şimdi de geldi
 sıra ikinci güne. Tahmin ettiğim üzere ikinci gün KeyNote çok daha
 heyecanlı oldu. WP7, SL5 gibi top konuların hepsi ikinci güne
@@ -137,3 +138,5 @@ sonrasında da blogdan paylaşırım ;)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-15 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, Silverlight 3.0, Silverlight 4
 old.EntryID: b4d1540e-f1ca-408f-a871-43aeef92a760
 ---
+# Silverlight ile FileUpload
 Bu görsel dersimizde Silverlight ile sunucuya FileUpload işlemi yapmanın
 yollarından birini inceliyoruz.
 
@@ -26,3 +27,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-2-14 tarihinde yayinlanmistir.*

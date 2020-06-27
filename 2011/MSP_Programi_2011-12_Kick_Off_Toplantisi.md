@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Microsoft Student Partner Programı 2011-12 Kick Off Toplantısı
 Bugün Microsoft'ta **Microsoft Student Partner** programı 2011-12 yılı
 Kick Off toplantısı vardı. Aslında toplantı şu anda devam ediyor :)
 Benim oturumlarım bitince hemen oturup bloglayasım geldi :)
@@ -36,3 +37,5 @@ Yeni MSP'lere buradan yıl boyu başarılar diliyorum. Sizlere tanışmak
 süperdi!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-25 tarihinde yayinlanmistir.*

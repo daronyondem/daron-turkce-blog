@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 0c43f4f8-0044-4e00-b639-6b4ce27975eb
 ---
+# Microsoft'un açık kaynak kodlu işletim sistemi Singularity
 "Açık kaynak kodlu uygulama" deyiminin genellikle ülkemiz kurumsal
 dünyasında "beleş program" gibi anlaşılması hatasının yanında hiçbir
 KOBİ'nin veya büyük kurumun (istisnalar kaideyi bozmaz) açık kaynak
@@ -69,3 +70,5 @@ Sing\#'ı yarattı. C\# bilen biri olarak çok yabancılık çekmeyeceğini
 söyleyebilirim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-23 tarihinde yayinlanmistir.*

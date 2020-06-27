@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4, Windows 7, IE 9, Internet Explorer
 old.EntryID: 8deb162f-1f6c-4f7f-b7e3-863bf2d4d47e
 ---
+# PDC Gün 2
 Bugün PDC'nin ikinci günüydü. Birinci günde sunucu taraflı yeniliklere
 baktıktan sonra ikinci günde istemci tarafına göz atılacağı için herkes
 nefesini tutmuş ikinci gün Keynote'u bekliyordu ki gerçekten de efsanevi
@@ -216,3 +217,5 @@ tahmin ediyorum ama tabi belli de olmaz :)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-19 tarihinde yayinlanmistir.*

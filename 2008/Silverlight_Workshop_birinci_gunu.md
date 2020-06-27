@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 7de735c4-67bf-4411-8cba-711f1994b9d9
 ---
+# Silverlight Workshop birinci günü.
 Bugün **INETA** ve **NETRON** sponsorluğunda [Silverlight
 Workshop](http://daron.yondem.com/tr/post/e52a84f7-3c2c-4ae5-8fd1-2b998eb25378)
 serimizin ilkini gerçekleştirdik. Sabah 10.00'da başlayarak gerekli
@@ -33,3 +34,5 @@ Yılmaz**'a ve NETRON ekibine teşekkür ediyorum.
 KB)](media/Silverlight_Workshop_birinci_gunu/09032008_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-10 tarihinde yayinlanmistir.*

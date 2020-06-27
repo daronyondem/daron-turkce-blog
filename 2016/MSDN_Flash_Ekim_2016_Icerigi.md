@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 44
 Tags: Visual Studio 15, Windows 10 Insiders, Windows Server 2016
 ---
+# MSDN Flash Ekim 2016 İçeriği
 Yine bir MSDN Bülten içeriği ile karşınızdayım. Haberleri toparlarken farkına vardım da, sakin bir ayı geride bırakmışız. Ekim ayı da geldi, geçti. İki ay sonra koca bir yılı da yiyip bitirmiş olacağız. [Mihaly Csikszentmihalyi, Flow](http://amzn.to/2dOTlU6) adlı kitabında zamanın algımızdaki geçiş hızı ve mutluluk hissiyatımız ile ilişkisinden bahseder. Mihaly’ye göre zamanın hızlı geçtiğini düşünüyorsanız mutlusunuz demektir. Mutlu olduğunu düşünmeyenler için umarım aşağıdaki haberler işe yarar :) 
 
 * Windows Server 2016 RTM oldu!   
@@ -31,3 +32,5 @@ Mac kullanıcıların “*Touchpad bizde bir başka*” yorumlarına cevaben son
 Microsoft Philanthropies’e ait bu haberi sizlerle paylaşmamın nedeni aslında bir anlamda hayırseverliğe vesile olmak. Kar amacı gütmeyen kuruluşlar için geçerli olan bir Microsoft desteği diyebileceğimiz bu programla ilgili detayları merak edenler [Microsoft Blog’undaki yazıma](http://blog.microsoft.com.tr/?p=46941) göz atabilirler.  
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-10-27 tarihinde yayinlanmistir.*

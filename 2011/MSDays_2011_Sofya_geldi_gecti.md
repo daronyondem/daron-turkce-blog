@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: HTML5, Silverlight 4, Windows Phone 7, Windows Phone
 old.EntryID: dfc841d0-3f39-4831-a96c-92881d4ef6b1
 ---
+# MSDays 2011 Sofya geldi geçti
 Geçen sene yine bu zamanlarda [Sofya'da
 MSDays2010](http://daron.yondem.com/tr/post/cf847935-b068-4007-96af-66a3a7da2933)
 etkinliğindeydim. Bu sene de 2011 sürümü için yine son bir haftadır
@@ -47,3 +48,5 @@ MB)](media/MSDays_2011_Sofya_geldi_gecti/04042011_3.pptx)
 sürpriz kalsın :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-4 tarihinde yayinlanmistir.*

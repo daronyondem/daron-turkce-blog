@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 1526fe49-66cf-44d9-85a7-6ce6cee81a90
 ---
+# Silverlight 3.0 uygulamalarını birbiri ile konuşturun
 Bir web sitesi içerisinde birden çok Silverlight uygulamasını beraber
 kullanıyor olabilirsiniz veya belki de aynı web sitesinde sizin
 hazırladığınız bir Silverlight uygulamasının yanı sıra bir de başka bir
@@ -615,3 +616,5 @@ hallettik.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-5 tarihinde yayinlanmistir.*

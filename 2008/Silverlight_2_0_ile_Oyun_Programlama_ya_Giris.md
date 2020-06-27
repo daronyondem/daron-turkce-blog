@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: f7ad69bc-8772-45b8-b6a0-fe83baf2c866
 ---
+# Silverlight 2.0 ile Oyun Programlama'ya Giriş
 Silverlight 2.0 ile beraber .NET programlama geldiğinde göre hemen
 aklımıza gelen konulardan biri de "Oyun Programlama" oluyor. Silverlight
 içerisinde var olan **StoryBoard** yapısını kullanarak oyun
@@ -465,3 +466,5 @@ bilgisi ile de vektörel hesaplamalara çevirmek tamamen size kalmış.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-4 tarihinde yayinlanmistir.*

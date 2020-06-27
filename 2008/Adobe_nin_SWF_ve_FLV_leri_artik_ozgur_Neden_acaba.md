@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 559400e3-e3af-4748-8d5b-743324d95c70
 ---
+# Adobe'nin SWF ve FLV'leri artık özgür. Neden acaba?
 İşte buna çok güldüm. Yıllardır **SWF** ve **FLV** formatlarının
 kullanımlarını ciddi lisanslar ile koruyan ve ciddi lisans ücretlerine
 tabi tutan **Adobe** bir anda bu formatları ücretsiz ve özgür hale
@@ -21,3 +22,5 @@ hep ;) Sağolasın Microsoft, yıllardır bu formatları rekbatsizlik
 nedeniyle ücretsiz hale getirmeyen Adobe'ye ilk darbe inmiştir.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-2 tarihinde yayinlanmistir.*

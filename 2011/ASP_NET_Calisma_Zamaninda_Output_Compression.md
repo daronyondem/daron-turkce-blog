@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET 4.0, ASP.NET MVC 3, IIS 7.0
 ---
+# ASP.NET Çalışma Zamanında Output Compression
 Blogu yazarken kullandığım bir ufak taktiği daha sizlerle paylaşmak
 istiyorum :) Özellikle blogun [arama](http://daron.yondem.com/tr/search)
 ve [arşiv](http://daron.yondem.com/tr/archive/) kısımlarında süper işime
@@ -127,3 +128,5 @@ görecektir.
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-8 tarihinde yayinlanmistir.*

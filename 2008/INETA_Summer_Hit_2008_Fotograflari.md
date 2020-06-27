@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer
 old.EntryID: fea77806-5c57-4510-9008-ac286f29f8f0
 ---
+# INETA Summer Hit 2008 Fotoğrafları
 Bugün sonunda herkesten **INETA Summer Hit** boyunca çektikleri fotoları
 toparlamayı başardım ve güzel çıkanlardan bir arşiv düzenledim. Arşivden
 özellikle birkaç fotoğrafa değinmek istiyorum :)
@@ -60,3 +61,5 @@ aşağıdaki adresten inceleyebilir ve bilgisayarınıza indirebilirsiniz. 
 Hepinize iyi haftalar...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-7 tarihinde yayinlanmistir.*

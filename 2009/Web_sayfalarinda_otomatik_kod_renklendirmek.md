@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: f0112688-45d8-41cb-a281-73d68c5205f9
 ---
+# Web sayfalarında otomatik kod renklendirmek.
 Yılın ilk yazısında yıl boyunca tüm yazılarınızda kullanabileceğiniz bir
 kolaylıktan bahsetmek istiyorum; kod renklendirmek! Özellikle teknik
 makale yazanların en büyük dertlerinden biri de Visual Studio içerisinde
@@ -159,3 +160,5 @@ kod görünümüzdeki ilk satırın satır numarasını belirliyor.
 Hepinize yeni yılda bol paylaşımlı günler dilerim ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-2 tarihinde yayinlanmistir.*

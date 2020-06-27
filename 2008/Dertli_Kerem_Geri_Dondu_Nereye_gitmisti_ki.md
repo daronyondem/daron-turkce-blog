@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: 0222d77d-9277-4aa9-a01b-bb2ca2106a6f
 ---
+# Dertli Kerem Geri Döndü! Nereye gitmişti ki?
 Sanırım artık herkes benim "Derli Kerem" serimi biliyor :) Bir yenisi
 daha karşınızda...
 
@@ -146,3 +147,5 @@ gösterecek, ama bu soruna eğilmek gerek.
 Hepinize iyi hafta sonları ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-19 tarihinde yayinlanmistir.*

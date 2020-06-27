@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'da Web ve Worker Role Konfigürasyon Yapısı (SDK2.2)
 Azure'da bir web veya worker role yarattığınız gibi Solution Explorer
 içerisindeki Azure projesinin altında Roles klasöründe role kendini
 gösterir. Peki Azure projesi içerisindeki bu diğer dosyaların anlamı ne?
@@ -422,3 +423,5 @@ bulaşmıyorum ;) Bir sonraki yazıda görüşmek üzere!
 Kendinize çok iyi bakın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-11-29 tarihinde yayinlanmistir.*

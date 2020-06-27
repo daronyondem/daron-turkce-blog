@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, LINQ, ASP.NET
 old.EntryID: cf67faed-f400-4400-99fa-6d14e8f6cb0c
 ---
+# Bir XLINQ hikayesi... 15 dakikalık projeden inciler.
 Dün verdiğim sözü tutmanın zamanı geldi. Sizlerle kodlarını paylaştığım
 mini projenin içerisindeki önemli birkaç noktayı öne çekerek mini bir
 XLINQ ve VB şovu yapmak istiyorum :) Üzgünüm C\# cılar **.Element** veya
@@ -284,3 +285,5 @@ dünyaya giriş yapmanıza yardımcı olur.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-1 tarihinde yayinlanmistir.*

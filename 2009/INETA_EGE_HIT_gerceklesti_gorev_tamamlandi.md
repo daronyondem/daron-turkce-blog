@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, LINQ, Silverlight 2.0, WPF, ASP.NET
 old.EntryID: d4ccae72-6a2b-4156-acc0-8ead4821e49f
 ---
+# INETA EGE HIT gerçekleşti, görev tamamlandı
 Bu hafta sonu İzmir'deydik. Daha önce sizlere duyurmuş olduğum [INETA
 EGE
 HIT](http://daron.yondem.com/tr/post/1b832f99-3572-40a4-a7f3-93ae62edbcb0)
@@ -47,3 +48,5 @@ aşağıdaki linkten bilgisayarınıza indirebilirsiniz.
 MB)](media/INETA_EGE_HIT_gerceklesti_gorev_tamamlandi/11012009.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-12 tarihinde yayinlanmistir.*

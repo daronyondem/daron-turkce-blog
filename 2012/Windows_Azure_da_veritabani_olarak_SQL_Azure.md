@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
+# Windows Azure'da veritabanı olarak SQL Azure
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Azure_da_veritabani_olarak_SQL_Database_SDK2_5)
@@ -143,3 +144,5 @@ bir sorun yaşamanız söz konusu değil.
 Kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-5-22 tarihinde yayinlanmistir.*

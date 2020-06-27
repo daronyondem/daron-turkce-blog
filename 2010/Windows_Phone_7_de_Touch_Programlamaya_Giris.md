@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4, Windows Phone 7, Windows Phone
 old.EntryID: 1ef00d4e-8e5d-445b-9abd-5eef8de85542
 ---
+# Windows Phone 7'de Touch Programlamaya Giriş
 Windows Phone 7'nin ilk duyurularında yapılan açıklamalarda özellikle
 WP7 ile çalışacak cihazlarla ilgili bazı şartların yerine getirilmesi
 gerektiğinin açıklanması çok sevindirici oldu. Bu şartlardan biri de
@@ -221,3 +222,5 @@ sürüme kadar epey değişiklik olacağını da tahmin etmek zor değil.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-3 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: fdba63c3-cf68-4f61-9527-aef452123c3b
 ---
+# Silverlight 2.0 Beta 2 ile gelen DataGrid yenilikleri
 Silverlight 2.0 Beta 1 ile beraber gelen DataGrid kontrolünün ana
 yapılarını daha
 [önce](http://daron.yondem.com/tr/post/40cdfeb2-aae3-4259-9edf-73135b7becd1)
@@ -1071,3 +1072,5 @@ genişliğini kod tarafından da düzenleyebiliyoruz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-10 tarihinde yayinlanmistir.*

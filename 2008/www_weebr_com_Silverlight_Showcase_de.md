@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: f7b75879-21aa-4c23-a821-f4d059c4c841
 ---
+# www.weebr.com Silverlight Showcase'de.
 Bundan aylaaaar önce :) Türkiye'nin ilk Silverlight eğitimini Microsoft
 binasında Microsoft iş ortakları için hazırlamıştık. O günlerde konuya
 ilgisi ile yıldızı parlayan bir öğrencim olan sevgili **Eren Emre
@@ -30,3 +31,5 @@ sitesi **Debian Linux** sunucu üzerinde çalışıyor ;) Yani tekrar :
 **Silverlight sunucu bağımsız bir teknolojidir.**
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-5 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: f3987f54-7163-4861-ab96-4685a18d3395
 ---
+# Animasyonlu örnek bir Silverlight düğmesi hazırlıyoruz.
 Bu makalemizde hızlı bir şekilde örnek bir Silverlight düğmesi
 tasarlayarak fare ile üzerine gelindiğinde parlamasını üzerinden
 çekildiğinde de eski haline geri dönmesini sağlayacağız. İlk olarak
@@ -261,3 +262,5 @@ Böylece üzerine gelince veya fare ile üzerinden ayrıldığımızda uygun
 animasyonları çalıştıran bir düğmemiz oldu. Hepimize hayırlı olsun ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-9 tarihinde yayinlanmistir.*

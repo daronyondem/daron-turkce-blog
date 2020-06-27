@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: e649f2d5-0f91-4ed0-a231-74321d01d5b3
 ---
+# IE8'de Offline ve Online Çalışma Modları
 Özellikle RIA uygulamalarındaki en büyük sorunlardan biri anlık internet
 bağlantısı kesintilerinde sayfanın bir daha geri ulaşılamayacak şekilde
 ekrandan kaybolması veya farklı hataların ortaya çıkarak geri dönüşü
@@ -139,3 +140,5 @@ verebilirim.
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-5 tarihinde yayinlanmistir.*

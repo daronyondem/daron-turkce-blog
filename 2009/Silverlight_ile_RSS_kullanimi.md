@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Görsel Ders, Silverlight 3.0
 old.EntryID: a911c5d3-9fe7-41e8-b8b9-68c32fc9563a
 ---
+# Silverlight ile RSS kullanımı
 Silverlight ile RSS kullanımı konusunda bolca soru alıyorum. Bu görsel
 dersimizde Silverlight ile bir RSS kaynağının kullanımını ayrıca sunucu
 taraflı RSS kaynağı üretmenin de kolay bir yolunu beraber inceliyoruz.
@@ -27,3 +28,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-23 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
 old.EntryID: 1578f4ec-0e47-45bc-9e70-62d015181798
 ---
+# Windows Phone 7'de ApplicationBar ve Menü Kullanımı
 Windows Phone 7 ile beraber gelen uygulama için navigasyon sistemlerinin
 bir parçası da işletim sisteminin sunduğu menü altyapısı. Bu konuda
 radikal bir değişikliğe giden Microsoft artık işletim sistemin ekranının
@@ -477,3 +478,5 @@ gömme şansına da sahipsiniz. Yukarıdaki XAML kodu bunun için güzel bir
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-7 tarihinde yayinlanmistir.*

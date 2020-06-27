@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF, .NET Framework 3.0
 old.EntryID: c710f64b-5f07-45ae-936a-243943eb786a
 ---
+# WPF Windows Uygulamalarında Pencereler Arası Veri İletişimi
 WPF Windows uygulamalarında klasik Windows uygulamalarında olduğu gibi
 birden çok pencere açarak kullanıcıların farklı pencerelerde aynı anda
 işlem yapmalarını sağlayabilirsiniz. Bu işlemler yapılırken iki veya
@@ -392,3 +393,5 @@ Hepinize kolay gelsin.
 KB)](media/WPF_Windows_Uygulamalarinda_Pencereler_Arasi_Veri_Iletisimi/05092007_1.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-6 tarihinde yayinlanmistir.*

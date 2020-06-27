@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 3411a3af-2850-40d6-8faa-1e8fa698330c
 ---
+# Yeni Görevim
 ![INETA
 Logo](media/Yeni_Gorevim_INETA_Turkiye_Baskanligi/05032008_1.png)Sanırım
 yazılım sektörünü takip edenler olarak çoğumuz
@@ -20,3 +21,5 @@ görevini üstleniyorum. Amacım her zaman olduğu gibi pozitif bir fark
 yaratmak. Bu göreve gelmemde beni destekleyen herkese çok teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-5 tarihinde yayinlanmistir.*

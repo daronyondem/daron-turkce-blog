@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET, Genel
 old.EntryID: 5324ac74-dd16-45eb-87e3-2cda28cf5e90
 ---
+# ASP.NET AJAX kitabım hepsiburada.com'da 1. sırada.
 ASP.NET AJAX kitabım raflarda yerini alalı iki ay oluyor. Yaz dönemine
 rast gelmesine rağmen ilginç bir satış grafiği oluşturan kitabımın bugün
 [hepsiburada.com’da](http://www.hepsiburada.com/productdetails.aspx?categoryid=211651&productid=kpusula150)programlama
@@ -23,3 +24,5 @@ yerleşmesinin yanı sıra tüm programcılar arasında AJAX konusunun da ilgi
 sırasında en ön saflarda olması gerçekten sevindirici.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-7-25 tarihinde yayinlanmistir.*

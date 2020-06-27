@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Seminer
 old.EntryID: ecbbb994-a159-4413-8ee9-8e1b4954e32f
 ---
+# İstanbul Üniversitesi Silverlight Semineri ardından.
 ![İstanbul Üniversitesi "Silverlight"
 Semineri](media/Istanbul_Universitesi_Silverlight_Semineri_ardindan/11122007_1.jpg)Dün
 İstanbul Üniversitesi'nde zevkli bir "**Silverlight**" semineri
@@ -29,3 +30,5 @@ Organizasyonla ilgili yardımlarından dolayı özellikle sevgili MSP, Hilmi
 Beydeş'e teşekkür etmek istiyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-12 tarihinde yayinlanmistir.*

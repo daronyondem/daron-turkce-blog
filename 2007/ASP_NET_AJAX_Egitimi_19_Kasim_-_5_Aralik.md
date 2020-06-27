@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Eğitimler, Haberler
 old.EntryID: 3a823ea5-abec-4efb-a1a8-4fd24e2c2ca7
 ---
+# ASP.NET AJAX Eğitimi 19 Kasım - 5 Aralık
 ![](media/ASP_NET_AJAX_Egitimi_19_Kasim_-_5_Aralik/ajax_logo.png)[Gelişim
 Platformu](http://www.gelisimplatformu.org/) ve [MayaSoft Bilişim
 Akademisi](http://www.mayasoft.com.tr) işbirliğinde bir organizasyon ile
@@ -31,3 +32,5 @@ sitesinden ilerlemeniz gerekecek.
 Görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-5 tarihinde yayinlanmistir.*

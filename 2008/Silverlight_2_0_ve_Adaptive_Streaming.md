@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 01ff6ad5-3fc2-42ec-bd7d-1149b3ce29fe
 ---
+# Silverlight 2.0 ve Adaptive Streaming
 Silverlight dünyasında 1.0 sürümü ile başlayan video uygulamalarındaki
 yüksek performans gibi avantajların yenileri 2.0 sürümünde de tabi ki
 devam ediyor. Bu yenilikler arasında en ilginçlerinden biri **Adaptive
@@ -124,3 +125,5 @@ sunucu tarafına da ayrı bir yazıda değineceğiz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-5 tarihinde yayinlanmistir.*

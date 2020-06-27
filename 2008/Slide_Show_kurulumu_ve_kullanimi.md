@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: e7c89bc0-0ce4-432b-82c1-325a97dbea6f
 ---
+# Slide.Show kurulumu ve kullanımı
 Silverlight çıktığından bu yana özellikle yurt dışında bir çok ücretsiz
 ve açık kaynak kodlu proje yayınlandı. Bunların arasında gerçek hayatta
 kullanılabilirliği en yüksek olan proje
@@ -576,3 +577,5 @@ yayınlayabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-20 tarihinde yayinlanmistir.*

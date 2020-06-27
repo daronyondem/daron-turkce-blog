@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, LINQ, Silverlight 2.0, WPF, ASP.NET
 old.EntryID: b9628f2b-b3a2-4bd0-ba85-8794101eec91
 ---
+# Erzurum, Atatürk Üniversitesi Seminerlerim
 Son iki gündür **Erzurum, Atatürk Üniversitesi**'ndeydim. **Silverlight,
 WPF, AJAX, LINQ** konularına değindiğimiz ikin günlük bir serinin
 sonunda minik bir de DreamSpark dağıtımı yaptıktan sonra iki saatlik
@@ -32,3 +33,5 @@ organizasyondaki katkısı için çok teşekkür ediyorum. Umarım seneye
 taptaze ve daha dolu bir etkinlik ile tekrar buluşuruz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-28 tarihinde yayinlanmistir.*

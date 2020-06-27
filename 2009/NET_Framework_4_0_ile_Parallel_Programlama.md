@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2010, PLINQ
 old.EntryID: f5257a4a-d48d-4c5c-aebd-d2c5bb54ac75
 ---
+# .NET Framework 4.0 ile Parallel Programlama
 .NET Framework 4.0 ile beraber gelecek güzel özelliklerden biri de artık
 dahili hale gelen Parallel Programlama özellikleri. Thread management
 yerine Task Managemenet, Parallel shared functionlar ve en güzeli PLINQ
@@ -29,3 +30,5 @@ ziyaret edebilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-18 tarihinde yayinlanmistir.*

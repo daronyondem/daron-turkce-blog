@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Silverlight, Silverlight 2.0
 old.EntryID: 63858d33-c394-408e-b98d-534d4bcf4129
 ---
+# Imagine Cup 2009 Lansmanı
 Microsoft'un dünya çapındaki Imagine Cup yarışmasının bu seneki ayağının
 finali Mısır'da yapılacak. Tabi onun öncesinde Türkiye ayağı ile
 yarışmacıların Türkiye birinciliğini almaları gerekiyor :)
@@ -34,3 +35,5 @@ ulaşabilirsiniz. En son teknik oturum benim ;) Konumuz: Expression
 Studio.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-12 tarihinde yayinlanmistir.*

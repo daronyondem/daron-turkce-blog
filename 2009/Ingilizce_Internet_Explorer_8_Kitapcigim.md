@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: d8e0b765-c485-4b24-9d39-9dd541c6ad87
 ---
+# İngilizce Internet Explorer 8 Kitapçığım
 Bir hayallim daha kısmen gerçek oldu :) Şimdi bu da ne demek? değil mi
 :) Hayallerimden biri de bir gün İngilizce bir kitap yazmaktı. Kitap
 olmasa da şimdilik bir kitapçık ile hayallerimi gerçekleştirdim
@@ -57,3 +58,5 @@ uğrayabilirsiniz veya Türkçe'si için hemen
 tıklayabilirsiniz.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-10 tarihinde yayinlanmistir.*

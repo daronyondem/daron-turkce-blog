@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: a0f4e711-88be-49d1-aaed-957b844b78ae
 ---
+# AJAX Control Toolkit Extender Kontrolleri Yaratmak
 ASP.NET AJAX Extension kullandığımız web sitelerinde bize büyük kolaylık
 sağlayan **AJAX Control Toolkit** içerisindeki kontroller gibi
 **Extender** kontrolleri geliştirmek isterseniz tek yapmanız gereken
@@ -541,3 +542,5 @@ Hepinize kolay gelsin.
 (521,41 KB)](media/AJAX_Control_Toolkit_Extender_Kontrolleri_Yaratmak/31082007_1.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-31 tarihinde yayinlanmistir.*

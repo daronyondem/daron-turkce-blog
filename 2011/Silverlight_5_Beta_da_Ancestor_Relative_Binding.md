@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 5
 old.EntryID: 07aaf12e-e4dc-48a9-9acc-4968c0b65e6b
 ---
+# Silverlight 5 Beta'da Ancestor Relative Binding
 Geldik bir başka Silverlight 5 yeniliğine... WPF'ten bilenler yazıyı
 okuyarak işkence çekmesinler diye hemen söyleyelim Ancestor Relative
 Binding zaten WPF'te vardı. Silverlight 5 ile SL dünyasına da geliyor.
@@ -218,3 +219,5 @@ bulundurmamız gereken bir seçenek olarak kenara kaydetmek gerek ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-30 tarihinde yayinlanmistir.*

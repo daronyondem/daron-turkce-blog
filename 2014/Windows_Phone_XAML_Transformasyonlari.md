@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Video, Windows Phone
 ---
+# Windows Phone'da XAML Transformasyonları
 Windows Phone uygulamaları geliştiren bir çok yazılımcıdan e-mailler
 alıyorum ve genel olarak gelen sorulara baktığımda aslında çok yapısal
 bilgilerin eksik olduğunu gördüğümü söyleyebilirim. Çoğu yazılımcı
@@ -28,3 +29,5 @@ Transformasyonları**" başlığı ile sizi bekliyor. Umarım işinize yarar.
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-3-1 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# INETA İzmir Paneli Kaydı (Video)
 Hatırlayacaksınız :) geçenlerde INETA Türkiye[İzmir'de güzel bir
 etkinliğe](http://daron.yondem.com/tr/post/INETA_Izmir_Etkinligi_Geldi_Gecti)
 imza atamıştı. O etkinlikte güzel bir de panel oturumumuz oldu. İtiraf
@@ -23,3 +24,5 @@ Panel](media/INETA_Izmir_Paneli_Video_Kaydi/ineta_izmir_panel.jpg)\
 Videoyu izleyenlerden yorum bekliyorum :) Sevgiler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-1-10 tarihinde yayinlanmistir.*

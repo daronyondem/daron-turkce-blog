@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 4
 Tags: Seminer
 ---
+# Ege Üniversitesi'nde Boş Durma Boşa Çalış
 Dün İzmir'de Ege Üniversitesin'deydim. IEEE ekibinin düzenlediği "Kelebek Etkisi 2" adlı etkinlikte "Boş Durma Boşa Çalış" oturumumu sundum. İtiraf etmek gerekirse uzun süredir İzmir'de bu kadar geniş katılımlı bir hafta sonu etkinliğine denk gelmemiştim :)
 
 ![](media/Ege_Universitesi_nde_Bos_Durma_Bosa_Calis/izmir_ege.jpg)
@@ -17,3 +18,5 @@ Etkinliğin organizasyonunda emeği geçen herkese çok teşekkürler. Eğer hal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/89_ViEi3Pwc" frameborder="0" allowfullscreen></iframe>
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-3-13 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 85778af8-624b-4a94-92cb-1db0d8b3cf9a
 ---
+# Silverlight 2.0'da farenin hareket etmediğini anlamak.
 Bu yazımızda **Silverlight 2.0 RC0** ile Silverlight uygulaması
 içerisinde minik bir ekran koruyucusu yapacağız. Aslında amacımız ekran
 korumak değil tabi ki, istediğimiz şey kullanıcı Silverlight
@@ -602,3 +603,5 @@ style="color: blue;">object</span> sender, RoutedEventArgs e)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-29 tarihinde yayinlanmistir.*

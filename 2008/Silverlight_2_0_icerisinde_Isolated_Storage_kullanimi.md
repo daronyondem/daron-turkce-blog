@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: efebcb20-60cb-4964-ba43-0b1949fb5e23
 ---
+# Silverlight 2.0 içerisinde Isolated Storage kullanımı
 Web uygulamalarında Cookie kullanımı alışık olduğumuz bir yapıdır. Bu
 yapının bir benzeri Silverlight 2.0 Beta 1 ile beraber de karşımıza
 geliyor. "**Isolated Storage**" olarak adlandırılan alan sadece
@@ -498,3 +499,5 @@ Storage içerisine kaydedebiliyor, değiştirebiliyor ve silebiliyoruz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-1 tarihinde yayinlanmistir.*

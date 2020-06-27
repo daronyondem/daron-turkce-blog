@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure'da ilk projemiz ve deployment (SDK2.2)
 Artık yavaş yavaş birşeyleri Azure ortamında görmenin zamanı geldi :)
 Hemen Visual Studio'yu açıp "File / New Project" üzerinden "Cloud"'u
 seçip ilk projemizi yaratalım. Bunu yaparken de Cloud projemize deneme
@@ -299,3 +300,5 @@ göz atabilirler.
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-12-1 tarihinde yayinlanmistir.*

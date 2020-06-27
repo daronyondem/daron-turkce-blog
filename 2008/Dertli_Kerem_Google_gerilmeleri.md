@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: 15ed20ce-9fee-4f81-b58f-062dda2e00aa
 ---
+# Dertli Kerem Google gerilmeleri!
 Bugün neredeydim bilin bakalım? **Google Internet Reklamcılığı**
 seminerlerine gittim. Reklamcılık ile herhangi bir alakam yok fakat
 etraftan hep duyarım saçma sapan sitelerin ayda yüzlerce dolar kazandığı
@@ -136,3 +137,5 @@ gerek ama esas haksız rekabet diğer alanda yürüyor.
 Sevgiler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-23 tarihinde yayinlanmistir.*

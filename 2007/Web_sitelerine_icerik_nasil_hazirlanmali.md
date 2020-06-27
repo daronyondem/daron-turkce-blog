@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: 14110645-0ab6-4a7a-9df7-917f46b82b95
 ---
+# Web sitelerine içerik nasıl hazırlanmalı?
 Artık "çok uzun yıllar" diyebileceğim kadar uzun bir süredir içerik
 yönetim sistemleri üzerine çalışıyorum. Özellikle [**DEVELOAD
 Yazılım**](http://www.deveload.com) bünyesinde bu konuda derinlere
@@ -35,3 +36,5 @@ noktalardan oluşuyor.
 MB)](media/Web_sitelerine_icerik_nasil_hazirlanmali/18092007_1.pptx)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-19 tarihinde yayinlanmistir.*

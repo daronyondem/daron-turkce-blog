@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 6ff37001-ac18-4698-900a-bee025187001
 ---
+# Silverlight projelerineki Silverlight.js dosyasının incelikleri.
 Her Silverlight projesinde yer alan en önemli dosyalardan biri
 **Silverlight.js** dosyasıdır. Bu dosya içerisinde özünde üç farklı
 JavaScript fonksiyonu tanımlanmıştır. Bunlar **createObject**,
@@ -187,3 +188,5 @@ farklı görsel uyarılar gösterilebilir.
 Silverlight.js tarafında detaylar bu kadar. Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-9 tarihinde yayinlanmistir.*

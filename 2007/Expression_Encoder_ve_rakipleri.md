@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Encoder
 old.EntryID: f1cc262a-c5ef-4480-a3be-714ce8829313
 ---
+# Expression Encoder ve rakipleri
 İşte geldik Expression Studio Savaşları yazı dizisinin :) son ürününe:
 **Expression Encoder**. Özellikle bu ürünü en sona saklamamın nedeni
 gerçekten boyutuna kıyasla çok büyük işler yapıyor olması ama ilk önce
@@ -106,3 +107,5 @@ Böylece yazı dizimizi burada sonlandırmış olduk :) Hepinize kolay
 gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-1 tarihinde yayinlanmistir.*

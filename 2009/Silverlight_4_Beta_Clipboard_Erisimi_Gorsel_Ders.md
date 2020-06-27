@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: c5ae6ec3-aca2-4ab8-9596-404195262824
 ---
+# Silverlight 4 Beta Clipboard Erişimi - Görsel Ders
 Bu görsel dersimizde Silverligh 4 Beta ile beraber Clipboard erişimi
 API'lerini inceliyoruz ;)
 
@@ -26,3 +27,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-3 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 3ef92218-0a23-4367-a182-1d3626479ba5
 ---
+# DeveloperMania Etkinliğindeki Oturumum
 Bu hafta sonu daha önce sizlere duyurduğum
 [DeveloperMania](http://www.google.com/url?sa=t&source=web&ct=res&cd=1&ved=0CAYQFjAA&url=http%3A%2F%2Fwww.developermania.net%2F&rct=j&q=developermania&ei=5p6zS8ivAo7WmwPujLyuBA&usg=AFQjCNHsZkFVSpW0_PgI-TbBAXn3NQZWXg)
 etkinliğindeydim. İkinci gün "Silverlight 4 RC
@@ -34,3 +35,5 @@ DeveloperMania'dan nice etkinlikler dileyerek hepinize de yeni haftada
 başarılar diliyorum ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-3-29 tarihinde yayinlanmistir.*

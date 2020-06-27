@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'da Service Upgrade
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/Azure_da_Service_Upgrade_SDK2_2)
@@ -135,3 +136,5 @@ tamamlanacaktır ;)
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-5-1 tarihinde yayinlanmistir.*

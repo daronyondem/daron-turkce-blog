@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: e9ce14b5-f95c-4188-8050-89220a94dc34
 ---
+# facebook.com'dayım...
 "Ne kadar da gereksiz!" demeyin, çünkü aynı şeyi aslında ben de
 diyordum. Geçmiş zaman kullandığımın farkındayım ama daha facebook'a
 kaydolalı 12 saati bulmadı ki çok eski dostlarımla iletişim kurma şansım
@@ -22,3 +23,5 @@ veya şekli oluşturmak adına güzel bir alternatif olarak
 [facebook.com](http://www.facebook.com)'u incelemenizi tavsiye ederim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-29 tarihinde yayinlanmistir.*

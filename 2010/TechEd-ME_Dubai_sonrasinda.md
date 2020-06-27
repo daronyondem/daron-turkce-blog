@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, MultiTouch, Silverlight 4, TechEd, WPF, Internet Explorer
 old.EntryID: 1c3d0743-2a95-4997-9088-887ed944ff6c
 ---
+# TechEd-ME Dubai sonrasında...
 Blogumu takip edenlerin bileceği üzere son üç gündür Dubai'deydim. Hatta
 hala dönmüş değilim :) [TechEd ME](http://www.teched.ae) (Middle East)
 için geldiğim Dubai [en son
@@ -65,3 +66,5 @@ paylaşılıyor.
 Çok gevezelik etmiyim :) Hepinizle en kısa zamanda görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-3-4 tarihinde yayinlanmistir.*

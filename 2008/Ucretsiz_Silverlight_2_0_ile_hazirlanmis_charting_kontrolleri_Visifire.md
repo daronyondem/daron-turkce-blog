@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 7f296587-2b2d-402b-a003-8beaa8b04da1
 ---
+# Ücretsiz Silverlight 2.0 ile hazırlanmış charting kontrolleri
 Silverlight 2.0 ile hazırlanmış ASP.NET sunucu kontrollerine adım adım
 yaklaştığımız bu günlerde "**Charting**" kontrolleri cephesinde
 **Visifire** adında bir paket ücretsiz olması ile beraber büyük
@@ -50,3 +51,5 @@ Aşağıdaki adresten oluşturabileceğiniz Chart çeşitlerinizi ve çalışan
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-24 tarihinde yayinlanmistir.*

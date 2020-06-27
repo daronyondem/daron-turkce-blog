@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 40cdfeb2-aae3-4259-9edf-73135b7becd1
 ---
+# Silverlight 2.0 Beta 1 içerisinde DataGrid kullanımı!
 **Silverlight 2.0 Beta 1** ile beraber gelen ilginç kontrollerden biri
 de DataGrid kontrolüdür. Aslında kontrolün kendisinde herhangi bir
 ilginçlik yok, ilginç olan WPF'in ilk sürümlerinde böyle bir kontrol
@@ -1268,3 +1269,5 @@ False olabilecek **Boolean** değeri değiştiriyor olacak.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-6 tarihinde yayinlanmistir.*

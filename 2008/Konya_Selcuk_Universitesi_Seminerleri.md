@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, LINQ, Seminer, Silverlight, Silverlight 2.0, WPF
 old.EntryID: 4dda503c-ba5e-4981-a1e6-df723d7469c6
 ---
+# Konya, Selçuk Üniversitesi Seminerleri
 Bugün **Konya, Selçuk Üniversitesin**'deydim. Sabah 10.00'da başlayarak
 19.00'a kadar **WPF, AJAX, Silverlight** ve **LINQ** konularını
 inceleyen bir seminer ile güzel bir gün geçirdik. Umarım "yol
@@ -32,3 +33,5 @@ tüm günü ayakta geçirebilmeme büyük katkıları oldu :)
 Tekrar görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-14 tarihinde yayinlanmistir.*

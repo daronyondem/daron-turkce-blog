@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight, Silverlight 2.0, WPF
 old.EntryID: 7a06a697-c577-4cda-a099-904d0db5818a
 ---
+# Çanakkale 18 Mart Üniversitesi WPF ve Silverlight Semineri
 Bugün **Çanakkale 18 Mart Üniversitesi**'ndeydim. **WPF** ve
 **Silverlight** konulu toplam 6 saatlik bir seminerin sonunda ilk defa
 bir üniversitenin öğrencilerinden bu kadar çok iltifat duydum :) Hepiniz
@@ -27,3 +28,5 @@ sevgili Erçin iskeleden alıp iskeleye kadar yolculadı beni :) Herşey
 için çok çok teşekkürler arkadaşlar, tekrar görüşmek dileği ile ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-12 tarihinde yayinlanmistir.*

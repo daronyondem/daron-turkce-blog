@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'da Web ve Worker Role Konfigürasyon Yapısı
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/Azure_Web_Worker_Role_Konfigurasyon_Yapisi_SDK2_2)
@@ -454,3 +455,5 @@ Bir sonraki yazıda görüşmek üzere!
 Kendinize çok iyi bakın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-4-10 tarihinde yayinlanmistir.*

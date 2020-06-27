@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Windows Azure Drive
 **Azure Drive 2015 yılı itibari ile Microsoft tarafından
 sonlandırılıyor. Onun yerine Azure Files adında bir hizmet devreye
 alınacak. [Azure Files ile ilgili yazıma
@@ -208,3 +209,5 @@ süper!](media/Windows_Azure_Drive/clouddrive4.png)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-7-17 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 8
 ---
+# Windows Phone 8 Update 3 Developer Preview
 Dün Microsoft, Windows Phone tarafıda çok önemli bir duyuru yaptı. Artık
 Windows Phone İşletim Sistemi'ni yeni sürümleri sonlandırılmadan ve son
 kullanıcıya ulaşmadan doğrudan yazılım geliştiriciler tarafından test
@@ -198,3 +199,5 @@ paylaştığım videoda tüm update sürecini izleyebilirsiniz. Umarım sizin
 update'iniz de hatasız bir şekilde sonlanır :) Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-16 tarihinde yayinlanmistir.*

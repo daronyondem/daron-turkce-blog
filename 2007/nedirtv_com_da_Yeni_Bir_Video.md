@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Studio, Görsel Ders, Silverlight
 old.EntryID: 45839b70-eb31-435d-8d58-8f25eab07fea
 ---
+# nedirtv?com'da Yeni Bir Video
 ![](media/nedirtv_com_da_Yeni_Bir_Video/nedirtv_logo.png)**Expression
 Studio** içerisinde yer alan **Expression Encoder** ile farklı
 formatlardaki videoları alarak WMV dosyaları çevirmek ve otomatik olarak
@@ -22,3 +23,5 @@ ulaşabilirsiniz.
 Silverlight](http://www.nedirtv.com/VideoDetay.aspx?VideoID=70)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-23 tarihinde yayinlanmistir.*

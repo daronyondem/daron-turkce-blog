@@ -5,6 +5,7 @@ IsActive: True
 MinutesSpent: 157 
 Tags: Azure Event Grid, Eventing, Azure Functions
 ---
+# Azure Event Grid Nedir?
 
 Hiç webhook açmak zorunda kaldiniz mi? Veya söyle sorayim; hiç size ait olmayan, harici bir HTTP Endpointi belirli bir olay gerçeklestiginde iteklemeniz gerekti mi? :) Peki itekleyemeyip, sonra tekrar denemeniz gerekti mi? Peki böyle bir altyapi olusturup milyonlarca farkli yeri, milyonlarca defa, hatta hata durumunda tekrar deneyebilecek sekilde iteklemeniz gerekti mi? "Yahu bu bildigimiz pub/sub?" diyorsaniz dogru yolda sayiliriz. Gelin devam edelim. 
 
@@ -87,3 +88,5 @@ Simdilik bu kadar :) Sonraki yazilarda görüsmek üzere.
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2018-2-13 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 113d1d6a-d19a-4f29-84d8-7868273e9141
 ---
+# Silverlight 2.0 Beta 2 ile beraber gelen TabControl incelemesi
 **Silverlight 2.0 Beta 2** ile beraber gelen yeni kontrollerden biri
 olan **TabControl** özellikle Windows uygulamalarından alışmış olduğumuz
 sayfalı uygulama tasarımlı ekranları web ortamında da rahatlıkla
@@ -535,3 +536,5 @@ solunda veya altında gözükmesini sağlayabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-9 tarihinde yayinlanmistir.*

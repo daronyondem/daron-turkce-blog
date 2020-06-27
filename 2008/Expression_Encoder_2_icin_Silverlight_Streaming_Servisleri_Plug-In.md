@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Encoder
 old.EntryID: 2dd66fdf-cf28-4323-9e64-c25294e89b14
 ---
+# Expression Encoder 2 için Silverlight Streaming Servisleri Plug-In
 Expression Encoder ile beraber gelen [Silverlight Publishing
 Plug-In](http://daron.yondem.com/tr/post/ea3ed226-82b6-4260-bd49-7c0444c7fbf4)
 konusundan çoook önceki yazılarımda bahsetmiştim. [Silverlight Streaming
@@ -25,3 +26,5 @@ görebiliyorsunuz. Birden çok video içeren projelerde ise sadece yenileri
 sisteme yükleniyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-16 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Global Windows Azure Bootcamp İstanbul Ayağı
 Bundan birkaç ay önce tarihini duyurduğum ve hatta kayıt sayfasını da
 twitter ve facebook üzerinden sizlerle paylaştığımız [Global Windows
 Azure Camp'ın Türkiye
@@ -27,3 +28,5 @@ sayfasında....](http://azurebootcampturkiye-daron.eventbrite.com/)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-4-18 tarihinde yayinlanmistir.*

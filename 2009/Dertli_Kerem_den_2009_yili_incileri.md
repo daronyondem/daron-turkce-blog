@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: bf3af63f-8594-4734-b990-1300337254dc
 ---
+# Dertli Kerem'den 2009 yılı incileri...
 Neredeyse bir yıl olmuş [Dertli
 Kerem](http://daron.yondem.com/tr/CategoryView.aspx?category=Dertli+Kerem)
 yazıları yazmayalı. Bu aslında bir aralar kendi kendime "yeter artık
@@ -224,3 +225,5 @@ Hepinize iyi yıllar! Seneye görüşmek üzere :) (Bu espri olmadan yıl
 bitmez :P)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-30 tarihinde yayinlanmistir.*

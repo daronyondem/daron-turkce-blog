@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 703339ac-93c0-4bf7-a19b-395f00c37dab
 ---
+# INETA Professional Hit ve Katılım konusunda.
 Son günlerde **INETA Professional Hit**'in katılımı ile ilgili ufak
 sorunlar oldu. Sizlerle gelişmeleri buradan ayrıca paylaşmak istiyorum.
 Level 300 ve üstü seminerler dediğimiz için normal katılımın altında bir
@@ -67,3 +68,5 @@ size en büyük salonu bulacağız :) Söz ;)
 Hepinize ilginizden dolayı ÇOK teşekkür ediyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-23 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ, Visual Basic 2008, Visual Basic .NET
 old.EntryID: 310e1b6d-8380-4803-8230-103ae1f85c8a
 ---
+# VB 9.0 yeniliklerinden bir demet.
 Özellikle uzun metinleri hazırladığımız kodun içerisine gömmek
 istediğimizde satır atlamaları vs epey can sıkıcı bir hal alıyor. Bu
 nedenle çoğu zaman bu metinleri harici bir TXT dosyasına koyarak oradan
@@ -134,3 +135,5 @@ Daha da güzeli :) bunlar maalesef C\# tarafında yok :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-17 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: fe8a3f1f-e651-40c3-adcb-f027c97bdd8e
 ---
+# TechEd Gün 2 Süper Geçti!
 Muhteşem bir gün daha geçti :) TechEd ikinci gününde maalesef hiçbir
 teknik oturuma katılamadım :) PDC'ye saklıyorum kendimi. Açık konuşmak
 gerekirse pek yeni birşeyler yoktu. Peki nasıl oldu da muhteşem bir gün
@@ -81,3 +82,5 @@ var <span>:) Bazılarının paylaşılmamasında da tabi ki fayda var
 Bakalım yarın neler olacak :) Kalın sağlıcakla.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-10 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ, SQL Server 2005, Visual Basic 2008, Visual Basic .NET
 old.EntryID: 83ec9383-266e-4556-bce6-9cfa3f497c7e
 ---
+# LINQ2SQL'e Giriş
 Blogumu sürekli takip edenler hatırlayacaklardır, bundan yaklaşık bir ay
 kadar önce LINQ'den ufak bir yazıyla bahsetmiştim ve daha VS 2008
 çıkmadığı için biraz daha sabretmemiz gerektiğini belirtmiştim. Artık
@@ -134,3 +135,5 @@ anlatacak çok şey var. İleriki yazılarda daha derinlere dalmak ümidiyle.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-8 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET 4.5, Windows Azure, HTML5, WCF, WF, Windows 8, Windows Phone 7.5, Windows Server 8
 ---
+# Yazılımcılar İzmir'de Buluşuyor! Etkinliği Kaçırmayın!
 Uzun süredir şöyle büyükcene güzel bir etkinlik yapamamıştık :) Bu sefer
 İzmir'den başlayalım dedik ve süper konularla karşınızdayız :) Daha önce
 hatırlarsanız 10-11 Aralık tarihlerini İzmir için bir kenara not
@@ -33,3 +34,5 @@ Banner](media/Yazilimcilar_Izmir_de_Bulusuyor/ineta_izmir_gif.gif)](http://daron
 İzmir'de görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-2 tarihinde yayinlanmistir.*

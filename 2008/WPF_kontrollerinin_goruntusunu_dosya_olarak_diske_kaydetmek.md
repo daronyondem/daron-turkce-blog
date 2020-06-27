@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 169c73ce-729e-4436-bbf8-89b4801920a5
 ---
+# WPF kontrollerinin görüntüsünü dosya olarak diske kaydetmek...
 Bugün karşılaştığım bir sorunun çözümünü sizinle paylaşmak istiyorum.
 Hazırladığım bir WPF uygulamasında ekranda bir şeyler çizdiriyordum ve
 sonrasında bu çizimin bir JPEG olarak kaydedilmesini sağlamam
@@ -134,3 +135,5 @@ edip diske rahatlıkla kaydedebiliyoruz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-7 tarihinde yayinlanmistir.*

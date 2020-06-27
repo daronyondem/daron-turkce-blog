@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Basic 2008, Visual Basic .NET
 old.EntryID: 7aeeb9ae-ef82-46fe-8f68-f6680294ca0a
 ---
+# Visual Basic 2008 Klavye Kısayolları Posteri
 Özellikle kod yazarken mouse kullanmak zorunda kalmak pek de hoş
 olmuyor. Klavye ile başbaşa ilerlemek çok daha hızlı kod yazılmasını
 sağlayabiliyor. Bu çerçevede olabildiğince klavye ile işlerinizi
@@ -20,3 +21,5 @@ size kalmış ;)
 <http://www.microsoft.com/downloads/details.aspx?familyid=255b8cf1-f6bd-4b55-bb42-dd1a69315833&displaylang=en>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-11 tarihinde yayinlanmistir.*

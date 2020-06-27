@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer
 old.EntryID: 833fce0c-c3e7-4567-be2e-c62302929fe4
 ---
+# INETA Capital Hit Panel video kaydı...
 [INETA Capital
 Hit](http://daron.yondem.com/tr/post/75fd8290-6f44-4c10-b48c-e183a0130d87)'te
 ürettiğimiz içeriklerle ilgi daha birkaç post daha göndereceğim.
@@ -28,3 +29,5 @@ Hit](http://daron.yondem.com/tr/post/7a13b13a-ce73-4ca0-b106-5da96c78a08c)
 panelini de yine SeminerTV üzerinden bilgisayarınıza indirebilirsiniz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-25 tarihinde yayinlanmistir.*

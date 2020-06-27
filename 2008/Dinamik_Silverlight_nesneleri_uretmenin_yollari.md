@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 0aaaf6ac-d218-4eea-b07e-b30e68477a0a
 ---
+# Dinamik Silverlight nesneleri üretmenin yolları.
 Silverlight animasyonları içerisinde XAML ile tanımlanan tüm nesneleri
 dinamik olarak kod ile de tanımlama şansımız var. Bu makalede
 Silverlight ile dinamik içerik üretimine dair detaylardan bahsedeceğiz.
@@ -178,3 +179,5 @@ bu nesnelere sonradan programatik olarak da ulaşabiliriz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-20 tarihinde yayinlanmistir.*

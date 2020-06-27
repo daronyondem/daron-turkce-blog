@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, ASP.NET
 old.EntryID: 7bac36c9-3ce9-41fd-96bc-e1d9733f2a98
 ---
+# Uludağ Üniversitesi ASP.NET 3.5 AJAX Semineri
 Bugün sabahtan Bursa Uludağ Üniversitesi'ndeydim. Hazır Microsoft'un
 Gençsen Geleceksin etkinliği için gitmişken üniversiteye biraz daha
 erken gidiyim ve arada bir de ASP.NET 3.5 AJAX semineri yapalım dedim.
@@ -39,3 +40,5 @@ olan bir çok kardeşim var :) onları da buradan kucaklıyor ve çıkışta
 İskender yemeye gelmedikleri için kınıyorum :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-25 tarihinde yayinlanmistir.*

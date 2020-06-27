@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: 93fc3077-53dd-48c3-90ae-216be47a9dbe
 ---
+# Dertli Kerem der ki Girişimcilik adı altınta yazılımcılık/programcılık mesleği sabote ediliyor!
 **Herkes girişsin de bu kodu kim yazacak?**
 
 Millet olarak her şeyi abartıyor muyuz anlayamıyorum. Aslında ben de
@@ -150,3 +151,5 @@ yeterince iyi yapmıyorsunuz demektir!
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-7 tarihinde yayinlanmistir.*

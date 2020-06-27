@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 15adba9f-e264-45ac-a318-b5038c24f488
 ---
+# Yeni Kitap
 Tam bir yıl olmuş; ASP.NET AJAX kitabım basılalı üzerinden bir yıl
 geçmiş. Oysa ilk altı ayda kitap tükenmişti ve Pusula Yayıncılıktan "*2.
 baskıya gireceğiz yenilenecek bir şey var mı?*" sorusu gelmişti. Cevabım
@@ -145,3 +146,5 @@ Vatana, millete hayırlı olması dileği ile ;) Hepinize kolay gelsin.
 **24 YTL** :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-18 tarihinde yayinlanmistir.*

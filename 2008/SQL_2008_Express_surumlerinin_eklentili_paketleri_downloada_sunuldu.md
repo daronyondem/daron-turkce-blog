@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: SQL Server 2008
 old.EntryID: 4644f57f-6ce2-4252-a7a2-4f3af4d2f459
 ---
+# SQL 2008 Express sürümlerinin eklentili paketleri downloada sunuldu.
 Sizleri daha önce SQL 2008'in yayınlandığından haberdar etmiş hatta
 ücretsiz sürümü olan Express Edition'ın da indirilebileceğinden
 bahsetmiştim. Şimdi de **Express Edition**'ın yeni paketleri duyuruldu.
@@ -33,3 +34,5 @@ bu şekilde eklentili paketleri vardı.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-23 tarihinde yayinlanmistir.*

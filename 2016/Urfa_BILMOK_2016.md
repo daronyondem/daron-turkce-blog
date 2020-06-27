@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 12
 Tags: Seminer
 ---
+# Urfa BİLMÖK 2016
 Süper bir **BİLMÖK** geride kaldı :) Geçen hafta sonu BİLMÖK için **Urfa'ya Harran Üniversitesi'ne** ziyarete gittim. Etkinliğin ikinci gününde **"Boş Durma Boşa Çalış"** adındaki oturumumu sundum. Oturumda çok eğlendim diyeceğim ama zaten eğlence iki gün boyunca durmadı desem yeridir. 
 
 ![](media/Urfa_BILMOK_2016/bilmok.jpg)
@@ -19,3 +20,5 @@ Son zamanlarda başladığım VLOG alışkanlığıma hala devam ediyorum :) Urf
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-3-8 tarihinde yayinlanmistir.*

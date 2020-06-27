@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Windows Azure'da Blob Storage Maceralarına Devam
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Azure_Blob_Storage_giris_SDK2_5)
@@ -239,3 +240,5 @@ seçeneğiymiş PAAS civarlarında :) Microsoft'un yalancısıyım.. ;)
 Kendinize çok iyi bakın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-6-19 tarihinde yayinlanmistir.*

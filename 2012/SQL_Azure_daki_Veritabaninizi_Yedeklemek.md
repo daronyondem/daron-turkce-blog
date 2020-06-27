@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
+# SQL Azure'daki Veritabanınızı Yedeklemek
 Daha [önceki yazılarda](http://daron.yondem.com/tr/tag/SQL_Azure) SQL
 Azure konusuna göz atmış ve geçişin kısmen de olsa ne kadar kolay
 olduğunu görmüştük. Genel PAAS manzarasında geçişin en kolay olduğu veya
@@ -368,3 +369,5 @@ hiçbirine ihtiyacımız olmaz.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-10-2 tarihinde yayinlanmistir.*

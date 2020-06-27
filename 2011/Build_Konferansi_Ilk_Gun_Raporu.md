@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Expression Blend, HTML5, IE 10, Internet Explorer, Silverlight 5, Windows 8
 ---
+# Build Konferansı İlk Gün Raporu (Windows 8 burada!
 Şu an saat gece yarısı 01:40 :) Build'in ilk gününden yeni otele
 varabildim ve uyku gözümden akarken :) yarın sabah 6.30'da kalkacakken
 :) yine de bu yazıyı "yazmalıyım" diyerek... neyse uzatmiyim :) Bugün
@@ -312,3 +313,5 @@ yazacak çok şey var. Toparladıkça bloga aktaracağım. Yarın yine bir gün
 özeti ile görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-14 tarihinde yayinlanmistir.*

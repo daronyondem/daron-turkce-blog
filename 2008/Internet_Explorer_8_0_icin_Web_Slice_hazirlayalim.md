@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: cc7cd7ab-96e7-484d-baf4-cd9b21bc7392
 ---
+# Internet Explorer 8.0 için Web Slice hazırlayalım.
 IE8.0 ile gelen ve biz web yazılım geliştiricilerin önümüzdeki dönemde
 belki de en fazla uygulayacağımız yeniliklerden biri **Web Slice**
 yapısı. Özellikle tasarımcılar için Expression Design ve Photoshop gibi
@@ -354,3 +355,5 @@ belirtiyoruz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-14 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 5
 old.EntryID: 1fb13798-77cb-4673-91f6-e64f26c94561
 ---
+# Silverlight 5 Beta ile XAML / Databinding Debugging
 [Silverlight 5 Beta](http://www.microsoft.com/silverlight/future/)'nın
 duyurulması ile beraber [birçok yeni
 özellik](http://daron.yondem.com/tr/post/99736c98-eba4-4182-a4f9-0a108b0782a5)
@@ -84,3 +85,5 @@ mümkün....](media/Silverlight_5_Beta_ile_XAML_Databinding_Debugging/15042011_3
 Görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-16 tarihinde yayinlanmistir.*

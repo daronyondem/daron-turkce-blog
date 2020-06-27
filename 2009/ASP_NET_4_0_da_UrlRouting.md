@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 4.0, ASP.NET
 old.EntryID: e6f2b81a-defc-4255-ba19-d0071526aadf
 ---
+# ASP.NET 4.0'da UrlRouting
 URLReWrite, URLMapping veya URLRouting adını ne koyarsanız koyun bugün
 web projelerinin olmazsa olmazlarından biri de web siteleri içi
 linklerin okunabilir ve arama motorları tarafından rahatlıkla
@@ -130,3 +131,5 @@ Ayrıca yukarıdaki şekilde herhangi bir sayfaya gelen parametreyi de
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-16 tarihinde yayinlanmistir.*

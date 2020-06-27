@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 4.0, ASP.NET
 old.EntryID: cb60cff9-5cc0-44b0-8dfb-0fc51243c1ae
 ---
+# ASP.NET 4.0'da ClientIDMode ile HTML ID'lerinin kontrolü.
 ASP.NET'te en sevmediğim özelliklerden biri yaratılan HTML kodu
 üzerindeki kontrolün pek de mümkün olmaması. Aslında bu sevmediğim
 özellik ASP.NET'in işimizi bu kadar kolaylaştırabilmesini sağlayan en
@@ -576,3 +577,5 @@ style="color: blue;">\></span>
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-14 tarihinde yayinlanmistir.*

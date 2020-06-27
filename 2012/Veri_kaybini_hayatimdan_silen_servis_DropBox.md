@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Genel, Servisler
 ---
+# Veri kaybını hayatımdan silen servis
 Çok uzun zamandır yazmak istediğim bir yazı hatta yazı türlerine bir
 giriş olur umarım bu blogpostum. Kullandığım ve herkese de tavsiye
 edebileceğim şeyler... yazıları... :) Bu yazıda değineceğimiz konu
@@ -132,3 +133,5 @@ Not: Bu makaledeki tüm [DropBox](http://db.tt/Q8dcy7FE) linkleri
 referral linkidir ;) Sonra "vay çakaaal" gibi tepkiler görmiyim :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-21 tarihinde yayinlanmistir.*

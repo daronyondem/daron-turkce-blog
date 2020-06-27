@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2008
 old.EntryID: 73ed36aa-fb98-4cb0-83a4-9bef99f8cc18
 ---
+# Visual Studio 2008 ve .NET Framework 3.5 Çıktı!
 Süper! Visual Studio 2008 ve .net Framework3.5 çıktı! Hemen aşağıdaki
 linkten Express (ücretsiz) sürümlerini indirmeye başlayabilirsiniz.
 
@@ -23,3 +24,5 @@ Açıkçası bende heyecan dorukta :) O nedenle şimdilik bu kadar yazıp inen
 Visual Studio 2008 downloadumu heyecanla izleyeceğim :D
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-20 tarihinde yayinlanmistir.*

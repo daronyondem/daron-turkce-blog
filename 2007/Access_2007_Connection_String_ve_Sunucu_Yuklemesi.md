@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET, Access 2007
 old.EntryID: 52761662-3578-4fd0-bbd1-a261011d5f6f
 ---
+# Access 2007 Connection String ve Sunucu Yüklemesi
 Yeni **Office 2007** ile beraber gelen yeni dosya formatlarına da
 alışmaya başladık. Bu yeni dosya formatlarından biri de **Access 2007**
 ile beraber gelen **accdb** uzantılı veritabanı dosyaları. Yeni bir
@@ -48,3 +49,5 @@ yüklemelerini sağlamanız gerekiyor. Aksi halde hiçbir şekilde **Access
 Access 2003 - 2007 upgrade sürecinde hepinize iyi şanslar ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-14 tarihinde yayinlanmistir.*

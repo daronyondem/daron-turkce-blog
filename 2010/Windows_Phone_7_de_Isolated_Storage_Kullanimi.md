@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
 old.EntryID: a23b0ea1-4bc0-474f-8036-42e1eff6a6c7
 ---
+# Windows Phone 7'de Isolated Storage Kullanımı
 Windows Phone 7 içerisinden kullanıcılara doğrudan bir dosya sistemi
 gösterimi yapılmıyor aynı şekilde yazılım geliştiriciler de herhangi bir
 dosya sistemine erişim yapamıyor. Yani bizim Windows Mobile 6.x'ten
@@ -257,3 +258,5 @@ ApplicationSetting olarak saklanabiliyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-5 tarihinde yayinlanmistir.*

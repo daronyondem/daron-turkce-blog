@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: SharePoint, Silverlight 2.0
 old.EntryID: ff0fb565-10c0-4a3f-9d01-97528cad514d
 ---
+# Silverlight BluePrint for SharePoint paketi yenilendi
 Silverlight 2.0'ın SharePoint ile kullanımı çok ilginç ve güzel sonuçlar
 doğurabiliyor. Bu çerçevede sizlerle daha önce Silverlight'ın SharePoint
 üzerinde kullanımı ile ilgili bir
@@ -25,3 +26,5 @@ yüklemeleri yapabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-28 tarihinde yayinlanmistir.*

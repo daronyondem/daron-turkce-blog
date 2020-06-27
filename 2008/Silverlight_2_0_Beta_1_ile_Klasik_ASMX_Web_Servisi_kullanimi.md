@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 19fe09b2-2987-4369-a5d5-58e0641c8d6b
 ---
+# Silverlight 2.0 Beta 1 ile Klasik ASMX Web Servisi kullanımı
 Silverlight 2.0 ile beraber .NET dillerini kullanabilirker aslında
 sunucu tarafındaki veriye ulaşma yapısı biraz değişiyor. Normal
 şartlarda istemci tarafından sunucuya bağlanabilmek için AJAX
@@ -310,3 +311,5 @@ style="color: blue;">Class</span>
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-23 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: live.com, Windows Phone, Windows Phone 7.5, Windows Phone 8
 ---
+# Windows Phone'da LiveID Authentication
 Harici "Identity Provider"ların entegrasyonu çoğu developer için
 sıkıntılı olabiliyor. Bana gelen sorular arasında da popüper bir yeri
 ver bu konunun. O nedenle bu yazıda hızlıca bir Windows Phone
@@ -188,3 +189,5 @@ Makaledeki örneğin kodlarına
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-3-6 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: HTML5, IE 10, Kinect, Windows 8, Windows Phone, Windows Phone 7.5
 ---
+# Qatar Microsoft OpenDoor 2012
 Yeni bir senenin başladığının mesajlarından biri de OpenDoor serilerinin
 başlaması. Önümüzdeki iki ayda dört OpenDoor konferansında konuşacağım
 ;) Bunlardan ilki bu hafta Qatar, Doha'da gerçekleşti. Windows8, Windows
@@ -32,3 +33,5 @@ kardeşlerimiz varsa :) beklerim ;)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-12 tarihinde yayinlanmistir.*

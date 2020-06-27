@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: b703f1b0-7ec1-4e1e-8fad-6dcf825775e4
 ---
+# Silverlight 2.0 içerisinde createFromXaml alternatifi ve alt seviyeli dinamik nesne üretimi
 **Silverlight 1.0** içerisinde JavaScript tarafında sahip olduğumuz
 createFromXaml metodu çoğu durumda işimizi kolaylaştırıyordu. Dinamik
 olarak yaratmak istediğimiz nesnelerin XAML kodunu bir kereliğine Blend
@@ -742,3 +743,5 @@ rahat bir çalışma ortamı sağlayacaktır.
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-7 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 1c049458-41b2-42fe-9174-e0007df7dd58
 ---
+# ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 5 - Handler İşlemleri)
 ASP.NET AJAX ile beraber gelen JavaScript özelliklerine değindiğimiz
 yazı serisinin son yazısında JavaScript handler işlemlerine bakacağız.
 ASP.NET sunucu tarafındaki handler yaratmak bizim için çok kolay.
@@ -207,3 +208,5 @@ ile gelen bu yeniliklerle hepinize yeni projelerde başarılar dilerim ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-12 tarihinde yayinlanmistir.*

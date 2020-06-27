@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: ce840a3a-69f0-4375-ba9d-a8e492b6c435
 ---
+# Şanlıurfa Harran Üniversitesi Silverlight Semineri
 Dün Şanlıurfa **Harran Üniversitesi**'nde **Silverlight**
 seminerindeydim. Gerçekten muhteşem iki gün geçirdim Şanlıurfa'da.
 Sanırım hayatımda bu kadar sıcak kanlı insanlar görmemişimdir. Gerçekten
@@ -43,3 +44,5 @@ Seminerde yaptığımız örneği ve sunumumu aşağıdan indirebilirsiniz.
 MB)](media/Sanliurfa_Harran_Universitesi_Silverlight_Semineri/18042008_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-19 tarihinde yayinlanmistir.*

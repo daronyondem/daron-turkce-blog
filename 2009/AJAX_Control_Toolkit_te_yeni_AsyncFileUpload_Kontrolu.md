@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, ASP.NET
 old.EntryID: df55edd7-8189-4708-9c32-7b9896e29760
 ---
+# AJAX Control Toolkit'te yeni AsyncFileUpload Kontrolü
 AJAX'tan ilk bahsetmeye başladığımız yıllarda en çok aldığım sorulardan
 biri asenkron File Upload işlemi ile ilgiliydi. Asenkron işlem
 yapabilmek ve sayfanın Refresh atmaması çok hoş bir durumdu ve bu durumu
@@ -335,3 +336,5 @@ var.](media/AJAX_Control_Toolkit_te_yeni_AsyncFileUpload_Kontrolu/02102009_2.png
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-2 tarihinde yayinlanmistir.*

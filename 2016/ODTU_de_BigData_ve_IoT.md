@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 12
 Tags: Seminer
 ---
+# ODTÜ'de BigData ve IoT
 Gizli bir **BigData ve IoT konferansı** gerçekleşti geçenlerde ODTÜ, Ankara'da. :) Şaka bir yana, kısıtlı bir katılımla gerçekleşen konferansın özel bir konuğu vardı, Microsoft CEO'su **Satya Nadella**. Ben de Microsoft Türkiye'nin daveti ile Nadella'dan hemen önceki oturumu Yemeksepeti'nden sevgili **Koray Kocabaş** ile paylaştım.
 
 ![](media/ODTU_de_BigData_ve_IoT/ankara_bigdata.jpg)
@@ -17,3 +18,5 @@ Oturumun süresi gereği çok tekniğe giremedik ama zaten özüne bakarsak bug�
 Gelen yoğun istek üzerine bu etkinliğin bir kopyasının (Maalesef Satya'sız) farklı şehirlerde de gerçekleşmesi olası diye duydum. Umarım bir dahaki sefere daha büyük bir salon ayarlanır :) Ben de böylece daveti sizlerle twitter ve facebooktan paylaşırım.
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-1-7 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Silverlight
 old.EntryID: 451e3a2c-c312-4de6-ad88-59744afc4def
 ---
+# Microsoft Student 2 Business Silverlight Eğitimi
 Son üç gündür Microsoft İstanbul ofislerinde **Students 2 Business**
 programı çerçevesinde bir Silverlight eğitimi sunuyordum. Eğitim sanırım
 şu ana kadar Türkiye'de yapılan en geniş içerikli (3 tam gün) eğitim
@@ -30,3 +31,5 @@ ediyorum. Eğitimde yaptığımız, bazılarını yarı bıraktığımız :)
 KB)](media/Microsoft_Student_2_Business_Silverlight_Egitimi/26012008_2.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-26 tarihinde yayinlanmistir.*

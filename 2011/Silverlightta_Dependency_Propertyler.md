@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, Silverlight 3.0, Silverlight 4, Silverlight 5, WPF
 ---
+# Silverlight'ta Dependency Property'ler
 Bugüne kadar Silverlight ve WPF konusunda birçok seminerde hep
 kenarından sıyırdığımız :) ve sürekli olarak "şimdilik oraya girmeyelim"
 dediğim yerlerden birine girmeye hazır mısınız? Karşınızda "Dependency
@@ -194,3 +195,5 @@ yorumlarınızı bekliyorum ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-4 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Kişisel Gelişim, Seminer
 ---
+# Konya Selçuk Üniversitesi Girişimcilik ve Ekonomi Zirvesi
 Dün Konya yollarındaydım. Selçuk Üniversitesi'ndeki "**Girişimcilik ve
 Ekonomi Zirvesi**" için Endüstri Mühendisliği Topluluğu tarafından davet
 edildim. Malum etkinlik bir developer etkinliği değil :) Benim de zaten
@@ -37,3 +38,5 @@ webinerinde](http://daron.yondem.com/tr/post/Azure_Mobile_Services_Webcast_9_May
 görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-5-9 tarihinde yayinlanmistir.*

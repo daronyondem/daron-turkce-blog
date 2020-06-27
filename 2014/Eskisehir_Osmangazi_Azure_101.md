@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Eskişehir Osmangazi Azure 101
 Geçen hafta sonu Eskişehir Osmangazi Üniversitesi'ndeydim. "Cloud Development 101" adını koyduğum sıfırdan Cloud Nedir gibi konseptleri anlatan ve içerisinde de Microsoft'un Azure ile yaptıklarını gösteren bir sunum yaptım. İtiraf etmek gerekirse günübirlik bir etkinlik için 10 saat yolculuk son birkaç yıldır yapmadığım bir şeydi ve yıllar sonrasında "yılların etkisini" görmemi sağladı. Sözün özü... yaşlanmışım :) Şaka zannederlere sesleniyor... "10 yıl sonra görüşürüz."
 
 ![](media/Eskisehir_Osmangazi_Azure_101/eskisehir.jpg) 
@@ -16,3 +17,5 @@ Tüm yorgunluğa rağmen :) benim için çok eğlenceli bir etkinlikti. Etkinlik
 
 Bir dahakine görüşmek üzere Eskişehir! ;)
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-15 tarihinde yayinlanmistir.*

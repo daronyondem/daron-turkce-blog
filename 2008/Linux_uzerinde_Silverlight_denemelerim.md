@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 1d36f44d-8fe3-49ac-9c68-048d8391a408
 ---
+# Linux üzerinde Silverlight denemelerim...
 Bugün ufak bir maceraya atılarak sanal makineye bir **Ubuntu** kopyası
 yükledim :) Yanlış okumadınız bir Linux kopyasından bahsediyorum.
 Aslında bu ilk değil, bundan önce belki yüzlerde defa Linux kurulumları
@@ -60,3 +61,5 @@ tarafında Linux'ten desteğini çekmiş olması Moonlight'ın geleceğini
 etkilemez.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-27 tarihinde yayinlanmistir.*

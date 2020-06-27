@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: aaaca714-46ca-43a6-a7f8-8daa503f80bb
 ---
+# Microsoft Yaz Okulu 2009 - Ankara ayağı...
 Son 3 gündür Ankara'dayım. Peki neden? Microsoft Yaz Okulu başladı da
 ondan :) Üç gündür yaz okulundaki arkadaşlarla Silverlight 3'ün altından
 girdik üstünden çıkmaya çalıştık diyebilirim :) Araya biraz tabi LINQ
@@ -43,3 +44,5 @@ yemeyin yoksa sonunuz benden farklı olmaz :D En kısa zamanda tekrar
 görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-8-1 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Web
 old.EntryID: 5ee7ec45-f6f5-4a98-9902-0e8fe2bc2016
 ---
+# Expression Web ve rakipler
 Expression Web Microsoft'un Office paketi dahilinde yer alan Frontpage
 ürünün yeni nesil temsilcisi olarak Expression Studio içerisinde yerini
 alan bir ürün. Frontpage günlerinden bugüne geldiğimizde Expression Web
@@ -70,3 +71,5 @@ rakipler](http://daron.yondem.com/tr/post/4918cfdc-60cf-448f-8a1c-e6859205bc2f)
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-21 tarihinde yayinlanmistir.*

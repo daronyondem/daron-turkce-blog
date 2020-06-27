@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 93a0d616-54c2-4ec7-9c4d-62721eeaf2bb
 ---
+# Blogumda yeni bir bölüm
 Bundan birkaç ay önce seminer vermeye gittiğim birkaç üniversitede
 sürekli aynı yorum ile karşılaşmaya başladım; "*Blogunuz çok karışık*".
 Sanırım "*Bana göre karışık değil*" desem garip olmaz :) Ama tabi ki siz
@@ -30,3 +31,5 @@ bir ayın içeriği her zaman blogun ana sayfasında yer alıyor.
 Umarım faydalı olur ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-10 tarihinde yayinlanmistir.*

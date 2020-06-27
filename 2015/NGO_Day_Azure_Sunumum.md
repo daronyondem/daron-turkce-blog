@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 9
 Tags: Windows Azure
 ---
+# NGO Day Azure Sunumum
 Dün benim için çok değerli bir etkinlikteydim. [Habitat Kalkinma](http://www.habitatkalkinma.org) tarafından yürütülen [Geleceğini Tasarla Programı](http://habitatkalkinma.org/projelerimiz/bit/gtasarla/) kapsamında düzenlene **NGO Day** gününde Sivil Toplu Kuruluşları Azure'dan nasıl faydalanabileceklerini dair bir sunum yaptım. 
 
 ![NGO Day, 2015](media/NGO_Day_Azure_Sunumum/NGO.jpg)
@@ -15,3 +16,5 @@ Dün benim için çok değerli bir etkinlikteydim. [Habitat Kalkinma](http://www
 En son [2008'de Habitat'ın bir başka programında](http://daron.yondem.com/software/post/9182e0f1-6eba-42c9-89a8-3dba7375512a) yer almıştım. Tekrar bu şansı benle paylaştığı için sevgili **Bora Caldu**'ya buradan çok teşekkür etmek istiyorum. 
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-6-6 tarihinde yayinlanmistir.*

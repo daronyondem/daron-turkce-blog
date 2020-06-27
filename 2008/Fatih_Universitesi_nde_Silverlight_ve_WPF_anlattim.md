@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight 2.0, WPF
 old.EntryID: 5823637c-2959-428f-8d63-7bbe022678b3
 ---
+# Fatih Üniversitesi'nde Silverlight ve WPF anlattım.
 Bugün **Fatih Üniversitesi**'nde **Silverlight** ve **WPF** anlattım.
 Gerçekten çok sıcak bir atmosfer vardı üniversite içerisinde, kendimi
 bir an bir üniversitede olduğuma ikna etmem gerekti :) Ben mi yanlış
@@ -34,3 +35,5 @@ Ahmet Aydin, Bilgehan Berberoglu, Umit Samimi, Erdin Sarpkaya** ve
 Hepiniz kalın sağlıcakla ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-31 tarihinde yayinlanmistir.*

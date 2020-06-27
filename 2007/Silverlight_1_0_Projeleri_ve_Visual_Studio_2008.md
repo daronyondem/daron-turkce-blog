@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: b1dce46a-cc11-4a1c-a3ac-0c4fa89b64b0
 ---
+# Silverlight 1.0 Projeleri ve Visual Studio 2008
 Eğer **Visual Studio 2008**'e geçiş yaptıysanız yeni bir proje
 yarattığınızda **Silverlight 1.0** seçeneğinin var olmadığını görerek
 eminim ki siz de benim gibi hayal kırıklığına uğramışsınızdır. Visual
@@ -61,3 +62,5 @@ Hepinize kolay gelsin.
 bahsettiklerim 1.0 yani şu an yayında olan sürüm için geçerli.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-24 tarihinde yayinlanmistir.*

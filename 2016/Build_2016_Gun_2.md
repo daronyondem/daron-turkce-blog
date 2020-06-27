@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 32
 Tags: Haberler, Windows Azure
 ---
+# Build 2016 2. Gün
 Build konferansı ikinci günü de geride kaldı. Tahmin ettiğim üzere bugünkü Keynote ağırlıklı olarak Azure üzerineydi ama onun öncesinde beklediğimiz birkaç duyuru geldi :)
 
 ### Xamarin
@@ -33,3 +34,5 @@ Ofis tarafından beni heyecanlandıran tek şey var, o da **Graph API**. Özelli
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gu9uxyXq9IQ" frameborder="0" allowfullscreen></iframe>
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-4-1 tarihinde yayinlanmistir.*

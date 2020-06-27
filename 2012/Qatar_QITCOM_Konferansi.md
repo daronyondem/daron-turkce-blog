@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Kinect, Surface, Windows 8, Windows Phone 7.5
 ---
+# Qatar QITCOM Konferansı
 Bu hafta başından beridir yine Qatar'daydım :) Geçen ay
 [OpenDoor](http://daron.yondem.com/tr/post/Qatarda_Microsoft_OpenDoor_2012)
 için Qatar'a gittikten sonra daha tam bir ayı doldurmuşken yine gitmek
@@ -32,3 +33,5 @@ Bu arada unutmadan :) haftaya hafta sonu Kayseri'deyiz ;) Detayları için
 göz atabilirsiniz. Görüşürüz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-3-8 tarihinde yayinlanmistir.*

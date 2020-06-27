@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: e93f297c-9d8c-4e34-807e-d6a0e9e47147
 ---
+# Silverlight 2.0 XAP Paketleri
 Silverlight 2.0 (Beta 1) yazılarımın yavaş yavaş geleceğinden
 bahsetmiştim. İşte ilki ile karşınızdayım. Bu yazıda **Silverlight 2.0
 Beta 1** ile beraber gelen yeni dağıtım şeklinden bahsedeceğiz.
@@ -168,3 +169,5 @@ isteyenler için SL 2.0 büyük kolaylık olacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-19 tarihinde yayinlanmistir.*

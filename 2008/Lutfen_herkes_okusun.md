@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: 400665bd-95b2-4783-a577-02677c9217ad
 ---
+# Lütfen herkes okusun!
 Attığım başlıktan yaratıcılık fışkırmadığının farkındayım, fakat açık ve
 net bir şekilde bu yazıyı herkesin okumasını istiyorum çünkü çok farklı
 profillere hitap eden paragraflar içeriyor. Aslında bir anlamda blog
@@ -127,3 +128,5 @@ genel yorumlarınızı heyecanla bekliyorum.
 Hepinize bol sevgili günler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-1 tarihinde yayinlanmistir.*

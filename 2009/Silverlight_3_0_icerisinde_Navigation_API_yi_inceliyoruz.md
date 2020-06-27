@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 50b7d2c8-13f5-4f82-b458-4f887a538448
 ---
+# Silverlight 3.0 içerisinde Navigation API'yı inceliyoruz.
 İster AJAX sitelerinde olsun ister Silverlight bir şekilde istemci
 tarafında sayfanın manipüle edildiği web uygulamalarındaki dertlerden
 biri URL'in değişmiyor olması ile beraber tarayıcı geçmişinin de
@@ -623,3 +624,5 @@ kesin.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-5 tarihinde yayinlanmistir.*

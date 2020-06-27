@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: f6706f0b-dce4-4fec-bd2e-acf70d6cbc27
 ---
+# Silverlight 2.0 içerisinde harici dinamik XAP (Silverlight 2.0) uygulamalarının asenkron yüklenmesi.
 Dinamik olarak Silverlight 2.0 uygulamalarında farklı XAP dosyalarını
 istemci tarafına yükleyerek ana XAP içerisinde gösterebiliyor olmak
 kullanıcı deneyimi açısından büyük önem taşıyor. İçerisinde yoğun
@@ -590,3 +591,5 @@ aktarabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-2 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Expression Encoder
 old.EntryID: ea3ed226-82b6-4260-bd49-7c0444c7fbf4
 ---
+# Expression Encoder Silverlight Streaming Servisleri Eklentisi
 Silverlight Streaming Servisleri ile ilgili daha önceki
 [yazılarımda](PermaLink.aspx?guid=e27332ab-82c3-4084-a220-181fb7f0b885)
 detaylardan bahsetmiştim. Bugün ise size Silverlight Streaming
@@ -65,3 +66,5 @@ yükleniyor...](media/Expression_Encoder_Silverlight_Streaming_Servisleri_Eklent
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-3 tarihinde yayinlanmistir.*

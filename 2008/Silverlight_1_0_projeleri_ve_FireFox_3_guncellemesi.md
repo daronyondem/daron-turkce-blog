@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: b3eb559f-8dfc-449a-a0b4-a81090a19b9f
 ---
+# Silverlight 1.0 projeleri ve FireFox 3 güncellemesi
 FireFox 3 yarına downloada sunuluyor. Kişisel olarak FireFox kullanmamın
 iki nedeni var; birincisi güzel eklentileri var, ikincisi sırayla
 açılmasını istediğim 20 üzerinde site varsa ve bunları tablarda açıp bir
@@ -36,3 +37,5 @@ geçirmiyorsunuz sadece Silverlight.js dosyasını değiştiriyorsunuz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-17 tarihinde yayinlanmistir.*

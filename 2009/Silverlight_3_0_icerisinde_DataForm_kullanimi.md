@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: a9c82093-92f2-41af-b020-a205200e0d96
 ---
+# Silverlight 3.0 içerisinde DataForm kullanımı.
 DataForm kontrolüne hızlı bir şekilde göz atıldığında aslında
 ASP.NET'teki DetailsView kontrolüne benzetilebilir. Bu önyargı ile
 hızlıca konumuza giriş yaparken gelin ilk olarak bir Silverlight 3
@@ -1639,3 +1640,5 @@ sizde...
 Hepinize kolay gelsin....
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-15 tarihinde yayinlanmistir.*

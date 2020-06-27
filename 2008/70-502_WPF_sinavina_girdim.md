@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 72aa37c8-486e-4de3-b402-89a59e3dfdcb
 ---
+# 70-502 WPF sınavına girdim ;)
 En son Microsoft sınavlarına gireli epey uzun zaman olmuş. Bugün yeni
 sınav serilerinden
 [70-502](http://www.microsoft.com/learning/en/us/exams/70-502.mspx)
@@ -67,3 +68,5 @@ merkezi ile görüşmeniz gerekecektir.
 Başka sorularınız olursa yorum olarak beklerim ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-11 tarihinde yayinlanmistir.*

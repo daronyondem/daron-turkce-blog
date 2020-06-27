@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
 old.EntryID: cab619b4-e238-4f76-b790-ac0f3b38704c
 ---
+# Silverlight Şarkısı
 Silverlight çılgınlığı aldı başını gidiyor :) Spike Xavier ve Dan Wahlin
 tarafından hazırlanmış Silverlight şarkısını aşağıdaki adresten
 bilgisayarınıza indirebilirsiniz.
@@ -32,3 +33,5 @@ tonight*
 :) Bizde de var mı böyle yetenekli gençler? ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-30 tarihinde yayinlanmistir.*

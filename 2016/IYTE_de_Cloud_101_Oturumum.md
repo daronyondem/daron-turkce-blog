@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 6
 Tags: Seminer, Windows Azure
 ---
+# IYTE'de Cloud 101 Oturumum
 Dün IYTE'nin **IZTECH Comm**'on etkinliği için İzmir'deydim. Daha doğrusu Urla civarlarındaydım :) **Cloud101** adını verdiğim farklı cloud hizmet sağlayıcılardan bahsettiğim oturumumu sundum. Oturum sonrası katılan arkadaşlarla bol bol da sohbet etme şansımız oldu. 
 
 ![](media/IYTE_de_Cloud_101_Oturumum/common.jpg)
@@ -17,3 +18,5 @@ Hatırlarsanız en son Karabük ile başlayan bir **Vlog** serisi duyurmuşum. �
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gn07wZctTpI" frameborder="0" allowfullscreen></iframe>
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-3-4 tarihinde yayinlanmistir.*

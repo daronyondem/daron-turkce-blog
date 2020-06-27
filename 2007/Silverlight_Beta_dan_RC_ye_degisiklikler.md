@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: c605d39d-1317-4bcb-86b1-0bdf3e076d15
 ---
+# Silverlight Beta'dan RC'ye değişiklikler
 **Silverlight** ile ilgili uzun süredir herhangi bir yazı yazmadığımın
 farkındayım. Açıkcası Beta sürecinde olan yazılımlarla ilgili çok derin
 çalışmalar yapmanın biraz sakıncalı yönleri var. Bu yönleri özellikle
@@ -30,3 +31,5 @@ yine de hazırlıklı olmakta ve gelişmeleri yakından takip etmekte fayda
 var. Ne de olsa daha Visual Studio 2008 için en az 6 ayımız var :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-16 tarihinde yayinlanmistir.*

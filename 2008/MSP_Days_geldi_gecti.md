@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: MultiPoint SDK
 old.EntryID: 6f712346-a0b8-4dba-9eb1-1f61deff3f09
 ---
+# MSP Days geldi geçti...
 Son iki gündür daha önce de sizlere duyurmuş olduğum Microsoft'un MSP
 Days etkinliğindeydim. **Ankara, Çankaya Üniversitesi**'nde düzenlenen
 etkinlikte **Microsoft Student Partner** unvanına sahip genç
@@ -34,3 +35,5 @@ Etkinlikteki başarılarından dolayı tüm MSP kardeşlerimi kutluyorum.
 Başarınız daimi olsun ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-28 tarihinde yayinlanmistir.*

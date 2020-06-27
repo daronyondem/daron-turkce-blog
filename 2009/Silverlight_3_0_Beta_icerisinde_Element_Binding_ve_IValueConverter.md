@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: ad1bc507-f86a-4fa2-94e4-a45e28c6619d
 ---
+# Silverlight 3.0 Beta içerisinde Element Binding ve IValueConverter
 Bu makalemizde aslında uzun zamandır WPF tarafında bulunan fakat
 Silverlight 2.0'da olmayan bir özellikten bahsedeceğiz. Tabi bu
 özellikten bahsetmemizin nedeni ise artık Silverlight 3.0 ile söz konusu
@@ -423,3 +424,5 @@ makalemizin daha sonuna geldik.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-16 tarihinde yayinlanmistir.*

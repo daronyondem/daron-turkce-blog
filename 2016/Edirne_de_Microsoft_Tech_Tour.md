@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 11
 Tags: Seminer
 ---
+# Edirne'de Microsoft Tech Tour
 Dün **Microsoft Tech Tour** çerçevesinde **Edirne'deydim**. Etkinlik adından yola çıkarak teknik bir konu anlattığımı düşünebilirsiniz, ama öyle olmadı. Organizasyondaki öğrenci kardeşlerimin talebi üzerine "**Boş Durma Boşa Çalış**" oturumumu sundum. Edirne'de olup teknik bir oturum bekleyenler [22 Nisan'daki etkinliğe](http://www.bilisimsenligi.com/) gelebilirler :)
 
 ![](media/Edirne_de_Microsoft_Tech_Tour/Edirne-Trakya-Universitesi.jpg)
@@ -19,3 +20,5 @@ Etkinlik günü boyunca VLOG da çektiğimi hatırlatiyim :) Youtube'dan takip e
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-4-9 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: 50ea2bef-d059-42eb-93c7-ae316803a229
 ---
+# Kitaplık Kardeşliği
 Özellikle yabancı bloglarda bir süredir "yeni moda" diyebileceğim bir
 akım olarak blog sahipleri kütüphanelerinin fotoğraflarını çekerek
 okudukları kitapları kısaca tanıtıyorlar. Ben de bu modayı Türkçe Blog
@@ -222,3 +223,5 @@ de belki gerek kalmıyor. Bakalım gelecek neler getirecek.
 Sevgilerimle...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-31 tarihinde yayinlanmistir.*

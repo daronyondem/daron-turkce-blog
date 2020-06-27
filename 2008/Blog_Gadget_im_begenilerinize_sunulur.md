@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 181c76cb-6dda-4a48-9cab-c46b1ddb2a3b
 ---
+# Blog Gadget'ım beğenilerinize sunulur
 Geçenlerde bir öğrencimin tavsiyesi üzerine kolları sıvayarak bir Vista
 Gadget hazırlamaya karar verdim. Tabi söz konusu tavsiye "*Bir Gadget
 hazırlayın hocam!*" şeklinde değildi :) Öğrencimin tavsiyesi bloguma
@@ -38,3 +39,5 @@ atmanızdır ;)
 KB)](media/Blog_Gadget_im_begenilerinize_sunulur/DaronBlog.gadget.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-2 tarihinde yayinlanmistir.*

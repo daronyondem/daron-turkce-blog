@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, Seminer, WPF, ASP.NET
 old.EntryID: 6395e5a1-d46e-46c4-bf21-a1c17935dfe0
 ---
+# CEBIT fuarında GEEK ZONE'a beklerim ;)
 Önümüzdeki hafta CEBIT fuarının haftası. CEBIT fuarı çerçevesinde
 TBDGENC'nin düzenlediği **GeekZone** aktivitesinde ben de iki oturumda
 konuşmacı olacağım. İşleyeceğimiz konulardan ilki "**FaceBook'da
@@ -23,3 +24,5 @@ Programı](media/CEBIT_fuarinda_GEEK_ZONE_a_beklerim/04102008_1.jpg)\
 *GeekZone Programı*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-5 tarihinde yayinlanmistir.*

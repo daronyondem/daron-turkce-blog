@@ -8,6 +8,7 @@ Section: fitness
 MinutesSpent: 0
 Tags: Koşu, Spor
 ---
+# Urbanathlon 2014
 Hafta sonu İstanbul'da bir diğer konsept koşu organizasyonu daha gerçekleşti. Bu sefer koşumuzun adı **Urbanathlon**. Koşunun konsepti
 koşu olmanın ötesinde şehrin içinde şehre dair engellerin de parkurun
 bir parçası olmasından yola çıkılarak tasarlanmış. Geçen sene
@@ -125,3 +126,5 @@ adresinizi](https://www.facebook.com/daronyoendem/app_100265896690345?ref=page_i
 bırakabilirsiniz :) Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-10-13 tarihinde yayinlanmistir.*

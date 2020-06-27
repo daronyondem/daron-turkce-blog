@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 37
 Tags: .NET Core, MSDN Flash, Nano Server, Node.JS, SQL Server 2016, Visual Studio 2015, Visual Studio Code, Windows Azure
 ---
+# MSDN Flash Temmuz 2016 İçeriği
 MSDN Flash's üyeyseniz iki ayda bir fotoğrafımı görüyorsunuz :) Temmuz sayısını da biraz önce Microsoft'ta gönderdim. Beni takip edenlere kıyak geçmek adına da buradan paylaşıyorum :)
 
 Görüşürüz.
@@ -59,3 +60,5 @@ Maliyetleri kontrol altında tutarken bir yandan da hızlı bir şekilde test or
 ### SQL Server Linux üzerinde.
 Bu haberi duyduğunuzdan eminim. Duymadıysanız şaşkınlığınızı atmadan hemen Channel9’daki [bu videoya göz atın derim.](https://channel9.msdn.com/Shows/Data-Exposed/SQL-Server-on-Linux-Sneak-Peak) Videoda Linux üzerinde SQL Server ilk defa demolarla sahne alıyor. 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-6-8 tarihinde yayinlanmistir.*

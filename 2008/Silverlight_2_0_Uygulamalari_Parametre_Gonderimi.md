@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 4834596e-b5ec-450f-8e3c-cfba929d958e
 ---
+# Silverlight 2.0 Uygulamaları Parametre Gönderimi
 Silverlight 2.0 uygulamalarını web sayfalarımıza **OBJECT** tagları ile
 koyacağımızı biliyoruz. Artık Silverlight 1.0'daki gibi JavaScript ile
 uğraşmak durumunda kalmayacağız. Durum böyle olunca tabi ki bu
@@ -467,3 +468,5 @@ sınıfında da söz konusu tüm parametrelere ulaşılabilecek.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-29 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 9
 Tags: 
 ---
+# Düzce Üniversitesi Ziyaretim
 Dün Düzce Üniversitesi’ndeydim :) BTFest etkinliğinde “Boş Durma Boşa Çalış” adındaki :) artık herkesın yavaş yavaş merak etmeye başladığını farkında olduğum oturumumu sundum.
 
 ![](media/Duzce_Universitesi_Ziyaretim/duzce)
@@ -16,3 +17,5 @@ Etkinlikteki oturumum sonrası epey güldüren sorulardan sonra :) organizasyon 
 
 Eğlenceli bir gündü :) İlk fırsatta teknik bir oturumla da Düzce Üniversitesi’nde görüşmek üzere.
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-5-6 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: 7834f341-0daa-4f1b-9662-ff61232ea4fc
 ---
+# Windows 7'de sensörlerle çalışmak.
 Windows 7 ile beraber gelen ilginç özelliklerden biri de **"Sensor and
 Location API"**. Bu özellik ile beraber yazılım geliştiriciler
 donanımdan bağımsız olarak kod yazabiliyor ve kodları ile sisteme bağlı
@@ -31,3 +32,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-25 tarihinde yayinlanmistir.*

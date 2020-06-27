@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: e60b4ef7-4c20-4f2b-af6a-cd73c18019ea
 ---
+# INETA Summer Hit Bülten 3
 Ve karşınızda aktivite öncesi son bültenimiz... Cuma günü gönderimi
 yapılacak ;)
 
@@ -97,3 +98,5 @@ Hit](media/INETA_Summer_Hit_Bulten_3/inetasummerhit2008_46860.jpg)\
 \
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-30 tarihinde yayinlanmistir.*

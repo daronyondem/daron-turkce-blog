@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 3aaaa0dd-3631-467b-9a16-f98ca891801b
 ---
+# Silverlight 4 Beta ile Commanding Yapısı - Görsel Ders
 Bu görsel dersimizde Silverligh 4 Beta ile beraber gelen Commanding
 yapısına bakıyoruz. Farklı bir uygulamna geliştirme tarzına da göz
 attığımız bu görsel dersi kaçırmayın..
@@ -27,3 +28,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-6 tarihinde yayinlanmistir.*

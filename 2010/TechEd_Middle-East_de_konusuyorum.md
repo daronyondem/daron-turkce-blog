@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: C#, IE 8.0, MultiTouch, Visual Basic 2010, Visual Basic .NET, Internet Explorer
 old.EntryID: 6110df43-11cd-4c54-8227-4bdfe98e5dc3
 ---
+# TechEd Middle-East'de konuşuyorum!
 Hatırlarsanız sizlerle daha önce bu sene Berlin'de yapılan TechEd
 Europe'dan izlenimlerini aktarmıştım. (Gün
 [1](http://daron.yondem.com/tr/post/a80de69a-3d18-4a9e-a1f2-1c1a26ef6d78),
@@ -48,3 +49,5 @@ ile bir üçüncü oturumum daha var TechEd ME'de! "**Create Multitouch
 Applications on Windows, on Surface and on the Web**" ;) Kaçırmayın!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-2-10 tarihinde yayinlanmistir.*

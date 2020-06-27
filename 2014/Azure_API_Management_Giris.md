@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: API Management, Windows Azure
 ---
+# Azure API Management'a Giriş
 Azure API Management olarak bundan bir süre önce hizmete açılan ürün
 aslında Microsoft'un sonradan satın aldığı Apiphany firmasına ait.
 Ürünün amacı elinde veri olan firmaların kolayca bu veriyi JSON REST
@@ -157,3 +158,5 @@ sorunların çözümü olabilir.
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-10-27 tarihinde yayinlanmistir.*

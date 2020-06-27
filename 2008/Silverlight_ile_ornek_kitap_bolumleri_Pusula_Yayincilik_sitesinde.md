@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: f2b5e6e2-469a-4179-be4e-15c4e0b15338
 ---
+# Silverlight ile örnek kitap bölümleri Pusula Yayıncılık sitesinde.
 Uzun süredir seminerlerimde, eğitimlerimde sürekli **Silverlight'ın**
 hem istemci hem de sunucu tarafında platform bağımsız olduğunu söyleyip
 duruyorum :) İşte size kanıtı.
@@ -43,3 +44,5 @@ ortamına Silverlight ile aktarılacak.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-18 tarihinde yayinlanmistir.*

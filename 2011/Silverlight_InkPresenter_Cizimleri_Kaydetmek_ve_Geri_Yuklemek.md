@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 9ecd02b9-ebc9-49d6-a0bf-377b553f0a98
 ---
+# Silverlight InkPresenter Çizimleri Kaydetmek ve Geri Yüklemek
 Dün[InkPresenter kontrolü bir
 giriş](http://daron.yondem.com/tr/post/e9816163-dc3a-4765-a1a4-fd62d627bf61)
 yapmıştık. Kontrol içerisinde nasıl çizim yapılabileceğini ve farklı
@@ -235,3 +236,5 @@ KB)](media/Silverlight_InkPresenter_Cizimleri_Kaydetmek_ve_Geri_Yuklemek/0302201
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-2-4 tarihinde yayinlanmistir.*

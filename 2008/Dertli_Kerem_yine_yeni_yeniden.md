@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: f703b412-dd36-47e7-a8a7-6b4f57168bc7
 ---
+# Dertli Kerem yine, yeni, yeniden...
 Yazılım sektöründe beraber çalıştığım, içerisinde çalıştığım,
 dışarısında, yanında, arkasında çalıştığım kurumlardan gördüğüm
 eksiklere dair yorumlarımı yazıya dökmek istiyorum. Belki bir işe yarar,
@@ -98,3 +99,5 @@ girerseniz kendinizi tüketmeyin. Çok da içiniz kararmasın bu yazıdan
 sonra :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-10 tarihinde yayinlanmistir.*

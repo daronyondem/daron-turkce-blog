@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Web
 old.EntryID: 11907d24-0da8-4f9c-8f86-6c0dce6b24e8
 ---
+# Expression Web 2 ve PHP desteğine dair ayarlar.
 Expression Web 2 ile beraber gelen belki de en ilginç ve güzel
 yeniliklerden biri de PHP desteğinin gelmesi. Microsoft'un Windows
 Server 2008 ile beraber gelen "*PHP Windows sunucularda artık Apache'den
@@ -46,3 +47,5 @@ yapabileceğimize bir göz atalım.
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-17 tarihinde yayinlanmistir.*

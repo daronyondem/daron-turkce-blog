@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 9ee71b5f-f9b5-49d5-801e-28827d0b677a
 ---
+# LOLCODE.NET
 Anında mesajlaşma programları sayesinde neredeyse her dilin yeni bir
 sürümü :) çıktı. "*Selam*" demek yerine "*slm*" yazmak bunlardan sadece
 biri. Aynı durum tabi ki İngilizce için de geçerli. Örneğin "*LOL*"
@@ -85,3 +86,5 @@ sevinirim.
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-12 tarihinde yayinlanmistir.*

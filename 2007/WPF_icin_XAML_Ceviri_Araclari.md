@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 2eec6209-a81b-41fb-b563-2d9436bede12
 ---
+# WPF için XAML Çeviri Araçları
 WPF programlama tekniklerinde görsel tasarım için XAML kodları
 oluşturmak zorundayız. **Expression Studio** içerisinde yer alan
 **Expression Design** ile yaptığımız tasarımları otomatik olarak XAML
@@ -34,3 +35,5 @@ XAML çeviri araçlarının bir listesini oluşturdum.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-25 tarihinde yayinlanmistir.*

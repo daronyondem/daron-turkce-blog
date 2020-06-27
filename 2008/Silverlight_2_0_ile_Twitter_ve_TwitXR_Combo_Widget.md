@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 07723ca6-b23a-4c81-889e-8ce58025caf5
 ---
+# Silverlight 2.0 ile Twitter ve TwitXR Combo Widget
 Bugün sizlerle yeni bir açık kaynak kodlu **Silverlight 2.0** uygulamamı
 paylaşacağım. Hatırlarsanız bundan aylar önce [Silverlight 1.0 ile bir
 Twitter
@@ -631,3 +632,5 @@ KB)](media/Silverlight_2_0_ile_Twitter_ve_TwitXR_Combo_Widget/15102008_1.rar)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-16 tarihinde yayinlanmistir.*

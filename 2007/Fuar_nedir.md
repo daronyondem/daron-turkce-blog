@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: c178321b-c90f-4a62-9166-4fca8282654b
 ---
+# Fuar nedir?
 "*Nerede o eski fuarlar?*" diyemeyecek kadar genç olduğumu düşünürken
 aslında zamanın tahmin ettiğimden çok daha hızlı geçtiği gerçeğini
 atladığımın farkına vardım. Meseleyi yaşlanma sendromuna çevirmeden esas
@@ -51,3 +52,5 @@ sanırım pazarlama sevdamızla birlikte sattık gitti.
 Hepimize geçmişler olsun...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-19 tarihinde yayinlanmistir.*

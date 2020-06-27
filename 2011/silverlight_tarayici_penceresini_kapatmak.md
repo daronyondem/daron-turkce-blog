@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, Silverlight 3.0, Silverlight 4, Silverlight 5
 ---
+# Silverlight'tan tarayıcı penceresini kapatmak
 Geçenlerde mail ile gelen sorulardan birinde Silverlight ile tarayıcıyı
 kapatmanın mümkün olup olmadığı vardı. Cevaben soruyu soran arkadaşa
 "[Silverlight ve JavaScript
@@ -30,3 +31,5 @@ style="color:#a31515;">"close"</span>);\
 Budur :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-8-31 tarihinde yayinlanmistir.*

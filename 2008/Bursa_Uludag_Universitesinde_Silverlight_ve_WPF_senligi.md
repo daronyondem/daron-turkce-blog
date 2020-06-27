@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
 old.EntryID: 8c50a39d-2b68-47ba-a88f-4a0d06b6d4d2
 ---
+# Bursa, Uludağ Üniversitesi'nde Silverlight ve WPF şenliği...
 Bugün **Bursa, Uludağ Üniversitesi**'ndeydim. **Silverlight 2.0** ve
 **WPF** konularını inceledik. Gelen sorular gerçekten muhteşemdi,
 özellikle Bursa'daki kurumsal katılıma teşekkür etmem gerek. Yeniliklere
@@ -27,3 +28,5 @@ Muhammed'e yardım ettiğini de bildiğim birçok öğrenci dostuma buradan
 sevgiler ve teşekkürler :) Hepiniz muhteşemdiniz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-14 tarihinde yayinlanmistir.*

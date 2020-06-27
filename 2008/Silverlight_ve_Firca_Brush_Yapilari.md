@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 83152c85-1cd2-4192-b216-92aaaf6303cd
 ---
+# Silverlight ve Fırça (Brush) Yapıları
 İster Silverlight uygulamaları olsun ister WPF uygulamaları, her şekilde
 XAML kodları içerisindeki Brush (fırça) tanımlamaları görsel anlamda çok
 önemlidir. Herhangi bir nesnenin içerisini boyamaktan tutan resim ile
@@ -687,3 +688,5 @@ Silverlight 1.0 içerisindeki Brush'larımız hepsi bu kadar. Hepinize
 kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-6 tarihinde yayinlanmistir.*

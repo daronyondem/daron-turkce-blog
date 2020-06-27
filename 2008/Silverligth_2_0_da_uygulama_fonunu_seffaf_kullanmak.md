@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: b334e195-feb7-4411-a77d-b6f07d482068
 ---
+# Silverligth 2.0'da uygulama fonunu şeffaf kullanmak
 Özellikle dikdörtgen köşelere sahip olmayan Silverlight uygulamalarında
 sayfanın fonunun Silverlight'ın fonunda da gözükmesini isteyebilirsiniz.
 Aslında basit bir şekilde **Silverlight 2.0 Beta 2** uygulamasının
@@ -131,3 +132,5 @@ görselinizin fonunun da şeffaf bırakıldığını kontrol etmekte fayda var.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-26 tarihinde yayinlanmistir.*

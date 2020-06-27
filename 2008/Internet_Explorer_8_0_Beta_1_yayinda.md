@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: cd4bb9a8-f890-4ba4-a62e-73d9b49e8b6d
 ---
+# Internet Explorer 8.0 Beta 1 yayında.
 **Internet Explorer** için benim tanımım "*belki de Microsoft'un en
 başarısız ürünü*" şeklindeydi. IE 7.0 ile bu durum biraz toparlandı ve
 yolda **IE 8.0** var. Özellikle tam CSS 2.1 desteği ve tüm standartlarla
@@ -23,3 +24,5 @@ aşağıdaki linki paylaşıyorum.
 amaçlı olarak sanal makine kullanınız.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-8 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET, C#, Visual Basic .NET
 ---
+# .NET'ten Twitter'a mesaj atmak
 Son günlerde minik birkaç araştırma ile bloguma Facebook ve Twitter
 entegrasyonu ekledim. Entegrasyondan kastım nedir ilk önce onu açıkliyim
 çünkü ortada atla deve bir durum yok :) Bugün kadar RSS'lerim FeedBurner
@@ -155,3 +156,5 @@ için ulaşacağımız hesabın erişim hakları olan**AccessToken** ve
 Hepinize geçmiş olsun ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-1 tarihinde yayinlanmistir.*

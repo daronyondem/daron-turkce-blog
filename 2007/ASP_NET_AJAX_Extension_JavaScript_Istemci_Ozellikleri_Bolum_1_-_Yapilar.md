@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 2ea33001-2e0d-413e-9843-68ed11767d43
 ---
+# ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 1 - Yapılar)
 ASP.NET AJAX Extension dediğimizde çoğunlukla aklımıza UpdatePanel,
 Timer gibi sunucu kontrolleri gelir. Oysa ASP.NET AJAX Extension ile
 beraber zengin bir JavaScript istemci kütüphanesi de geliyor. Bu makale
@@ -350,3 +351,5 @@ olacağız.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-8 tarihinde yayinlanmistir.*

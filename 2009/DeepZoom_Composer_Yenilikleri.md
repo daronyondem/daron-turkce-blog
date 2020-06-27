@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 3ed50072-e910-4448-a8dd-270c681b6de5
 ---
+# DeepZoom Composer Yenilikleri!
 DeepZoom uygulamalar Silverlight 2.0 yayınlandığından bu yana en ilgi
 çeken popülar uygulamalardan biri. DeepZoom ile beraber çok büyük
 fotoğraf arşivlerini rahatlıkla tarayıcı içerisinde gösterebilmekle
@@ -166,3 +167,5 @@ kolaylaştıracağı kesin.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-8-17 tarihinde yayinlanmistir.*

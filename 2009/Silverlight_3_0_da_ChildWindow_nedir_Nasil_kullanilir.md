@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 03d90758-dffd-4c98-a2d9-e5d232fe8abb
 ---
+# Silverlight 3.0'da ChildWindow nedir? Nasıl kullanılır?
 Web uygulamalarında olsun Windows uygulamalarında olsun belki de en sık
 başvurduğumzu şey MessageBox'tır :) Sürekli bir yerlerde uyarılar
 gösterir ve en basit şekilde kullanıcıya bir mesaj iletmek için
@@ -477,3 +478,5 @@ Indeterminate state'te ProgressBar varsa zaten yeme de yanında yat :)
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-4 tarihinde yayinlanmistir.*

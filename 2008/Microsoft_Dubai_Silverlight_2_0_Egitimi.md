@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Silverlight 2.0
 old.EntryID: 8c0720eb-1398-43a7-bb22-17bc31126339
 ---
+# Microsoft Dubai Silverlight 2.0 Eğitimi
 Son iki gündür Dubai'deydim. **Microsoft Dubai** tarafından iş ortakları
 için düzenlenen **Silverlight 2.0** eğitimini sundum. Gerçekten muhteşem
 bir yazılımcı kitlesi ile karşılaştım. Silverlight konusunda ilgileri ve
@@ -48,3 +49,5 @@ Sonu](media/Microsoft_Dubai_Silverlight_2_0_Egitimi/27062008_2.jpg)\
 *Microsoft Dubai Silverlight 2.0 Eğitimi Sonu*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-27 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.0, AJAX, ASP.NET, CSS, HTML, JavaScript, Silverlight, Visual Basic 2005, Visual Studio 2005, Visual Basic .NET
 old.EntryID: 40fe1d7b-1de7-4019-a833-a253fb501af9
 ---
+# Kodları Visual Studio Renkleri ile HTML'e Çevirmek
 İster internet üzerinden yayınlanan makalelerde olsun ister blog
 sitenize yollayacağınız bir ipucunda, maalesef sayfanıza HTML kodu veya
 herhangi bir kod yerleştirmek istediğinizde Visual Studio içerisinden
@@ -26,3 +27,5 @@ indirebilirsiniz.
 <http://www.jtleigh.com/people/colin/software/CopySourceAsHtml/>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-3 tarihinde yayinlanmistir.*

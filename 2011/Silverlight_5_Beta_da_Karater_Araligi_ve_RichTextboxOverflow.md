@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 5
 old.EntryID: 2dd0c513-99ca-439d-b1aa-344f6b41246b
 ---
+# Silverlight 5 Beta'da Karater Aralığı ve RichTextboxOverflow
 İtiraf etmem gerek ki Silverlight'ın metin gösterme konusunda
 özellikleri gerçekten çok yavaş gelişti. Richtextbox'ın çok uzun bir
 süreden sonra geldiğini düşünürsek şimdi bahsedeceğimiz özelliğin de
@@ -182,3 +183,5 @@ metin kısmı diğer kontrollerin alanına denk geliyorsa)
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-23 tarihinde yayinlanmistir.*

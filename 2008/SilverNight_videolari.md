@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 769c7981-94fe-446a-96c5-088db8ad7fa6
 ---
+# SilverNight videoları!
 Sonunda hazırlayabildim :) SilverNight'ta çektiğimiz videoların maalesef
 eğitim kısmını yayınlayamıyorum. Videolarda sunumdaki kodların hiçbiri
 sağlıklı bir şekilde gözükmüyor. En kısa zamanda başka bir seminerde bu
@@ -34,3 +35,5 @@ bilgisayarına indirmek isteyenler olursa
 alabilirler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-27 tarihinde yayinlanmistir.*

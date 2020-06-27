@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: b8ab2503-c4cf-4370-a850-be6f677ec323
 ---
+# yazgelistir.com Silverlight Bölümü ve Editörlüğü
 Sizlerle blogumdan paylaştığım makalelerin çoğunu
 [yazgelistir.com](http://www.yazgelistir.com) üzerinden de okuyucularla
 paylaşıyorum. Bunun nedeni daha önce birkaç kez yazmıştım; malum herkes
@@ -27,3 +28,5 @@ YazGelistir editörü olarak da kendi makalelerimi onaylayabileceğim :)
 Hoş bir duygu. ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-12 tarihinde yayinlanmistir.*

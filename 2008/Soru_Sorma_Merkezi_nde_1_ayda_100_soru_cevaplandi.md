@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: c0aace0f-da50-435a-85e2-7142b0ab4e32
 ---
+# Soru Sorma Merkezi'nde 1 ayda 100 soru cevaplandı!
 Tam bir ay olmuş! Geçen ayın 14'ünde açılışını yaptığımız [Soru Sorma
 Merkezi](http://daron.yondem.com/tr/sorusor/)'nin üzerinden bir ay geçti
 ve **100 soru** rekorunu kırdık. İster buna "*Cevaplanmış 100 Soru*"
@@ -28,3 +29,5 @@ Tabi en önemlisi, sorularını tüm samimiyetleri ile benimle paylaşan siz
 sevgili dostlara da çok teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-15 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 5
 old.EntryID: 5e88aad3-9476-4c35-97c4-41e305e82518
 ---
+# Silverlight 5 Beta'da Implicit Data Templates
 Silverlight 5 Beta ile beraber gelen yeni özelliklerden biri de Implicit
 Data Templates. Özelliğin güzelliğine gelmeden önce :) biraz elimizde
 neler var ona bakalım.
@@ -703,3 +704,5 @@ hiçbir kontrol bu DataTemplate'lere ulaşamayacaktır.
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-26 tarihinde yayinlanmistir.*

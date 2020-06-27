@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Encoder, Expression Studio, Silverlight, Webiner
 old.EntryID: a477b533-3882-4f1a-a5e7-c55907276d54
 ---
+# Webinerlerin kayıtları nedirtv?com üzerinde.
 Sevgili dostum [Mehmet Nuri Çankaya](http://www.nuricankaya.com/) ile
 beraber sunduğumuz Expression Blend, Expression Media ve Encoder
 webinerlerinin kayıtlarını [nedirtv?com](http://www.nedirtv.com/)
@@ -21,3 +22,5 @@ Webineri](http://www.nedirtv.com/VideoDetay.aspx?VideoID=72)\
 Webineri](http://www.nedirtv.com/VideoDetay.aspx?VideoID=73)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-16 tarihinde yayinlanmistir.*

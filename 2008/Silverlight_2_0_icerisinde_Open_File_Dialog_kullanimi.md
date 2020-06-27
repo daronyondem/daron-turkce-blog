@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 127a5e83-590f-44e1-8cdb-b69603944fc1
 ---
+# Silverlight 2.0 içerisinde Open File Dialog kullanımı
 **Silverlight 2.0 Beta 2** içerisinden normal şartlarda uygulamanın
 çalıştığı bilgisayardaki dosyalara ulaşma şansınız olmaz. Bu durum
 aslında çok normal bir durum çünkü Silverlight tamamen internet
@@ -230,3 +231,5 @@ alarak **OpenText** metoduyla dosya içerisindeki yazıyı okuyarak
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-10 tarihinde yayinlanmistir.*

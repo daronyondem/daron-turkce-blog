@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 3c788ab3-8528-4de0-8026-62c106768ea9
 ---
+# Silverlight 1.1 - Animasyon ve Mouse İşlemlerine Giriş
 Nerden çıktı Silverlight 1.1? Aslına bakarsanız Silverlight 1.1 üzerine
 uzun bir süre makale yazmayı düşünmüyordum. Bunun nedeni daha
 Silverlight 1.1'in Alpha aşamasında olması. Yani şu anki yazılım,
@@ -842,3 +843,5 @@ Silverlight 1.1 ile ilgili gelen sorular şimdilik bu kadar.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-7 tarihinde yayinlanmistir.*

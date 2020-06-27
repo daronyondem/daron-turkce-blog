@@ -8,6 +8,7 @@ Section: fitness
 MinutesSpent: 0
 Tags: Koşu, Spor
 ---
+# GurmeRun 6.2K
 Geçen pazar günü İstanbul'da ilginç bir koşu vardı. Koşunun ilginç
 tarafı şehrin tam göbeğinde olması. Harbiye Cumhuriyet parkında başlayan
 koşu Nışantaşı üzerinden Taşkışla tarafına doğru 3.1 KM'lik bir
@@ -63,3 +64,5 @@ gerek. Koşarken bardaktan su içmek imkansız. Çok net..
 Bir sonraki yarışta görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-9-29 tarihinde yayinlanmistir.*

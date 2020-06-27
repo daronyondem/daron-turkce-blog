@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: HTML, JavaScript
 old.EntryID: b359c340-e08c-4466-a49b-4e304438824f
 ---
+# Internet Explorer ve Flash'lardaki Çerçeve (Aktivasyon) Sorunu
 Bu konuyu uzun süre önce, daha Türkçe blog sitemi açmadığım zamanlarda
 (17 Nisan 2006) İngilizce blog sitemde incelemiştim. İngilizce makaleye
 [buradan](http://daron.yondem.com/en/post/5e86a2ff-9d03-431f-8759-e643bad1bdcc)
@@ -421,3 +422,5 @@ Kolay gelsin.
 KB)](media/Internet_Explorer_ve_Flashlardaki_Cerceve_Aktivasyon_Sorunu/27042007_2.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-28 tarihinde yayinlanmistir.*

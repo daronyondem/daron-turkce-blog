@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Silverlight
 old.EntryID: 22ed2164-f1bf-4fd4-a25e-1cab7bb7059b
 ---
+# İlk Kurumsal Silverlight
 Silverlight ile çalışmalarım yoğun olarak devam ediyor. Bu kapsamda
 [DEVELOAD](http://www.deveload.com) bünyesinde de Silverlight konusuna
 eğiliyoruz. Son dört senedir aynı web sitesini kullanmanın derdi ve
@@ -27,3 +28,5 @@ bağlı.
 Siteyle ilgili yorumlarınızı heyecanla bekliyorum ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-1 tarihinde yayinlanmistir.*

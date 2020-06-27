@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0, WCF, WF, Windows 7, WPF, ASP.NET 4.0, ASP.NET
 old.EntryID: ef6e7202-e461-430f-85ad-a06d4242a98c
 ---
+# INETA NEXT HIT !
 Uzun bir aradan sonra tekrar güzel bir etkinlik ile karşınızdayız.
 Bundan yaklaşık [iki ay
 önce](http://daron.yondem.com/tr/post/f7e4c07b-9773-44e0-8e38-74d60e175a9d)
@@ -57,3 +58,5 @@ olabilirseniz herkesin rahatlıkla faydalanmasını sağlayabiliriz.
 Şimdiden hepinize çok teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-31 tarihinde yayinlanmistir.*

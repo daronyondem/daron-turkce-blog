@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 6
 Tags: Seminer, Windows Azure
 ---
+# Edirne'de Azure Anlattım
 Dün yine Edirne'deydim :) Bu sefer Azure anlattım, hatta geçen sefere kıyasla Pizza yerine ciğer yemeyi de başardım :) 
 
 ![](media/Edirne_de_Azure_Anlattim/edirne-azure.jpg)
@@ -17,3 +18,5 @@ Her ne kadar Azure anlattım desem de aslında, Azure, AWS ve Google, ortaya kar
 Görüşürüz.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Zmlx0T-l9o" frameborder="0" allowfullscreen></iframe>
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-4-23 tarihinde yayinlanmistir.*

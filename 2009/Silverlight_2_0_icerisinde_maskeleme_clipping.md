@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: ebe6be30-a49c-46a7-ae3a-404c605a37ca
 ---
+# Silverlight 2.0 içerisinde maskeleme (clipping)
 Bu yazımızda Silverlight 2.0 içerisinde maskeleme (clip) işlemlerine göz
 atacağız. İlk olarak basit bir maskeleme işleminin XAML içerisinde nasıl
 yapıldığına baktıktan sonra bu maskeleri nasıl anime edebileceğimize ve
@@ -843,3 +844,5 @@ yok.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-9 tarihinde yayinlanmistir.*

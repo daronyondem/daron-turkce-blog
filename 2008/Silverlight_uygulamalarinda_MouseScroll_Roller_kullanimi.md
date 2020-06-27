@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: db7b3ae4-b89b-443f-b58d-bc50a9116249
 ---
+# Silverlight uygulamalarında MouseScroll (Roller) kullanımı.
 Silverlight uygulamalarında kullanıcı ile Silverlight nesneleri arasında
 bir iletişim sağlayabilmek için fare tıklamalarını kullanmak gerçekten
 çok kolay. Bu deneyimi bir üst adıma yükselterek sitemizin
@@ -355,3 +356,5 @@ style="color: #a31515;">"**Boyutlandir**"</span>);
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-24 tarihinde yayinlanmistir.*

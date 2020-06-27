@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: e920cb29-b872-40e3-a0b9-2d17eb2d0fd1
 ---
+# Deep Zoom Composer yeni sürümü ve PhotoZoom Live Labs
 Silverlight 2.0 içerisinde [MultiScaleImage ve
 DeepZoom](http://daron.yondem.com/tr/post/84a4bed5-dcdf-48a6-8cc7-2b193eeda808)
 konusunda daha önce detaylı bir makaleyi sizlerle paylaşmıştım. Makalede
@@ -52,3 +53,5 @@ aşağıdaki adreste inceleyebilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-2 tarihinde yayinlanmistir.*

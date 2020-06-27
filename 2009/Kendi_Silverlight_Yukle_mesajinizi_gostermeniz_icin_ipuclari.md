@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 26e74ec8-47ac-427c-aa5c-e35ed0e8694e
 ---
+# Kendi Silverlight Yükle mesajınızı göstermeniz için ipuçları
 Silverlight kullanılan web sitelerin artış ile aslında kullanıcılara da
 Silverlight yükletme konusunda ısrar giderek artıyor :) Bu konunun bir
 ısrar olmaması ve kullanıcıların gönül rahatlığı ile Silverlight
@@ -118,3 +119,5 @@ Ekranı](media/Kendi_Silverlight_Yukle_mesajinizi_gostermeniz_icin_ipuclari/0501
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-6 tarihinde yayinlanmistir.*

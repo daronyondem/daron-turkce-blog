@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: d48edeb1-04f1-4f67-90f3-ec7bc50a9e5a
 ---
+# Vista Business, Daemon Tools ve DVD Sürücü Üçlemesi
 Mutluyum! Çünkü artık DVD sürücüm çalışıyor :) Nerden çıktı
 diyebilirsiniz, buyrun anlatiyim.
 
@@ -55,3 +56,5 @@ Hepinize kolay gelsin.
 işlemleri tekrar etmeniz gerekecektir.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-27 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 61
 Tags: Azure Storage Services, NOSQL, Windows Azure
 ---
+# Table Services (SDK2.5)
 Konuyla ilgili bir önceki yazı; [Azure Storage Table
 Services](http://daron.yondem.com/software/post/Azure_Storage_Table_Services_SDK2_5)
 
@@ -122,3 +123,5 @@ Sorguyu çalıştırdığımızda geriye içerisinde iki entity bulunan bir list
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-2-14 tarihinde yayinlanmistir.*

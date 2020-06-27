@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 3fd1a56b-251b-4398-b967-0e675643be9b
 ---
+# WPF Webineri yarın!
 **11 Mart,** Salı günü saat **15.15-16.00** arasında WPF webineri ile
 karşınızda olacağım. Windows uygulamalarında kullanıcı deneyimini üst
 seviyelere çıkarmanın WPF ile ne kadar kolay olduğuna değineceğimiz
@@ -26,3 +27,5 @@ Bu webiner Microsoft Kurumsal Webiner serisinden olduğu için yukarıdaki
 linkten giriş yaparak kayıt olmanız gerekiyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-11 tarihinde yayinlanmistir.*

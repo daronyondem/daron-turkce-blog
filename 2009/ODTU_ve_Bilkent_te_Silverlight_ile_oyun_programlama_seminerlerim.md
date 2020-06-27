@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 9ce16738-e307-4785-b6ef-ab8448109f52
 ---
+# ODTÜ ve Bilkent'te Silverlight ile oyun programlama seminerlerim.
 Bugün **Microsoft Oyun Turu**'nun son ayağında **Ankara Bilkent** ve
 **ODTÜ'deydik**. XNA ve Silverlight ile Oyun programlama konularını
 işlediğimiz seminerlerde sevgili XNA uzmanımız **Engin Yıldız** ile
@@ -26,3 +27,5 @@ Uzun](http://www.cemiluzun.com/)**,** [Murat
 Alıravcı](http://maliravci.blogspot.com/)'ya çok teşekkür ediyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-2 tarihinde yayinlanmistir.*

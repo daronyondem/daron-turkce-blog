@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'da Service Upgrade (SDK2.2)
 Azure ortamına bir servisi deploy ettikten sonra doğal olarak bir gün
 onu upgrade de etmemiz gerekecek :) İşte gibi bir senaryoda
 ilerleyebileceğim birkaç yol var. Bunlardan ilki normal upgrade
@@ -80,3 +81,5 @@ tamamlanacaktır ;)
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-2-24 tarihinde yayinlanmistir.*

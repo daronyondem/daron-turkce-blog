@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET
 old.EntryID: 1e6b22ff-cf0b-4927-a396-4eb5446daaa4
 ---
+# AJAX Web Sitelerinde Tarayıcıda Geri/İleri Düğmesi Sorunu
 İnternet tarayıcılarındaki **Geri** ve **İleri** düğmelerinin ne kadar
 çok kişi tarafından kullanıldığını ilk AJAX web projelerinin
 kullanıcılarına teslim edilmesi ile anladım. Neredeyse herkes bu
@@ -410,3 +411,5 @@ tarayıcıda denenmeleri durumda sayfa doğru konumda açılacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-25 tarihinde yayinlanmistir.*

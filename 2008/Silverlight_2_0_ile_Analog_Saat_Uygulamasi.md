@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: f229ac3b-1499-4982-b80e-fddef455c124
 ---
+# Silverlight 2.0 ile Analog Saat Uygulaması
 **Silverlight 2.0 Beta 2** kullanarak analog bir saat gösterimi
 yapacağımız bu yazı içerisinde StoryBoard kullanımını ve
 StoryBoard'ların belirli zamanlara özel olarak konumlandırılmasını
@@ -412,3 +413,5 @@ animasyonlarımız o konumdan gelerek oynamaya devam ediyor.
 Saat uygulamamızı tamamladık, hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-23 tarihinde yayinlanmistir.*

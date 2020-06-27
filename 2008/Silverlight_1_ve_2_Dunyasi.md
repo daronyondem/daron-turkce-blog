@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight, Silverlight 2.0, Visual Studio 2008
 old.EntryID: 00928c74-17ba-46a6-bac4-d4f10107c2ca
 ---
+# Silverlight 1.0 ve 2.0 Dünyası
 Silverlight 2.0 yazılarıma başladığım günlerde aklıma olmasına rağmen
 atladığım bir yazıyı bugün sizlerle paylaşıyorum. Seminer ve eğitimlerde
 karşılaştığım kadarıyla hem Silverlight'ın sürümleri arasında hem de
@@ -65,3 +66,5 @@ makine üzerinde devam ettirin.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-1 tarihinde yayinlanmistir.*

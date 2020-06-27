@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 10a48f93-2f5b-439f-ab64-c8402f6c1246
 ---
+# Panoramik fotoğraflar için ücretsiz araç
 Panoramic fotoğraf çekmek benim en sevdiğim hobilerimden biridir.
 Fotoğraf çekmeyi zaten severim, hatta çoğu turistik gezimin amacı
 fotoğraf çekmektir. Kulağa garip gelebilir fakat sadece fotoğrafını
@@ -44,3 +45,5 @@ adresi ziyaret etmeniz yeterli.
 <http://research.microsoft.com/ivm/ice.html>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-7 tarihinde yayinlanmistir.*

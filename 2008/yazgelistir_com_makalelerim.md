@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 055e918c-edef-40be-ae58-e20c801d5b11
 ---
+# yazgelistir.com makalelerim...
 Son iki günde yayınladığım makalelerim ışık hızı ile yazgelistir.com
 üzerinden de yayınlandı :) Hepinizin oylarını bekliyorum ;)
 
@@ -19,3 +20,5 @@ uygulaması](http://www.yazgelistir.com/Makaleler/1000001586.ygpx)\
 uygulamalar](http://www.yazgelistir.com/Makaleler/1000001585.ygpx)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-8 tarihinde yayinlanmistir.*

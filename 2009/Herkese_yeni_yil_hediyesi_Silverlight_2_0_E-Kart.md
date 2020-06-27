@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: dde31a40-26c9-4af0-874c-0112fae557d9
 ---
+# Herkese yeni yıl hediyesi
 Veeee yılbaşı geldi :) Yeni bir yıl yeni heyecanlar ve tabi eskitilen
 bir yıl ve yaşananlar. Neyse geyiği bırakıp konuya dönelim :) Malumunuz
 yeni yıl gelirken hemen bir E-Kart savaşı başlar :) Herkes birbirine
@@ -31,3 +32,5 @@ kutluyorum.
 MB)](media/Herkese_yeni_yil_hediyesi_Silverlight_2_0_E-Kart/31122008_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-1 tarihinde yayinlanmistir.*

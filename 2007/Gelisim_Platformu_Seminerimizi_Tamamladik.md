@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Eğitimler
 old.EntryID: d43226c0-79d1-464d-80e5-2c8ecc39006e
 ---
+# Gelişim Platformu Seminerimizi Tamamladık
 Dün akşam bazıları evlerinde televizyon izleyip belki de uyuklarken biz
 [Gelişim Platformu](http://www.gelisimplaformu.org) çatısında **ASP.NET
 AJAX** konulu seminerimizi yoğun bir katılım ile tamamladık. Özellikle
@@ -48,3 +49,5 @@ Bir sonraki aktivitede görüşmek üzere.
 KB)](media/Gelisim_Platformu_Seminerimizi_Tamamladik/31072007_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-7-31 tarihinde yayinlanmistir.*

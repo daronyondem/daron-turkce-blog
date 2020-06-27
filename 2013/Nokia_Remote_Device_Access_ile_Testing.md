@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Nokia, Windows 8, Windows 8.1, Windows Phone 8
 ---
+# Nokia Remote Device Access ile Testing
 Nokia tarafında yeni cihazlar çıktıkça cihaz çeşitliliği gün geçtikçe
 artıyor. Durum böyle olunca uygulamalarınızı da bu farklı cihazlarda
 test etmek ciddi sıkıntı olabilir. Tüm bu cihazlardan birer tane satın
@@ -80,3 +81,5 @@ düşünebilirsiniz. Böylece tüm cihazlara test amaçlı ulaşabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-24 tarihinde yayinlanmistir.*

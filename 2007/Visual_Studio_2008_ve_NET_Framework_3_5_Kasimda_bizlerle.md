@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Haberler, Visual Studio 2008
 old.EntryID: 52ddf62d-5c72-4a31-8e13-80b731cc3a0b
 ---
+# Visual Studio 2008 ve .NET Framework 3.5 Kasım'da bizlerle...
 Sevgili dostum [Uğur Umutluoğlu](http://umutluoglu.blogspot.com/)'nun
 blogunda gördüğüm habere nasıl sevindim anlatamam :) Visual Studio 2008
 ve .NET Framework 3.5 bu ay sonuna kadar elimize ulaşmış olacak. Konuyla
@@ -21,3 +22,5 @@ okuyabilirsiniz.
 Hadi hayırlısı :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-7 tarihinde yayinlanmistir.*

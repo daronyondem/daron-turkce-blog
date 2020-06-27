@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 4.0, Visual Studio 2010, ASP.NET
 old.EntryID: 5f957723-bc9e-437e-b7d2-7c829d66e0e8
 ---
+# VS2010 ile Web.Config Transformasyonu
 Visual Studio 2010 ile beraber gelecek olan Web.Config Transformasyonu
 projelerinizi Staging, Production gibi ortamlara daha rahat deploy
 etmenizi sağlayacaktır. Zekice bir özellik!
@@ -27,3 +28,5 @@ ziyaret edebilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-19 tarihinde yayinlanmistir.*

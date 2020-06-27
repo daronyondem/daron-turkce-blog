@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: c7205227-d787-4df7-9e0e-fff1a9be63b4
 ---
+# Silverlight 2.0 içerisinde Toolkit'ten Label kontrolünün kullanımı.
 Silverlight ilk çıktığı günlerde en çok şaşırdığımız noktalar biri
 "Label" adında bir kontrolün bulunmamasıydı. İşlevsellik olarak aynı
 çözümü sunan **TextBlock** kontrolünü çok kısa bir sürede keşfetmiş
@@ -514,3 +515,5 @@ değiştiren bir Label tasarlamış olduk.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-19 tarihinde yayinlanmistir.*

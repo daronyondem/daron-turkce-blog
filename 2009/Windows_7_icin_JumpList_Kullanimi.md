@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: eaf004b8-39b3-4a40-bd33-577362cbcb49
 ---
+# Windows 7 için JumpList Kullanımı
 Windows 7 ile beraber gelen taskbar özelliklerinden biri olan
 JumpList'ler günlük hayatta son kullanıcının işini ciddi şekilde
 kolaylaştırıyor. Bu görsel dersimizde kendi uygulamalarımıza JumpList
@@ -28,3 +29,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-31 tarihinde yayinlanmistir.*

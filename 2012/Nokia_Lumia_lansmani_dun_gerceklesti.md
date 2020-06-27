@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Nokia, Windows Phone 8
 ---
+# Nokia Lumia lansmanı dün gerçekleşti!
 Dün Nokia'nın Lumia Türkiye lansmanı vardı! Evet sonunda Nokia Windows
 Phone 8'ler Türkiye'de. Aslına bakarsanız birkaç haftadır satışlar
 online olarak zaten başlamıştı ve hatta ilk dağıtımların stokları bitmiş
@@ -53,3 +54,5 @@ sonrasında yorumlarını ayrı bir yazı olarak yazacağım.
 Kendinize çok iyi bakın! Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-11-22 tarihinde yayinlanmistir.*

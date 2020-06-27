@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Microsoft İş Ortakları'na özel Azure Günü
 Çoğunuzun bu blogpost'a kızacağını biliyorum ama emin olun yapabileceğim
 birşey yoktu :( Bu Cumartesi günü Microsoft'ta sadece yazılım
 geliştirici iş ortaklarına özel bir Azure günü yaptık. Aslında "yaptık"
@@ -37,3 +38,5 @@ MB)](media/Microsoft_Is_Ortaklari_icin_Azure_Gunu/azure_ornekler.rar)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-4-8 tarihinde yayinlanmistir.*

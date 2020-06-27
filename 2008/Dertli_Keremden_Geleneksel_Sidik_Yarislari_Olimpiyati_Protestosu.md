@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: c3ded2b5-62ff-4827-894b-de8f24140a26
 ---
+# Dertli Kerem'den Geleneksel Sidik Yarışları Olimpiyatı Protestosu!
 Web ortamında herhangi bir şeyin yayınını yapanlar arasında ilginç bir
 sidik yarışı var :) Yok efendim senin siten alexa.com'da kaçıncı sırada,
 yok Google PageRank'in bilmem kaç... Bu muhabbetlerin "*Benim babamın
@@ -97,3 +98,5 @@ oldum sonunda valla...
 Hepiniz kalın sağlıcakla...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-27 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.0, .NET Framework 3.5, ASP.NET 3.5, Silverlight 2.0, Visual Basic 2005, Visual Basic 2008, Visual Studio 2005, Visual Studio 2008, WCF, WPF, Visual Basic .NET, ASP.NET
 old.EntryID: 554d026a-ffe4-4b8c-a8d5-6e895da252e8
 ---
+# Dinamik Assembly Üretimi (Kodla Dinamik DLL Compile Etmek)
 Bir uygulama düşünün kendini programlayabilen. Konumuz “Star Trek” veya
 “Geleceğe Dönüş” değil. Emin olun gerçek dünyadan ve yapılabileceklerden
 bahsediyorum. Uygulamalarınızın dış sistemlerle ciddi bir bağlantı
@@ -285,3 +286,5 @@ Assembly kullanımını ve Reflection konusuna eğilmenizde fayda var.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-22 tarihinde yayinlanmistir.*

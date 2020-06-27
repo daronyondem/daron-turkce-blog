@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Basic 2010, Visual Basic .NET
 old.EntryID: e978466e-e72e-4f66-b539-15012e528248
 ---
+# İlk bakışta Visual Basic 10 Yenilikleri!
 **Visual Studio 2010** ve **.NET Framework 4.0 CTP**'lerinin
 yayınlandığı bugünlerde iki yol sonra karşımıza çıkacak yazılım
 teknolojilerine yön verme ve inceleme adına heyecanlı günler yaşadığımı
@@ -389,3 +390,5 @@ kadar karşımıza çıkacak diğer CTP'lerde neler olacak.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-31 tarihinde yayinlanmistir.*

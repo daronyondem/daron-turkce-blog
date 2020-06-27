@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Silverlight, Silverlight 2.0
 old.EntryID: 645bee48-b097-44b5-96ec-5b42784160fd
 ---
+# Silverlight Eğitimi 2. Gün Bitti
 Bugün **INETA** ve **BilgeAdam** işbirliğinde "**Silverlight**"
 eğitiminin ikinci gününü zevkli bir şekilde sonlandırdık. Eğitim
 yanlışlıkla ".NET altyapılı" diye duyurulunca tüm katılımcıların
@@ -36,3 +37,5 @@ MB)](media/Silverlight_Egitimi_2_Gun_Bitti/04052008_2.rar)
 Katılan herkese çok teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-5 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Silverlight
 old.EntryID: f17aa305-cb49-478e-ad05-8455e5410ad0
 ---
+# S2B Silverlight Eğitimi Videosu
 Bundan bir süre önce Microsoft'un **Students 2 Business** programı
 çerçevesinde [bir Silverlight
 eğitimi](http://daron.yondem.com/tr/post/451e3a2c-c312-4de6-ad88-59744afc4def)
@@ -24,3 +25,5 @@ Video sınıftaki sıcaklığı pek yansıtamamış ama olsun :) Normalde çok
 daha eğlenceli bir sınıftık.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-22 tarihinde yayinlanmistir.*

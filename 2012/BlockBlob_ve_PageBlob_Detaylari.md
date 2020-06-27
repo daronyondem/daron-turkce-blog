@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# BlockBlob ve PageBlob Detayları
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/BlockBlob_ve_PageBlob_Detaylari_SDK2_5)
@@ -297,3 +298,5 @@ hatırlamakta fayda var ;)
 Kendinize çok iyi bakın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-7-24 tarihinde yayinlanmistir.*

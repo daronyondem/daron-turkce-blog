@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 00a0e3c0-972c-4489-8c8b-6b728e3565d1
 ---
+# PathListBox ile birden çok Path kullanımı.
 PathListBox maceramıza bu makalemizde de devam edeceğiz. Hatırlarsanız
 dün
 [PathListBox](http://daron.yondem.com/tr/post/6da235ad-bdcd-46dc-a328-0428eb447d65)
@@ -123,3 +124,5 @@ Hepinize kolay gelsin.
 KB)](media/PathListBox_ile_birden_cok_Path_kullanimi/06092010_6.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-9-7 tarihinde yayinlanmistir.*

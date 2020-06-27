@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: 2af4638b-6522-4b10-a881-c1e47f8242b6
 ---
+# Dertli Kerem yıl sonu titremeleri.... Gönüllü pazarlamacı olur mu?
 Yaptığınız işi neden yaptığınızla ilgili duygu ve düşünceleriniz
 sapıtırsa ortaya SAPIK bir insan olarak çıkarsınız. Sapık kelimesi
 genelde bize cinsel anlam enjekte etse de aslında sözlük anlamı ile
@@ -169,3 +170,5 @@ bir sorun da yok. İskenderimi yiyebildiğim sürece hayat güzel ;)
 Hepiniz kalın sağlıcakla...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-23 tarihinde yayinlanmistir.*

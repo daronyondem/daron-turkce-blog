@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 9392035b-c1c2-4149-b4f7-066fce25dd6b
 ---
+# Silverlight 3.0 içerisinde 3D Projection.
 Silverlight 3.0 ile beraber gelen en ilgi çekici özelliklerden biri 3D
 desteği. Bu makalemizde Silverlight ile beraber gelen 3D özelliklerine
 bakmadan önce aslında nasıl bir 3D mantığı ile karşı karşıya olduğumuzu
@@ -290,3 +291,5 @@ animasyona alarak daha ilginç manzaralar da yaratabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-14 tarihinde yayinlanmistir.*

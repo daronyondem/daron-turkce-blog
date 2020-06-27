@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: fc4efdfa-8cfe-49f7-b75d-a1f4aa197493
 ---
+# MSDN Labs'dan geleceğin programcılarına Small Basic
 Microsoft'un **Photosynth** gibi birçok yeni projesinin aslında ayrı
 araştırma ekiplerinin projeleri olduğunu ve sonradan
 ürünleştirildiğinden sanırım daha önce sizlere yazılarımda bahsetmiştim.
@@ -77,3 +78,5 @@ Ah ah :) zamanında QBasic ile DOS'ta çırpınırdık şimdiki çocuklar çok
 şanslı! :) Yaşlandık mı nedir...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-24 tarihinde yayinlanmistir.*

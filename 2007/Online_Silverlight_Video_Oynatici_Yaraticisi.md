@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 5173ac96-aaca-4160-955f-23d1455e0ec1
 ---
+# Online Silverlight Video Oynatıcı Yaratıcısı...
 Silverlight teknolojisinden en hızlı ve kolay şekilde
 faydalanabileceğimiz noktalardan biri online video yayını. Özellikle WMV
 formatlı video dosyalarımızı direk internet üzerinden yayınlayabilmemize
@@ -53,3 +54,5 @@ bir Silverlight Video Oynatıcısı'nı web sitenize eklemiş oldunuz.
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-11 tarihinde yayinlanmistir.*

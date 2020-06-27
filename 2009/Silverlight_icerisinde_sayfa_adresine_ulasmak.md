@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 61a4778c-3db2-4d0c-a746-638879c29c15
 ---
+# Silverlight içerisinde sayfa adresine ulaşmak
 Bugünlerde bana sıkça gelen sorulardan biri Silverlight tarafından
 uygulamanın çalıştığı adresin nasıl alınacağı ile ilgili oluyor. Aslında
 basit bir şekilde Silvetlight'tan DOM'a çıkmanız bunun için yeterli
@@ -32,3 +33,5 @@ farklı bilgileri de alabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-14 tarihinde yayinlanmistir.*

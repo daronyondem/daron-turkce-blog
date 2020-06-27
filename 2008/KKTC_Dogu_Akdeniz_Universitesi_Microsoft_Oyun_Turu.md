@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: bee08421-d50f-4b74-b4ca-ef5bb9aae1d1
 ---
+# KKTC Doğu Akdeniz Üniversitesi Microsoft Oyun Turu
 Bugün **KKTC Doğu Akdeniz Üniversitesi**'nde Microsoft Oyun Turu'nun bir
 ayağını daha gerçekleştirdik. Sevgili XNA uzmanımız **Engin Yıldız** ile
 beraber günü birlik gittiğimiz için maalesef zamanımız biraz kısıtlı
@@ -27,3 +28,5 @@ Yazılım Kulübü Başkanı [Olcay Kük](http://www.olcaykuk.com/)'e buradan
 yine.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-24 tarihinde yayinlanmistir.*

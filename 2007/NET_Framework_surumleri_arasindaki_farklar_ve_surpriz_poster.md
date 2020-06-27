@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, LINQ, Visual Studio 2008, .NET Framework 3.5
 old.EntryID: 9122c51a-5022-4476-aa4c-0ee269d85e56
 ---
+# .NET Framework sürümleri arasındaki farklar ve sürpriz poster
 .NET Framework sürümleri arasında farklar zaten hali hazırda
 karıştırılırken bir de üzerinde .NET Framework 3.5 gelecekken aşağıdaki
 görseli birazdan bahsedeceğim bir Microsoft posterinde yakaladım. Bence
@@ -33,3 +34,5 @@ bilgiler bulunuyor. Eğer olanağınız varsa bir dijital baskı merkezinden
 <http://download.microsoft.com/download/4/a/3/4a3c7c55-84ab-4588-84a4-f96424a7d82d/NET35_Namespaces_Poster_LORES.pdf>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-6 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, LINQ, ASP.NET
 old.EntryID: f1ff4a9a-ef43-4ebb-9f2e-1f599df4c8b1
 ---
+# Dynamic Data Web Site'larda MetaData ile sütun özelliklerini ayarlamak.
 .NET 3.5 SP1 ile beraber gelen **Dynamic Data Web Site** yapısı ile
 beraber doğrudan sadece veri üzerinde çalışan web uygulamaları yazmanın
 gerçekten kolaylaştığını itiraf edebiliriz. Fakat her yeni araç gibi
@@ -264,3 +265,5 @@ gerektiği için şimdilik yüzeysel olarak geçmek istemedim.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-22 tarihinde yayinlanmistir.*

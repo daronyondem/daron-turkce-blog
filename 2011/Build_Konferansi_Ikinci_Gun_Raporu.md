@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.5, ASP.NET, ASP.NET 4.5, ASP.NET MVC 4, MVC, TFS, Visual Studio 11, WebSockets, Windows Server 8
 ---
+# Build Konferansı İkinci Gün Raporu
 İtiraf etmek gerekirse her konferansta olduğu gibi :) Build'in de ikinci
 günü ilk güne kıyasla sönük geçti. Sabah başlayan Keynote Windows Server
 8, Azure, ASP.NET 4.5 etrafında şekillendi. Server 8 tarafında ben biraz
@@ -93,3 +94,5 @@ bakacağız. Yeterince malzeme var gibi inceleyecek.
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-15 tarihinde yayinlanmistir.*

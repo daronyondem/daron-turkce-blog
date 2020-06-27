@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, WPF
 old.EntryID: cef2f235-f075-4927-9df3-beff8e369044
 ---
+# İstanbul Aydın Üniversitesi, Silverlight ve WPF Semineri
 Dün **İstanbul Aydın Üniversitesi**'nde "*Yazılım Dünyasına Yeni
 Teknoljiler:WPF ve Silverlight*" konulu mini bir seminer verdim. Bu tarz
 mini seminerler maalesef ayrıldığımız içimde bir burukluk bırakıyor.
@@ -24,3 +25,5 @@ Katılan arkadaşlara ve özellikle organizasyondaki emeği için sevgili
 bir aktivite ile tekrar görüşürüz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-27 tarihinde yayinlanmistir.*

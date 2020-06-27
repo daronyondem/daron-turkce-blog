@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: e27332ab-82c3-4084-a220-181fb7f0b885
 ---
+# Silverlight Streaming Servisleri
 Daha önceki yazılarımda **Silverlight Streaming Servisleri**'nden
 bahsetmiştim. <http://silverlight.live.com/> adresinden ulaşabileceğimiz
 bu ücretsiz servis ile **4GB**'lık bir web alanında Silverlight
@@ -373,3 +374,5 @@ ile hazırlayarak dünyaya açabilirsiniz.
 Kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-16 tarihinde yayinlanmistir.*

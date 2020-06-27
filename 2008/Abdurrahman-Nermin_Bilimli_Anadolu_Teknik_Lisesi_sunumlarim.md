@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ, Seminer, Silverlight 2.0, WPF
 old.EntryID: 278c6459-eb9e-4591-8794-6fe1d5a0afc3
 ---
+# Abdurrahman-Nermin Bilimli Anadolu Teknik Lisesi sunumlarım.
 Bugün **Abdurrahman – Nermin Bilimli Anadolu Teknik Lisesi**'ndeydim.
 Cevher gibi VB.NET bilen gençlerin arasında 5 saat geçirdim. Tüm bu
 sürede **Silverlight** ve **WPF** dünyasına göz attık, sona doğru da
@@ -31,3 +32,5 @@ ettikçe kendimi daha yaşlanmış hissetmem" :)
 Seminere katılan tüm kardeşlerimi buradan öpüyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-17 tarihinde yayinlanmistir.*

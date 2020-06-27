@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7, WPF
 old.EntryID: 18819b5a-cb41-4eae-ad4a-b2ccd14e1272
 ---
+# WPF ve MultiTouch Development Seminer kaydı Online!
 İşte bir seminer kaydı daha karşınızda :) Bu sefer "**WPF ve Windows 7
 ile Multitouch uygulama geliştirme**" seminerimin kaydını sizlerle
 paylaşıyorum. Bu seminerde kullandığım örnekleri daha önceki bir [blog
@@ -29,3 +30,5 @@ bölümünden bunu yapabilirler ;)
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-20 tarihinde yayinlanmistir.*

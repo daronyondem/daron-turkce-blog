@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight
 old.EntryID: 2fc0aca2-f96e-49a3-a1b7-11f8a60854c3
 ---
+# İstanbul Teknik Üniversitesi Silverlight Semineri
 Seminer veya eğitimlerin faydalı olduğunu hissettiğimde ne kadar mutlu
 olduğumu anlatamam :) Bugün **İstanbul Teknik Üniversitesi'nde**
 "**Silverlight**" semineri düzenledik. Her zamanki gibi 3 saat süren
@@ -34,3 +35,5 @@ Organizasyonla ilgili yardımlarından dolayı sevgili kardeşim **MSP,
 Deniz Demir**'e çok teşekkür ediyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-13 tarihinde yayinlanmistir.*

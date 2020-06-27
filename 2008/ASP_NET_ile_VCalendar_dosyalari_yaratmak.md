@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
 old.EntryID: 948dce80-c08c-4d8d-8152-7f4798c6c8ee
 ---
+# ASP.NET ile VCalendar dosyaları yaratmak
 Varsayalım ki web sitenizde belirli aktiviteleri paylaşıyorsunuz veya
 belki de toplantıları. İnsanların buluşma tarihlerini bir kenara not
 almalarını ve sonra da günü geldiğinde hatırlamalarını istiyorsunuz.
@@ -610,3 +611,5 @@ style="color: blue;">false</span>;
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-1 tarihinde yayinlanmistir.*

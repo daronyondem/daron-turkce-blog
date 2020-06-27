@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Azure WebJobs ile Queue'ların Kullanımı
 Hatırlarsanız bundan bir süre önce [Azure WebJobs konusundan
 bahsetmiş](http://daron.yondem.com/software/post/WebJobs_Giris_ve_Bloblarla_Kullanimi),
 hatta ilk girişi yapmanın yanı sıra Blob'lara WebJobs SDK kullanımına da
@@ -133,3 +134,5 @@ arasında en favori SDK'lerimden biri.
 WebJobs candır diyerek :) bir sonraki makaleye kadar görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-8-9 tarihinde yayinlanmistir.*

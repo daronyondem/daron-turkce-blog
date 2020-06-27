@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Webiner
 old.EntryID: 96f2c801-247e-4d0d-92c8-d0bbec3b44e0
 ---
+# Silverlight Webineri sonrası...
 Türkiye'nin ilk Silverlight webinerini daha önce de duyurduğum üzere
 bugün gerçekleştirdik. Silverlight webinerimizi özellikle Expression
 Studio çerçevesinde yeni webinerler takip ediyor olacak. Bizden
@@ -20,3 +21,5 @@ yorum olarak gönderebileceğinizi de hatırlatmak isterim.
 (6,39MB)](media/Silverlight_Webineri_sonrasi/04102007_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-5 tarihinde yayinlanmistir.*

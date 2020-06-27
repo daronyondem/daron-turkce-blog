@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'da Trace.WriteLine yapacak olsak?
 Development süreçlerinizde her ne kadar Azure SDK ile beraber gelen
 emülatörü kullanacak olsanız da maalesef bazıt testleri doğrudan Azure
 üzerinde yapmak zorunda da kalabiliyoruz. Bu çok da anormal bir durum
@@ -181,3 +182,5 @@ atmanızda fayda var.
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-9-25 tarihinde yayinlanmistir.*

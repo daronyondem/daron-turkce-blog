@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Silverlight, WPF
 old.EntryID: 52a599c9-a1ae-4193-8188-3b4e5d6f80a1
 ---
+# Silverlight, WPF, AJAX Eğitimi ardından...
 Bugün **Microsoft İstanbul** ofislerinde bir başka iş ortakları
 eğitimini daha bitirdik. **Silverlight, WPF** ve **AJAX** konularına
 değindiğim eğitimde yaptığım bazı demoların kodlarını aşağıda hem blog
@@ -46,3 +47,5 @@ Eğitime katılan herkese ve özellikle eğitim sonundaki pozitif olduğu
 kadar da samimi yorumlara çok teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-8 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 4b0c6f27-26d8-4e3f-bf12-af03d43afb45
 ---
+# Silverlight 2.0 içerisinde ProgressBar kullanımı.
 .NET Framework'ün ufak bir paketini içerse de Silverlight ile web
 tarayıcısı içerisinde büyük mucizeler yaratmak mümkün. .NET'in
 JavaScript gibi scripting dillerine kıyasla işlemci kullanımındaki
@@ -245,3 +246,5 @@ değiştirilebiliyor aksi halde tüm standart ProgressBar kontrolleri bu
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-6 tarihinde yayinlanmistir.*

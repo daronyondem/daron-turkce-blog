@@ -6,6 +6,7 @@ Section: software
 MinutesSpent: 105
 Tags: Azure Cosmos DB
 ---
+# Azure Cosmos DB Nedir?
 [Build 2017 duyuruları](https://twitter.com/i/moments/862729849965748224) arasında en beklenmedik ürün sanırım Cosmos DB'di. Hem Multi-Model desteği, hem de Multi-API desteği ile rüya gibi bir hizmetten bahsediyoruz. Aslında bu kadarla da bitmiyor, Data Consistency konusunda beş ayrı seviyede seçenek sunması ve dört ayrı eksende SLA'i ile Cosmos DB tüm bunları başarıyla yapabildiğine inanılması zor bir ürün.
 
 ### Tarihçe
@@ -58,3 +59,5 @@ Bu yazıda şöyle hızlı bir giriş yaptık Cosmos DB'ye. Nedir, ne değildir,
 
 Görüşmek üzere. 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2017-6-18 tarihinde yayinlanmistir.*

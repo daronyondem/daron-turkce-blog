@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Windows Azure
 ---
+# Mobilist Mobil Uygulama Geliştirme Konferansı
 Geçen cumartesi sabahı İstanbul Bahçeşehir Üniversitesi'nde gerçekleşen
 "Mobilist Mobil Uygulama Geliştirme Konferansı"ndaydım. Konferasın
 özellikle ilgimi çeken tarafı tüm mobil platformlara önem verilmiş
@@ -32,3 +33,5 @@ Beni konferansta misafir eden tüm kardeşlerime buradan çok teşekkürler.
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-4-22 tarihinde yayinlanmistir.*

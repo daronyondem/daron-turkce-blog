@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, WCF
 old.EntryID: ec53a760-d6fd-414d-aa78-22e0c04dcc19
 ---
+# Silverlgiht 2.0 ve WCF Servisleri
 .NET Framework 3.0 ile beraber karşımıza çıkan WCF servisleri aslında
 çoktan klasik web servislerinin yerini de almış durumda. Tabi ki
 doğrudan bir karşılaştırma yapmak çok yanlış olacaktır, WCF çok daha
@@ -479,3 +480,5 @@ sender, SilverlightApplication4.WCFServisim.ToplamaCompletedEventArgs e)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-25 tarihinde yayinlanmistir.*

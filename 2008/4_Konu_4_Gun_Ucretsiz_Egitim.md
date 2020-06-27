@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Expression Blend, LINQ, Silverlight, WPF, ASP.NET
 old.EntryID: bfb7add2-9b32-462a-b833-99047fd31ffc
 ---
+# 4 Konu 4 Gün Ücretsiz Eğitim
 Ücretsiz eğitim konseptinde düzenlediğimiz INETA ve NETRON
 sponsorluğundaki Silverlight 1.0 eğitimine gelen ve gelmeye devam eden
 büyük ilgi daha önce de tahmin ettiğim bir durumdu. Bu konuda maalesef
@@ -43,3 +44,5 @@ Kutlu](http://burcudan.spaces.live.com/)'ya aktivitenin
 organizasyonundaki yoğun emekleri için çok teşekkür ediyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-17 tarihinde yayinlanmistir.*

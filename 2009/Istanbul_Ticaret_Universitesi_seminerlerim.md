@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
 old.EntryID: 1c23914a-171b-44cb-896c-e1b12aa5ed87
 ---
+# Istanbul Ticaret Üniversitesi seminerlerim.
 Bugün **İstanbul Ticaret Üniversitesi**'ndeydim. Üniversiteden **Imagine
 Cup**'a katılmak üzere hazırlanan bir ekibin isteği üzerine WPF ve
 Silverlight konulu ikişer saatlik seminerler yapıp sonrasında da ekiple
@@ -27,3 +28,5 @@ tasarımcılar katmayı da unutmaz ve Imagine Cup'da başarılı olursunuz ;)
 Hepinize sevgiler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-7 tarihinde yayinlanmistir.*

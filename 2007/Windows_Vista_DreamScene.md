@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Vista
 old.EntryID: 129aa10e-70a2-425a-b6ad-acb958de85a2
 ---
+# Windows Vista DreamScene
 Windows Vista'yı uzun zamandır (çıktığından bu yana) kullanan birçok
 kişi ile yaptığım konuşmalarda kimsenin **DreamScene** özelliğinden
 haberdar olmadığını gördüm. Tabi bunun en önemli nedenlerinden biri
@@ -62,3 +63,5 @@ gözüktüğü ile ilgili örnek bir video için
 adresini inceleyebilirsiniz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-18 tarihinde yayinlanmistir.*

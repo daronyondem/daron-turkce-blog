@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET
 old.EntryID: 38bebfa3-3b3e-466f-8004-1a2373587698
 ---
+# AJAX Control Toolkit v.1.0.10606.0 Yenilikleri
 Biraz gecikmiş de olsam sizlere **AJAX Control Toolkit**’in yeni
 sürümünü duyurmak ve bazı yeniliklerden bahsetmek istiyorum. **ASP.NET
 AJAX** kitabımda detaylıca incelediğim AJAX Control Toolkit bağımsız
@@ -62,3 +63,5 @@ kütüphane yeni kontroller de eklenerek daha da genişler. Bir sonraki
 **AJAX Control Toolkit** sürümünde görüşmek üzere :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-7-10 tarihinde yayinlanmistir.*

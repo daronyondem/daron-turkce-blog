@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 7f0cd1bc-bbda-4471-ab48-6d3218fd2fad
 ---
+# Silverlight 1.0 Font Embedding
 Biraz önce mail ile süper bir soru aldım :) Soru şöyle: **"Silverlight
 içerisinde font dahil edip istemci tarafında kullanma şansımız var mı?"
 EVEEEET** :) Var. Silverlight uygulamanızdaki herhangi bir
@@ -143,3 +144,5 @@ egzersizi olmuş olur.
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-21 tarihinde yayinlanmistir.*

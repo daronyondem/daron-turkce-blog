@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: a9ec06f1-711e-40c8-9e6e-239da81a19af
 ---
+# Silverlight 4 RC Değişiklikleri / Yenilikleri Seminer Video Kaydı
 Geçenlerde hatırlayacaksınız
 [DeveloperMania](http://daron.yondem.com/tr/post/3ef92218-0a23-4367-a182-1d3626479ba5)'nın
 etkinliğinde "Silverlight 4 RC Yenilikleri / Değişiklikleri" adında bir
@@ -30,3 +31,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-4 tarihinde yayinlanmistir.*

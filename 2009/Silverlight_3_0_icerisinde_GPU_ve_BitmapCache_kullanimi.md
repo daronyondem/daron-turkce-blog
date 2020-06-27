@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 27ca0d6d-2a2d-4c9b-8706-da5c32267213
 ---
+# Silverlight 3.0 içerisinde GPU ve BitmapCache kullanımı.
 Bazı yazılımsal işlemleri özel donanım desteği her zaman performansı
 arttırır. Aslında bunun çok basit bir nedeni var özünde. Yapacağımız
 yazılımsal işleve özel bir donanım kullanıyor olmanın yanı sıra
@@ -424,3 +425,5 @@ style="color: blue;">\></span>
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-6 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: d8bb0d05-f831-4f81-99f2-f4bca72a8748
 ---
+# Internet Explorer 8.0 içerisinde AJAX ile geri ve ileri butonlarına dair çözüm.
 Web sitelerinde AJAX kullanımı gün geçtikçe artıyor ve neredeyse artık
 AJAX kullanılmayan sitelere demode gözüyle bakmaya başladık. Bu
 çerçevede AJAX’lı sitelerde yaşadığımız en büyük sorunlardan biri
@@ -78,3 +79,5 @@ sadece PageMethod kullanmanız gerekecektir. Daha kolay bir entegrasyon
 için maalesef ASP.NET 4.0'ı beklememiz gerekecek.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-14 tarihinde yayinlanmistir.*

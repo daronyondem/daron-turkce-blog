@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Gadget
 ---
+# Nike Fuelband İnceleme ve API Wrapper Source Code
 Hatırlarsanız geçenlerde sporla alakalı donanım olarak [Jawbone Up
 incelemesi](http://daron.yondem.com/tr/post/Jawbone_UP_Inceleme_ve_API_Kullanimi)
 yayınlamıştım. Hatta API'larını da bulduğum kaynaklardan derleyip mini
@@ -50,3 +51,5 @@ beraber herkesin okuma şansı olur. ;)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-18 tarihinde yayinlanmistir.*

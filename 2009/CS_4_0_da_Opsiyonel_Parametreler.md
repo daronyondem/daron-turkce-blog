@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: C#, Visual Studio 2010
 old.EntryID: 63b298de-12af-4978-b4cc-3be2de6dd851
 ---
+# C# 4.0'da Opsiyonel Parametreler
 C\# 4.0 ile beraber gelen yeni özelliklerden biri de Opsiyonel
 Parametreler. Hali hazırda VB'de yer alan bu özelliğin eksikliğini
 hissetmiyordum desem yalan olur. Görsel ders içerisinde Opsiyonel
@@ -28,3 +29,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-22 tarihinde yayinlanmistir.*

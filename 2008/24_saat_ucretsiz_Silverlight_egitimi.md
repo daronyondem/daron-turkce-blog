@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: e52a84f7-3c2c-4ae5-8fd1-2b998eb25378
 ---
+# 24 saat ücretsiz Silverlight eğitimi!
 Uzun süredir planladığım WorkShop'lardan ilk seriyi sizlere duyuruyorum.
 Seminerlerden farklı olarak WorkShop'larda herkes bilgisayar başında
 olacak. Toplam 24 saat olarak düşündüğüm bu eğitim serisini INETA ve
@@ -39,3 +40,5 @@ Tarihler uygun değil diyenlere yakında umarım farklı sürprizler de
 yapabileceğim ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-27 tarihinde yayinlanmistir.*

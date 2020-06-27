@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 768cde54-1e1d-45b4-ba82-f65d64915332
 ---
+# ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 3 - Metin, Tarih ve Sayı Fonksiyonları)
 ASP.NET AJAX Extension ile gelen JavaScript özelliklerini incelediğimiz
 serimize devam ediyoruz. Bu sefer inceleyeceklerimiz arasında farklı
 değişken tiplerine özel olarak gelen ve bizim aslında çoğuna .NET
@@ -826,3 +827,5 @@ bahsedeceğiz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-10 tarihinde yayinlanmistir.*

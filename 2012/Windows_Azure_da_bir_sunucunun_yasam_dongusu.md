@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure'da bir sunucunun yaşam döngüsü!
 Windows Azure'un iç yapısına göz atacağımız bu yazımız :) hala kod
 yazmaya başlamadığımız ikinci azure yazımız olacak. Maalesef elleri
 kirletmeye başlamadan önce ortamı biraz daha incelemek ve neyin nasıl
@@ -164,3 +165,5 @@ oldu bu ;)
 Kendinize çok iyi bakın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-3-20 tarihinde yayinlanmistir.*

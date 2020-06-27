@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# giik.fm YAYINDA!!
 Süper bir haberle karşınızdayım :) Sevgili [İlkay
 İlknur](http://www.ilkayilknur.com/) ile beraber yeni projemiz
 [www.giik.fm](http://www.giik.fm) yayında!! İlk PodCast'imizi biraz önce
@@ -26,3 +27,5 @@ heyecanla bekliyoruz ;)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-10-24 tarihinde yayinlanmistir.*

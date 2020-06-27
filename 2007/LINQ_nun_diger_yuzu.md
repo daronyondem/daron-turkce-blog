@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ
 old.EntryID: 86729470-1741-4039-8fe4-b66371f1b2cf
 ---
+# LINQ'nun diğer yüzü
 Bir süredir okuduğum yazılarda ve konuştuğum kişilerde **LINQ**
 denildiğinde akla sadece veritabanına kolay yoldan sorgu yollama gibi
 bir kavramın geldiğini gördüm. O nedenle bu yazımda birkaç örnek ile
@@ -263,3 +264,5 @@ Artık sanırım LINQ ile ilgili çok daha farklı düşünceleriniz vardır :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-26 tarihinde yayinlanmistir.*

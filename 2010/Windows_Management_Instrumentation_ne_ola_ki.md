@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.5, Visual Basic 2008, WMI, Visual Basic .NET
 old.EntryID: 041c4ba5-3608-4891-8091-01e889f253e3
 ---
+# Windows Management Instrumentation ne ola ki?
 Bugün üzerinde uğraştığım bir projede X bir windows uygulamasının
 çalıştığı makinedeki tüm networking device'ları Enable etmesi veya tam
 tersine Disable etmesi gerekiyordu. Çözümü uygularken aslında bu konudan
@@ -86,3 +87,5 @@ style="color: blue;">In</span> Adapters
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-1-26 tarihinde yayinlanmistir.*

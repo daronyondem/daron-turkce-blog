@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: cec638f6-329d-40f3-9fd8-edb00a4f006f
 ---
+# Seminer TV yayında
 Özellikle Doğu ve Güneydoğu Anadolu'dan çok fazla seminerlerle ilgili
 mail geliyor. Haklı olarak İstanbul'da çok fazla aktivite olduğundan
 fakat ulaşım ve konaklama sorunları nedeniyle İstanbul'a gelişin
@@ -54,3 +55,5 @@ kayıt da olmaz ona göre :P ;)
 Hepiniz kalın sağlıcakla....
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-5 tarihinde yayinlanmistir.*

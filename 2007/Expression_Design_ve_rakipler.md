@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Design
 old.EntryID: 4918cfdc-60cf-448f-8a1c-e6859205bc2f
 ---
+# Expression Design ve rakipler
 Expression Studio ailesindeki ürünlerle ilgili "özel" alakamı blogumu
 takip eden herkes farkındadır :) Bu ilgi ve alaka çerçevesinde aslında
 sürekli ürünlerle ilgili "Muhteşem" "Süper" demek yerine bir de kelleyi
@@ -81,3 +82,5 @@ Bu yazılarımı bir yazı dizisi şeklinde diğer Expression ürün ailesindeki
 programlar için de yazmayı düşünüyorum. Bir sonrakinde görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-20 tarihinde yayinlanmistir.*

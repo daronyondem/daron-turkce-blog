@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, NOSQL, Windows Azure
 ---
+# Azure Storage Table Services (SDK2.5)
 Azure ortamında Storage Services kapsamında yarattığımız her bir Storage
 account ile beraber bize bir blob, bir table, bir de queue servisi
 sağlandığını biliyoruz. Bugüne kadar bloblarla ilgili birçok konuya
@@ -274,3 +275,5 @@ sonraki yazımıza bırakıyorum ;)
 
 Görüşmek üzere.
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-10 tarihinde yayinlanmistir.*

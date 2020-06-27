@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2010
 old.EntryID: 9e0c8f8b-c217-4743-9658-6d9e4df91870
 ---
+# INETA Fazla Mesai'de Suhail Dutta konuşuyor!
 Bu hafta Perşembe günü (06.05.2010) yeni bir INETA serisine başlıyoruz!
 "**INETA FAZLA MESAİ**" olarak adlandırdığımız bu seride amacımız
 olabildiğince iş hayatından community aktivitelerine zaman ayıramayan
@@ -37,3 +38,5 @@ Suhail'in oturumu İngilizce olacak fakat demo ağırlıklı olacağı için
 oturumum ise tabi ki Türkçe olacak. Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-4 tarihinde yayinlanmistir.*

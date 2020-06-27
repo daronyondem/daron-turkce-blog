@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight 2.0
 old.EntryID: ce0b472e-330f-4542-b86f-cf73e85b1d43
 ---
+# Silverlight 2.0 Beta 1 ve Expression Blend 2.5 yayında.
 Silverlight bir sonraki sürümü olan Silverlight 1.1'den uzun süre önce
 blogumda bahsetmiştim. Özellikle arka planda .NET Framework desteğini de
 alarak VB, C\# kullanabiliyor olmak bile yeterince heyecan verici. Eski
@@ -45,3 +46,5 @@ tavsiye ederim.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-6 tarihinde yayinlanmistir.*

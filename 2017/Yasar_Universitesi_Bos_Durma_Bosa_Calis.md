@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 8
 Tags: Seminer
 ---
+# Yaşar Üniversitesi'nde Boş Durma Boşa Çalış
 Dün Yaşar Üniversitesi'nde konuşmak için İzmir'deydim. Yine teknik olmayan bir oturum olarak "Boş Durma Boşa Çalış" oturumunu sundum. Nedense kimse teknik oturum istemiyor artık :) "Serverless" diyorum, "Microservices" diyorum :) satmıyor :)
 
 ![Yaşar Üniversitesi Ziyaretim](media/Yasar_Universitesi_Bos_Durma_Bosa_Calis/yasar-uni.jpg)
@@ -17,3 +18,5 @@ Dün Yaşar Üniversitesi'nde konuşmak için İzmir'deydim. Yine teknik olmayan
 Unutmadan, Yaşar Üniversitesi'nin **IEEE / Computer Society Topluluğu**'na da çok teşekkür ediyorum. Uzun yıllardır İzmir'de benim denk geldiğim en kalabalık etkinliklerden birini yapmayı başardılar. Elinize sağlık!
 
 Bir dahakine görüşmek üzere ;)
+
+*Bu yazi http://daron.yondem.com adresinde, 2017-2-19 tarihinde yayinlanmistir.*

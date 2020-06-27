@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ, Silverlight 3.0, WPF
 old.EntryID: d2c1adbb-9c83-4acb-941e-a43d497970c7
 ---
+# Samsun 19 Mayıs Üniversitesi seminerlerim.
 Bugün Samsun 19 Mayıs Üniversitesi'ndeydim. Bilişim günleri etkinliğinin
 ikinci gününde Silverligjt, WPF ve LINQ üzerine oturumlarım oldu. Uzun
 süredir Samsun'da bu gibi bir aktivitenin yapılmamış olduğu bilgisini
@@ -30,3 +31,5 @@ ediyorum. Benim için büyük bir zevkti. Umarım herkes için faydalı bir
 gün olmuştur.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-21 tarihinde yayinlanmistir.*

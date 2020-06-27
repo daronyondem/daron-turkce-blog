@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 05675b05-d628-4a42-85cf-e35fccfdbb37
 ---
+# Microsoft Oyun Turu'nda Silverlight 2.0 ile Oyun Programlama Anlattım
 Bugün Microsoft İstanbul ofisinde Oyun Turu'nun ilk ayağını
 gerçekleştirdik. Güne "Oyun Sektörü" ile ilgili genel bir oturumun
 sonrasında **Silverlight 2.0 ile Oyun Programlama** konusu ile giriş
@@ -31,3 +32,5 @@ başka illerde de Oyun Turu'na devam edeceğiz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-15 tarihinde yayinlanmistir.*

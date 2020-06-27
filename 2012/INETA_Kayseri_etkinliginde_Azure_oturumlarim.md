@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# INETA Kayseri etkinliğinde Azure oturumlarım.
 INETA Kayseri etkinliği de geldi geçti :) Geçen hafta sonunu 5 konuşmacı
 ile Kayseri'de geçirdik. Ben de iki günde iki Azure oturumu ile sahne
 aldım. Kayseri malum benim memleketim sayılır :) o nedenle ayrı bir
@@ -24,3 +25,5 @@ konusunda süperler. Katılan herkese de ayrıca teşekkürler ;) Bir dahaki
 sefere görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-3-19 tarihinde yayinlanmistir.*

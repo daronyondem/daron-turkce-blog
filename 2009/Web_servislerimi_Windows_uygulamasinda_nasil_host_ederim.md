@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WCF
 old.EntryID: efc4285f-96db-4fdd-8768-7169d787e939
 ---
+# Web servislerimi Windows uygulamasında nasıl host ederim?
 Dün bana gelen sorulardan birini cevaplamak üzerine hızlı bir makale
 yazmaya karar verdim :) Gelen soruya doğrudan girmeden önce senaryoya
 bir bakalım. Elimizde bir istemci var ve bu istemci sunucu üzerindeki
@@ -435,3 +436,5 @@ hem HTTP hem de TCP üzerinden sunulmasını sağlayabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-2 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Blob Ortamında File System Etkisi yaratmak (SDK2.5)
 Blob konusunu inceledikçe aslında adam akıllı dosya tutabileceğimiz :)
 süper bir yer olduğu hissiyatı eminim ki sizin de içinizi kaplamıştır.
 Bu düşünce yapısı ile ilerlerken aslında akla gelebilecek daha bir sürü
@@ -136,3 +137,5 @@ yapıyorsak bunlar sorgular şeklinde Container seviyesinde
 Kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-6 tarihinde yayinlanmistir.*

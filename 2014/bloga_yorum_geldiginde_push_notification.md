@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Genel, Visual Basic .NET, Visual Studio 2013
 ---
+# PushOver implementasyonu ile bloga yorum geldiğinde push notification
 Push Notificationlar malumunuz artık epey popüler :) Ben de bir süredir
 [IFTTT](https://ifttt.com/p/daronyondem) ile beraber
 [PushOver](https://pushover.net/) kullananlardanım.
@@ -129,3 +130,5 @@ entegrasyonları yapmak mümkün. Örneğin bir diğer örnek senaryo da
 e-mailleri vs olabilir :) Hayal gücünüzü kullanın :) Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-2-1 tarihinde yayinlanmistir.*

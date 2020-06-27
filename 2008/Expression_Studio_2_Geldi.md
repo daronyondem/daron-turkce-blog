@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web
 old.EntryID: 8ae4ba53-3f12-477c-ac14-397533ada6fb
 ---
+# Expression Studio 2 Geldi!!
 Heyecanla beklediğimiz an geldi. Sonunda Expression Studio 2 gerçek, son
 sürümü ile karşımızda! Benim gibi heyecanlananlar hemen yeni paketin
 deneme sürümlerini aşağıdaki adresten indirebilirler.
@@ -33,3 +34,5 @@ detaylar artık uzmanlık seviyesine ulaşıyor.
 Uykusuz gecelerimize yeni oyuncaklar geldi :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-1 tarihinde yayinlanmistir.*

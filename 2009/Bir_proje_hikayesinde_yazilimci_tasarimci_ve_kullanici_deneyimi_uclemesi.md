@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
 old.EntryID: 795f9a3c-fac8-4cd4-b068-2d0bf5a0adaf
 ---
+# Bir proje hikayesinde yazılımcı, tasarımcı ve kullanıcı deneyimi üçlemesi!
 Her zaman söylerim; web yazılım dünyası "grafik tasarım yapmak zorunda
 kalan yazılımcıların" kurbanı oluyor :) Kimseyi suçlamıyorum çünkü çok
 açık ve net bir şekilde aslında hiçbir yazılımcının grafik tasarım da
@@ -65,3 +66,5 @@ Sizlerin de elinde bu gibi karşılaştırmalı örnekler varsa lütfen
 yorumlarda paylaşın ;)  
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-7 tarihinde yayinlanmistir.*

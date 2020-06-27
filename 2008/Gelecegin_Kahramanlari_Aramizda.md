@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer
 old.EntryID: efad8c52-c791-4b08-b8ee-f74e3612cc6a
 ---
+# Geleceğin Kahramanları Aramızda
 Bugün çok ilginç bir deneyim yaşadım. İlk olarak bir meslek lisesini
 ziyaret ettim. **Bağcılar Ticaret Meslek Lisesi** zaten son dönemde
 sürekli sosyal aktivitelerde ve seminerlerde sesini duyduğum bir lise
@@ -67,3 +68,5 @@ Hepinizle tekrar bir aktivitede görüşmek dileği ile arkadaşlar, az
 uyuyun, çok çalışın ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-16 tarihinde yayinlanmistir.*

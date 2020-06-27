@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: IE 9, Silverlight 4, TechEd, Visual Studio 11, Windows 8, Windows Phone, Windows Phone 7.5, Windows Server 8
 ---
+# TechEd Africa 2011 Maceraları
 Muhteşem bir konferans geride kaldı! **TechEd Africa 2011**! Bugüne
 kadar üç ayrı kıtada TechEd konferanslarına katıldım ama bu kıtalar
 arasında maalesef Afrika yoktu. Tabi pek kıtayı veya TechEd'in yapıldığı
@@ -85,3 +86,5 @@ bir organizasyonla beni büyüledi diyebilirim. Önümüzdeki sene olanağınız
 varsa kaçırmamanızı öneririm.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-10-20 tarihinde yayinlanmistir.*

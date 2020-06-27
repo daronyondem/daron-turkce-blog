@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 6c65ffd8-1d62-45c8-a591-555380135504
 ---
+# Silverlight 2.0 içerisinde fare roller'ını kullanmak...
 Silverlight 2.0 içerisinde .NET programlama dillerini kullanırken
 istemci tarafında bir tarayıcıda olduğumuzu sürekli hatırlamak gerek. Bu
 bilgiyi aklımızda tutarsak aslında Silverlight içerisinde yapılamayan
@@ -389,3 +390,5 @@ style="color: blue;">Sub</span>
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-28 tarihinde yayinlanmistir.*

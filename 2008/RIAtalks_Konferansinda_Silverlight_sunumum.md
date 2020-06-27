@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 5f68eec3-802c-4458-a535-2a94e588f0d8
 ---
+# RIAtalks Konferansı'nda Silverlight sunumum.
 Bizim **INETA Summer Hit**'ten bir hafta sonra 8-9 Ağustos
 (Cuma-Cumartesi) tarihlerinde [riatalks.com](http://www.riatalks.com)
 konferansı var. Bundan yaklaşık bir ay kadar önce bu aktivitenin [deneme
@@ -21,3 +22,5 @@ zaman kısıtı epey sıkıcı fakat yapacak bir şey yok, kalan sahalar
 bizimdir :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-22 tarihinde yayinlanmistir.*

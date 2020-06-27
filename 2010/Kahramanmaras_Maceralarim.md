@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, WPF
 old.EntryID: 66ecd683-6830-4374-85e9-ee981cffd81d
 ---
+# Kahramanmaraş Maceralarım
 İki gündür Kahramanmaraş'tayım :) Evet dondurması ve acısı ile ünlü
 Kahramanmaraş'tan bahsediyorum. Tabi maalesef acı miktarı konusunda hala
 benim istediğim acı biberi bulamadık o ayrı :) Pul biberlerini avuç avuç
@@ -52,3 +53,5 @@ Tekrar aktiviteye katılan herkese milyonlarca teşekkürler! Görüşmek
 üzere! ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-2-27 tarihinde yayinlanmistir.*

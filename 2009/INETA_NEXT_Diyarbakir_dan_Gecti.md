@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 4.0, C#, Silverlight 4, Visual Basic 2010, WPF, Visual Basic .NET, ASP.NET
 old.EntryID: 4a7bccd8-4f4f-4604-8132-893aa111746b
 ---
+# INETA NEXT Diyarbakır'dan Geçti!
 Bu hafta sonu iki gün boyunca [INETA NEXT](http://www.inetatr.org)
 turumuzun ilk ayağı olan Diyarbaklır'daydık. Sevgili [Muammer
 Benzeş](http://www.muammerbenzes.com/) ve [Erkan
@@ -70,3 +71,5 @@ muhteşemdi. INETA NEXT Turu'na Diyarbakırı dahil ettiğimiz için ÇOK
 memnun kaldım. Bir dahakine görüşmek üzere Diyarbakır!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-8 tarihinde yayinlanmistir.*

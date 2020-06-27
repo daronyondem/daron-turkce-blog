@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 83f0f77b-78ba-4c01-9ca9-e271ad615547
 ---
+# Silverlight 2.0 içerisinde VisualStateManager kullanımı.
 Bugüne kadar Silverlight içerisinde herhangi bir düğme veya farklı bir
 kontrolün değişik durumlarında ayrı şekiller alması için maalesef
 birbirinden bağımsız animasyonlar hazırlayarak tek tek gerekli eventlar
@@ -329,3 +330,5 @@ animasyonu oynatılmaksızın söz konusu duruma geçilecektir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-13 tarihinde yayinlanmistir.*

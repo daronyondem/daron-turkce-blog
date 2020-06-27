@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 25b0080e-aba1-4267-8b25-9e1193ec7b16
 ---
+# Blogumu E-Mail ile takip edin!
 Bir süre önce ben de feedburner.com üyesi olarak blogumun RSS'lerini
 **FeedBurner** üzerinden yayınlamaya başladım. Buna ek olarak RSS
 kullanmak istemeyenler veya sevmeyenler için FeedBurner'ın bir de mail
@@ -20,3 +21,5 @@ başlatabilirsiniz ;)
 <http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1981693&loc=en_US>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-18 tarihinde yayinlanmistir.*

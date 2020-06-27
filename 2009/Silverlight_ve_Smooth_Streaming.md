@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 8e6ac226-d4ba-4ab2-8082-eac8d8320109
 ---
+# Silverlight ve Smooth Streaming
 Silverlight ilk çıktığı günden itibaren video konusunda ayrı bir iddaya
 sahip oldu. 1.0 sürümünden başlayarak Silverlight'ın CPU ve RAM
 kullanımındaki başarısı ister HD ister FullHD videoların oynatılmasında
@@ -831,3 +832,5 @@ indirildiğini test edebilirsiniz.
 Hepiniz kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-8-23 tarihinde yayinlanmistir.*

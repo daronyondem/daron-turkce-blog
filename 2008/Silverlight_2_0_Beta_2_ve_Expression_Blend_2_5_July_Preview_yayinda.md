@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight 2.0
 old.EntryID: 40717b53-b43e-4d16-a59d-9c2451e0831c
 ---
+# Silverlight 2.0 Beta 2 ve Expression Blend 2.5 July Preview yayında!
 Hafta sonuna gelmesi gerçekten muhteşem :) Ne kadar heyecanlı olduğumu
 anlatamam. Silverlight 2.0 Beta 2 ile beraber gelen yenilikler ve diğer
 Silverlight 2.0 yazılarımı sizlerle paylaşmaya devam edeceğim. Fakat
@@ -109,3 +110,5 @@ Preview](http://download.microsoft.com/download/8/5/8/858627dc-9aa3-4f86-bb3d-72
 (32,3MB)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-8 tarihinde yayinlanmistir.*

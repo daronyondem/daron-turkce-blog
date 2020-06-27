@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, LINQ, Silverlight, WPF, ASP.NET
 old.EntryID: 451a57c6-36ea-4649-b87a-8df9bc0712d7
 ---
+# Edirne M.P. Anadolu Ticaret Meslek ve Ticaret Meslek Lisesi Seminerleri
 Bugün Edirne **M.P. Anadolu Ticaret Meslek ve  Ticaret Meslek
 Lisesi**'nin organizasyonunu üstlendiği Edirne'deki meslek liseleri'nin
 yer aldığı bir seminer serisindeydim. Semineri **Trakya Birlik Genel
@@ -58,3 +59,5 @@ ediyorum. Beni muhteşem bir şekilde ağırlamanın yanı sıra
 organizasyondaki her tür detayı çok başarılı bir şekilde yürüttüler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-4 tarihinde yayinlanmistir.*

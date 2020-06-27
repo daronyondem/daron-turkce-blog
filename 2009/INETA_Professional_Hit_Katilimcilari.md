@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 7cc1a930-64e6-4188-be14-605821576531
 ---
+# INETA Professional Hit Katılımcıları
 Sanırım son attığımız maillerde bazı sorunlar olmuş. Bugün iki, üç
 kişiden mail almadıklarına dair mailler aldım. Yarınki aktivitemiz için
 en son kayıt olan ve güvenliğe adı verilecek olan liste aşağıdaki
@@ -80,3 +81,5 @@ Yüksel Yılmaz, Yüzel Özkan, Zafer Düzen, Zafer Yılmaz, Zaferbaşoğlu,
 Zerrin Yılmaz, Zeynep Öztürk, Zuleyha Ozturk
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-24 tarihinde yayinlanmistir.*

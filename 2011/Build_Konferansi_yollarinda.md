@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Build Konferansı yollarında...
 Birazdan uçağa biniyorum :) Başıma bir iş gelmez ise yarın akşam
 saatlerinde California, Anaheim'de olacağım. Neden mi? Unutanlarınız
 için hatırlatiyim,[Build](http://www.buildwindows.com/) konferansı
@@ -40,3 +41,5 @@ yatak var otelde :) Ben de yeni gördüm rezervasyonumda. Seve seve odayı
 paylaşabilirim ;)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-9 tarihinde yayinlanmistir.*

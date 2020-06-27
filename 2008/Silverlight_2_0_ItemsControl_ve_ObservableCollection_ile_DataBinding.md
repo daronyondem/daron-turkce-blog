@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 6d471b0f-da7e-40e4-b965-eb572d1bf3f8
 ---
+# Silverlight 2.0 ItemsControl ve ObservableCollection ile DataBinding
 ASP.NET kullanırken en sevdiğim kontrol Repeater kontrolüdür. Bana
 herşeyi istediğim gibi esnek bir şekilde düzenleme şansı tanır. Aynı
 mantıkla **Silverlight 2.0 Beta 1** tarafına geçtiğimizde karşımızda
@@ -711,3 +712,5 @@ bu işlemleri yapabiliyor olmak gerçekten heyecan verici.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-27 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Windows Azure
 ---
+# Sakarya Üniversitesi Azure Mobile Services Oturumum
 Bu aralar leyleği havada gördüm sanırım :) Pazartesi günü de **Sakarya
 Üniversitesi**'ndeydim. Her zamanki gibi :) **Windows Azure Mobile
 Services** anlattım. Sakarya yolculuğu epey zaman almış olsa da zevkli
@@ -27,3 +28,5 @@ Organizasyonda emeği geçen Mert Yazıcı kardeşimin ve tüm bilişim
 kulübünün ellerine sağlık ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-5-1 tarihinde yayinlanmistir.*

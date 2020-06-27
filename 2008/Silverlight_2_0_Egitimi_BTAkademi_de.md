@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 8e4a2523-45b8-42ad-87a2-aca65394ef0e
 ---
+# Silverlight 2.0 Eğitimi BTAkademi'de.
 Uzun bir süredir Silverlight anlatıyorum, 1.0 , 1.1 Alpha, 2.0 Beta 1,
 2.0 Beta 2 derken RC ve RTW ile bugünlere kadar geldik. Bu süreçte
 onlarca seminer verdim, ücretsiz tam gün eğitimler yaptık ve bana hep
@@ -56,3 +57,5 @@ kilolarla da ücretsizlere devam ederiz :)*
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-26 tarihinde yayinlanmistir.*

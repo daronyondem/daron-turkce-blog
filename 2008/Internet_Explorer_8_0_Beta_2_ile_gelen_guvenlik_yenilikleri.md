@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: b5a6af1b-2b5b-42ca-ae4b-ccd1c99441d3
 ---
+# Internet Explorer 8.0 Beta 2 ile gelen güvenlik yenilikleri
 **Internet Explorer 8.0 Beta 2** kısa bir süre önce yayınlandı. Bu
 yazımda "Güvenlik" çerçevesinde IE 8.0 ile beraber gelen
 değişikliklerden bahsedeceğim. Değineceğim bazı noktalar doğrudan son
@@ -265,3 +266,5 @@ yazılarımda daha heyecan verici uygulamalar yapacağız.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-31 tarihinde yayinlanmistir.*

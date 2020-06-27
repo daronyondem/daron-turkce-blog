@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# BlockBlob ve PageBlob Detayları (SDK2.5)
 Bloblarla ilgili birçok detayı daha önceki yazılarda inceledik. Hatta
 PageBlob ile BlockBlob arasındaki farklılığa da değinmiştik. Şu ana
 kadar bildiklerimizin üzerinden geçmek gerekirse PageBlob'ların 512
@@ -293,3 +294,5 @@ aldığınızda sadece değişen 512 byte'lar için para ödeyeceğini de
 hatırlamakta fayda var ;)
 
 Kendinize çok iyi bakın.
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-9 tarihinde yayinlanmistir.*

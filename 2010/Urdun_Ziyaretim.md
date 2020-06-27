@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 4.0, Expression Studio, MultiTouch, Seminer, Silverlight 4, Visual Studio 2010, Windows 7, Windows Phone 7, WPF, Windows Phone
 old.EntryID: 723b647c-c58c-40c7-a2a1-14f75e3729ec
 ---
+# Ürdün Ziyaretim...
 Ürdün :) Son üç gündür Ürdün'deydim! **Microsoft Ürdün** ofisi için iş
 ortaklarına ve sektördeki yazılım geliştiren kurumlara özel bir seminer
 serisi düzenledik. Oturumlar boyunca Silverlight, WPF, Multitouch,
@@ -42,3 +43,5 @@ beraber birer çay içelim ;)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-20 tarihinde yayinlanmistir.*

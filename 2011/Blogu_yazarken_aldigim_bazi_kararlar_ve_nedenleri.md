@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET 4.0, ASP.NET MVC 3, Genel, MVC, Silverlight 4
 ---
+# Blogu yazarken aldığım bazı kararlar ve nedenleri...
 Malum yeni blogu yazarken karşılaştığım bazı şeyleri ve bulduğum
 çözümleri sizlerle paylaşacağımdan bahsetmiştim. Ondan önce bana gelen
 bolca soruları ve karşılaştığım karar noktaları bir sizlerle paylaşmak
@@ -79,3 +80,5 @@ Kabaca şimdilik ortaya atacaklarım bunlar. Aklınıza gelenler olursa
 yorumlarınızı beklerim :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-2 tarihinde yayinlanmistir.*

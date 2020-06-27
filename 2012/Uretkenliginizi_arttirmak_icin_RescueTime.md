@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Genel, Servisler
 ---
+# Üretkenliğinizi arttırmak için
 Genelde mail ile aldığım sorular nasıl bu kadar çok işi beraber
 götürebildiğim veya nasıl olup da bu kadar üretken olabildiğim gibi
 ilginç konularla alakalı oluyor :) Gerçeği söylemek gerekirse ideal
@@ -88,3 +89,5 @@ azından benim süper işime yaradı, yarıyor :)
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-5-23 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 1bda864d-a1b3-48cb-9d39-262592a0ff18
 ---
+# WPF kontrollerinin görselliğini yazıcıya göndermek ;)
 Bu aralar hızlıca bitirmem gereken bir WPF uygulaması üzerine
 çalışıyorum :) O nedenle pratik çözümler üretmem gerekiyor ve tabi ki
 bunları sizinle de paylaşmak istiyorum. Dün WPF içerisindeki bir
@@ -59,3 +60,5 @@ zaten :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-8 tarihinde yayinlanmistir.*

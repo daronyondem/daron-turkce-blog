@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 93948349-0320-453d-9e6d-3db95d44c4c4
 ---
+# TechEd 3. Gün
 İşte üçüncü gün :) Dün akşam geç yatmış olmanın etkisi ile bugün biraz
 geç geldim TechEd'e. Doğrudan Silverlight Booth'a geçerek görevimin
 başında yerimi aldım. Silverlight Booth'da gerçekten ilginç soruları
@@ -66,3 +67,5 @@ Yarın son günüm ve sonrasında İstanbul'a geri dönüp 20 saat içerisinde
 de Los Angeles'a uçacağım PDC için. Bakalım daha neler olacak!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-11 tarihinde yayinlanmistir.*

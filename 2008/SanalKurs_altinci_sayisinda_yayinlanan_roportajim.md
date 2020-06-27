@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 6dd16fdc-ae9a-429e-9f1b-34e66a26766f
 ---
+# SanalKurs altıncı sayısında yayınlanan röportajım...
 Sanalkurs.net'i duyanlarınız vardır. Sanalkurs.net'in bir de sanal
 ortamda dağıtılan **SanalKurs** adında dergisi var. Derginin altıncı
 sayısının yayınlandığı bugünlerde ben de dergide bir röportaj ile yerimi
@@ -24,3 +25,5 @@ Dergiye aşağıdaki adresten ulaşabilirsiniz;
 <http://www.sanalkurs.net/e-dergi-6.html>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-16 tarihinde yayinlanmistir.*

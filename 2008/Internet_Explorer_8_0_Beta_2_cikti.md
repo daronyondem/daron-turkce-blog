@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 3be05226-99f9-445f-ad32-e62133bae16f
 ---
+# Internet Explorer 8.0 Beta 2 çıktı!
 Dün Internet Explorer 8.0'ın **Beta 2**'si duyuruldu. Ben de çok kısa
 zaman içerisinde bu konuda detaylı yazılar yazacağım. Bu sabah da Swiss
 Hotel'de Microsoft'un **Internet Explorer 8.0** ön lansmanı vardı. Bir
@@ -33,3 +34,5 @@ aşağıdaki linke tıklayabilirsiniz;
 <http://www.microsoft.com/windows/internet-explorer/beta/>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-30 tarihinde yayinlanmistir.*

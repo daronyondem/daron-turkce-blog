@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: MultiTouch, Windows 7, WPF
 old.EntryID: 26e059f5-c044-4e70-aa01-b2bea2dc7afe
 ---
+# Windows 7 için Multitouch programlama.
 Windows 7 ile beraber gelen Multitouch desteği bugünlerde çok yeni
 donanımlar ile daha da hayatımızın içine giriyor. Artık birden çok
 dokunma noktasını destekleyen ekranlar dizüstü bilgisayarlara kadar
@@ -692,3 +693,5 @@ Hepinize kolay gelsin.
 MB)](media/Windows_7_icin_Multitouch_programlama/13082009_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-8-14 tarihinde yayinlanmistir.*

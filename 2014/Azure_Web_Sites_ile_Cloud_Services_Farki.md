@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Screencast, Video, Windows Azure
 ---
+# Azure Web Sites ile Cloud Services arasındaki fark nedir?
 Geçen gün mailgroup'ta arkadaşlardan birinin sorduğu bir soru üzerine
 video çekme kararı aldım :) Böyle gelen sorulara bazen ilk tepkim "Yahu
 o kadar yazı yazıyoruz okusanıza kardeşim" :D şeklinde olsa da sanırım
@@ -19,3 +20,5 @@ Sites ile Cloud Services arasındaki fark nedir?**" Umarım işinize yarar.
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-2-27 tarihinde yayinlanmistir.*

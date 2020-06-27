@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Expression Studio, Silverlight
 old.EntryID: c599684d-04ea-4aca-a7cb-971c384ba71a
 ---
+# Türkiye'nin ilk Silverlight ve Expression Studio Eğitimi
 Türkiye'nin ilk **Silverlight** ve **Expression Studio** eğitimini
 Microsoft İstanbul ofislerinde bugün sonlandırdık. Üç günlük yoğun bir
 maraton sonrasında yaptığım anketlerde gelen olumlu yorumlardan yola
@@ -30,3 +31,5 @@ Expression Studio serisini, Silverlight 1.0, 1.1 ve WPF'i inceleme
 Eğitime katılan herkese tekrar teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-26 tarihinde yayinlanmistir.*

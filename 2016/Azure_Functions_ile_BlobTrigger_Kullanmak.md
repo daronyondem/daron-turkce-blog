@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 112
 Tags: Azure Functions
 ---
+# Azure Functions ile BlobTrigger Kullanmak
 Azure Functions aslında bakarsanız eski WebJobs'ın üzerinden ilerlenilerek geniştirilmiş bir hizmet. O nedenle ikisi arasında süper benzerlikler var. Birazdan anlatacaklarım WebJobs deneyimi olanlar için epey tanıdık gelecektir. Nitekim 2014'te tam da bu konuda [WebJobs yazısı](http://daron.yondem.com/software/post/WebJobs_Giris_ve_Bloblarla_Kullanimi) yazmıştım :) 
 
 Gelelim konumuza, olayımız Azure Functions için farklı triggerlar kullanmak. Bunlardan [**httpTrigger**'ı geçen bir yazıda](http://daron.yondem.com/software/post/Azure_Functions_ile_ilk_Serverless_Maceramiz) görmüştük. Bu yazıda ise **blobTrigger**'a bakarak Azure Functions için **Input Binding** konusunu da göreceğiz.
@@ -120,3 +121,5 @@ Yukarıdaki kod ise final Azure Functions kodumuz. Kodun imzasında bakarsanız 
 İşte hepsi bu kadar, böylece bir input trigger olarak blob alıp sonra da output binding ile blob çıkarmış olduk. Bunu da bir Azure Function olarak deploy edebiliyoruz :) Eski WebJobs bilenler için tekrar uyarımı geçiyim, Azure Functions zaten WebJobs üzerinde çalışıyor, ana farklılıklardan biri "Consumption Plan", yani deployment modeli. Yakında her iki altyapıyı karşılaştıran bir yazı yazmayı planlıyorum ;)
 
 Görüşürüz. 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-3 tarihinde yayinlanmistir.*

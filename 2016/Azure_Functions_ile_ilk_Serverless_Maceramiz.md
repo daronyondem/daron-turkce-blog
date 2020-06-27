@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 100
 Tags: Azure Functions
 ---
+# Azure Functions ile ilk Serverless Maceramız
 Azure Functions konusunda uzun süredir yazı yazmak istiyordum. Geri durmamın nedeni ise Visual Studio içerisindeki Tooling'inin rezalet olması, veya başka bir deyişle aslında Tooling'inin olmamasıydı :) Azure Functions kullanımı için bugüne kadar tavsiye edilen kullanım yöntemi tamamen Azure Portalı'ndaki araçlarla kısıtlıydı. Bugün Azure Functions için Tooling'in Preview sürümü duyurulunca ben de hemen hızlıca bir yazı yazmak istedim.
 
 ### Azure Functions neden bu kadar seni heyecanlandırıyor?
@@ -115,3 +116,5 @@ Deployment sonrasında Azure Portal'ına giderseniz Function'ı görebilir ve er
 Yukarıdaki ekran görüntüsünde sağ tarafta yazdığımız Function'ı, sol tarafta gerekli Authorization Key'i ve ortada da Visual Studio'da yazdığımız kodu bulabilirsiniz. 
 
 İlk Serverless maceramız hepimize hayırlı olsun ;) Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-1 tarihinde yayinlanmistir.*

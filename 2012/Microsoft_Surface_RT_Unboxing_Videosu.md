@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Unboxing, Windows 8
 ---
+# Microsoft Surface RT Unboxing Videosu
 Hatırlayanlarınız olacaktır geçenlerde [Windows Phone 8 Lumia 920 ile
 ilgili bir "unboxing"
 videosu](http://daron.yondem.com/tr/post/Windows_Phone_8_Lumia_920_Unboxing)
@@ -19,3 +20,5 @@ yayında. Umarım beğenirsiniz ;) Yorumlarınızı bekliyorum :)
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-11-9 tarihinde yayinlanmistir.*

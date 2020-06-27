@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Eğitimler
 old.EntryID: 9fb323f7-996a-4cbd-b025-ce7e5a35e80c
 ---
+# ASP.NET AJAX Eğitimleri
 Uzun süredir gerçekleştirmeyi istediğim AJAX eğitimlerinin tarihlerini
 sonunda belirleyebildik. **MayaSoft Bilişim Akademisi’**nde
 gerçekleştireceğimiz eğitimleri toplam üç kur olarak düzenliyoruz.
@@ -31,3 +32,5 @@ bültenini](http://www.mayasoft.com.tr/bulten/ajax/mayasoft.htm)
 inceleyebilirsiniz.\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-7-5 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 2bd3aaae-d404-4b20-829e-495d9e470b24
 ---
+# Hazır Silverlight 2.0 Kontrol Şablonları
 **Silverlight 2.0** ile beraber gelen **Resource** yapısından ve kontrol
 şablonlarından daha önceki [bir
 yazımda](http://daron.yondem.com/tr/post/64891675-eba7-4cad-88a5-70cb3d148993)
@@ -34,3 +35,5 @@ yazılımcılara yardımcı olur :)
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-25 tarihinde yayinlanmistir.*

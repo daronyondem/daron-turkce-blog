@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure'da Local Storage kullanımı
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/Windows_Azure_Local_Storage_kullanimi_SDK2_2)
@@ -77,3 +78,5 @@ yaptığımız IO işlem yoğunluğuna göre ek bir para vs ödememiz gerekmiyor
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-5-15 tarihinde yayinlanmistir.*

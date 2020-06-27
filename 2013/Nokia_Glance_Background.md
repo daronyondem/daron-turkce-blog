@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Nokia, Windows Phone 8
 ---
+# Nokia Glance Background
 Son update'ler ile beraber AMOLED ekranlara sahip Lumia'lara Glance
 özelliğinin geldiğini tüm Lumia sahipleri farkına varmıştır. Amber
 update'i ile beraber gelen bu özellik sayesinde lock screen'in önünde
@@ -46,3 +47,5 @@ yaratıcı fikirler yok değil.
 Görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-19 tarihinde yayinlanmistir.*

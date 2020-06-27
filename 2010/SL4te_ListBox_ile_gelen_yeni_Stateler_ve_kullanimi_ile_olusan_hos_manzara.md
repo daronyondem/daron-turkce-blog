@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 9954fdcd-b67a-42a7-b82b-9ab7b86b7e1b
 ---
+# SL4'te ListBox ile gelen yeni State'ler ve kullanımı ile oluşan hoş manzara.
 Silverlight içerisinde uzun süredir sahip olduğumuz primitive
 kontrollerden biri sayılabilecek ListBox'ı eminim ki bolca
 kullanıyorsunuz. Bu makalede değineceğimiz ufak nokta ise ListBox'a
@@ -122,3 +123,5 @@ Hepinize kolay gelsin!
 KB)](media/SL4te_ListBox_ile_gelen_yeni_Stateler_ve_kullanimi_ile_olusan_hos_manzara/02092010_7.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-9-3 tarihinde yayinlanmistir.*

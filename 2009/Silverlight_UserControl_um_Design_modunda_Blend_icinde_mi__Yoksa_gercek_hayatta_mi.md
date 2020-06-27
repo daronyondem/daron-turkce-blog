@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: e1e64b9f-1109-4de2-9a38-e28c07b5faef
 ---
+# Silverlight UserControl'üm Design modunda Blend içinde mi? Yoksa gerçek hayatta mı?
 Bugün sizlerle ufak fakat bence bir o kadar da değerli bir ip ucu
 paylaşacağım. Üzerinde çalıştığımız projelerden birinde hiç hoş olmayan
 bir sorun ile karşılaştık. Aslında sorunun nedeni Visual Studio ve
@@ -219,3 +220,5 @@ Boolean bir değer döndürüyor.
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-16 tarihinde yayinlanmistir.*

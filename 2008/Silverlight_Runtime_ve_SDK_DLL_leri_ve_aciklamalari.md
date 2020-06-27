@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 1c242192-af12-4ec3-be3b-3b4b8c72a88f
 ---
+# Silverlight Runtime ve SDK DLL'leri ve açıklamaları
 Silverlight 2.0 ile beraber artık tüm yazdığımız kodların DLL olarak XAP
 dosyaları içerisinde istemciye gönderildiği bir ortamda harici DLL
 kütüphaneleri de kullanabiliyor olmak büyük avantajlar getiriyor. Tabi
@@ -68,3 +69,5 @@ gerekli DLL'leri projenize referans olarak da eklemeniz gerekecektir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-24 tarihinde yayinlanmistir.*

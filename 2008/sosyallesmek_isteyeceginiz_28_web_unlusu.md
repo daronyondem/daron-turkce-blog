@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 10c0d1b5-8768-4b83-a4a9-4f35b3e6f1a1
 ---
+# sosyalleşmek isteyeceğiniz 28 web ünlüsü
 Samimi olmam gerek :) Siberkultur.com'u sevgili **Eren Emre Kanal** ile
 Microsoft Partner Eğitimi'nde tanıştıktan sonra takip etmeye başladım.
 Çok iyi hatırlıyorum, [Türkiye'nin ilk Silverlight ve Expression
@@ -31,3 +32,5 @@ Listeye bakınca bir sürü sosyal topluluk sitesi logosu gördüm :) Onları
 ederim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-13 tarihinde yayinlanmistir.*

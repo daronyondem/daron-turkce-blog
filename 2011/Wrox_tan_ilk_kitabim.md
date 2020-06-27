@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# 14 MVP ile Wrox'tan ilk kitabım! Real World .NET, C#, and Silverlight
 Ufak bir çocukken :) yok abartmiyim ama çoook önceleri hayal ettiğim
 şeyler vardı. Sanırım biraz şanslıyım, hayal ettiklerimi büyük oranda
 gerçekleştirebilir oldum bugüne kadar. Zamanında bir kitap sahibi olmak
@@ -70,3 +71,5 @@ Gerçeklerle de sizi yüzleştirdikten sonra :) bu haberin sevinciyle :)
 hepinizi öpüyorum!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-14 tarihinde yayinlanmistir.*

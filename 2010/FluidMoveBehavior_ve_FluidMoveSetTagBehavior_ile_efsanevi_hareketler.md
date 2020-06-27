@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 0353ed49-03f5-4533-9cf9-c0abd644d71d
 ---
+# FluidMoveBehavior ve FluidMoveSetTagBehavior ile efsanevi hareketler.
 Daha önce
 [FluidMoveBehavior'a](http://daron.yondem.com/tr/post/024c6816-2639-4db7-8cdd-1ea688e6925d)
 hızlıca göz atmıştık. Bu yazımızda ise FluidMoveBehavior'ı bir başka
@@ -224,3 +225,5 @@ Hepinize kolay gelsin ;)
 KB)](media/FluidMoveBehavior_ve_FluidMoveSetTagBehavior_ile_efsanevi_hareketler/04092010_6.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-9-5 tarihinde yayinlanmistir.*

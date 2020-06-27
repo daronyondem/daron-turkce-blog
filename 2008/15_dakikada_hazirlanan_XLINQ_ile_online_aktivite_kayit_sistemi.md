@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, LINQ, ASP.NET
 old.EntryID: 74e0f3a3-2c6c-4e80-9667-8adaec06e7bd
 ---
+# 15 dakikada hazırlanan XLINQ ile online aktivite kayıt sistemi
 Ücretsiz 24 saatlik Silverlight eğitimi ile ilgili duyuru içerisindeki
 kayıt formunu görmüşsünüzdür. Maalesef bu form sistemini yapmamı
 bekleyerek duyuruyu üç gün kadar geç yapabildik :) Bu aralarda ciddi çok
@@ -76,3 +77,5 @@ Hepinize kolay gelsin.
 KB)](media/15_dakikada_hazirlanan_XLINQ_ile_online_aktivite_kayit_sistemi/28022008_1.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-29 tarihinde yayinlanmistir.*

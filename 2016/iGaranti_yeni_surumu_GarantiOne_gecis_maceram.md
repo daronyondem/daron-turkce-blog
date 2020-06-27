@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 110
 Tags: Dertli Kerem
 ---
+# iGaranti'nin yeni sürümü GarantiOne'a geçiş maceram.
 Twitter'dan takip edenler geçen günlerde Garanti Bankası ile depreşmelerimi fark etmişlerdir. Mesele aslında mobil uygulaması olan çoğu şirkete örnek olabilecek nitelikte. O nedenle ben de konuyu bloğuma taşıyıp yorumlarımı paylaşmak istiyorum.
 
 Garanti Bankası'nın neyi yanlış yaptığını anlatmadan önce aslında ne yapmak istediklerini anlatayım. Garanti Bankası'nın iGaranti denilen bir şubesiz bankacılık girişimi var(dı). Finansbank'ın EnPara'sı gibi bir hareketten bahsediyoruz. Türkiye'deki bankacılık sektörünü süper yakından takip etmesem de son birkaç yıldır gördüğüm kadarı ile bu konu epey trend bir konu. Bir dönem nasıl her yerde çiğ köfteciler açıldı ve sonra doğal seleksiyona uğradıysa (Umarım sadece benim yakaladığım bir tespit değildir bu) bu konuda da aynı şeyin olacağı zaten belliydi. Sonuç itibari ile Garanti Bankası iGaranti'yi kapatma kararı almış. Zaten marka olarak da bana garip geliyordu. Bu kadar Apple markalarını andıran bir marka seçimi ilginç değil mi? Benim iGaranti maceram "*neler yapmış bakalım Garanti?*" sorusu ile başladı. Sonrasında EFT ve Havale'nin ücretsiz olması dolayısıyla iGaranti'yi sadece bu işlemler için kullanır oldum. 5TL EFT parası vermek can sıkabiliyor. iGaranti'nin sevdiğim bir diğer özelliği ise bir sosyal ağ oluşturabilmeniz. Sıkça ödeme yaptığınız kişileri biriktirip farklı ödeme yöntemleri kullansanız da hızlıca para gönderebiliyorsunuz. Örneğin Mehmet'e cep telefonu numarası ile para gönderiyorsam Mehmet'i seçtiğimde direk o seçenek geliyordu. Normal şartlarda önce yöntem sonra hedef seçmeniz gerekirken iGaranti'de hedef seçip hedefin özelliklerine göre yöntem seçmek daha kolay oluyordu. Geçmiş zaman işte...
@@ -51,3 +52,5 @@ Mevcut müşteriler (eski iGaranti müşteriler) yeni GarantiOne'ı kullanmaya d
 Garanti Bankası tüm bunları düşünebilecek birilerini işe alsaydı :) müşteri deneyimi daha iyi olurdu. Laf soktuğumun farkındayım :) Bir müşteri olarak bu şekilde kinayeli bir eleştiri hakkım olduğunu düşünüyorum. 
 
 Son olarak, ben GarantiOne kullanıp ücretsiz EFT ve Havale yapmaya devam edebiliyorum. Benim keyfim yerinde. Şimdi diğer 25 yaş üstü Garanti müşterileri düşünsün. Unutmadan, iGaranti'deki en sevdiğim özellik olan "önce hedef sonra yöntem seçerek" para gönderme özelliği GarantiOne'da yok. Downgrade için teşekkürler Garanti!
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-10-11 tarihinde yayinlanmistir.*

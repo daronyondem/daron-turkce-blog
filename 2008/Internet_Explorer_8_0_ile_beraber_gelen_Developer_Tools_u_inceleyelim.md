@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 349de328-1866-4210-bd2c-409c01121ff5
 ---
+# Internet Explorer 8.0 ile beraber gelen Developer Tools'u inceleyelim.
 Internet Explorer içerisinde en büyük eksikliklerden biri de biz yazılım
 geliştiriciler için gerekli profilleme de hata bulma araçlarına sahip
 olmamasıydı. Bunun için bazı durumlarda harici eklentiler kullanırken
@@ -142,3 +143,5 @@ de gelişmeye devam eder.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-12 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Basic 2008, Visual Basic .NET
 old.EntryID: 2b619b4b-b0c6-4808-a826-04b1707415ef
 ---
+# Yazdığınız kodun kalitesini arttırmak adına birkaç ip ucu.
 Kendi kodumuzu hepimize kendimiz yazarız ve çoğu zaman da kafamıza göre
 yazarız. Oysa bir ekip içerisinde çalışırken ortak bir dil kullanmak
 gerekir. Hatta buna kurum bazında bakarsak daha da ileri giderek
@@ -62,3 +63,5 @@ hedefliyorum.
 Ekleyecekleriniz varsa yorum olarak alabilirim ;) Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-23 tarihinde yayinlanmistir.*

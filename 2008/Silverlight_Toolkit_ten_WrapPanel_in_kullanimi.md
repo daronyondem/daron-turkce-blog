@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: c3e4506a-ebf5-4b8f-a98d-901dcdd1cdf0
 ---
+# Silverlight Toolkit'ten WrapPanel'in kullanımı.
 Layout kontrolleri XAML ile arayüzler oluştururken "olmazsa olmazlar"
 listemizin en başında geliyor. Silverlight 1.0'daki Canvas kontrolünden
 sonra 2.0'da birçok kontrol yardımımıza yetişse de maalesef WPF'deki
@@ -341,3 +342,5 @@ artık az geldiği için ListBox'ın scroll barları da gözükmüyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-13 tarihinde yayinlanmistir.*

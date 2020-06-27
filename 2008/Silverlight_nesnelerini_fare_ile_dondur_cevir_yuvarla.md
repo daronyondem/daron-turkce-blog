@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: a2b9ef4b-0d68-47e3-9f9b-5d28f2e84ff2
 ---
+# Silverlight nesnelerini fare ile döndür / çevir / yuvarla
 Silverlight içerisinde fare ile nesneler arasında bir etkileşim kurmak
 için JavaScript ile çok farklı kodlar yazılabilir. Bu makalede herhangi
 bir nesneyi fare ile tutarak sahnede kendi etrafında çevirmeyi
@@ -341,3 +342,5 @@ istediğimiz gibi döndürebiliyoruz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-16 tarihinde yayinlanmistir.*

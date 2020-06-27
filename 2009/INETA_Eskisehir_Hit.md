@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, LINQ, Silverlight 2.0, WPF, ASP.NET
 old.EntryID: a0963239-d90a-4809-ac4c-fd66bbd86630
 ---
+# INETA Eskişehir Hit
 Hafta sonu **Eskişehir'deyiz**! **Osmangazi Üniversitesi** Fen Edebiyat
 Fakültesi (F5 Blok) Konferans Salonu'nda iki günlük bir program ile
 zevkli bir hafta sonu geçirmek isteyen herkesi bekliyoruz. Etkinlik
@@ -22,3 +23,5 @@ Etkinlik serisi tamamen halka açık ve herhangi bir şekilde kayıt olmanız
 gerekmiyor. Görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-2 tarihinde yayinlanmistir.*

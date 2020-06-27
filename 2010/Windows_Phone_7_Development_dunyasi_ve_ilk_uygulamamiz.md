@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4, Windows Phone 7, Windows Phone
 old.EntryID: 06f74e8e-372b-4574-9817-20c2975f52ea
 ---
+# Windows Phone 7 Development dünyası ve ilk uygulamamız
 Windows Phone 7 için developer araçları bir süre önce
 [MIX](http://daron.yondem.com/tr/post/10fab4d4-960f-4f20-b1db-0b54abbee4dd)
 konferkansında duyurulmuştu. Bu yazımızda söz konusu araçlara bir giriş
@@ -219,3 +220,5 @@ Hepinize kolay gelsin.
  
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-2 tarihinde yayinlanmistir.*

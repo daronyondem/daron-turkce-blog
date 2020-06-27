@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Haberler
 ---
+# Outlook.com IN, hotmail.com OUT
 Uzun zaman oldu böyle popüler haberler yazmayalı bloga :) İtiraf etmek
 gerekirse twitter çoğu zaman bu popüler haberlerin ışık hızı ile
 tüketildiği yer oluyor ve ben de genelde bu tarz haberleri[twitter
@@ -61,3 +62,5 @@ vermemiz mümkün olabilir gibime geliyor.
 Keşke OWA'da bu güzellikte olsa :) Görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-8-1 tarihinde yayinlanmistir.*

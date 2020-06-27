@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: CSS, HTML, JavaScript
 old.EntryID: c6faca2a-77b1-4a32-b0d8-7bec236f2c97
 ---
+# Internet Explorer Sürümleri ve FireFox İçin Ayrı CSS Tanımlamarı Nasıl Yapılır?
 Web tasarımları ile uğraşırken HTML ve CSS kodlarını düzenleme
 aşamasında en sıkıntılı sorunlardan biri farklı tarayıcılarda aynı
 görsel sonucu almaya çalışmaktır. Bazen bu sorunu çözmek hiç mümkün
@@ -81,3 +82,5 @@ kontrolleri yapacak olan uygun JavaScript fonksiyonunu
 Kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-5-10 tarihinde yayinlanmistir.*

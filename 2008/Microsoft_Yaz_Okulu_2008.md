@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 4614247d-7535-4339-a0e9-d5ef651ebb7d
 ---
+# Microsoft Yaz Okulu 2008
 **Microsoft Yaz Okulu** tamamen ücretsiz olup 20 gün süreyle
 katılımcılara yoğun bir programın aktarılmasını öngörüyor. Bu yıl 12.
 düzenlenecek olan programın detaylarına ve başvuru formuna aşağıdaki
@@ -22,3 +23,5 @@ Babaoğlan**'ın blogundaki
 okumanızı tavsiye ederim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-23 tarihinde yayinlanmistir.*

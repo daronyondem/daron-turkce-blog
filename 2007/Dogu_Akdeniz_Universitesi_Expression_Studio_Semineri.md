@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Seminer, WPF
 old.EntryID: 0d02b69a-0558-4820-951f-eaf6bb175269
 ---
+# Doğu Akdeniz Üniversitesi Expression Studio Semineri
 **KKTC, Doğu Akdeniz Üniversitesi**'ndeki Silverlight seminerinden sonra
 dün bir de **Expression Studio** semineri yaptık. Özellikle WPF ile iki
 ve üç boyutlu animasyonların hazırlanması ve programatik yönetimi
@@ -29,3 +30,5 @@ Semineri](media/Dogu_Akdeniz_Universitesi_Expression_Studio_Semineri/28122007_3.
 *KKTC, Doğu Akdeniz Üniversitesi Expression Studio Semineri*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-30 tarihinde yayinlanmistir.*

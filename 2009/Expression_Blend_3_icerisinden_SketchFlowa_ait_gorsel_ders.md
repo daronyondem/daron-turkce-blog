@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight 3.0, WPF
 old.EntryID: e0d3ac8b-9d3f-4bd7-9477-5c1a4116a449
 ---
+# Expression Blend 3 içerisinden SketchFlow'a ait görsel ders.
 Expression Blend 3 ile beraber gelen ilginç özelliklerden biri de
 **SketchFlow**. Sketchflow hakkında sizler için hazırladığım bu videoyu
 umarım beğenirsiniz.
@@ -27,3 +28,5 @@ ziyaret edebilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-8 tarihinde yayinlanmistir.*

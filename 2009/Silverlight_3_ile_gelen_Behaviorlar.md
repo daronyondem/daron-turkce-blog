@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: eb385093-86eb-4cb3-96f3-668c036596d7
 ---
+# Silverlight 3 ile gelen Behaviorlar
 Silverlight 3 ile beraber gelen en güzel özelliklerden biri de
 **Behavior** yapısı. Behavior'lar bize normalde programatik olarak
 yaptığımız işlevsellikleri XAML içerisinde tanımlama şansı tanıyan
@@ -242,3 +243,5 @@ makale ile karşınıza olacağım.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-8-21 tarihinde yayinlanmistir.*

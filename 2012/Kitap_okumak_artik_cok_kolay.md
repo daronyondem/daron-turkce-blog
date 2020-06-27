@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Kitap okumak artık çok kolay!
 Kitap okumak bazıları için hala korkulu bir "edinilemeyen alışkanlık"
 olarak durur. Ben bunu biraz da "çalışkanlık" ve "tembellik" arasındaki
 ilişkiye benzetiyorum veya az-çok uyuma alışkanlığı gibi birşey. Birine
@@ -133,3 +134,5 @@ kitaplar ekleyerek canımı sıkmayın :P veya üye olduğunuz anda
 Görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-12-4 tarihinde yayinlanmistir.*

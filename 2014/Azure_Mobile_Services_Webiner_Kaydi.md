@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Windows 8, Windows Azure, Windows Phone 8
 ---
+# Azure Mobile Services Webiner Kaydı
 Dün akşam 22.00'da başlayarak [Azure Mobile Services
 webinerimizi](http://daron.yondem.com/tr/post/Azure_Mobile_Services_Webcast_9_Mayis)
 gerçekleştirdik. Saat 23.30'a kadar kalan herkese çok teşekkürler :)
@@ -18,3 +19,5 @@ iyi seyirler!
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-5-10 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Geçmiş ve gelecekle ilgili sizin değerlendirmeleriniz.
 Biraz önce bir bakiyim dedim de en son 2009'da [böyle bir
 anket](http://daron.yondem.com/tr/post/d13fee74-fe21-4eb5-8645-1782e7b8e21b)
 yapmışım :) Konumuz ne mi? Özünde sizden geri dönüş almak. Yaptıklarım,
@@ -24,3 +25,5 @@ ayırıp doldurmanızı rica ediyorum. Hepsi bu kadar :)
 Sonuçlar benim için çok anlamlı oldu. ]**
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-21 tarihinde yayinlanmistir.*

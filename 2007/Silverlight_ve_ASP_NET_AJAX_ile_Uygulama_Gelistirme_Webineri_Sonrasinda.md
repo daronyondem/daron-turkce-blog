@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Studio, Silverlight, Webiner
 old.EntryID: 8b565c36-b033-41b1-8e39-ce6170bee9d5
 ---
+# Silverlight ve ASP.NET AJAX ile Uygulama Geliştirme Webineri Sonrasında
 Bugün **Microsoft Kurumsal Webiner** serisinin ilk webinerini
 "**Silverlight ve ASP.NET AJAX ile Uygulama Geliştirme**" konusunda
 gerçekleştirdik. Duyuruların yavaş yavaş yayılıyor olmasının yanı sıra
@@ -74,3 +75,5 @@ değişiklik olunca kaynaktan tekrar yükleyerek sayfaya yansıtmanız gerek.
 Katılan herkese teşekkürler. Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-8 tarihinde yayinlanmistir.*

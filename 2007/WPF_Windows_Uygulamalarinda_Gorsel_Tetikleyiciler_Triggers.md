@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: c9813684-2844-4bb1-ab69-fda6d152e42a
 ---
+# WPF Windows Uygulamalarında Görsel Tetikleyiciler (Triggers)
 WPF uygulamarında görsel öğelerin ön planda olduğu kesin. Bu noktada
 uzmanı olmamız gereken konulardan biri de tetikleyicileri (trigger)
 nasıl kullanacağımızı bilmek olacaktır. Farklı tetikleyiciler ile WPF
@@ -399,3 +400,5 @@ Hepinize kolay gelsin.
 KB)](media/WPF_Windows_Uygulamalarinda_Gorsel_Tetikleyiciler_Triggers/06092007_3.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-7 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ADO.NET Data Services, AJAX, ASP.NET 3.5, SharePoint, Silverlight 2.0, ASP.NET
 old.EntryID: bc58623d-15b5-4438-868c-70ea78835787
 ---
+# INETA Professional Hit
 Uzun bir aradan sonra tekrar İstanbul'da güzel bir etkinlik ile
 karşınızdayız. Ankara ve İzmir derken biraz İstanbul'u boşladığımızı
 kabul ediyorum. Ama önümüzdeki dönemde bolca telafilerimiz olacak.
@@ -77,3 +78,5 @@ gerekiyor.
 Çok yakında giriş seviyesi etkinliklerde de görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-15 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 26
 Tags: Haberler, Visual Studio 2015
 ---
+# Build 2016 1. Gün
 Bugün Microsoft'un Build 2016 konferasının ilk günü gerçekleşti. Her zamanki gibi konferansın ilk ve ikinci günlerinde birer Keynote konuşması bulunuyor ve bu konuşmalarda konferansın en büyük duyuruları gerçekleşiyor. Eğer uzun, uzun yazı okumak istemiyorsanız hemen aşağıda ilk günün değerlendirmesini yaptığımız bir videoyu paylaşıyorum :)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w3ftCHBnI1s" frameborder="0" allowfullscreen></iframe>
@@ -44,3 +45,5 @@ Azure tarafında Machine Learning yatırımının bir meyvesi de [Cognitive API]
 İlk günden haberler bu kadar. Haberlerin haricinde kişisel yorumlarımı da merak ediyorsanız :) yukarıdaki videoyu kaçırmayın derim.
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-3-31 tarihinde yayinlanmistir.*

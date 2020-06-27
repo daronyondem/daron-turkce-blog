@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 110
 Tags: Azure Functions
 ---
+# Azure Functions ve Event Hub Trigger kullanımı
 Eğer IoT taraflarıyla uğraştıysanız Azure Event Hub ile de karşılaşmış olmanız olası. Ben bu yazıda Event Hub'ın detaylarını ileriki bir yazıya bırarak Event Hub deneyimizin olduğunu varsayarak Azure Functions entegrasyonundan bahsedeceğim. Azure Functions ile beraber Event Hub ile entegre olabilmek adına hem **eventHubTrigger** geliyor hem de input ve output binding özellikleri geliyor. 
 
 ### Test ortamımız
@@ -170,3 +171,5 @@ Gördüğünüz üzere Event Hub Trigger'ın bindinginde nesne tipi olarak **Eve
 
 Yukarıdaki ayarları varsayılan değerleri ile yazdım. **maxBatchSize** bir defada event hub'dan alınacak mesaj sayısını belirliyor. **PrefetchCount** da tahmin edebileceğiniz üzere aslında Azure Functions SDK'in arkaplanda kullandığı **EventProcessorHost** ile ilgili. Toplamda ne kadar mesajın işlenme öncesinde belleğe alınması gerektiğini belirtiyor. Azure Functions SDK mesaj göndermek için **EventHubClient** ve dinlemek için **EventProcessorHost** kullanıyor. 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-8 tarihinde yayinlanmistir.*

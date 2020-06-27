@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: API Management, Windows Azure
 ---
+# Azure API Management Policy Kullanımı
 Bir önceki
 [yazıda](http://daron.yondem.com/software/post/Azure_API_Management_Giris)
 Azure API Management konusuna hızlı bir giriş yapmıştık. Basit bir
@@ -117,3 +118,5 @@ gerek.
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-10-28 tarihinde yayinlanmistir.*

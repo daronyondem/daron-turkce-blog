@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight
 old.EntryID: 4257287e-d5fe-4d70-a71c-64adc28471a8
 ---
+# Genç Girişimciler Kulübü Silverlight Semineri
 Dün **[Genç Girişimciler Kulübü](http://www.gencgirisimciler.org/)**
 çatısında çok verimli bir **Silverlight** semineri gerçekleştirdik.
 Seminer boyunca giriş seviyesinden Silverlight ile farklı veri
@@ -28,3 +29,5 @@ Katılan herkese çok teşekkürler. Bir başka seminerde görüşmek dileği
 ile...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-20 tarihinde yayinlanmistir.*

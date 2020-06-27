@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: C#, Silverlight 4, WPF
 old.EntryID: cf97c876-02ec-46bb-aa52-d5b20fe9a033
 ---
+# Balıkesir Üniversitesi Seminerlerim
 Bugün Balıkesir'deydik! Balıkesir Üniversitesi'nden sevgili MSP'miz
 **Armağan Semih Göçmen**'ın organizasyonu ile bir günlük hızlandırılmış
 bir seminer serisi düzenledik. Silverlight 4, WPF, IIS 7, C\# gibi
@@ -30,3 +31,5 @@ Katılan herkese ayrıca çok teşekkürler. Balıkesiri tanımak ve sizlerle
 beraber olmak süperdi! En kısa zamanda tekrar görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-12 tarihinde yayinlanmistir.*

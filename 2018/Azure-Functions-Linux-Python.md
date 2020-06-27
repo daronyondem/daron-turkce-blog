@@ -6,6 +6,7 @@ IsListed: True
 MinutesSpent: 125
 Tags: Serverless, Azure Functions, Microsoft Connect
 ---
+# Azure Functions ile Linux'te Pyhton
 
 Geçenlerde Microsoft'un Connect adındaki online etkinliği gerçekleşti. Her Microsoft konferansında olduğu gibi bu etkinlikte de birçok yenilik duyuruldu. Bu yeniliklerden biri de Azure Functions tarafında **Consumption Plan** için Linux desteği oldu. 
 
@@ -111,3 +112,5 @@ Eğer isterseniz yukarıdaki gibi direk *func host start* diyerek localde de fun
 
 Böylece kabaca bir Python function'ı Linux based consumption plan'da çalıştırdık. Tabi tüm bunları deneyecek olursanız şu an hem Linux üzerinde çalışan Azure Functions'ın hem de Python desteğinin **Preview** olduğunu unutmayın derim. Her tür gariplikle karşılaşabilirsiniz. Örneğin ben testlerimde bolca gereksiz 502'ler aldım Azure ortamında :) Preview'dur, olur böyle şeyler ;) diyerek yazıyı burada sonlandırıyorum. Görüşmek üzere!
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2018-12-10 tarihinde yayinlanmistir.*

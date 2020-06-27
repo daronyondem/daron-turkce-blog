@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 7.5
 ---
+# Windows Phone 7.5 ve benim ilk WP uygulamam çıktı
 Haberi olmayanlar için hemen duyuralım buradan da; dün **Windows Phone
 7.5** çıktı! WP7 üzerine bir update olarak gelen yeni işletim sisteminin
 duyurulması ile beraber tabi ki herkes "update" düğmelerine saldırdı :)
@@ -137,3 +138,5 @@ telefonlarında görmemiz?
 Kalın sağlıcakla ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-28 tarihinde yayinlanmistir.*

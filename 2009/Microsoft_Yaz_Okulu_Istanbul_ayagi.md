@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 6314f263-8393-41b9-9d2b-6cee8cff72e3
 ---
+# Microsoft Yaz Okulu, İstanbul ayağı...
 Son iki gündir **Microsoft Yaz Okulu**'nun İstanbul ayağında Silverlight
 anlatıyordum. İstanbul yaz okulu öğrencileri doğrudan Microsoft
 ofisinden olmanın tadını çıkartmıyorlar dersem yalan olur :) Ama itiraf
@@ -29,3 +30,5 @@ SL ile oyun programlama gibi şeyler düşünüyorsanız bence kaçırmayın ;)
 Haftaya görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-8-12 tarihinde yayinlanmistir.*

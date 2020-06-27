@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight 3.0, WPF
 old.EntryID: e0d0be38-40f8-4f2a-bd25-ae1ec516ceb9
 ---
+# Expression Blend ve SketchFlow
 Neredeyse her tür yazılım projesinde prototip geliştirmek çoğu zaman
 başvurduğumuz bir süreç oluyor. Bazen bu prototipleri sadece yapacağımız
 projenin fizibilitesini ölçmek amacı ile geliştirsek de bazen de
@@ -216,3 +217,5 @@ ileriye taşıyacağı kesin.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-6 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: a4826903-7a38-4992-aa04-eff13790ad8b
 ---
+# Organik Yazılım Günü tam organik bir ortamda yaşandı!
 Dün çok ilginç bir gün geçirdik hep beraber :) Sabah 08.30 gibi aldığım
 telefonda Yıldız Teknik Üniversitesi'nde bir trafo arızası nedeniyle
 elektriğin olmadığı bilgisi "**Organik Yazılım Günü**"müzün
@@ -48,3 +49,5 @@ Unutmadan :) Efsanevi fuji yağmurlarında yıkanmış fuji elmaları için
 Burak'a ÇOK teşekkürler :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-29 tarihinde yayinlanmistir.*

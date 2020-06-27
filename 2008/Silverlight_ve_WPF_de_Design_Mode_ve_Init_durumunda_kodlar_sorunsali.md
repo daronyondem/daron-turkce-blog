@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight 2.0, Visual Studio 2008, WPF
 old.EntryID: 51e42b27-c0db-41c1-aead-47490f9eb177
 ---
+# Silverlight ve WPF'de Design Mode ve Init durumunda kodlar sorunsalı.
 WPF veya Silverlight projelerinde **Inıt** durumu ile **PageLoad** veya
 **WindowLoad** event'ları arasındaki fark bazen ilk bakışta yokmuş gibi
 varsayılarak kodların doğrudan **Init** kısmına yazıldığını çok gördüm.
@@ -50,3 +51,5 @@ içerisinde kodlar çalıştırılmayacak. Oysa programı F5 ile compile edip
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-31 tarihinde yayinlanmistir.*

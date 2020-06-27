@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: MVP, MVP Summit
 old.EntryID: 4ab4f834-7754-42a3-ad17-5109254740b8
 ---
+# MVP Summit 2011 de geldi geçiyor!
 Son iki haftadır uzaklardayım :) Esas nedeni her sene gerçekleşen **MVP
 Summit** için **Seattle'a** gidiyor olmam. Bugün özellikle **Steve
 Ballmer**'ın konuşması ile beraber güzel bir tad kazanan MVP Summit
@@ -38,3 +39,5 @@ salonundaki günün ilk oturumu olan HTML5 oturumu ve günün son oturumu
 olan Pivot oturumunu ben sunacağım ;) Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-3-2 tarihinde yayinlanmistir.*

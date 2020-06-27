@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET
 old.EntryID: 5b00b378-2c9d-46d3-927c-b7e80dd3252a
 ---
+# Live Search XML Web Servisleri'ni Kullanarak Kendi Arama Motorunuzu Yaratın
 Hiç kendi arama motorunuzu programlamayı düşündünüz mü? Peki bu konuda
 hiç araştırma yaptınız mı? Emin olun hiç kolay bir iş değil. Onun yerine
 biraz kolaya kaçıp hazır arama motorlarından faydalanabiliriz. Gün
@@ -659,3 +660,5 @@ style="color:blue; ">Class</span></span>
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-28 tarihinde yayinlanmistir.*

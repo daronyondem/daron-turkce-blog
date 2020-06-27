@@ -8,6 +8,7 @@ Section: fitness
 MinutesSpent: 0
 Tags: 
 ---
+# Neşet Suyu İstanbul Koşu Parkuru
 İstanbul'da çokça koşmama rağmen bir türlü Neşet Suyu'nda koşma şansım
 olmamıştı. Sevgili dostum Cengiz Han sağolsun bu hafta sonu onun teklifi
 ile Neşet Suyu'nda koşmaya gittik. Orman ortamında koşmayı ben inanılmaz
@@ -96,3 +97,5 @@ araştırın derim.
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-8-2 tarihinde yayinlanmistir.*

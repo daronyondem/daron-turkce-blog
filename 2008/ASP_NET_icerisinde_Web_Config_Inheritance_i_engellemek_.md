@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
 old.EntryID: ea94b572-7e9c-4099-ae20-9503e26a9d9b
 ---
+# ASP.NET içerisinde Web.Config Inheritance'ı engellemek.
 Herhangi bir web sitesine bir ASP.NET uygulaması yerleştirdiğinizde
 otomatik olarak uygulama ile beraber Web.Config dosyasını da sunucuya
 yerleştirmiş olursunuz. Bazı durumlarda (benim blogda olduğu üzere)
@@ -65,3 +66,5 @@ uygulamalarınızı aynı alan adına yükleyebilirsiniz.
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-23 tarihinde yayinlanmistir.*

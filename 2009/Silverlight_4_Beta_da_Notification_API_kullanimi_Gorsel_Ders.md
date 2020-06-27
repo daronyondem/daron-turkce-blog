@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: caccde3a-c6f1-4cde-ab7a-8119cd62dc7e
 ---
+# Silverlight 4 Beta'da Notification API kullanımı - Görsel Ders
 Bu görsel dersimizde Silverligh 4 Beta ile beraber gelen Out Of Browser
 modunda kullanılabilen "Notification API"Yi inceliyoruz. Notification
 API ile beraber artık Desktop modundaki SL uygulamalarından da Outlook
@@ -28,3 +29,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-15 tarihinde yayinlanmistir.*

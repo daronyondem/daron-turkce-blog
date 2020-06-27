@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, Eğitimler, IIS 7.0, ASP.NET
 old.EntryID: f088bab6-38e8-4dab-af35-0445c827ebde
 ---
+# Microsoft Ankara Hoster Eğitimi
 Bugün **Microsoft Ankara** ofisinde hosting sağlayıcılara yönelik bir
 eğitimimiz var. IIS 7 ile beraber gelen yeni özelliklerin yanı sıra
 ASP.NET 3.5 ve programcıların dertlerinden bahsettik. Tabi hosting
@@ -28,3 +29,5 @@ KB)](media/Microsoft_Ankara_Hoster_Egitimi/09112008_1.pptx)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-7 tarihinde yayinlanmistir.*

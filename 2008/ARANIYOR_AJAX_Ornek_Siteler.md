@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 83708802-c6f6-4bb3-a1c9-f8acecccf7e1
 ---
+# ARANIYOR
 Artık hali hazırda ASP.NET AJAX kitabımın stokları tek haneli rakamlara
 düştüğüne göre :) rahatlıkla yenisinin (2. baskı değil) yolda olduğuna
 dair bilgileri sızdırabilirim. Tabi "yolda" derken bugün veya yarından
@@ -24,3 +25,5 @@ siteleri yeni kitabıma taşıyor olacağım. Tabi ki en önemli kriter söz
 konusu sitenin "yerli malı, yurdun malı" olması.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-2 tarihinde yayinlanmistir.*

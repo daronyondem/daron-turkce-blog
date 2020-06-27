@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Podcast, Windows 8, Windows Azure, Windows Phone 8
 ---
+# Haberler... Duyurular....
 Çoğunuz biliyorsunuz, ufak tefek haberleri bloga yazmıyorum
 genelde.[Twitter](http://www.twitter.com/daronyondem)
 ve[Facebook](http://www.facebook.com/daronyoendem) üzerinden
@@ -59,3 +60,5 @@ Bakalım kimler, neler yapıyor gençlerden :)
 İşte haberler şimdilik bu kadar :) Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-12-18 tarihinde yayinlanmistir.*

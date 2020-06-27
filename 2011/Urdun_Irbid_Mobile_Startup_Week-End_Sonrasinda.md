@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
 old.EntryID: f216f1c8-aed1-47ea-8e7c-49ace22fd31a
 ---
+# Ürdün, Irbid, Mobile Startup Week-End Sonrasında...
 Son üç gündür Ürdün'deyim :) Daha önceleri Amman şehrini birçok defa
 ziyaret ettiğim Ürdün'ün bu sefer Irbid şehrinde yapılan **Mobile
 Startup Week-End** etkinliğde konuşma şansım oldu. Startup
@@ -42,3 +43,5 @@ Ne düşündüğünüzü biliyorum ;) Türkiye'de de yakında WP7 etkinliklerimi
 olacak. Sıkı durun ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-24 tarihinde yayinlanmistir.*

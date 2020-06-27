@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Basic 2010, Visual Studio 2010, Visual Basic .NET
 old.EntryID: 66db2bbe-0293-418f-8c0f-4e71eb9a34a7
 ---
+# Visual Basic 2010 Yenilikler Seminer Kaydı
 Uzun zaman olsun seminer kayıtlarını bloguma taşıyalı. Bir süredir pek
 kayıt almadığımın farkına vardım :) En son INETA NEXT İstanbul'daki
 Visual Basic 2010 oturumunun kaydını sizlerle paylaşarak önümüzdeki
@@ -28,3 +29,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-1-21 tarihinde yayinlanmistir.*

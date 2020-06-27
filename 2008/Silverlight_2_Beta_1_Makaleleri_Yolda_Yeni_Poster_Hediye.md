@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: ce7a3b0b-20bf-4bf9-a3d9-94490322383e
 ---
+# Silverlight 2 Beta 1 Makaleleri Yolda (Yeni Poster Hediye)
 Silverlight 2 Beta 1'in yayınlandığından sizleri daha önceki yazılarımda
 haberdar etmiştim. Bu süreçte özellikle Silverlight 2 ile ilgili yazı
 yazmamı isteyen birçok mail aldım. Bu konu beni epey düşündürdü.
@@ -54,3 +55,5 @@ Reference](media/Silverlight_2_Beta_1_Makaleleri_Yolda_Yeni_Poster_Hediye/160320
 (13MB) posterini TIF formatında bilgisayarınıza indirebilirsiniz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-17 tarihinde yayinlanmistir.*

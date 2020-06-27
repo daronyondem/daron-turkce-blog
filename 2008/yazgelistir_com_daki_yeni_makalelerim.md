@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Silverlight
 old.EntryID: f60d717a-b286-4fec-bac3-90f9d0b37492
 ---
+# yazgelistir.com'daki yeni makalelerim.
 Blogumdaki bazı yazıları
 [yazgelistir.com](http://www.yazgelistir.com/Hakkinda/YazarDetay.aspx?UyeId=1000073305)
 üzerinden de sizlerle paylaştığımı biliyorsunuz. Özellikle Silverlight
@@ -41,3 +42,5 @@ Yapıları](http://www.yazgelistir.com/Makaleler/1000001732.ygpx)\
 Kullanımı](http://www.yazgelistir.com/Makaleler/1000001731.ygpx)\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-26 tarihinde yayinlanmistir.*

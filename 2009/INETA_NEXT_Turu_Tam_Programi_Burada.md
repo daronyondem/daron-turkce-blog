@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 4.0, ASP.NET 4.0, C#, IIS 7.0, Seminer, Silverlight 4, Visual Basic 2010, Visual Studio 2010, WCF, WF, Windows 7, WPF, Visual Basic .NET, ASP.NET
 old.EntryID: 0f3fe5dd-2518-42ff-af58-125b8d055aed
 ---
+# INETA NEXT Turu Tam Programı Burada!
 INETA NEXT etkinliklerimizle ilgili duyuruyu bundan yaklaşık bir hafta
 önce sizinle paylaşmıştım. Maalesef o zamanlarda içeriği paylaşma
 şansımız yoktu çünkü içeriğimizde daha Microsoft tarafından lansmanı
@@ -84,3 +85,5 @@ emin olun bir katılımcıya çekilişle yeni bir beyin vereceğiz :) Bizde
 yalan yok :) Ayrıca birçok da sürpriz hediye olacak, benden söylemesi.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-30 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure CDN, Windows Azure
 ---
+# Windows Azure'da CDN Kullanımı
 **[Aşağıdaki makalenin yeni Azure portalına uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Microsoft_Azure_CDN_Kullanimi)
@@ -56,3 +57,5 @@ ekleyebilirsiniz ;)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-9-11 tarihinde yayinlanmistir.*

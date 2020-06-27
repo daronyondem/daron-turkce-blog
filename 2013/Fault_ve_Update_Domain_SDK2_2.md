@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure da Fault Update Domain Nedir ve Nasil Ayarlanir (SDK2.2)
 Azure ortamında yayınlayabileceğimiz role'lerin instance count ve
 instance size gibi özellikleri olduklarını daha önceki yazılarda
 görmüştük. Böylece uygulamamızın kaç sanal makinede çalışacağına, ne
@@ -113,3 +114,5 @@ perspektifi aktarabilmişimdir.
 Görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-11-30 tarihinde yayinlanmistir.*

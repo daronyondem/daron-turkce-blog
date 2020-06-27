@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 42c1be08-8cfd-4d03-a353-a1e924514bd1
 ---
+# Efsane gerçek oluyor
 [![SilverNight
 karşınızda!](media/Efsane_gercek_oluyor_SilverNight/27112008_1.gif)](http://www.silvernight.ms/)
 
@@ -59,3 +60,5 @@ Hadi bakalım, başvuruları bekliyorum ;)
 :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-27 tarihinde yayinlanmistir.*

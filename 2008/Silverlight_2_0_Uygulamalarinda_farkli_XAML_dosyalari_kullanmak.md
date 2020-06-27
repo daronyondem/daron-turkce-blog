@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 9f42770f-889d-4173-acc4-5b9ddc02da33
 ---
+# Silverlight 2.0 Uygulamalarında farklı XAML dosyaları kullanmak.
 Bir Silverlight uygulamasında birden çok XAML dosyası kullanarak
 dosyalar arasında geçiş yapmak isteyebilirsiniz. Fakat bu noktada
 maalesef sizi ufak bir sorun bekliyor. Herhangi bir Silverlight
@@ -276,3 +277,5 @@ olduk.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-29 tarihinde yayinlanmistir.*

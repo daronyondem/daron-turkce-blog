@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 22
 Tags: Azure Functions
 ---
+# Azure Functions ve WebJobs Karşılaştırması
 Son zamanlarda Azure Functions yazıları yazmaya başlayınca özellikle WebJobs ile arasındaki benzerlikleri dikkat çekmiyor değil. Durum böyle olunca detaylı bir karşılaştırma yapalım istedim.
 
 ### Comsumption Plan : App Service Plan
@@ -31,3 +32,5 @@ Bunların dışında her iki platform arasında bir fark yok. Trigger'lar aynı,
 Sorularınız olursa aşağıda yorum olarak alabilirim ;) 
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-4 tarihinde yayinlanmistir.*

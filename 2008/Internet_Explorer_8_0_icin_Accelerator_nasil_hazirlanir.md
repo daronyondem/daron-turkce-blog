@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 5d3e474f-e916-4dfb-8e7a-c9d9c980ccbc
 ---
+# Internet Explorer 8.0 için Accelerator nasıl hazırlanır?
 Internet Explorer 8.0 ile beraber yazılımcılar olarak karşılaştığımız
 bir diğer uygulama geliştirme alanı da "Accelerators" yapısı.
 Accelerator'lar ile tarayıcı içerisinde kullanıcıların farklı konumlarda
@@ -657,3 +658,5 @@ deneyimi sağlayacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-18 tarihinde yayinlanmistir.*

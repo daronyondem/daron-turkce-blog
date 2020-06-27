@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 2941218f-fef5-4b5a-8611-a24959fa5654
 ---
+# Poster sevdası...
 Blogumda en çok tıklanan linkler arasında poster download linkleri var
 :) Buradan yola çıkarak sizlere bir poster arşivi toparladım. Posterlere
 tıklayarak orijinal dosyaları bilgisayarınıza indirebilirsiniz.
@@ -63,3 +64,5 @@ ile blogda bulabilirsiniz ;)
 İyi eğlenceler :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-3 tarihinde yayinlanmistir.*

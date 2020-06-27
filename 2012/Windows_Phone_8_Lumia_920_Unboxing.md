@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Unboxing, Windows Phone 8
 ---
+# Windows Phone 8 Lumia 920 Unboxing
 Türkiye'de herkesin heyecanla Windows Phone 8 cihazların piyasaya
 çıkmasını beklediğini biliyorum :) En azından benim etrafımdaki herkesin
 :) Her neyse... Sonuç olarak 21 Kasım'da Nokia lansmanı öncesi Lumia
@@ -21,3 +22,5 @@ Umarım beğenirsiniz.
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-11-4 tarihinde yayinlanmistir.*

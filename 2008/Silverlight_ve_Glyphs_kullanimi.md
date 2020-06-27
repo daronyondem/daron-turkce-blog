@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: b131244e-b2af-44a6-836a-3815cb36fe6c
 ---
+# Silverlight ve Glyphs kullanımı
 Daha önceki yazılarımda Silverlight 1.0 ile beraber sunucu tarafına
 yerleştirilen font dosyalarının istemcide "yükleme bağımsız" ve
 "platform bağımsız" olarak nasıl kullanılabileceğinden bahsetmiştim.
@@ -133,3 +134,5 @@ aktarıyoruz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-29 tarihinde yayinlanmistir.*

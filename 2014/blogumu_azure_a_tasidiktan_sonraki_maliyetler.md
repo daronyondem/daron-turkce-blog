@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Haberler, Windows Azure
 ---
+# Blogumu Azure'a taşıdıktan sonraki maliyetler.
 Bir süre önce yıllardır kullandığım VPS'den kurtulma kararım
 çerçevesinde elimdeki herşeyi Azure'a taşımaya karar verdim :) Bu
 kararımın arkasında esas neden aslında sahip olduğum MSDN Subscription
@@ -145,3 +146,5 @@ TFSLive ile CI'ın da tadını çıkartıyorum :)
 bunları paylaşmak istedim. Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-1-31 tarihinde yayinlanmistir.*

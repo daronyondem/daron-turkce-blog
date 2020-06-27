@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight
 old.EntryID: dbf49c38-c111-4adf-9823-464e5eeb2001
 ---
+# Baştan Sonra Silverlight Kurulumu
 Silverlight uygulamaları geliştirmeyle ilgili makalelerime geçmeden önce
 yavaş yavaş bilgisayarlarımızı Silverlight uygulamalarına hazırlamaya
 başlayalım. İlk olarak aşağıdaki adreslerden Silverlight 1.0'ı
@@ -92,3 +93,5 @@ uygulamalarına yelken açabiliriz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-24 tarihinde yayinlanmistir.*

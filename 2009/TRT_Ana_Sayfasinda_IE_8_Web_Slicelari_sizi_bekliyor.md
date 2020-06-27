@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 2d7a63c8-6b70-403f-8761-eab873c78dbe
 ---
+# TRT Ana Sayfasında IE 8 Web Slice'ları sizi bekliyor!
 Internet Explorer 8 ile ilgili sanırım bugüne kadar 10'a yakın seminer
 verdim ve bu seminerlerin hepsinde de doğal olarak "*Ne anlatacak ki bu
 adam?*" soru işareti ile şaşkın gözlerle bana bakan yazılım
@@ -54,3 +55,5 @@ içerisinden birer Web Slice olarak takip edebiliyorsunuz!
 Buyurun buradan bir inceleyin ;) <http://www.trt.net.tr/> 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-5 tarihinde yayinlanmistir.*

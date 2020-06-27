@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Metro UI, Visual Studio 11, Windows 8
 ---
+# Visual Studio 2011 Metro Debugging Seçenekleri
 Windows 8 üzerinde Visual Studio 2011'e daha el atma şansınız oldu mu
 bilemiyorum ama el atanlarınız için Debugging'le ilgili bir ipucu
 paylaşmak istiyorum. Windows 8 üzerinde Visual Studio 2011 ile
@@ -68,3 +69,5 @@ Bu makale **Visual Studio 11 Express for Windows Developer Preview**\
 ve **Windows 8 Developer Preview Build 8102** kullanılarak yazılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-20 tarihinde yayinlanmistir.*

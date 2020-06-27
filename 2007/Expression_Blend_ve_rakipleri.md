@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend
 old.EntryID: d8fc60b8-9bba-4f15-83b0-1e4adadd31be
 ---
+# Expression Blend ve rakipleri
 **Expression Savaşları** yazı dizimde sonlara sakladığım **Expression
 Blend** benim en büyük favorim :) Kendimi kaptırıp WPF'in ne kadar
 muhteşem bir altyapı sunduğundan bahsetmeden Expression Blend'e geçmek
@@ -74,3 +75,5 @@ rakipler](http://daron.yondem.com/tr/post/4918cfdc-60cf-448f-8a1c-e6859205bc2f)
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-30 tarihinde yayinlanmistir.*

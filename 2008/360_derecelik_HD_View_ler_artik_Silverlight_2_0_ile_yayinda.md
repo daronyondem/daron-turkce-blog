@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: b0b8011a-f059-4214-bda5-73596f754e1a
 ---
+# 360 derecelik HD View'ler artık Silverlight 2.0 ile yayında.
 HD Photo mantığı aslında adından da az çok anlaşılabileceği üzere yüksek
 çözünürlüklü (High Definition) fotoğraf yayını ile ilgili bir kavram.
 Daha önceki yazılarımdan birinde sizlere [Image Composition
@@ -27,3 +28,5 @@ Your browser does not support inline frames or is currently configured
 not to display inline frames.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-19 tarihinde yayinlanmistir.*

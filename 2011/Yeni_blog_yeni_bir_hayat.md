@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Genel
 ---
+# Yeni blog, yeni bir hayat!
 Hayallerim gerçek oldu :) Bundan 6 yıl önce 2005'te İngilizce blogumu
 ilk açarken yaptığım araştırmalar sonrasında DasBlog kullanma kararı
 almıştım. 6 yıldır DasBlog süper bir iş çıkardı. Hiç upgrade etmedim ve
@@ -60,3 +61,5 @@ mail atın ;)
 Yeni yazılarda görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-1 tarihinde yayinlanmistir.*

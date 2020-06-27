@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: C#, HTML5, Metro UI, Windows 8, WinRT
 ---
+# Windows 8 Tablet Development Giriş (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"
 devam ediyor! Geçen akşam serideki webinerlerinden biri olan "**Windows
@@ -25,3 +26,5 @@ Görüşmek üzere!
 Bu webinerde **Windows 8 Developer Preview Build 8102** kullanılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-19 tarihinde yayinlanmistir.*

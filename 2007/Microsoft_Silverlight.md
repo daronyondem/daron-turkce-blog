@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: b28d270f-2ed4-4f25-b38d-98ce0d30cddd
 ---
+# Microsoft Silverlight
 ![](media/Microsoft_Silverlight/silverlight.gif)
 
 WPF (**Windows Presentation Foundation**) Windows Vista ile dahili
@@ -55,3 +56,5 @@ Fakat hatırlatmakta fayda var, şu an ürün CTP aşamasında olduğu için
 sorunlar içermesi olası.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-17 tarihinde yayinlanmistir.*

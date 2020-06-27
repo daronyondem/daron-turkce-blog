@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2010
 old.EntryID: 00c801e1-1e4b-405a-b975-ec7cce1cac10
 ---
+# Visual Studio 2010'da Code Snippet'lar.
 Code Snipper'lar her zaman bir programcının hayatını kolaylaştıran
 araçlar olmuştur. Bu konuda Visual Studio 2010 ile gelen yeniliklerle
 beraber nasıl kendi özel Code Snippet'larımızı geliştirebiliriz
@@ -30,3 +31,5 @@ görsel dersleri de oraya ekleyeceğim.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-21 tarihinde yayinlanmistir.*

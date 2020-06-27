@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, MultiTouch, Silverlight 3.0, SQL Server 2008, WPF, ASP.NET
 old.EntryID: d74d1a78-01a0-42aa-a995-fee1dfac454b
 ---
+# Ankara etkinlikleri; SQL Kampı ve NedirTV Günü
 Bu hafta sonu için sizlere iki ayrı etkinlik duyurum var. Her ikisi de
 **Ankara**'da! Cumartesi günü **SQL Kampı** etkinliğimizin Ankara
 ayağını yapıyoruz, Pazar günü ise benim de konuşmacı olacağım
@@ -38,3 +39,5 @@ nedenle sizden ricam etrafınızda bu etkinlik ile ilgilenebilecek herkesi
 haberdar etmeniz. Görüşmek üzere...*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-30 tarihinde yayinlanmistir.*

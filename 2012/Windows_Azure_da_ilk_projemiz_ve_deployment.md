@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure'da ilk projemiz ve deployment
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2)
@@ -301,3 +302,5 @@ Visual Studio içerisinden doğrudan Publish senaryolarına göz atacağımz
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-4-24 tarihinde yayinlanmistir.*

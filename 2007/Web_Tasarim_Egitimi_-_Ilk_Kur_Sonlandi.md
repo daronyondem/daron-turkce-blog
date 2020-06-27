@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: 1601ade4-e9c2-43ac-b36d-4be0f14711ea
 ---
+# Web Tasarım Eğitimi - İlk Kur Sonlandı
 **MayaSoft Bilişim Akademisi’**nde vermekte olduğu **Web Tasarım**
 eğitiminin ilk kurunu dün sonlandırdık. Katılım belgelerini alan
 öğrencilerimin doldurdukları Eğitim Sonu Anketi’ndeki sonuçlardan
@@ -23,3 +24,5 @@ indirebilirsiniz. Bir başka eğitimde görüşmek dileği ile…
 KB)](media/Web_Tasarim_Egitimi_-_Ilk_Kur_Sonlandi/05072007_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-7-6 tarihinde yayinlanmistir.*

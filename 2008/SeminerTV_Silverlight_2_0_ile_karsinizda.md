@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 3e728750-377c-4603-865a-aa4a977000ff
 ---
+# SeminerTV Silverlight 2.0 ile karşınızda!
 Bugün güzel bir Pazar gününü Expression Encoder'a SP1 ile beraber gelen
 video şablonlarını inceleyerek ve özelleştirerek değerlendirdim.
 Hatırlarsanız daha dün size bu müjdeyi vermiştim. Encoder ile beraber
@@ -27,3 +28,5 @@ süper çalışıyor.
 <http://daron.yondem.com/tr/formatpage.aspx?path=seminertv.format.html>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-3 tarihinde yayinlanmistir.*

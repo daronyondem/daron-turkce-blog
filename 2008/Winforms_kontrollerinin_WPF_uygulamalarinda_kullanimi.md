@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 5314b222-d27e-4b4d-9435-74c4c38ef61c
 ---
+# Winforms kontrollerinin WPF uygulamalarında kullanımı.
 Daha önceki bir
 [yazımda](http://daron.yondem.com/tr/post/399ae928-b165-4690-8346-cdb60f82c9b4)
 WPF özelliklerini Winforms pencerelerine nasıl taşıyabileceğimizden
@@ -519,3 +520,5 @@ kontrollerin işlevselliklerinden faydalanabiliriz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-9 tarihinde yayinlanmistir.*

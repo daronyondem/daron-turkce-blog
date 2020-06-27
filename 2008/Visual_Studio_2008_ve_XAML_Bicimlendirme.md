@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Visual Studio 2008, WPF
 old.EntryID: 30b195f4-8146-47e9-aad3-f7f9665f04e4
 ---
+# Visual Studio 2008 ve XAML Biçimlendirme
 XAML kodlarını yazarken hangi elementin ne özelliğe sahip olduğunu
 bulmak bazen karışık kodlarda iyice içinden çıkılmaz bir hal alabiliyor.
 Bu tarz durumlarda "Keşke bir kod düzenleyici olsa!" gibi haykırışlarda
@@ -84,3 +85,5 @@ sağlanabiliyor. Tercihlerinize göre farklı ayarlar yapmanız da mümkün.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-30 tarihinde yayinlanmistir.*

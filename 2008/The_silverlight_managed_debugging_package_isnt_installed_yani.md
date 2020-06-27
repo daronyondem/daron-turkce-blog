@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: dac6d77c-4d4a-4e25-98fa-9bc9956174b2
 ---
+# The silverlight managed debugging package isn't installed, yani?
 Son dönemde mail olarak aldığım en sık Silverlight development
 sorunlarından biri ile ilgili hızlı bir çözümü sizlerle paylaşmak
 istiyorum. Özellikle Silverlight Tools paketini şans eseri eksik
@@ -40,3 +41,5 @@ Silverlight 2.0 Developer Runtime (Mac) -
 <http://go.microsoft.com/fwlink/?LinkId=119973>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-29 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: ad49fa71-b44c-475a-8450-666671ae079a
 ---
+# Windows 7 için Taskbar Toolbar hazırlamak.
 Windows 7 ile beraber gelen taskbar özelliklerinden biri olan Taskbar
 Toolbar'lar ilginç bir kullanıcı deneyimi sağlıyor. Uygulama arayüzüne
 geçmeden daha preview ekranında komut gönderebilmenizi sağlayan bu
@@ -28,3 +29,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-29 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: a0d32dd0-8dea-4337-9db8-564c470f8b41
 ---
+# Silverligh 4 Beta'da Implicit Syles kullanımı - Görsel Ders
 Bu görsel dersimizde Silverligh 4 Beta ile beraber Implicit Styles'ın
 Silverlight uygulamalarını Thema'landırma yolundaki getirdiği
 kolaylıklara göz atıyoruz.
@@ -27,3 +28,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-4 tarihinde yayinlanmistir.*

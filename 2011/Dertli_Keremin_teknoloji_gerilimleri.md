@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.5, Dertli Kerem, HTML5, JavaScript, Metro UI, Silverlight 5, Windows 8, Windows Phone, Windows Phone 7, WinRT, WPF
 ---
+# Dertli Kerem'in ölen teknoloji gerilimleri
 Vouw 2010 yılında hiç [Dertli
 Kerem](http://daron.yondem.com/tr/tag/Dertli_Kerem) yazısı yazmamışım.
 Aslına bakarsanız eski tarzda bir Dertli Kerem olmayacak bu :) ama
@@ -245,3 +246,5 @@ Varsa sorularınızı ve tabi her zamanki gibi yorumlarınızı aşağıya
 bekliyorum. Siz ne düşünüyorsunuz tüm bu konularla ilgili?
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-19 tarihinde yayinlanmistir.*

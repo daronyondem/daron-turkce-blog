@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
 old.EntryID: f8b39f6d-87ea-48f3-adeb-d988ef5dd488
 ---
+# The Silver Team
 Mart ayında sizleri Silverlight T-Shirt'üm ve sonrasında da
 [Tish-O](http://daron.yondem.com/tr/post/02fbfef5-7ce2-4870-84b9-3f2c36ef2a6d)
 ile tanıştırmıştım. Böylece sizler de isterseniz SilverMan T-Shirt'ünden
@@ -23,3 +24,5 @@ ile ;)
 *The Silver Team :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-13 tarihinde yayinlanmistir.*

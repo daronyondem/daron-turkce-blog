@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 4.0, Silverlight 4, Visual Studio 2010, Windows Phone 7, Windows Phone
 old.EntryID: c136868a-c9c5-4020-8cea-86cb03eb145b
 ---
+# Isparta Süleyman Demirel Üniversitesi ziyaretim...
 Son iki gündür Isparta, Süleyman Demirel Üniversitesi'ndeyim. Isparta'ya
 neredeyse her yıl gider oldum :) Tabi burada öğrencilerin ilgisi çok
 önemli ama bir o kadar da öğretim görevlileri! Özellikle sevgili
@@ -46,3 +47,5 @@ edemedim. Bir ara böyle fotoları paylaşacağım bir site planlıyorum
 bakalım hayırlısı :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-28 tarihinde yayinlanmistir.*

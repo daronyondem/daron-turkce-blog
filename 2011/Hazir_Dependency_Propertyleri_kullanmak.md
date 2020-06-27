@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Silverlight 2.0, Silverlight 3.0, Silverlight 4, Silverlight 5, Windows Phone, Windows Phone 7, WPF
 ---
+# Hazır Dependency Property'leri kullanmak
 İki gündür [DP (Dependency Property)'lerle
 uğraşıyoruz](http://daron.yondem.com/tr/post/WPFte_Dependency_Propertylerde_baska_neler_var)
 :) Artık kabaca ne olduklarını ve nasıl kullanıldıklarını anladık. Fakat
@@ -69,3 +70,5 @@ yüksekliğin hep size raporlandığını görebilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-6 tarihinde yayinlanmistir.*

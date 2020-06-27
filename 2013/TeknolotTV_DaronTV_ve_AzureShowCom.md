@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Haberler, Teknolot.TV, Windows Azure
 ---
+# Teknolot.TV, Daron.TV ve AzureShow.com
 Bu aralar çok yoğun bir tempo var :) Söylemedi demeyin... Haber haber
 üzerine, paylaşım paylaşım üzerine takılacağız önümüzdeki bir hafta. İlk
 haberim [Teknolot.TV](http://www.teknolot.tv) sitemiz! Yepyeni bir site!
@@ -65,3 +66,5 @@ bulamıyordum. İyi oldu :)
 görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-6-25 tarihinde yayinlanmistir.*

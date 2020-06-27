@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: b4ea1948-1803-46f1-9a5b-8cbbc37a4a54
 ---
+# yazgelistir.com'daki Makalelerim...
 Blogumdaki makalelerden ikisi daha
 [yazgelistir.com](http://www.yazgelistir.com)'da yerini aldı. Eğer hala
 yazgelistir.com üyesi değilseniz hemen üye olup makalelerimi
@@ -21,3 +22,5 @@ incelemenizi kesinlikle tavsiye ederim.
 Servisleri](http://www.yazgelistir.com/Makaleler/1000001509.ygpx)\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-1 tarihinde yayinlanmistir.*

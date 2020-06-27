@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, LINQ, WPF
 old.EntryID: 37e6d70c-61b3-4275-b5b9-5ed525b28375
 ---
+# WPF ve LINQ'nun beraber kullanımı
 Dün mail ile **WPF ve LINQ**'nun beraber kullanılıp kullanılamayacağı
 ile ilgili güzel bir soru geldi. Ben bu soruyu hemen ufak bir blog
 yazısına çevirerek bilgiyi buradan sizlerle de paylaşmak istiyorum. WPF
@@ -52,3 +53,5 @@ kullanabilirsiniz.
 Hepinize mutlu yıllar :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-31 tarihinde yayinlanmistir.*

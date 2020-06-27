@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Silverlight
 old.EntryID: 0fbfee37-9d39-45e6-b54e-6e25f1eeeb9e
 ---
+# Silverlight Eğitimi 2. Gün
 Dün INETA ve NETRON sponsorluğundaki Silverlight eğitimimizin ikinci
 gününü "Silverlight ile Veri Uygulamaları" konusu ile tamamladık. Eğitim
 çok zevkli geçti. Öğlen yemeği için topluca Capitole'e gittik :) Çıkışta
@@ -28,3 +29,5 @@ tek tek ilgileri ve yoğu konsantransyonları için teşekkür ediyorum.
 KB)](media/Silverlight_Egitimi_2_Gun/23032008_1.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-24 tarihinde yayinlanmistir.*

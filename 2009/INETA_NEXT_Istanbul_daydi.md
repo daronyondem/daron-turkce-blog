@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 4.0, ASP.NET 4.0, C#, IE 8.0, Seminer, Silverlight 4, Visual Basic 2010, Visual Studio 2010, WCF, WF, Visual Basic .NET, Internet Explorer, ASP.NET
 old.EntryID: b9c6104f-0c5e-4108-a8fb-d7c19f494ac7
 ---
+# INETA NEXT İstanbul'daydı!
 Bugün INETA NEXT'in İstanbul ayağını gerçekleştirdik. Kişisel olarak
 benim için efsanevi bir hafta sonu oldu! Tüm konuşmacılarımıza tek tek
 milyonlarca defa teşekkür ediyorum. Ayrıca tabi ki yağmura rağmen tüm
@@ -46,3 +47,5 @@ Not: Tüm etkinlik fotoğraflarına buradan ulaşabilirsiniz:
 [http://skydrive.live.com/inetanext09istanbul](http://tinyurl.com/inetanext09istanbul)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-14 tarihinde yayinlanmistir.*

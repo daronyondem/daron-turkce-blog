@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 81345b60-8a45-473a-9a50-a144f6c4fb30
 ---
+# Hazır WPF Temaları
 Hem WPF hem Silverlight maalesef ki "yazılımcılar tarafından tasarlanan
 uygulamalar" havuzuna çok daha garip :) balıkların atılmasını sağladı.
 Bu süreçte sadece tasarımcıların WPF veya Silverlight tarafına
@@ -66,3 +67,5 @@ tüm kontroller bir anda eklediğiniz temadan etkilenecektir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-11 tarihinde yayinlanmistir.*

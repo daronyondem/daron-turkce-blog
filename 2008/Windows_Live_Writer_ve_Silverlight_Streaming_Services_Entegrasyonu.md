@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: e0cef84a-57c0-4f94-91c8-840e56ee69a7
 ---
+# Windows Live Writer ve Silverlight Streaming Services Entegrasyonu
 Blog sistemi olarak **Windows Live Spaces'**ı kullanıyorsanız
 beraberinde **Windows Live Writer**'ı da kullandığınızdan eminim. Tabi
 bunun için illa Live Spaces kullanmak zorunda değilsiniz. Belirli
@@ -38,3 +39,5 @@ erişebiliyor ve istediğinizi blog mesajınıza ekleyebiliyorsunuz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-5 tarihinde yayinlanmistir.*

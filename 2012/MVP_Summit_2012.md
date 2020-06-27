@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: MVP Summit
 ---
+# MVP Summit 2012
 Bir MVP Summit daha geldi geçti :) Her yıl tüm MVP'lerin davetli olduğu
 MVP Summit'in bu sene 2012 sürümü de :) geçen hafta gerçekleşti. Bu
 vesile ile yanlış bilmiyorsam toplam 15-20 MVP Türkiye'den Summit için
@@ -55,3 +56,5 @@ kalabilme hayali ile hepinize sevgiler! (Acı çektiğimin farkında olmayıp
 anlatabildim mi :D)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-3-6 tarihinde yayinlanmistir.*

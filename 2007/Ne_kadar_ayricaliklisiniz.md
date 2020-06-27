@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: 669f9944-fc28-4d83-b4f2-5b0fc4f18931
 ---
+# Ne kadar ayrıcalıklısınız?
 Eğer bir Microsoft sertifikasyonunuz varsa aşağıdaki linkten dünya
 üzerindeki toplam sertifikasyon sahiplerinin sayılarını öğrenerek
 kendinizi ayrıcalıklı hissedebilirsiniz :) Benim dikkatimi çeken
@@ -19,3 +20,5 @@ isteyenlere duyurulur :)
 <http://www.microsoft.com/learning/mcp/certified.mspx>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-6 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Haberler, Silverlight
 old.EntryID: 1dc4a798-a8bd-4a53-8645-1cdaa818777b
 ---
+# Haberler... haberler... haberler...
 Sektörle ilgili haberleri tek tek bloga eklemektense biraz biriktirip
 toplu eklemeyi daha uygun buluyorum. Özellikle bu serideki bir haberin
 artık yayınlanabileceği son gün geldiği için hemen elimdeki beş haberi
@@ -84,3 +85,5 @@ sitesinden takip edebilirsiniz.
  
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-6 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 571a345a-8c5f-4c80-9226-42108b7b5415
 ---
+# Microsoft Support sitesine MVP desteği ve ilk iki KB Article yayınım.
 **Knowledge Base Articles** olarak geçen Microsoft Support / Destek
 sitesindeki makaleler ile bugüne kadar kesin karşılaşmışsınızdır. İster
 genel Windows arayüzünde olsun ister kullandığınız farklı Microsoft
@@ -33,3 +34,5 @@ olması gerektiğini düşündüklerinizi benimle paylaşmaktan çekinmeyin ;)
 Yorumlarınızın doğru yerlere ulaşmasını sağlayabilirim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-26 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: e4181214-b95c-4fa2-baeb-73d737d3f5be
 ---
+# Dertli Kerem der ki Bizimki ancak -A little bit of CEbit!- olur
 Bir CEBIT daha geldi geçti, veya sadece bir FUAR daha geldi geçti. Ben
 de TBD'nin katkılarıyla CEBIT'te minik de olsa yer aldım. Bazen soranlar
 oldu "*Hocam fuara gelelim mi?*" Ben de cevapladım "*Valla ben TBD'de
@@ -55,3 +56,5 @@ olmasanız ben de gitmeyecektim :)
 Kalın sağlıcakla...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-14 tarihinde yayinlanmistir.*

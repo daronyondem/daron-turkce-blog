@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: 51dd3123-7f64-4d43-9a3a-57fd9e6a6c6f
 ---
+# Windows 7 için Taskbar Progress'i programlamak.
 Windows 7 ile beraber gelen taskbar özelliklerinden biri olan Taskbar'da
 Progress gösterimi çok akıllıca düşünülmüş pratik çözümlerden biri. Siz
 de uygulamalarınızda bu özellikten faydalanmak istiyorsanız görsel
@@ -28,3 +29,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-30 tarihinde yayinlanmistir.*

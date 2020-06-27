@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Azure Storage Table Services
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Azure_Storage_Table_Services_SDK2_5)
@@ -364,3 +365,5 @@ Konunun devamı için; [Table Services Round 2 : Sinsi Relationlar
 Token](http://daron.yondem.com/tr/post/Table_Services_Round_3_Continuation_Token)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-8-7 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Visual Studio 2013, Windows 8, Windows 8.1, Windows Azure, Windows Phone
 ---
+# Build 2013 Gün 1 Özeti
 Son birkaç gündür Build 2013 konferansı için San Francisco'dayım.
 Moscone Center adında bir konferans alanında gerçekleşen konferansın
 bugün ilk Keynote'u tamamlandı. Geçen sene de hatırlarsanız [Build
@@ -187,3 +188,5 @@ görüşmek üzere.
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-6-27 tarihinde yayinlanmistir.*

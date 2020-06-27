@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 706dfa73-68e4-4291-9091-c8820c0923a7
 ---
+# Isparta Süleyman Demirel Üniversitesi'nde Microsoft Oyun Turu
 Bugün **Isparta, Süleyman Demirel Üniversitesi**'nden **Microsoft Oyun
 Turu**'nun ikinci ayağını gerçekleştirdik. Son iki gündür ben zaten
 buralardayım :) Yarın sizlere bu konunun detaylarından da bahsedeceğim.
@@ -42,3 +43,5 @@ MB)](media/Isparta_Suleyman_Demirel_Universitesinde_Microsoft_Oyun_Turu/30112008
 MB)](media/Isparta_Suleyman_Demirel_Universitesinde_Microsoft_Oyun_Turu/30112008_3.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-30 tarihinde yayinlanmistir.*

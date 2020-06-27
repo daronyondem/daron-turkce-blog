@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
 old.EntryID: 55fa9a42-90a7-4cbf-8602-0616cc8c353f
 ---
+# Sağ tuş ile ASP.NET Development Server çalıştırın
 Çok önceleri İngilizce bloguma yazdığım fakat ilginç bir şekilde
 Türkçe'ye yazmadığım bir araçtan bahsetmek istiyorum. Özellikle
 sunumlarda çok işime yarıyor ve sıkça kullanıyorum. En son [Soru
@@ -33,3 +34,5 @@ Uygulamayı yazan **Infragistics**'ten **J. Ambrose Little**'a buradan
 teşekkürlerimizi de yolluyoruz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-20 tarihinde yayinlanmistir.*

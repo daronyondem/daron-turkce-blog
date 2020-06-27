@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: a8c03edf-08f6-4217-9836-311004b8fa76
 ---
+# Windows Vista SP1 yayında!
 **Windows Vista** için **SP1** yayınlandı. Bağımsız yükleme paketi
 yaklaşık 450MB, Windows Update üzerinde ise takriben 65MB'lık biryükleme
 ile SP1'i bilgisayarınıza uygulayabilirsiniz. SP1 ile beraber Vista için
@@ -23,3 +24,5 @@ indirebilirsiniz (Daha Türkçe yok).
 <http://www.microsoft.com/downloads/details.aspx?FamilyID=b0c7136d-5ebb-413b-89c9-cb3d06d12674&DisplayLang=en>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-20 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 110f12a9-109d-471a-883a-831771ef8157
 ---
+# Gümüş Devrim
 Dün **İTÜ'de** **[Botego](http://www.webseminerleri.com/)**
 organizasyonu ile mini bir "**İnternette Gümüş Devrim: Silverlight**"
 semineri yaptık. Seminer toplam 45 dakika sürdü (sürebildi) :( Pek
@@ -30,3 +31,5 @@ ulaşabilirsiniz. Ayrıca "*Hocam bize de gel!*" diyenler varsa :)
 mailinizi beklerim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-4 tarihinde yayinlanmistir.*

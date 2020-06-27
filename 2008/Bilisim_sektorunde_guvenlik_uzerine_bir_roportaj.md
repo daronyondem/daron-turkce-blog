@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 30343c08-afc9-48d7-9308-cd0d8e814f04
 ---
+# Bilişim sektöründe güvenlik üzerine bir röportaj
 Bu aralar sizleri röportaja boğduğumun farkındayım :) Ama bu sefer
 konumuz biraz farklı. Kısa zaman önce üyesi olduğum [Bilişim Güvenliği
 Derneği](http://www.bg.org.tr/) benimle bundan yaklaşık 3-4 ay önce bir
@@ -24,3 +25,5 @@ ve Genel Sekreter **Onur Yılmaz**'a buradan teşekkür ediyorum. Özellikle
 pasta süperdi :) (linkteki fotoğrafı inceleyin:))
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-25 tarihinde yayinlanmistir.*

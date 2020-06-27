@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer
 old.EntryID: a5c39ab2-812c-43e7-8489-f0ed15cb3a5b
 ---
+# Trabzon, Karadeniz Teknik Üniversitesi'ndeydim.
 Bugün Microsoft'un **Gençsen Geleceksin** etkinlik serisinin **Trabzon**
 ayağı için **Karadeniz Teknik Üniversitesi'**ndeydim. Etkinlik konsepti
 gereği teknik içerik içermemekle beraber bana sadece bir saat süre
@@ -25,3 +26,5 @@ etkinliğinde de KTÜ'de buluşuruz arkadaşlar ;) Hepinize çok sevgiler!
 Süperdiniz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-28 tarihinde yayinlanmistir.*

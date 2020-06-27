@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Podcast, Windows Azure
 ---
+# Build 2012 Konferansı 2. gün keynote ve geri kalanlar.
 Biliyorum geç kaldım :) Build konferansı bitti ve ikinci gün Keynote ile
 ilgili yazımı hala yazamadım :) İşte şimdi hem 2. gün hem toplu Build
 kapanış yazımı yazmış bulunmaktayım :) Arada başka şeyler de yaptım
@@ -60,3 +61,5 @@ dinleyebilirsiniz :)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-11-3 tarihinde yayinlanmistir.*

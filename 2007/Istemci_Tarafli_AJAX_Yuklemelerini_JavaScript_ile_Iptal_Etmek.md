@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET
 old.EntryID: fe2e906e-af31-4f8f-93f6-705c34a24e05
 ---
+# İstemci Taraflı AJAX Yüklemelerini JavaScript ile İptal Etmek
 Farklı web sitelerinde AJAX ile sunucudan istemciye veri yükleme
 teknikleri kullanmak performans açısından ciddi faydalar sağlarken bazen
 kontrolün elden çıkmasına da neden olabiliyor. Herhangi bir AJAX
@@ -520,3 +521,5 @@ biraz daha rahatlatabiliriz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-27 tarihinde yayinlanmistir.*

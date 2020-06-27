@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
 ---
+# Silverlight 5 RC ile PInvoke kullanarak CD-ROM'u açalım
 Silverlight 5 RC ile beraber gelen yeniliklerden biri olan PInvoke
 konusuna bakacağız bugün. Aslında özüne bakarsanız PInvoke dediğimde
 size tanıdık geliyorsa Silverlight tarafındaki de birebir aynı durumda.
@@ -81,3 +82,5 @@ ortamında çalışacağını ve Silverlight'ın MAC'te çalışması durumunda 
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-11 tarihinde yayinlanmistir.*

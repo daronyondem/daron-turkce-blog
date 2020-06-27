@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows Phone 7, Windows Phone
 old.EntryID: 70081645-0bb4-4051-9bcc-41294381d539
 ---
+# Windows Phone 7'de Accelerometer verisini okumak.
 Cep telefonlarının en önemli parçalarından biri de artık
 Accelerometer'lar. Telefonu farklı yönlenere çevirdiğimizde durumu
 algılayan donanım parçasından bahsediyorum :) Aslında bu donanım son
@@ -243,3 +244,5 @@ olduk.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-12 tarihinde yayinlanmistir.*

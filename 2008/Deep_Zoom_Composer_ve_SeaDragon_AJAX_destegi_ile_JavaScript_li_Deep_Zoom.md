@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Silverlight 2.0
 old.EntryID: 2baff396-e0c6-4059-93da-036e52f552f5
 ---
+# Deep Zoom Composer ve SeaDragon AJAX desteği ile JavaScript'li Deep Zoom!
 Deep Zoom konusunda daha önce de
 [makaleler](http://daron.yondem.com/tr/post/84a4bed5-dcdf-48a6-8cc7-2b193eeda808)
 yazmış hatta güzel bir de [3D
@@ -42,3 +43,5 @@ Composer'ınızı da yazabilirsiniz ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-23 tarihinde yayinlanmistir.*

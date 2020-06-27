@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 557e8a95-dcf1-49d5-9922-71870e3a14d5
 ---
+# Silverlight 2.0 XAP'larına optimizasyon
 Silverlight 2.0 ile beraber gelen XAP dosyaları özellikle farklı kontrol
 kütüphanelerinin de kullanılması ve bolca imajlar ile giderek şişmeye
 başlıyor. Özünde birer ZIP dosyası olduğunu bildiğimiz XAP dosyalarını
@@ -54,3 +55,5 @@ denememde 178KB'lık bir proje 144KB'a indi.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-4 tarihinde yayinlanmistir.*

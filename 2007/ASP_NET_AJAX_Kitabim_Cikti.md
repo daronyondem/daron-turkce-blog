@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET
 old.EntryID: 955bda47-4d8a-4544-8a11-3d416693ac8a
 ---
+# ASP.NET AJAX Kitabım Çıktı
 Son **2.5** yıldır üzerinde yoğun olarak çalıştığım AJAX'ı konu alan
 kitabım toplam **1.5 yıllık** bir çalışma sonucunda bugün elime ulaştı.
 ASP.NET platformunda her ölçekte AJAX uygulamaları geliştirmek
@@ -45,3 +46,5 @@ Kitabın web sitesi için
 tıklayabilirsiniz.\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-6-7 tarihinde yayinlanmistir.*

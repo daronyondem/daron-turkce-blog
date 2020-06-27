@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 3f829c71-b593-4d0b-93f2-0782e0e905b1
 ---
+# Last.Fm Silverlight Widget!
 Yaklaşık 2 saat kadar önce
 [last.fm](http://www.lastfm.com.tr/user/daronyondem/) üyesi oldum :)
 Siteyi çok duymuştum ama ilgilenecek fırsat olmamıştı. Gerçekten çok
@@ -43,3 +44,5 @@ KB)](media/Last_Fm_Silverlight_Widget/13062008_1.rar)
 Hepinize iyi eğlenceler ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-14 tarihinde yayinlanmistir.*

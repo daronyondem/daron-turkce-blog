@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 6
 Tags: Seminer, Windows Azure
 ---
+# Mersin Toros Üniversitesi'nde Cloud 101
 Dün Mersin'deydim. Toros Üniversitesi'nde Cloud 101 oturumumu gerçekletirdim. Eğlenceli bir gündü. Çıkışta da tabi ki Tantuni yemeyi unutmadık :) 
 
 ![](media/Mersin_Toros_Universitesinde_Cloud_101/mersin-toros-universitesi.jpg)
@@ -15,3 +16,5 @@ Dün Mersin'deydim. Toros Üniversitesi'nde Cloud 101 oturumumu gerçekletirdim.
 Katılan herkese buradan çok teşekkür ediyorum. 13 Mayıs'ta tekrar Mersin'i ziyaret edeceğim. Bu sefer de Mersin Üniversitesi için olacak. Etkinlikte katkısı olan tüm kardeşlerimize ayrıca çok teşekkür etmek istiyorum. Görüşmek üzere!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-0at9kiYmc8" frameborder="0" allowfullscreen></iframe>
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-4-29 tarihinde yayinlanmistir.*

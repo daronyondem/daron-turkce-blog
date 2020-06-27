@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: HTML, HTML5, IE 10, Kinect, Microsoft Open Door, Windows 8, Windows Azure, Windows Phone, Windows Phone 7, Windows Phone 7.5, WinRT
 ---
+# Microsoft OpenDoor Bahrain
 Bu hafta OpenDoor serisinin Bahrain ayağındaydım :) Bahrain'e ilk
 ziyaretim oldu bu, daha önce gitma şansım olmamıştı. Fakat tabi ki
 bölgedeki diğer ülkelerde yaşadığım deneyimlerden farklı bir deneyim
@@ -28,3 +29,5 @@ Haftaya da "Career Fair Day" de konuşmak üzere Qatar'da olacağım ;)
 Görüşürüz!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-3-31 tarihinde yayinlanmistir.*

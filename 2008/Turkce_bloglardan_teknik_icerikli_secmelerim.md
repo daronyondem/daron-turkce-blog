@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 227ecf54-ce53-4be9-a87b-803d15519c60
 ---
+# Türkçe bloglardan teknik içerikli seçmelerim...
 Bundan aylar önceydi sanırım, internette farklı bloglarda karşılaştığım
 güzel teknik ağırlıklı yazıları sizlerle toplu olarak paylaşacağımı
 yazmıştım. Maalesef şu an bakıyorum da çoğu Türkçe blog teknik içerikten
@@ -64,3 +65,5 @@ versin.)</span>
 Şimdilik bu kadar, daha bol teknik içerikli günler dileğiyle ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-3 tarihinde yayinlanmistir.*

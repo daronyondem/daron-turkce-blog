@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Visual Studio Blue ve beraberinde gelen yenilikler...
 Biliyorsunuz son zamanlarda "Windows Blue" üzerine bolca dedikodular
 geziyor. Hatta bunların çoğu dedikodu da olmaktan çıktı ve bazı kaçaklar
 sonucunda Windows'un bir sonraki sürümü olduğu iddia edilen, kod adı
@@ -62,3 +63,5 @@ paylaşacağım. Visual Studio Blue ve .NET yerine gelen **.Blue
 Framework** gerçekten yeni bir çığır açacak gibi duruyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-4-1 tarihinde yayinlanmistir.*

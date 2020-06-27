@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 42
 Tags: .NET Core, Azure App Insights, Azure App Services, Azure Bot Services, Azure Container Services, Azure Data Lake, Azure DocumentDB, Azure Functions, Azure Storage Services, DocumentDB, Unity, Visual Studio 2017, Visual Studio for Mac, Xamarin
 ---
+# MSDN Flash Kasım 2016 İçeriği
 
 Hatırlarsanız geçen ay epey sakin geçmişti. Bu ay ise tam tersine, inanılmaz yoğun bir ay oldu. Özellikle Microsoft Connect etkinliği ile beraber duyuruların sonu gelmedi. Her zamanki gibi yine hızlı bir liste yapalım, sonra da birkaç tane duyurunun detaylarına göz atarız.
 
@@ -49,3 +50,5 @@ Visual Studio’nun yeni sürümüne çok yaklaştım.  RC sürümündeki yenili
 SQL Server’ın Linux ortamına gelmesi ile ilgili haberler ilk günden beridir büyük şaşkınlık yaratıyor. Oysa .NET Core ile artık uygulamaların platform bağımsız olduğunu düşünürseniz beraberlerinde bir veritabanı motorunun da bulunması çok önemli. O nedenle SQL Server’ın Linux’e taşınıyor olması .NET Core geliştiricileri için büyük değere sahip. SQL Server’ın Linux tarafındaki [Preview haline ulaşmak için buradan ilerleyebilirsiniz](https://www.microsoft.com/en-us/sql-server/sql-server-vnext-including-Linux ). 
 ### Visual Studio Team Foundation Server 2017 RTM oldu.
 Özellikle kendi sunucularında TFS kullananlar için 2017 sürümünün RTM olması çok değerli. Package Management tarafında artık Private Nuger feedleri oluşturabilirsiniz. Git tarafında birçok yeni özellik geliyor, squash merge, iterative reviews bunlardan birkaçı. Java build templates, Xamarin build tasks, Docker desteği… Daha fazlasını merak edenler hemen [bu linkten devam edebilirler](https://blogs.msdn.microsoft.com/bharry/2016/11/16/news-from-connect-2016/ ). 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-11-30 tarihinde yayinlanmistir.*

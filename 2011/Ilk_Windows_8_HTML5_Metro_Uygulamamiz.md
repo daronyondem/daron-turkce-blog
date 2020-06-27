@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: HTML, HTML5, JavaScript, Metro UI, Visual Studio 11, Windows 8, WinRT
 ---
+# İlk Windows 8 HTML5 Metro Uygulamamız
 Build konferansı ile beraber biliyorsunuz artık yeni Windows 8 METRO
 arayüzünde HTML5 uygulamalarının da çalışabileceği haberi kesinleşmiş
 oldu. METRO arayüzünde HTML5 ve JS, XAML ve C\# veya VB veya C++
@@ -205,3 +206,5 @@ Bu makale **Visual Studio 11 Express for Windows Developer Preview**\
 ve **Windows 8 Developer Preview Build 8102** kullanılarak yazılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-16 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Photoshop
 old.EntryID: ee138710-828a-44ea-9e78-e9501b5556e6
 ---
+# Photoshop CS3 Smart Object nedir? nasıl kullanılır?
 Adobe Photoshop CS3 lansmanı yapılalı kısa bir süre geçmesine rağmen
 yazılımla ilgili özellikle yabancı kaynaklarda çok sayıda makale
 hazırlanmış durumda. Ben de bu yazımda **Photoshop CS3** ile beraber
@@ -40,3 +41,5 @@ Photoshop CS3 ile gelen diğer yenilikleri ileriki yazılarımda paylaşmaya
 devam edeceğim.\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-26 tarihinde yayinlanmistir.*

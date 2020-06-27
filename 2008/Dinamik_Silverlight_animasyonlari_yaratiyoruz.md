@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 58b36757-8e6d-45f7-a2be-f43c426983c7
 ---
+# Dinamik Silverlight animasyonları yaratıyoruz.
 Silverlight uygulamalarında bazı durumlarda animasyonları dinamik olarak
 yaratmak gerekebilir. Bu durum genelde söz konusu animasyonla ilgili
 bazı değerlerin önceden bilinmemesinden kaynaklanır. Örneğin dinamik
@@ -281,3 +282,5 @@ top en sonunda kendisini son tıklanan noktada bulacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-25 tarihinde yayinlanmistir.*

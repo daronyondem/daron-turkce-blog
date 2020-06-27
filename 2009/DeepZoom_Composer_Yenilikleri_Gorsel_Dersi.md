@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Görsel Ders, Silverlight 3.0
 old.EntryID: 10308503-f10b-4408-bb81-8215bb4430e9
 ---
+# DeepZoom Composer Yenilikleri Görsel Dersi
 DeepZoom Composer gün geçtikçe daha da gelişiyor ve bir yazılımcı /
 tasarımcı aracı olmaktan çıkıp artık son kullanıcıların da
 kullanabileceği bir araç halini alıyor. Bu görsel derste DeepZoom
@@ -29,3 +30,5 @@ ziyaret edebilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-13 tarihinde yayinlanmistir.*

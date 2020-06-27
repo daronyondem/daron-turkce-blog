@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 07216bfd-b001-406e-ab2f-cf8ec2b8df02
 ---
+# ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 2 - Diziler)
 Bir önceki yazımda ASP.NET AJAX Extension'a ait istemci taraflı
 JavaScript özelliklerini incelerken sınıf yapılarına, kütüphanelere,
 üyelere ve sıralara yani enumaration yapısa örnekler ile göz atmıştık.
@@ -706,3 +707,5 @@ bakıyor olacağız.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-9 tarihinde yayinlanmistir.*

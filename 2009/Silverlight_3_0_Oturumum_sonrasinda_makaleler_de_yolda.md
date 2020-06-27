@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 307389eb-4a3b-4da4-be93-37896b29f2e2
 ---
+# Silverlight 3.0 Oturumum sonrasında makaleler de yolda...
 Bugün INETA NEXT'in ilk gününde Silverlight 3.0 oturumunu
 gerçekleştirdim. Benim de ilk Silverlight 3.0 oturumumda. Zamanlama
 açısından içeriği tam oturtsam da akıcılık açısından istediğimi
@@ -78,3 +79,5 @@ ve kullanımlar ile beraber inceleriz.
 Hadi bakalı, hazır mısınız? :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-12 tarihinde yayinlanmistir.*

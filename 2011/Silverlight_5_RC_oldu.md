@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
 ---
+# Silverlight 5 RC oldu!
 Silverlight 5 yavaş yavaş release olma yolunda ilerliyor. Türkiye saati
 ile dün akşam saatlerinde Silverlight 5'in RC sürümü yayınlandı.
 Detaylara girmeden hemen birkaç noktada sizleri uyarmam gerek. Birincisi
@@ -63,3 +64,5 @@ Debugging](http://daron.yondem.com/tr/post/1fb13798-77cb-4673-91f6-e64f26c94561)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-2 tarihinde yayinlanmistir.*

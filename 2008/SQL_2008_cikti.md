@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: SQL Server 2008
 old.EntryID: b8d2bf7c-e2d3-485b-8f16-22356f7f8a01
 ---
+# SQL 2008 çıktı!
 Uzun süredir beklediğimiz **SQL 2008** sonunda RTM oldu ve bugün MSDN
 aboneleri tarafından indirilebiliyor. Böylece 2008 serisi ürünlerin
 hepsi tamamlanmış oldu. SQL 2008'in ücretsiz olan Express sürümünü
@@ -25,3 +26,5 @@ bahseden yazılarımı "yazılacak yazılar" listeme aldım :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-7 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Azure Storage Services, SQL Azure, Visual Studio 2013, Windows Azure
 ---
+# Build 2014 Gün 2
 Dün sizlerle Microsoft Build 2014 konferasının ilk gününden izlenimleri
 ve ağırlıklı olarak da [Keynote'dan
 haberleri](http://daron.yondem.com/tr/post/Build_2014_Gun_1)
@@ -286,3 +287,5 @@ bir okuyun, hatta tekrar okuyun. Dün efsane bir gündü! :)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-4-4 tarihinde yayinlanmistir.*

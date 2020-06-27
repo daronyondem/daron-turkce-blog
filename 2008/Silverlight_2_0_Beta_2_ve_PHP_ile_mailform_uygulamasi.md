@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: b133a50e-9d51-47bc-a552-fd2dcf871c00
 ---
+# Silverlight 2.0 Beta 2 ve PHP ile mailform uygulaması
 İster PHP olsun ister farklı sunucu taraflı programlama dilleri olsun
 hepsi de "adı üzerinde" sunucu tarafında çalışıyorlar. Biz ise
 Silverlight tarafında tamamen istemcide çalışıyor. Bu çerçevede
@@ -418,3 +419,5 @@ olsun her konuda tam bağımsızlığın tadını çıkartabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-18 tarihinde yayinlanmistir.*

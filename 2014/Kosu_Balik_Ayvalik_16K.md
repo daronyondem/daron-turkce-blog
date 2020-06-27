@@ -8,6 +8,7 @@ Section: fitness
 MinutesSpent: 0
 Tags: Koşu, Spor
 ---
+# Koşu, Balık, Ayvalık 16K
 Bu hafta sonunu güzel bir patika koşusu için Cunda'da geçirdim. [Team
 Kronos'un](http://cunda.teamkronos.com/) "**Koşu, balık, Ayvalık**"
 sloganını dilimde sürekli olarak "Rakı, Balık, Ayvalık" diye tekrar ede
@@ -69,3 +70,5 @@ Rakı-Balık kısmını da hak etmiş olduğumu gösterdi.
 <iframe src="//instagram.com/p/tLFt3OEAEu/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-9-22 tarihinde yayinlanmistir.*

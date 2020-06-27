@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET 4.0, ASP.NET 4.5, C#, IIS 7.0, SQL Server 2008, TFS, Windows Azure, Windows Phone, Windows Phone 7.5, XNA
 ---
+# INETA İstanbul'da...
 İzmir ve Ankara sonrasında INETA Türkiye etkinlik serisi bu sefer de
 İstanbul'da ;)
 
@@ -19,3 +20,5 @@ Etkinliğe[buradan](http://www.inetatr.org/oforms/yazilimcilar-istanbul-da-bulus
 kayıt olmayı unutmayın ;) Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-14 tarihinde yayinlanmistir.*

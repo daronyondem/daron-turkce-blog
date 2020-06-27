@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 4bd2158a-5c4b-496e-ae05-2990cadd2a67
 ---
+# Silverlight 2.0 içerisinde harici Class Library yapılarının asenkron kullanımı.
 Silverlight projeleriniz büyüdükçe projenin bazı bölümlerini sonradan
 istemci tarafına aktarmayı daha uygun bir seçenek olarak görebilirsiniz.
 Bu gibi durumlarda acaba ayrı bir XAP dosyası yapsak da onu haricen
@@ -364,3 +365,5 @@ UserControl gibi bu da alıp sahnede istediğimiz yere yerleştirebiliriz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-4 tarihinde yayinlanmistir.*

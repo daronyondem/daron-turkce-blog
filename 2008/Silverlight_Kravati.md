@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
 old.EntryID: 3a63e202-1215-4a78-80b0-5db0360ebf72
 ---
+# Silverlight Kravatı!
 [Super
 SilverMan](http://daron.yondem.com/tr/post/02fbfef5-7ce2-4870-84b9-3f2c36ef2a6d)
 T-Shirt tasarımımdan sonra tekstil sektörüne gireceğime dair
@@ -37,3 +38,5 @@ kravatlar kepçeyle dağıtılır :)
 *"Daha çok Silverlight'lı günler dileği ile..."*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-27 tarihinde yayinlanmistir.*

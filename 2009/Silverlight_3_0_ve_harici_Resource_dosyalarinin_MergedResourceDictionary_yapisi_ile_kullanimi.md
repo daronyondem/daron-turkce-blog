@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: f49dcb80-dfc7-4991-a944-160da0e726a5
 ---
+# Silverlight 3.0 ve harici Resource dosyalarının MergedResourceDictionary yapısı ile kullanımı
 Silverlight ve WPF ile beraber gelen Resource yapıları özellikle web
 tasarımcıları tarafından alışılmış CSS'in çok daha gelişmiş bir hali
 şeklinde tanımlanabilir. Sadece görsel anlamda değil aynı anda
@@ -286,3 +287,5 @@ değiştirerek tüm projenin görselliğinin değişmesini sağlayabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-7 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: c75af17d-65af-4952-b057-6bc2d7d4a994
 ---
+# 15 Saatlik Silverlight 3.0 Webiner kayıtları! Burada!
 Uzun süre oldu :) Bu sürede onlarca mail aldım. İlk olarak hepinize
 ilginiz için çok teşekkür ediyorum. Biliyorum geciktim, fakat eksikler
 vardı ve toparlamam gerekti. Neden mi bahsediyorum? Tabi ki
@@ -37,3 +38,5 @@ download linklerini de gönül rahatlığı ile paylaşabilirsiniz! Bilgi
 paylaşımı için... İleri! :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-7-15 tarihinde yayinlanmistir.*

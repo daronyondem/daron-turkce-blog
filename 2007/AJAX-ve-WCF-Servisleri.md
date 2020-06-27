@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, WCF
 old.EntryID: df5fa85e-a9c9-4a12-b30a-a6498c437029
 ---
+# AJAX ve WCF Servisleri
 **ASP.NET 3.5**'in gelmesi ile beraber yavaş yavaş yeni AJAX
 uygulamalarımızı da bu yeni platforma taşımamız gerekiyor. Çoğunuzun
 **Visual Studio 2008**'e ait Express sürümlerini hemen
@@ -428,3 +429,5 @@ kullanma noktasında artık pek bir fark kalmamış durumda. O nedenle
 **"Yaşasın WCF"** :)  sloganı ile hepinize kolay gelsin diyorum :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-1 tarihinde yayinlanmistir.*

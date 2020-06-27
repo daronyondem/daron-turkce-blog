@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# IAAS, PAAS, SAAS ve Windows Azure
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/IAAS_PAAS_SAAS_ve_Windows_Azure_SDK2_2)
@@ -169,3 +170,5 @@ olarak inceleyeceğimiz bir çok esneklik ile de ciddi kar edebilirsiniz
 ;) yazıları takip etmeye devam edin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-3-13 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 4.0, Silverlight 4, .NET Framework 4.0, ASP.NET
 old.EntryID: 0cafb025-5283-4ef3-ad0c-fbaf162c27c2
 ---
+# INETA NEXT Bomba gibi geliyor!
 Haftaya çok heyecanlı bir hafta olacak. Los Angeles'taki PDC
 (Professional Developer Conference) ile beraber birçok yenilik bizi
 bekliyor. Büyük süprizler var. Hazır tüm bu sürprizler taze taze
@@ -37,3 +38,5 @@ desteğiniz için çok teşekkürler.
 Banner](media/INETA_NEXT_Bomba_gibi_geliyor/13112009_2.gif)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-14 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: 0dc7cfe4-de95-4cfc-b89d-493d942c37f4
 ---
+# O kadar da severdim hayvanları, zorla Penguen düşmanı yapıyorlar adamı!
 Ahh ahh :) Pireler berber iken ben demiştim ki "*Dünyada hiçbir kurum
 istemci tarafında Linux'e kurumsal destek vermiyor*". Herkes istemci
 tarafından ayağı çekti fakat gel gelelim canım ülkemde yine işler
@@ -90,3 +91,5 @@ Bu Parduscular yüzünden penguen düşmanı oldum ya...
 Kalın sağlıcakla...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-21 tarihinde yayinlanmistir.*

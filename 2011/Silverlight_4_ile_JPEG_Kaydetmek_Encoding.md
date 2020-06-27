@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: aa938a62-c92e-4edc-9f04-85cb79b0da56
 ---
+# Silverlight 4 ile JPEG Kaydetmek / Encoding
 Son iki gündür InkPresenter üzerinden ilerleyerek [ilk aşamada çizim
 özelliklerini
 inceledik](http://daron.yondem.com/tr/post/e9816163-dc3a-4765-a1a4-fd62d627bf61),
@@ -161,3 +162,5 @@ KB)](media/Silverlight_4_ile_JPEG_Kaydetmek_Encoding/04022011_1.zip)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-2-5 tarihinde yayinlanmistir.*

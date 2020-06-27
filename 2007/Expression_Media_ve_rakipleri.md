@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Media
 old.EntryID: ebc1b99d-ddc9-49f8-af34-1dc42b194ece
 ---
+# Expression Media ve rakipleri
 Kullanım noktasında çok doğru konumlandırılması gereken ürünlerden biri
 de Expression Studio içerisindeki Expression Media. Eğer ürünle ilgili
 bilginiz yoksa bilgisayarınıza yükledikten sonra "Ne yapılır ki
@@ -80,3 +81,5 @@ rakipler](http://daron.yondem.com/tr/post/4918cfdc-60cf-448f-8a1c-e6859205bc2f)
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-24 tarihinde yayinlanmistir.*

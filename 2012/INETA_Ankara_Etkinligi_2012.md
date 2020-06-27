@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# INETA Ankara Etkinliği 2012
 İzmir'den sonra INETA Türkiye büyük etkinliklerine Ankara ile devam
 ediyor :) Bilgileri aşağıda ;)
 
@@ -22,3 +23,5 @@ de[WebCamp](https://msevents.microsoft.com/cui/EventDetail.aspx?EventID=10325033
 var Microsoft'ta. Orada da olacağım. Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-1-19 tarihinde yayinlanmistir.*

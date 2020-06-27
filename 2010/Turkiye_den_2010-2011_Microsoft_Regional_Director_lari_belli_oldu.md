@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: fca1d676-980e-4305-8b0c-f2d2b24a4289
 ---
+# Türkiye'den 2010-2011 Microsoft Regional Director'ları belli oldu.
 Geçen sene
 [buradaki](http://daron.yondem.com/tr/post/8221aab4-375d-4109-b025-573f4a5091a1)
 duyuru ile sizlerle paylaştığım üzere 2009 yılında **Microsoft Regional
@@ -51,3 +52,5 @@ Unutmadan, dünyadaki tüm diğer RD'lerin bloglarına ulaşmak isterseniz
 [theregion.com](http://www.theregion.com/)'u ziyaret edebilirsiniz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-1-21 tarihinde yayinlanmistir.*

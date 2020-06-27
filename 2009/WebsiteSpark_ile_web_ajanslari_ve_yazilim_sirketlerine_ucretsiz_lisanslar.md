@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 7132de37-7259-4459-9051-9edd1dcb12f3
 ---
+# WebsiteSpark ile web ajansları ve yazılım şirketlerine ücretsiz lisanslar!
 Bu MUHTEŞEM! :) Beni çok heyecanlandıran ve sevindiren bir haberim var
 bugün sizlere. Dün [Twitter](http://twitter.com/daronyondem) üzerinden
 spoiler verdiğim WebsiteSpark programı Türkiye'de de duyuruldu! 10
@@ -67,3 +68,5 @@ uğraşmamak çok daha rahat.
 "*Helal olsun Microsoft*" diyerek yazımı sonlandırıyorum ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-26 tarihinde yayinlanmistir.*

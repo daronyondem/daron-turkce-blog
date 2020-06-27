@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 5
 old.EntryID: 43f7136f-f81d-4907-9713-041cfd64b4f9
 ---
+# Silverligh 5 Beta ve DoubleClick
 Yıllardır :) Silverlight'ta DoubleClick neden yok diye bekliyoruz da
 bekliyoruz :) Tabi bekliyoruz derken aslında birka satır kodla olay
 çözülebiliyor. Hatta bu konuda mini bir
@@ -119,3 +120,5 @@ Not: Bu implementasyon SL5 release olduğunda değişir. Sonra söylemedi
 demeyin :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-19 tarihinde yayinlanmistir.*

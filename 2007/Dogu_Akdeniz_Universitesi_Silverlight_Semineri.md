@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight
 old.EntryID: 8cf97161-9665-4d63-a3e8-e37cfcf84b8f
 ---
+# Doğu Akdeniz Üniversitesi Silverlight Semineri
 Dün **KKTC, Doğu Akdeniz Üniversitesi**'nde 3 saatlik bir
 **Silverlight** semineri düzenledik. Seminer boyunca gelen sorular ve
 yoğun ilgi beni gerçekten çok sevindirdi. Aşağıda sizlerle seminerde
@@ -27,3 +28,5 @@ Semineri](media/Dogu_Akdeniz_Universitesi_Silverlight_Semineri/27122007_3.jpg)\
 *KKTC, Doğu Akdeniz Üniversitesi Silverlight Semineri*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-29 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 9, OData, Internet Explorer
 old.EntryID: 619ab009-08e7-4d56-9017-1b85cc2d806a
 ---
+# MIX Gün 2
 MIX'in 2. gününde tahmin ettiğim üzere ağırlık **Internet Explorer 9**
 üzerindeydi. Geçen
 [PDC'de](http://daron.yondem.com/tr/post/8deb162f-1f6c-4f7f-b7e3-863bf2d4d47e)
@@ -98,3 +99,5 @@ yazılımcının / teknik birisinin bence hayatında kesinlikle tanışması ve
 sohbet etmesi gereken birisi!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-3-18 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, LINQ, Silverlight 3.0, WPF
 old.EntryID: c84ef580-6a37-4033-a225-34e889d00508
 ---
+# Muğla Üniversitesi Seminerlerim
 Bugün **Muğla Üniversitesi**'ndeydim. LINQ, WPF, Silverlight ve AJAX
 oturumları yaparak yine bir günde bolca bilgi paylaşımı gerçekleşti
 diyebilirim. Üniversitedeki gençlerin özellikle sınav sonrası olmasına
@@ -34,3 +35,5 @@ kardeşim ve sevgili hocalarımıza çok teşekkür ediyorum. Umarım herkes
 için faydalı bir etkinlik olmuştur. ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-28 tarihinde yayinlanmistir.*

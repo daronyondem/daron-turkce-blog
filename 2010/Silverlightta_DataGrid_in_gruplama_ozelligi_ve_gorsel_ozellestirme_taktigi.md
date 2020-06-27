@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: b8878ebc-2367-46aa-96d9-9d4402d6ec1b
 ---
+# Silverlight'ta DataGrid'in gruplama özelliği ve görsel özelleştirme taktiği.
 DataGrid kontrolü belki de iş uygulamalarında en sık kullanılan
 kontrollerden biridir. Silverlight içerisinde de uzun bir süredir
 DataGrid kontrolü bulunuyor. Özellikle performans artıları ve esnekliği
@@ -693,3 +694,5 @@ Türkçeleştirildi.](media/Silverlightta_DataGrid_in_gruplama_ozelligi_ve_gorse
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-6 tarihinde yayinlanmistir.*

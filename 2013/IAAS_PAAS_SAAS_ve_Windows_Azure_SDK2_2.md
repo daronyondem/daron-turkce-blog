@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# IAAS, PAAS, SAAS ve Windows Azure (SDK2.2)
 Windows Azure tarafına hızlı bir giriş yapmadan önce bu yazımızda daha
 fazla "Ne? nedir?" gibi :) veya "bulut da ne ola ki" gibi sorular yavaş
 yavaş cevaplayabilir hale gelmek için genel kavramlara göz atacağız.
@@ -191,3 +192,5 @@ nedenle olsa sa SAAS'tır diyip konuyu burada bitiyorum ;)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-11-26 tarihinde yayinlanmistir.*

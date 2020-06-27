@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, Silverlight 3.0, Silverlight 4
 old.EntryID: 8286a15c-d91f-446d-af48-1986b9134d5f
 ---
+# 2011 MVP Ödülü
 1 Nisan'da bloglarda yapılan postlara baktığınızda hepsi ciddi bir yalan
 olma potansiyeli taşırlar. Durum malum :) herkes şaka yapma peşinde.
 Bazıları ciddi inandırıcı da olabiliyorlar. Ben ise son birkaç yıldır 1
@@ -30,3 +31,5 @@ Hepinize desteğiniz için çok teşekkürler. Bazı bombalarım var sizler
 için merak etmeyin ;) Çok yakında!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-2 tarihinde yayinlanmistir.*

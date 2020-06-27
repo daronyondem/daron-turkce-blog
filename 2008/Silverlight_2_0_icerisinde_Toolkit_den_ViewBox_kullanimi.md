@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 32e59795-7e82-4763-9196-ed9cf07767bb
 ---
+# Silverlight 2.0 içerisinde Toolkit'den ViewBox kullanımı.
 WPF'den Silverlight dünyasına geçince eksiğini hissettiğimiz
 kontrollerin Silverlight Toolkit projesi ile sağlanmaya çalışıldığına
 dair daha önceki yazılarımda ufak ipuçları vermiştim. Bu sefer de yine
@@ -246,3 +247,5 @@ geldiği için normal şartlarda hem ufaltma hem de büyütme yapar.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-18 tarihinde yayinlanmistir.*

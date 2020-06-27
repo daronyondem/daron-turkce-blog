@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 16
 Tags: Azure Storage Services, MSDN Flash, Node.JS, Visual Studio Code, Windows Azure
 ---
+# MSDN Flash Mart İçeriği
 Eğer **Türkçe MSDN Flash** üyesiyseniz son birkaç aydır Microsoft'tan sevgili [İbrahim Kıvanç](http://blogs.msdn.com/b/ikivanc/) ile beraber MSDN Flash'ları beraber yazdığımızın farkına varmış olabilirsiniz. Bu hafta Mart ayı MSDN Flash sayısının içeriğini hazırlarken ¨*Neden bunu bloga atmıyorum?*¨ diye düşündüm bir an :) İşte karşınızda MSDN Flash Mart sayısı için hazırladığım içerik. Blogu takip etmenin avantajı olarak bu içeriğe bir ay önceden ulaşmış oluyorsunuz :) Umarım işinize yarar.
 
 Görüşmek üzere.
@@ -39,3 +40,5 @@ Azure SDK’in yeni sürümü ile beraber servislerde de yenilikler. Azure App S
 Visual Studio Code’u duymayanlarınız kesinlikle denesin! Reklamı geçtikten sonra haberin detayına gelirsik, başlıktan da anlayabileceğiniz üzere Visual Studio Code’a Apache Cordova ile geliştirme desteği geliyor.  Debugging, emulator desteği gibi bekleyeceğiniz standard şeylerin yanı sıra Cordova desteği ile aslında Ionic, Onsen, PhoneGapg ibi frameworkler de desteklenmiş oluyor. Detaylar [burada](https://blogs.msdn.microsoft.com/visualstudio/2016/01/28/apache-cordova-development-lands-on-visual-studio-code/).
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-2-17 tarihinde yayinlanmistir.*

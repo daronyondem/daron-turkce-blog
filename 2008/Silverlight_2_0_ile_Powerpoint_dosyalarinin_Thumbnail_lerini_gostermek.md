@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: a74dbfa8-1bd7-4995-b86e-2936d1c5b6c8
 ---
+# Silverlight 2.0 ile Powerpoint dosyalarının Thumbnail'lerini göstermek.
 Her programcının hayatında en az birkaç defe Office dosya formatları ile
 ilgilendiği projeler olmuştur. Bu durum ister yeni bir Word dosyası
 yaratmak olsun, ister bir Excel dosyasından veri çekmek olsun
@@ -236,3 +237,5 @@ oyuncağına dönüşmüş durumda.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-13 tarihinde yayinlanmistir.*

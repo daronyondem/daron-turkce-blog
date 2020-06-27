@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Webiner, Windows Azure
 ---
+# Azure Mobile Services Webcast 9 Mayıs'ta.
 Hatırlarsanız Şubat ayında [bir anket
 yapmıştım](http://daron.yondem.com/tr/post/Bir_sonraki_webcast_anket_sonuclari)
 :) İşte o anketin sonuçlarına göre bu Cuma akşamı 22.00-23.00 arasında
@@ -31,3 +32,5 @@ linke tıklayıp Live Meeting ile webcasti izlemek ;)
 Cuma görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-5-5 tarihinde yayinlanmistir.*

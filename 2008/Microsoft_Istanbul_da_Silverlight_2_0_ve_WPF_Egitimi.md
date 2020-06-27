@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Silverlight 2.0, WPF
 old.EntryID: 779d1856-4474-4e0c-b8bb-50a83b8aa0ca
 ---
+# Microsoft Istanbul'da Silverlight 2.0 ve WPF Eğitimi
 Bugün **Microsoft İstanbul** ofisinde **Turkcell, Tekfen, Finansbank**
 gibi kurumlardan katılımcıların bulunduğu **Silverlight 2.0 ve WPF**
 eğitimindeydim. Artık yavaş yavaş eğitimleri doğrudan Silverlight 2.0
@@ -28,3 +29,5 @@ aldım :) Şaka bir yana etki - tepki meselesi sonucunda sanırım VB
 fanatikliği yolunda ilerliyorum ki hiç hoş değil :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-2 tarihinde yayinlanmistir.*

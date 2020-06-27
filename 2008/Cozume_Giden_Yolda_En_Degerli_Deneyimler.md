@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 47682f9a-81a7-4635-a604-94c3b0338a5e
 ---
+# Çözüme Giden Yolda En Değerli Deneyimler
 Dünyada ilk defa bir ülkedeki tüm MVP'ler toplanarak bir kitap yazdı.
 Bahsettiğim MVP'ler tabi ki **Türk MVP**'ler :) Kitabı daha inceleme
 şansım benim de olmadı fakat okumaya değer olacağından eminim. Maalesef
@@ -23,3 +24,5 @@ Kitapla ilgili tüm yorumlarınızı da kitaba özel siteye gönderebilirsiniz
 ; <http://www.endegerlideneyimler.com/> 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-9 tarihinde yayinlanmistir.*

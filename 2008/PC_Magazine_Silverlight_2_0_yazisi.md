@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: de6f1a81-35a0-4d95-ab0f-5ec63487dc17
 ---
+# PC Magazine Silverlight 2.0 yazısı
 **![PC Magazine
 Logo](media/PC_Magazine_Silverlight_2_0_yazisi/pcmag_logo.gif)PC
 Magazine** Ağustos sayısından başlayarak Silverlight 2.0 yazılarımla
@@ -23,3 +24,5 @@ de takip edebilirsiniz, kurumsal anlamda twitter kullanımı için güzel
 bir örnek teşkil ediyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-31 tarihinde yayinlanmistir.*

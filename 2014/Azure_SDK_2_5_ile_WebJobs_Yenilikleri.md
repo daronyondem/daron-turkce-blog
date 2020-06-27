@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure SDK 2.5 ile WebJobs Yenilikleri
 Webjobs konusunda daha önce sizlerle [birkaç
 makale](http://daron.yondem.com/software/search/webjobs) paylaşmıştım.
 Tam yeni bir makale ile konuya devam edelim diyecektim ki [Azure SDK
@@ -74,3 +75,5 @@ ile ortada demektir.
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-11-18 tarihinde yayinlanmistir.*

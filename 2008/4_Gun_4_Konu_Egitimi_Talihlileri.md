@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: c22ed138-4760-4b86-8e94-f4c56fdd5c95
 ---
+# 4 Gün 4 Konu Eğitimi Talihlileri
 **TBD** ve **INETA** sponsorluğunda düzenlenen ve sizlere daha önce
 [buradan](http://daron.yondem.com/tr/post/bfb7add2-9b32-462a-b833-99047fd31ffc)
 duyurduğum eğitimin talihlileri belli oldu. Liste aşağıda. Tekrar
@@ -39,3 +40,5 @@ Osman Bugra Buyukbese\
 Arkadaşları kutluyorum. Yarın görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-23 tarihinde yayinlanmistir.*

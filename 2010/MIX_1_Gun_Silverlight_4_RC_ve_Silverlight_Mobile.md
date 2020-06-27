@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4, Windows Phone 7, Windows Phone
 old.EntryID: 10fab4d4-960f-4f20-b1db-0b54abbee4dd
 ---
+# MIX 1. Gün - Silverlight 4 RC ve Silverlight Mobile!
 Son birkaç gündür [Twitter](http://www.twitter.com/daronyondem) üzerinde
 beni takip edenler biliyorlar Microsoft'un yıllık **MIX** konferansı
 için Las Vegas yollarındaydım. Las Vegas konusunda şimdilik ek bir yorum
@@ -119,3 +120,5 @@ bekliyorum! Benim tahminim Internet Explorer 9'la ilgili sürprizler
 olacağı üzerine ;) Bakalım zaman gösterecek.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-3-16 tarihinde yayinlanmistir.*

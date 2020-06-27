@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
 old.EntryID: 4eb9e998-e9ca-4919-9dd8-9be5bac0eb22
 ---
+# Silverlight uygulamaları ve IIS MIME Type ayarı.
 Silverlight uygulamalarında kullandığımız XAML dosyalarının bazı
 durumlarda IIS tarafından istemciye gönderilmediğinden daha önceki
 yazılarımda bahsetmiştim. Bazen bu durum özellikle sunucu admini
@@ -61,3 +62,5 @@ yaşamayacağız.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-12 tarihinde yayinlanmistir.*

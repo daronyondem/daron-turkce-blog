@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: e1e8c3dc-68d6-42b8-953f-3347ffbe0aa6
 ---
+# 2008 Blog Ödülleri Oy Çırpınışları
 Popülist yarışmaları aslında pek sevmem ama birinciliği severim :) O
 nedenle blogumu takip eden sizlerin de bu popülistliğe katılmayacağınızı
 düşünmeme rağmen "belki" diyerek 2008 yılı Blog Ödülleri yarışmasındaki
@@ -27,3 +28,5 @@ olduğuydu.
 iki gün içinde :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-22 tarihinde yayinlanmistir.*

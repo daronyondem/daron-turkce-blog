@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ
 old.EntryID: 39bda292-3e08-499c-8824-b17f81fdaf50
 ---
+# LINQ ile INSERT, UPDATE ve DELETE
 **LINQ** ile veritabanına sorgu göndererek istediğimiz verileri
 alabileceğimiz örneklere blogumda eski yazılarımda bolca yer verdim.
 Fakat aslında LINQ sadece veritabanından veri çekmek için değil yeri
@@ -144,3 +145,5 @@ Yeni yılın bu ilk yazısında hepinize tekrar sağlıklı ve mutlu bir yıl
 diliyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-2 tarihinde yayinlanmistir.*

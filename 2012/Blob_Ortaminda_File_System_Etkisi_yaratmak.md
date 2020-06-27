@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Blob Ortamında File System Etkisi yaratmak
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Blob_Ortaminda_File_System_Etkisi_yaratmak_SDK2_5)
@@ -200,3 +201,5 @@ herşeyin listesini alabilirsiniz.
 Kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-6-26 tarihinde yayinlanmistir.*

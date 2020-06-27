@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# XOMNI'deki yeni görevim
 Yeni yıl, yeni gelişmeler devam ediyor :) Neden hepsi yıl sonuna / yıl
 başına denk geliyor bilmiyorum ama belki de psikolojik bir "değişim"
 tetikleyiciliği yapıyordur yılın da bitiyor, yenileniyor olması. Her
@@ -37,3 +38,5 @@ tembelliğe vurarak :) aşağıdaki videoyu sizlerle paylaşıyorum.
 Hepinize süper bir 2013 diliyorum!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-12-30 tarihinde yayinlanmistir.*

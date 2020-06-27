@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows Azure
 old.EntryID: 2a72b1f7-e546-4fb3-a449-0a8db7e2cff4
 ---
+# Ürdün Azure Kampı'ndaki slaytlarım ve örneklerden bazıları.
 Azure konusunda şu ana kadar bloga hiç yazı yazmdığımın farkına vardım
 bir an :) Neyse konumuza dönelim. Bugün Ürdün, Amman'daydım. Nitekim
 hala Amman'dayım :) Azure kampı adında bir etkinliğin ilk gününü
@@ -36,3 +37,5 @@ MB)](media/Urdun_Azure_Kampindaki_slaytlarim_ve_orneklerden_bazilari/30012011_2.
 Umarım işinize yarar, görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-1-31 tarihinde yayinlanmistir.*

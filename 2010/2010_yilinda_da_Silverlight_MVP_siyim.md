@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, Silverlight 3.0, Silverlight 4
 old.EntryID: 15435954-a1ad-4349-9ca9-22cdb1573903
 ---
+# 2010 yılında da Silverlight MVP'siyim.
 Her sene 1 Nisan MVP'liğimin bittiği gün :) Şaka gibi değil mi? :)
 Biliyorsunuz MVP ünvanı her seferinde senelik olan Microsoft tarafından
 verilen bir ünvan bu nedenle bir bitiş tarihi var ve bu nedenle de her
@@ -25,3 +26,5 @@ var ;)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-1 tarihinde yayinlanmistir.*

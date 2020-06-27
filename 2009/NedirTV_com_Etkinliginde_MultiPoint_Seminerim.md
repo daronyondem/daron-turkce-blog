@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, MultiPoint SDK, SQL Server 2008, Windows 7, ASP.NET
 old.EntryID: 90f99e43-551d-425c-8f41-f288bebd4578
 ---
+# NedirTV.com Etkinliğinde MultiPoint Seminerim
 Bugün tam günlük
 [NedirTv.com](http://www.nedirtv.com/haber/nedirtvcom-Seminerleri---Istanbul-14-Mart-2009.aspx)
 etkinliğindeydik. NedirTv'nin üçüncü yılını kutladığımız bu etkinlikte
@@ -39,3 +40,5 @@ aşağıdaki adresten bilgisayarınıza indirebilirsiniz ;)
 [http://cid-8eca4439fd9a640f.skydrive.live.com/browse.aspx/NedirTV%203.%20Yıl%20Dönümü%20İstanbul%20Etkinliği](http://cid-8eca4439fd9a640f.skydrive.live.com/browse.aspx/NedirTV%203.%20Yıl%20Dönümü%20İstanbul%20Etkinliği)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-14 tarihinde yayinlanmistir.*

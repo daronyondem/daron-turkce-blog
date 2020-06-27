@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'a Remote Desktop
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/Azure_Remote_Desktop_SDK2_2)
@@ -217,3 +218,5 @@ olduk hem biraz da azure'daki sanal bir makineyi karıştırdık ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-5-8 tarihinde yayinlanmistir.*

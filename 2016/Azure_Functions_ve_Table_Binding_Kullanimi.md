@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 87
 Tags: Azure Functions
 ---
+# Azure Functions ve Table Binding Kullanımı
 Azure Functions ile Azure Storage'daki Table Services arasında bir TableTrigger yok. Fakat [QueueTrigger](http://daron.yondem.com/software/post/Azure_Functions_ile_QueueTrigger_Kullanmak) veya [TimerTrigger](http://daron.yondem.com/software/post/Azure_Functions_ve_TimerTrigger_Kullanimi) gibi tetkikleyicilerle beraber kullanarak TableBinding ile Table Services'dan veri alıp gönderebilirsiniz. Tüm bunlardan önce eğer "Table Services da neyin nesi?" diyorsanız :) [Giriş](http://daron.yondem.com/software/post/Azure_Storage_Table_Services_SDK2_5), [gelişme](http://daron.yondem.com/software/post/Table_Services_SDK25_Sinsi_Relationlar) ve [sonuç](http://daron.yondem.com/software/post/Table_Services_SDK_25_Continuation_Token) diyerek tüm bunların öncesinde Table Services yazılarımı okumanızı tavsiye ederim.
 
 ### Input Binding
@@ -227,3 +228,5 @@ public class OrnekObje : TableEntity
  Hem inputBinding'de hem de outputBinding'de eğer metod imzasında yukarıdaki gibi obje tipini **CloudTable** olarak tanımlarsanız azami esnekliğe sahip olur ve Azure SDK ile beraber gelen tüm **TableOperation**'ları kullanabilirsiniz. Yukarıdaki örnekte hem sorgulama işinin, hem de nesne güncelleme işinin tamamen Azure Storage SDK ile yapılmış halini görebilirsiniz.
 
  Kolay gelsin ;)
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-7 tarihinde yayinlanmistir.*

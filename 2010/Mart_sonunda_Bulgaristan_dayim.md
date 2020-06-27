@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0, Silverlight 4
 old.EntryID: 45624dfb-764a-447f-b48c-dd065018e378
 ---
+# Mart sonunda Bulgaristan'dayım!
 ![MS Days
 Bulgaria](media/Mart_sonunda_Bulgaristan_dayim/05022010_1.jpg)Herkese
 selamlar! :) Neden bilmiyorum ama selam vererek yazıya başlayasım geldi.
@@ -39,3 +40,5 @@ Sunalı](http://sunali.com/)'nın da aktivitede bir oturumu var ;)
 Coşkun'un oturumunu da takvime almayı unutmayın bence ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-2-7 tarihinde yayinlanmistir.*

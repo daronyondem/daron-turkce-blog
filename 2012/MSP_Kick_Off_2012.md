@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: HTML, IE 10, Windows 8, Windows Azure
 ---
+# MSP Kick-Off 2012
 Tekrar bir MSP Kick-Off ve tekrar ben Azure anlattım :) Bir önceki MSP
 Kick-Off'u daha gün gibi hatırlıyor olmam zamanın çok hızlı geçtiğinin
 kanıtı sanırım. Bugün ve dün gerçekleşen 2012 MSP Kick-Off toplantısının
@@ -29,3 +30,5 @@ kuvvetlendirmenizde büyük fayda olacaktır çocuklar ;)
 Kendinize çok iyi bakın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-13 tarihinde yayinlanmistir.*

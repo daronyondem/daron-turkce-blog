@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 13
 Tags: Azure Service Fabric
 ---
+# Azure ve Microservices Anlattım
 Dün Microsoft'un Windows Server 2016 başlıklı bir **DevOps** etkinliği vardı. Etkinliğin yazılımcı tarafında bana da bir oturum verdiler :) Ben de **Azure ve Microservices**, yani **Service Fabric** anlattım. Aslında Service Fabric konusunda bol bol bloga yazı yazasım da var :) Bakalım ne zaman gelecek o yazılar. 
 
 ![Microsoft DevOps Etkinliğinde Microservices anlatırken.](media/Azure_ve_Microservices_Anlattim/microservices.jpg)
@@ -19,3 +20,5 @@ Etkinliğin sonunda sohbete kalanlara buradan ayrıca teşekkür etmek istiyorum
 Oturumda kullandığım slaytları [Speaker Deck](https://speakerdeck.com/daronyondem)'e yükledim, yukarıda da bulabilirsiniz. Oturumda kullandığım örnek de her zamanki gibi [github'da](https://github.com/daronyondem/AzureOrnekler/tree/master/Service_Fabric) ;)
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-11-18 tarihinde yayinlanmistir.*

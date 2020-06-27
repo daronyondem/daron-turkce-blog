@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0, Silverlight 4
 old.EntryID: 3101def8-aea5-44d3-857c-99b4b5d0ff16
 ---
+# SilverNight İzmir
 Dün gece sabahladık! Ege Üniversitesi'nde Ege'deki öğrencilere özel bir
 SilverNight etkinliği ile sabaha kadar oyun programladık :) Çoğunuzun bu
 habere kısmen kızacağını biliyorum çünkü SilverNight etkinliğini
@@ -55,3 +56,5 @@ Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)](http://daron.yondem
 *SilverNight İzmir birincisi ekibin oyunu!*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-5-1 tarihinde yayinlanmistir.*

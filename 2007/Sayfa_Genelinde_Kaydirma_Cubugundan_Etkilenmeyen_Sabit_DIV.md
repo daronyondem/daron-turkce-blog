@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: CSS, HTML
 old.EntryID: 4aa09b7d-7384-44bb-a0ec-a31d5c5c11ca
 ---
+# Sayfa Genelinde Kaydırma Çubuğundan Etkilenmeyen Sabit DIV (Katman)
 Sayfada kaydırma çubuğu ile web sitenizi gezen kullanıcılara sayfanızın
 belirli bölümü sürekli göstermek isteyebilirsiniz. Buna çok basit bir
 örnek olarak sitenizin menüsü veya sitenize almış olduğunuz bir reklam
@@ -95,3 +96,5 @@ mevcut. Fakat ben yazımı burada sonlandırarak eski teknolojiye yatırım
 yapmayacağım. Sizin de yapmanızı tavsiye etmem :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-22 tarihinde yayinlanmistir.*

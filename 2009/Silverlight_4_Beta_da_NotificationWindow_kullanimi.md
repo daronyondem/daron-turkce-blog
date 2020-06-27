@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: f377192d-7f1c-4272-b670-26665582744c
 ---
+# Silverlight 4 Beta'da NotificationWindow kullanımı.
 Notification deyince aklınıza büyük ihtimal ile Outlook'un veya Live
 Messenger'ın alttan çıkan minik pencereleri gelecektir. Çok sıklaşmaması
 halinde gerçekten güzel bir kullanıcı deneyimi sağlayan Notification
@@ -436,3 +437,5 @@ deneyimi çok daha zenginleştirmeniz mümkün.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-29 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, ADO.NET Data Services
 old.EntryID: 5d3bd419-4128-4f41-9c4f-a3cb6273b4a8
 ---
+# Silverlight 2.0 ve ADO.NET Data Services
 Silverlight 2.0 tarafında veritabanı erişimi için mecburen web
 servisleri kullanmak zorundayız. Durum böyle olunca tek tek
 veritabanındaki işlemler için ayrı web servisleri yazmak bir noktadan
@@ -425,3 +426,5 @@ pek dokunmayacağız.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-10 tarihinde yayinlanmistir.*

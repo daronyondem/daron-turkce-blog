@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# INETA Ankara'daydı...
 INETA serisi devam ediyor. Laf aramızda yeni
 görevinde[Muammer](http://www.muammerbenzes.com/) gerçekten süper bir iş
 çıkarıyor ;) Ankara INETA etkinliği de bu hafta sonu gerçekleşti. İki
@@ -27,3 +28,5 @@ eğlenceli ve tabi ki faydalı bir hafta sonu geçirmiştir ;)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-6 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Photoshop, Silverlight 2.0
 old.EntryID: 54ab9952-efca-4121-83db-fc42b55786e7
 ---
+# Photoshop'tan Silverlight 2.0 DeepZoom Export
 Photoshop hayatımızın o kadar göbeğine oturmuş durumda ki dilimize bir
 fiil olarak girdiğini bile söyleyebiliriz, "*photoşoplanmıştır o!*" gibi
 deyimler pek de yabancı değil :) Bu yazıda size **Photoshop'tan
@@ -41,3 +42,5 @@ Your browser does not support inline frames or is currently configured
 not to display inline frames.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-20 tarihinde yayinlanmistir.*

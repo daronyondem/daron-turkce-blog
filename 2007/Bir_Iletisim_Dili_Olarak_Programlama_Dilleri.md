@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: 0fa6bd8d-4d56-4331-b6de-b05096e29164
 ---
+# Bir İletişim Dili Olarak Programlama Dilleri
 Programlamayı eğer bir meslek olarak yapıyorsanız bu yazımdan sonra bana
 büyük ihtimal ile "rahatsız bu adam" gözüyle bakacaksınız. Benim için
 programlama maalesef bir meslek değil, yani iş yerinden çıktığımda
@@ -69,3 +70,5 @@ Durum cidden komik. Eğer sizin de böyle örnekleriniz varsa lütfen
 paylaşın :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-9 tarihinde yayinlanmistir.*

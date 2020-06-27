@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Stratejik Planlama
 old.EntryID: 9b36c7fd-8b36-4e57-a8f1-2e6877a79c9b
 ---
+# SWOT Analizi nedir, nasıl yapılır?
 **SWOT** Analizi, diğer adı ile **TOWS Matrisi** önceden belirlenmiş bir
 konu dahilinde karar alma aşamasında yardımcı bir araç olarak
 kullanılır. Analizin temel amacı karar verme aşamasında konu ile ilgili
@@ -82,3 +83,5 @@ yönetici ve üretim uzmanı (mühendis) bulunması faydalı olacaktır.
 İyi çalışmalar.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-12 tarihinde yayinlanmistir.*

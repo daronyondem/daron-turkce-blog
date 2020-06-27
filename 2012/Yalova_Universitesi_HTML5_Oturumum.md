@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Yalova Üniversitesi HTML5 Oturumum
 Dün Yalova yolcusuyduk. [INETA Türkiye](http://www.inetatr.org/) yeni
 ekibi ile beraber (bu sefer ben bir konuşmacı olarak katıldım) :) ilk
 etkinliğimize gittik. "[INETA
@@ -31,3 +32,5 @@ Kendinize çok iyi bakın!
 MB)](media/Yalova_Universitesi_HTML5_Oturumum/HTML5.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-1-4 tarihinde yayinlanmistir.*

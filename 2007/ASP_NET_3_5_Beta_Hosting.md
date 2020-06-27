@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET
 old.EntryID: d53f9f49-a98b-48d3-856c-ea1806b12b01
 ---
+# ASP.NET 3.5 Beta Hosting
 **ASP.NET 3.5** sürümünün giderek yaklaştığı şu günlerde yavaş yavaş
 Beta Hosting hizmetleri de kendini göstermeye başladı. [Crsytal
 Tech](http://www.crystaltech.com/) hosting şirketi ASP.NET 3.5 Beta
@@ -23,3 +24,5 @@ Beta hosting ile ilgili hizmet sayfasına
 [buradan](http://www.crystaltech.com/dotnet35.aspx) ulaşabilirsiniz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-3 tarihinde yayinlanmistir.*

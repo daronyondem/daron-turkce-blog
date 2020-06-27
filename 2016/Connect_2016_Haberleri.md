@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 55
 Tags: .NET Core, Azure App Insights, Azure Container Services, Docker, DocumentDB, Entity Framework Core, Visual Studio 2017, Visual Studio for Mac, Xamarin
 ---
+# Connect 2016 Haberleri
 Biraz önce Microsoft'un [Connect](https://connectevent.microsoft.com/) etkinliği başladı ve duyurular peşi sıra geliyor. Online olarak izleyemeyenler için duyuruları hızlıca özetlemenin yanı sıra aslında Connect etkinliğinin bir de Türkiye ayağını duyurmak istiyorum :) Karşınızda [**re-Connect Türkiye**](https://www.eventbrite.com/e/re-connect-2016-registration-29265713537) :) Etkinliğin ajandasını yarın duyuracağız, ama genel olarak yurt dışındaki Connect'in yerelleştirilmiş hali olarak düşünebilirsiniz. 
 
 ![](media/Connect_2016_Haberleri/banner.png)
@@ -45,3 +46,5 @@ Tabi bir de bunlar var;
 * Google Cloud .NET Foundation Teknik Yönetim Kurulu'na katılmış.    
 
 İşte böyle :) Yazının başında da reklamını yaptığım üzere yukarıdaki konuların bazılarını sahneye alacağımız bir re-Connect Türkiye etkinliği olacak ve tarihi, saati şimdiden belli. Katılımcı sınırı olacağı için eğer gelebilecekseniz :) [kayıt olmanızda](https://www.eventbrite.com/e/re-connect-2016-registration-29265713537) fayda var. Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-11-16 tarihinde yayinlanmistir.*

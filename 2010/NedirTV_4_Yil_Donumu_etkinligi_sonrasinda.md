@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: HTML5, IE 9, Internet Explorer
 old.EntryID: 05a1a9b8-d4a5-4e55-9961-11fbb6fad37b
 ---
+# NedirTV 4. Yıl Dönümü etkinliği sonrasında...
 Bugün [NedirTV 4. Yıl
 Dönümü](http://daron.yondem.com/tr/post/3554f8b7-23d3-426f-bc10-b9f6f3075fa2)
 etkinliğindeydim. Etkinlikten bahsetmeden önce 4. yılına giren
@@ -34,3 +35,5 @@ Etkinlikteki tüm fotoğraflara
 ulaşabilirsiniz. Bir başka etkinliklte tekrar görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-11 tarihinde yayinlanmistir.*

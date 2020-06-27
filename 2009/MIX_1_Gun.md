@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Web, MVC, Silverlight 3.0
 old.EntryID: d8e96864-352b-433d-b7f0-5ea584db31d7
 ---
+# MIX 1. Gün
 Ve MIX'in ilk günü bitti :) Muhteşem haberler ve gelişmeler var
 paylaşmak istediğim fakat maalesef gün içinde bloga yazı yazacak zamanım
 olmadı. Oturum aralarında en fazla 20 dakika var ve bu sürede bir
@@ -152,3 +153,5 @@ ASP.NET artık sadece SL için bir business/data layer olarak kalacak gibi
 gözüküyor. Bakalım yarın neler olacak ;) 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-18 tarihinde yayinlanmistir.*

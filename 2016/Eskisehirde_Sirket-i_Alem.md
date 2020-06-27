@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 4
 Tags: Seminer
 ---
+# Eskişehir'de Şirket-i Alem
 Dün Eskişehir'de Osmangazi Üniversitesi'ndeydim. IEEE'nin "2 Günde Şirketi Alem" etkinliğinde konuştum. Yolculuğun verdiği yorgunluk haricinde süper eğlenceli bir gündü. Özellikle VLOG'u videobomblayan arkadaşları unutmayacağım. Tabi bir de benden esinlenerek 27KG vermiş olan kardeşim var. Merak edenler aşağıdan izleyebilir.
 
 ![](media/Eskisehirde_Sirket-i_Alem/osmangazi.jpg)
@@ -15,3 +16,5 @@ Dün Eskişehir'de Osmangazi Üniversitesi'ndeydim. IEEE'nin "2 Günde Şirketi 
 Etkinlikte emeği geçen tüm kardeşlerime çok teşekkürler. Tekrar görüşmek üzere.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjzJN_MPn_U" frameborder="0" allowfullscreen></iframe>
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-3-14 tarihinde yayinlanmistir.*

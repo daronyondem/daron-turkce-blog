@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 12
 Tags: Seminer
 ---
+# Voxxed Days Istanbul'da Swagger anlattım.
 Aylar önce [Voxxed Days](https://istanbul.voxxeddays.com/#speakers)'in konuşmacı başvurularını açtığını duyduğumda "Neden olmasın?" diyerek Swagger üzerine bir oturum tavsiyesi göndermiştim. Oturumum seçildi :) Neden mi bu kadar şaşırıyorum? Voxxed Days Istanbul konferansını Istanbul Java User Group organize ediyor ve benim Java ile hayatımdaki tüm maceram ancak ismen benzeyebilen JavaScript kadar :D 
 
 ![](media/Voxxed_Days_Istanbulda_Swagger_anlattim/voxxed-days.jpg)
@@ -20,3 +21,5 @@ Oturumdaki kullandığım sunumu da ek kaynaklara ulaşabilmeniz adına yukarıd
 
 Görüşmek üzere.
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-5-8 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: MVP, MVP Summit
 ---
+# MVP Summit 2014 Deneyimi
 Geçen hafta MVP Summit 2014 için Seattle, Redmond'daydım. MVP olduğum
 sekiz yıldır MVP Summit'e gidiyorum :) Daha önceleri bazılarında [kısa
 blog yazıları ile](http://daron.yondem.com/software/search/MVP%20Summit)
@@ -30,3 +31,5 @@ gizli...](media/MVP_Summit_2014_Deneyimi/nda.jpg)
 *Her şey çok gizli...*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-11-12 tarihinde yayinlanmistir.*

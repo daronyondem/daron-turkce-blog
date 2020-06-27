@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 32597b4b-2cd7-4375-b47d-4dc676b2290a
 ---
+# Sahtekar CSS
 Sanırım şöyle bir genelleme yapsam hiç de yanlış olmaz; yazılım
 geliştiriciler pazarlamacıları sevmez. Bunun nedeni aslında yazılım
 geliştiricilerin pazarlamacıları sadece konuşarak (laf yaparak) satış
@@ -103,3 +104,5 @@ Daha dertli olduğum ve yazmak istediğim birkaç şey daha var, onları da
 yavaş yavaş dökeceğim ortaya :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-9 tarihinde yayinlanmistir.*

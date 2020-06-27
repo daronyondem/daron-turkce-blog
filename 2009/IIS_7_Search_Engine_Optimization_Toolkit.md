@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IIS 7.0
 old.EntryID: 4294ed70-c96c-45ed-b50a-66e330a1ae95
 ---
+# IIS 7 Search Engine Optimization Toolkit
 Arama Motoru Optimizasyonu konusu bazı durumlarda çok önemli bir hal
 alabiliyor. Bu konuya ciddi yatırım yapan kişiler / kurumsal bulmak hiç
 de zor değil. İşte tam da bu konuda Microsoft tarafından **IIS7** için
@@ -116,3 +117,5 @@ sağlıyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-3 tarihinde yayinlanmistir.*

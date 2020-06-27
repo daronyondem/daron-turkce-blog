@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: ced3143c-56ff-4302-9e92-0e578c963ea7
 ---
+# yazgelistir.com'daki Makalelerim...
 Blog sitemde yayınladığım makalelerin bazılarını **yazgelistir.com**
 üzerinden de sizlerle paylaşıyorum. Aslına bakarsanız sizlerle değil de
 blog sitemi ziyaret etmeyenlerle paylaşıyorum, siz zaten birinci elden
@@ -43,3 +44,5 @@ Almak](http://www.yazgelistir.com/Makaleler/1000001449.ygpx)\
 Geliştirme](http://www.yazgelistir.com/Makaleler/1000001434.ygpx)\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-5 tarihinde yayinlanmistir.*

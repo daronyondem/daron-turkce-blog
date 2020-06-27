@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Haberler
 old.EntryID: e89b02ca-bfac-422d-99bc-ee254e2ba2c9
 ---
+# AJAX ve Silverlight Yazılarım Artık PCnet'te..
 ![](media/AJAX_ve_Silverlight_Yazilarim_Artik_PCnette/pcnet.png)Önümüzdeki ay,
 yani Ekim itibari ile [PCnet](http://www.pcnet.com.tr)'te AJAX ve
 Silverlight konulu yazılarım aylık olarak yayınlanıyor olacak. "Biz
@@ -22,3 +23,5 @@ Konu ile ilgili gösterdiği yakınlık için PCnet ekibinden adaşım sevgili
 Yazılım Editörü Daron Dedeoğlu'na buradan teşekkürlerimi sunuyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-21 tarihinde yayinlanmistir.*

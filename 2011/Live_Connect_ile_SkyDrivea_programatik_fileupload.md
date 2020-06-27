@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: live.com, SkyDrive, WPF
 ---
+# Live Connect ile SkyDrive'a programatik file upload
 Build konferansında SkyDrive'a ait yeni API'lerin açılacağı ve Beta
 olarak sunulduğu duyurusunun yapıldığı anda hemen aklımda kenara not
 almıştım, "Ben bu işe bir bakiyim" diye :) SkyDrive malum kullanıcı
@@ -541,3 +542,5 @@ Bu makale **Live Connect SDK SkyDrive Developer Preview / Beta**REST
 API'leri kullanılarak hazırlanmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-24 tarihinde yayinlanmistir.*

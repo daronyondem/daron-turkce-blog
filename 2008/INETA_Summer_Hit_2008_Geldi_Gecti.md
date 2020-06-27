@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, LINQ, Seminer, Silverlight 2.0, Internet Explorer
 old.EntryID: 26e2f35a-9799-44b6-b039-52b73b375542
 ---
+# INETA Summer Hit 2008 Geldi... Geçti...
 Bugün **INETA Summer Hit 2008**'in ikinci gününü de mutlu bir şekilde
 sonlandırdık. Yaz aylarında bir hafta sonu etkinliğinde 350 üstü
 katılımcıya sahip olmak benim için çok heyecan vericiydi. "*Acaba
@@ -39,3 +40,5 @@ Bilişim Kulübü'nden Oğuz Yılmaz, M. Zeki Ersen'e de ayrı ayrı
 teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-4 tarihinde yayinlanmistir.*

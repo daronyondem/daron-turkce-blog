@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 102a3691-92e0-466b-ad4f-075be1e15edc
 ---
+# Silverlight 4 Beta'da masaüstünden webe dosya sürükle & bırak!
 Web uygulamaları ile masaüstü deneyimini birbiri ile konuşturmak aslında
 çok önemli özelliklerden biri. Bu çerçevede iletişim olarak
 adlandırdığımız şey basit bir şekilde dosyalara erişim bile olabilir.
@@ -306,3 +307,5 @@ rahat anlayabilirler.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-28 tarihinde yayinlanmistir.*

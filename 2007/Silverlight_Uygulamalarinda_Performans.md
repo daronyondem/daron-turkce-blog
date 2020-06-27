@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 8c2d5f22-af61-4d0d-94e4-dfde28f58027
 ---
+# Silverlight Uygulamalarında Performans
 *"Ne zaman Silverlight uygulamaları hazırlamaya başladık da sıra
 performansa geldi?"* diyenleriniz olabilir :) Haklısınız, umarım yakında
 giriş seviyesi **Silverlight** yazıları da yazabilirim. Aslında bu tür
@@ -84,3 +85,5 @@ bölerek sırayla yaptırırsanız Silverlight'a animasyonlarıyla devam etme
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-22 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 1b29ea69-ad48-45fd-a600-1516e91f31b5
 ---
+# Ankara Üniversitesi Seminerim ve bazı detaylar
 Bugün Ankara'da Ankara Üniversitesi'ndeydim. Son dönemde bolca "Neden
 Ankara'ya gelmiyorsunuz" mesajları aldığım için özellikle bu ziyaretimi
 de bloga yazmak istiyorum :) Bu süreçte hala bazen bu gibi etkinlikleri
@@ -76,3 +77,5 @@ Ceylan](http://atahanceylan.blogspot.com/)'a, TBD Genç ekibine ve
 Tekrar görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-21 tarihinde yayinlanmistir.*

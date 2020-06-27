@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Design
 old.EntryID: 82d60ae0-644a-42d2-a5a2-42a4f7f1b1eb
 ---
+# Expression Design Service Pack 1
 **![Expression
 Design](media/Expression_Design_Service_Pack_1/expression_design_1.png)Expression
 Design** ile çalışırken aldığınız XAML çıktılarında sorunlarla
@@ -21,3 +22,5 @@ herkesin SP'i bilgisayarına indirerek yüklemesi.
 <http://www.microsoft.com/downloads/details.aspx?FamilyID=937adf32-0fea-4bb7-b727-cbfbdf3fe032&displaylang=en>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-24 tarihinde yayinlanmistir.*

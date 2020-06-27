@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET, Silverlight, Webiner
 old.EntryID: 14095acc-86ff-44b2-82d4-837d5b2fcf88
 ---
+# Silverlight ve MS ASP.NET AJAX ile Uygulama Geliştirme Webineri
 Yepyeni bir webiner ile tekrar karşınızdayım :) **7 Kasım Çarşamba**
 günü saat **15:15-16.00** arası Silverlight uygulamaları ile ASP.NET 2.0
 ve ASP.NET AJAX Extension kullanımına değineceğiz. İstemci tarafında
@@ -26,3 +27,5 @@ Bu webiner Microsoft Kurumsal Webiner serisinden olduğu için yukarıdaki
 linkten giriş yaparak kayıt olmanız gerekiyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-4 tarihinde yayinlanmistir.*

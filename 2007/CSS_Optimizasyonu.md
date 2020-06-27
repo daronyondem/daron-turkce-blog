@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: CSS
 old.EntryID: 7d486108-9d61-4b41-9034-91eded6de3a5
 ---
+# CSS Optimizasyonu
 CSS'in varlığı başlı başına bir optimizasyon ihtiyacından kaynaklanır.
 HTML kodları arasında onlarca defa aynı görsel tanımlamaları yapmama
 amacıyla CSS kullanırız. Böylece hem iş yükümüzü azaltmış oluruz hem de
@@ -88,3 +89,5 @@ sürede ciddi optimizasyon sağlayabiliyorlar fakat maksimum optimizasyon
 için sizin de kodlarınıza bir göz atmanız şart.\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-23 tarihinde yayinlanmistir.*

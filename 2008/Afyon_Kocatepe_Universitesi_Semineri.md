@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 0a79d1ff-296d-41f8-8966-71ef6e426072
 ---
+# Afyon Kocatepe Üniversitesi Semineri
 Bugün **Afyon Kocatepe Üniversitesi**'ndeydim. Bilgi İşlem Daire
 Başkanlığı'nın düzenlediği seminer günündeydim. Sabah 10.00 ile
 başlangıcı yaparak 17.00'a kadar Silverlight, WPF, AJAX, LINQ konularına
@@ -25,3 +26,5 @@ Fakültesi'nden Öğretim Görevlisi **Ertuğrul Ergün**'e buradan
 teşekkürlerimi iletiyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-21 tarihinde yayinlanmistir.*

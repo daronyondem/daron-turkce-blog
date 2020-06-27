@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 6f5dbc20-6cd3-453e-a621-444ffed417cd
 ---
+# Silverlight ile istemci tarafına ZIP arşivi yükleyerek içeriğini kullanmak ve Preloader uygulaması
 Silverlight ile beraber gelen belki de en güzel özelliklerden biri
 Silverlight animasyonlarında kullanabileceğiniz harici içeriği sunucudan
 istemciye indirirken bir **ZIP** paketi şeklinde indirerek
@@ -298,3 +299,5 @@ style="color: #a31515;">"%"</span>;
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-5 tarihinde yayinlanmistir.*

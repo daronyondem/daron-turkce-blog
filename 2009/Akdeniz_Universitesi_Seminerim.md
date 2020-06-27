@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 646cc301-2972-4bfd-9e39-b00cd67be81b
 ---
+# Akdeniz Üniversitesi Seminerim
 Bugün Antalya'nın güzel havasında **Akdeniz Üniversitesi**'nin
 düzenlediği **Internet Haftası** etkinliğindeydim. Etkinliğin son
 oturumunda genç kardeşlerimle "**Kullanıcı Deneyimi**"nin yazılım
@@ -26,3 +27,5 @@ teşekkürler. En kısa zamanda daha geniş çaplı teknik ağırlıklı bir
 etkinlik ile tekrar görüşmek ümidi ile...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-14 tarihinde yayinlanmistir.*

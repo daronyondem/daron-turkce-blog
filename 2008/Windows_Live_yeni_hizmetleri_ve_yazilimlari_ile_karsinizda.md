@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: live.com
 old.EntryID: 69944ab6-6344-4fab-8974-ed65a8a21713
 ---
+# Windows Live yeni hizmetleri ve yazılımları ile karşınızda!
 Windows Live hizmetlerinin yeni serisi yayına geçti. Yeni seriyi
 [www.windowslive.com](http://www.windowslive.com) adresinden
 inceleyebilirsiniz. Özellikle SkyDrive entegrasyonu ve LiveID başına
@@ -62,3 +63,5 @@ listelendiğini unutmayalım.
 Ben de yakında bir kaç Live Group ile karşınıza çıkacağım ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-16 tarihinde yayinlanmistir.*

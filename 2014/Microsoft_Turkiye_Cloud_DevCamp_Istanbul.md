@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Windows Azure
 ---
+# Microsoft Türkiye Cloud DevCamp Istanbul
 ![](media/Microsoft_Turkiye_Cloud_DevCamp_Istanbul/devcamp.jpg)
 
 Dün Microsoft'un organizasyonunda "Cloud DevCamp" gerçekleştirildi. Ben de gün boyunca üç oturum ile Compute Services, Mobile Services ve Azure Web Sites anlattım. 
@@ -24,3 +25,5 @@ Etkinlik community etkinliğinden öte Microsoft'un bir etkinliği olunca yukar�
 Etkinliğe katılan herkese çok teşekkürler. 
 
 Görüşmek üzere!
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-17 tarihinde yayinlanmistir.*

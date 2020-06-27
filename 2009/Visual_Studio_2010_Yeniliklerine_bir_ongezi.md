@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2010
 old.EntryID: 84bb0898-3131-40df-b664-c4e252178cd7
 ---
+# Visual Studio 2010 Yeniliklerine bir öngezi!
 Visual Studio 2010 Beta çıkalı epey oluyor. Performans açısından şu an
 için bir beklenti çok yanlış olsa da gelen yeni bazı özelliklerden
 erkenden haberdar olmanın da zararı olmaz sanırım. Sizin için
@@ -29,3 +30,5 @@ ziyaret edebilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-9 tarihinde yayinlanmistir.*

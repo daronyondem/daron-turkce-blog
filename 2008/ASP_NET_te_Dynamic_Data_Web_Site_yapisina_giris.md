@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
 old.EntryID: a562c8ca-165a-41ba-b82b-0996aa8ea267
 ---
+# ASP.NET'te Dynamic Data Web Site yapısına giriş.
 ASP.NET tarafında programlama yaparken çoğu zaman yaptığımız işlemlerin
 veya kullanıcılara sağlamaya çalıştığımız ortamında sadece CRUD (Create,
 Read, Update, Delete) operasyonlarını yapmakla yükümlü olduğunu farkına
@@ -180,3 +181,5 @@ mekanizmaları da inceleyeceğiz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-12 tarihinde yayinlanmistir.*

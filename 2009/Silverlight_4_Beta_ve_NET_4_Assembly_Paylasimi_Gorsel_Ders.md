@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 850f7ddc-2774-4c75-9b12-68f10a0877bc
 ---
+# Silverlight 4 Beta ve
 Bu görsel dersimizde Silverligh 4 Beta ile beraber gelen Assembly
 paylaşımı özelliğine göz atıyoruz. Özellikle .NET Framework ile
 Silverlight arasındaki bu paylaşım aynı kodun farklı yerlerde tutulması
@@ -28,3 +29,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-10 tarihinde yayinlanmistir.*

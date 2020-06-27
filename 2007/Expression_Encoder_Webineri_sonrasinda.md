@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Encoder, Webiner
 old.EntryID: ce909793-2426-4b3c-9bb6-d3874128bd9e
 ---
+# Expression Encoder Webineri sonrasında...
 Bugün bir sıkıntılarla başlasa da **Expression Encoder** webinerini
 başarılı bir şekilde gerçekleştirdik. Yurt dışında olduğum için maalesef
 internet bağlantısı noktasında biraz sıkıntımız oldu ve 15 dakikalık bir
@@ -76,3 +77,5 @@ Webinere katılan herkese tekrar teşekkür ediyorum. Bir başka webinerde
 görüşmek dileğiyle.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-27 tarihinde yayinlanmistir.*

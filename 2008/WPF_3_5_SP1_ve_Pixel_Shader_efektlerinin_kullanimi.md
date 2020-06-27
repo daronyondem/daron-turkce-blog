@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 9c4b31d1-b7d5-4b39-a636-be1b53029f53
 ---
+# WPF 3.5 SP1 ve Pixel Shader efektlerinin kullanımı...
 .NET Framework 3.5 SP1 ile beraber gelen en büyük yeniliklerden biri de
 **PixelShader** kullanımının artık WPF uygulamalarında rahat bir şekilde
 mümkün olması. Kendi PixelShader efektlerinizi yazabileceğiniz gibi
@@ -513,3 +514,5 @@ verebilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-9 tarihinde yayinlanmistir.*

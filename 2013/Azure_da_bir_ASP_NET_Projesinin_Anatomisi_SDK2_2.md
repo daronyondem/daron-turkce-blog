@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'da bir ASP.NET Projesinin Anatomisi (SDK2.2)
 Visual Studio'ya açıp ilk Azure projenizi yaratmaya başladığınız anda
 karşınıza hemen bir seçim ekranı gelecektir. Bu seçim ekranı epey
 kalabalık bir ekran gibi dursa da aslında özünde iki seçenek var :)
@@ -231,3 +232,5 @@ bakıyoruz :)
 Bir sonraki yazıda görüşmek üzere....
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-11-28 tarihinde yayinlanmistir.*

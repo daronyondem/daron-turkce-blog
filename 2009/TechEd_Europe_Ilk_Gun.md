@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: a80de69a-3d18-4a9e-a1f2-1c1a26ef6d78
 ---
+# TechEd Europe İlk Gün!
 Bugün TechEd Europe'un ilk günüydü. Günün açılışının günün sonuna
 koyarak ilginç bir konsept uyguladılar yine :) İlk önce normal
 oturumlarla başladı gün ve gün sonunda da Keynote ile bitti. Benim pek
@@ -93,3 +94,5 @@ hem twitter hem blogdan paylaşmaya devam ;)
 Kalın sağlıcakla...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-10 tarihinde yayinlanmistir.*

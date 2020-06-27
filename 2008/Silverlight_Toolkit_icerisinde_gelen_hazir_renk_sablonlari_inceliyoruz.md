@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 97b6c373-f3b6-4343-acd5-f6cddb3c9d19
 ---
+# Silverlight Toolkit içerisinde gelen hazır renk şablonları (Thema) inceliyoruz.
 Silverlight Toolkit konusunda yazılarıma devam edeceğimden bahsetmiştim.
 Bu yazımızda Silverlight Toolkit ile beraber gelen theming (renk
 şablonları) yapısına göz atacağız. Hali hazırda Toolkit ile beraber
@@ -73,3 +74,5 @@ kodlarını da bulabilirler.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-6 tarihinde yayinlanmistir.*

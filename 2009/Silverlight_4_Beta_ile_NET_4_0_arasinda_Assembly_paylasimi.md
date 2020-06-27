@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 548ccd80-17c6-4d06-ba92-de5638738468
 ---
+# Silverlight 4 Beta ile .NET 4.0 arasında Assembly paylaşımı
 Silverlight projelerin Assembly paylaşımı en çok istediğimiz
 özelliklerden biriydi. Yanlış anlaşılmasın tabi ki .NET Framework
 Assembly'lerinin Silverlight ile kullanımından bahsetmiyoruz. Tam
@@ -186,3 +187,5 @@ konusu assembly'den kullanılmasını sağlayabilirsiniz.
 İşte assembly paylaşımı bu kadar kolay. Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-26 tarihinde yayinlanmistir.*

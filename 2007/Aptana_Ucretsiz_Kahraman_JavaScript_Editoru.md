@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, JavaScript, Silverlight
 old.EntryID: 6633ebd4-c30f-4a05-ba8b-1b55c3d80849
 ---
+# Aptana
 **Visual Studio 2008**'e adım adım yaklaştığımız şu günlerde belki de
 biraz geç bir yazı yazıyorum. İster AJAX ister Silverlight
 uygulamalarında olsun artık JavaScript kodu yazmayan veya yazamayan bir
@@ -41,3 +42,5 @@ gerçekten yardımcı olabilecek bir araç olarak bilgisayarlarınızda kurulu
 bulundurmanızda fayda var.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-15 tarihinde yayinlanmistir.*

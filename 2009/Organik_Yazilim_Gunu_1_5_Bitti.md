@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer
 old.EntryID: 8b2d8528-e68d-4427-b010-5201e3293ea6
 ---
+# Organik Yazılım Günü 1.5 Bitti
 Organik Yazılım günümüzü sonunda hakkını vererek bugün gerçekleştirdik
 :) Herhangi bir elektrik vs kesintisi olmadan yağmura karşın güzel bir
 katılım ile zevkli bir gün geçirdiğimizi tahmin ediyorum. Bugüne kadarki
@@ -32,3 +33,5 @@ gülümseme ile izlemekteyim :)
 beraber olan herkese çok teşekkürler. Tekrar görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-1 tarihinde yayinlanmistir.*

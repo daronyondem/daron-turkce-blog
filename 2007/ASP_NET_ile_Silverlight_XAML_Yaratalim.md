@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 0d42ab86-63c7-48ea-a845-5a8d9cea1afb
 ---
+# ASP.NET ile Silverlight XAML Yaratalım
 Silverlight'ın en sevdiğim yanı görsel anlamdaki her şeyi XAML ile yani
 özünde XML ile tanımlıyor olmamız. Böylece hali hazırda herhangi bir
 programlama dili ile rahatlıkla Silverlight görsel animasyonlarını
@@ -477,3 +478,5 @@ yayınlanacağı sayfanın aynı olması gerekiyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-7 tarihinde yayinlanmistir.*

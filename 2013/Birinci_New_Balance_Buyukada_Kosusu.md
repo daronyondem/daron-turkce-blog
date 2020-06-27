@@ -8,6 +8,7 @@ Section: fitness
 MinutesSpent: 0
 Tags: Koşu, Spor
 ---
+# 1. New Balance Büyükada Koşusu
 Bir süredir koşu olayı ile ilgilendiğimi duymuş olabilirsiniz :) hatta
 en son [giik.fm
 podcastimizde](http://giik.fm/selcuk-yavuz-ile-yazilimcilarin-egilimleri-uzerine-soylesi/)
@@ -24,3 +25,5 @@ katılırsınız :)
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-9-17 tarihinde yayinlanmistir.*

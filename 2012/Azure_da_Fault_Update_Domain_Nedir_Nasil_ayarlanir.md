@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure'da Fault Domain ve Update Domain Nedir? Nasıl ayarlanır?
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/tr/post/Fault_ve_Update_Domain_SDK2_2)
@@ -118,3 +119,5 @@ perspektifi aktarabilmişimdir.
 Görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-4-17 tarihinde yayinlanmistir.*

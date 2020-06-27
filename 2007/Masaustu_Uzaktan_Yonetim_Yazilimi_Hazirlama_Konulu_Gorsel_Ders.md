@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Görsel Ders
 old.EntryID: eef7751b-ecd3-4514-a28e-2b831c4c1e03
 ---
+# Masaüstü Uzaktan Yönetim Yazilimi Hazirlama Konulu Görsel Ders
 Masaüstü uzaktan yönetim yazılımı hazırlama ile ilgili makalemi kısa bir
 süre önce blog sitemden sizlerle paylaşmıştım. Aynı konuda bir de görsel
 ders hazırladım. Videoyu nedirtv?com üzerinden indirebilirsiniz.
@@ -17,3 +18,5 @@ ders hazırladım. Videoyu nedirtv?com üzerinden indirebilirsiniz.
 Hazirlamak](http://www.nedirtv.com/VideoDetay.aspx?VideoID=66)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-4 tarihinde yayinlanmistir.*

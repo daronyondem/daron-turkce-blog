@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Nice mutlu yıllara! Elveda 2011, Hoş Geldin 2012!
 İşte koca bir yıl daha geçti gidiyor :) Hepinize mutluluk, sevinç, huzur
 ve başarı dolu yepyeni bir yıl diliyorum! Herkesin kendine ve etrafına
 büyük faydalar sağladığı bir yıl dileklerimle...
@@ -17,3 +18,5 @@ büyük faydalar sağladığı bir yıl dileklerimle...
 Nice yıllara....
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-31 tarihinde yayinlanmistir.*

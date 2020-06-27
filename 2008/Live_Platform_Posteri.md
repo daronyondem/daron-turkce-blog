@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: live.com
 old.EntryID: 1bf567bd-c4b1-4d47-a624-0d003e7f2db6
 ---
+# Live Platform Posteri
 ![](media/Live_Platform_Posteri/30012008_2.jpg)Biz
 yazılımcılar poster sevdalarını ancak aşağıdaki gibi geek posterler ile
 bastırabiliyorlar. Yazılımcı olup da evinde manken posteri olan yoktur
@@ -20,3 +21,5 @@ bilgisayarınıza indirebilirsiniz.
 MB)](http://dev.live.com/img/wlp-mix.pdf)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-31 tarihinde yayinlanmistir.*

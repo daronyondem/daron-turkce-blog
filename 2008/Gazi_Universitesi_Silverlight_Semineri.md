@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 427aa2a1-ce93-4200-a8db-c955ae5751e4
 ---
+# Gazi Üniversitesi Silverlight Semineri
 Bugün Ankara, Gazi Üniversitesi'nde 4 saatlik bir Silverlight seminerim
 vardı. Seminerin başından sonuna kadar salonda kalarak beni 4 saat
 boyunca dinlemek gerçekten Silverlight'a olan ilginin ciddi bir
@@ -27,3 +28,5 @@ adresten indirebilirsiniz.
 MB)](media/Gazi_Universitesi_Silverlight_Semineri/15042008_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-16 tarihinde yayinlanmistir.*

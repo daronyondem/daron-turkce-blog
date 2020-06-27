@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 47cfe917-61b2-4ebe-9424-e4cc4fc37d53
 ---
+# Yazgeliştir Zirvesi Geliyor...
 Daha dün yazdığım yazı sonrasında birçok mail aldım, hatta bloga da
 yorumlar geldi. Blogumda zaten kendi konuştuğum ve genel blog
 okuyucularımın katılacağını düşündüğüm aktiviteleri duyuruyorum. Örneğin
@@ -42,3 +43,5 @@ sonrasında da
 bir etkinliği olacak. Hiçbirini kaçırmayın derim ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-23 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.5, Visual Studio 2008
 old.EntryID: 8e408fc8-e8aa-4497-bf3e-ae8f50381e0c
 ---
+# Visual Studio 2008 ve .NET Framework 3.5 SP1 Beta
 Visual Studio 2008 ve .NET Framework'ün 3.5 sürümünün üzerinden uzun bir
 süre geçmeden **SP1'in Beta 1**'i de karşımıza çıktı. İlginç olan SP1'in
 aslında alıştığımız Service Pack yapısına benzemiyor olması. Var olan
@@ -61,3 +62,5 @@ hale geliyor. :)
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-15 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Visual Studio 2008
 old.EntryID: 2c484ab6-00ac-4c08-8a5a-2041f01e0cf8
 ---
+# Expression Studio 2 ve Visual Studio 2008 Standart beraber sadece 350$
 Sizlere şaşıracağını düşündüğüm bir haberim var :) Genelde neredeyse tüm
 seminerlerimde Microsoft'un yazılım geliştirici ve tasarımcı araçlarının
 pahalı olmasından yakınılıyor. Visual Studio tarafında Express sürümleri
@@ -39,3 +40,5 @@ Bu arada satın almak için :
 <http://store.microsoft.com/microsoft/Expression-Studio-2-Full/product/524ABA6C>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-14 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 01786b18-a1eb-485f-a203-fe9917f2297d
 ---
+# Klavyenin ucunda Kahire var...
 Microsoft'un Imagine Cup yarışmasını çoğunuz duymuşsunuzdur. Duymayanlar
 en alt paragraftaki copy-past bilgiye başvurabilirler :) Gelelim esas
 konumuza. Imagine Cup 2009 başvuruları çoktan bitti hatta Türkiye
@@ -73,3 +74,5 @@ Ben geçen sene Kahire'yi ziyaret etmiştim :) İlginç bir şehir olduğunu
 itiraf etmem gerek. Hepinizin şansı bol olsun!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-3 tarihinde yayinlanmistir.*

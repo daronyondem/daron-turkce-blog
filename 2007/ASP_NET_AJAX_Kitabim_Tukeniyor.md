@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: 398d9d5c-4298-45e5-a9bc-9b350451002c
 ---
+# ASP.NET AJAX Kitabım Tükeniyor
 ![](media/ASP_NET_AJAX_Kitabim_Tukeniyor/ajax.gif)Bugün [Pusula
 Yayıncılık](http://www.pusula.com) ile yaptığım görüşmede kitabımla
 ilgili stokların tükenmeye yaklaştığını öğrenerek sevindim. Kitabın
@@ -25,3 +26,5 @@ ister mail atın, fark etmez. Olumlu, olumsuz herşeyi bekliyorum.
 Bu arada hala kitabı almadıysanız tükenmeden bir tane alın :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-13 tarihinde yayinlanmistir.*

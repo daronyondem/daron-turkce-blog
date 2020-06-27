@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: dfc49648-5bd7-4483-a7f0-0dc9c4e80a2b
 ---
+# Silverlight artık Windows Update ile dağıtılıyor!
 Beklediğim an geldi! **Silverlight 1.0 Plug-In** artık **Windows
 Update** ile dağıtılıyor. Bugün itibari ile Windows Update içerisinde
 Silverlight 1.0 Plug-In ve tüm güncellemeler "optional" başlığı altında
@@ -22,3 +23,5 @@ dokümanı bilgisayarınıza indirerek inceleyebilirsiniz.
 Hepimize hayırlı, uğurlu olsun :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-23 tarihinde yayinlanmistir.*

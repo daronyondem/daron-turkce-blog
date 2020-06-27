@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 64891675-eba7-4cad-88a5-70cb3d148993
 ---
+# Silverlight 2.0 içerisinde ControlTemplating ve Style yapıları.
 **Silverlight 2.0 Beta 1** ile beraber gelen görsel özellikler
 içerisinde özellikle tasarımcıların en çok beğenecekleri ve bildiğimiz
 teknolojiler arasında CSS'e benzetebileceğimiz "**Resource**" yapısı çok
@@ -994,3 +995,5 @@ içerisinde kullanılabilir hale de getirebilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-6 tarihinde yayinlanmistir.*

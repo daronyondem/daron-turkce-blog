@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Gadget, Windows 8
 ---
+# Dell Venue 8 Pro Deneyimlerim
 Aslında epey oluyor ben Dell Venu 8 Pro'yu satın alalı. Sanırım bir
 seneyi bulmuştur. Fakat tabi ki sizin de tahmin edebileceğiniz üzere 8"
 bir bilgisayarı, tableti ana bilgisayarım olarak kullanmıyorum :) Aslına
@@ -125,3 +126,5 @@ deneyimlerimi paylaşiyim istedim ;) Umarım işinize yarar.
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-7-22 tarihinde yayinlanmistir.*

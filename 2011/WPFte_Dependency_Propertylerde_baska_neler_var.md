@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: WPF
 ---
+# WPF'te Dependency Property'lerde başka neler var
 Dün hatırlarsanız [Silverlight tarafında DP (Dependency Property)'lerin
 kullanımına](http://daron.yondem.com/tr/post/Silverlightta_Dependency_Propertyler)
 değinmiştik. Yazının sonuna doğru WPF'te aslında DP'lerin bazı ek
@@ -91,3 +92,5 @@ devam.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-5 tarihinde yayinlanmistir.*

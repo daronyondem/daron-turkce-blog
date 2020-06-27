@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Expression Blend, Expression Design, Expression Encoder, LINQ, Silverlight, Silverlight 2.0, WPF
 old.EntryID: 3b0e6e52-aafe-4891-8db3-48b7efc01880
 ---
+# Ankara, EMO Eğitimleri
 Özellikle beni microbloğum [twitter.com](http://twitter.com/daronyondem)
 üzerinden takip edenlerin farkında olacağı üzere hafta sonunu Ankara'da
 geçirdim. Cumartesi gece yarısı yola çıkarak sabahına Ankara'ya vardım
@@ -38,3 +39,5 @@ eğitimlere laboratuar ortamı sağlamakla beraber gösterdikleri sıcak
 misafirperverlik için de tüm EMO ekibine teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-26 tarihinde yayinlanmistir.*

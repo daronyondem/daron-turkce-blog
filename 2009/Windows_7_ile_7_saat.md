@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: f8c6865a-8b79-49fa-aecb-267b37738d75
 ---
+# Windows 7 ile 7 saat
 [![Windows 7 ile 7
 Saat](media/Windows_7_ile_7_saat/30062009_1.gif)](http://www.inetatr.org/)
 
@@ -50,3 +51,5 @@ tıklayabilirsiniz. Katılım için
 unutmayın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-7-1 tarihinde yayinlanmistir.*

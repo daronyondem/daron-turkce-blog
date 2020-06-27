@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Kasım 2012 Çekiliş Kitapları
 Çekilişlere devam! :) Kasım ayı İngilizce kitabımız bu sefer Windows
 Azure üzerine! Packt'in Microsoft Azure üzerine Enterprise Application
 Development kitabını hediye ediyorum :) Tamam, itiraf ediyorum, kitabı
@@ -56,3 +57,5 @@ unutmayın derim.
 Hepinize bol şanslar!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-11-6 tarihinde yayinlanmistir.*

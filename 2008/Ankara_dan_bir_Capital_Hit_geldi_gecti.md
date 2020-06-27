@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.5, ASP.NET 3.5, Expression Blend, Haberler, IIS 7.0, LINQ, Seminer, Silverlight 2.0, WCF, WPF, ASP.NET
 old.EntryID: 75fd8290-6f44-4c10-b48c-e183a0130d87
 ---
+# Ankara'dan bir Capital Hit geldi geçti...
 Hafta sonunu Ankara'da geçirdik. Neden mi? [INETA Capital
 Hit](http://daron.yondem.com/tr/post/e7784945-391f-4e80-af92-2e8499d13592)
 zamanıydı! Atladık INETA minibüsümüze :) yollara düştük. Maceralarımızla
@@ -44,3 +45,5 @@ KB)](media/Ankara_dan_bir_Capital_Hit_geldi_gecti/20102008_3.pptx)
 O nedenle sunum paylaşamıyorum.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-21 tarihinde yayinlanmistir.*

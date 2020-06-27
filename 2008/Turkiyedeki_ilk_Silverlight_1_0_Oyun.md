@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Silverlight
 old.EntryID: 12404a33-2171-465c-a761-bd1540056a70
 ---
+# Türkiye'deki ilk Silverlight 1.0 Oyun!
 Hatırlarsanız sizlere **Microsoft Student2Business** programı kapsamında
 Microsoft İstanbul ofislerinde yaptığımız
 [eğitimden](http://daron.yondem.com/tr/post/451e3a2c-c312-4de6-ad88-59744afc4def)
@@ -40,3 +41,5 @@ Cross-Browser olmasından faydalanarak oyunumuzu Safari'de de rahatlıkla
 Teşekkürler Özgür ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-5 tarihinde yayinlanmistir.*

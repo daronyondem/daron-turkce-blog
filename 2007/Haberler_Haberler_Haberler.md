@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Haberler
 old.EntryID: d0c62125-588d-4124-8864-e909ff97caff
 ---
+# Haberler... Haberler... Haberler...
 Belirsiz aralıklarla :) sektörden biriktirdiğim haberleri sizlerle
 paylaşacağımı söylemiş hatta bunlardan ilkini geçenler bir yazı olarak
 sizlere sunmuştum da. Yeni haberlerle yeni yazıma hoş geldiniz.
@@ -87,3 +88,5 @@ adresinden indirebilirsiniz. Yeni gelen özellikler arasında XAML/Design
 Split View, Font Embedding ve Vertex Animation dikkati çekiyor.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-6 tarihinde yayinlanmistir.*

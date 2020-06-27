@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 15fd122a-d6c9-4b81-b716-1470ca32abe1
 ---
+# Silverlight 2.0 içerisinde farenin çift tıklamasını algılamanın yolu.
 Silverlight içerisinde otomatik olarak farenin çift tıklamasını
 algılayacak bir sistem bulunmuyor. Çok ciddi bir eksik gibi gözükmese de
 aslında özellikle iş uygulamaları hazırlarken bu eksik can sıkabiliyor.
@@ -95,3 +96,5 @@ bilgileri "bir önceki" tıklama bilgileri başlığı ile incelenebilsin.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-6 tarihinde yayinlanmistir.*

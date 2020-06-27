@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET, ASP.NET 4.5, HTML, HTML5, IE 10
 ---
+# HTML5'deki Yeni Input Type'lar
 HTML5 ile beraber gelen yenilikler arasında en pratiklerinden bir tanesi
 input type sayısının günümüz ihtiyaçlarına göre arttırılıyor olması.
 email, url, number, range, date picker, search ve color adlarında yeni
@@ -135,3 +136,5 @@ yaratılmasını sağlıyor.
 Gelecek çok güzel olacak :) Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-24 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: e0151d7f-b7a6-4459-9c3a-48848c9ddb8f
 ---
+# Rakibinizi sevemezsiniz!
 Başlığı okuyanlar bir an için "*yanlış blogdamıyım acaba?*" sorusunu
 sordularsa :) uzun süredir benim blogu okuduğunuz için size teşekkür
 ediyorum. Aslında birkaç haftadır "*Rekabet nedir, ne değildir?*"
@@ -93,3 +94,5 @@ savaşıyorsunuz. Örneğin, müşteriyi X ürün almaya ikna eden bir rakip
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-27 tarihinde yayinlanmistir.*

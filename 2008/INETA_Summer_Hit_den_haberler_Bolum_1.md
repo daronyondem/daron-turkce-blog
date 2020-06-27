@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 25639775-eaa9-4698-917d-5f82060a3452
 ---
+# INETA Summer Hit'den haberler
 **INETA Summer Hit** aktivitesine kayıtlar devam ediyor. Bu süreçte
 bugüne kadar kayıt olan bini aşkın dostumuza aşağıdaki maili gönderdik.
 Sizinle blog üzerinden de paylaşmak istedim. Bizi izlemeye devam edin ;)
@@ -103,3 +104,5 @@ bültenimizde görüşmek üzere, iyi haftalar, iyi çalışmalar...</span>\
 \
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-20 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Blob Storage'da Snapshot Kullanımı
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Blob_Storage_da_Snapshot_Kullanimi_SDK2_5)
@@ -143,3 +144,5 @@ yarayabilecek metodlar mevcut ;)
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-7-3 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Görsel Ders, WPF
 old.EntryID: 97f7a3cb-c032-4eee-ab1a-601e34a36813
 ---
+# nedirtv?com'da WPF - Silverlight Bölümü Açtık!
 ![](media/nedirtv_com_da_WPF_-_Silverlight_Bolumu_Actik/nedirtv_logo.png)[nedirtv.com](http://www.nedirtv.com)
 üzerinden video paylaşımına başladığım günlerden beridir bugünü
 bekliyordum :) Bugün WPF-Silverlight bölümümüzü ilk videomuz ile açtık.
@@ -19,3 +20,5 @@ Yakında özellikle Silverlight videoları ile karşınıza çıkıyor olacağı
 Transferi](http://www.nedirtv.com/VideoDetay.aspx?VideoID=67)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-14 tarihinde yayinlanmistir.*

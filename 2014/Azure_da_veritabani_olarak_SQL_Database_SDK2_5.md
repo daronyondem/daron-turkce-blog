@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
+# Azure'da veritabanı olarak SQL Database (SDK2.5)
 Azure ortamına bir ASP.NET sitesini web role olarak atmayı gördük, hatta
 örnek bir "Hello World" de yaptık :) Peki ya veritabanı? İşte güzel
 haber! Veritabanı kısmı Azure dünyasında belki de en az değişen yer :)
@@ -112,3 +113,5 @@ bir sorun yaşamanız söz konusu değil.
 Kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-1 tarihinde yayinlanmistir.*

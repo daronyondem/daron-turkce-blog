@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2010
 old.EntryID: 96de3686-51b3-4c88-b73f-177e7463fe98
 ---
+# İzmir Visual Studio 2010 Lansmanı
 Dün İzmir'de **Visual Studio 2010** ve Office 2010 lansmanlarını Dokuz
 Eylül Üniversitesi'nde gerçekleştirdik. Ben Visual Studio 2010 ve .NET 4
 tarafındaki yeniliklerden bahsettim. İzmir her zamanki gibi bir
@@ -23,3 +24,5 @@ Etkinlikte katkılarından dolayı Dokuz Eylül Üniversitesi MSP'lerine çok
 teşekkürler ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-8 tarihinde yayinlanmistir.*

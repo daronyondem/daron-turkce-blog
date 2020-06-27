@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure Bootcamp İstanbul gerçekleşti!
 Geçen hafta sonu Global Windows Azure Camp'ın Türkiye ayağını
 İstanbul'da gerçekleştirdik. Çok zevkli ve güzel bir gün oldu. Sabah
 10'da başlayan etkinlikte ilk gelen 150 kişiyi alabileceğimiz için
@@ -49,3 +50,5 @@ etkinlik oldu. Salonu dolduran herkese tekrar çok teşekürler. Bir
 sonraki etkinlikte görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-4-28 tarihinde yayinlanmistir.*

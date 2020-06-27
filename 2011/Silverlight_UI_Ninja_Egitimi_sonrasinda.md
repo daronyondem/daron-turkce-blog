@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: a0de2036-d62f-4d8c-85f1-ebd868044dbc
 ---
+# Silverlight UI Ninja Eğitimi sonrasında...
 Dün akşam Silverlight UI Ninja eğitimini tamamladık. Bazı tasarım
 tricklerini paylaştığım hafiften kendi "best practice"lerimi ortaya
 attığım bir etkinlik oldu :) Tabi diğer yandan developer/designer
@@ -31,3 +32,5 @@ paylaşacağım.
 Görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-27 tarihinde yayinlanmistir.*

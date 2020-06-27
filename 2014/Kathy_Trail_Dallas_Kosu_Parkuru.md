@@ -8,6 +8,7 @@ Section: fitness
 MinutesSpent: 0
 Tags: 
 ---
+# Kathy Trail Dallas Koşu Parkuru
 Geçen haftalarda bir iş gezisi için Dallas'a gitmem gerekti. Tüm hafta
 boyunca Dallas'ta müşteri toplantıları vs derken sonunda bir günümü boşa
 çıkarabildim. Doğal olarak o günü bir gün öncesinden güzel olarak
@@ -86,3 +87,5 @@ ama daha sakin koşular isteyenler daha erken gitmeyi tercih edebilirler.
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-8-1 tarihinde yayinlanmistir.*

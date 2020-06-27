@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 7.5
 ---
+# T-Mobile Samsung Omnia 7 ile Mango
 [Dün Mango update
 serüvenimden](http://daron.yondem.com/tr/post/Windows_Phone_Mango_ve_benim_ilk_WP_uygulamam)
 bahsedince birçok mail almaya başladım, özellikle Samsung Omnia 7
@@ -89,3 +90,5 @@ bile değil. Yani hiçbir sakat durumu yok telefonun.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-29 tarihinde yayinlanmistir.*

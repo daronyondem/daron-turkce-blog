@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 61c6bfa0-bc94-4fd6-a258-ed17f13525a3
 ---
+# 2009 Yılı Gold RD Ödülüm ve Türkiye'den yeni bir RD
 Bugün çok güzel bir haber aldım :) 2009 yılında RD olduğum dönemde
 bulunan dünya çapında toplam 117 RD'nin 34'ünün aldığı **Gold Global
 Impact Award**'a ben de layık görülmüşüm :) Gold, Silver ve Bronz olarak
@@ -31,3 +32,5 @@ dönemde Kerem ile Türkiye RD'leri olarak çok daha hareketli işlere imza
 atacağımızı şimdiden hissediyorum. Kutlarım Kerem!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-2-25 tarihinde yayinlanmistir.*

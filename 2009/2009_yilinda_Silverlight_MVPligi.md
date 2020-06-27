@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, Silverlight 3.0
 old.EntryID: 5b7dfc26-5c34-45fc-8d83-1e719a2af128
 ---
+# 2009 yılında Silverlight MVP'liği!
 ![2009 Silverlight
 MVP'liği!](media/2009_yilinda_Silverlight_MVPligi/01042009_1.jpg)Geçen
 yıl
@@ -33,3 +34,5 @@ kendime mutlu olduğum bir detay oldu diyebilirim.
 Hepinize bu süreçte gösterdiğiniz destek için çok teşekkür ediyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-2 tarihinde yayinlanmistir.*

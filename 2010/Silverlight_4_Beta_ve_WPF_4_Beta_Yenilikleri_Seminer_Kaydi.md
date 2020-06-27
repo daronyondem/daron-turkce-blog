@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4, WPF
 old.EntryID: 339fe60c-21c9-4477-a867-7065e3f82eca
 ---
+# Silverlight 4 Beta ve WPF 4 Beta Yenilikleri Seminer Kaydı
 Geçen haftalarda Microsoft ofisinde iş ortakları için özel olarak
 düzenlenen bir seri seminerin bir parçası olarak sunduğum "Silverlight 4
 Beta ve WPF 4 Beta yenilikleri" oturumunun video kaydını aşağıda
@@ -31,3 +32,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-2 tarihinde yayinlanmistir.*

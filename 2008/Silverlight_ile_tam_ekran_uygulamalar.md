@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 7624fc12-9493-4351-b305-d6dc7297ac36
 ---
+# Silverlight ile tam ekran uygulamalar
 Silverlight uygulamalarının yeri geldiğinde tam ekran olarak da
 kullanılabildiğini örneklerde görmüşsünüzdür. İster amacınız tam ekran
 video oynatmak olsun ister kullanıcılarınıza bir web sitesinden öte
@@ -199,3 +200,5 @@ style="color: #a31515;">"Medya"</span>).Width=sender.getHost().content.actualWid
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-6 tarihinde yayinlanmistir.*

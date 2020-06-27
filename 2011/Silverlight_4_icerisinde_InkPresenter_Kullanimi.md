@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: e9816163-dc3a-4765-a1a4-fd62d627bf61
 ---
+# Silverlight 4 içerisinde InkPresenter Kullanımı
 Geçenlerde birisi sorduğunda "InkPresenter konusunda benim blogda yazı
 olacak" diye cevap vermiştim. Sonra gelip şans eseri bir bakiyim dedim
 ne yazdığımı hatırlamadığım için ve bir de gördüm ki 2008 yılında :)
@@ -280,3 +281,5 @@ KB)](media/Silverlight_4_icerisinde_InkPresenter_Kullanimi/02022011_4.zip)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-2-3 tarihinde yayinlanmistir.*

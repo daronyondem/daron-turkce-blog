@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF, MultiTouch
 old.EntryID: 7be5f55f-130b-4149-ae6b-9e643b362f38
 ---
+# Imagine Cup Türkiye Finali'nde WPF ve MultiTouch oturumum.
 Bugün **Imagine Cup 2009** Türkiye Final'inin günüydü. Microsoft
 Istanbul ofisindeki etkinlik dün twitter üzerinden de duyurduğum üzere
 tamamen canlı olarak internetten de yayınlandı hatta oylama sürecinde
@@ -37,3 +38,5 @@ MB)](media/Imagine_Cup_Turkiye_Finalinde_WPF_ve_MultiTouch_oturumum/17042009_1.r
 MB)](media/Imagine_Cup_Turkiye_Finalinde_WPF_ve_MultiTouch_oturumum/17042009_2.pptx)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-18 tarihinde yayinlanmistir.*

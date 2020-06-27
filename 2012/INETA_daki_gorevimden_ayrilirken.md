@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# INETA'daki görevimden ayrılırken...
 Yeni yıl yolda :) ve yine değişikliklerin zamanı geldi. Geçen sene INETA
 Türkiye’deki [görevimi
 devretmiştim](http://daron.yondem.com/tr/post/INETA_da_yeni_rolum_ve_INETA_TR_de_degisenler)
@@ -46,3 +47,5 @@ karşılaşırız.
 Yeni yılınız kutlu olsun!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-12-25 tarihinde yayinlanmistir.*

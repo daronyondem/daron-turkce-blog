@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows 8
 ---
+# Hafta sonu Windows 8 Kampı
 İşte çoğunuzun beklediğini tahmin ettiğim etkinlikle karşınızdayım!!! :)
 İki tam gün Windows 8 Metro development etkinliği ve tabi ki her zamanki
 gibi ÜCRETSİZ! 5-6 Mayıs (Cumartesi-Pazar) tarihlerinde Microsoft
@@ -33,3 +34,5 @@ buraya](http://daron.me/win8_56mayis) tıklayabilirsiniz. Süper
 olacağından emin olduğum bu hafta sonunu kaçırmayın derim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-4-21 tarihinde yayinlanmistir.*

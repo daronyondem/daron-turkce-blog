@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 373368a4-232e-4e39-a691-edd641bc96a8
 ---
+# Silverlight 2.0 RC0 Offline Dokümantasyon
 Silverlight 2.0'ın RC0 olması ile beraber tabi ki her şey yenilendi. ve
 bu yenilikleri takiben "**Offline Documentation**" paketinin de
 yenilenmesinin zamanı gelmişti. Aşağıdaki linkten Silverlight 2.0'ın tüm
@@ -25,3 +26,5 @@ Sonrasında dosyayı tekrar açtığında herhangi bir sorun olmayacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-10 tarihinde yayinlanmistir.*

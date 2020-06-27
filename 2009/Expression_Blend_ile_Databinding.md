@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight 3.0
 old.EntryID: a9fd3d00-378d-43a8-a9c3-f7224c2b3797
 ---
+# Expression Blend ile Databinding
 İster Silverlight tarafında olsun ister WPF teknolojinin ve araçların
 sürekli bahsedilen en önemli özelliklerinden biri tasarımcı ile
 yazılımcı arasındaki ilişkiyi düzenlediği yönünde. Tabi ki eskisine
@@ -457,3 +458,5 @@ yazılımcıların beraber rahatça çalışması olması.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-4 tarihinde yayinlanmistir.*

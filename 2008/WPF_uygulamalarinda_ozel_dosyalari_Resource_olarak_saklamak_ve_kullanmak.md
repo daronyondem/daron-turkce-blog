@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 43a5de7c-99d4-4299-8850-e6173bca8981
 ---
+# WPF uygulamalarında özel dosyaları Resource olarak saklamak ve kullanmak
 Uygulamalarda kullandığımız ikonlar veya görselleri çoğu zaman uygulama
 klasöründe saklamayı sevmeyiz. Hem bu görselleri kısmen korumak için hem
 de kalabalık yaratmamaları için EXE'nin içerisinde gömmeyi tercih
@@ -99,3 +100,5 @@ EXE'nizin içerisinde taşınıyor olacak.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-9 tarihinde yayinlanmistir.*

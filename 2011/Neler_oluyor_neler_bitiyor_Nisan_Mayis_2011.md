@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET MVC 3, Windows Azure, HTML5, Silverlight 5, Windows Phone 7, Windows Phone, ASP.NET
 old.EntryID: 7c4bebe3-7741-4b0b-8138-a29ea4ccd597
 ---
+# Neler oluyor, neler bitiyor
 Şimdi efendim :) uzun zaman oldu blogdan böyle bir derleme toplamı maili
 atmayalı. O nedenle bugün öyle bir post yaziyim dedim. İlk olarak
 sürekli "Hocam gelmişsin haberimiz olmadı" sorununu çözelim :) Bir yere
@@ -68,3 +69,5 @@ Uzun zaman olmuştu şöyle bir güncelleme yazısı yazmayalı :) En kısa
 zamanda görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-20 tarihinde yayinlanmistir.*

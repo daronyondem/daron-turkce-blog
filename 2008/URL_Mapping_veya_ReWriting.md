@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, ASP.NET
 old.EntryID: 7d7a31e7-5427-4186-bf42-7797634fb037
 ---
+# URL Mapping veya ReWriting
 Bu aralar karşılaştığım ilginç sorulardan biri de URL Mapping hakkında.
 İnternette gezerken dikkatinizi çekmiştir, bazı sitelerde
 [www.adres.com/bu+bir+makale/default.aspx](http://www.adres.com/bu+bir+makale/default.aspx)
@@ -234,3 +235,5 @@ da yakında uzun bir makale yazma şansım olur :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-12 tarihinde yayinlanmistir.*

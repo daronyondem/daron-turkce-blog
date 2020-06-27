@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: 29e6cf2c-659a-4da7-baff-d9eca2476c24
 ---
+# Windows 7'de Sensor and Location API ile Sensör kullanımı
 Windows 7 ile beraber gelen ve daha pek de hissedemediğimiz
 değişiklikler biri de "**Sensor and Location API**" adını taşıyor.
 Adından da anlaşılacağı üzere aslında yeni bir API topluluğundan
@@ -273,3 +274,5 @@ artması veya azalması olacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-5 tarihinde yayinlanmistir.*

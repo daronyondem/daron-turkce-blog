@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Görsel Ders
 old.EntryID: 5ba966db-41de-4891-b36e-59e34f9fb9ed
 ---
+# nedirtv?com'da Devir Teslim
 ![](media/nedirtv_com_da_Devir_Teslim/nedirtv_logo.png)Uzun
 süredir görsel derslerimi yayınladığım VB.NET, WPF ve Silverlight
 editörü olduğum [nedirtv?com](http://www.nedirtv.com) platformu topluluk
@@ -25,3 +26,5 @@ ilgilenenlere özel olarak bahsedebilirim. Sitede şu an yer alan
 konularla sınırlı değiliz :) aklınızda bulunsun.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-22 tarihinde yayinlanmistir.*

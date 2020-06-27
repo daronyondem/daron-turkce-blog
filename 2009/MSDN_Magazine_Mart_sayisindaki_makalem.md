@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Internet Explorer
 old.EntryID: 1419ebe7-95be-42f0-b991-6481472e4ad5
 ---
+# MSDN Magazine Mart sayısındaki makalem...
 **MSDN Magazine**'i takip edenleriniz vardır diye tahmin ediyorum.
 Microsoft'un yazılımcılara yönelik aylık olarak yayınlanan İngilizce
 dergisi olan MSDN Magazine'in Mart sayısında benim de bir makalem yer
@@ -35,3 +36,5 @@ duygular...
  
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-1 tarihinde yayinlanmistir.*

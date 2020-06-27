@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, ASP.NET 3.5, Eğitimler, ASP.NET
 old.EntryID: 75f1b461-dc6e-43a5-a295-c7923ee9d88d
 ---
+# ASP.NET 3.5 AJAX Günü
 Dün **INETA** ve **TBD** işbirliği ile düzenlediğimiz **"4 Konu 4 Gün"**
 eğitim serisinin ilk gününü tamamladık. **"ASP.NET 3.5 AJAX"** konusunu
 ele aldığımız gün boyunca teknik detaylara boğulmanın yanı sıra bir
@@ -35,3 +36,5 @@ Gün boyunca yaptığımız bazı örnekleri aşağıdan indirebilirsiniz.
 KB)](media/ASP_NET_3_5_AJAX_Gunu/24032008_1.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-25 tarihinde yayinlanmistir.*

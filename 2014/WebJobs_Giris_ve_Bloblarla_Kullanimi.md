@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# WebJobs Giriş ve Bloblarla Kullanımı
 Azure tarafında uzun yıllardır en sıkıntılı konulardan biri
 ScheduledService'ler. Aslında sıkıntı da zaten bu gibi zamanlanmış
 servislerin oluşturulması için tabiri caiz ise adam gibi bir altyapının
@@ -211,3 +212,5 @@ Makaledeki örneği
 üzerinden indirebilirsiniz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-4-21 tarihinde yayinlanmistir.*

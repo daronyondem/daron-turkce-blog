@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: be6c66c9-ef14-4b57-8083-45494f77de0c
 ---
+# Silverlight 4 Beta'da Combobox Yenilikleri ve DataBinding değişiklikleri - Görsel Ders
 Silverlight 4 Beta ile beraber gelen yenilikleri geçen ay makaleler ile
 sizlerle paylaşmaya başlamıştım. Bu ay biraz da görsel derslerle devam
 edelim istiyorum. Tabi arada her an yine makalelere dönüş yapabilirim.
@@ -30,3 +31,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-2 tarihinde yayinlanmistir.*

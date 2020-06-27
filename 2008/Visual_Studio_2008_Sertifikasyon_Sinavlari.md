@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.0, .NET Framework 3.5, ASP.NET 3.5, Visual Basic 2008, Visual Studio 2008, WCF, WPF, WF, Visual Basic .NET, ASP.NET
 old.EntryID: 82948e92-cbeb-4f02-9c7c-ae20973c34f0
 ---
+# Visual Studio 2008 Sertifikasyon Sınavları
 .NET Framework 3.0 ile beraber gelen WPF, WCF ve WF sonrasında VS 2008
 ve .NET Framework 3.5 derken aslında epey bir yenilik ile karşı karşıya
 kaldık. Bu konularda Microsoft'un sertifikasyonlarında şu ana kadar yeni
@@ -55,3 +56,5 @@ Umarım WPF, WCF ve WF için beklediğimiz kadar beklemek zorunda kalmayız.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-19 tarihinde yayinlanmistir.*

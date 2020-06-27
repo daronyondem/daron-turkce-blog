@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2008
 old.EntryID: 6b47b2bc-0179-4d11-8992-bc546748ff73
 ---
+# Visual Studio 2008 ile gelen bir diğer hoş yenilik
 Minik Visual Studio 2008 ipuçlarına bir tane daha ekliyorum :)
 
 Visual Studio 2008 ile beraber gelen yeniliklerden biri de **Debug**
@@ -24,3 +25,5 @@ değiştirilebiliyor.](media/Visual_Studio_2008_ile_gelen_bir_diger_hos_yenilik/
 *Debug modunda nesnelerin özellikleri değiştirilebiliyor.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-11 tarihinde yayinlanmistir.*

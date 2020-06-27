@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 986139f4-c2df-4793-897d-6b54b9fcc233
 ---
+# Silverlight 2.0 ile ilgili yeni yazgelistir.com Makalelerim
 yazgelistir.com'daki yeni makalelerime oyları bekliyorum :) Bu vesile
 ile son dönemdeki Silverlight makalelerimin bir listesini de kısmen
 oluşturuşmuş olduk.
@@ -33,3 +34,5 @@ Kullanımı](http://www.yazgelistir.com/Makaleler/1000001791.ygpx)\
 Kontrolü](http://www.yazgelistir.com/Makaleler/1000001786.ygpx)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-7 tarihinde yayinlanmistir.*

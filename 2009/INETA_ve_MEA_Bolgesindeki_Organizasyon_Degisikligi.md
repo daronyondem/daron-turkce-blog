@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 5ed270c5-baea-40e1-a7a1-f3c601f684f3
 ---
+# INETA ve MEA Bölgesindeki Organizasyon Değişikliği
 INETA tarafında **1 Nisan 2008** ile başlamış olduğum **Türkiye
 Başkanlığı** görevini sizlere daha önceleri duyurmuştum. Bu görev
 çerçevesinde ortalama bir önceki döneme göre yıllık bazda toplam
@@ -58,3 +59,5 @@ tahmin etmek zor değil.
 Hepinizel en kısa zamanda görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-22 tarihinde yayinlanmistir.*

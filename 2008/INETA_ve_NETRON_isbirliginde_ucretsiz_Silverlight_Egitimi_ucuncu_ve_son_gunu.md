@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: b3a3954a-79fe-49dc-aa74-f0cb6b6728f4
 ---
+# INETA ve NETRON işbirliğinde ücretsiz Silverlight Eğitimi üçüncü ve son günü.
 Bugün **NETRON** ve **INETA** işbirliğinde düzenlediğim üç günlük
 Silverlight eğitiminin son gününde "**Silverlight ile Video
 Uygulamaları**"nı işleyerek eğitim serimizi sonlandırdık. Daha öncesinde
@@ -49,3 +50,5 @@ Eğitime başından sonuna katılan herkese çok teşekkürler. Tekrar görüşm
 üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-6 tarihinde yayinlanmistir.*

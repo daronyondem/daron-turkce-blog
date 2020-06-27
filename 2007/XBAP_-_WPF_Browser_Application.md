@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.0, Visual Studio 2008, WPF
 old.EntryID: 1bc7bc98-85e8-4bec-a681-bd9087118aa8
 ---
+# XBAP - WPF Browser Application
 **XBAP da ne ola ki?**
 
 XBAP'ın açılımı "XAML Browser Applications" şeklinde. Peki XAML neydi?
@@ -836,3 +837,5 @@ Application'lar ile yapmak da mümkün.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-11 tarihinde yayinlanmistir.*

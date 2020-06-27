@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Wallpaper
 ---
+# Ekim Wallpaper'ı İstanbul'dan!
 Geçen ay başladığım wallpaper serisine devam! :) Kendi çektiğim
 fotoğraflardan oluşan bu wallpaper serisinin yıl sonunda güzel bir arşiv
 oluşturabileceğini düşünüyorum. Bakalım hayırlısı...[Geçen ayki New
@@ -35,3 +36,5 @@ beğenirsiniz ;)
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-10-5 tarihinde yayinlanmistir.*

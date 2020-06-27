@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# MSP'lere özel Azure Camp!
 Bugün Microsoft tarafında "Microsoft Student Partner" programına özel
 bir **Azure Camp** düzenlendi. Konuşmacı olarak da tam gün öğrencilerin
 karşısında ben vardım :)
@@ -32,3 +33,5 @@ Katılan tüm MSP'lere tüm gün beni yalnız bırakmadıkları için ayrıca
 teşekkürler ;) Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-9 tarihinde yayinlanmistir.*

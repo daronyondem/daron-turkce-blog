@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Görsel Ders, WPF
 old.EntryID: 2f746102-2354-4cfd-baa1-aa9f193a9067
 ---
+# WPF Uygulamalari ve Expression Blend Videosu
 ![](media/WPF_Uygulamalari_ve_Expression_Blend_Videosu/nedirtv_logo.png) WPF ile
 Windows uygulamaları hazırlarken bir taraftan XAML kodları ile tasarımı
 oluşturmak diğer taraftan da kullandığımız programlama dili ile
@@ -29,3 +30,5 @@ NedirTV Linkinin kırılması üzerine aşağıda Youtube'dan Embed koyuyorum.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qW4xB3RkQFQ" frameborder="0" allowfullscreen></iframe>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-26 tarihinde yayinlanmistir.*

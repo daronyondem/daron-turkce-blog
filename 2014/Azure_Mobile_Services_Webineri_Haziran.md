@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Windows Azure
 ---
+# Azure Mobile Services Webineri Haziran
 "Körün istediği bir göz allah verdi iki göz" şeklinde esasen uygunsuz
 bir örnek vererek başlangıç yapıyorum. Blogumu sürekli takip edenler
 bilirler [yoğun istek
@@ -40,3 +41,5 @@ Katılım için kayıt olmayı unutmayın!
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-6-4 tarihinde yayinlanmistir.*

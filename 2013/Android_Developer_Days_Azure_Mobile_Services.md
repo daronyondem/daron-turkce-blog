@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Windows Azure
 ---
+# Android Developer Days'de Azure Mobile Services
 Bugün Ankara'daydım ve çoğunuza ilginç geleceğinizi tahmin ettiğim bir
 etkinlikteydim; ["Android Developer
 Days"](http://www.androiddeveloperdays.com/tr/sessions/get-the-power-of-cloud-with-azure-mobile-services/).
@@ -37,3 +38,5 @@ Unutmadan, çok yakında daha detaylı mobile services içerikleri ile
 karşınızda olacağım ;) Takip etmeye devam edin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-6-15 tarihinde yayinlanmistir.*

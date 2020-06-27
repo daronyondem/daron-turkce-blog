@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX
 old.EntryID: f8a9905e-7d02-4a0b-b672-2ee0e7f74c7e
 ---
+# ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 4 - DOM Fonksiyonları)
 Bir önceki yazımızda ASP.NET AJAX Extension ile beraber gelen istemci
 tarafındaki sayısal, metin ve tarih değişkenleri ile ilgili
 fonksiyonları inceledikten sonra sıra DOM objeleri ile ilgili metodlara
@@ -251,3 +252,5 @@ yazımızda JavaScript handler işlemlerine değineceğiz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-11 tarihinde yayinlanmistir.*

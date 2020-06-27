@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 6eec5f32-48fa-4ab4-b16e-fe6a78c284ac
 ---
+# 2010'da neler olacak?
 2010 yılına girmekle kalmayıp neredeyse iki gününü tek tüketmiş
 bulunmaktayız :) Peki neler olacak 2010'da? Aslında şöyle genel bir
 bakış açısı ile 2010'da neler olabileceğini şöyle bir tahmin etmek
@@ -113,3 +114,5 @@ Siz ne diyorsunuz? 2010 kehanetleriniz nelerdir? Nasıl geçecek, neler
 olacak yorumlarınızı merak ediyorum ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-1-3 tarihinde yayinlanmistir.*

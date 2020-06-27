@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 99cf3e5e-5234-44a3-a692-5d4c12f91dc2
 ---
+# MCT Day Zero, Berlin'den haberler.
 Bugün Berlin'de **MCT Day Zero** etkinliğine katıldım. Günün adı merak
 uyandırıcı olduğu için hemen açıkliyim :) Yarın Berlin'de TechEd Europe
 başlıyor ve ben de TLC (Technical Learning Center)'da Silverlight
@@ -89,3 +90,5 @@ sizler için de heyecanlı şeyler paylaşacağım blogdan.
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-9 tarihinde yayinlanmistir.*

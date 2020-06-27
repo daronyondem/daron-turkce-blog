@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: dd0ad6bc-14b9-4ad6-9c90-eeb707a814ee
 ---
+# Silverlight uygulamamızın tarayıcı tarafından tekrar boyutlandırıldığını nasıl algılarız?
 Silverlight 2.0 Beta 2 ile beraber uygulamanızı hazırladınız ve
 kullandığınız kontrollerin görsel özelliklerini öyle bir ayarladınız ki
 istemci tarafında kullanıcı tarayıcı penceresinin boyutunu değiştirse de
@@ -100,3 +101,5 @@ sınırlanmış olursa elimize sürekli aynı değerler ulaşacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-9 tarihinde yayinlanmistir.*

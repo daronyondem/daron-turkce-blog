@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 01f43855-f27b-4d99-a103-3f2575f792cd
 ---
+# ODTÜ BÖTE Kurultayı oturumum.
 Bugün Ankara'da [BÖTE Kurultayı](http://botekurultayi.com/)'ndaydım.
 Kullanıcı deneyimine bir göz atıp sonra da özellikle Silverlight ve WPF
 tarafında yazılımcı ve tasarımcıların beraber çalışmalarını sağlayan
@@ -33,3 +34,5 @@ bırakmadığı için teşekkür etmeliyim ;)
 Tekrar görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-5-10 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: fitness
 MinutesSpent: 0
 Tags: Koşu, Spor
 ---
+# MudRace 5K 2014 Çamur Koşusu
 Geçen hafta sonu, 13 Eylül Cumartesi günü Türkiye'deki tek çamur yarışı
 olan BataÇıka'nın günüydü. Bataçıka benim tüm yıl boyunca heyecanla
 beklediğim bir yarış. Belki de tüm yarışların en eğlencelisi. Bir koşu
@@ -66,3 +67,5 @@ Görüşmek üzere.
 
 <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.854784587899442.1073741836.207889319255642&amp;type=1" data-width="750"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/media/set/?set=a.854784587899442.1073741836.207889319255642&amp;type=1">Post</a> by <a href="https://www.facebook.com/daronyoendem">Daron Yöndem</a>.</div></div>
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-9-15 tarihinde yayinlanmistir.*

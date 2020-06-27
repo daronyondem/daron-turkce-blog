@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: HTML5, IE 10, Internet Explorer, Windows 8, Windows Azure, Windows Phone, Windows Phone 7.5
 ---
+# Microsoft OpenDoor ile Kuwait'teydim.
 Bu haftayı Kuveyt'de Microsoft OpenDoor konferansında geçirdim :) Bu
 aralar yine "leyleği havada görmüş" durumdayım. Geçen
 hafta[Qatar](http://daron.yondem.com/tr/post/Qatarda_Microsoft_OpenDoor_2012)
@@ -29,3 +30,5 @@ Istanbul](http://daron.yondem.com/tr/post/INETA_Istanbul_Subat2012)"
 etkinliği var. Eh artık hafta sonu görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-17 tarihinde yayinlanmistir.*

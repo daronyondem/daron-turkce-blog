@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel, Görsel Ders
 old.EntryID: 294473e2-f037-4233-9ab5-c3b4ead4ff37
 ---
+# nedirtv?com'da Visual Basic.NET Bölüm Editörlüğü
 ![](media/nedirtv_com_da_Visual_Basic_NET_Bolum_Editorlugu/nedirtv_logo.png)Bir süredir
 görsel dersler hazırlayarak [nedirtv?.com](http://www.nedirtv.com)
 platformu üzerinden sizlerle paylaşıyordum. nedirtv?com Topluluk Lideri
@@ -29,3 +30,5 @@ ağırlık vereceğim.
 Yeni derslerde görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-4 tarihinde yayinlanmistir.*

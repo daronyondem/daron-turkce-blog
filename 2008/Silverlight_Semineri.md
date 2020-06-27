@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight
 old.EntryID: 15a9f5c2-5253-4f43-9412-8c23e5bacec7
 ---
+# Silverlight Semineri
 Bu hafta sonu **Cumartesi** günü saat **14.00-17.00** arasında [Genç
 Girişimciler
 Kulübü](http://www.gencgirisimciler.org/bpi.asp?cid=594&caid=311)'nde
@@ -27,3 +28,5 @@ edebilirsiniz.
 <http://www.gencgirisimciler.org/bpi.asp?cid=594&caid=311>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-16 tarihinde yayinlanmistir.*

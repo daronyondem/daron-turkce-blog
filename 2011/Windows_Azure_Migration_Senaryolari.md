@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure Migration Senaryoları (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"
 bitti! Dün akşam serideki son webiner olan "**Windows Azure’a Migration
@@ -27,3 +28,5 @@ Hepsi[burada](http://daron.yondem.com/tr/seminertv/).
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-26 tarihinde yayinlanmistir.*

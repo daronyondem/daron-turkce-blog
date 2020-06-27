@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 62c3f483-42ef-4888-972c-b58dcc8b2e7f
 ---
+# Silverlight ve MediaElement kullanımı.
 Silverlight uygulamalarında videonun yeri çok önemli, tarayıcı ve
 platform bağımsız olarak istemci tarafında klasik WMV dosyalarını
 oynatabiliyor olmak büyük avantaj sağlıyor. Tabi tüm bunları yapabilmek
@@ -576,3 +577,5 @@ menüden de **Path / Release Clipping Path** diyerek maskelemeyi kaldırma
 şansınız da var.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-4 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, IIS 6.0, ASP.NET
 old.EntryID: 61e4a87c-c5ad-476e-8168-6684d2f414b2
 ---
+# ASP.NET 3.5 ve IIS ayarları üzerine...
 .NET Framework 3.5 ile beraber ASP.NET 3.5'i de kullanmaya başladığımız
 bugünlerde artık projelerimizi yavaş yavaş sunuculara aktarmaya doğru da
 yaklaşıyoruz. Peki sunucuda neler yapmamız gerekiyor? Aslında durum daha
@@ -146,3 +147,5 @@ dosyalarına bu kod otomatik olarak ekleniyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-29 tarihinde yayinlanmistir.*

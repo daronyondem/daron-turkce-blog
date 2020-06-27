@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Podcast, Windows 8, Windows Phone 8
 ---
+# giik.FM'den haberler; yeni PodCast ve hafta sonu Surface buluşması!
 Genelde böyle salt duyuru postları çıkmam bloga biliyorsunuz :) ama
 sanırım bir süre yapmam gerekecek :) en azından
 herkes[giik.fm](http://www.giik.fm)'i takip etmeye alışana kadar
@@ -40,3 +41,5 @@ videosu](http://www.youtube.com/user/daronyondem/featured)na da bir göz
 atın isterseniz gelmeden önce :) Haberler bu kadar. Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-11-15 tarihinde yayinlanmistir.*

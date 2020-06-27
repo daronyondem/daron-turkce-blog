@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Mobile Services, Windows Azure
 ---
+# Build 2013 Gün 2 Özeti
 Dünkü [Build 2013 Birinci Gün
 özeti](http://daron.yondem.com/tr/post/Build_2013_Gun_1_Ozeti)nden sonra
 sıra geldi ikinc güne. Bugün konferansın ikinci ve son Keynote'u da
@@ -97,3 +98,5 @@ edilen cihazların unboxing videoları yayınlanacak ;) Kaçırmayın derim.
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-6-28 tarihinde yayinlanmistir.*

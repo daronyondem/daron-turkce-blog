@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 36e12169-4db4-4c1a-8782-769add50fb70
 ---
+# Doğu Akdeniz Üniversitesi Microsoft Weekend
 Geçen hafta sonu **KKTC, Doğu Akdeniz Üniversitesi**'nde süper bir
 **Microsoft WeekEnd** düzenledik. DAÜ **ACM** grubunun organizasyonu ve
 **NETRON, INETA** sponsorluğunda yürüttüğümüz hafta sonu boyunca toplam
@@ -48,3 +49,5 @@ indirebilirsiniz.
 KB)](media/Dogu_Akdeniz_Universitesi_Microsoft_Weekend/22042008_3.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-23 tarihinde yayinlanmistir.*

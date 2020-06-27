@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
+# Varolan bir veritabanını Azure ortamına taşımak!
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Veritabaninizi_Azure_ortamina_tasimak_SDK2_5)
@@ -77,3 +78,5 @@ Tüm bu ayarlarla beraber aldığınız bir script SQL Azure tarafında %99.95
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-6-5 tarihinde yayinlanmistir.*

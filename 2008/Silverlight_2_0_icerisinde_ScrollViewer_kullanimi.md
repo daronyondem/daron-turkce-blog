@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 3ef70f3d-f174-4b43-bc69-3f39c0bf22a6
 ---
+# Silverlight 2.0 içerisinde ScrollViewer kullanımı.
 Herhangi bir içeriği Silverlight 2.0 arayüzlerinde göstermek
 istediğinizde özellikle veri bağlanabilir çoğu kontrolün kendi
 içerisinde "ScrollBar" (Kaydırma Çubukları) içerdiğini görebilirsiniz.
@@ -539,3 +540,5 @@ basılmakta olduğunu yakalayıp one göre işlem yapılabilir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-9 tarihinde yayinlanmistir.*

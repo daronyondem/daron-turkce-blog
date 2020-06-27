@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: ff35845f-2340-4b8e-8456-4e7008c51a84
 ---
+# Silverlight 4 Beta ile WebCam desteği ve fotoğraf çekimi!
 Silverlight 2 sonrasında CLR'a geçiş ve 3 ile gelen yeni özellikler
 çerçevesinde en sık aldığım sorulardan biri Mikrofon ve Ses kartı
 erişiminin olup olmadığıydı. Silverlight 4 ile beraber her iki donanıma
@@ -494,3 +495,5 @@ servisi aracılığı ile göndermek vs tamamen size kalmış. Hepinize kolay
 gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-27 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: HTML5, JavaScript, Nokia, Silverlight, Visual Studio 2013, Windows 8.1, Windows Phone
 ---
+# Build 2014 Gün 1
 Bugünlerde San Francisco'da Microsoft'un Build konferansının 2014
 sürümündeyim :) Geçen [üç yılı
 saydığımızda](http://daron.yondem.com/tr/search/Build) bu benim dördüncü
@@ -401,3 +402,5 @@ canlı canlı gelişmeleri
 isteyenlere duyurulur.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-4-3 tarihinde yayinlanmistir.*

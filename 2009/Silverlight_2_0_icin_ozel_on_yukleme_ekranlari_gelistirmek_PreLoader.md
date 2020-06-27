@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 6f7f1652-dfcf-4aa6-af39-1724ee2f1f11
 ---
+# Silverlight 2.0 için özel ön yükleme ekranları geliştirmek. (PreLoader)
 Silverlight 2.0 uygulamaları hazırladığınızda sunucu tarafına yükleme
 işlemini yaptığınız gibi XAP dosyanızın büyüklüğüne göre Silverlight
 Runtime tarafından otomatik olarak bir ön yükleme sistemi
@@ -273,3 +274,5 @@ kullanabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-25 tarihinde yayinlanmistir.*

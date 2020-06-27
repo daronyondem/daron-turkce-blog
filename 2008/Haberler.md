@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Haberler
 old.EntryID: 06ad7d0d-bb6e-45b8-aeff-8b13f6a80cbf
 ---
+# Haberler...
 Genelde bloga haber postları girmiyorum. Ama son dönemde duyurmak
 istediğim birkaç şey oldu, ben de en iyisi bunları toplu bir post olarak
 bloga koymaya karar verdim. Hatırladım da aynı şeyi bundan sanırım bir
@@ -58,3 +59,5 @@ için yeni bir kullanıcı arayüzü, SQL 2008 desteği dikkati çekiyor.
 Şimdilik haberler bu kadar, selametle ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-29 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: HTML5, IE 10
 ---
+# Internet Explorer 10 ve HTML5 (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"
 devam ediyor! Dün akşam serinin üçüncü ve ilginç :) webinerlerinden biri
@@ -30,3 +31,5 @@ Bu webinerde **Windows 8 Developer Preview Build 8102** ve\
 **Internet Explorer 10 Developer Preview 10.0.8102** kullanılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-16 tarihinde yayinlanmistir.*

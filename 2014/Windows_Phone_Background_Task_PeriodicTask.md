@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 7.5, Windows Phone 8
 ---
+# Windows Phone'da Background Task'lardan PeriodicTask
 Windows Phone'da background'da işlem yaptırmak istediğiniz
 seçeneklerinizden biri "PeriodicTask"ler. PeriodicTask'ler
 uygulamanızdan bağımsız olarak arka planda belirli aralıklar çalışarak
@@ -206,3 +207,5 @@ bulabilirsiniz.
 Kendinize çok iyi bakın. Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-3-12 tarihinde yayinlanmistir.*

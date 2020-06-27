@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# INETA İstanbul 2012 Etkinliği Tamamlandı
 Özlemişim, yine özlemişim :) İki yılı bulmuş sanırım İstanbul'da
 INETA'nın büyük bir etkinliği olmayalı. Bu hafta sonu İstanbul etkinliği
 Microsoft binasında gerçekleşti. Ben de "**Azure'a Migration
@@ -30,3 +31,5 @@ etmeliyim ;) Herşey için çok sağolun.
 Bir başka etkinlikte görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-20 tarihinde yayinlanmistir.*

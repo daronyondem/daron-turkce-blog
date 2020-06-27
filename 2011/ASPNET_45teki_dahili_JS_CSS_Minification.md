@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: .NET Framework 4.5, ASP.NET, ASP.NET 4.5, CSS, JavaScript
 ---
+# ASP.NET 4.5'teki dahili JS/CSS Minification
 Build ikinci gün keynote'undan en çok hoşuma giden şeyler biri ASP.NET
 4.5'teki JavaScript ve CSS minification özelliğiydi. Biliyorsunuz artık
 projelerimizde birçok JavaScript ve CSS dosyaları bulunuyor. Bu
@@ -75,3 +76,5 @@ Bu makale **Visual Studio 11 Express for Windows Developer Preview**\
 ve **Windows 8 Developer Preview Build 8102** kullanılarak yazılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-18 tarihinde yayinlanmistir.*

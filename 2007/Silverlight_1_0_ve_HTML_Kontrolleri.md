@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: c6b76702-1333-4aa8-8cca-2e42083d473a
 ---
+# Silverlight 1.0 ve HTML Kontrolleri
 Bolca **Silverlight 1.0** uygulamaları hazırladığımız :) bugünlerde
 maalesef Silverlight 1.0 ile beraber gelen hazır kontrollerin azlığı
 yüzünden biraz zorluk çekiyoruz. Bu durum Silverlight'ın bir sonraki
@@ -164,3 +165,5 @@ koyabilmekti :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-3 tarihinde yayinlanmistir.*

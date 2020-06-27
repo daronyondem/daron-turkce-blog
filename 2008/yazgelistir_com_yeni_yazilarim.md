@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
 old.EntryID: 50118247-bc60-42b5-a394-2ee57c63dadd
 ---
+# yazgelistir.com'daki yeni yazılarım.
 Bir
 [yazgelistir.com](http://www.yazgelistir.com/Hakkinda/YazarDetay.aspx?UyeId=1000073305)
 Silverlight Editörü olarak yeni **Silverlight** ve **WPF** yazılarım
@@ -30,3 +31,5 @@ kullanımı](http://www.yazgelistir.com/Makaleler/1000001770.ygpx)\
 yolu.](http://www.yazgelistir.com/Makaleler/1000001769.ygpx)\
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-18 tarihinde yayinlanmistir.*

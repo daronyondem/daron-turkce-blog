@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 68
 Tags: Azure Functions
 ---
+# Azure Functions ve Github Webhooks Entegrasyonu
 Daha önceki [Azure Functions ve Webhooks konusundaki yazıda](http://daron.yondem.com/software/post/Azure_Functions_ile_Webhooks_Binding) Github'ı örnek olarak kullanmıştık. Fakat aslına bakarsanız Azure Functions ile beraber Github ve Slack için hazır entegrasyon yapıları geliyor. Örneğin yine [Azure Functions ve Webhooks](http://daron.yondem.com/software/post/Azure_Functions_ile_Webhooks_Binding) yazısından hatırlarsanız Github implementasyonunda **Secret**'ı kullanmamış ve o kısmı size bırakmıştım. Onun yerine biz URL üzerinden giden **Function based Authentication** kullanmıştık. Oysa **Secret** kullansaydık buna da gerek kalmayacaktı :) Peki neden o yazıyı öyle yazdın? derseniz :) ben konuyu daha genel bir yapıda anlatmak istedim. Bu yazıda ise Azure Functions için **httpTrigger**'lardaki **webHookType** özelliğine bakacağız.
 
 ### httpTrigger'da webHookType
@@ -87,3 +88,5 @@ Verileri yine alıp Table Services'a attığımız için yukarıdaki gibi full J
 İtiraf etmek gerekirse **webhooktype**lar zamanla artacak gibi hissediyorum :) Hatta bu konuda ipucu olarak [Github'da yakaladağım fakat daha resmi dokümantasyonda olmayan şeyler](https://github.com/Azure/azure-webjobs-sdk-script/blob/1ab54a94916c8180105af1e43b24a483f070a53f/sample/WebHook-Azure-CSharp/function.json) de var :) Bakalım ilerleyen zamanlarda başka neler göreceğiz :)
 
 Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-13 tarihinde yayinlanmistir.*

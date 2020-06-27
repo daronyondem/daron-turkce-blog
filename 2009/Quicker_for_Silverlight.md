@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 1db38e95-bd3f-4c4e-a09f-39f2229e93cf
 ---
+# Quicker for Silverlight
 Bugün sizlere SoThink'ten "**Quicker for Silverlight**" ürününden
 bahsedeceğim. SoThink firması hali hazırda neredeyse tüm Flash
 developer'ların bildiği ve özellikle Flash De-Compile araçları ile
@@ -44,3 +45,5 @@ fayda var çünkü SoThink kendi alanında gerçekten başarılı bir yazılım
 [http://www.sothink.com/product/animation-maker-for-silverlight/index.htm](http://www.sothink.com/product/animation-maker-for-silverlight/index.htm%20)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-17 tarihinde yayinlanmistir.*

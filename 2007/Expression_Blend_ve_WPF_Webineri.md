@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Webiner
 old.EntryID: 46a6dff6-6847-4088-b0a2-75de53a1bc88
 ---
+# Expression Blend ve WPF Webineri
 Expression Studio ailesini detaylı olarak incelemeye devam ediyoruz. 18
 Ekim 2007 Perşembe günü Türkiye'nin ilk Expression Blend webinerini
 gerçekleştiriyoruz. Microsoft’tan Mehmet Nuri Çankaya ile konuşmacı
@@ -32,3 +33,5 @@ kurmanız gerekecektir.
  **Tarih ve Saat**: 18 Ekim 2007 Perşembe, Saat 10:00-11:00
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-16 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Android, CSS, HTML, HTML5
 ---
+# Sanal Android ile site testi
 Blogun yeni tasarımını ve yazılımını yayınladığım gün twitter üzerinden
 bazı arkadaşlar özellikle Android işletim sistemli cihazlarda tasarımla
 ilgili ilginç sorunlar yaşadıklarını bildirdiler. iPhone ve Windows
@@ -115,3 +116,5 @@ hali.](media/Sanal_Android_ile_site_testi/android23_durum.jpg)\
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-13 tarihinde yayinlanmistir.*

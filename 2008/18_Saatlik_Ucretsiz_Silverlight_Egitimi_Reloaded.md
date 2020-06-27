@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 0f4c4a99-50db-4dd7-83f2-1d3087bf8ac2
 ---
+# 18 Saatlik Ücretsiz Silverlight Eğitimi (Reloaded)
 **NETRON** ve **INETA** işbirliğinde yaptığımız 3 günlük Silverlight
 eğitimini bu sefer de **BilgeAdam** ve **INETA** işbirliği ile tekrar
 ediyoruz. Özellikle "tekrar" kelimesini kullanıyorum ki aynı arkadaşlar
@@ -23,3 +24,5 @@ olmalısınız. Haber vermedi demeyin :)
 Hepinize iyi şanslar ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-17 tarihinde yayinlanmistir.*

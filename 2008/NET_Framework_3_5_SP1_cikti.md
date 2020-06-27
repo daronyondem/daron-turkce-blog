@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 48685930-be51-4d6b-99c5-14c368529ea0
 ---
+# .NET Framework 3.5 SP1 çıktı!
 Visual Studio 2008 SP1 ile beraber .NET Framework 3.5 SP1 de yayınlandı.
 .NET Framework tarafında gerçekten güzel gelişmeler var. İlk olarak son
 günlerde yayınlanan **SQL 2008** desteği artık karşımıza. Tabi
@@ -22,3 +23,5 @@ bilgisayarınıza indirebilirsiniz.
 <http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7&DisplayLang=en>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-11 tarihinde yayinlanmistir.*

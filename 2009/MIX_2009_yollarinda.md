@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, Silverlight 3.0, Internet Explorer
 old.EntryID: 037a9654-6f5b-42dd-a6ce-daf5197b05ed
 ---
+# MIX 2009 yollarında...
 Bu hafta çok hareketli bir hafta olacak ve bundan sonraki günler de aynı
 şekilde :) Şu anda sizlere Atatürk Hava Limanı StarBucks'tan yazıyorum.
 Birazdan uçağa binip New York oradan da Las Vegas'a geçeceğim. Neden mi
@@ -42,3 +43,5 @@ güncel yenilikleri takip edebilirsiniz.
 Önümüzde yine çok hareketli bir dönem var ;) Süper!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-3-17 tarihinde yayinlanmistir.*

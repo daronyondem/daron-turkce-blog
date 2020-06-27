@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: f8d69b56-449b-491b-83b6-09aaad12973f
 ---
+# Silverlight Out Of Browser uygulamalarını offline yükleme scriptleri
 Silverlight ile OOB (Out-Of-Browser) modunda uygulamalar geliştirirken
 bir diğer hissedilebilen ihtiyaç da bu uygulamaları bazen ayrı bir
 şekilde dağıtabilmek oluyor. Normal şartlarda bir OOB uygulaması ancak
@@ -74,3 +75,5 @@ parametresini vermemiz uygulamanın sistemden silinmesi için yeterlidir.
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-7-21 tarihinde yayinlanmistir.*

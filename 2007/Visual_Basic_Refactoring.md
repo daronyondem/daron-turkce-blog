@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, Visual Basic 2005, Visual Basic 2008, Visual Studio 2005, Visual Studio 2008, Visual Basic .NET
 old.EntryID: 89a98349-9c27-460b-91a3-744e0725897f
 ---
+# Visual Basic Refactoring
 Bugün sizlere biraz **Refactoring'den** bahsetmek isriyorum.
 Refactoring'i kaba bir şekilde tanımlamak gerekirse herhangi bir kodun
 işlevini değiştirmeden yazılışı değiştirmek ve hedef olarak da kodun
@@ -323,3 +324,5 @@ dünyasını keşfetmek artık size kalmış.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-28 tarihinde yayinlanmistir.*

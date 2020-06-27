@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Media
 old.EntryID: 6aa58f4a-8cfc-4db5-8edd-6b91f3a3f446
 ---
+# Expression Media ve Folder Watching Özelliği
 **Expression Media**'dan daha önceki Expression Studio Savaşları yazı
 dizimde sizlere bahsetmiştim. **Expression Studio** içerisinde yer alan
 yazılım bize mültimedya dosyalarımızı kolaylık yönetme ve toplu işlemler
@@ -58,3 +59,5 @@ moduna geçerek hala bize dosyayı katalogda göstermeye devam ediyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-31 tarihinde yayinlanmistir.*

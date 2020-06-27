@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 12
 Tags: Windows Azure
 ---
+# Gaziantep KITTECH Oturumum
 Dün Gaziantep’teydim :) Hasal Kalyoncu Üniversitesi’nin düzenlediği KITTECH, Robot ve Yazılım Günleri etkinliğinde Cloud anlatım. 
 
 ![](media/Gaziantep_KITTECH_Oturumum/kittech.jpg)
@@ -19,3 +20,5 @@ Kişisel olarak da benim çok büyük zevkle zaman geçirdiğim bir etkinlik old
 Etkinlikte emeği geçen tüm kardeşlerime çok teşekkür ediyorum. Sadece kendim için değil, haddim olmayarak Gaziantep adına da teşekkür ediyorum. Süper bir iş çıkardınız!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-4-25 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: fitness
 MinutesSpent: 0
 Tags: Spor
 ---
+# 5KM Çamur Koşusu İnanılmaz Eğlenceli
 Koşu maceralarım devam ediyor :) Merak etmeyin bloğu spor bloğuna
 çevirme niyetim yok, aynı şekilde her koşuyu da videoya kaydetmiyorum :D
 Ama itiraf etmeliyim bu koşu apayrı bir koşu, bu çamur koşusu :) MudRace
@@ -19,3 +20,5 @@ videoyu kaçırmayın derim. Belki kim bilir, seneye siz de katılırsınız ;)
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-4 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0
 old.EntryID: 5cc7deaf-3c67-4afb-8431-d13959c57062
 ---
+# Silverlight içerisinde ClipBoard kullanımı
 Silverlight uygulamaları içerisinden "**Clipboard**"a ulaşmak
 istediğinizde maalesef hazır bir altyapı ile en azından şimdilik
 **Silverlight 2.0 Beta 2** içerisinde karşılaşmıyoruz. Aynı şekilde
@@ -379,3 +380,5 @@ işlevsellikler eklenir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-23 tarihinde yayinlanmistir.*

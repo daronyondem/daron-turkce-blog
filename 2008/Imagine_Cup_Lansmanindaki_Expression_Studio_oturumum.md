@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Seminer, Silverlight 2.0, WPF
 old.EntryID: ee0e099b-7050-49a8-8185-5f0f55e54b0d
 ---
+# Imagine Cup Lansmanı'ndaki Expression Studio oturumum.
 Bugün **Imagine Cup Türkiye Lansmanı**'nda "**Expression Studio ile
 Tasarım**" oturumunu sundum. Oturuma katılan arkadaşların çoğu hali
 hazırda daha önce beni izlemiş olmanın avantajını kullanarak neredeyse
@@ -28,3 +29,5 @@ aldım :) Imagine Cup'a katılmayı düşünen arkadaşların sorularını her
 zaman mail olarak bekliyorum ;) Yardım gerekirse buralardayım.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-20 tarihinde yayinlanmistir.*

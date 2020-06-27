@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Silverlight, Windows Phone, Windows Phone 7.5
 ---
+# Silverlight geliştiricileri için WP7.5'e Giriş Webineri Kaydı Hazır
 Dün akşam "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"in
 ilk webineri olan "**Silverlight geliştiricileri için Windows Phone
@@ -31,3 +32,5 @@ yarın bu webiner kaydını da paylaşmış olurum ;)
 Akşama görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-11-3 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Expression Design, Expression Studio, Silverlight 3.0, WPF
 old.EntryID: b473a9ab-ad0d-4974-8f75-8f69a58d9b9f
 ---
+# Expression Studio Seminer Video Kaydı
 Geçen haftalarda Microsoft ofisinde iş ortakları için özel olarak
 düzenlenen bir seri seminerin son parçasını da sizlerle paylaşıyorum. Bu
 defa Expression Studio'da Design ve Blend, Sketchflow taraflarına
@@ -28,3 +29,5 @@ bölümünden faydalanabilirler.
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-3 tarihinde yayinlanmistir.*

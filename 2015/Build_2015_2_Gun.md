@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 15
 Tags: 
 ---
+# Build 2015 2. Gün
 Dünkü Gün 1 özetinden sonra ikinci gün ile karşınızdayım -) İkinci günden de iki tane video var
 Dünkü Gün 1 özetinden sonra ikinci gün ile karşınızdayım :) İkinci günden de iki tane video var elimde. Keynote öncesi ve sonrası :)
 
@@ -25,3 +26,5 @@ Yinde dün olduğu gibi ikinci gün keynote ile ilgili linkleri de sizin derledi
 [Project Westminster - Web Apps to Windows Store Apps](https://dev.windows.com/en-US/uwp-bridges)   
 
 Böylece 2015 Build’i de bitirmiş, atlatmış olduk. Görüşmek üzere.
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-4-30 tarihinde yayinlanmistir.*

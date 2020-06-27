@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Studio 2010
 old.EntryID: 04a51987-f143-4f22-a56d-55089cad7344
 ---
+# Karadeniz Teknik Üniversitesi Visual Studio 2010 Lansmanı
 Bugün Trabzon'da Karadeniz Teknik Üniversitesi'ndeydim. Visual Studi
 2010 akademik lansmanları çerçevesinde hem Visual Studio 2010 hem de
 .NET Framework 4 Yeniliklerine baktığımız bir oturum ile zevkli bir
@@ -29,3 +30,5 @@ etkinliği](http://www.tbdgenc.com/2010/04/etkinlik-microsoft-silverlight-ve-sha
 kaşırmayın derim.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-4-19 tarihinde yayinlanmistir.*

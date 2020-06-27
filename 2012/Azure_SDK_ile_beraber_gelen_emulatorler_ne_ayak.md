@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure SDK ile beraber gelen emülatörler ne ayak?
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Azure_SDK_2_5_ile_beraber_gelen_emulatorler)
@@ -105,3 +106,5 @@ takip edebilirsiniz ;)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-7-10 tarihinde yayinlanmistir.*

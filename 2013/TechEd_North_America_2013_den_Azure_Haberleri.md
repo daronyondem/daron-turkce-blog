@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# TechEd North America 2013'den Azure Haberleri
 Bugünler New Orleans'da TechEd North America 2013 gerçekleşiyor... (Bu
 mudur yani demeyin.. şimdilik ülke gündemi tepkilerimi
 [twitter'dan](http://www.twitter.com/daronyondem)bloğa taşıma niyetim
@@ -73,3 +74,5 @@ IAAS tarafından VM alıp bu lisanslarla kurulum yapabilirsiniz.
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-6-4 tarihinde yayinlanmistir.*

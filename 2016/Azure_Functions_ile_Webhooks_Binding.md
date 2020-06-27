@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 170
 Tags: Azure Functions
 ---
+# Azure Functions ile Webhooks Binding
 WebHooks bildiğiniz üzere çoğu üçüncü parti servisin entegrasyonu için kullanılıyor. Azure Functions özellikle Consumption Plan'da dışarıdan gelen WebHooks'ları beklemek ve gerektiğinde tepki verebilmek adına süper uygun bir araç. O nedenle şöyle ufak bir WebHooks implementasyon örneği yapalım istedim. Basit bir şekilde Github'dan gelen eventleri alıp Table Services'a atacağız :)
 
 ### Github Webhooks ve Azure Functions
@@ -148,3 +149,5 @@ Github'daki **Secret** kısmını merak edenler varsa, o kısımda verdiğiniz k
 ![Github eventleri Table Services'da loglandı](media/Azure_Functions_ile_Webhooks_Binding/webhook-5.png)
 
 Sonuç olarak githubdaki eventler WebHook üzerinden bize geliyor ve biz de Table Services'a atıyoruz. Bundan sonrası artık size kalmış :) 
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-12-9 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 926df620-96fc-4a25-9023-cf88f9e391c7
 ---
+# PhotoSynth yayında!
 Uzun süredir Beta sürecinde olan **Microsofot LivelLabs** projelerinden
 **[Photosynth](http://photosynth.net/Default.aspx)** yayına geçti.
 Özellikle fotoğraf işleme ile ilgili kesinlikle her programcının
@@ -71,3 +72,5 @@ tarihi eserin Synth'leri düzenlendi. Örneğin;* [*Side, Apollo
 Tapınağı*](http://photosynth.net/view.aspx?cid=f4df7000-d093-4564-8882-1f831357049a)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-24 tarihinde yayinlanmistir.*

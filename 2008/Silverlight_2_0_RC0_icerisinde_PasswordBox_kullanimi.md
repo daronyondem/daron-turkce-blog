@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 77b82265-0d4f-4bcf-8ce4-aa4c3e89d728
 ---
+# Silverlight 2.0 RC0 içerisinde PasswordBox kullanımı.
 Silverlight 2.0 RC0 öncesinde Silverlight içerisinde özellikle kullanıcı
 girişlerinde şifrelerin yazılacağı bir TextBox oluşturmak epey zahmetli
 bir işti. Bunun için normal bir TextBox'ı sahneye yerleştiriyor sonra da
@@ -164,3 +165,5 @@ kodunuz ile ulaşabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-2 tarihinde yayinlanmistir.*

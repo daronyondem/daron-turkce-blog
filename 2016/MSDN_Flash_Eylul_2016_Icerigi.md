@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 94
 Tags: Azure DNS, Azure Service Fabric, TypeScript, Windows Azure
 ---
+# MSDN Flash Eylül 2016 İçeriği
 Geçen gün hepimiz adına göğüs kapartan bir haber aldım. Bulunduğumuz bölgede hayatına devam edebilen tek MSDN bülteni olarak MSDN Türkiye olarak biz kalmışız. İtiraf etmek gerekirse her ay bülten içeriğini hazırlarken aklımdaki “kaç kişi okuyor acaba” sorularının cevabını bu şekilde almak beni çok sevindirdi. Hepinize teşekkürler. 
 
 Biliyorum, siz şu an bu yazıyı blogumda okuyorsunuz :) Bu yazılar aslında MSDN Bülten'i için hazırladığım aylık haber bültenleri. Microsoft MSDN Bülten'ine abone olmak isteyenler [buradan olabilirler](https://profile.microsoft.com/RegSysProfileCenter/default.aspx?lc=1033).
@@ -50,3 +51,5 @@ Desktop uygulamalarını Windows Store’a taşıma konusu Build 2016 ile berabe
 
 Preview olarak duyurulan Azure’daki yeni hizmetlerden Azure Monitor kaynaklarınıza dair bir çok metriği izleyebilmenizin yanı sıra uyarı kuralları da koyarak haberdar olabilmenizi sağlıyor. [Detayları merak edenler buradan ilerleyebilirler](https://azure.microsoft.com/en-us/blog/announcing-the-public-preview-of-azure-monitor/ 
 ).
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-9-22 tarihinde yayinlanmistir.*

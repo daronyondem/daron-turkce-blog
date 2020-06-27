@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure'da Özel Domain Kullanımı
 Azure ortamında uygulamanızı koydunuz fakat yönetim portalının size
 verdiği **ornek.cloudapp.net** gibi adresleri kullanmak istemiyorsunuz.
 Onun yerine kendi aldığınız bir domain'i kullanmak istiyorsunuz :) Çok
@@ -137,3 +138,5 @@ Yukarıda da gördüğünüz gibi artık blob ana domain'ini değiştirmiş oldu
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-9-4 tarihinde yayinlanmistir.*

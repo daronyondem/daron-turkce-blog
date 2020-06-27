@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: c59d09ed-29b6-4eff-a1e9-cfb29deadb87
 ---
+# Soru Sorma Merkezi Açıldı!
 Son birkaç haftadır üzerinde çalıştığım minik bir projem vardı.
 twitter'dan beni takip edenler "sinsi projem"i hatırlayacaklardır :)
 
@@ -52,3 +53,5 @@ ederim.
 KB)](media/Soru_Sorma_Merkezi_Acildi/14062008_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-15 tarihinde yayinlanmistir.*

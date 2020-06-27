@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4, Silverlight 5, Visual Studio 2010
 old.EntryID: 96723672-c174-4480-b7a6-fd462fe3eeda
 ---
+# Silverlight Performance Profiling
 Silverlight uygulamalarında ihtiyaç duyulan Visual Studio
 özelliklerinden biri de performans metriklerini analiz edebilmek ve
 inceleyebilmekti. Aslında bu ihtiyacımızı ilkel yöntemlerle
@@ -72,3 +73,5 @@ performans analizi yapabilirsiniz.
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-26 tarihinde yayinlanmistir.*

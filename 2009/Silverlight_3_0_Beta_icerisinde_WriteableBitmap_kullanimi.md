@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 8b42751d-bd28-4dde-9d78-5bae5933c73b
 ---
+# Silverlight 3.0 Beta içerisinde WriteableBitmap kullanımı.
 Silverlight içerisinde tamamen kod ile çizim yapmanın ötesinde bazı
 durumlarda sıfırdan bir Bitmap oluşturmak da isteyebilirsiniz. Bazı
 durumlarda ise belki de elinizde var olan bir Bitmap nesnesini
@@ -319,3 +320,5 @@ yaparsanız kabaca WPF'teki VisualBrush efektini elde etmeniz de mümkün.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-25 tarihinde yayinlanmistir.*

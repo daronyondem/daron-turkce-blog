@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ
 old.EntryID: 3fd3630b-6009-425b-95ca-881de581d01b
 ---
+# 4 Konu 4 Gün Eğitimi Son Günü
 Bugün **TBD** ve **INETA** işbirliğinde "**4 Konu 4 Gün**" ücretsiz
 eğitim serisinin son gününde de LINQ işleyerek eğitim serisini bitirmiş
 olduk. Artık biraz klasikleşmiş olsa da emin olun gerçekten "çok büyük
@@ -23,3 +24,5 @@ Aktiviteye katılan herkese onlarca teşekkür ediyorum buradan.
 Muhteşemdiniz ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-14 tarihinde yayinlanmistir.*

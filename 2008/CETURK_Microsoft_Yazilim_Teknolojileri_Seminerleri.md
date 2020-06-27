@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 06b8d9ad-1692-4bb6-a081-6d936031e8d2
 ---
+# CETURK Microsoft Yazılım Teknolojileri Seminerleri
 **INETA Türkiye** olarak INETA üyesi topluluklara desteğimiz devam
 ediyor. CETURK topluluğu geçen sene düzenlediğimiz "[Microsoft Vizyonu
 ve Yeni
@@ -43,3 +44,5 @@ sitesine uğramayı unutmayın! Seminer [Microsoft
 kat Marmara Salonu'nda gerçekleşecek. Bu sefer ikramımız da var :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-1 tarihinde yayinlanmistir.*

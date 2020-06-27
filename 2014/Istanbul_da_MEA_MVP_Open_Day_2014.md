@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: MVP, MVP Summit
 ---
+# İstanbul'da MEA MVP Open Day 2014
 [2008 yılından beridir MVP
 Programı'ndayım](http://daron.yondem.com/tr/post/2013_icin_de_RD__MVP_ve_NDC_unvanlarini_aldim).
 Bu süreçte neredeyse olabildiğince [Global MVP
@@ -50,3 +51,5 @@ Torkan**'a etkinliği gerçekeştirmek için gösterdikleri çabay için
 teşekkür ediyorum. Ama benden plaket beklemeyin :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-3-23 tarihinde yayinlanmistir.*

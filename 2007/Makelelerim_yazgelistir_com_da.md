@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: 94ae928e-27bf-425a-bc77-33a2ed7efc43
 ---
+# Makelelerim yazgelistir.com'da...
 Microsoft Türkiye'nin Yazılım Geliştiriciler için Türkiye'deki paylaşım
 web sitesi olan yazgelistir.com'da yazar olarak makalelerim bir kısmını
 daha geniş bir kitleye ulaşabilmek adına yayınlıyor olacağım. İlk yedi
@@ -40,3 +41,5 @@ Sorunu](http://www.yazgelistir.com/Makaleler/1000001424.ygpx)
 Extender](http://www.yazgelistir.com/Makaleler/1000001423.ygpx)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-3 tarihinde yayinlanmistir.*

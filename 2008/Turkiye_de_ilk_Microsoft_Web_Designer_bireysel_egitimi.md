@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: dbde459d-28e1-4e8b-9751-1f0230904963
 ---
+# Türkiye'de ilk Microsoft Web Designer bireysel eğitimi
 Aylardır görüşmediğimiz CPLS (Certified Partner Learning Solutions)
 kalmadı. Herkese sektörde **Silverlight** ve **Expression Studio** ile
 ilgili eğitimlerin açılması gerektiğini söyledim de durdum. Sonunda
@@ -35,3 +36,5 @@ bence önümüzdeki 1 yıl içerisinde bulabilecekleri en iyi eğitimlerden
 biri olacaktır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-26 tarihinde yayinlanmistir.*

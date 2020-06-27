@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 5
 old.EntryID: b94a07d5-3909-46b8-938a-82c60a0e6869
 ---
+# Silverlight 5 Beta Markup Extensions
 XAML tarafındaki binding mekanizmalarını biliyoruz. Örneğin herhangi bir
 property'yi XAML tarafında tanımlı bir nesnenin bir attribute'üne
 bağlamak için aşağıdaki gibi basit bir binding syntaxi kullanabiliriz.
@@ -235,3 +236,5 @@ tutabiliyoruz. Makrup Extension yapıları ile "Şunu da ben bunla yaparım"
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-18 tarihinde yayinlanmistir.*

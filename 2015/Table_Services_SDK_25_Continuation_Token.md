@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 45
 Tags: Azure Storage Services, Windows Azure
 ---
+# Table Services SDK 2.5 Continuation Token
 Hiç denediniz mi bilmiyorum :) ama eğer ki bir table'dan 1000'den fazla
 nesneniz varsa.. ki kesinlikle olacaktır. Hatta Table Service'in en
 kuvvetli yönlerinden biri şu anda SQL Azure 500GB database sınırına
@@ -72,3 +73,5 @@ ParitionKey üzerinden sorguyu oluşturduktan sonra **ExecuteQuerySegmentedAsync
 Böylece büyük verileri sayfalama işini API seviyesinde de halletmiş oluyoruz.
 
 Hepinize kolay gelsin ;)
+
+*Bu yazi http://daron.yondem.com adresinde, 2015-3-11 tarihinde yayinlanmistir.*

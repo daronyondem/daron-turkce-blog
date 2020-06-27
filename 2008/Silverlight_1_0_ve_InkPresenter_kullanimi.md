@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 8d45130d-a7b2-4ce4-a4ad-f550eeea494f
 ---
+# Silverlight 1.0 ve InkPresenter kullanımı
 Silverlight 1.0 ile beraber gelen ve hakkında belki de en az bahsedilen
 kontrollerden biri de **InkPresenter** kontrolüdür. InkPresenter
 kontrolü ile web ortamında TabletPC'lerdeki kalemler ile yazı girişi ve
@@ -205,3 +206,5 @@ noktalar eklenmeyecek.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-28 tarihinde yayinlanmistir.*

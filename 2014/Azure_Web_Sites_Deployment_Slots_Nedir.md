@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Azure Web Sites Deployment Slots Nedir?
 Daha önceki yazılarımda Cloud Services için geçerli olan [VIP
 SWAP](http://daron.yondem.com/software/post/Azure_da_Service_Upgrade_SDK2_2)'ten
 bahsetmiştim. Azure'da Production ve Staging ortamları yaratbileceğimizi
@@ -88,3 +89,5 @@ istediğiniz gibi trafiği dağıtabilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-11-19 tarihinde yayinlanmistir.*

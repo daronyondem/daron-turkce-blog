@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure, Windows Phone 7.5
 ---
+# Kıbrıs Windows Phone 7 Gece Kampı ve Windows Azure BootCamp!
 Bu hafta sonu çılgın bir haftasonuydu :) **Doğu Akdeniz
 Üniversitesi**'nin davetlisi olarak Kıbrıs'taydım. Şu meşhur
 SilverNight'larımızın konseptinde fakat bu sefer **Windows Phone 7.5**
@@ -47,3 +48,5 @@ katkanız hayatiydi.
 Bir sonraki Kıbrıs ziyaretimde görüşmek üzere! Kendinize çok iyi bakın!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-4 tarihinde yayinlanmistir.*

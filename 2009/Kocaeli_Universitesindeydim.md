@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 58bfb60e-fcdf-457f-a59b-a6fbc653d211
 ---
+# Kocaeli Üniversitesi'ndeydim...
 Bugün Kocaeli Üniversitesi'ndeki yazgelistir.com seminer serisinin
 ikincisini gerçekleştirdik. Sevgili [Burak
 Batur](http://burakbatur.blogspot.com/) ile beraber SharePoint ve
@@ -28,3 +29,5 @@ organizasyonda emeği geçen tüm genç kardeşlerimi de buradan kutluyorum.
 oturumlar ile daha da detaylara girebiliriz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-21 tarihinde yayinlanmistir.*

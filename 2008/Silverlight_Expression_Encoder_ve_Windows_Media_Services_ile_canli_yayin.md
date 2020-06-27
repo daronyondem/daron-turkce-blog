@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Encoder, Silverlight
 old.EntryID: c44b96e8-e240-4ede-8c1f-7bdc000da97f
 ---
+# Silverlight, Expression Encoder ve Windows Media Services ile canlı yayın
 **Silverlight 1.0** ile **MediaElement** kullanarak **MMS** adresleri
 üzerinden gelen "*on-demand*" veya "*live*" yayınları kullanıcılara
 gösterme şansımız var. Bu yazıda **Windows Media Services** ile
@@ -140,3 +141,5 @@ style="color: blue;">\></span>
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-23 tarihinde yayinlanmistir.*

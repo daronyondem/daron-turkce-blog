@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: LINQ, Visual Studio 2008
 old.EntryID: 3828ccde-9e6e-48ef-8335-948d4e839521
 ---
+# Visual Studio 2008 ve Language Integrated Query
 Son zamanlarda özellikle **Silverlight**, **WPF** ve **Expression
 Studio** ürün ailesi ile ilgili sizleri blogum ve webinerler aracılığı
 ile bilgi bombardımanına tuttuğumun farkındayım :) Ama aslında her şey
@@ -183,3 +184,5 @@ Bu yazımda amacım sizlere geleceğe yönelik ufak bir öngörü aktarmaktı.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-20 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 852e0af4-c825-4de4-b0b0-45f5d4b277e7
 ---
+# 2008 Yılında MVP'lik Ödülü
 ![](media/2008_Yilinda_MVP_lik_Odulu/02042008_1.png)*"Congratulations!
 We are pleased to present you with the 2008 Microsoft® MVP Award! The
 MVP Award is our way to say thank you for promoting the spirit of
@@ -32,3 +33,5 @@ ulaşabilirler.
 Eh, artık hepimize hayırlı, uğurlu olsun :) yola devam...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-2 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Azure'da Blob Storage'a giriş SDK(2.5)
 
 Uzun süredir Azure yazılarında sürekli olarak :) uygulamamızın çalıştığı
 sanal makinenin diskinin aslında kalıcı veri saklama alanı olarak
@@ -266,3 +267,5 @@ foreach (var blobItem in container.ListBlobs())
 Birincisi şunu söyliyim :) Blob konusu bitmedi :) ama sanırım akıllardaki çoğu soru işaretini cevaplamıştır. Azure ortamında 180 instance çalışan web role'ünüzün kalıcı dosya saklama yeri kesinlikle Blob'lar olacaktır. İşin güzel tarafı özellikle dışarıya açılacak dosyalarda blobların bunu doğrudan yapıyor olması. Böylece dosya downloadları, resimler gibi birçok şeyin trafiği aslında sunucunuz üzerinden geçmiyor bile. Blobların performansından, arka planda doğru şekilde dağılmasında Microsoft sorumlu çünkü orada zaten hem bandwidth :) hem REST API transaction başına para alıyorlar. Tabi storage alanı için de para alınıyor :) 
 
 Kolay gelsin.
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-4 tarihinde yayinlanmistir.*

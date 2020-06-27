@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET
 old.EntryID: 0d758743-6f8e-421f-a10c-bcbfe3e95e62
 ---
+# ASP.NET Uygulamalarına Programatik Restart
 Web uygulamaları adı üzerinde birer "uygulama" yani "application" dır.
 **IIS** üzerinde her bir web uygulaması için bir "**Application**"
 tanımlanır ve ancak bu şekilde uygulamalar tek başlarına çalışabilirler.
@@ -50,3 +51,5 @@ Böylece tüm restart işlemlerini loglamanız mümkün. Kabaca değerlendirmek
 gerekirse en .NET dostu restart metodunu yazmış bulunuyoruz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-15 tarihinde yayinlanmistir.*

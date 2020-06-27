@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, Silverlight 3.0
 old.EntryID: 524c9729-43a5-4398-a7a7-665448029592
 ---
+# Silverlight ile DVD ve CD arayüzleri hazırlamak!
 DVD veya CD arayüzleri hala bilgisayar dünyasında ciddi bir yere sahip.
 İçeriğin paylaşımı adında internet ciddi bir yol almış olsa da hala CD
 ve DVD medyalarını kullanarak içeriğin dağıtımı bazı senaryolarda çok
@@ -603,3 +604,5 @@ Silverlight özelliğini bir anda kullanabilir hale geliyorsunuz! Bu
 gerçekten muhteşem!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-9-3 tarihinde yayinlanmistir.*

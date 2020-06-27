@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Blend, Silverlight, WPF
 old.EntryID: d59655f6-9a21-4956-8ee1-1006834dfc26
 ---
+# Expression Blend 2 December Preview
 Silverlight uygulamaları hazırlarken Expression Blend'in 2.0 sürümünü
 kullanmamız gerekirken maalesef 2.0 sürümünün hala Preview aşamasında
 olmasa epey sıkıntı yaratıyor. Durum böyle olunca Preview'ların
@@ -31,3 +32,5 @@ gözüküyor fakat Silverlight ile çalışmıyor sadece WPF'de var.*" demekten
 kurtuldum :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-17 tarihinde yayinlanmistir.*

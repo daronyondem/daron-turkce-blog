@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: f69aa8f7-e3a6-4990-a995-9ede1a99312a
 ---
+# Train The Trainer Eğitimi Sonrası
 Son dört gündür sıkı bir tempo ile Microsoft Dikilitaş ofisleri - Şişli
 arasında mekik dokuyordum. "Sonunda bitti" diyemeyeceğim kadar zevkli ve
 bir o kadar da yararlı bir eğitimi maalesef bugün sınıfça tükettik.
@@ -30,3 +31,5 @@ borç bilirim. Eğitimin sonundan bir fotoğraf ile yazımı sonlandırıyorum.
 ![](media/Train_The_Trainer_Egitimi_Sonrasi/24082007_01.jpg)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-25 tarihinde yayinlanmistir.*

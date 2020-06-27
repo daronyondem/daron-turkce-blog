@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, WPF
 old.EntryID: 26978882-63cc-445a-9f9e-609591d43282
 ---
+# Silverlight ve WPF Eğitimi Sonrasında
 Bu hafta **Microsoft İstanbul** binasında gerçekleştirilen Microsoft İş
 Ortakları'ndan seçilmiş .NET yazılım geliştiricilere hitap eden **Visual
 Studio 2008** eğitimleri çerçevesinde **Silverlight ve WPF**
@@ -24,3 +25,5 @@ MB)](media/Silverlight_ve_WPF_Egitimi_Sonrasinda/11012008_2.zip)
 Katılan herkese çok teşekkürler.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-11 tarihinde yayinlanmistir.*

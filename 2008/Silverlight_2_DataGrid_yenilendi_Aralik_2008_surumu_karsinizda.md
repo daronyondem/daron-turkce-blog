@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 36631106-ca05-4c00-b143-4d933cefad78
 ---
+# Silverlight 2 DataGrid yenilendi! Aralık 2008 sürümü karşınızda.
 Silverlight 2.0 ile beraber gelen DataGrid'in aslında SDK paketi ile
 beraber geldiğini biliyoruz. Yani normal şartlarda DataGrid Silverlight
 Runtime içerisinde bulunmuyor. Haricinde bir DLL içerisinde yer alan
@@ -46,3 +47,5 @@ Download adresi :
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-15 tarihinde yayinlanmistir.*

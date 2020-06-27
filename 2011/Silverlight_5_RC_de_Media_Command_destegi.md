@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
 ---
+# Silverlight 5 RC'de Media Command desteği.
 Silverlight 5 RC ile beraber gelen bir diğer özellik ise **Media
 Command** desteği. Bunu ister klavyeler üzerinde bulunan özel tuşlarla
 ilişkili bir konu olarak ele alın ister harici kumandası olan ortamlarda
@@ -54,3 +55,5 @@ eklenmiş durumda. Bu komutlar Windows veya Mac'te bulunmuyor.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-12 tarihinde yayinlanmistir.*

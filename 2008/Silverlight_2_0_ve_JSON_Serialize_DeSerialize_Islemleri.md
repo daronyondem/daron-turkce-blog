@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 457fbb28-892e-4a37-b7d3-cb297d97020b
 ---
+# Silverlight 2.0 ve JSON Serialize / DeSerialize İşlemleri
 Günümüzde çoğu AJAX uygulamasında veri transferi için JSON formatı
 kullanılıyor. ASP.NET programcılığı tarafında biz farkında olmasak da
 PageMethod'lar, Web Servisleri veya WCF Servisleri sunucudan JavaScript
@@ -536,3 +537,5 @@ style="color: blue;">Class</span>
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-18 tarihinde yayinlanmistir.*

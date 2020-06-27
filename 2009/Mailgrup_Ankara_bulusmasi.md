@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 2365cc4c-11b0-480a-a793-2f85d1585a69
 ---
+# Mailgrup Ankara buluşması...
 Bugünlerde Ankara'dayım :) Neden olduğu sanırım yarınki postum daha net
 anlatacaktır. Hazır Ankara'dayken mailgrup olarak uzun süredir hayalini
 kurduğumuz Ankara buluşmamızı da yapalım dedik. Hafta içi olması eminim
@@ -34,3 +35,5 @@ bazen :) Merak edenler için grubun adresi :
 <http://daronyondem.groups.live.com/>*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-7-31 tarihinde yayinlanmistir.*

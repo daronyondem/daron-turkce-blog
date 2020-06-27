@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: 021a07b8-b4ac-486e-af58-cf695bc8bd6e
 ---
+# Kaynak kodu paylaştıkça artar...
 Açık kaynak kodu özellikle Microsoft taraflı yazılım geliştiricilerin
 biraz endişe ile baktıkları bir alandır. Bu durum söz konusu
 yazılımcıların Microsoft platformlarının kullanıyor olmalarının bir
@@ -72,3 +73,5 @@ yavaşlığına bağlı olduğu bir gerçek ama bana sorarsanız pek de önemi
 yok. Bilgi paylaştıkça artar, kaynak kodları da aynen :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-31 tarihinde yayinlanmistir.*

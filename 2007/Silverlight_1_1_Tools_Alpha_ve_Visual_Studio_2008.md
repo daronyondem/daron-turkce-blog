@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Visual Studio 2008
 old.EntryID: 116ce1b1-74ec-497d-8157-7f7f7b16d8e7
 ---
+# Silverlight 1.1 Tools Alpha ve Visual Studio 2008
 **Visual Studio 2008**'in çıkması ile artık eski **Silverlight 1.1
 Tools** paketini kullanma şansınız yok. **Visual Studio 2008 Beta 2**
 ile beraber çalışabilen paket Visual Studio 2008'in RTM sürümüne göre
@@ -26,3 +27,5 @@ projelerinde farklı hatalarla karşılaşmanıze veya daha da kötüsü
 Kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-29 tarihinde yayinlanmistir.*

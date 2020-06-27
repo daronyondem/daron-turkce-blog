@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 8ee754ae-1acb-444d-ab0a-39c40f771aae
 ---
+# Silverlight 2.0 Beta 2 ile ASP.NET Forms Authentication kullanımı
 ASP.NET Authentication mekanizmaları neredeyse tüm ASP.NET projelerinde
 kullandığımız pratik çözümlerden. Özellikle Forms Authentication belki
 de özellikle internet projelerinde en sık karşılaştığımız sistem. Peki
@@ -424,3 +425,5 @@ metodlar da bulunuyor.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-8 tarihinde yayinlanmistir.*

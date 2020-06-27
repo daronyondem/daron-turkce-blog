@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: LINQ
 ---
+# Türkiye'de artık bir LINQ kitabı var.
 Bundan sanırım 2 yıl önce falandı :) "LINQ kitabı yazmalısın" dedim.
 Kime mi? Aşağıdaki kitabın yazarına, sevgili [Cihan
 Yakar](http://www.cihanyakar.com/)'a. Böylece LINQ artık ASP.NET, C\#
@@ -31,3 +32,5 @@ bir kaynak çıkarttığı için sevgili Cihan'a buradan da çok teşekkür etme
 istiyorum. Eline sağlık!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-3 tarihinde yayinlanmistir.*

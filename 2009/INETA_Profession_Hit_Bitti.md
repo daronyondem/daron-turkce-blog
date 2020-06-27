@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ADO.NET Data Services, AJAX, ASP.NET 3.5, Silverlight 2.0, WCF, ASP.NET
 old.EntryID: e54f1ea9-e53f-4af1-b571-3371152db862
 ---
+# INETA Profession Hit Bitti
 Bu hafta sonu **INETA Professional Hit** etkinliğimizi gerçekleştirdik.
 Kayıt alımındaki sorunlara karşın etkinlik boyunca gelen olumlu tepkiler
 epeyce moralimi düzeltti. Level 300 hedefi ile yola çıksak da maalesef
@@ -55,3 +56,5 @@ KB)](media/INETA_Profession_Hit_Bitti/28012009_Silverlight.rar)
 Katılan herkese çok teşekkürler. Bir başka aktivitede görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-29 tarihinde yayinlanmistir.*

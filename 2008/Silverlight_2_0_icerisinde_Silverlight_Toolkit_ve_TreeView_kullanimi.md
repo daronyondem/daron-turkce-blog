@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: ca1d60fd-f524-416b-87be-7519838cccde
 ---
+# Silverlight 2.0 içerisinde Silverlight Toolkit ve TreeView kullanımı
 Silverlight 2.0 ile beraber gelen kontrol sayısı 1.0'a kıyasla ciddi
 miktarda arttı. Fakat hala eksikler var! İşte bu eksikleri Silverlight
 sürümleri arasında doldurabilmek adına yeni bir proje
@@ -709,3 +710,5 @@ elimize **Urun** tipinden bir nesne gelecek. Gönül daha ne ister? :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-29 tarihinde yayinlanmistir.*

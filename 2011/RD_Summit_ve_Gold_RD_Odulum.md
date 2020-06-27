@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 1ba15284-e5cd-4468-9df1-1f06ff383e0b
 ---
+# RD Summit ve Gold RD Ödülüm
 MVP Summit sonrası herkes evine dönerken :) ben bir gün daha Seattle'da
 kaldım. Neden mi? Çünkü bu sene MVP Summit'i takiben bir de RD Summit
 gerçekleşti. En son 2009'da gerçekleştirilen RD Summit sonrası 2011'de
@@ -51,3 +52,5 @@ tanesine](http://www.facebook.com/album.php?id=717049068&aid=225857)
 bakabilirsiniz :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-3-5 tarihinde yayinlanmistir.*

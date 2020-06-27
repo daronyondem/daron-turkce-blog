@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: 
 ---
+# Windows 8 Metro Uygulamalarında Performans Metrikleri
 Windows 8'in Metro arayüzü için uygulama geliştirirken bu arayüzlerin
 tablet donanımında çalışacağını göz önüne alarak performansa da dikkat
 etmek gerekiyor. Aynı Windows Phone ortamındaki emülatörde olduğu gibi
@@ -58,3 +59,5 @@ Bu makale **Windows 8 Developer Preview Build 8102** kullanılarak
 yazılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-25 tarihinde yayinlanmistir.*

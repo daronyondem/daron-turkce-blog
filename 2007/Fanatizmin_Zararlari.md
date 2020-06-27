@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 79b28f8a-8223-4187-b8e3-9114e962237d
 ---
+# Fanatizmin Zararları
 **Fanatizm** başlığını attıktan sonra nasıl bunu benim blogun konseptine
 bağlayacağımı merak ediyorsanız aslında hiç de zor değil çünkü toplumca
 "**Yazılımda Fanatizm**" diyebileceğimiz ciddi bir sorunun içine yine
@@ -78,3 +79,5 @@ bunların hepsi Microsoft'un durumun farkında olduğunun göstergesidir.
 Peki siz farkında mısınız? Yoksa hala birer fanatik misiniz?
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-12-14 tarihinde yayinlanmistir.*

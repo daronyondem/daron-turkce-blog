@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: ASP.NET, ASP.NET 4.0, IIS 7.0
 ---
+# ASP.NET 4.0 UrlRouting Deployment Problemi
 Herkese Günaydın! :) ASP.NET 4.0'daki[UrlRouting
 hakkında](http://daron.yondem.com/tr/post/e6f2b81a-defc-4255-ba19-d0071526aadf)
 çoook önceleri, evet 2 yıl önce bir blog yazısı yazmıştım. Blog'u
@@ -94,3 +95,5 @@ Sabah sabah ufak bir ipucu ile güne başlamanın verdiği rahatlık ile :)
 görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-3 tarihinde yayinlanmistir.*

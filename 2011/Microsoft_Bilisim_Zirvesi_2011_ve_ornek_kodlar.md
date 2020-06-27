@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: HTML5, Silverlight 4
 old.EntryID: d613f216-f2dd-40f3-9c9c-033fb35d8a34
 ---
+# Microsoft Bilişim Zirvesi 2011 ve örnek kodlar
 Bugün efsanevi bir etkinlik geçti İstanbul'dan! [Microsoft Bilişim
 Zirvesi](http://www.microsoft.com/turkiye/cloud/localevents.aspx) :)
 Neden efsanevi derseniz; ben çok eğlendim :) ondan efsanevi :) Kulağa
@@ -37,3 +38,5 @@ MB)](media/Microsoft_Bilisim_Zirvesi_2011_ve_ornek_kodlar/11032011_3.rar)\
 MB)](media/Microsoft_Bilisim_Zirvesi_2011_ve_ornek_kodlar/11032011_2.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-3-11 tarihinde yayinlanmistir.*

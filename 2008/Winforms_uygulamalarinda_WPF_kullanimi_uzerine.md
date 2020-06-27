@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WPF
 old.EntryID: 399ae928-b165-4690-8346-cdb60f82c9b4
 ---
+# Winforms uygulamalarında WPF kullanımı üzerine.
 WPF release olduğundan bu yana neredeyse tüm eğitimlerde ve seminerlerde
 **WPF** ile klasik **Winforms** yapısının aynı uygulama içerisinde
 beraber kullanılıp kullanılmayacağı sorusu ile karşılaşıyorum. Bu yazıda
@@ -339,3 +340,5 @@ pencereye ulaşılabilecek.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-2 tarihinde yayinlanmistir.*

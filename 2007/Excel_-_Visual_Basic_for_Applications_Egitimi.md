@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler
 old.EntryID: 86ab2496-2182-490b-b403-49dc107c1723
 ---
+# Excel - Visual Basic for Applications Eğitimi
 Uzun yıllar ardından bir **VBA** eğitimi veriyor olmak benim için güzel
 bir nostalji oldu. Ankara, [NetSoft](http://www.netsoft.com.tr/)
 binasında [MayaSoft](http://www.mayasoft.com.tr/) organizasyonu ile
@@ -30,3 +31,5 @@ fotoğraf ile yazımı sonlandırıyorum.
 ![](media/Excel_-_Visual_Basic_for_Applications_Egitimi/11082007_1.jpg)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-8-12 tarihinde yayinlanmistir.*

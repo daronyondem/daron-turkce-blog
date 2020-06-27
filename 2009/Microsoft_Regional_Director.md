@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 8221aab4-375d-4109-b025-573f4a5091a1
 ---
+# Microsoft Regional Director
 Son iki aydır duyurmaya fırsat bulamadığım bir haberi sizlerle paylaşmak
 istiyorum. Ocak 2009 başlangıcı ile karşınızda bir **Microsoft Regional
 Director** olarak bulunuyorum. Akla onlarca soru geldiğinden eminim o
@@ -91,3 +92,5 @@ yazıya bırakabilirsiniz.
 Sevgilerle...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-2-17 tarihinde yayinlanmistir.*

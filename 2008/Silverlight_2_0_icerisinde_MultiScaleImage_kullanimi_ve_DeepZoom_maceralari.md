@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 84a4bed5-dcdf-48a6-8cc7-2b193eeda808
 ---
+# Silverlight 2.0 içerisinde MultiScaleImage kullanımı ve DeepZoom maceraları
 Silverlight 2.0 ile beraber gelen kontrollerden biri de
 **MultiScaleImage** kontrolü. Bu kontrolün yapabildikleri arasında
 gerçekten çok ilginç uygulamalar var. Genel itibari ile çok büyük
@@ -1806,3 +1807,5 @@ style="color: blue;">false</span>);
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-24 tarihinde yayinlanmistir.*

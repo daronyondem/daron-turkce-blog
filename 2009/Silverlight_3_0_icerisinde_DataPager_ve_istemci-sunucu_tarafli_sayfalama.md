@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 97826af2-6e81-421b-9bcf-94502e4f64f2
 ---
+# Silverlight 3.0 içerisinde DataPager ve istemci/sunucu taraflı sayfalama
 Sayfalama senaryoları her zaman ihtiyacımız olan işlevselliklerden
 olmuştur. En basit kullanımı ile bir DataGrid içerisindeki verinin
 sayfalanabilir olarak gösterilebilmesi gerekir. Bu sayfalama işlemi
@@ -585,3 +586,5 @@ tamamlanmış olacaktır. Artık elimizde sunucu tarafında sayfalama
 yapabilen bir arayüzümüz var.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-7-2 tarihinde yayinlanmistir.*

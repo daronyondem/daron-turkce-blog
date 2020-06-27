@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Haberler, Visual Studio 2008
 old.EntryID: 8e0206a9-238c-4aa9-b293-0ab955bb205c
 ---
+# Visual Studio 2008 Virtual PC İmajları Yenilendi
 Visual Studio 2008 Beta 2'yi denemenin en kolay yollarından biri sanal
 makine kullanıyor olmak. Daha önceki
 [yazılarımda](PermaLink.aspx?guid=3828ccde-9e6e-48ef-8335-948d4e839521)
@@ -36,3 +37,5 @@ kuranlar yukarıdaki gibi bir sorunla karşılaşmayacaklar. Sorun Microsoft
 tarafından dağıtılan hazır sanal makine imajlarına özgü.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-30 tarihinde yayinlanmistir.*

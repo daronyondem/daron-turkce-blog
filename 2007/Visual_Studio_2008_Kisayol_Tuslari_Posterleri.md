@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Basic 2005, Visual Studio 2008, Visual Basic .NET
 old.EntryID: c5bf8040-675c-4690-9f6e-3440aa569854
 ---
+# Visual Studio 2008 Kısayol Tuşları Posterleri
 Visual Studio 2008'in gün gün yaklaştığını hissettiren yeni posterler
 karşınızdayım :) Aşağıdaki adreslerden Visual Basic 2008 ve Visual C\#
 2008'e ait Visual Studio 2008 kısayollarının bir listesinin bulunduğu
@@ -22,3 +23,5 @@ Poster](http://www.microsoft.com/downloads/details.aspx?familyid=255b8cf1-f6bd-4
 Poster](http://www.microsoft.com/downloads/details.aspx?familyid=e5f902a8-5bb5-4cc6-907e-472809749973&displaylang=en)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-11-18 tarihinde yayinlanmistir.*

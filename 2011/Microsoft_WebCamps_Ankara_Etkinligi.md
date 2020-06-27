@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: WebMatrix
 old.EntryID: e1da472e-5549-4e54-88bc-b15dcd3e5bcc
 ---
+# Microsoft WebCamps Ankara Etkinliği
 Bugün Microsoft'un [WebCamps](http://www.webcamps.ms) etkinlik serisinin
 ilk ayağını Ankara'da yaptık. Evet, yanlış duymadınız :) Hani hep "Neden
 önce İstanbul?" diyordunuz ya :) Bu sefer önce Ankara oldu. Gün boyunca
@@ -31,3 +32,5 @@ ediyorum.
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-1-12 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: 1e187b7c-c9f7-4214-a9fd-4b21a42d50cc
 ---
+# Microsoft TechEd 2009 North America İlk Gün
 Bugün Microsoft **TechEd 2009** North America'nın ilk günündeydim.
 TechEd konferansı adından anlaşıldığı gibi Technology Education olarak
 geçiyor ve ağırlıklı olarak ITPro tarafına hitap edildiği gibi bir ön
@@ -44,3 +45,5 @@ farklı bir içerikle olsa da*
 deneyebilirsiniz.*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-5-11 tarihinde yayinlanmistir.*

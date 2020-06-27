@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: d2cefb91-0eff-41e6-80e7-ba3539cc9e69
 ---
+# Silverlight animasyonlarında fare imlecini değiştirmek.
 **Silverlight** uygulamaları içerisinde ister **sürükle&bırak**
 sistemleri kullanın ister doğrudan **InkPresenter** gibi fare imlecinin
 farklı anlamlar taşıdığı uygulamalara değinin yeri geldiğinde farenin
@@ -398,3 +399,5 @@ Hepinize kolay gelsin.
  
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-13 tarihinde yayinlanmistir.*

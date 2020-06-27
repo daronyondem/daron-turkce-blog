@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: fea5c2e5-e5c2-4aa7-9115-210a2a5957f6
 ---
+# INETA K12 Ekibi ve INETA K12 Konuşmacılarımız
 Bugün **INETA Türkiye** tarafından sizlere çok güzel bir duyurum var.
 Uzun zamandır hayalini kurduğum ve sonunda gerçekleştirebildiğimiz bir
 projeden bahsedeceğim.
@@ -50,3 +51,5 @@ bir CV ile iletişime geçmenizde fayda var.
 Hepimize hayırlı olsun...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-18 tarihinde yayinlanmistir.*

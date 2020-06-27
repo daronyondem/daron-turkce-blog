@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: e8feabdc-bac0-438f-bd6f-7eb6793a01e0
 ---
+# Silverlight Toolkit'ten AutoCompleteBox kullanımı.
 Bu yazımızda [Silverlight Toolkit](http://www.codeplex.com/Silverlight)
 ile beraber gelen **AutoCompleteBox** kontrolünü inceleyeceğiz.
 Bilgisayarınızda Silverlight Toolkit yükledikten sonra Toolkit
@@ -635,3 +636,5 @@ kullanıcılar hızlıca işleme devam edebilirler.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-6-23 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.5, Visual Basic 2008, Visual Studio 2008, WPF, Visual Basic .NET
 old.EntryID: bed8c4b1-9a56-493e-82a2-292a15a2e79d
 ---
+# Uygulamayı bilgisayarın ikinci ekranına nasıl iteriz?
 Bugün sizinle ufak bir ipucu paylaşmak istiyorum. Bir projenin gerekleri
 nedeniyle hazırladığımız bir Windows uygulamasının bilgisayara bağlı
 ikinci ekranda açılmasını istiyorduk. Bu ekranlara Windows'un **Extended
@@ -44,3 +45,5 @@ de ilk ekranın genişliğini almak yeterli olacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-25 tarihinde yayinlanmistir.*

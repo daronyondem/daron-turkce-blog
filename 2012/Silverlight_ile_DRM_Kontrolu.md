@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Silverlight 5
 ---
+# Silverlight ile DRM Kontrolü
 Diyelim ki Silverlight tarafında kullanıcıdan bir müzik dosyası
 alıyorsunuz. Aldığınız bir dosyanın DRM ile telif haklarının korunup
 korunmadığını nasıl anlarsınız :) İşte tam da bu soruya cevap ararken
@@ -72,3 +73,5 @@ dosyanın DRM'li olup olmadığını anlamamız için yeterli!
 Kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-1-15 tarihinde yayinlanmistir.*

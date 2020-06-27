@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 58530399-a71c-404c-abde-322dd8f75901
 ---
+# Microsoft .NET Framework 2.0 ne işe yarıyor abi?
 Arama motorlarını günde kaç defa kullandığımız gibi bir geyiğe
 girmeyeceğim :) Sanırım bilgisayarlarımızda yüklü olan programlardan
 daha fazla online arama motorlarını kullanıyoruzdur. Durum böyle olunca
@@ -26,3 +27,5 @@ getirmiş :D
 *Samimi bir arama motoru kullanımına örnek :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-10 tarihinde yayinlanmistir.*

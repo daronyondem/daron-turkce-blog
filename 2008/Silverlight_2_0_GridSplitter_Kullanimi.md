@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 10ca87be-00bd-41f6-ac4c-8b89dfe95fcc
 ---
+# Silverlight 2.0 GridSplitter Kullanımı
 Silverlight 2.0 içerisinde **Grid** kullanımı HTML içerisinden alışık
 olduğumuz Table yapısından pek farklı değil. Kolonlar ve satırlar
 yaratarak görsel öğeleri ekranda konumlandırabilmenizi sağlayan Grid
@@ -487,3 +488,5 @@ değiştirebiliyoruz.
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-22 tarihinde yayinlanmistir.*

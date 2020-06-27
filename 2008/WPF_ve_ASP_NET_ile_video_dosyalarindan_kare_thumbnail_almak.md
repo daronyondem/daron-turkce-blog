@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, WPF, ASP.NET
 old.EntryID: 1dcd7116-409b-4f4e-8444-3cf7d4b3a6e2
 ---
+# WPF ve ASP.NET ile video dosyalarından kare (thumbnail) almak.
 WPF ile beraber özellikle video uygulamalarının programlanmasındaki
 kolaylık sonucunda artık Multimedya alanında da sıkça .NET ile
 programlanmış uygulamalar görebiliyoruz. Bu yolda WPF içerisindeki
@@ -241,3 +242,5 @@ olarak ekledikten sonra kodunuz aynı şekilde çalışacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-19 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 8
 ---
+# Windows Phone 8'de Uri Association
 Windows Phone için geliştirdiğiniz bir uygulamada işletim sistemi
 genelde bir entegrasyon noktası açmak veya belki de yazdığınız birden
 çok uygulamanın birbirine referans data gönderebilmesini sağlamak için
@@ -551,3 +552,5 @@ indirmek isterseniz örnekler GitHub'da!
 Görüşmek üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-1 tarihinde yayinlanmistir.*

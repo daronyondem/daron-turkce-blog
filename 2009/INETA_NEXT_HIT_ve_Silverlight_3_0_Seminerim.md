@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 05fb7bfc-640f-417d-b933-8e866740cd6b
 ---
+# INETA NEXT HIT ve Silverlight 3.0 Seminerim...
 ![](media/INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim/12042009_4.jpg)Bu hafta sonu
 bildiğiniz üzere INETA NEXT HİT'deydik! İlk gün sevgili [Mehmet Nuri
 Çankaya](http://www.nuricankaya.com/)'nın **Windows 7** oturumundan
@@ -41,3 +42,5 @@ MB)](media/INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim/12042009_2.rar)\
 MB)](media/INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim/12042009_3.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-12 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 2
 Tags: Docker, Visual Studio 2017
 ---
+# Visual Studio 2017 Lansmanı'nda Docker ve Containers Yenilikleri
 Dün Microsoft'ta **Visual Studio 2017** lansmanı vardı. Maalesef bu etkinliği hafta içi kendi özel davet ettikleri müşterilere ayırmak istedikleri için etkinliği duyuramadım :( Fakat, en kısa zamanda etkinlikte yaptığım "Docker ve Visual Studio Yenilikleri" oturumunun içeriğini blogda da paylaşacağım. 
 
 ![Docker, Containers ve VS 2017 Oturumum](media/Visual_Studio_2017_Lansmani_Docker_Containers/vslaunch.jpg)
@@ -18,3 +19,5 @@ Görüşmek üzere.
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2017-3-30 tarihinde yayinlanmistir.*

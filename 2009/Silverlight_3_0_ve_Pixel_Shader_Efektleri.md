@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 71093404-f9f0-4af1-8a3d-1129d0670ba8
 ---
+# Silverlight 3.0 ve Pixel Shader Efektleri
 Pixel Shader efektleri genelde oyun programcılarının duyduğu fakat web
 veya windows programcılarının pek de haşır neşir olmadıkları bir
 alandır. Tabi bunun birçok nedeni var; Pixel Shader efektleri **HLSL**
@@ -648,3 +649,5 @@ kütüphanelerini indirebilirsiniz.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-24 tarihinde yayinlanmistir.*

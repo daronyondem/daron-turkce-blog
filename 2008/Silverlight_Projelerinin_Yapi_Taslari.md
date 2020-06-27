@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: a3b41570-d13d-49b4-a8f1-193324d0895d
 ---
+# Silverlight Projelerinin Yapı Taşları
 Bir Silverlight projesi farklı dosyalardan ve yapılardan oluşur. Bu
 yapılar neredeyse tamamı ister **Visual Studio** içerisinde ister
 **Expression Blend 2** içerisinde bir Silverlight projesi yarattığınızda
@@ -328,3 +329,5 @@ nasıl çalıştığını incelemiş olduk.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-7 tarihinde yayinlanmistir.*

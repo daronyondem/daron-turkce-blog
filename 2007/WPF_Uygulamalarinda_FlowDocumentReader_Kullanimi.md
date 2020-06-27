@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.0, WPF, Expression Blend
 old.EntryID: 2b6cf08f-b910-4109-82c5-ed3550c21150
 ---
+# WPF Uygulamalarında FlowDocumentReader Kullanımı
 Expression Studio içerisinde bulunan Expression Blend bir animasyon
 tasarım aracı olarak bize WPF Windows uygulamaları tasarlama olanağı
 tanıyor. Artık Windows uygulamalarında iki veya üç boyutlu animasyonlar
@@ -1281,3 +1282,5 @@ KB)](media/WPF_Uygulamalarinda_FlowDocumentReader_Kullanimi/20102007_1.zip)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-21 tarihinde yayinlanmistir.*

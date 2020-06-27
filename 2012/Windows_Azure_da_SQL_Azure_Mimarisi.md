@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: SQL Azure, Windows Azure
 ---
+# Windows Azure'da SQL Azure Mimarisi
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini
 [burada](http://daron.yondem.com/software/post/Azure_da_SQL_Azure_Mimarisi_SDK2_5)
@@ -110,3 +111,5 @@ query yok.
 Elimdeki DB'yi azure'a nasıl alırım?
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-5-29 tarihinde yayinlanmistir.*

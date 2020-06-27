@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 2d3c290d-34c5-462e-9638-a5c61585afd5
 ---
+# Silverlight 4 Beta içerisinde Combobox'taki minik yenilik!
 Silverlight 4 ile beraber gelen yenilikleri incelemeye başlayacağımız bu
 makalede değinmek istediğimiz nokta biraz veri uygulamalarına yönelik
 olacak. Aslına bakıldığında söz konusu yenilik çok basit gibi gözükse de
@@ -720,3 +721,5 @@ olsa da hemen şu dertlerden kurtulsak :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-11-19 tarihinde yayinlanmistir.*

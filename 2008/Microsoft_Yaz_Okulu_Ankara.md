@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0, WPF
 old.EntryID: 2647c5ca-d3e3-445f-ae4d-078257e4c084
 ---
+# Microsoft Yaz Okulu, Ankara
 Son iki gündür Ankara'da **Microsoft Yaz Okulu**'nda **Silverlight** ve
 **WPF** konularını anlattım. Ankara, İstanbul ve İzmir'de yapılan yaz
 okullarındaki öğrencilerin arasındaki sinsi çekişme ortamı hoşuma
@@ -40,3 +41,5 @@ istiyorum. "*Şu ana kadar davet edilip de gitmediğim bir yer olmadı*" :)
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-14 tarihinde yayinlanmistir.*

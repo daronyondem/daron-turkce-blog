@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET 3.5, IIS 7.0, ASP.NET
 old.EntryID: c1a37cdf-9edc-4c68-a3f9-92198b0cfaed
 ---
+# IIS 7.0 ve ASP.NET yenilikleri.
 Server 2008 ile beraber IIS 7.0'ın gelmesi özellikle ASP.NET
 geliştiricileri için büyük kolaylıklar sunuyor. Bu yazımda sizlere bu
 kolaylıklardan ufak bir demet sunarken özellikle HttpModule yazma ve IIS
@@ -666,3 +667,5 @@ IIS 7.0 ile yazılım geliştirme ortamı arıyorsanız Vista ile beraber IIS
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-20 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 3.0
 old.EntryID: 2100c93d-88f4-45f3-a065-6096b2e5539e
 ---
+# Silverlight 3.0 Yayınlandı - RTW ve Beta arasındaki farklara dikkat.
 Heyecanle beklenen an geldi ve Silverlight 3 yayınlandı. Beta sürümünden
 Release'e kadar olan değişikliklere göz atacağımız bu yazıda önce gelin
 Silverlight 3 dünyasına hızlıca nasıl gireriz bir göz atalım.
@@ -404,3 +405,5 @@ Eminim ki unuttuğum bir çok değişiklik veya yenilik vardır. Onları da en
 kısa zamanda ayrı ayrı makaleler olarak sizlerle paylaşmak üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-7-12 tarihinde yayinlanmistir.*

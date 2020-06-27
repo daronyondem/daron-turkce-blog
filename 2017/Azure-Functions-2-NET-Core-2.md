@@ -6,6 +6,7 @@ Section: software
 MinutesSpent: 115
 Tags: Serverless, Azure Functions, .NET Core
 ---
+# Azure Functions 2 Runtime'da .NET Core 2
 
 Visual Studio 2017 yüklediyseniz Azure Functions araçlarının artık nihai olgunluğa geldiğini görmüşsünüzdür :) Aslında o konuda da bir yazı borcum var size ama **Preview seven** bir insan olduğum için hali hazırdaki araçlar olgunlaşınca yine bir Preview buldum kendime, hatta bu sefer "[Early Preview](https://github.com/Azure/azure-webjobs-sdk-script/wiki/Azure-Functions-runtime-2.0-known-issues)". Bu yazıda Azure Functions runtime 2.0 üzerinde .NET Core 2 çalıştıracağız, aslında bakarsanız biz **.NET Standard 2.0** ile ilerleyeceğiz fakat Azure Functions Runtime 2.0 Preview kullanacak olursak alt tarafta .NET Core 2'ye yaslanma şansımız oluyor. Bu durum özellikle cross-platform development yapanlar için önemli. Mac'te localde Azure Functions kullanıp C# yazacağım diyenlerden bahsediyorum :) Eğer platform derdiniz yoksa rahat rahat .NET Framework 4.6.1 ve .NET Standard 2 ile ilerleyebilirsiniz. Bu durumda aslına bakarsanız Azure Functions Runtime 2 Preview kullanmanıza da gerek kalmaz. Fakat .NET Core 2 kullanmasanız da [Microsoft.NET.Sdk.Functions](https://www.nuget.org/packages/Microsoft.NET.Sdk.Functions) şu an .NET Standard 2 desteklemediği için functions.json dosyasını elle yaratmamız gerekecek. 
 
@@ -100,3 +101,5 @@ Görüşmek üzere.
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2017-10-3 tarihinde yayinlanmistir.*

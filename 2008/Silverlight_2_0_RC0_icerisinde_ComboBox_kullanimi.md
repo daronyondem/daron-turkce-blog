@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 494df829-6d32-4a2b-956f-b4bd5851c024
 ---
+# Silverlight 2.0 RC0 içerisinde ComboBox kullanımı.
 Silverlight 2.0 RC0 ile gelen yeni kontrollerden biri de ComboBox
 kontrolü. Bu yazımızda Combobox'ın kullanımına, görsel düzenlemelerin
 nasıl yapıldığında göz atacağız. İlk olarak yeni bir Silverlight projesi
@@ -490,3 +491,5 @@ MessageBox.Show(((Urun)comboboxUrunler.SelectedItem).Fiyat.ToString());
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-10-3 tarihinde yayinlanmistir.*

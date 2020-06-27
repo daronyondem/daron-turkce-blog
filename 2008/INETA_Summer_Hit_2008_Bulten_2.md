@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 2a718e7a-3ad8-4454-87f8-a7c90252765d
 ---
+# INETA Summer Hit 2008 Bülten 2
 **INETA Summer Hit 2008**'e çok az kaldı. Evet, bu hafta sonundan
 bahsediyorum aslında. Şu ana kadar kayıtlı olan herkese gönderdiğimiz
 ikinci bültenimizi burada da sizlerle paylaşmak istiyorum.
@@ -105,3 +106,5 @@ haftalar, iyi çalışmalar...</span>\
 \
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-27 tarihinde yayinlanmistir.*

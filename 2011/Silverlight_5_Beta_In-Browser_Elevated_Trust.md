@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 5
 old.EntryID: 892fdbe4-864e-4e9b-a5c2-3dfa9d7d1218
 ---
+# Silverlight 5 Beta In-Browser Elevated Trust
 Silverlight'ın masaüstündeki Elevated Trust özelliği duyurulduğundan
 beridir bu konuda çerçevesinde en çok sorulan soru "Acaba tarayıcı
 içerisinden de bu haklara sahip olabilir miyiz?" şeklindeydi. Özellikle
@@ -145,3 +146,5 @@ style="color:blue;">\></span>
 Hepinize kolay gelsin ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-25 tarihinde yayinlanmistir.*

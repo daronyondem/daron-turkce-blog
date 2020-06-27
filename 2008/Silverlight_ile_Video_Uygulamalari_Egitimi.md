@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: f5af3e04-6435-4e46-890a-5344a6e029e2
 ---
+# Silverlight ile Video Uygulamaları Eğitimi
 INETA ve NETRON işbirliği ile yürüttüğümüz 3 günlük Silverlight eğitimi
 serisinin son gününü Cumartesi NETRON Altunizade şubesinde
 gerçekleştireceğiz. Daha önceki katılımcıların yarın telefon ile
@@ -22,3 +23,5 @@ tarafından aranacak.
 İnternet tarayıcınız eskimiş. IFRAME destekleyen yeni bir tarayıcı alın.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-3 tarihinde yayinlanmistir.*

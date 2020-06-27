@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 893eadc5-c611-4303-a906-f03cb0167d5c
 ---
+# Silverlight 2.0 ve Socket Programlama Mucizesi
 Socket programlama Silverlight çıktığından beri biz yazılım
 geliştiricilerin en büyük hayali ve bu hayal gerçek oluyor. Silverlight
 2.0 Beta 1 ile beraber Socket Programlama karşımızda. Yani artık istemci
@@ -718,3 +719,5 @@ style="color: blue;">Class</span>
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-10 tarihinde yayinlanmistir.*

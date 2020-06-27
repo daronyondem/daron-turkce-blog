@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, MultiTouch, Silverlight 3.0, WPF
 old.EntryID: 5afd64b9-f821-4ac9-8bcb-3b0fddc22c95
 ---
+# Konya, Selçuk Üniversitesi Seminerlerim
 Bugün **Konya, Selçuk Üniversitesi**'ndeydim. WPF MultiTouch,
 Silverlight 3.0 ve AJAX oturumları ile yoğun ve bir o kadar da eğlenceli
 bir gün geçirdik. Yine efsane potlar kırdım ama bu sefer yazdığım
@@ -33,3 +34,5 @@ ediyorum. Umarım katılan herkese olabildiğince faydalı olmuştur. Seneye
 tekrar görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-28 tarihinde yayinlanmistir.*

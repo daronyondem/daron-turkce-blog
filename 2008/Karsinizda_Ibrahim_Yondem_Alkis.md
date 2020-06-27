@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 1ddfc6b9-eb99-448e-8e49-4ce24d005988
 ---
+# Karşınızda İbrahim Yöndem!
 Arama motorlarından siteme gelen aramalardaki komiklikleri artık çok "uç
 noktada" örnekler olmadıkça sizlerle paylaşmıyorum. Emin olun neredeyse
 her gün daha garip ve farklı aramalarla insanlar bloguma geliyorlar :)
@@ -42,3 +43,5 @@ Yöndem diye arama yapıp bloguma gelenler olmuşş. Ahh Daronn ahhh."*
 Hep diyorum, tekrar diyorum, Allah sonumuzu hayır etsin :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-6-10 tarihinde yayinlanmistir.*

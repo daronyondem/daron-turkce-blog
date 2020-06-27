@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 965eb599-aede-4568-8303-260c69972b9f
 ---
+# yazgelistir.com toplantısı sonrasında...
 ![yazgelistir.com
 ödülüm!](media/yazgelistir_com_toplantisi_sonrasinda/29012008_1.jpg)Dün
 akşam Microsoft İstanbul ofislerinde
@@ -36,3 +37,5 @@ nedenle çok detaya girmeyeceğim.
 Bakalım 2008'den kaç makale çıkacak :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-1-29 tarihinde yayinlanmistir.*

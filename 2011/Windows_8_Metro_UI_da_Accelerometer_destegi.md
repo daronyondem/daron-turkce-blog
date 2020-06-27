@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Metro UI, Visual Studio 11, Windows 8
 ---
+# Windows 8 Metro UI'da Accelerometer desteği
 Tabletlerde Accelerometer kullanımı epey popülar. Bu fikirle yola
 çıkarsak tabi ki Windows 8 Metro UI tarafında da Accelerometer
 donanımına erişebilmek gerekecek. Bu yazımızda basit bir şekilde
@@ -113,3 +114,5 @@ Bu makale **Visual Studio 11 Express for Windows Developer Preview**\
 ve **Windows 8 Developer Preview Build 8102** kullanılarak yazılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-21 tarihinde yayinlanmistir.*

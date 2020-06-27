@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 1cd9179f-0993-4e98-9b8e-2f91007c7173
 ---
+# Tane tane inciler...
 Bazı şeyleri tekrar etmek istiyorum. Çünkü eminim ki blogumu ziyaret
 edenler, yeni ziyaret etmeye başlayanlar eski yazılarımda bu noktaların
 hepsini yakalamakta zorlanacaklardır. Belki bazılarından da daha hiç
@@ -137,3 +138,5 @@ ulaşmıştır. Yani bu soruları yayınlamamdan yola çıkarak "ateş olmayan
 yerden duman" deyimine bir yolculuk yapmamakta fayda var :)*
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-18 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: 0faf6d15-e268-469b-8fcb-26ea3d3a21e8
 ---
+# Yabancı bir yazarın kitabı...
 Bundan birkaç hafta önce bir dostumun anekdot kıvamında anlattığı bir
 durumu bugün kısmen tekrar yaşadım ve bu konu ile ilgili artık bir yazı
 yazmanın zamanı geldi diye düşünüyorum :) Aslına bakarsanız olay epey
@@ -61,3 +62,5 @@ falan belli değil.
 okuyun :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-21 tarihinde yayinlanmistir.*

@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: C#, JavaScript, Metro UI, Windows 8, WinRT
 ---
+# Windows 8 Metro Uygulamarında Suspend/Resume İşlemleri
 Windows 8 ile beraber gelen MetroUI içerisindeki uygulamalar arası
 geçişler için Windows Phone 7.5'dekine benzer bir yapı düşünülmüş.
 Uygulamalar arası geçişlerin hızlı olabilmesi adına ekrandan çıkarılan
@@ -170,3 +171,5 @@ Bu makale **Visual Studio 11 Express for Windows Developer Preview**\
 ve **Windows 8 Developer Preview Build 8102** kullanılarak yazılmıştır.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-17 tarihinde yayinlanmistir.*

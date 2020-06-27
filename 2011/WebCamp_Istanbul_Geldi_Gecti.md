@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure, HTML5
 ---
+# WebCamp İstanbul Geldi Geçti
 Bugün tam günlük **WebCamp** etkinliklerinden İstanbul ayağını
 gerçekleştirdik :) Gelen herkese çok teşekkür etmem gerek :) Yağmurlu
 havaya rağmen süper bir katılım vardı. Günün ilk yarısını biraz hafif
@@ -26,3 +27,5 @@ görüşmek üzere! Kendinize çok iyi bakın!
 MB)](media/WebCamp_Istanbul_Geldi_Gecti/Ornekler.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-12-19 tarihinde yayinlanmistir.*

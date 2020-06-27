@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Web, Seminer
 old.EntryID: 9182e0f1-6eba-42c9-89a8-3dba7375512a
 ---
+# Habitat, Expression Web ile Web Tasarımı Seminerim
 Bugün İzmir'e MVP ekibi olarak ufak bir yolculuğumuz oldu. Sevgili
 **Kadir Çamoğlu**, ben ve Microsoft'tan **Baransel Doğan** ile beraber
 **Habitat'ın** düzenlediği "**[Bilenler Bilmeyenlere Bilgisayar
@@ -29,3 +30,5 @@ sevgili **Baransel Doğan**'a ve **Emel Öztürk**'e organizasyondaki
 katkıları için çok teşekkür etmek istiyorum.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-7-3 tarihinde yayinlanmistir.*

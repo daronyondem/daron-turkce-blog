@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 16172aad-867b-4a82-8cc6-8a01ba393955
 ---
+# PC Magazine Eylül Sayısı
 **![PC Magazine
 Logo](media/PC_Magazine_Eylul_Sayisi/pcmag_logo.gif)PC
 Magazine** Eylül sayısından başlayarak artık PC Magazine'de Yazılım
@@ -20,3 +21,5 @@ Ayrıca dergide ileride bloglardan duyuracağımız bir aktivitenin
 ipuçlarını da verdik :) Sürpriz! :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-6 tarihinde yayinlanmistir.*

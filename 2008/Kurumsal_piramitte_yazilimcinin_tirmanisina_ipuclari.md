@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 12a1a086-9f1c-42bb-990e-4ffeddcbed4b
 ---
+# Kurumsal piramitte yazılımcının tırmanışına ipuçları
 Geçenlerde bir mail aldım. Maili yazan arkadaş bir yazılım şirketinde
 programcı olarak görev yaptığını fakat şirket içerisinde yükselemediğini
 söylüyordu. Yanlış anlaşılmasın, arkadaşımız yönetici olma amacında
@@ -130,3 +131,5 @@ Bunlar benim tavsiyelerim, unuttuklarım kesin vardır. Sizin de
 tavsiyeleriniz varsa yorum olarak bekliyorum ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-8 tarihinde yayinlanmistir.*

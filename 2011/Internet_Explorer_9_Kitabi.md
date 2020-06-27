@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 9, Internet Explorer
 old.EntryID: 8bc05d24-951d-4603-8cd7-f995ef52fd61
 ---
+# Internet Explorer 9 Kitabı
 Geçen sene hatırlarsanız Internet Explorer 8'in çıkış zamanlarında
 tasarımcı ve yazılımcılar için update niteliğinde bir
 [kitap](http://daron.yondem.com/tr/post/76dd338b-91ca-4b44-8cbf-5e112c5d1b6d)
@@ -41,3 +42,5 @@ indirebilirsiniz ;)
 MB)](media/Internet_Explorer_9_Kitabi/02052011_2.pdf)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-5-2 tarihinde yayinlanmistir.*

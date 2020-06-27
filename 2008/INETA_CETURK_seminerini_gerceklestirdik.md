@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.5, Seminer, Visual Studio 2008, WPF
 old.EntryID: f91c070d-a3ed-4ca4-972b-dfe44090f222
 ---
+# INETA CETURK seminerini gerçekleştirdik.
 Bugün **Microsoft** Türkiye binasında **INETA** üyelerinden
 **CETURK'ün** tam gün yazılım seminerleri etkinliğini gerçekleştirdik.
 Daha önce sizlere
@@ -33,3 +34,5 @@ Katılan herkese çok teşekkürler. İstanbul içi seminerlerimiz devam
 edecek ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-9-21 tarihinde yayinlanmistir.*

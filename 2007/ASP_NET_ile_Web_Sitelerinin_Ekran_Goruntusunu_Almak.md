@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: ASP.NET
 old.EntryID: 9adde894-3f7f-4728-98a3-05a1906d1a44
 ---
+# ASP.NET ile Web Sitelerinin Ekran Görüntüsünü Almak
 Web sitelerinin ekran görüntülerini (screenshot) alarak kullanıma sunan
 hizmetler internet üzerinde mevcut. Bu makalemizde ASP.NET tarafında
 nasıl başka bir sitenin ekran görüntüsü resim olarak alabileceğimizi
@@ -503,3 +504,5 @@ Hepinize kolay gelsin.
 KB)](media/ASP_NET_ile_Web_Sitelerinin_Ekran_Goruntusunu_Almak/03092007_1.zip)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-4 tarihinde yayinlanmistir.*

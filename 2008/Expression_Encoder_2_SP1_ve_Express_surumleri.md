@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Expression Encoder, Silverlight 2.0
 old.EntryID: 2509bd07-9f80-463a-bc6b-81512d057a6c
 ---
+# Expression Encoder 2 SP1 ve Express sürümleri!
 Güzel haberlerim var. Expression Encoder 2 sonrasında Silverlight 2
 çıkmasına rağmen maalesef Encoder'dan aldığımız şablonlar hala
 Silverlight 1 kullanıyordu. Bu nedenle ben bazı projelerde sıfırdan
@@ -55,3 +56,5 @@ MPEG2 Decode özelliği yok. Bunu ancak harici K-Lite gibi codec paketleri
 kullanarak halledebilirsiniz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-1 tarihinde yayinlanmistir.*

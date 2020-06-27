@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight, Silverlight 2.0, SharePoint
 old.EntryID: 690517ba-c893-49f8-a744-07894794ca6f
 ---
+# SharePoint Server üzerinde Silverlight kullanımı.
 **SharePoint Server** artık sadece bir şirket içi iletişim ve paylaşım
 alanı olmanın ötesinde internete açık web sitelerinin altyapısında da
 rahatlıkla kullanılıyor. Her iki ihtimalde de SharePoint üzerinde
@@ -124,3 +125,5 @@ dosyalar SilverlightPart içerisinde seçilebilir hale gelecektir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-13 tarihinde yayinlanmistir.*

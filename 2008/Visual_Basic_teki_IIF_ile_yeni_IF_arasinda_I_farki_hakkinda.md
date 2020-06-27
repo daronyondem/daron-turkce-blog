@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Visual Basic 2008, Visual Basic .NET
 old.EntryID: 73b33b62-b2dc-4c63-a247-86e217f6cd1a
 ---
+# Visual Basic'teki IIF ile yeni IF arasında I farkı hakkında
 **IIF** metodunu neredeyse her VB programcısı bilir. **IIF** toplam üç
 parametre alır, bunlardan ilki kontrol edilecek koşulun kendisidir.
 İkinci parametre eğer ilk parametredeki koşul geçerli ise geri
@@ -87,3 +88,5 @@ Görüyorsunuz bazen bir "I" harfi neleri değiştirebiliyor :)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-15 tarihinde yayinlanmistir.*

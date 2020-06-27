@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 9040103e-d206-4a6e-a477-e857d02ed79c
 ---
+# Cesur ve samimi bir mail...
 **INETA Summer Hit** sonrası ilginç bir mail aldım :) Mail ile ilgili
 çok yorum yapmayacağım çünkü zaten mail kendisini çok net anlatıyor.
 Bana gelen maili, verdiğim cevabı ve son gelen maili sizlerle buradan
@@ -158,3 +159,5 @@ anlaşılma vardır. Oturur, konuşur, hallederiz ;)
 Herkese sevgiler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-4 tarihinde yayinlanmistir.*

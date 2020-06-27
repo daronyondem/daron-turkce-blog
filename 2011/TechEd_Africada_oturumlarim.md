@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Seminer, TechEd
 ---
+# TechEd Africa'da oturumlarım.
 Yine bir TechEd haberi ile karşınızdayım :) Ama bu sefer TechEd Africa!
 17-20 Ekim'de Durban'da yapılacak TechEd Africa'da üç oturumla konuşmacı
 olarak bulunacağım. Aranızda gelenler varsa haber vermeyi unutmayın ;)
@@ -56,3 +57,5 @@ quick changes to a page as you prototype.
 Yakında Türkiye'de de güzel aktivitelerle buluşmak üzere!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-7 tarihinde yayinlanmistir.*

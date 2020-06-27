@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: b4c4ff13-8153-4c76-9619-d2ce11358ab8
 ---
+# Visual Studio 2008 İpucu
 **Visual Studio 2008** ipuçlarına bir tane daha ekliyorum. Özellikle
 **WPF** veya **Silverlight** projeleri ile ilgili çalışmalar yapıyorken
 XAML dosyalarının görsel panelinin de gösteriliyor olması çoğu zaman can
@@ -33,3 +34,5 @@ görünümü gelecektir.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-2-10 tarihinde yayinlanmistir.*

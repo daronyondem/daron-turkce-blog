@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: dae35c7f-573a-41b1-83d4-987a51947944
 ---
+# Windows 7 ile SSD performansı!
 Bugün sizlerle ilginç bir yazı paylaşacağım. Bundan yıllar önce :)
 darkhardware.com'da [donanım
 incelemeleri](http://www.darkhardware.com/st.php?u=reviews/asus-52xwriter)
@@ -130,3 +131,5 @@ SSD testinde kullanılan da malum MLC bir disktir.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-3 tarihinde yayinlanmistir.*

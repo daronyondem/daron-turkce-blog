@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 3.0, ASP.NET, Visual Basic 2005, Visual Basic .NET
 old.EntryID: ce85955a-9a3c-4fc7-9288-5840d315fae8
 ---
+# SMTP Authentication ile Mail Gönderimi
 Geçenlerde bir programcı dostumun kodlarına bakarken mail gönderim
 işlemleri için hala eski **System.Web.Mai**l sınıflarını kullandığını
 gördüm. Bunun aslında bir zararı yok fakat yeni hali ile aslında
@@ -189,3 +190,5 @@ adı"</span>, <span style="color: #a31515;">"şifre"</span>)
 Hepinize kolay gelsin...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-4 tarihinde yayinlanmistir.*

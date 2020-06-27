@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Azure Storage'da Replikasyon Modelleri
 Dün Storage Account'ları incelerken Redundancy modelinden, Replication seçeneklerinden bahsetmiş fakat detayları incelememiştik. Bu yazıda tüm Storage servisleri için geçerli olan farklı redundancy modellerine göz atacağız.
 
 Bir **Storage Account** yarattığınızda size sorulan sorulardan biri de "**Replication**" modeli oluyor. Azure ortamında Storage için şu an dört farklı Replication modeli söz konusu.
@@ -105,3 +106,5 @@ Hiç bir şey olmuyor. İmzalama esnasında kullandığınız account ismine -se
 Secondary endpointin storage analytics'i primary ile aynı yerde saklanıyor. Metric tablolarının adları Secondary ve Primary olarak ayrıştırılacak saklanacaktır.
 
 Hepinize kolay gelsin.
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-12-5 tarihinde yayinlanmistir.*

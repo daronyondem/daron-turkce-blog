@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Balder, Silverlight 4
 old.EntryID: df5efb20-5a04-497b-85d8-48d5c6678956
 ---
+# Silverlight ve Balder ile 3D
 Geçenlerde bir proje için Silverlight üzerinde 3D denemeleri yapmam
 gerekti. Bu vesile ile elde ettiğim bazı demoları sizlerle de paylaşmaya
 karar verdim.
@@ -261,3 +262,5 @@ MB)](media/Silverlight_ve_Balder_ile_3D/01022011_7.zip)
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-2-1 tarihinde yayinlanmistir.*

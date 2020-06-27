@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Nokia, Windows Phone, Windows Phone 8
 ---
+# 1080P Windows Phone'lar için uygulama geliştirirken dikkat edilmesi gerekenler.
 1080P çözünürlükteki Windows Phone'ların gelmesi ile beraber
 uygulamalarda da ne gibi değişiklikler yapmak gerekiyor soruları akla
 gelmeye başladı. Acaba bugüne kadar geliştirdiğimiz ve 720P için
@@ -656,3 +657,5 @@ projede](https://github.com/daronyondem/WPMakaleOrnekleri) var ;)
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2013-10-25 tarihinde yayinlanmistir.*

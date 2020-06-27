@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 4
 old.EntryID: 325cbae9-d872-4c21-8cea-3815b70ed935
 ---
+# Silverlight'ta Not Found dahil her tür sunucu taraflı garip servis hatası nasıl yakalanır/giderilir
 Silverlight ile web tabanlı iş uygulamaları geliştirirken eskiden
 JavaScript ile yazdığımız istemci taraflı kodları C\# veya VB tarafına
 alıyoruz. Bu geçiş sonrasında istemci taraflı kod yazarken hissettiğimiz
@@ -251,3 +252,5 @@ olacaktır.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2010-9-1 tarihinde yayinlanmistir.*

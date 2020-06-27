@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: AJAX, Silverlight
 old.EntryID: b4652e87-5b92-4789-9860-0899c6de53dc
 ---
+# ODTÜ Silverlight ve AJAX Semineri
 Bugün **ODTÜ Bilgisayar Mühendisliği Bölümü**'nde uzun soluklu bir
 **Silverlight ve AJAX** semineri düzenledik. Seminer boyunca gerçekten
 çok güzel sorular geldi. Katılımcıların yarısı her zamanki gibi ilk bir
@@ -29,3 +30,5 @@ Akçay](http://www.tayfunakcay.com/)'a da ayrıca teşekkür ediyorum. Güzel
 ve eğlenceli bir akşam geçirdim sayelerinde :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-4-1 tarihinde yayinlanmistir.*

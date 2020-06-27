@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Azure
 ---
+# Windows Azure Platform Management
 Azure ile ilgileniyorsanız makinenizde kesinlikle yüklü olması gereken
 bir araçtan bahsedeceğim şimdi :) Hem de ücretsiz.
 
@@ -107,3 +108,5 @@ developer'ın makinesinde bulunması gereken hayat kurtarıcı bir araç ;)
 Görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-7-31 tarihinde yayinlanmistir.*

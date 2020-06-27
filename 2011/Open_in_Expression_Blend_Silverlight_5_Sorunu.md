@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 5
 old.EntryID: 61b1da8a-1009-4620-835c-8969f090d41e
 ---
+# Open in Expression Blend Silverlight 5 Sorunu
 Yine, yeni, yeniden :) Expression Blend ile ilgili ne zaman bir preview,
 beta çıksa bu sorunla karşılaşıyoruz. Visual Studio içerisinden "Open in
 Expression blend" dediğimizde hep eski sürüm açılıyor. Tabi bu senaryoda
@@ -37,3 +38,5 @@ hayatımıza ;)
 KB)](media/Open_in_Expression_Blend_Silverlight_5_Sorunu/16042011_1.rar)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-4-17 tarihinde yayinlanmistir.*

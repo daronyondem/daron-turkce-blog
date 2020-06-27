@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 1b832f99-3572-40a4-a7f3-93ae62edbcb0
 ---
+# INETA EGE HIT
 INETA tarafındaki aktiviteleri duyurdukça gelen yorumlar arasında
 sürekli "*İzmir'e de gelin hocam*" serzenişleri oluyor. Geliyoruz! :)
 
@@ -28,3 +29,5 @@ bakalım Ege ;)
 HIT!](media/INETA_EGE_HIT/27122008_2.gif)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-12-27 tarihinde yayinlanmistir.*

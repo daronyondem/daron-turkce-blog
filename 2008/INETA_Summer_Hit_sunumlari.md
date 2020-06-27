@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: IE 8.0, LINQ, Silverlight 2.0, Internet Explorer
 old.EntryID: e9161811-c9c9-41e3-a64b-b071eaf097d8
 ---
+# INETA Summer Hit sunumları...
 **INETA Summer Hit** etkinliği sonrası verdiğim bir söz vardı :) Tüm
 konuşmacıların sunumlarını benim blogdan sizlerle paylaşacağımı
 söylemiştim. O kadar geç kaldım ki sonunda artık "*Nerede hocam?*" gibi
@@ -26,3 +27,5 @@ KB)](media/INETA_Summer_Hit_sunumlari/26082008_4.pptx)\
 KB)](media/INETA_Summer_Hit_sunumlari/26082008_5.xps)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-8-26 tarihinde yayinlanmistir.*

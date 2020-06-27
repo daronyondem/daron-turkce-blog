@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: .NET Framework 4.0, ASP.NET 4.0, C#, MVC, Silverlight 4, Visual Basic 2010, Visual Studio 2010, WPF, Visual Basic .NET, ASP.NET
 old.EntryID: c9aa5270-2f7d-4075-b861-60d825a6ec6e
 ---
+# INETA NEXT Kayseri
 Bugün INETA NEXT serimizin Kayseri ayağını tamamladık. **Ceviz.NET**'ten
 sevgili [Selçuk Yavuz](http://selcukyavuz.net/) ile beraber konuşmacı
 olduğumuz etkinlik boyunca Silverlight, WPF, C\#4, VB10, Visual Studio
@@ -51,3 +52,5 @@ Gün sonunda hediyeler vs derken Kayseri'de de bir kişiye yeni bir beyin
 hediye ederek geri döndük :) Haftaya Denizli'de görüşmek üzere...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-12-21 tarihinde yayinlanmistir.*

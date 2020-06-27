@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 7.5
 ---
+# Windows Phone Camp Istanbul
 Microsoft'un organize ettiği Windows Phone Camp'lerden biri de
 önümüzdeki hafta 22-23 Şubat tarihlerde gerçekleşecek. Bu sefer iki gün
 boyunca eğitimi ben vereceğim ;) İşin özünü öğrenmek istiyorum diyen ve
@@ -31,3 +32,5 @@ olabilirsiniz. Ayrıca resmi duyurudan paylaşmak istediğim iki madde var
 Haftaya görüşmek üzere ;)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2012-2-15 tarihinde yayinlanmistir.*

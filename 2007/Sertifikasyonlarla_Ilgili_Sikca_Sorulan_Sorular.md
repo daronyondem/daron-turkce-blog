@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Eğitimler, Genel
 old.EntryID: 2b5813fd-9853-46fb-adaf-cc88bfa74e09
 ---
+# Sertifikasyonlarla İlgili Sıkça Sorulan Sorular
 Çok farklı konularda mailler alıyorum. İlk olarak buradan bana mail
 atarak yardım isteyen, fikir alışverişinde bulunan herkese teşekkür
 etmek istiyorum. Malum bu blog'un, yaptığımız webinerlerin, seminerlerin
@@ -157,3 +158,5 @@ link sizi doğrudan sertifikasyon sayfasına götürecektir.
 <http://www.microsoft.com/learning>
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-10-24 tarihinde yayinlanmistir.*

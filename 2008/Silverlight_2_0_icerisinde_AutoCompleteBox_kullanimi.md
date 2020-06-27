@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 611e4193-9dec-4c92-8015-67c41b9bed73
 ---
+# Silverlight 2.0 içerisinde AutoCompleteBox kullanımı.
 AutoComplete işlevselliği AJAX günlerinden alışık olduğumuz bir sistem.
 Herhangi bir TextBox'a kullanıcı yazı yazarken aynı anda uygun
 alternatifleri göstermek ve aslında arka planda bir arama sistemi kurmak
@@ -929,3 +930,5 @@ verilecek.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-11-20 tarihinde yayinlanmistir.*

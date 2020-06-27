@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Genel
 old.EntryID: e91569cf-8600-4000-a8eb-963f0ccbde12
 ---
+# Sonunda...
 Uzun süredir Türkçe bir blog sitesinin ihtiyacı ile yanıp tutuşmasam da
 kıvranıyordum diyebilirim. Tek bir blog içerisinde hem Türkçe hem
 İngilizce içerikleri yayınlamayı düşünürken sonunda üşenmeyip tamamen
@@ -30,3 +31,5 @@ zaman yazacağım :)
 
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-4-5 tarihinde yayinlanmistir.*

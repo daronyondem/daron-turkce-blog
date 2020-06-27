@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight 2.0
 old.EntryID: 9f91558d-a5a0-484e-a600-8e74cd499491
 ---
+# SL 2.0'da ZIP içerisinden asenkron kaynak kullanımı.
 Silverlight 1.0 içerisinde sunucu tarafından ZIP dosyaları alarak
 bunların içerisindeki dosyaları istemci tarafında çıkartarak
 kullanabiliyor olmak büyük avantaj sağlıyordu. Özellikle böyle bir
@@ -311,3 +312,5 @@ unutmamakta fayda var.
 Hepinize kolay gelsin.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-3-30 tarihinde yayinlanmistir.*

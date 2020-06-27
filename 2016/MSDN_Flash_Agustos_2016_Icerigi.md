@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 45
 Tags: .NET Core, Linux, PowerShell, TFS, TypeScript, Visual Studio 2015
 ---
+# MSDN Flash Ağustos 2016 İçeriği
 MSDN Flash's üyeyseniz size bir müjdem var. Artık bülteni her ay ben yazıyorum :) Ağustos sayısını da biraz önce Microsoft'a gönderdim. Beni takip edenlere kıyak geçmek adına da buradan paylaşıyorum :)
 
 Görüşürüz.
@@ -43,3 +44,5 @@ C#7 ve VB15’deki Pattern-matching, binary literals gibi özellikleri incelemek
 ### Bash Windows’ta, Powershell Linux’te!
 
 Kulağa 1 Nisan şakası gibi gelse de haber doğru. Linux için Windows Subsystem sağolsun artık Bash Windows’ta. Detayları incelemek isteyenler buraya göz atabilir [https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/](https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/). Diğer yandan Powershell’de açık kaynak kodlu hale getirilerek Linux’e taşındı. Detaylar burada; [https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/](https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/)
+
+*Bu yazi http://daron.yondem.com adresinde, 2016-8-22 tarihinde yayinlanmistir.*

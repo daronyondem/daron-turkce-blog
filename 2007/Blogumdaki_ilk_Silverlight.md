@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Silverlight
 old.EntryID: 2d7ace96-a12a-4df9-91ef-b823a7f40355
 ---
+# Blogumdaki ilk Silverlight
 Son zamanlarda yoğun olarak Silverlight üzerine çalışıyorum ve bir
 süredir güzelim Silverlight logosunu bloguma JPEG olarak koyuyor olmak
 canımı sıkıyordu. Diğer yandan blog sitemin de kaynak kodlarına girerek
@@ -41,3 +42,5 @@ Eğer siz de sitenize Silverlight logosunu aşağıdaki şekilde
 yerleştirebilmek istiyorsanız yukarıdaki kodu kullanabilirsiniz.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2007-9-26 tarihinde yayinlanmistir.*

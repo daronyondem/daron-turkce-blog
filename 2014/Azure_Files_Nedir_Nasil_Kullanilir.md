@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Azure Storage Services, Windows Azure
 ---
+# Azure Files Nedir? Nasıl Kullanılır?
 Bundan yaklaşık iki sene önce [Azure
 Drives](http://daron.yondem.com/software/post/Windows_Azure_Drive) ile
 ilgili bir yazı yazmıştım. Özellikle migration veya on-prem (şirket içi)
@@ -214,3 +215,5 @@ attım.
 Görüşmek üzere.
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2014-7-29 tarihinde yayinlanmistir.*

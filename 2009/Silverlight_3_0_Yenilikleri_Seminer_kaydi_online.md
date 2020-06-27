@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Seminer, Silverlight 3.0
 old.EntryID: 039d48a2-5e84-4127-adeb-124ab758c4fd
 ---
+# Silverlight 3.0 Yenilikleri Seminer kaydı online!
 Sizinle yeni seminer kayıtları paylaşmayalı epey zaman geçmiş. Fırsat
 bulup uygun seminer ortamında kayıt almak emin olun pek kolay olmuyor :)
 Birçok ilginç problem ile karışlaşabiliyoruz. Sonunda **Silvelright 3.0
@@ -30,3 +31,5 @@ bölümünden bunu yapabilirler ;)
 İyi seyirler...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-4-19 tarihinde yayinlanmistir.*

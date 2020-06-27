@@ -8,6 +8,7 @@ Section: software
 MinutesSpent: 0
 Tags: Windows Phone, Windows Phone 7
 ---
+# Windows Phone 7'de Performans Metrikleri
 Dünkü yazımda [Windows 8 Metro UI'daki performans
 metriklerine](http://daron.yondem.com/tr/post/Windows_8_Metro_Performans_Metrikleri)
 değinirken metriklerin Windows Phone'dakilere çok benzediğinden
@@ -171,3 +172,5 @@ görebilirsiniz.
 Hepinize kolay gelsin!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2011-9-26 tarihinde yayinlanmistir.*

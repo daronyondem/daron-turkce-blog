@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Dertli Kerem
 old.EntryID: dd6a497e-3225-4175-84cb-34081ca5d5ef
 ---
+# Dertli Kerem yine iş başında!
 Yazmadan edemeyeceğim :) Son dört gündür bilgisayar başında olup insan
 yüzü görmediğim için artık sadece blogum aracılığı ile bir sosyalleşme
 çabasına girmek zorunda kalıyorum. Beni hoş görün.
@@ -127,3 +128,5 @@ Böylece zerzenişlerim serime bir yazı daha eklemiş oldum. Yorumlarınızı
 bekliyorum...
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2008-5-8 tarihinde yayinlanmistir.*

@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: Windows 7
 old.EntryID: c510d635-addb-4452-a83f-f347ebfbd717
 ---
+# Windows 7 İstanbul Akademik Lansman
 Bugün Windows 7'nin ilk Akademik Lansmanı'nı İstanbul 7Tepe
 Üniversitesi'nde yaptık. İlgi gerçekten muhteşemdi! Windows 7'nin ciddi
 anlamda başarılı bir ürün olması pek de anlatılmasına gerek kalmadan
@@ -32,3 +33,5 @@ değerinde de MSP Press kitabı verililiyor. Herkese verilen ayrı bir
 süpriz hediye daha var ;) sürpriz!
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-10-23 tarihinde yayinlanmistir.*

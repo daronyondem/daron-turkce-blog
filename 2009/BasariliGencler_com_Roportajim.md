@@ -9,6 +9,7 @@ MinutesSpent: 0
 Tags: 
 old.EntryID: 08e95464-5cea-44d1-8060-3fb7c7e15017
 ---
+# BasariliGencler.com Röportajım
 Bundan iki hafta önce sevgili
 [basariligencler.com](http://www.basariligencler.com/ineta-turkiye-baskani-daron-yondem-meslegimize-nankor-demek-nankorluk-olur.html)
 projesinin editörü İbrahim Eryiğit benimle iletişime geçti ve bir
@@ -24,3 +25,5 @@ Tüm bu süreçteki yardımlarından dolayı İbrahim'e çok teşekkürler.
 Sizlere de iyi okumalar :)
 
 
+
+*Bu yazi http://daron.yondem.com adresinde, 2009-1-22 tarihinde yayinlanmistir.*
