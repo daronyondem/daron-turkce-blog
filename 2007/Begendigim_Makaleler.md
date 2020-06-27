@@ -1,14 +1,3 @@
----
-FallbackID: 1805
-Title: "Beğendiğim Makaleler..."
-date: "2007-10-5"
-EntryID: Begendigim_Makaleler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET, Haberler
-old.EntryID: 8adf9a99-a227-4884-a372-5fce4a69e094
----
 # Beğendiğim Makaleler...
 İşim gereği hayattım internette geçiyor, nitekim artık çoğumuzun hayatı
 internette geçiyor, fakat takip edecek o kadar çok kaynak var ki

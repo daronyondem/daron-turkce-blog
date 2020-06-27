@@ -1,14 +1,3 @@
----
-FallbackID: 1793
-Title: "Blogumdaki ilk Silverlight":)
-date: "2007-9-26"
-EntryID: Blogumdaki_ilk_Silverlight
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 2d7ace96-a12a-4df9-91ef-b823a7f40355
----
 # Blogumdaki ilk Silverlight
 Son zamanlarda yoğun olarak Silverlight üzerine çalışıyorum ve bir
 süredir güzelim Silverlight logosunu bloguma JPEG olarak koyuyor olmak

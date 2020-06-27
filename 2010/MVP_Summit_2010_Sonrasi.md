@@ -1,14 +1,3 @@
----
-FallbackID: 2491
-Title: "MVP Summit 2010 Sonrası"
-date: "2010-2-23"
-EntryID: MVP_Summit_2010_Sonrasi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MVP, MVP Summit
-old.EntryID: 163d19f1-d417-42fd-9017-8d4130e129a2
----
 # MVP Summit 2010 Sonrası
 Geçen bir hafta boyunca **MVP Summit** nedeniyle Redmond'daydım.
 Bazılarınız belki şaşıracaktır fakat bu benim ilk MVP Summit ziyaretimdi

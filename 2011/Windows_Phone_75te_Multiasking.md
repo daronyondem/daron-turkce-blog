@@ -1,13 +1,3 @@
----
-FallbackID: 2724
-Title: "Windows Phone 7.5'te Multitasking (Video)"
-date: "2011-11-4"
-EntryID: Windows_Phone_75te_Multiasking
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7.5
----
 # Windows Phone 7.5'te Multitasking (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"

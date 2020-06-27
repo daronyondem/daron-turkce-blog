@@ -1,14 +1,3 @@
----
-FallbackID: 1732
-Title: "Orcas Beta1 sürümü ve Express Serisi CTP sürümleri çıktı."
-date: "2007-4-23"
-EntryID: Orcas_Beta1_surumu_ve_Express_Serisi_CTP_surumleri_cikti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel
-old.EntryID: cfc1db2b-c91b-41a6-aa7f-940e946493cf
----
 # Orcas Beta1 sürümü ve Express Serisi CTP sürümleri çıktı.
 Visual Studio'nun bir sonraki sürümü olacak kod adı **"Orcas"** olan
 sistemin **Beta1** sürümü bir süre önce duyurulmuştu. Microsoft

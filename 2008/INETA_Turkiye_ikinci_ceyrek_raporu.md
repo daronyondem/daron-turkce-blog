@@ -1,14 +1,3 @@
----
-FallbackID: 2134
-Title: "INETA Türkiye ikinci çeyrek raporu."
-date: "2008-7-26"
-EntryID: INETA_Turkiye_ikinci_ceyrek_raporu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: cc8058d8-3e1e-450c-a2a6-3817e2a4ae1f
----
 # INETA Türkiye ikinci çeyrek raporu.
 Geçenlerde **INETA** tarafında ikinci çeyrek değerlendirmesi
 çerçevesinde raporumu hazırlarken "*Neden bu raporu sitemden de

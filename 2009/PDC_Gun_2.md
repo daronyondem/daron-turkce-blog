@@ -1,14 +1,3 @@
----
-FallbackID: 2451
-Title: "PDC Gün 2"
-date: "2009-11-19"
-EntryID: PDC_Gun_2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4, Windows 7, IE 9, Internet Explorer
-old.EntryID: 8deb162f-1f6c-4f7f-b7e3-863bf2d4d47e
----
 # PDC Gün 2
 Bugün PDC'nin ikinci günüydü. Birinci günde sunucu taraflı yeniliklere
 baktıktan sonra ikinci günde istemci tarafına göz atılacağı için herkes

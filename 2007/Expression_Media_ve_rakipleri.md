@@ -1,14 +1,3 @@
----
-FallbackID: 1861
-Title: "Expression Media ve rakipleri"
-date: "2007-11-24"
-EntryID: Expression_Media_ve_rakipleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Media
-old.EntryID: ebc1b99d-ddc9-49f8-af34-1dc42b194ece
----
 # Expression Media ve rakipleri
 Kullanım noktasında çok doğru konumlandırılması gereken ürünlerden biri
 de Expression Studio içerisindeki Expression Media. Eğer ürünle ilgili

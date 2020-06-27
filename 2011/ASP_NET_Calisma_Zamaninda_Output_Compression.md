@@ -1,13 +1,3 @@
----
-FallbackID: 2691
-Title: "ASP.NET Çalışma Zamanında Output Compression"
-date: "2011-9-8"
-EntryID: ASP_NET_Calisma_Zamaninda_Output_Compression
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, ASP.NET 4.0, ASP.NET MVC 3, IIS 7.0
----
 # ASP.NET Çalışma Zamanında Output Compression
 Blogu yazarken kullandığım bir ufak taktiği daha sizlerle paylaşmak
 istiyorum :) Özellikle blogun [arama](http://daron.yondem.com/tr/search)

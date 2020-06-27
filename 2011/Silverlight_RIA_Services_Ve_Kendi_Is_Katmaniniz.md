@@ -1,13 +1,3 @@
----
-FallbackID: 2733
-Title: "Silverlight, RIA Services Ve Kendi İş+Data Katmanınız (Video)"
-date: "2011-11-24"
-EntryID: Silverlight_RIA_Services_Ve_Kendi_Is_Katmaniniz
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4, WCF, WCF RIA Services
----
 # Silverlight, RIA Services Ve Kendi İş+Data Katmanınız (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"

@@ -1,14 +1,3 @@
----
-FallbackID: 2247
-Title: "Bursa, Uludağ Üniversitesi'nde Silverlight ve WPF şenliği..."
-date: "2008-11-14"
-EntryID: Bursa_Uludag_Universitesinde_Silverlight_ve_WPF_senligi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0, WPF
-old.EntryID: 8c50a39d-2b68-47ba-a88f-4a0d06b6d4d2
----
 # Bursa, Uludağ Üniversitesi'nde Silverlight ve WPF şenliği...
 Bugün **Bursa, Uludağ Üniversitesi**'ndeydim. **Silverlight 2.0** ve
 **WPF** konularını inceledik. Gelen sorular gerçekten muhteşemdi,

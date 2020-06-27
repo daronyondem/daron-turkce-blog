@@ -1,14 +1,3 @@
----
-FallbackID: 2104
-Title: "Microsoft Qatar Silverlight 2.0 Eğitimi"
-date: "2008-6-26"
-EntryID: Microsoft_Qatar_Silverlight_2_0_Egitimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler, Silverlight 2.0
-old.EntryID: ae6093a0-1a24-4f4b-8cac-743a30f8ff79
----
 # Microsoft Qatar Silverlight 2.0 Eğitimi
 Son üç gündür Qatar, Doha'da **Microsoft Qatar** için **Aljazeera TV
 IT** departmanın **Silverlight 2.0** eğitimi veriyorum. Eğitim boyunca

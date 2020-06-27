@@ -1,14 +1,3 @@
----
-FallbackID: 1891
-Title: "yazgelistir.com makalelerim..."
-date: "2007-12-20"
-EntryID: yazgelistir_com_makalelerim-2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET, Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Silverlight
-old.EntryID: d8e7c2a1-3562-4929-933e-0257b485e15f
----
 # yazgelistir.com makalelerim...
 [yazgelistir.com](http://www.yazgelistir.com/)'a gönderdiğim yedi
 makalem daha yayınlanmış. Makalelere aşağıdaki adreslerden ulaşarak

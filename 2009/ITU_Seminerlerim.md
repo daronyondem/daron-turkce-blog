@@ -1,14 +1,3 @@
----
-FallbackID: 2428
-Title: "İTÜ Seminerlerim"
-date: "2009-10-23"
-EntryID: ITU_Seminerlerim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0, WPF
-old.EntryID: 69a8642b-5bb0-495b-9502-a6d964b8851f
----
 # İTÜ Seminerlerim
 İTÜ'ye gitmeyeli epey olmuş :) En son iki sene önce gitmişim. Bugün IEEE
 organizasyonu ile İTÜ'yü tekrar ziyaret etme şansım oldu.

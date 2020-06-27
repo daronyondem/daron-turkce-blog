@@ -1,14 +1,3 @@
----
-FallbackID: 2487
-Title: "Denizli Windows 7 Partisi - Ah bu hayat çekilmez!?"
-date: "2010-1-30"
-EntryID: Denizli_Windows_7_Partisi_Ah_bu_hayat_cekilmez
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7
-old.EntryID: 4a14fb7e-7c8c-4eb7-9d19-dc44d6baaa02
----
 # Denizli Windows 7 Partisi - Ah bu hayat çekilmez!?
 Geçen sene :) 2009 Aralık'ta sanırım Türkiye'nin ilk ve tek :) Windows 7
 Partisi'ni gerçekleştirdik. Windows 7 Parti'leri yurt dışında da [birçok

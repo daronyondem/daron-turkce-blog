@@ -1,14 +1,3 @@
----
-FallbackID: 2300
-Title: "Istanbul Ticaret Üniversitesi seminerlerim."
-date: "2009-1-7"
-EntryID: Istanbul_Ticaret_Universitesi_seminerlerim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0, WPF
-old.EntryID: 1c23914a-171b-44cb-896c-e1b12aa5ed87
----
 # Istanbul Ticaret Üniversitesi seminerlerim.
 Bugün **İstanbul Ticaret Üniversitesi**'ndeydim. Üniversiteden **Imagine
 Cup**'a katılmak üzere hazırlanan bir ekibin isteği üzerine WPF ve

@@ -1,13 +1,3 @@
----
-FallbackID: 2942
-Title: "Azure'da Blob Storage'a giriş SDK(2.5)"
-date: "2014-12-4"
-EntryID: Azure_Blob_Storage_giris_SDK2_5
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Azure'da Blob Storage'a giriş SDK(2.5)
 
 Uzun süredir Azure yazılarında sürekli olarak :) uygulamamızın çalıştığı

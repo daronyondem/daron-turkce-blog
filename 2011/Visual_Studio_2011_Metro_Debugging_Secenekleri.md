@@ -1,13 +1,3 @@
----
-FallbackID: 2703
-Title: "Visual Studio 2011 Metro Debugging Seçenekleri"
-date: "2011-9-20"
-EntryID: Visual_Studio_2011_Metro_Debugging_Secenekleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Metro UI, Visual Studio 11, Windows 8
----
 # Visual Studio 2011 Metro Debugging Seçenekleri
 Windows 8 üzerinde Visual Studio 2011'e daha el atma şansınız oldu mu
 bilemiyorum ama el atanlarınız için Debugging'le ilgili bir ipucu

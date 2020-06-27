@@ -1,14 +1,3 @@
----
-FallbackID: 1954
-Title: "Visual Studio 2008 İpucu"
-date: "2008-2-10"
-EntryID: Visual_Studio_2008_Ipucu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: b4c4ff13-8153-4c76-9619-d2ce11358ab8
----
 # Visual Studio 2008 İpucu
 **Visual Studio 2008** ipuçlarına bir tane daha ekliyorum. Özellikle
 **WPF** veya **Silverlight** projeleri ile ilgili çalışmalar yapıyorken

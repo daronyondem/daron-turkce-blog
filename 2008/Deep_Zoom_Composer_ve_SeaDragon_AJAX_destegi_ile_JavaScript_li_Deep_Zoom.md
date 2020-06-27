@@ -1,14 +1,3 @@
----
-FallbackID: 2256
-Title: "Deep Zoom Composer ve SeaDragon AJAX desteği ile JavaScript'li Deep Zoom!"
-date: "2008-11-23"
-EntryID: Deep_Zoom_Composer_ve_SeaDragon_AJAX_destegi_ile_JavaScript_li_Deep_Zoom
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Silverlight 2.0
-old.EntryID: 2baff396-e0c6-4059-93da-036e52f552f5
----
 # Deep Zoom Composer ve SeaDragon AJAX desteği ile JavaScript'li Deep Zoom!
 Deep Zoom konusunda daha önce de
 [makaleler](http://daron.yondem.com/tr/post/84a4bed5-dcdf-48a6-8cc7-2b193eeda808)

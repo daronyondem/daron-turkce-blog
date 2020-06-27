@@ -1,13 +1,3 @@
----
-FallbackID: 3024
-Title: "Açık Akademi Yaz Okulu 2016"
-date: "2016-8-16"
-EntryID: Acik_Akademi_Yaz_Okulu_2016
-IsActive: True
-Section: software
-MinutesSpent: 12
-Tags: Windows Azure
----
 # Açık Akademi Yaz Okulu 2016
 Geçen hafta Perşembe ve Cuma günlerinde Microsoft'un açık Açık Akademi Yaz Okulu'ndaydım. Tahmin edebileceğiniz üzere Azure ve Cloud anlattım. Bu vesile ile Github'da tuttuğum [Azure örneklerini](https://github.com/daronyondem/AzureOrnekler) de bir elden geçirdim. 
 

@@ -1,13 +1,3 @@
----
-FallbackID: 2976
-Title: "Izmir Dokuz Eylül Üniversitesi'nde Cloud 101"
-date: "2015-5-8"
-EntryID: Izmir_Dokuz_Eylul_Universitesinde_Cloud_101
-IsActive: True
-Section: software
-MinutesSpent: 7
-Tags: 
----
 # Izmir Dokuz Eylül Üniversitesi'nde Cloud 101
 Tam dört yıl olmuş İzmir’e gitmeyeli :) Dün Dokuz Eylül Üniversitesi’ndeki Bilişim Günleri’ndeydim. “Cloud 101” oturumumla Cloud dünyasında farklı üreticilerin gözü ile geniş bir bakış attık.
 

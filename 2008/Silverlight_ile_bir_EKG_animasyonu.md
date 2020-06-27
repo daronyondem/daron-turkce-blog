@@ -1,14 +1,3 @@
----
-FallbackID: 1958
-Title: "Silverlight ile bir EKG animasyonu"
-date: "2008-2-15"
-EntryID: Silverlight_ile_bir_EKG_animasyonu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 08fe4e04-3241-4cb0-9fdb-39a13e37e70c
----
 # Silverlight ile bir EKG animasyonu
 Bu makalemizde Silverlight ile bir EKG animasyonu yapacağız. Önce EKG
 çizimimizi **Expression Design** ile yapmalıyız. Bunun için 300\*200px

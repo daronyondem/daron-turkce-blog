@@ -1,14 +1,3 @@
----
-FallbackID: 2552
-Title: "RD Summit ve Gold RD Ödülüm"
-date: "2011-3-5"
-EntryID: RD_Summit_ve_Gold_RD_Odulum
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 1ba15284-e5cd-4468-9df1-1f06ff383e0b
----
 # RD Summit ve Gold RD Ödülüm
 MVP Summit sonrası herkes evine dönerken :) ben bir gün daha Seattle'da
 kaldım. Neden mi? Çünkü bu sene MVP Summit'i takiben bir de RD Summit

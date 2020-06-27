@@ -1,13 +1,3 @@
----
-FallbackID: 2990
-Title: "MakerLab'da Konulu Konuşmalar"
-date: "2015-11-28"
-EntryID: MakerLabda_Konulu_Konusmalar
-IsActive: True
-Section: software
-MinutesSpent: 9
-Tags: 
----
 # MakerLab'da Konulu Konuşmalar
 Dün [İstanbul MakerLab](http://istanbul.makerlab.cc/)'ın "Konulu Konuşmalar" etkinliğindeydim. Eğitimde Maker Hareketi üzerine konuştuk. Etkinlik boyunca benim birkaç noktada "Biz yazılımcılar zaten yıllardır Maker'ız işte" diyesim gelmedim desem yalan olur. Tabi bugünün Maker hareketinin zevkli tarafı işin fiziksel dünya ile ilişkisinin daha somut olması :) 3D Printer vs derken daha renkli, elle tutulabilir bir ürün elde etmek sanırım özellikle ufak yaşta çok daha çekici oluyor.
 

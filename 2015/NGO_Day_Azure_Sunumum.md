@@ -1,13 +1,3 @@
----
-FallbackID: 2977
-Title: "NGO Day Azure Sunumum"
-date: "2015-6-6"
-EntryID: NGO_Day_Azure_Sunumum
-IsActive: True
-Section: software
-MinutesSpent: 9
-Tags: Windows Azure
----
 # NGO Day Azure Sunumum
 Dün benim için çok değerli bir etkinlikteydim. [Habitat Kalkinma](http://www.habitatkalkinma.org) tarafından yürütülen [Geleceğini Tasarla Programı](http://habitatkalkinma.org/projelerimiz/bit/gtasarla/) kapsamında düzenlene **NGO Day** gününde Sivil Toplu Kuruluşları Azure'dan nasıl faydalanabileceklerini dair bir sunum yaptım. 
 

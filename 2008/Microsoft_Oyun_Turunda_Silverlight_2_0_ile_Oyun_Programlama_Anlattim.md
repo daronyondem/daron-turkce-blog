@@ -1,14 +1,3 @@
----
-FallbackID: 2248
-Title: "Microsoft Oyun Turu'nda Silverlight 2.0 ile Oyun Programlama Anlattım"
-date: "2008-11-15"
-EntryID: Microsoft_Oyun_Turunda_Silverlight_2_0_ile_Oyun_Programlama_Anlattim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 05675b05-d628-4a42-85cf-e35fccfdbb37
----
 # Microsoft Oyun Turu'nda Silverlight 2.0 ile Oyun Programlama Anlattım
 Bugün Microsoft İstanbul ofisinde Oyun Turu'nun ilk ayağını
 gerçekleştirdik. Güne "Oyun Sektörü" ile ilgili genel bir oturumun

@@ -1,14 +1,3 @@
----
-FallbackID: 2255
-Title: "Microsoft'un açık kaynak kodlu işletim sistemi Singularity"
-date: "2008-11-23"
-EntryID: Microsoftun_acik_kaynak_kodlu_isletim_sistemi_Singularity
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 0c43f4f8-0044-4e00-b639-6b4ce27975eb
----
 # Microsoft'un açık kaynak kodlu işletim sistemi Singularity
 "Açık kaynak kodlu uygulama" deyiminin genellikle ülkemiz kurumsal
 dünyasında "beleş program" gibi anlaşılması hatasının yanında hiçbir

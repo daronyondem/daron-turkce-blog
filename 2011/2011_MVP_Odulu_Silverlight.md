@@ -1,14 +1,3 @@
----
-FallbackID: 2555
-Title: "2011 MVP Ödülü": Silverlight 
-date: "2011-4-2"
-EntryID: 2011_MVP_Odulu_Silverlight
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Silverlight 2.0, Silverlight 3.0, Silverlight 4
-old.EntryID: 8286a15c-d91f-446d-af48-1986b9134d5f
----
 # 2011 MVP Ödülü
 1 Nisan'da bloglarda yapılan postlara baktığınızda hepsi ciddi bir yalan
 olma potansiyeli taşırlar. Durum malum :) herkes şaka yapma peşinde.

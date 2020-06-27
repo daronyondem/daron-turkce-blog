@@ -1,14 +1,3 @@
----
-FallbackID: 2527
-Title: "Windows Phone 7'de Multitasking"
-date: "2010-5-14"
-EntryID: Windows_Phone_7_de_Multitasking
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone 7, Windows Phone
-old.EntryID: 9c4e50fb-2411-4717-9b47-eb05703ce662
----
 # Windows Phone 7'de Multitasking
 Şu ana kadar bildiklerimize dayanarak Windows Phone 7'nin multitasking
 desteklemeyeceğini rahatlıkla söyleyebiliriz. Bu durum birer yazılım

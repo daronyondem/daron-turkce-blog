@@ -1,14 +1,3 @@
----
-FallbackID: 2240
-Title: "Colorful Expression ile birbiri ile uyumlu renkleri yakalamak."
-date: "2008-11-8"
-EntryID: Colorful_Expression_ile_birbiri_ile_uyumlu_renkleri_yakalamak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Expression Design, Silverlight 2.0, WPF
-old.EntryID: 117c355f-e27f-44f8-bd63-70967d162cf1
----
 # Colorful Expression ile birbiri ile uyumlu renkleri yakalamak.
 Renklerin birbirine uyumu özellikle biz yazılımcılar için pek
 anlaşılamayan bir sistemi tanımlar :) Kişisel olarak ben bir renk

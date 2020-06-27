@@ -1,14 +1,3 @@
----
-FallbackID: 2263
-Title: "Isparta Boot Camp"
-date: "2008-12-2"
-EntryID: Isparta_Boot_Camp
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, Expression Blend, LINQ, Silverlight 2.0, WCF, WPF, ASP.NET
-old.EntryID: b007b322-9848-41e1-b008-e611f5adb60a
----
 # Isparta Boot Camp
 Son üç gündür Isparta, Süleyman Demirel Üniversitesi'ndeydim. Cumartesi
 günü başladığımız **INETA Boot Camp Isparta** etkinliğimizde **LINQ** ve

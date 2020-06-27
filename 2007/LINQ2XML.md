@@ -1,14 +1,3 @@
----
-FallbackID: 1898
-Title: "LINQ2XML"
-date: "2007-12-27"
-EntryID: LINQ2XML
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: LINQ
-old.EntryID: 3dc9614e-471c-4c41-ad54-d7c2276b15a7
----
 # LINQ2XML
 LINQ'nun güzellikleri serime devam etmek istiyorum :) .NET Framework3.5
 ile gerçek hayat projeleri yapabileceğimiz bu dönemde LINQ'nun proje

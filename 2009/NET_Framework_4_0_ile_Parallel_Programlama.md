@@ -1,14 +1,3 @@
----
-FallbackID: 2415
-Title: ".NET Framework 4.0 ile Parallel Programlama"
-date: "2009-9-18"
-EntryID: NET_Framework_4_0_ile_Parallel_Programlama
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Studio 2010, PLINQ
-old.EntryID: f5257a4a-d48d-4c5c-aebd-d2c5bb54ac75
----
 # .NET Framework 4.0 ile Parallel Programlama
 .NET Framework 4.0 ile beraber gelecek güzel özelliklerden biri de artık
 dahili hale gelen Parallel Programlama özellikleri. Thread management

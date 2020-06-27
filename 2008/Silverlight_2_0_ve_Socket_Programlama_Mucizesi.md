@@ -1,14 +1,3 @@
----
-FallbackID: 2051
-Title: "Silverlight 2.0 ve Socket Programlama Mucizesi"
-date: "2008-5-10"
-EntryID: Silverlight_2_0_ve_Socket_Programlama_Mucizesi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 893eadc5-c611-4303-a906-f03cb0167d5c
----
 # Silverlight 2.0 ve Socket Programlama Mucizesi
 Socket programlama Silverlight çıktığından beri biz yazılım
 geliştiricilerin en büyük hayali ve bu hayal gerçek oluyor. Silverlight

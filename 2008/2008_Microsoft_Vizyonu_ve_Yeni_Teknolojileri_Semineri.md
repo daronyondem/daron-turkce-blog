@@ -1,14 +1,3 @@
----
-FallbackID: 1906
-Title: "2008 Microsoft Vizyonu ve Yeni Teknolojileri Semineri"
-date: "2008-1-2"
-EntryID: 2008_Microsoft_Vizyonu_ve_Yeni_Teknolojileri_Semineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 3.5, ASP.NET 3.5, Expression Blend, Expression Design, Expression Encoder, Expression Web, LINQ, Seminer, Silverlight, Visual Studio 2008, WPF, ASP.NET
-old.EntryID: 0f5ef51b-fc95-4b88-91bb-d7aa8fdf63da
----
 # 2008 Microsoft Vizyonu ve Yeni Teknolojileri Semineri
 2008'in ilk aktivitesini
 [CETURK.com](http://www.ceturk.com/etkinlikkayit.asp?id=35)

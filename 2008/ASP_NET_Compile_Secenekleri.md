@@ -1,14 +1,3 @@
----
-FallbackID: 1927
-Title: "ASP.NET Compile Seçenekleri"
-date: "2008-1-22"
-EntryID: ASP_NET_Compile_Secenekleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET, Visual Studio 2005, Visual Studio 2008
-old.EntryID: 2ea76610-e01e-4804-9e0c-959185549c5d
----
 # ASP.NET Compile Seçenekleri
 Web projelerinin dağıtımında kaynak kodların korunması veya en azından
 alenen ortaya konmaması genelde ticari projelerde istenen bir durumdur.

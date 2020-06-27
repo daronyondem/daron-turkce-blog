@@ -1,13 +1,3 @@
----
-FallbackID: 3018
-Title: "Isparta Süleyman Demirel Üniversitesi"
-date: "2016-4-28"
-EntryID: Isparta_Suleyman_Demirel_Universitesi
-IsActive: True
-Section: software
-MinutesSpent: 8
-Tags: 
----
 # Isparta Süleyman Demirel Üniversitesi
 Uzun yıllar olmuş Isparta'ya gitmeyeli. Isparta'da **Süleyman Demirel Üniversitesi**'nin benim için yeri her zaman ayrı olmuştur. Aşağıda günün VLOG'unu izlediğinizde de görebileceğiniz üzere sevgili **Mehmet Albayrak** ve **Ecir Küçüksille** hocalarımızın öğrencileri taşıdıkları yer bence çok değerli. SDÜ öğrencilerinden maille bana gelen soruların hepsi her zaman son teknoloji konularla ilgili olmuştur. Bu şekilde öğrencileri sürekli ileriye doğru iten, yönlendiren bir eğitimin çok faydalı olduğuna inanıyorum. 
 

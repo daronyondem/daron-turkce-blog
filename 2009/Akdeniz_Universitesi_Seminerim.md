@@ -1,14 +1,3 @@
----
-FallbackID: 2348
-Title: "Akdeniz Üniversitesi Seminerim"
-date: "2009-4-14"
-EntryID: Akdeniz_Universitesi_Seminerim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 646cc301-2972-4bfd-9e39-b00cd67be81b
----
 # Akdeniz Üniversitesi Seminerim
 Bugün Antalya'nın güzel havasında **Akdeniz Üniversitesi**'nin
 düzenlediği **Internet Haftası** etkinliğindeydim. Etkinliğin son

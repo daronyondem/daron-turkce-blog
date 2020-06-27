@@ -1,13 +1,3 @@
----
-FallbackID: 2963
-Title: "YTÜ ILTEK Günleri'nde Cloud konuştuk."
-date: "2015-3-25"
-EntryID: YTU_ILTEK_Gunlerinde_Cloud_konustuk
-IsActive: True
-Section: software
-MinutesSpent: 9
-Tags: Seminer, Windows Azure
----
 # YTÜ ILTEK Günleri'nde Cloud konuştuk.
 Bugün Yıldız Teknik Üniversitesi'ndeydim. IEEE'nin düzenlediği **10. ILTEK Günleri** etkinliğinde Cloud başlıklı bir oturumda genel olarak Cloud manzarasına göz atıp Microsoft, Google, Amazon neler yapıyor kuş bakışı bir inceledik.
 

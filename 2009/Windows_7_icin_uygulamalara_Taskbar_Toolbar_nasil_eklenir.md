@@ -1,14 +1,3 @@
----
-FallbackID: 2385
-Title: "Windows 7 için uygulamalara Taskbar Toolbar nasıl eklenir?"
-date: "2009-8-11"
-EntryID: Windows_7_icin_uygulamalara_Taskbar_Toolbar_nasil_eklenir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7, WPF
-old.EntryID: 7d88aac1-4772-4d72-9415-8d42f30c7246
----
 # Windows 7 için uygulamalara Taskbar Toolbar nasıl eklenir?
 Uygulamalarımız için Windows 7 ile beraber gelen Taskbar özelliklerinden
 biri de Taskbar içerisine uygulamaya özel Toolbar yerleştirebiliyor

@@ -1,14 +1,3 @@
----
-FallbackID: 1821
-Title: "Baştan Sonra Silverlight Kurulumu"
-date: "2007-10-24"
-EntryID: Bastan_Sonra_Silverlight_Kurulumu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Silverlight
-old.EntryID: dbf49c38-c111-4adf-9823-464e5eeb2001
----
 # Baştan Sonra Silverlight Kurulumu
 Silverlight uygulamaları geliştirmeyle ilgili makalelerime geçmeden önce
 yavaş yavaş bilgisayarlarımızı Silverlight uygulamalarına hazırlamaya

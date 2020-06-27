@@ -1,13 +1,3 @@
----
-FallbackID: 2893
-Title: "Windows Phone'da Background Task'lardan PeriodicTask"
-date: "2014-3-12"
-EntryID: Windows_Phone_Background_Task_PeriodicTask
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7.5, Windows Phone 8
----
 # Windows Phone'da Background Task'lardan PeriodicTask
 Windows Phone'da background'da işlem yaptırmak istediğiniz
 seçeneklerinizden biri "PeriodicTask"ler. PeriodicTask'ler

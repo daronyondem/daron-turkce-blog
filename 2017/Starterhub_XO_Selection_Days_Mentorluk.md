@@ -1,13 +1,3 @@
----
-FallbackID: 3050
-Title: "Starterhub XO Selection Days'de Mentorluk"
-date: "2017-3-2"
-EntryID: Starterhub_XO_Selection_Days_Mentorluk
-IsActive: True
-Section: software
-MinutesSpent: 13
-Tags: 
----
 # Starterhub XO Selection Days'de Mentorluk
 Bugün StartersHub'ın düzenlediği **XO Selection Day**'deydim. **Iot, Big Data veya FinTech** odaklı 26 Startup'ın yer aldığı günde ben de mentor olarak bulundum. Startup etkinliklerine mentor veya jüri olarak katılırken genel olarak teknik karar verici şapkamı takıyorum. Bunun nedeni aslında çoğu zaman zaten jüriden veya mentorlardan yeterince iş kararları tarafında tavsiyelerin çıkıyor olduğunu düşünmem. Tüm bu manzara içerisinde startuplarda gördüğüm en büyük eksik ise aslında teknik tarafta değil :) Yani daha oraya gelemeden zaten bir pazar araştırması sorunsalı ile karşı karşıyayız. Çoğu startup bir fikre sahip olan girişimci ruhun ortaya bir POC/MVP çıkarması ile yola çıkarken içerisine girdiği pazarın durumunu incelemiyor. Durum böyle olunca aslında herkes karanlıkta ay ışığına doğru kulaç atıyor :) Ben startup etkinliklerinde her ne kadar teknik olarak startuplara nerede yardımcı olabilirim diye baksam da nihai noktada verdiğim üç tavsiye oluyor;
 

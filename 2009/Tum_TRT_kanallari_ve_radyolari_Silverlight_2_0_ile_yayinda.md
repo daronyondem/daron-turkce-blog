@@ -1,14 +1,3 @@
----
-FallbackID: 2322
-Title: "Tüm TRT kanalları ve radyoları Silverlight 2.0 ile yayında!"
-date: "2009-2-8"
-EntryID: Tum_TRT_kanallari_ve_radyolari_Silverlight_2_0_ile_yayinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 9b77cf6d-50ff-42d5-8b2c-c2fe71a808e4
----
 # Tüm TRT kanalları ve radyoları Silverlight 2.0 ile yayında!
 Haber aslında açık ve net :) **TRT'nin** tüm televizyon ve radyo
 kanalları Silverlight ile yayında. Hali hazırda uzun süredir Windows

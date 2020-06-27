@@ -1,14 +1,3 @@
----
-FallbackID: 2399
-Title: "Silverlight ile DVD ve CD arayüzleri hazırlamak!"
-date: "2009-9-3"
-EntryID: Silverlight_ile_DVD_ve_CD_arayuzleri_hazirlamak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Silverlight 2.0, Silverlight 3.0
-old.EntryID: 524c9729-43a5-4398-a7a7-665448029592
----
 # Silverlight ile DVD ve CD arayüzleri hazırlamak!
 DVD veya CD arayüzleri hala bilgisayar dünyasında ciddi bir yere sahip.
 İçeriğin paylaşımı adında internet ciddi bir yol almış olsa da hala CD

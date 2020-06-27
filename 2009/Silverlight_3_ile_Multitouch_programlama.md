@@ -1,14 +1,3 @@
----
-FallbackID: 2390
-Title: "Silverlight 3 ile Multitouch programlama."
-date: "2009-8-15"
-EntryID: Silverlight_3_ile_Multitouch_programlama
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MultiTouch, Silverlight 3.0
-old.EntryID: ea33f1e2-6209-42c7-8495-747a34771b00
----
 # Silverlight 3 ile Multitouch programlama.
 Silverlight 3.0 ile beraber tarayıcı içerisinde Multitouch desteği de
 geldi. Şu an için sadece Windows 7 ve Internet Explorer üzerinde

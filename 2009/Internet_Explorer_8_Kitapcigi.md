@@ -1,14 +1,3 @@
----
-FallbackID: 2341
-Title: "Internet Explorer 8 Kitapçığı"
-date: "2009-3-25"
-EntryID: Internet_Explorer_8_Kitapcigi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Internet Explorer
-old.EntryID: 76dd338b-91ca-4b44-8cbf-5e112c5d1b6d
----
 # Internet Explorer 8 Kitapçığı
 **![Internet Explorer 8
 Kitapçığı](media/Internet_Explorer_8_Kitapcigi/24032009_1.jpg)Internet

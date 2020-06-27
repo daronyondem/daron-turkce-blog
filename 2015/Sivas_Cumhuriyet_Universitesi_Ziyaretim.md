@@ -1,13 +1,3 @@
----
-FallbackID: 2962
-Title: "Sivas Cumhuriyet Üniversitesi Ziyaretim"
-date: "2015-3-21"
-EntryID: Sivas_Cumhuriyet_Universitesi_Ziyaretim
-IsActive: True
-Section: software
-MinutesSpent: 12
-Tags: Kişisel Gelişim
----
 # Sivas Cumhuriyet Üniversitesi Ziyaretim
 Bu kadar yıldır Anadolu'da birçok şehre, üniversiteye gittim bir türlü kısmet olmadı Sivas'a gitmek :) Bu hafta o da oldu ve Sivas Cumhuriyet Üniversitesi'nin organizasyonundaki "Yönetim İçin Bilişim" adındaki uluslararsı konferansa konuşmacı olarak katılma şansım oldu. Anlatacak o kadar çok şey var ki....
 

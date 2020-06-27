@@ -1,13 +1,3 @@
----
-FallbackID: 2678
-Title: "Yeni blog, yeni bir hayat!"
-date: "2011-9-1"
-EntryID: Yeni_blog_yeni_bir_hayat
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel
----
 # Yeni blog, yeni bir hayat!
 Hayallerim gerçek oldu :) Bundan 6 yıl önce 2005'te İngilizce blogumu
 ilk açarken yaptığım araştırmalar sonrasında DasBlog kullanma kararı

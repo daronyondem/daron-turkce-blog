@@ -1,14 +1,3 @@
----
-FallbackID: 2468
-Title: "Silverlight 4 Beta ile Commanding Yapısı - Görsel Ders"
-date: "2009-12-6"
-EntryID: Silverlight_4_Beta_ile_Commanding_Yapisi_Gorsel_Ders
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 3aaaa0dd-3631-467b-9a16-f98ca891801b
----
 # Silverlight 4 Beta ile Commanding Yapısı - Görsel Ders
 Bu görsel dersimizde Silverligh 4 Beta ile beraber gelen Commanding
 yapısına bakıyoruz. Farklı bir uygulamna geliştirme tarzına da göz

@@ -1,14 +1,3 @@
----
-FallbackID: 1833
-Title: "PCnet Kasım Sayısı - Dünyada İlk Silverlight Eğitimi"
-date: "2007-11-2"
-EntryID: PCnet_Kasim_Sayisi_-_Dunyada_Ilk_Silverlight_Egitimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Expression Blend, Expression Design, Expression Studio, Haberler, Silverlight
-old.EntryID: f2fc7e08-6058-4977-88eb-077b1d474bf9
----
 # PCnet Kasım Sayısı - Dünyada İlk Silverlight Eğitimi
 ![](media/PCnet_Kasim_Sayisi_-_Dunyada_Ilk_Silverlight_Egitimi/pcnet.png)PCnet'in Kasım
 sayısında yepyeni yazılarımla yine karşınızdayım :) Derginin **OKUL**

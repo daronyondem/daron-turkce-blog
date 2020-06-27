@@ -1,14 +1,3 @@
----
-FallbackID: 1740
-Title: "Web Tasarımlarında Renklerin Ahengi"
-date: "2007-5-4"
-EntryID: Web_Tasarimlarinda_Renklerin_Ahengi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: CSS, Genel, HTML, Photoshop
-old.EntryID: 7119ed0f-75f3-49ce-8a2c-3d8ba6484407
----
 # Web Tasarımlarında Renklerin Ahengi
 Bir web tasarımın ön grafik tasarımı yapılırken en önemli nokta birbiri
 ile uyumlu renkleri yakalayabiliyor olmaktır. Genel olarak sanat olarak

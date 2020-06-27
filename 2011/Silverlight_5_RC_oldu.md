@@ -1,13 +1,3 @@
----
-FallbackID: 2680
-Title: "Silverlight 5 RC oldu!"
-date: "2011-9-2"
-EntryID: Silverlight_5_RC_oldu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 5
----
 # Silverlight 5 RC oldu!
 Silverlight 5 yavaş yavaş release olma yolunda ilerliyor. Türkiye saati
 ile dün akşam saatlerinde Silverlight 5'in RC sürümü yayınlandı.

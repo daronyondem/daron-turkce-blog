@@ -1,13 +1,3 @@
----
-FallbackID: 2902
-Title: "2014'te RD, MVP ve NDC"
-date: "2014-4-15"
-EntryID: 2014_te_RD_MVP_ve_NDC
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MVP, Nokia, Windows Azure, Windows Phone, Windows Phone 7, Windows Phone 7.5, Windows Phone 8
----
 # 2014'te RD, MVP ve NDC
 Karambolde unutmuşum bu blog postu atmayı :)
 [Build](http://daron.yondem.com/tr/search/Build%202014) vs yoğunlukta

@@ -1,14 +1,3 @@
----
-FallbackID: 2182
-Title: "70-502 WPF sınavına girdim ;)"
-date: "2008-9-11"
-EntryID: 70-502_WPF_sinavina_girdim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WPF
-old.EntryID: 72aa37c8-486e-4de3-b402-89a59e3dfdcb
----
 # 70-502 WPF sınavına girdim ;)
 En son Microsoft sınavlarına gireli epey uzun zaman olmuş. Bugün yeni
 sınav serilerinden

@@ -1,13 +1,3 @@
----
-FallbackID: 2965
-Title: "2015 MVP, RD Programı ve Gelişmeler"
-date: "2015-4-1"
-EntryID: 2015_MVP_RD_Programi_ve_Gelismeler
-IsActive: True
-Section: software
-MinutesSpent: 15
-Tags: Azure DocumentDB, Azure Search, Windows Azure
----
 # 2015 MVP, RD Programı ve Gelişmeler
 Yine geldik klasik 1 Nisan yenilenme dönemine :) Evet, biliyorum. Şaka gibi... Neyse :) Bu sene de mutlu haberi aldım ve hem **Microsoft Most Valuable Professional** programına hem de **Microsoft Regional Director** programına 2015 için de davet edildim. MVP'lik tarafında tahmin edebileceğiniz üzere **"Microsoft Azure"** ürünü ile ilgili MVP oldum. 
 

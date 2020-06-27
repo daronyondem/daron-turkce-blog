@@ -1,13 +1,3 @@
----
-FallbackID: 2811
-Title: "MEA Windows Phone Camp İstanbulda!"
-date: "2012-5-21"
-EntryID: MEA_Windows_Phone_Camp_Istanbulda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7.5
----
 # MEA Windows Phone Camp İstanbulda!
 Windows Phone Camp'ları devam ediyor :) Bu sefer de 25-26 Mayıs'ta
 zengin bir iki günlük kamp etkinliği Microsoft'ta sizleri bekliyor.

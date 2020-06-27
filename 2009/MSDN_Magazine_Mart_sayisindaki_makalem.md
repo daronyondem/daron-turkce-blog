@@ -1,14 +1,3 @@
----
-FallbackID: 2330
-Title: "MSDN Magazine Mart sayısındaki makalem..."
-date: "2009-3-1"
-EntryID: MSDN_Magazine_Mart_sayisindaki_makalem
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Internet Explorer
-old.EntryID: 1419ebe7-95be-42f0-b991-6481472e4ad5
----
 # MSDN Magazine Mart sayısındaki makalem...
 **MSDN Magazine**'i takip edenleriniz vardır diye tahmin ediyorum.
 Microsoft'un yazılımcılara yönelik aylık olarak yayınlanan İngilizce

@@ -1,14 +1,3 @@
----
-FallbackID: 1864
-Title: "Kahire Expression Studio Eğitimim sonrasında..."
-date: "2007-11-28"
-EntryID: Kahire_Expression_Studio_Egitimim_sonrasinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler, Expression Studio
-old.EntryID: 7f58ba79-4b75-4f71-bc04-6484bc299237
----
 # Kahire Expression Studio Eğitimim sonrasında...
 Son dört gündür Mısır'dayım :) Microsoft Kahire ofislerinde Mısır Eğitim
 Bakanlığı için düzenlenen Expression Studio eğitimini verdim. Tüm

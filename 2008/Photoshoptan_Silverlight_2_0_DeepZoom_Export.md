@@ -1,14 +1,3 @@
----
-FallbackID: 2221
-Title: "Photoshop'tan Silverlight 2.0 DeepZoom Export"
-date: "2008-10-20"
-EntryID: Photoshoptan_Silverlight_2_0_DeepZoom_Export
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Photoshop, Silverlight 2.0
-old.EntryID: 54ab9952-efca-4121-83db-fc42b55786e7
----
 # Photoshop'tan Silverlight 2.0 DeepZoom Export
 Photoshop hayatımızın o kadar göbeğine oturmuş durumda ki dilimize bir
 fiil olarak girdiğini bile söyleyebiliriz, "*photoşoplanmıştır o!*" gibi

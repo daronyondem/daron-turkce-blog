@@ -1,13 +1,3 @@
----
-FallbackID: 2707
-Title: "Windows 8 Metro'da GPS ve Geolocation API Kullanımı"
-date: "2011-9-23"
-EntryID: Windows_8_Metro_da_GPS_Geolocation_API_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Metro UI, Visual Studio 11, Windows 8
----
 # Windows 8 Metro'da GPS ve Geolocation API Kullanımı
 Bu makalemizde Windows 8 içerisinde WinRT (Windows Runtime)'daki
 Geolocation (GPS) API'lerine yani kullanıcının konumunu bulma konusuna

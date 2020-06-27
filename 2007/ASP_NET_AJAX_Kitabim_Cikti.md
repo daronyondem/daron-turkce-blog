@@ -1,14 +1,3 @@
----
-FallbackID: 1744
-Title: "ASP.NET AJAX Kitabım Çıktı"
-date: "2007-6-7"
-EntryID: ASP_NET_AJAX_Kitabim_Cikti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET
-old.EntryID: 955bda47-4d8a-4544-8a11-3d416693ac8a
----
 # ASP.NET AJAX Kitabım Çıktı
 Son **2.5** yıldır üzerinde yoğun olarak çalıştığım AJAX'ı konu alan
 kitabım toplam **1.5 yıllık** bir çalışma sonucunda bugün elime ulaştı.

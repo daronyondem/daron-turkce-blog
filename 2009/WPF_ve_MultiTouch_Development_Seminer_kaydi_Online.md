@@ -1,14 +1,3 @@
----
-FallbackID: 2355
-Title: "WPF ve MultiTouch Development Seminer kaydı Online!"
-date: "2009-4-20"
-EntryID: WPF_ve_MultiTouch_Development_Seminer_kaydi_Online
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7, WPF
-old.EntryID: 18819b5a-cb41-4eae-ad4a-b2ccd14e1272
----
 # WPF ve MultiTouch Development Seminer kaydı Online!
 İşte bir seminer kaydı daha karşınızda :) Bu sefer "**WPF ve Windows 7
 ile Multitouch uygulama geliştirme**" seminerimin kaydını sizlerle

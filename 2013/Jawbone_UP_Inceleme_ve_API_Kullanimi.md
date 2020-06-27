@@ -1,13 +1,3 @@
----
-FallbackID: 2853
-Title: "Jawbone UP İnceleme ve API Kullanımı"
-date: "2013-8-26"
-EntryID: Jawbone_UP_Inceleme_ve_API_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Gadget
----
 # Jawbone UP İnceleme ve API Kullanımı
 Pedormetrelerle hiç uğraştınız mı bilmiyorum fakat son zamanlarda çok
 farklı pedometreler farklı özelliklerle ortaya çıkıyorlar veya belki de

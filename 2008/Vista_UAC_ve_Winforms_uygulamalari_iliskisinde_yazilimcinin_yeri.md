@@ -1,14 +1,3 @@
----
-FallbackID: 2194
-Title: "Vista UAC ve Winforms uygulamaları ilişkisinde yazılımcının yeri":)
-date: "2008-9-23"
-EntryID: Vista_UAC_ve_Winforms_uygulamalari_iliskisinde_yazilimcinin_yeri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Vista, Visual Studio 2008
-old.EntryID: 357c7100-3f44-48f9-a83b-da73c22c343a
----
 # Vista UAC ve Winforms uygulamaları ilişkisinde yazılımcının yeri
 Windows Vista ile beraber karşımıza çıkan UAC (User Account Control)
 aslında Winforms programcılığında çok şey değiştirdi. Özetle artık

@@ -1,14 +1,3 @@
----
-FallbackID: 1816
-Title: "Expression Blend Webineri Sonrası"
-date: "2007-10-19"
-EntryID: Expression_Blend_Webineri_Sonrasi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Studio, Webiner
-old.EntryID: 88f53f65-a2a1-4b76-9a39-4a1d169f0ee9
----
 # Expression Blend Webineri Sonrası
 Bugün Microsoft İstanbul ofislerinde Microsoft'dan sevgili dostum [Nuri
 Çankaya](http://www.nuricankaya.com) ile beraber Expression Blend

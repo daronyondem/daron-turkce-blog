@@ -1,13 +1,3 @@
----
-FallbackID: 2696
-Title: "Sanal Android ile site testi"
-date: "2011-9-13"
-EntryID: Sanal_Android_ile_site_testi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Android, CSS, HTML, HTML5
----
 # Sanal Android ile site testi
 Blogun yeni tasarımını ve yazılımını yayınladığım gün twitter üzerinden
 bazı arkadaşlar özellikle Android işletim sistemli cihazlarda tasarımla

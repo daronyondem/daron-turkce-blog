@@ -1,13 +1,3 @@
----
-FallbackID: 2728
-Title: "Omnia 7'ye Internet Sharing"
-date: "2011-11-17"
-EntryID: Omnia_7_Internet_Sharing
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7.5
----
 # Omnia 7'ye Internet Sharing
 Daha önceleri Samsung Omnia 7 ile yaşadığım [bazı
 maceraları](http://daron.yondem.com/tr/post/TMobile_Samsung_Omnia_7_ile_Mango)

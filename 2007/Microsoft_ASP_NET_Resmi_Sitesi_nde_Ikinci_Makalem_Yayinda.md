@@ -1,14 +1,3 @@
----
-FallbackID: 1736
-Title: "Microsoft ASP.NET Resmi Sitesi'nde İkinci Makalem Yayında"
-date: "2007-4-29"
-EntryID: Microsoft_ASP_NET_Resmi_Sitesi_nde_Ikinci_Makalem_Yayinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Genel
-old.EntryID: 5ffabf46-4fea-415d-af68-e2c8bbdfc979
----
 # Microsoft ASP.NET Resmi Sitesi'nde İkinci Makalem Yayında
 **Microsoft ASP.NET Resmi Sitesi**'nde [ilk
 makalem](http://daron.yondem.com/en/post/c328a95a-0d22-4309-803e-a2df88e92bcb)

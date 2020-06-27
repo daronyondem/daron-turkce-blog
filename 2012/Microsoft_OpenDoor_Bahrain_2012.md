@@ -1,13 +1,3 @@
----
-FallbackID: 2804
-Title: "Microsoft OpenDoor Bahrain"
-date: "2012-3-31"
-EntryID: Microsoft_OpenDoor_Bahrain_2012
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML, HTML5, IE 10, Kinect, Microsoft Open Door, Windows 8, Windows Azure, Windows Phone, Windows Phone 7, Windows Phone 7.5, WinRT
----
 # Microsoft OpenDoor Bahrain
 Bu hafta OpenDoor serisinin Bahrain ayağındaydım :) Bahrain'e ilk
 ziyaretim oldu bu, daha önce gitma şansım olmamıştı. Fakat tabi ki

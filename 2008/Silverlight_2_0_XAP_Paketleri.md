@@ -1,14 +1,3 @@
----
-FallbackID: 1994
-Title: "Silverlight 2.0 XAP Paketleri"
-date: "2008-3-19"
-EntryID: Silverlight_2_0_XAP_Paketleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: e93f297c-9d8c-4e34-807e-d6a0e9e47147
----
 # Silverlight 2.0 XAP Paketleri
 Silverlight 2.0 (Beta 1) yazılarımın yavaş yavaş geleceğinden
 bahsetmiştim. İşte ilki ile karşınızdayım. Bu yazıda **Silverlight 2.0

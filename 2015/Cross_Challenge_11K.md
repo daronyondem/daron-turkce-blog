@@ -1,13 +1,3 @@
----
-FallbackID: 2955
-Title: "Cross Challenge 11K"
-date: "2015-2-23"
-EntryID: Cross_Challenge_11K
-IsActive: True
-Section: fitness
-MinutesSpent: 33
-Tags: Koşu, Spor
----
 # Cross Challenge 11K
 Hafta sonu CrossChallenge koşusundayım. Karda koşmak çok farklı bir deneyimmiş :) Koşu Fatih Ormanı'nda, öğrendiğim kadarı ile ilk defa kullanılan bir parkurda gerçekleşti. Parkurun sürekli olarak koşuculara açılabilmesi için çalışmalar yapılıyormuş anladığım kadarı ile. Bence kesinlikle halka açılması gereken bir parkur. Kişisel olarak Avrupa yakasında ulaşımı en kolay orman parkuru olduğunu düşünüyorum. Ayrıca parkurun başında yer alan organizasyon ve dinlenme alanı da çok başarılı. Tek korkum, herkes burayı öğrenirse kalabalıktan ölebilir mekan :)
 

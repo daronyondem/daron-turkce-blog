@@ -1,14 +1,3 @@
----
-FallbackID: 1878
-Title: "Expression Blend ve WPF Webineri sonrasıda..."
-date: "2007-12-9"
-EntryID: Expression_Blend_ve_WPF_Webineri_sonrasida___
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Visual Studio 2008, Webiner, WPF
-old.EntryID: 38f4e983-00a9-4519-8094-41a27867ddac
----
 # Expression Blend ve WPF Webineri sonrasıda...
 Dün **Expression** **Blend ve WPF** webinerini başarılı bir şekilde
 gerçekleştirdik. Webiner boyunca WPF ile 3D animasyon ve Visual Studio

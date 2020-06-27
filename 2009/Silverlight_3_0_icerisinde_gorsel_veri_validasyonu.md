@@ -1,14 +1,3 @@
----
-FallbackID: 2378
-Title: "Silverlight 3.0 içerisinde görsel veri validasyonu."
-date: "2009-7-4"
-EntryID: Silverlight_3_0_icerisinde_gorsel_veri_validasyonu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 66dbe8b5-ba24-48e1-baf9-f02d030b2ca7
----
 # Silverlight 3.0 içerisinde görsel veri validasyonu.
 Silverlight içerisinde veri validasyonu konusunda validasyon
 kontrollerimiz yok gibi gözükse de aslında arka planda işimize

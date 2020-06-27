@@ -1,13 +1,3 @@
----
-FallbackID: 2826
-Title: "Build 2012 Konferansı 2. gün keynote ve geri kalanlar."
-date: "2012-11-3"
-EntryID: Build_2012_Konferansi_Gun2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Podcast, Windows Azure
----
 # Build 2012 Konferansı 2. gün keynote ve geri kalanlar.
 Biliyorum geç kaldım :) Build konferansı bitti ve ikinci gün Keynote ile
 ilgili yazımı hala yazamadım :) İşte şimdi hem 2. gün hem toplu Build

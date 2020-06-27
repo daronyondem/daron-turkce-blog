@@ -1,14 +1,3 @@
----
-FallbackID: 1921
-Title: "VB 9.0 yeniliklerinden bir demet."
-date: "2008-1-17"
-EntryID: VB_9_0_yeniliklerinden_bir_demet
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: LINQ, Visual Basic 2008, Visual Basic .NET
-old.EntryID: 310e1b6d-8380-4803-8230-103ae1f85c8a
----
 # VB 9.0 yeniliklerinden bir demet.
 Özellikle uzun metinleri hazırladığımız kodun içerisine gömmek
 istediğimizde satır atlamaları vs epey can sıkıcı bir hal alıyor. Bu

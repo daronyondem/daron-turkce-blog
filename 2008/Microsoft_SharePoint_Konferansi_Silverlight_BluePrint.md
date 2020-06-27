@@ -1,14 +1,3 @@
----
-FallbackID: 2020
-Title: "Microsoft SharePoint Konferansı Silverlight BluePrint"
-date: "2008-4-12"
-EntryID: Microsoft_SharePoint_Konferansi_Silverlight_BluePrint
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Silverlight 2.0
-old.EntryID: b75ae7e9-86e6-4c49-b122-fe63eaece90b
----
 # Microsoft SharePoint Konferansı Silverlight BluePrint
 Bugün Swiss Hotel'de düzenlenen **Microsoft SharePoint Konferans**
 serisinin İstanbul ayağında **Silverlight BluePrint ile SharePoint**

@@ -1,13 +1,3 @@
----
-FallbackID: 2734
-Title: "Windows Azure Platformunda Ne Nedir? (Video)"
-date: "2011-11-25"
-EntryID: Windows_Azure_Platformunda_Ne_Nedir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Windows Azure Platformunda Ne Nedir? (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"

@@ -1,13 +1,3 @@
----
-FallbackID: 2769
-Title: "Azure'a Remote Desktop"
-date: "2012-5-8"
-EntryID: Azure_a_Remote_Desktop
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure'a Remote Desktop
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

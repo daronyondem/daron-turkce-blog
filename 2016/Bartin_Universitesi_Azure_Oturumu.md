@@ -1,13 +1,3 @@
----
-FallbackID: 3015
-Title: "Bartın Üniversitesi Azure Oturumu"
-date: "2016-4-22"
-EntryID: Bartin_Universitesi_Azure_Oturumu
-IsActive: True
-Section: software
-MinutesSpent: 6
-Tags: Seminer, Windows Azure
----
 # Bartın Üniversitesi Azure Oturumu
 Dün **Bartın Üniversitesi** İstanbul'u ziyaret etti :) Bir gün böyle bir cümle kuracağım aklıma gelmezdi ama olan tam da bu oldu. Hocaları ile beraber bir otobüse atlayan öğrenciler İstanbul'a geldiler. Ben de onlara Microsoft İstanbul ofisinde bir saat Azure anlattım. 
 

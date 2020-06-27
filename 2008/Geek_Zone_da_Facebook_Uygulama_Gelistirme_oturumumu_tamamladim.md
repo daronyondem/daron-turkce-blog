@@ -1,14 +1,3 @@
----
-FallbackID: 2209
-Title: "Geek Zone'da Facebook Uygulama Geliştirme oturumumu tamamladım."
-date: "2008-10-8"
-EntryID: Geek_Zone_da_Facebook_Uygulama_Gelistirme_oturumumu_tamamladim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, ASP.NET
-old.EntryID: 318f58a0-c293-43ae-baa9-8584adf3154d
----
 # Geek Zone'da Facebook Uygulama Geliştirme oturumumu tamamladım.
 Bugün **CEBIT** fuarında **TBDGenc** organizasyonundaki **Geek Zone**
 dahilinde "**Facebook Uygulama Geliştirme**" oturumunu sundum. Geek

@@ -1,13 +1,3 @@
----
-FallbackID: 2687
-Title: "WPF'te Dependency Property'lerde başka neler var"
-date: "2011-9-5"
-EntryID: WPFte_Dependency_Propertylerde_baska_neler_var
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WPF
----
 # WPF'te Dependency Property'lerde başka neler var
 Dün hatırlarsanız [Silverlight tarafında DP (Dependency Property)'lerin
 kullanımına](http://daron.yondem.com/tr/post/Silverlightta_Dependency_Propertyler)

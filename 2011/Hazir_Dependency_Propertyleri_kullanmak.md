@@ -1,13 +1,3 @@
----
-FallbackID: 2689
-Title: "Hazır Dependency Property'leri kullanmak"
-date: "2011-9-6"
-EntryID: Hazir_Dependency_Propertyleri_kullanmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0, Silverlight 3.0, Silverlight 4, Silverlight 5, Windows Phone, Windows Phone 7, WPF
----
 # Hazır Dependency Property'leri kullanmak
 İki gündür [DP (Dependency Property)'lerle
 uğraşıyoruz](http://daron.yondem.com/tr/post/WPFte_Dependency_Propertylerde_baska_neler_var)

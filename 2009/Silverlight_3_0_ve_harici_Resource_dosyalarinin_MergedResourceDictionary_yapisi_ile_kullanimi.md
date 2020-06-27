@@ -1,14 +1,3 @@
----
-FallbackID: 2370
-Title: "Silverlight 3.0 ve harici Resource dosyalarının MergedResourceDictionary yapısı ile kullanımı"
-date: "2009-6-7"
-EntryID: Silverlight_3_0_ve_harici_Resource_dosyalarinin_MergedResourceDictionary_yapisi_ile_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: f49dcb80-dfc7-4991-a944-160da0e726a5
----
 # Silverlight 3.0 ve harici Resource dosyalarının MergedResourceDictionary yapısı ile kullanımı
 Silverlight ve WPF ile beraber gelen Resource yapıları özellikle web
 tasarımcıları tarafından alışılmış CSS'in çok daha gelişmiş bir hali

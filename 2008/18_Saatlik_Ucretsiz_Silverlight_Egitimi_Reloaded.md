@@ -1,14 +1,3 @@
----
-FallbackID: 2026
-Title: "18 Saatlik Ücretsiz Silverlight Eğitimi (Reloaded)"
-date: "2008-4-17"
-EntryID: 18_Saatlik_Ucretsiz_Silverlight_Egitimi_Reloaded
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 0f4c4a99-50db-4dd7-83f2-1d3087bf8ac2
----
 # 18 Saatlik Ücretsiz Silverlight Eğitimi (Reloaded)
 **NETRON** ve **INETA** işbirliğinde yaptığımız 3 günlük Silverlight
 eğitimini bu sefer de **BilgeAdam** ve **INETA** işbirliği ile tekrar

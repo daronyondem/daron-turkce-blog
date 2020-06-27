@@ -1,14 +1,3 @@
----
-FallbackID: 2273
-Title: "Imagine Cup 2009 Lansmanı"
-date: "2008-12-12"
-EntryID: Imagine_Cup_2009_Lansmani
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Silverlight, Silverlight 2.0
-old.EntryID: 63858d33-c394-408e-b98d-534d4bcf4129
----
 # Imagine Cup 2009 Lansmanı
 Microsoft'un dünya çapındaki Imagine Cup yarışmasının bu seneki ayağının
 finali Mısır'da yapılacak. Tabi onun öncesinde Türkiye ayağı ile

@@ -1,13 +1,3 @@
----
-FallbackID: 2985
-Title: "Azure Data Camp Istanbul"
-date: "2015-10-28"
-EntryID: Azure_Data_Camp_Istanbul
-IsActive: True
-Section: software
-MinutesSpent: 13
-Tags: Azure DocumentDB, Azure Redis Cache, Azure Search, Azure Storage Services, Windows Azure
----
 # Azure Data Camp Istanbul
 Dün Microsoft tarafından müşteriler için organize edilmiş Azure Data Camp vardı. Data Camp içerisinde Azure'daki PAAS seviyesinde neredeyse tüm Data Storage ürünlerini inceledik diyebilirim.
 

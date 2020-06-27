@@ -1,14 +1,3 @@
----
-FallbackID: 2433
-Title: "Windows 7 Akademik Lansman, Ankara"
-date: "2009-10-26"
-EntryID: Windows_7_Akademik_Lansman_Ankara
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7
-old.EntryID: 7d22e713-16dd-42a8-b764-85f2738a96db
----
 # Windows 7 Akademik Lansman, Ankara
 Bugün Windows 7 Akademik Lansmanları'nın Ankara ayağını gerçekleştirdik.
 İstanbulda olduğu gibi Ankara'da da salon doldu taştı :) Ama ayrı bir

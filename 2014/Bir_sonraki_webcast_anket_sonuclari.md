@@ -1,13 +1,3 @@
----
-FallbackID: 2883
-Title: ""Bir sonraki webcast" anket sonuçları"
-date: "2014-2-18"
-EntryID: Bir_sonraki_webcast_anket_sonuclari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Bir sonraki webcast anket sonuçları
 Geçenlerde Twitter ve Facebook üzerinden bir anket paylaşmıştım. Yakın
 zamanda yapmayı planladığım bir webinerle ilgili öncesinde sizin de

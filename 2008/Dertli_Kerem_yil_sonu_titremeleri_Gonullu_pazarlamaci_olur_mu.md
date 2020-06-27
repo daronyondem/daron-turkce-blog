@@ -1,14 +1,3 @@
----
-FallbackID: 2284
-Title: "Dertli Kerem yıl sonu titremeleri.... Gönüllü pazarlamacı olur mu?"
-date: "2008-12-23"
-EntryID: Dertli_Kerem_yil_sonu_titremeleri_Gonullu_pazarlamaci_olur_mu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Dertli Kerem
-old.EntryID: 2af4638b-6522-4b10-a881-c1e47f8242b6
----
 # Dertli Kerem yıl sonu titremeleri.... Gönüllü pazarlamacı olur mu?
 Yaptığınız işi neden yaptığınızla ilgili duygu ve düşünceleriniz
 sapıtırsa ortaya SAPIK bir insan olarak çıkarsınız. Sapık kelimesi

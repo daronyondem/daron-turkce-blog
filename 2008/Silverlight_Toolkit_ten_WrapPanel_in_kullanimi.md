@@ -1,14 +1,3 @@
----
-FallbackID: 2245
-Title: "Silverlight Toolkit'ten WrapPanel'in kullanımı."
-date: "2008-11-13"
-EntryID: Silverlight_Toolkit_ten_WrapPanel_in_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: c3e4506a-ebf5-4b8f-a98d-901dcdd1cdf0
----
 # Silverlight Toolkit'ten WrapPanel'in kullanımı.
 Layout kontrolleri XAML ile arayüzler oluştururken "olmazsa olmazlar"
 listemizin en başında geliyor. Silverlight 1.0'daki Canvas kontrolünden

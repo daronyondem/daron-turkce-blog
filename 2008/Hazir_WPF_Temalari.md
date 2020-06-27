@@ -1,14 +1,3 @@
----
-FallbackID: 2244
-Title: "Hazır WPF Temaları"
-date: "2008-11-11"
-EntryID: Hazir_WPF_Temalari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WPF
-old.EntryID: 81345b60-8a45-473a-9a50-a144f6c4fb30
----
 # Hazır WPF Temaları
 Hem WPF hem Silverlight maalesef ki "yazılımcılar tarafından tasarlanan
 uygulamalar" havuzuna çok daha garip :) balıkların atılmasını sağladı.

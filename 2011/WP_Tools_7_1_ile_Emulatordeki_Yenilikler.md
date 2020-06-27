@@ -1,13 +1,3 @@
----
-FallbackID: 2716
-Title: "Windows Phone Tools 7.1 ile Emülatördeki Yenilikler"
-date: "2011-9-30"
-EntryID: WP_Tools_7_1_ile_Emulatordeki_Yenilikler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7.5
----
 # Windows Phone Tools 7.1 ile Emülatördeki Yenilikler
 Windows Phoe 7.5 için SDK 7.1'in çıkması ile beraber emülatörün yanında
 bazı güzellikler geldi :) Bu güzellikleri daha farkına varmayanlarınız

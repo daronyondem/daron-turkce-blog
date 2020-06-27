@@ -1,13 +1,3 @@
----
-FallbackID: 2952
-Title: "Azure Storage Table Services (SDK2.5)"
-date: "2014-12-10"
-EntryID: Azure_Storage_Table_Services_SDK2_5
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, NOSQL, Windows Azure
----
 # Azure Storage Table Services (SDK2.5)
 Azure ortamında Storage Services kapsamında yarattığımız her bir Storage
 account ile beraber bize bir blob, bir table, bir de queue servisi

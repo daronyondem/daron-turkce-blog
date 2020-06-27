@@ -1,13 +1,3 @@
----
-FallbackID: 2725
-Title: "14 MVP ile Wrox'tan ilk kitabım! "Real World .NET, C#, and Silverlight""
-date: "2011-11-14"
-EntryID: Wrox_tan_ilk_kitabim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # 14 MVP ile Wrox'tan ilk kitabım! Real World .NET, C#, and Silverlight
 Ufak bir çocukken :) yok abartmiyim ama çoook önceleri hayal ettiğim
 şeyler vardı. Sanırım biraz şanslıyım, hayal ettiklerimi büyük oranda

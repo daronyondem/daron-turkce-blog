@@ -1,13 +1,3 @@
----
-FallbackID: 2843
-Title: "Azure Bootcamp İstanbul gerçekleşti!"
-date: "2013-4-28"
-EntryID: Azure_Bootcamp_Istanbul_gerceklesti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure Bootcamp İstanbul gerçekleşti!
 Geçen hafta sonu Global Windows Azure Camp'ın Türkiye ayağını
 İstanbul'da gerçekleştirdik. Çok zevkli ve güzel bir gün oldu. Sabah

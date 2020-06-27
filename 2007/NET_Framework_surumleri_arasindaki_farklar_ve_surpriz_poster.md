@@ -1,14 +1,3 @@
----
-FallbackID: 1839
-Title: ".NET Framework sürümleri arasındaki farklar ve sürpriz poster":)
-date: "2007-11-6"
-EntryID: NET_Framework_surumleri_arasindaki_farklar_ve_surpriz_poster
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, LINQ, Visual Studio 2008, .NET Framework 3.5
-old.EntryID: 9122c51a-5022-4476-aa4c-0ee269d85e56
----
 # .NET Framework sürümleri arasındaki farklar ve sürpriz poster
 .NET Framework sürümleri arasında farklar zaten hali hazırda
 karıştırılırken bir de üzerinde .NET Framework 3.5 gelecekken aşağıdaki

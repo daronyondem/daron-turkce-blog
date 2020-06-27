@@ -1,13 +1,3 @@
----
-FallbackID: 3005
-Title: "Build 2016 1. Gün"
-date: "2016-3-31"
-EntryID: Build_2016_Birinci_Gun
-IsActive: True
-Section: software
-MinutesSpent: 26
-Tags: Haberler, Visual Studio 2015
----
 # Build 2016 1. Gün
 Bugün Microsoft'un Build 2016 konferasının ilk günü gerçekleşti. Her zamanki gibi konferansın ilk ve ikinci günlerinde birer Keynote konuşması bulunuyor ve bu konuşmalarda konferansın en büyük duyuruları gerçekleşiyor. Eğer uzun, uzun yazı okumak istemiyorsanız hemen aşağıda ilk günün değerlendirmesini yaptığımız bir videoyu paylaşıyorum :)
 

@@ -1,14 +1,3 @@
----
-FallbackID: 2262
-Title: "Isparta Süleyman Demirel Üniversitesi'nde Microsoft Oyun Turu"
-date: "2008-11-30"
-EntryID: Isparta_Suleyman_Demirel_Universitesinde_Microsoft_Oyun_Turu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 706dfa73-68e4-4291-9091-c8820c0923a7
----
 # Isparta Süleyman Demirel Üniversitesi'nde Microsoft Oyun Turu
 Bugün **Isparta, Süleyman Demirel Üniversitesi**'nden **Microsoft Oyun
 Turu**'nun ikinci ayağını gerçekleştirdik. Son iki gündür ben zaten

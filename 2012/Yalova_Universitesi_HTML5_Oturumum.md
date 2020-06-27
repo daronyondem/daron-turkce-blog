@@ -1,13 +1,3 @@
----
-FallbackID: 2748
-Title: "Yalova Üniversitesi HTML5 Oturumum"
-date: "2012-1-4"
-EntryID: Yalova_Universitesi_HTML5_Oturumum
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Yalova Üniversitesi HTML5 Oturumum
 Dün Yalova yolcusuyduk. [INETA Türkiye](http://www.inetatr.org/) yeni
 ekibi ile beraber (bu sefer ben bir konuşmacı olarak katıldım) :) ilk

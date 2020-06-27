@@ -1,14 +1,3 @@
----
-FallbackID: 2402
-Title: "Silverlight'ın web servisine ulaşımını dinamik adreslerle yönetmek."
-date: "2009-9-6"
-EntryID: Silverlight_in_web_servisine_ulasimini_dinamik_adreslerle_yonetmek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 63409088-f54b-4c22-9120-7a6079414652
----
 # Silverlight'ın web servisine ulaşımını dinamik adreslerle yönetmek.
 Silverlight projelerinizde web servisleri kullandığınızda standart
 olarak "Add Service Reference" komutunu kullanıyoruz. Bu komut ile

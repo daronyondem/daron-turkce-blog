@@ -1,13 +1,3 @@
----
-FallbackID: 2854
-Title: "Microsoft Yaz Okulu 2013"
-date: "2013-9-7"
-EntryID: Microsoft_Yaz_Okulu_2013
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Azure Storage Services, Eğitimler, SQL Azure, Windows 8, Windows 8.1, Windows Azure, Windows Phone, Windows Phone 8
----
 # Microsoft Yaz Okulu 2013
 Ne haftaydı arkadaş :) Yine diyorum ve yine... Yaşlanmışım ben :) Şaka
 bir yana bu hafta epey yorucu geçti. Hafta boyunca... evet tam 5 gün

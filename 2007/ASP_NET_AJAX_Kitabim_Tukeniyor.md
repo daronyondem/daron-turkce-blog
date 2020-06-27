@@ -1,14 +1,3 @@
----
-FallbackID: 1847
-Title: "ASP.NET AJAX Kitabım Tükeniyor":)
-date: "2007-11-13"
-EntryID: ASP_NET_AJAX_Kitabim_Tukeniyor
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX
-old.EntryID: 398d9d5c-4298-45e5-a9bc-9b350451002c
----
 # ASP.NET AJAX Kitabım Tükeniyor
 ![](media/ASP_NET_AJAX_Kitabim_Tukeniyor/ajax.gif)Bugün [Pusula
 Yayıncılık](http://www.pusula.com) ile yaptığım görüşmede kitabımla

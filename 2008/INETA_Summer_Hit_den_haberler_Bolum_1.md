@@ -1,14 +1,3 @@
----
-FallbackID: 2129
-Title: "INETA Summer Hit'den haberler": Bölüm 1
-date: "2008-7-20"
-EntryID: INETA_Summer_Hit_den_haberler_Bolum_1
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 25639775-eaa9-4698-917d-5f82060a3452
----
 # INETA Summer Hit'den haberler
 **INETA Summer Hit** aktivitesine kayıtlar devam ediyor. Bu süreçte
 bugüne kadar kayıt olan bini aşkın dostumuza aşağıdaki maili gönderdik.

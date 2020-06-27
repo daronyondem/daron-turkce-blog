@@ -1,13 +1,3 @@
----
-FallbackID: 2809
-Title: "Macbook Air Windows 8 ile Muhteşem"
-date: "2012-8-31"
-EntryID: MacbookAir_Windows8_ile_Muhtesem
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel
----
 # Macbook Air Windows 8 ile Muhteşem
 Eskiden donanım incelemeleri yazardım :)
 [Darkhardware'de](http://www.darkhardware.com/) editördüm. Sonrasında

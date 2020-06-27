@@ -1,13 +1,3 @@
----
-FallbackID: 2776
-Title: "Blob Ortamında File System Etkisi yaratmak"
-date: "2012-6-26"
-EntryID: Blob_Ortaminda_File_System_Etkisi_yaratmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Blob Ortamında File System Etkisi yaratmak
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

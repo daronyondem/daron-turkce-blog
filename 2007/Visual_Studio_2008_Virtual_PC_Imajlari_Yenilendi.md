@@ -1,14 +1,3 @@
----
-FallbackID: 1831
-Title: "Visual Studio 2008 Virtual PC İmajları Yenilendi"
-date: "2007-10-30"
-EntryID: Visual_Studio_2008_Virtual_PC_Imajlari_Yenilendi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Haberler, Visual Studio 2008
-old.EntryID: 8e0206a9-238c-4aa9-b293-0ab955bb205c
----
 # Visual Studio 2008 Virtual PC İmajları Yenilendi
 Visual Studio 2008 Beta 2'yi denemenin en kolay yollarından biri sanal
 makine kullanıyor olmak. Daha önceki

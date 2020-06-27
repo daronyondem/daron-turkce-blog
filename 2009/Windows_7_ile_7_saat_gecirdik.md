@@ -1,14 +1,3 @@
----
-FallbackID: 2380
-Title: "Windows 7 ile 7 saat geçirdik!"
-date: "2009-7-13"
-EntryID: Windows_7_ile_7_saat_gecirdik
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7
-old.EntryID: 5f8737f6-dca5-4239-8d18-8b2922a287d2
----
 # Windows 7 ile 7 saat geçirdik!
 Dün "**Windows 7 ile 7 Saat**" etkinliğimizi gerçekleştirdik. Benim için
 süper keyifli ve güzel bir gündü. İlk defa bir INETA etkinliğinde ITPro

@@ -1,14 +1,3 @@
----
-FallbackID: 2472
-Title: "Silverlight 4 Beta ve":NET 4 Assembly Paylaşımı - Görsel Ders
-date: "2009-12-10"
-EntryID: Silverlight_4_Beta_ve_NET_4_Assembly_Paylasimi_Gorsel_Ders
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 850f7ddc-2774-4c75-9b12-68f10a0877bc
----
 # Silverlight 4 Beta ve
 Bu görsel dersimizde Silverligh 4 Beta ile beraber gelen Assembly
 paylaşımı özelliğine göz atıyoruz. Özellikle .NET Framework ile

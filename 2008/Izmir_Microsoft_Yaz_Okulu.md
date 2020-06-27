@@ -1,14 +1,3 @@
----
-FallbackID: 2159
-Title: "İzmir Microsoft Yaz Okulu"
-date: "2008-8-20"
-EntryID: Izmir_Microsoft_Yaz_Okulu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler, Silverlight 2.0, WPF
-old.EntryID: 670fc8a0-6b28-4b59-aad2-a6c78e81f138
----
 # İzmir Microsoft Yaz Okulu
 Son iki gündür **İzmir Microsoft Yaz Okulu**ndaydım. Microsoft Yaz Okulu
 serisinin son durağı olan İzmir'de de **Silverlight** ve **WPF**

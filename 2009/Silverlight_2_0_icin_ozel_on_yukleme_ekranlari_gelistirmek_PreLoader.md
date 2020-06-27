@@ -1,14 +1,3 @@
----
-FallbackID: 2328
-Title: "Silverlight 2.0 için özel ön yükleme ekranları geliştirmek. (PreLoader)"
-date: "2009-2-25"
-EntryID: Silverlight_2_0_icin_ozel_on_yukleme_ekranlari_gelistirmek_PreLoader
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 6f7f1652-dfcf-4aa6-af39-1724ee2f1f11
----
 # Silverlight 2.0 için özel ön yükleme ekranları geliştirmek. (PreLoader)
 Silverlight 2.0 uygulamaları hazırladığınızda sunucu tarafına yükleme
 işlemini yaptığınız gibi XAP dosyanızın büyüklüğüne göre Silverlight

@@ -1,14 +1,3 @@
----
-FallbackID: 1803
-Title: "Internet Explorer 7.0 Artık Herkese... Her Yerde..."
-date: "2007-10-5"
-EntryID: Internet_Explorer_7_0_Artik_Herkese_Her_Yerde
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Haberler
-old.EntryID: 05ca2908-8595-48be-8aae-d4848aed859a
----
 # Internet Explorer 7.0 Artık Herkese... Her Yerde...
 İnternet Explorer 7.0'ı bilgisayarınıza yüklemek için sahip olduğunuz
 işletim sisteminin orijinal olup olmadığını internet üzerinden kontrol

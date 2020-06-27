@@ -1,13 +1,3 @@
----
-FallbackID: 2899
-Title: "Build 2014 Gün 1"
-date: "2014-4-3"
-EntryID: Build_2014_Gun_1
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML5, JavaScript, Nokia, Silverlight, Visual Studio 2013, Windows 8.1, Windows Phone
----
 # Build 2014 Gün 1
 Bugünlerde San Francisco'da Microsoft'un Build konferansının 2014
 sürümündeyim :) Geçen [üç yılı

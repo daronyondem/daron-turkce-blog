@@ -1,14 +1,3 @@
----
-FallbackID: 1727
-Title: "Microsoft Silverlight"
-date: "2007-4-17"
-EntryID: Microsoft_Silverlight
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: b28d270f-2ed4-4f25-b38d-98ce0d30cddd
----
 # Microsoft Silverlight
 ![](media/Microsoft_Silverlight/silverlight.gif)
 

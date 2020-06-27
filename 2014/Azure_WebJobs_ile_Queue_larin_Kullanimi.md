@@ -1,13 +1,3 @@
----
-FallbackID: 2915
-Title: "Azure WebJobs ile Queue'ların Kullanımı"
-date: "2014-8-9"
-EntryID: Azure_WebJobs_ile_Queue_larin_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Azure WebJobs ile Queue'ların Kullanımı
 Hatırlarsanız bundan bir süre önce [Azure WebJobs konusundan
 bahsetmiş](http://daron.yondem.com/software/post/WebJobs_Giris_ve_Bloblarla_Kullanimi),

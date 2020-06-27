@@ -1,14 +1,3 @@
----
-FallbackID: 2252
-Title: "Silverlight 2.0 içerisinde AutoCompleteBox kullanımı."
-date: "2008-11-20"
-EntryID: Silverlight_2_0_icerisinde_AutoCompleteBox_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 611e4193-9dec-4c92-8015-67c41b9bed73
----
 # Silverlight 2.0 içerisinde AutoCompleteBox kullanımı.
 AutoComplete işlevselliği AJAX günlerinden alışık olduğumuz bir sistem.
 Herhangi bir TextBox'a kullanıcı yazı yazarken aynı anda uygun

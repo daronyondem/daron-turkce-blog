@@ -1,13 +1,3 @@
----
-FallbackID: 2781
-Title: "Windows Azure Platform Management"
-date: "2012-7-31"
-EntryID: Windows_Azure_Platform_Management
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Windows Azure Platform Management
 Azure ile ilgileniyorsanız makinenizde kesinlikle yüklü olması gereken
 bir araçtan bahsedeceğim şimdi :) Hem de ücretsiz.

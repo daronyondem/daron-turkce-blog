@@ -1,14 +1,3 @@
----
-FallbackID: 1928
-Title: "Silverlight, Expression Encoder ve Windows Media Services ile canlı yayın"
-date: "2008-1-23"
-EntryID: Silverlight_Expression_Encoder_ve_Windows_Media_Services_ile_canli_yayin
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Encoder, Silverlight
-old.EntryID: c44b96e8-e240-4ede-8c1f-7bdc000da97f
----
 # Silverlight, Expression Encoder ve Windows Media Services ile canlı yayın
 **Silverlight 1.0** ile **MediaElement** kullanarak **MMS** adresleri
 üzerinden gelen "*on-demand*" veya "*live*" yayınları kullanıcılara

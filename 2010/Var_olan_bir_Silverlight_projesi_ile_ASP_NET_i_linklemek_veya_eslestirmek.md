@@ -1,14 +1,3 @@
----
-FallbackID: 2529
-Title: "Var olan bir Silverlight projesi ile ASP.NET'i linklemek / eşleştirmek"
-date: "2010-7-19"
-EntryID: Var_olan_bir_Silverlight_projesi_ile_ASP_NET_i_linklemek_veya_eslestirmek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4, Visual Studio 2010
-old.EntryID: 622ffe1e-9ca0-49d3-b7d5-f47c30fe5c50
----
 # Var olan bir Silverlight projesi ile ASP.NET'i linklemek / eşleştirmek
 Yeni bir Silverlight projesi yaratırken çoğu zaman yanında bir de
 ASP.NET sitesi alırız. Böylece veritabanı erişimi vs gibi işlemleri

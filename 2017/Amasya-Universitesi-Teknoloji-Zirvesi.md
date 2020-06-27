@@ -1,11 +1,3 @@
----
-Title: "Amasya Üniversitesi Teknoloji Zirvesi'nde Cloud ve IoT"
-date: "2017-4-27"
-IsActive: True
-Section: software
-MinutesSpent: 8
-Tags: Seminer, Azure, IoT, Azure IoT Hub
----
 # Amasya Üniversitesi Teknoloji Zirvesi'nde Cloud ve IoT
 Dün Amasya'daydım. Kendimce bu kadar Anadolu'yu geziyor olmama rağmen Amasya'ya hiç gitmemişim. İtiraf etmek gerekirse gidince de çok şaşırdım. Ya benim cehaletim, ya da Amasya iç turizmde yeterince tanıtılmıyor. Her neyse, sabah aşağıdaki manzaraya uyanmak süperdi :) Sağolsun THY'nin İstanbul-Amasya uçuşları akşam 11'de olunca bir sonraki sabaha konmuş oturumuma yetişebilmek için bir gün önce Amasya'ya gitmem gerekti. Çok da güzel oldu :) O ayrı konu. 
 

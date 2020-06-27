@@ -1,14 +1,3 @@
----
-FallbackID: 1910
-Title: "Silverlight ile tam ekran uygulamalar"
-date: "2008-1-6"
-EntryID: Silverlight_ile_tam_ekran_uygulamalar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 7624fc12-9493-4351-b305-d6dc7297ac36
----
 # Silverlight ile tam ekran uygulamalar
 Silverlight uygulamalarının yeri geldiğinde tam ekran olarak da
 kullanılabildiğini örneklerde görmüşsünüzdür. İster amacınız tam ekran

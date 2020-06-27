@@ -1,13 +1,3 @@
----
-FallbackID: 2858
-Title: "Windows Phone 8 Update 3 Developer Preview"
-date: "2013-10-16"
-EntryID: Windows_Phone_8_Update_3_Developer_Preview
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 8
----
 # Windows Phone 8 Update 3 Developer Preview
 Dün Microsoft, Windows Phone tarafıda çok önemli bir duyuru yaptı. Artık
 Windows Phone İşletim Sistemi'ni yeni sürümleri sonlandırılmadan ve son

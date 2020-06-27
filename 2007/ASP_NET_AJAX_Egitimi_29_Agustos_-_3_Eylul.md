@@ -1,14 +1,3 @@
----
-FallbackID: 1765
-Title: "ASP.NET AJAX Eğitimi 29 Ağustos - 3 Eylül"
-date: "2007-8-28"
-EntryID: ASP_NET_AJAX_Egitimi_29_Agustos_-_3_Eylul
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Eğitimler
-old.EntryID: 14065710-90c2-4d61-8c21-752beea739a1
----
 # ASP.NET AJAX Eğitimi 29 Ağustos - 3 Eylül
 ASP.NET AJAX eğitimlerim devam ediyor. 29 Ağustos tarihinde başlayacak
 olan sınıfımız için acil kayıtlarınızı [MayaSoft Bilişim

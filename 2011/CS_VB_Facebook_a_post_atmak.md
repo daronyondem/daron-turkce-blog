@@ -1,13 +1,3 @@
----
-FallbackID: 2737
-Title: ".NET'ten Facebook'a post atmak."
-date: "2011-12-5"
-EntryID: CS_VB_Facebook_a_post_atmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET, C#, Visual Basic .NET
----
 # .NET'ten Facebook'a post atmak.
 Hazır [.NET'ten Twitter'a mesaj
 atma](http://daron.yondem.com/tr/post/CS_VB_Twitter_a_mesaj_atmak)

@@ -1,14 +1,3 @@
----
-FallbackID: 2311
-Title: "INETA ve MEA Bölgesindeki Organizasyon Değişikliği"
-date: "2009-1-22"
-EntryID: INETA_ve_MEA_Bolgesindeki_Organizasyon_Degisikligi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 5ed270c5-baea-40e1-a7a1-f3c601f684f3
----
 # INETA ve MEA Bölgesindeki Organizasyon Değişikliği
 INETA tarafında **1 Nisan 2008** ile başlamış olduğum **Türkiye
 Başkanlığı** görevini sizlere daha önceleri duyurmuştum. Bu görev

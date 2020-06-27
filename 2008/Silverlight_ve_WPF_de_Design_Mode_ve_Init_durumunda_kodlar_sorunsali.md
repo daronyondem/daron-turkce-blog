@@ -1,14 +1,3 @@
----
-FallbackID: 2292
-Title: "Silverlight ve WPF'de Design Mode ve Init durumunda kodlar sorunsalı."
-date: "2008-12-31"
-EntryID: Silverlight_ve_WPF_de_Design_Mode_ve_Init_durumunda_kodlar_sorunsali
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Silverlight 2.0, Visual Studio 2008, WPF
-old.EntryID: 51e42b27-c0db-41c1-aead-47490f9eb177
----
 # Silverlight ve WPF'de Design Mode ve Init durumunda kodlar sorunsalı.
 WPF veya Silverlight projelerinde **Inıt** durumu ile **PageLoad** veya
 **WindowLoad** event'ları arasındaki fark bazen ilk bakışta yokmuş gibi

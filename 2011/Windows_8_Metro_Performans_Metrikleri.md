@@ -1,13 +1,3 @@
----
-FallbackID: 2711
-Title: "Windows 8 Metro Uygulamalarında Performans Metrikleri"
-date: "2011-9-25"
-EntryID: Windows_8_Metro_Performans_Metrikleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Windows 8 Metro Uygulamalarında Performans Metrikleri
 Windows 8'in Metro arayüzü için uygulama geliştirirken bu arayüzlerin
 tablet donanımında çalışacağını göz önüne alarak performansa da dikkat

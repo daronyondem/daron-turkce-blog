@@ -1,14 +1,3 @@
----
-FallbackID: 1940
-Title: "Winforms uygulamalarında WPF kullanımı üzerine."
-date: "2008-2-2"
-EntryID: Winforms_uygulamalarinda_WPF_kullanimi_uzerine
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WPF
-old.EntryID: 399ae928-b165-4690-8346-cdb60f82c9b4
----
 # Winforms uygulamalarında WPF kullanımı üzerine.
 WPF release olduğundan bu yana neredeyse tüm eğitimlerde ve seminerlerde
 **WPF** ile klasik **Winforms** yapısının aynı uygulama içerisinde

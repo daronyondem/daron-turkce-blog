@@ -1,13 +1,3 @@
----
-FallbackID: 2967
-Title: "Elazığ Fırat Üniversitesi Ziyaretim"
-date: "2015-4-2"
-EntryID: Elazig_Firat_Universitesi_Ziyaretim
-IsActive: True
-Section: software
-MinutesSpent: 12
-Tags: Windows Azure
----
 # Elazığ Fırat Üniversitesi Ziyaretim
 Salı günü günübirlik bir ziyaret ile **Elazığ, Fırat Üniversitesi**'ndeydim. Birkaç yıl olmuş Elazığ'a gitmeyeli :) Güzel bir etkinlikte önce Azure ve Cloud konuştuk sonra da "Tüm derdim Kaizen" adındaki üretkenlik odaklı oturumumu sundum. 
 

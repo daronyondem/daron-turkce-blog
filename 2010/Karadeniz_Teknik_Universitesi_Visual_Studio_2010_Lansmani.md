@@ -1,14 +1,3 @@
----
-FallbackID: 2511
-Title: "Karadeniz Teknik Üniversitesi Visual Studio 2010 Lansmanı"
-date: "2010-4-19"
-EntryID: Karadeniz_Teknik_Universitesi_Visual_Studio_2010_Lansmani
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Studio 2010
-old.EntryID: 04a51987-f143-4f22-a56d-55089cad7344
----
 # Karadeniz Teknik Üniversitesi Visual Studio 2010 Lansmanı
 Bugün Trabzon'da Karadeniz Teknik Üniversitesi'ndeydim. Visual Studi
 2010 akademik lansmanları çerçevesinde hem Visual Studio 2010 hem de

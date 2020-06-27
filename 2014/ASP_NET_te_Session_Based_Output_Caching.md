@@ -1,13 +1,3 @@
----
-FallbackID: 2898
-Title: "ASP.NET'te Session Based Output Caching"
-date: "2014-3-26"
-EntryID: ASP_NET_te_Session_Based_Output_Caching
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET, ASP.NET 2.0, ASP.NET 3.5, ASP.NET 4.0, ASP.NET 4.5
----
 # ASP.NET'te Session Based Output Caching
 ASP.NET'te OutputCaching olayını bilmeyen yoktur diye tahmin ediyorum.
 Kabaca herhangi bir sayfanın çıktısının cache'e alınmasını sağlayan bu

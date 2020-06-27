@@ -1,14 +1,3 @@
----
-FallbackID: 2454
-Title: "Silverlight 4 Beta'da sağ tuş desteği ve bir ContextMenü kontrolü"
-date: "2009-11-22"
-EntryID: Silverlight_4_Beta_da_sag_tus_destegi_ve_bir_ContextMenu_kontrolu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: b621640a-b973-45e9-a67a-7b8493ca872a
----
 # Silverlight 4 Beta'da sağ tuş desteği ve bir ContextMenü kontrolü
 Silverlight 3 zamanlarında gelen en önemli isteklerden biri farenin sağ
 tuşu ile ilgili eventları yakalayabilmekti. Biliyorsunuz normal

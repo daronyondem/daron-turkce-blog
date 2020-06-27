@@ -1,13 +1,3 @@
----
-FallbackID: 2757
-Title: "Windows Azure'da bir sunucunun yaşam döngüsü!"
-date: "2012-3-20"
-EntryID: Windows_Azure_da_bir_sunucunun_yasam_dongusu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Windows Azure'da bir sunucunun yaşam döngüsü!
 Windows Azure'un iç yapısına göz atacağımız bu yazımız :) hala kod
 yazmaya başlamadığımız ikinci azure yazımız olacak. Maalesef elleri

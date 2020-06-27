@@ -1,13 +1,3 @@
----
-FallbackID: 2879
-Title: "Azure'da Web ve Worker Role Konfigürasyon Yapısı (SDK2.2)"
-date: "2013-11-29"
-EntryID: Azure_Web_Worker_Role_Konfigurasyon_Yapisi_SDK2_2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure'da Web ve Worker Role Konfigürasyon Yapısı (SDK2.2)
 Azure'da bir web veya worker role yarattığınız gibi Solution Explorer
 içerisindeki Azure projesinin altında Roles klasöründe role kendini

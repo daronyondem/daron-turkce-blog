@@ -1,14 +1,3 @@
----
-FallbackID: 2444
-Title: "TechEd Gün 2 Süper Geçti!"
-date: "2009-11-10"
-EntryID: TechEd_Gun_2_Super_Gecti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: fe8a3f1f-e651-40c3-adcb-f027c97bdd8e
----
 # TechEd Gün 2 Süper Geçti!
 Muhteşem bir gün daha geçti :) TechEd ikinci gününde maalesef hiçbir
 teknik oturuma katılamadım :) PDC'ye saklıyorum kendimi. Açık konuşmak

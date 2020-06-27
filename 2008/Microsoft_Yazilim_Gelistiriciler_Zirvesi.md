@@ -1,14 +1,3 @@
----
-FallbackID: 2257
-Title: "Microsoft Yazılım Geliştiriciler Zirvesi"
-date: "2008-11-24"
-EntryID: Microsoft_Yazilim_Gelistiriciler_Zirvesi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 5c8a0b18-4858-4f35-9170-205af93e7bba
----
 # Microsoft Yazılım Geliştiriciler Zirvesi
 ![Microsoft Yazılım Geliştiriciler
 Zirvesi](media/Microsoft_Yazilim_Gelistiriciler_Zirvesi/24112008_1.jpg)

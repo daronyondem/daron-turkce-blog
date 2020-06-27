@@ -1,13 +1,3 @@
----
-FallbackID: 3040
-Title: "Azure Functions ile QueueTrigger Kullanmak"
-date: "2016-12-5"
-EntryID: Azure_Functions_ile_QueueTrigger_Kullanmak
-IsActive: True
-Section: software
-MinutesSpent: 88
-Tags: Azure Functions
----
 # Azure Functions ile QueueTrigger Kullanmak
 Azure Functions'da kullanabileceğimiz Trigger yapılarından biri de QueueTrigger. Azure Storage hizmetinin bir parçası olan Queue Storage genelde Web ve Worker Role'lerin birbirinden bağımsız olarak ölçeklendirildiğinde birbirleri ile konuşabilmesi için kullanılıyor. Bu yazıdaki amacım tabi ki Queue Storage'ı anlatmak değil. O konuyu merak edenler için daha tavsiyem [daha önce yazdığım bu yazıyı](http://daron.yondem.com/software/post/Azure_Stroge_da_Queue_Servisi) okumaları ;)
 

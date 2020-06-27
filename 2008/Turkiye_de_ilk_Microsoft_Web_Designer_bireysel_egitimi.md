@@ -1,14 +1,3 @@
----
-FallbackID: 1969
-Title: "Türkiye'de ilk Microsoft Web Designer bireysel eğitimi"
-date: "2008-2-26"
-EntryID: Turkiye_de_ilk_Microsoft_Web_Designer_bireysel_egitimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler
-old.EntryID: dbde459d-28e1-4e8b-9751-1f0230904963
----
 # Türkiye'de ilk Microsoft Web Designer bireysel eğitimi
 Aylardır görüşmediğimiz CPLS (Certified Partner Learning Solutions)
 kalmadı. Herkese sektörde **Silverlight** ve **Expression Studio** ile

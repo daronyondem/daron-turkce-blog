@@ -1,13 +1,3 @@
----
-FallbackID: 2698
-Title: "Build Konferansı İkinci Gün Raporu"
-date: "2011-9-15"
-EntryID: Build_Konferansi_Ikinci_Gun_Raporu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 4.5, ASP.NET, ASP.NET 4.5, ASP.NET MVC 4, MVC, TFS, Visual Studio 11, WebSockets, Windows Server 8
----
 # Build Konferansı İkinci Gün Raporu
 İtiraf etmek gerekirse her konferansta olduğu gibi :) Build'in de ikinci
 günü ilk güne kıyasla sönük geçti. Sabah başlayan Keynote Windows Server

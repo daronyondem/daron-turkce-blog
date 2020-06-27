@@ -1,14 +1,3 @@
----
-FallbackID: 2486
-Title: "Windows Management Instrumentation ne ola ki?"
-date: "2010-1-26"
-EntryID: Windows_Management_Instrumentation_ne_ola_ki
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 3.5, Visual Basic 2008, WMI, Visual Basic .NET
-old.EntryID: 041c4ba5-3608-4891-8091-01e889f253e3
----
 # Windows Management Instrumentation ne ola ki?
 Bugün üzerinde uğraştığım bir projede X bir windows uygulamasının
 çalıştığı makinedeki tüm networking device'ları Enable etmesi veya tam

@@ -1,13 +1,3 @@
----
-FallbackID: 3030
-Title: "Connect 2016 Haberleri"
-date: "2016-11-16"
-EntryID: Connect_2016_Haberleri
-IsActive: True
-Section: software
-MinutesSpent: 55
-Tags: .NET Core, Azure App Insights, Azure Container Services, Docker, DocumentDB, Entity Framework Core, Visual Studio 2017, Visual Studio for Mac, Xamarin
----
 # Connect 2016 Haberleri
 Biraz önce Microsoft'un [Connect](https://connectevent.microsoft.com/) etkinliği başladı ve duyurular peşi sıra geliyor. Online olarak izleyemeyenler için duyuruları hızlıca özetlemenin yanı sıra aslında Connect etkinliğinin bir de Türkiye ayağını duyurmak istiyorum :) Karşınızda [**re-Connect Türkiye**](https://www.eventbrite.com/e/re-connect-2016-registration-29265713537) :) Etkinliğin ajandasını yarın duyuracağız, ama genel olarak yurt dışındaki Connect'in yerelleştirilmiş hali olarak düşünebilirsiniz. 
 

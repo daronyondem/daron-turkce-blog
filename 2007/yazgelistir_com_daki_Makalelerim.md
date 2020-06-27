@@ -1,14 +1,3 @@
----
-FallbackID: 1801
-Title: "yazgelistir.com'daki Makalelerim..."
-date: "2007-10-5"
-EntryID: yazgelistir_com_daki_Makalelerim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel
-old.EntryID: ced3143c-56ff-4302-9e92-0e578c963ea7
----
 # yazgelistir.com'daki Makalelerim...
 Blog sitemde yayınladığım makalelerin bazılarını **yazgelistir.com**
 üzerinden de sizlerle paylaşıyorum. Aslına bakarsanız sizlerle değil de

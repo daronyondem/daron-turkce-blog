@@ -1,14 +1,3 @@
----
-FallbackID: 1737
-Title: "Mayasoft Ders Hatırası"
-date: "2007-5-1"
-EntryID: Mayasoft_Ders_Hatirasi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler, Photoshop
-old.EntryID: 50cd5249-53c6-40e2-9b1e-404d470e2f52
----
 # Mayasoft Ders Hatırası
 Mayasoft Bilişim Akademisi'nde **30.04.2007** tarihli dersimizde
 **Photoshop CS3** ile beraber gelen **Auto-Align Layers** ve

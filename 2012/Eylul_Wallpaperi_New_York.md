@@ -1,13 +1,3 @@
----
-FallbackID: 2817
-Title: "Eylül Wallpaper'ı New York'tan"
-date: "2012-9-6"
-EntryID: Eylul_Wallpaperi_New_York
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Wallpaper
----
 # Eylül Wallpaper'ı New York'tan
 Son iki-üç yıldır fotoğrafçılıkla da ilgilendiğimi eskiden beni
 facebook'tan takip edenler bilirler :) Bazı fotoğrafları oradan

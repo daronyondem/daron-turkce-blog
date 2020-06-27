@@ -1,14 +1,3 @@
----
-FallbackID: 1742
-Title: "Internet Explorer Sürümleri ve FireFox İçin Ayrı CSS Tanımlamarı Nasıl Yapılır?"
-date: "2007-5-10"
-EntryID: IE_Surumleri_ve_FireFox_Icin_Ayri_CSS_Tanimlamari_Nasil_Yapilir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: CSS, HTML, JavaScript
-old.EntryID: c6faca2a-77b1-4a32-b0d8-7bec236f2c97
----
 # Internet Explorer Sürümleri ve FireFox İçin Ayrı CSS Tanımlamarı Nasıl Yapılır?
 Web tasarımları ile uğraşırken HTML ve CSS kodlarını düzenleme
 aşamasında en sıkıntılı sorunlardan biri farklı tarayıcılarda aynı

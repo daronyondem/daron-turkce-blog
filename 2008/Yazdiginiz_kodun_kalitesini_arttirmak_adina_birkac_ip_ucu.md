@@ -1,14 +1,3 @@
----
-FallbackID: 2285
-Title: "Yazdığınız kodun kalitesini arttırmak adına birkaç ip ucu."
-date: "2008-12-23"
-EntryID: Yazdiginiz_kodun_kalitesini_arttirmak_adina_birkac_ip_ucu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Basic 2008, Visual Basic .NET
-old.EntryID: 2b619b4b-b0c6-4808-a826-04b1707415ef
----
 # Yazdığınız kodun kalitesini arttırmak adına birkaç ip ucu.
 Kendi kodumuzu hepimize kendimiz yazarız ve çoğu zaman da kafamıza göre
 yazarız. Oysa bir ekip içerisinde çalışırken ortak bir dil kullanmak

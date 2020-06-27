@@ -1,13 +1,3 @@
----
-FallbackID: 2827
-Title: "Windows Phone 8 Lumia 920 Unboxing"
-date: "2012-11-4"
-EntryID: Windows_Phone_8_Lumia_920_Unboxing
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Unboxing, Windows Phone 8
----
 # Windows Phone 8 Lumia 920 Unboxing
 Türkiye'de herkesin heyecanla Windows Phone 8 cihazların piyasaya
 çıkmasını beklediğini biliyorum :) En azından benim etrafımdaki herkesin

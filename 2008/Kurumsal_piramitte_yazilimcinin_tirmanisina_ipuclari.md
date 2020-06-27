@@ -1,14 +1,3 @@
----
-FallbackID: 2179
-Title: "Kurumsal piramitte yazılımcının tırmanışına ipuçları"
-date: "2008-9-8"
-EntryID: Kurumsal_piramitte_yazilimcinin_tirmanisina_ipuclari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 12a1a086-9f1c-42bb-990e-4ffeddcbed4b
----
 # Kurumsal piramitte yazılımcının tırmanışına ipuçları
 Geçenlerde bir mail aldım. Maili yazan arkadaş bir yazılım şirketinde
 programcı olarak görev yaptığını fakat şirket içerisinde yükselemediğini

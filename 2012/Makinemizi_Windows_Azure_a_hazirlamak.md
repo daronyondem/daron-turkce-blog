@@ -1,13 +1,3 @@
----
-FallbackID: 2758
-Title: "Makinemizi Windows Azure'a hazırlamak"
-date: "2012-3-27"
-EntryID: Makinemizi_Windows_Azure_a_hazirlamak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Makinemizi Windows Azure'a hazırlamak
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

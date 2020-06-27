@@ -1,12 +1,3 @@
----
-Title: "Samsun 19 Mayıs Üniversitesi Kariyer Günleri"
-EntryID: Samsun-Kariyer-Gunleri
-date: "2017-4-22"
-IsActive: True
-Section: software
-MinutesSpent: 16
-Tags: Seminer
----
 # Samsun 19 Mayıs Üniversitesi Kariyer Günleri
 Dün Samsun'da **19 Mayıs Üniversitesi**'nde kariyer günlerindeydim. Her zamanki **Boş Durma Boşa Çalış** oturumumu sundum :) 
 

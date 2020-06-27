@@ -1,14 +1,3 @@
----
-FallbackID: 2302
-Title: "Silverlight 2.0 içerisinde maskeleme (clipping)"
-date: "2009-1-9"
-EntryID: Silverlight_2_0_icerisinde_maskeleme_clipping
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: ebe6be30-a49c-46a7-ae3a-404c605a37ca
----
 # Silverlight 2.0 içerisinde maskeleme (clipping)
 Bu yazımızda Silverlight 2.0 içerisinde maskeleme (clip) işlemlerine göz
 atacağız. İlk olarak basit bir maskeleme işleminin XAML içerisinde nasıl

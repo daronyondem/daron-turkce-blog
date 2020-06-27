@@ -1,14 +1,3 @@
----
-FallbackID: 1810
-Title: "ASP.NET ile ZIP ve unZIP Meselesi"
-date: "2007-10-11"
-EntryID: ASP_NET_ile_ZIP_ve_unZIP_Meselesi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET
-old.EntryID: 5721fb5e-6af6-4f38-a18c-f5a4ac782309
----
 # ASP.NET ile ZIP ve unZIP Meselesi
 İster web siteleri programlarken ister windows programlarında çoğu zaman
 bir ZIP dosyası oluşturmaya ihtiyaç duymuşsunuzdur. Ben genelde ZIP

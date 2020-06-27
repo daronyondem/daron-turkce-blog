@@ -1,13 +1,3 @@
----
-FallbackID: 2782
-Title: "Azure Storage Table Services"
-date: "2012-8-7"
-EntryID: Azure_Storage_Table_Services
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Azure Storage Table Services
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

@@ -1,13 +1,3 @@
----
-FallbackID: 2801
-Title: "MVP Summit 2012"
-date: "2012-3-6"
-EntryID: MVP_Summit_2012
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MVP Summit
----
 # MVP Summit 2012
 Bir MVP Summit daha geldi geçti :) Her yıl tüm MVP'lerin davetli olduğu
 MVP Summit'in bu sene 2012 sürümü de :) geçen hafta gerçekleşti. Bu

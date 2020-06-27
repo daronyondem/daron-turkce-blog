@@ -1,13 +1,3 @@
----
-FallbackID: 3041
-Title: "Azure Functions ve TimerTrigger Kullanımı"
-date: "2016-12-6"
-EntryID: Azure_Functions_ve_TimerTrigger_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 65
-Tags: Azure Functions
----
 # Azure Functions ve TimerTrigger Kullanımı
 Belirli zamanlarda veya aralıkla iş yapmak hep problem olmuştur :) Hem istediğim zamanda ve aralıkta çalışmasından emin olmak isteriz hem de altyapıyı ölçeklendirdiğimizde söz konusu işin yine bir defa çalışmış olmasını isteriz :) Hayat zor :) Şaka bir yana, tüm bunlar için Azure Functions içerisinde kullanımı süper basit bir yapı var, adı da **timerTrigger**. Gelin hızlıca detaylarına göz atalım.
 

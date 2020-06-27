@@ -1,13 +1,3 @@
----
-FallbackID: 2794
-Title: "MSP Kick-Off 2012"
-date: "2012-2-13"
-EntryID: MSP_Kick_Off_2012
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML, IE 10, Windows 8, Windows Azure
----
 # MSP Kick-Off 2012
 Tekrar bir MSP Kick-Off ve tekrar ben Azure anlattım :) Bir önceki MSP
 Kick-Off'u daha gün gibi hatırlıyor olmam zamanın çok hızlı geçtiğinin

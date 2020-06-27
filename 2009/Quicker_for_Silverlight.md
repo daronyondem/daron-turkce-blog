@@ -1,14 +1,3 @@
----
-FallbackID: 2309
-Title: "Quicker for Silverlight"
-date: "2009-1-17"
-EntryID: Quicker_for_Silverlight
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 1db38e95-bd3f-4c4e-a09f-39f2229e93cf
----
 # Quicker for Silverlight
 Bugün sizlere SoThink'ten "**Quicker for Silverlight**" ürününden
 bahsedeceğim. SoThink firması hali hazırda neredeyse tüm Flash

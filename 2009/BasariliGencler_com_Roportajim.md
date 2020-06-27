@@ -1,14 +1,3 @@
----
-FallbackID: 2312
-Title: "BasariliGencler.com Röportajım"
-date: "2009-1-22"
-EntryID: BasariliGencler_com_Roportajim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 08e95464-5cea-44d1-8060-3fb7c7e15017
----
 # BasariliGencler.com Röportajım
 Bundan iki hafta önce sevgili
 [basariligencler.com](http://www.basariligencler.com/ineta-turkiye-baskani-daron-yondem-meslegimize-nankor-demek-nankorluk-olur.html)

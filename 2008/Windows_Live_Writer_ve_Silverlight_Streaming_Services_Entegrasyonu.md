@@ -1,14 +1,3 @@
----
-FallbackID: 1908
-Title: "Windows Live Writer ve Silverlight Streaming Services Entegrasyonu"
-date: "2008-1-5"
-EntryID: Windows_Live_Writer_ve_Silverlight_Streaming_Services_Entegrasyonu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: e0cef84a-57c0-4f94-91c8-840e56ee69a7
----
 # Windows Live Writer ve Silverlight Streaming Services Entegrasyonu
 Blog sistemi olarak **Windows Live Spaces'**ı kullanıyorsanız
 beraberinde **Windows Live Writer**'ı da kullandığınızdan eminim. Tabi

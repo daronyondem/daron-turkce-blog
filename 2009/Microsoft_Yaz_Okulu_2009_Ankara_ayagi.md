@@ -1,14 +1,3 @@
----
-FallbackID: 2383
-Title: "Microsoft Yaz Okulu 2009 - Ankara ayağı..."
-date: "2009-8-1"
-EntryID: Microsoft_Yaz_Okulu_2009_Ankara_ayagi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: aaaca714-46ca-43a6-a7f8-8daa503f80bb
----
 # Microsoft Yaz Okulu 2009 - Ankara ayağı...
 Son 3 gündür Ankara'dayım. Peki neden? Microsoft Yaz Okulu başladı da
 ondan :) Üç gündür yaz okulundaki arkadaşlarla Silverlight 3'ün altından

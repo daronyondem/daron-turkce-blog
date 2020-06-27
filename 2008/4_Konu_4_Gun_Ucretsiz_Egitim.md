@@ -1,14 +1,3 @@
----
-FallbackID: 1993
-Title: "4 Konu 4 Gün Ücretsiz Eğitim"
-date: "2008-3-17"
-EntryID: 4_Konu_4_Gun_Ucretsiz_Egitim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET 3.5, Expression Blend, LINQ, Silverlight, WPF, ASP.NET
-old.EntryID: bfb7add2-9b32-462a-b833-99047fd31ffc
----
 # 4 Konu 4 Gün Ücretsiz Eğitim
 Ücretsiz eğitim konseptinde düzenlediğimiz INETA ve NETRON
 sponsorluğundaki Silverlight 1.0 eğitimine gelen ve gelmeye devam eden

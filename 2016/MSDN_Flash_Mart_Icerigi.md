@@ -1,13 +1,3 @@
----
-FallbackID: 2998
-Title: "MSDN Flash Mart İçeriği"
-date: "2016-2-17"
-EntryID: MSDN_Flash_Mart_Icerigi
-IsActive: True
-Section: software
-MinutesSpent: 16
-Tags: Azure Storage Services, MSDN Flash, Node.JS, Visual Studio Code, Windows Azure
----
 # MSDN Flash Mart İçeriği
 Eğer **Türkçe MSDN Flash** üyesiyseniz son birkaç aydır Microsoft'tan sevgili [İbrahim Kıvanç](http://blogs.msdn.com/b/ikivanc/) ile beraber MSDN Flash'ları beraber yazdığımızın farkına varmış olabilirsiniz. Bu hafta Mart ayı MSDN Flash sayısının içeriğini hazırlarken ¨*Neden bunu bloga atmıyorum?*¨ diye düşündüm bir an :) İşte karşınızda MSDN Flash Mart sayısı için hazırladığım içerik. Blogu takip etmenin avantajı olarak bu içeriğe bir ay önceden ulaşmış oluyorsunuz :) Umarım işinize yarar.
 

@@ -1,11 +1,3 @@
----
-Title: "11. Ulusal BÖTE Öğrenci Kurultayı Azure Sunumum"
-date: "2017-4-30"
-IsActive: True
-Section: software
-MinutesSpent: 9
-Tags: Seminer, Azure
----
 # 11. Ulusal BÖTE Öğrenci Kurultayı Azure Sunumum
 Dün **11. Ulusal BÖTE Öğrenci Kurultayı** için Yeditepe Üniversitesi'ndeydim. Artık klasikleşen **Cloud 101** oturumumu sundum. Bu sefer farklı bir şey yaptık :) sunum cihazından kaynaklanan problemler yüzünden oturumu neredeyse hiç sunum kullanmadan yaptım :) Neyse, haksızlık olmasın, oturumun yarısında cihazı ayağa kaldırmayı başardı arkadaşlar. 
 

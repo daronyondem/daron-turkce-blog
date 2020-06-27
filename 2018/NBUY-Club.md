@@ -1,10 +1,3 @@
----
-Title: "NBUY Gelecegine Yön Ver Etkinligindeydim"
-date: "2018-2-10"
-IsActive: True
-MinutesSpent: 12
-Tags: Seminer, Kisisel Gelisim
----
 # NBUY Gelecegine Yön Ver Etkinligindeydim
 
 Dün Microsoft Türkiye ofisinde [NBUY Club](http://nbuy.club/)'in **Gelecege Yön Ver Etkinligi**'ndeydim. Sagolsun, sevgili MVP [Erdem Avni Selçuk](http://www.eravse.com/) bundan birkaç hafta önce bana etkinlikten bahsedip gençlere anlatmak isteyecegim birseyler olup olmadigini sorunca tabi ki aklima benim "Bos Durma Bosa Çalis" oturumu geldi :) Her ne kadar genelde bu oturumu tek basina sunmayi tercih etmesem de, bu sefer Erdem'i kiramadim. Güzel de oldu. Eglenceli bir gün geçirdim. LinkedIn ve Twitter'daki paylasimlara bakinca katilan arkadaslara da ufak bir faydam dokunmus sanirim :) 

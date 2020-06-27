@@ -1,13 +1,3 @@
----
-FallbackID: 2840
-Title: "Service Bus Relay Services"
-date: "2013-4-4"
-EntryID: Service_Bus_Relay_Services
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Service Bus Relay Services
 Diyelim ki şirket içerisinde bir uygulama var ve bu uygulamanın açtığı
 bazı WCF servisleri mevcut. Uygulamalarınızdan biri de Azure'da duruyor.

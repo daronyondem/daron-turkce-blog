@@ -1,13 +1,3 @@
----
-FallbackID: 3017
-Title: "Edirne'de Azure Anlattım"
-date: "2016-4-23"
-EntryID: Edirne_de_Azure_Anlattim
-IsActive: True
-Section: software
-MinutesSpent: 6
-Tags: Seminer, Windows Azure
----
 # Edirne'de Azure Anlattım
 Dün yine Edirne'deydim :) Bu sefer Azure anlattım, hatta geçen sefere kıyasla Pizza yerine ciğer yemeyi de başardım :) 
 

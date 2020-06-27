@@ -1,14 +1,3 @@
----
-FallbackID: 1868
-Title: "Expression Blend SP1"
-date: "2007-11-30"
-EntryID: Expression_Blend_SP1
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend
-old.EntryID: 19a7bec5-03e2-4f29-ba03-3a7d4b41a2ef
----
 # Expression Blend SP1
 Sonunda **Expression Blend** için de bir **Service Pack** çıktı :) Daha
 önceki [bir

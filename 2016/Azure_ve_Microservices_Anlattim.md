@@ -1,13 +1,3 @@
----
-FallbackID: 3032
-Title: "Azure ve Microservices Anlattım"
-date: "2016-11-18"
-EntryID: Azure_ve_Microservices_Anlattim
-IsActive: True
-Section: software
-MinutesSpent: 13
-Tags: Azure Service Fabric
----
 # Azure ve Microservices Anlattım
 Dün Microsoft'un Windows Server 2016 başlıklı bir **DevOps** etkinliği vardı. Etkinliğin yazılımcı tarafında bana da bir oturum verdiler :) Ben de **Azure ve Microservices**, yani **Service Fabric** anlattım. Aslında Service Fabric konusunda bol bol bloga yazı yazasım da var :) Bakalım ne zaman gelecek o yazılar. 
 

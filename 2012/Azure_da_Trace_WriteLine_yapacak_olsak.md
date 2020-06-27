@@ -1,13 +1,3 @@
----
-FallbackID: 2818
-Title: "Azure'da Trace.WriteLine yapacak olsak?"
-date: "2012-9-25"
-EntryID: Azure_da_Trace_WriteLine_yapacak_olsak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure'da Trace.WriteLine yapacak olsak?
 Development süreçlerinizde her ne kadar Azure SDK ile beraber gelen
 emülatörü kullanacak olsanız da maalesef bazıt testleri doğrudan Azure

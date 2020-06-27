@@ -1,14 +1,3 @@
----
-FallbackID: 2169
-Title: "Internet Explorer 8.0 Beta 2 çıktı!"
-date: "2008-8-30"
-EntryID: Internet_Explorer_8_0_Beta_2_cikti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Internet Explorer
-old.EntryID: 3be05226-99f9-445f-ad32-e62133bae16f
----
 # Internet Explorer 8.0 Beta 2 çıktı!
 Dün Internet Explorer 8.0'ın **Beta 2**'si duyuruldu. Ben de çok kısa
 zaman içerisinde bu konuda detaylı yazılar yazacağım. Bu sabah da Swiss

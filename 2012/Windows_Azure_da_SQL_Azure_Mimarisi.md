@@ -1,13 +1,3 @@
----
-FallbackID: 2772
-Title: "Windows Azure'da SQL Azure Mimarisi"
-date: "2012-5-29"
-EntryID: Windows_Azure_da_SQL_Azure_Mimarisi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: SQL Azure, Windows Azure
----
 # Windows Azure'da SQL Azure Mimarisi
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

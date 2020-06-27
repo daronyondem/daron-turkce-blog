@@ -1,14 +1,3 @@
----
-FallbackID: 2097
-Title: "Silverlight 2.0 Beta 2 içerisinde dinamik resim yüklemek"
-date: "2008-6-19"
-EntryID: Silverlight_2_0_Beta_2_icerisinde_dinamik_resim_yuklemek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 144b0ef6-17fa-49c5-b510-5df056dfa25b
----
 # Silverlight 2.0 Beta 2 içerisinde dinamik resim yüklemek
 **Silverlight 2.0 Beta 2** ile beraber gelen değişikliklerden biri de
 dinamik olarak Image nesneleri yaratmak ve bu nesnelere farklı resimler

@@ -1,13 +1,3 @@
----
-FallbackID: 2917
-Title: "Koşu, Balık, Ayvalık 16K"
-date: "2014-9-22"
-EntryID: Kosu_Balik_Ayvalik_16K
-IsActive: True
-Section: fitness
-MinutesSpent: 0
-Tags: Koşu, Spor
----
 # Koşu, Balık, Ayvalık 16K
 Bu hafta sonunu güzel bir patika koşusu için Cunda'da geçirdim. [Team
 Kronos'un](http://cunda.teamkronos.com/) "**Koşu, balık, Ayvalık**"

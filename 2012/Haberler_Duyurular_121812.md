@@ -1,13 +1,3 @@
----
-FallbackID: 2833
-Title: "Haberler... Duyurular...."
-date: "2012-12-18"
-EntryID: Haberler_Duyurular_121812
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Podcast, Windows 8, Windows Azure, Windows Phone 8
----
 # Haberler... Duyurular....
 Çoğunuz biliyorsunuz, ufak tefek haberleri bloga yazmıyorum
 genelde.[Twitter](http://www.twitter.com/daronyondem)

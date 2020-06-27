@@ -1,14 +1,3 @@
----
-FallbackID: 2357
-Title: "Silverlight 3.0 Beta içerisinde WriteableBitmap kullanımı."
-date: "2009-4-25"
-EntryID: Silverlight_3_0_Beta_icerisinde_WriteableBitmap_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 8b42751d-bd28-4dde-9d78-5bae5933c73b
----
 # Silverlight 3.0 Beta içerisinde WriteableBitmap kullanımı.
 Silverlight içerisinde tamamen kod ile çizim yapmanın ötesinde bazı
 durumlarda sıfırdan bir Bitmap oluşturmak da isteyebilirsiniz. Bazı

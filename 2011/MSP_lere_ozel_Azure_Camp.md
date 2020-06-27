@@ -1,13 +1,3 @@
----
-FallbackID: 2741
-Title: "MSP'lere özel Azure Camp!"
-date: "2011-12-9"
-EntryID: MSP_lere_ozel_Azure_Camp
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # MSP'lere özel Azure Camp!
 Bugün Microsoft tarafında "Microsoft Student Partner" programına özel
 bir **Azure Camp** düzenlendi. Konuşmacı olarak da tam gün öğrencilerin

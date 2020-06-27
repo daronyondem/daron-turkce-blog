@@ -1,13 +1,3 @@
----
-FallbackID: 3039
-Title: "Azure Functions ve WebJobs Karşılaştırması"
-date: "2016-12-4"
-EntryID: Azure_Functions_ve_WebJobs_Karsilastirmasi
-IsActive: True
-Section: software
-MinutesSpent: 22
-Tags: Azure Functions
----
 # Azure Functions ve WebJobs Karşılaştırması
 Son zamanlarda Azure Functions yazıları yazmaya başlayınca özellikle WebJobs ile arasındaki benzerlikleri dikkat çekmiyor değil. Durum böyle olunca detaylı bir karşılaştırma yapalım istedim.
 

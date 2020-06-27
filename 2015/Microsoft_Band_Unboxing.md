@@ -1,13 +1,3 @@
----
-FallbackID: 2964
-Title: "Microsoft Band Unboxing"
-date: "2015-3-27"
-EntryID: Microsoft_Band_Unboxing
-IsActive: True
-Section: software
-MinutesSpent: 4
-Tags: Screencast
----
 # Microsoft Band Unboxing
 Fitness band ve SmartWatch döneminin tam göbeğinde Microsoft tarafından da hybrid bir cihaz duyurulmuştu. Geçen Kasım'da duyurulan cihazı maalesef yeni edinebildim :) Elime geçtiği gibi de kutusunu açarken sizler için bir video çektim. Hemen aşağıda paylaşıyorum;
 

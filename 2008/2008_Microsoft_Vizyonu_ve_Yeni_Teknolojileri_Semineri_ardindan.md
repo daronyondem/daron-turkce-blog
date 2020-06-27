@@ -1,14 +1,3 @@
----
-FallbackID: 1918
-Title: "2008 Microsoft Vizyonu ve Yeni Teknolojileri Semineri ardından."
-date: "2008-1-13"
-EntryID: 2008_Microsoft_Vizyonu_ve_Yeni_Teknolojileri_Semineri_ardindan
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, Silverlight, WPF
-old.EntryID: 07ea4566-19ea-42bb-8cba-3bb6919847ef
----
 # 2008 Microsoft Vizyonu ve Yeni Teknolojileri Semineri ardından.
 Dün sevgili tasarım dehamız [Ercan
 Altuğ](http://ercanaltug.blogspot.com/) ve dostum [Eralp

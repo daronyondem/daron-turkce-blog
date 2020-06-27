@@ -1,14 +1,3 @@
----
-FallbackID: 2537
-Title: "PathListBox ile birden çok Path kullanımı."
-date: "2010-9-7"
-EntryID: PathListBox_ile_birden_cok_Path_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 00a0e3c0-972c-4489-8c8b-6b728e3565d1
----
 # PathListBox ile birden çok Path kullanımı.
 PathListBox maceramıza bu makalemizde de devam edeceğiz. Hatırlarsanız
 dün

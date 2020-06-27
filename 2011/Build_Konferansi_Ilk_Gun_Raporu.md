@@ -1,13 +1,3 @@
----
-FallbackID: 2697
-Title: "Build Konferansı İlk Gün Raporu (Windows 8 burada!":))
-date: "2011-9-14"
-EntryID: Build_Konferansi_Ilk_Gun_Raporu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, HTML5, IE 10, Internet Explorer, Silverlight 5, Windows 8
----
 # Build Konferansı İlk Gün Raporu (Windows 8 burada!
 Şu an saat gece yarısı 01:40 :) Build'in ilk gününden yeni otele
 varabildim ve uyku gözümden akarken :) yarın sabah 6.30'da kalkacakken

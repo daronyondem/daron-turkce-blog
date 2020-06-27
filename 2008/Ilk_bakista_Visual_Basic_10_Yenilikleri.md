@@ -1,14 +1,3 @@
----
-FallbackID: 2232
-Title: "İlk bakışta Visual Basic 10 Yenilikleri!"
-date: "2008-10-31"
-EntryID: Ilk_bakista_Visual_Basic_10_Yenilikleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Basic 2010, Visual Basic .NET
-old.EntryID: e978466e-e72e-4f66-b539-15012e528248
----
 # İlk bakışta Visual Basic 10 Yenilikleri!
 **Visual Studio 2010** ve **.NET Framework 4.0 CTP**'lerinin
 yayınlandığı bugünlerde iki yol sonra karşımıza çıkacak yazılım

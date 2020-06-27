@@ -1,14 +1,3 @@
----
-FallbackID: 2115
-Title: "Silverlight Spy Karşınızda":)
-date: "2008-7-7"
-EntryID: Silverlight_Spy_Karsinizda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 0400ea75-ce2e-4437-b199-f0b1941dc90a
----
 # Silverlight Spy Karşınızda
 **Silverlight 2 Beta 2** uygulamalarınızı test ederken bazen hangi
 nesnenin nerede olduğunu standart web tarayıcılarındaki DOM Explorer

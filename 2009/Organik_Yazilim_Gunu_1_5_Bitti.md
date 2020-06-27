@@ -1,14 +1,3 @@
----
-FallbackID: 2439
-Title: "Organik Yazılım Günü 1.5 Bitti":)
-date: "2009-11-1"
-EntryID: Organik_Yazilim_Gunu_1_5_Bitti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer
-old.EntryID: 8b2d8528-e68d-4427-b010-5201e3293ea6
----
 # Organik Yazılım Günü 1.5 Bitti
 Organik Yazılım günümüzü sonunda hakkını vererek bugün gerçekleştirdik
 :) Herhangi bir elektrik vs kesintisi olmadan yağmura karşın güzel bir

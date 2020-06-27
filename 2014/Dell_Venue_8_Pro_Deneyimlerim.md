@@ -1,13 +1,3 @@
----
-FallbackID: 2909
-Title: "Dell Venue 8 Pro Deneyimlerim"
-date: "2014-7-22"
-EntryID: Dell_Venue_8_Pro_Deneyimlerim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Gadget, Windows 8
----
 # Dell Venue 8 Pro Deneyimlerim
 Aslında epey oluyor ben Dell Venu 8 Pro'yu satın alalı. Sanırım bir
 seneyi bulmuştur. Fakat tabi ki sizin de tahmin edebileceğiniz üzere 8"

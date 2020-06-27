@@ -1,14 +1,3 @@
----
-FallbackID: 2024
-Title: "Silverlight 2.0 ve JavaScript kardeşliği"
-date: "2008-4-14"
-EntryID: Silverlight_2_ve_JavaScript_kardesligi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: a1426eb0-7120-4a66-9d5c-de5027fd59ed
----
 # Silverlight 2.0 ve JavaScript kardeşliği
 Silverlight 2.0 ile beraber istemci tarafında VB.NET veya C\#
 kullanabileceğimizi artık biliyoruz. Durum böyle olunca söz konusu .NET

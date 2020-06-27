@@ -1,14 +1,3 @@
----
-FallbackID: 1912
-Title: "Visual Studio 2008 ile gelen hoş bir yenilik."
-date: "2008-1-8"
-EntryID: Visual_Studio_2008_ile_gelen_hos_bir_yenilik
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Studio 2008
-old.EntryID: cac3b33a-789c-4830-9e60-7804f1cf9213
----
 # Visual Studio 2008 ile gelen hoş bir yenilik.
 Visual Studio ile **Intellisense** desteği belki de en vaz geçilmez
 özelliklerden biri. Fakat bazı durumlarda vaz geçmek durumunda

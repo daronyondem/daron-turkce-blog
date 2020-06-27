@@ -1,13 +1,3 @@
----
-FallbackID: 2836
-Title: "Açılmayan Lumia920'yi tekrar hayata döndürmek"
-date: "2013-2-9"
-EntryID: Acilmayan_Lumia920yi_tekrar_hayata_dondurmek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 8
----
 # Açılmayan Lumia920'yi tekrar hayata döndürmek
 Bundan bir süre önce Lumia920'mim saçmalamaya başlamıştı ve bende çözüm
 arayışı içerisinde telefona bir reset atmıştım. Reset atmamla beraber

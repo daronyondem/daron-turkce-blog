@@ -1,14 +1,3 @@
----
-FallbackID: 2505
-Title: "Silverlight 4 RC Değişiklikleri / Yenilikleri Seminer Video Kaydı"
-date: "2010-4-4"
-EntryID: Silverlight_4_RC_Degisiklikleri_ve_Yenilikleri_Seminer_Video_Kaydi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: a9ec06f1-711e-40c8-9e6e-239da81a19af
----
 # Silverlight 4 RC Değişiklikleri / Yenilikleri Seminer Video Kaydı
 Geçenlerde hatırlayacaksınız
 [DeveloperMania](http://daron.yondem.com/tr/post/3ef92218-0a23-4367-a182-1d3626479ba5)'nın

@@ -1,14 +1,3 @@
----
-FallbackID: 2371
-Title: "Silverlight 3.0 içerisinde 3D Projection."
-date: "2009-6-14"
-EntryID: Silverlight_3_0_icerisinde_3D_Projection
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 9392035b-c1c2-4149-b4f7-066fce25dd6b
----
 # Silverlight 3.0 içerisinde 3D Projection.
 Silverlight 3.0 ile beraber gelen en ilgi çekici özelliklerden biri 3D
 desteği. Bu makalemizde Silverlight ile beraber gelen 3D özelliklerine

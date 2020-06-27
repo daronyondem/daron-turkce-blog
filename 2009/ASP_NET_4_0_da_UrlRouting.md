@@ -1,14 +1,3 @@
----
-FallbackID: 2413
-Title: "ASP.NET 4.0'da UrlRouting"
-date: "2009-9-16"
-EntryID: ASP_NET_4_0_da_UrlRouting
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 4.0, ASP.NET
-old.EntryID: e6f2b81a-defc-4255-ba19-d0071526aadf
----
 # ASP.NET 4.0'da UrlRouting
 URLReWrite, URLMapping veya URLRouting adını ne koyarsanız koyun bugün
 web projelerinin olmazsa olmazlarından biri de web siteleri içi

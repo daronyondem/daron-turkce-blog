@@ -1,14 +1,3 @@
----
-FallbackID: 2158
-Title: "WPF içerisinde "Splash Screen" gösterimi."
-date: "2008-8-19"
-EntryID: WPF_icerisinde_Splash_Screen_gosterimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WPF
-old.EntryID: 42aa421c-ca60-4e35-b1e0-4b6920e678b9
----
 # WPF içerisinde Splash Screen gösterimi.
 WPF uygulamalarında "Splash Screen" hazırlama ile ilgili sıkıntılara
 yönelik elle hazırlanmış taktikler ve farklı çözümler vardı. .NET

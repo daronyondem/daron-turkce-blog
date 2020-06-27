@@ -1,13 +1,3 @@
----
-FallbackID: 2924
-Title: "Azure Web Sites Deployment Slots Nedir?"
-date: "2014-11-19"
-EntryID: Azure_Web_Sites_Deployment_Slots_Nedir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure Web Sites Deployment Slots Nedir?
 Daha önceki yazılarımda Cloud Services için geçerli olan [VIP
 SWAP](http://daron.yondem.com/software/post/Azure_da_Service_Upgrade_SDK2_2)'ten

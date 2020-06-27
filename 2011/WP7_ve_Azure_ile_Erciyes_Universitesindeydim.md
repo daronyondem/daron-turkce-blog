@@ -1,13 +1,3 @@
----
-FallbackID: 2718
-Title: "WP7 ve Azure ile Erciyes Üniversitesin'deydim"
-date: "2011-10-28"
-EntryID: WP7_ve_Azure_ile_Erciyes_Universitesindeydim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure, Windows Phone, Windows Phone 7.5
----
 # WP7 ve Azure ile Erciyes Üniversitesin'deydim
 Vay be :) Uzun süre olmuş üniversitelere gitmeyeli... Bu sene seminer
 kapsamında açılışı **Kayseri, Erciyes Üniversitesi** ile yaptım :)

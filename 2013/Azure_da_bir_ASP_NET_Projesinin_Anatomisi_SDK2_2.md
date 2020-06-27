@@ -1,13 +1,3 @@
----
-FallbackID: 2873
-Title: "Azure'da bir ASP.NET Projesinin Anatomisi (SDK2.2)"
-date: "2013-11-28"
-EntryID: Azure_da_bir_ASP_NET_Projesinin_Anatomisi_SDK2_2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure'da bir ASP.NET Projesinin Anatomisi (SDK2.2)
 Visual Studio'ya açıp ilk Azure projenizi yaratmaya başladığınız anda
 karşınıza hemen bir seçim ekranı gelecektir. Bu seçim ekranı epey

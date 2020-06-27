@@ -1,13 +1,3 @@
----
-FallbackID: 3027
-Title: "MSDN Flash Eylül 2016 İçeriği"
-date: "2016-9-22"
-EntryID: MSDN_Flash_Eylul_2016_Icerigi
-IsActive: True
-Section: software
-MinutesSpent: 94
-Tags: Azure DNS, Azure Service Fabric, TypeScript, Windows Azure
----
 # MSDN Flash Eylül 2016 İçeriği
 Geçen gün hepimiz adına göğüs kapartan bir haber aldım. Bulunduğumuz bölgede hayatına devam edebilen tek MSDN bülteni olarak MSDN Türkiye olarak biz kalmışız. İtiraf etmek gerekirse her ay bülten içeriğini hazırlarken aklımdaki “kaç kişi okuyor acaba” sorularının cevabını bu şekilde almak beni çok sevindirdi. Hepinize teşekkürler. 
 

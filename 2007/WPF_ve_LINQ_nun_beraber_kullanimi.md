@@ -1,14 +1,3 @@
----
-FallbackID: 1904
-Title: "WPF ve LINQ'nun beraber kullanımı"
-date: "2007-12-31"
-EntryID: WPF_ve_LINQ_nun_beraber_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, LINQ, WPF
-old.EntryID: 37e6d70c-61b3-4275-b5b9-5ed525b28375
----
 # WPF ve LINQ'nun beraber kullanımı
 Dün mail ile **WPF ve LINQ**'nun beraber kullanılıp kullanılamayacağı
 ile ilgili güzel bir soru geldi. Ben bu soruyu hemen ufak bir blog

@@ -1,13 +1,3 @@
----
-FallbackID: 2916
-Title: "MudRace 5K 2014 Çamur Koşusu"
-date: "2014-9-15"
-EntryID: MudRace_5K_2014_Camur_Kosusu
-IsActive: True
-Section: fitness
-MinutesSpent: 0
-Tags: Koşu, Spor
----
 # MudRace 5K 2014 Çamur Koşusu
 Geçen hafta sonu, 13 Eylül Cumartesi günü Türkiye'deki tek çamur yarışı
 olan BataÇıka'nın günüydü. Bataçıka benim tüm yıl boyunca heyecanla

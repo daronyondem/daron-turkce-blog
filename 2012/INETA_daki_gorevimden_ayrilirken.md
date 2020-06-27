@@ -1,13 +1,3 @@
----
-FallbackID: 2834
-Title: "INETA'daki görevimden ayrılırken..."
-date: "2012-12-25"
-EntryID: INETA_daki_gorevimden_ayrilirken
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # INETA'daki görevimden ayrılırken...
 Yeni yıl yolda :) ve yine değişikliklerin zamanı geldi. Geçen sene INETA
 Türkiye’deki [görevimi

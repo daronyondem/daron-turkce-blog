@@ -1,13 +1,3 @@
----
-FallbackID: 2888
-Title: "Azure'a Remote Desktop (SDK2.2)"
-date: "2014-3-3"
-EntryID: Azure_Remote_Desktop_SDK2_2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure'a Remote Desktop (SDK2.2)
 İlk zamanlarda Azure'a Remote Desktop ile bağlanmak çok daha meşakkatli
 bir işken artık yeni SDK'ler ile beraber çok basit bir hale geldi. Peki

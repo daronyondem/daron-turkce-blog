@@ -1,14 +1,3 @@
----
-FallbackID: 2412
-Title: "ASP.NET 4.0'da full ViewState kontrolü!"
-date: "2009-9-15"
-EntryID: ASP_NET_4_0_da_full_ViewState_kontrolu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 4.0, ASP.NET
-old.EntryID: 8ae727f9-12e9-4e50-8613-a0507c2f393c
----
 # ASP.NET 4.0'da full ViewState kontrolü!
 ASP.NET'teki performans optimizasyonu açısından en sevmediğimiz fakat
 yine işimizi kolaylaştırdığı için kullanmak durumunda kaldığımız bir

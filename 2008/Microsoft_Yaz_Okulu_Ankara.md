@@ -1,14 +1,3 @@
----
-FallbackID: 2153
-Title: "Microsoft Yaz Okulu, Ankara"
-date: "2008-8-14"
-EntryID: Microsoft_Yaz_Okulu_Ankara
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0, WPF
-old.EntryID: 2647c5ca-d3e3-445f-ae4d-078257e4c084
----
 # Microsoft Yaz Okulu, Ankara
 Son iki gündür Ankara'da **Microsoft Yaz Okulu**'nda **Silverlight** ve
 **WPF** konularını anlattım. Ankara, İstanbul ve İzmir'de yapılan yaz

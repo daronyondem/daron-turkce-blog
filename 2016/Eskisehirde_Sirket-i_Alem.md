@@ -1,13 +1,3 @@
----
-FallbackID: 3004
-Title: "Eskişehir'de Şirket-i Alem"
-date: "2016-3-14"
-EntryID: Eskisehirde_Sirket-i_Alem
-IsActive: True
-Section: software
-MinutesSpent: 4
-Tags: Seminer
----
 # Eskişehir'de Şirket-i Alem
 Dün Eskişehir'de Osmangazi Üniversitesi'ndeydim. IEEE'nin "2 Günde Şirketi Alem" etkinliğinde konuştum. Yolculuğun verdiği yorgunluk haricinde süper eğlenceli bir gündü. Özellikle VLOG'u videobomblayan arkadaşları unutmayacağım. Tabi bir de benden esinlenerek 27KG vermiş olan kardeşim var. Merak edenler aşağıdan izleyebilir.
 

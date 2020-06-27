@@ -1,13 +1,3 @@
----
-FallbackID: 2825
-Title: "Build 2012 Konferansı 1. Günü Giik.FM Podcast'i ve detaylar"
-date: "2012-10-30"
-EntryID: Build_2012_Konferansi_1_Gunu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Podcast, Windows 8, Windows Phone, Windows Phone 8, WinRT
----
 # Build 2012 Konferansı 1. Günü Giik.FM Podcast'i ve detaylar
 Bugünlerde Build konferansı için Microsoft kampüsünde, Seattle'dayım.
 Build konferansını [geçen

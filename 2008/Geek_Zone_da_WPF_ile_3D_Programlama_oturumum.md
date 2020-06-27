@@ -1,14 +1,3 @@
----
-FallbackID: 2212
-Title: "Geek Zone'da WPF ile 3D Programlama oturumum."
-date: "2008-10-11"
-EntryID: Geek_Zone_da_WPF_ile_3D_Programlama_oturumum
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, WPF
-old.EntryID: 4ab9dca1-60d1-4704-8823-2da24c52e475
----
 # Geek Zone'da WPF ile 3D Programlama oturumum.
 Bugün yine CEBIT'te TBD'nin organizasyonunda "**Geek Zone**"da
 konuşmacıydım. Bu sefer konu "**WPF ile 3D Animasyon Programlama**"

@@ -1,14 +1,3 @@
----
-FallbackID: 2544
-Title: "Ürdün Azure Kampı'ndaki slaytlarım ve örneklerden bazıları."
-date: "2011-1-31"
-EntryID: Urdun_Azure_Kampindaki_slaytlarim_ve_orneklerden_bazilari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
-old.EntryID: 2a72b1f7-e546-4fb3-a449-0a8db7e2cff4
----
 # Ürdün Azure Kampı'ndaki slaytlarım ve örneklerden bazıları.
 Azure konusunda şu ana kadar bloga hiç yazı yazmdığımın farkına vardım
 bir an :) Neyse konumuza dönelim. Bugün Ürdün, Amman'daydım. Nitekim

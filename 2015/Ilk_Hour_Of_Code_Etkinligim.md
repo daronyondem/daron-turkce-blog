@@ -1,13 +1,3 @@
----
-FallbackID: 2992
-Title: "İlk Hour Of Code Etkinliğim"
-date: "2015-12-11"
-EntryID: Ilk_Hour_Of_Code_Etkinligim
-IsActive: True
-Section: software
-MinutesSpent: 21
-Tags: Seminer
----
 # İlk Hour Of Code Etkinliğim
 Herkese, her yaşta programlama öğretmeyi amaçlayan ["Hour Of Code"](https://hourofcode.com/tr) etkinliklerinin bir serisi de global olarak 2015 sonunda, bu ay 7-13 Aralık tarihleri arasında gerçekleşiyor. Benim de gönüllü eğitmen olarak bulunduğum bu sosyal hareket çerçevesinde dün [Komşu Kapısı](http://komsukapisi.org/) ve [Maker Çocuk](http://www.makercocuk.com/) ekibi ile 9-10 yaş arasında kardeşlerimize programlama öğrettik.
 

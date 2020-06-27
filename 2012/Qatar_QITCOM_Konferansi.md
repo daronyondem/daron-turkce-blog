@@ -1,13 +1,3 @@
----
-FallbackID: 2802
-Title: "Qatar QITCOM Konferansı"
-date: "2012-3-8"
-EntryID: Qatar_QITCOM_Konferansi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Kinect, Surface, Windows 8, Windows Phone 7.5
----
 # Qatar QITCOM Konferansı
 Bu hafta başından beridir yine Qatar'daydım :) Geçen ay
 [OpenDoor](http://daron.yondem.com/tr/post/Qatarda_Microsoft_OpenDoor_2012)

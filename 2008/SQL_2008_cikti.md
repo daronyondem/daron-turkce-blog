@@ -1,14 +1,3 @@
----
-FallbackID: 2147
-Title: "SQL 2008 çıktı!"
-date: "2008-8-7"
-EntryID: SQL_2008_cikti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: SQL Server 2008
-old.EntryID: b8d2bf7c-e2d3-485b-8f16-22356f7f8a01
----
 # SQL 2008 çıktı!
 Uzun süredir beklediğimiz **SQL 2008** sonunda RTM oldu ve bugün MSDN
 aboneleri tarafından indirilebiliyor. Böylece 2008 serisi ürünlerin

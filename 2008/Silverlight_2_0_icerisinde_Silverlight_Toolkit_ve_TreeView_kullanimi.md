@@ -1,14 +1,3 @@
----
-FallbackID: 2230
-Title: "Silverlight 2.0 içerisinde Silverlight Toolkit ve TreeView kullanımı"
-date: "2008-10-29"
-EntryID: Silverlight_2_0_icerisinde_Silverlight_Toolkit_ve_TreeView_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: ca1d60fd-f524-416b-87be-7519838cccde
----
 # Silverlight 2.0 içerisinde Silverlight Toolkit ve TreeView kullanımı
 Silverlight 2.0 ile beraber gelen kontrol sayısı 1.0'a kıyasla ciddi
 miktarda arttı. Fakat hala eksikler var! İşte bu eksikleri Silverlight

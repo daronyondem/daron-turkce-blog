@@ -1,14 +1,3 @@
----
-FallbackID: 1977
-Title: "Bloglara etiket oldum, sonumuz hayrola":)
-date: "2008-3-4"
-EntryID: Bloglara_etiket_oldum_sonumuz_hayrola
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 998f09da-7708-4055-bf5d-c391a5d52bf5
----
 # Bloglara etiket oldum, sonumuz hayrola
 "*Hocam her yerde siz varsınız!*" gibi tepkilere artık alışmıştım ama
 bir "**etiket**" olacağımı tahmin etmezdim :D Sağolsun sevgili **Onur

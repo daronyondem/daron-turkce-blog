@@ -1,13 +1,3 @@
----
-FallbackID: 2980
-Title: "Azure'da ilk NodeJS Uygulamamız"
-date: "2015-9-4"
-EntryID: Azure_da_ilk_NodeJS_Uygulamamiz
-IsActive: True
-Section: software
-MinutesSpent: 92
-Tags: Node.JS, Windows Azure
----
 # Azure'da ilk NodeJS Uygulamamız
 Eski JavaScript'cilerden kimler kaldı bakiyim? :) Kendi adıma parmak kaldırabilirim :) Malum zamanında 800 sayfa [ASP.NET AJAX](http://daron.yondem.com/software/post/15adba9f-e264-45ac-a318-b5038c24f488) kitabı yazmışlığım var. O günlerden bugünlere tabi ki JavaScript nerelerden nerelere geldi. Özellikle adını duyduğunuzdan emin olduğum Node.JS ile beraber sunucu tarafında da epey popülerleşen JavaScript'in gelecekte nerelere gideceğini de artık Allah bilir. Konuyu çok geyiğe vurmadan, bu yazıda Azure üzerinde Node uygulamaları konseptine bir giriş yapalım istiyorum. Basit bir Azure Web App yaratarak elimizdeki örnek bir Node uygulamasını Azure'a nasıl atarız bir bakalım.
 

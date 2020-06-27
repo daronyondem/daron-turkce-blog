@@ -1,14 +1,3 @@
----
-FallbackID: 2165
-Title: "INETA Summer Hit sunumları..."
-date: "2008-8-26"
-EntryID: INETA_Summer_Hit_sunumlari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, LINQ, Silverlight 2.0, Internet Explorer
-old.EntryID: e9161811-c9c9-41e3-a64b-b071eaf097d8
----
 # INETA Summer Hit sunumları...
 **INETA Summer Hit** etkinliği sonrası verdiğim bir söz vardı :) Tüm
 konuşmacıların sunumlarını benim blogdan sizlerle paylaşacağımı

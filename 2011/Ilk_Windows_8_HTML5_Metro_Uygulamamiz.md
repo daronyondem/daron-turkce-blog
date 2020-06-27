@@ -1,13 +1,3 @@
----
-FallbackID: 2699
-Title: "İlk Windows 8 HTML5 Metro Uygulamamız"
-date: "2011-9-16"
-EntryID: Ilk_Windows_8_HTML5_Metro_Uygulamamiz
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML, HTML5, JavaScript, Metro UI, Visual Studio 11, Windows 8, WinRT
----
 # İlk Windows 8 HTML5 Metro Uygulamamız
 Build konferansı ile beraber biliyorsunuz artık yeni Windows 8 METRO
 arayüzünde HTML5 uygulamalarının da çalışabileceği haberi kesinleşmiş

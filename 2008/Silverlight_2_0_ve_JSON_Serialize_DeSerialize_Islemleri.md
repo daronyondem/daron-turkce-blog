@@ -1,14 +1,3 @@
----
-FallbackID: 2060
-Title: "Silverlight 2.0 ve JSON Serialize / DeSerialize İşlemleri"
-date: "2008-5-18"
-EntryID: Silverlight_2_0_ve_JSON_Serialize_DeSerialize_Islemleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 457fbb28-892e-4a37-b7d3-cb297d97020b
----
 # Silverlight 2.0 ve JSON Serialize / DeSerialize İşlemleri
 Günümüzde çoğu AJAX uygulamasında veri transferi için JSON formatı
 kullanılıyor. ASP.NET programcılığı tarafında biz farkında olmasak da

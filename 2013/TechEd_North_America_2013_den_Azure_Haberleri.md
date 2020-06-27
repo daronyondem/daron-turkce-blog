@@ -1,13 +1,3 @@
----
-FallbackID: 2845
-Title: "TechEd North America 2013'den Azure Haberleri"
-date: "2013-6-4"
-EntryID: TechEd_North_America_2013_den_Azure_Haberleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # TechEd North America 2013'den Azure Haberleri
 Bugünler New Orleans'da TechEd North America 2013 gerçekleşiyor... (Bu
 mudur yani demeyin.. şimdilik ülke gündemi tepkilerimi

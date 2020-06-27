@@ -1,14 +1,3 @@
----
-FallbackID: 2408
-Title: "Silverlight için özel MessageBox kontrolü tasarlamak."
-date: "2009-9-12"
-EntryID: Silverlight_icin_ozel_MessageBox_kontrolu_tasarlamak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Görsel Ders, Silverlight 3.0
-old.EntryID: 1cdccba1-a0c4-46e3-9d09-714162b98ac6
----
 # Silverlight için özel MessageBox kontrolü tasarlamak.
 Geçenlerde çok güzel bir şekilde tasarlanmış bir Silverlight
 uygulamasında eski klasik tarz bir MessageBox gördüm ve hemen "Aman

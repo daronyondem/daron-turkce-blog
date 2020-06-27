@@ -1,14 +1,3 @@
----
-FallbackID: 2422
-Title: "Bu kitaplar candır!"
-date: "2009-10-10"
-EntryID: Bu_kitaplar_candir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: SQL Server 2008
-old.EntryID: 9b2a1c3d-019a-4707-8101-07c1e9d197fa
----
 # Bu kitaplar candır!
 Bilirsiniz pek kitap tanıtımı yazmam. Bundan herhalde bir yıl kadar
 önceydi kendi kütüphanemdeki kitapları kısaca tanıtmıştım. Bugün size

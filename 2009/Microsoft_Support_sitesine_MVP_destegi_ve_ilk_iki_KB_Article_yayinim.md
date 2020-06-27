@@ -1,14 +1,3 @@
----
-FallbackID: 2432
-Title: "Microsoft Support sitesine MVP desteği ve ilk iki KB Article yayınım."
-date: "2009-10-26"
-EntryID: Microsoft_Support_sitesine_MVP_destegi_ve_ilk_iki_KB_Article_yayinim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Internet Explorer
-old.EntryID: 571a345a-8c5f-4c80-9226-42108b7b5415
----
 # Microsoft Support sitesine MVP desteği ve ilk iki KB Article yayınım.
 **Knowledge Base Articles** olarak geçen Microsoft Support / Destek
 sitesindeki makaleler ile bugüne kadar kesin karşılaşmışsınızdır. İster

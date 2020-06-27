@@ -1,13 +1,3 @@
----
-FallbackID: 2791
-Title: "IdentityMine'daki yeni görevim."
-date: "2012-2-7"
-EntryID: IdentityMine_daki_yeni_gorevim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # IdentityMine'daki yeni görevim.
 Tam sekiz yıl oldu :) kendi şirketimde, DEVELOAD'da maceraları atılmaya
 başlayalı. Bu maceralardan çok şeyler öğrendiğimi itiraf etmem gerek :)

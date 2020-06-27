@@ -1,14 +1,3 @@
----
-FallbackID: 2400
-Title: "Expression Blend ile Databinding"
-date: "2009-9-4"
-EntryID: Expression_Blend_ile_Databinding
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Silverlight 3.0
-old.EntryID: a9fd3d00-378d-43a8-a9c3-f7224c2b3797
----
 # Expression Blend ile Databinding
 İster Silverlight tarafında olsun ister WPF teknolojinin ve araçların
 sürekli bahsedilen en önemli özelliklerinden biri tasarımcı ile

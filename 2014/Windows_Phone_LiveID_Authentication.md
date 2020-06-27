@@ -1,13 +1,3 @@
----
-FallbackID: 2890
-Title: "Windows Phone'da LiveID Authentication"
-date: "2014-3-6"
-EntryID: Windows_Phone_LiveID_Authentication
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: live.com, Windows Phone, Windows Phone 7.5, Windows Phone 8
----
 # Windows Phone'da LiveID Authentication
 Harici "Identity Provider"ların entegrasyonu çoğu developer için
 sıkıntılı olabiliyor. Bana gelen sorular arasında da popüper bir yeri

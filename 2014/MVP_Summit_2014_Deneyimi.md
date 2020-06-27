@@ -1,13 +1,3 @@
----
-FallbackID: 2922
-Title: "MVP Summit 2014 Deneyimi"
-date: "2014-11-12"
-EntryID: MVP_Summit_2014_Deneyimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MVP, MVP Summit
----
 # MVP Summit 2014 Deneyimi
 Geçen hafta MVP Summit 2014 için Seattle, Redmond'daydım. MVP olduğum
 sekiz yıldır MVP Summit'e gidiyorum :) Daha önceleri bazılarında [kısa

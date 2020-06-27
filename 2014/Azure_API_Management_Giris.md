@@ -1,13 +1,3 @@
----
-FallbackID: 2920
-Title: "Azure API Management'a Giriş"
-date: "2014-10-27"
-EntryID: Azure_API_Management_Giris
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: API Management, Windows Azure
----
 # Azure API Management'a Giriş
 Azure API Management olarak bundan bir süre önce hizmete açılan ürün
 aslında Microsoft'un sonradan satın aldığı Apiphany firmasına ait.

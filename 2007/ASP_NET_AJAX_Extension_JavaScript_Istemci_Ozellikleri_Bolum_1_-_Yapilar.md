@@ -1,14 +1,3 @@
----
-FallbackID: 1780
-Title: "ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 1 - Yapılar)"
-date: "2007-9-8"
-EntryID: ASP_NET_AJAX_Extension_JavaScript_Istemci_Ozellikleri_Bolum_1_-_Yapilar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX
-old.EntryID: 2ea33001-2e0d-413e-9843-68ed11767d43
----
 # ASP.NET AJAX Extension JavaScript İstemci Özellikleri (Bölüm 1 - Yapılar)
 ASP.NET AJAX Extension dediğimizde çoğunlukla aklımıza UpdatePanel,
 Timer gibi sunucu kontrolleri gelir. Oysa ASP.NET AJAX Extension ile

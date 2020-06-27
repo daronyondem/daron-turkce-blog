@@ -1,13 +1,3 @@
----
-FallbackID: 2771
-Title: "Windows Azure'da veritabanı olarak SQL Azure"
-date: "2012-5-22"
-EntryID: Windows_Azure_da_veritabani_olarak_SQL_Azure
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: SQL Azure, Windows Azure
----
 # Windows Azure'da veritabanı olarak SQL Azure
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

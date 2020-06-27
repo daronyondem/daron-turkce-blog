@@ -1,14 +1,3 @@
----
-FallbackID: 1721
-Title: "Sonunda..."
-date: "2007-4-5"
-EntryID: Sonunda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel
-old.EntryID: e91569cf-8600-4000-a8eb-963f0ccbde12
----
 # Sonunda...
 Uzun süredir Türkçe bir blog sitesinin ihtiyacı ile yanıp tutuşmasam da
 kıvranıyordum diyebilirim. Tek bir blog içerisinde hem Türkçe hem

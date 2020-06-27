@@ -1,14 +1,3 @@
----
-FallbackID: 2274
-Title: "Silverlight 2.0 için Virtual Earth kontrolleri"
-date: "2008-12-13"
-EntryID: Silverlight_2_0_icin_Virtual_Earth_kontrolleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 4aa37fcb-c236-4059-91cd-38e491896ddf
----
 # Silverlight 2.0 için Virtual Earth kontrolleri
 Son zamanlarda çok fazla Virtual Earth ve Silverlight'ın beraber
 kullanımı ile ilgili mail alıyorum. Bu konuda uzun uzun teknik bir

@@ -1,14 +1,3 @@
----
-FallbackID: 2156
-Title: "SanalKurs altıncı sayısında yayınlanan röportajım..."
-date: "2008-8-16"
-EntryID: SanalKurs_altinci_sayisinda_yayinlanan_roportajim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 6dd16fdc-ae9a-429e-9f1b-34e66a26766f
----
 # SanalKurs altıncı sayısında yayınlanan röportajım...
 Sanalkurs.net'i duyanlarınız vardır. Sanalkurs.net'in bir de sanal
 ortamda dağıtılan **SanalKurs** adında dergisi var. Derginin altıncı

@@ -1,13 +1,3 @@
----
-FallbackID: 2682
-Title: "ASP.NET 4.0 UrlRouting Deployment Problemi"
-date: "2011-9-3"
-EntryID: ASP_NET_4_0_UrlRouting_Deployment_Problemi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET, ASP.NET 4.0, IIS 7.0
----
 # ASP.NET 4.0 UrlRouting Deployment Problemi
 Herkese Günaydın! :) ASP.NET 4.0'daki[UrlRouting
 hakkında](http://daron.yondem.com/tr/post/e6f2b81a-defc-4255-ba19-d0071526aadf)

@@ -1,14 +1,3 @@
----
-FallbackID: 2543
-Title: "Visual Studio'da artık Razor var! WebMatrix ve ASP.NET MVC3 Çıktı!"
-date: "2011-1-15"
-EntryID: Visual_Studio_da_artik_Razor_var_WebMatrix_ve_ASP_NET_MVC3_Cikti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET MVC 3, Razor, WebMatrix, ASP.NET
-old.EntryID: d0639cad-b27d-4d06-a4d2-19d3c1a84d94
----
 # Visual Studio'da artık Razor var! WebMatrix ve ASP.NET MVC3 Çıktı!
 Dün WebMatrix ve beraber ASP.NET MVC3 release oldu! Artık her ikisi de
 rahatlıkla projelerde kullanılabilir durumda. Her iki ürünün aynı anda

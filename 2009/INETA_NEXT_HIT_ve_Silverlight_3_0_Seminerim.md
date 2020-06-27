@@ -1,14 +1,3 @@
----
-FallbackID: 2347
-Title: "INETA NEXT HIT ve Silverlight 3.0 Seminerim..."
-date: "2009-4-12"
-EntryID: INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 05fb7bfc-640f-417d-b933-8e866740cd6b
----
 # INETA NEXT HIT ve Silverlight 3.0 Seminerim...
 ![](media/INETA_NEXT_HIT_ve_Silverlight_3_0_Seminerim/12042009_4.jpg)Bu hafta sonu
 bildiğiniz üzere INETA NEXT HİT'deydik! İlk gün sevgili [Mehmet Nuri

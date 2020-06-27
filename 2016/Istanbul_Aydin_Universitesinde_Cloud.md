@@ -1,13 +1,3 @@
----
-FallbackID: 3009
-Title: "İstanbul Aydın Üniversitesi'nde Cloud"
-date: "2016-4-7"
-EntryID: Istanbul_Aydin_Universitesinde_Cloud
-IsActive: True
-Section: software
-MinutesSpent: 12
-Tags: Windows Azure
----
 # İstanbul Aydın Üniversitesi'nde Cloud
 Dün **İstanbul Aydın Üniversitesi**'ni ziyaret ettim. **Cloud 101** adındaki **Azure, AWS ve Google Cloud**'dan genel anlamda bahsettiğim oturumu sundum. Sunum boyunca özellikle üniversitedeki  hocalarımızın soruları beni çok mutlu etti. Genelde özel sektörden gelen konuşmacılara karşı önyargılı olan akademisyenlere alışık olduğum için durumu biraz garipsemedim desem yalan olur :)
 

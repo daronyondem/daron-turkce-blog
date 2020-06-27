@@ -1,14 +1,3 @@
----
-FallbackID: 2456
-Title: "Silverlight 4 Beta Masaüstü (OOB) Yenilikleri!"
-date: "2009-11-24"
-EntryID: Silverlight_4_Beta_Masaustu_OOB_Yenilikleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: c7de1450-c795-4894-bb63-c0ce9169e6ec
----
 # Silverlight 4 Beta Masaüstü (OOB) Yenilikleri!
 Silverlight uygulamalarının rahatlıkle en ufak bir kod bile yazılmadan
 masaüstüne taşınması muhteşem bir de yazılım geliştirici deneyimi!

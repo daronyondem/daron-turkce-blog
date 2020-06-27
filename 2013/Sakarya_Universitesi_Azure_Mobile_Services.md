@@ -1,13 +1,3 @@
----
-FallbackID: 2844
-Title: "Sakarya Üniversitesi Azure Mobile Services Oturumum"
-date: "2013-5-1"
-EntryID: Sakarya_Universitesi_Azure_Mobile_Services
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Windows Azure
----
 # Sakarya Üniversitesi Azure Mobile Services Oturumum
 Bu aralar leyleği havada gördüm sanırım :) Pazartesi günü de **Sakarya
 Üniversitesi**'ndeydim. Her zamanki gibi :) **Windows Azure Mobile

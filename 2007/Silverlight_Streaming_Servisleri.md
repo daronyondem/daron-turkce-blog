@@ -1,14 +1,3 @@
----
-FallbackID: 1812
-Title: "Silverlight Streaming Servisleri"
-date: "2007-10-16"
-EntryID: Silverlight_Streaming_Servisleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: e27332ab-82c3-4084-a220-181fb7f0b885
----
 # Silverlight Streaming Servisleri
 Daha önceki yazılarımda **Silverlight Streaming Servisleri**'nden
 bahsetmiştim. <http://silverlight.live.com/> adresinden ulaşabileceğimiz

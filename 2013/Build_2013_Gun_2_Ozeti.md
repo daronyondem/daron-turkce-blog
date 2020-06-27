@@ -1,13 +1,3 @@
----
-FallbackID: 2850
-Title: "Build 2013 Gün 2 Özeti"
-date: "2013-6-28"
-EntryID: Build_2013_Gun_2_Ozeti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Windows Azure
----
 # Build 2013 Gün 2 Özeti
 Dünkü [Build 2013 Birinci Gün
 özeti](http://daron.yondem.com/tr/post/Build_2013_Gun_1_Ozeti)nden sonra

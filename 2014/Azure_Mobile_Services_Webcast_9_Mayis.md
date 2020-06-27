@@ -1,13 +1,3 @@
----
-FallbackID: 2906
-Title: "Azure Mobile Services Webcast 9 Mayıs'ta."
-date: "2014-5-5"
-EntryID: Azure_Mobile_Services_Webcast_9_Mayis
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Webiner, Windows Azure
----
 # Azure Mobile Services Webcast 9 Mayıs'ta.
 Hatırlarsanız Şubat ayında [bir anket
 yapmıştım](http://daron.yondem.com/tr/post/Bir_sonraki_webcast_anket_sonuclari)

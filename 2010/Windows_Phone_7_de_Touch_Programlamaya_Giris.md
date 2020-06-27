@@ -1,14 +1,3 @@
----
-FallbackID: 2516
-Title: "Windows Phone 7'de Touch Programlamaya Giriş"
-date: "2010-5-3"
-EntryID: Windows_Phone_7_de_Touch_Programlamaya_Giris
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4, Windows Phone 7, Windows Phone
-old.EntryID: 1ef00d4e-8e5d-445b-9abd-5eef8de85542
----
 # Windows Phone 7'de Touch Programlamaya Giriş
 Windows Phone 7'nin ilk duyurularında yapılan açıklamalarda özellikle
 WP7 ile çalışacak cihazlarla ilgili bazı şartların yerine getirilmesi

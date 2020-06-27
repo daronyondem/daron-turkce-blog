@@ -1,13 +1,3 @@
----
-FallbackID: 2958
-Title: "Visual Basic 14 Yenilikleri"
-date: "2015-3-10"
-EntryID: Visual_Basic_14_Yenilikleri
-IsActive: True
-Section: software
-MinutesSpent: 100
-Tags: Visual Basic .NET
----
 # Visual Basic 14 Yenilikleri
 Yavaş yavaş bir sonraki .NET sürümüne doğru yaklaştığımız bu günlerde gelin bu yazıda Visual Basic 14 ile beraber neler geliyor? Neler değişiyor bir göz atalım. 
 

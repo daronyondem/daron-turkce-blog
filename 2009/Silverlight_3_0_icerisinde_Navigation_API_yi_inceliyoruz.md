@@ -1,14 +1,3 @@
----
-FallbackID: 2401
-Title: "Silverlight 3.0 içerisinde Navigation API'yı inceliyoruz."
-date: "2009-9-5"
-EntryID: Silverlight_3_0_icerisinde_Navigation_API_yi_inceliyoruz
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 50b7d2c8-13f5-4f82-b458-4f887a538448
----
 # Silverlight 3.0 içerisinde Navigation API'yı inceliyoruz.
 İster AJAX sitelerinde olsun ister Silverlight bir şekilde istemci
 tarafında sayfanın manipüle edildiği web uygulamalarındaki dertlerden

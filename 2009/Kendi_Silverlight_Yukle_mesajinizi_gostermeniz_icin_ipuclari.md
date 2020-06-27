@@ -1,14 +1,3 @@
----
-FallbackID: 2298
-Title: "Kendi Silverlight Yükle mesajınızı göstermeniz için ipuçları"
-date: "2009-1-6"
-EntryID: Kendi_Silverlight_Yukle_mesajinizi_gostermeniz_icin_ipuclari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 26e74ec8-47ac-427c-aa5c-e35ed0e8694e
----
 # Kendi Silverlight Yükle mesajınızı göstermeniz için ipuçları
 Silverlight kullanılan web sitelerin artış ile aslında kullanıcılara da
 Silverlight yükletme konusunda ısrar giderek artıyor :) Bu konunun bir

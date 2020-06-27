@@ -1,14 +1,3 @@
----
-FallbackID: 1877
-Title: "LINQ2SQL'e Giriş"
-date: "2007-12-8"
-EntryID: LINQ2SQL_e_Giris
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: LINQ, SQL Server 2005, Visual Basic 2008, Visual Basic .NET
-old.EntryID: 83ec9383-266e-4556-bce6-9cfa3f497c7e
----
 # LINQ2SQL'e Giriş
 Blogumu sürekli takip edenler hatırlayacaklardır, bundan yaklaşık bir ay
 kadar önce LINQ'den ufak bir yazıyla bahsetmiştim ve daha VS 2008

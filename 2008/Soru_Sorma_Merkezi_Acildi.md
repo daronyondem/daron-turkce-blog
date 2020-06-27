@@ -1,14 +1,3 @@
----
-FallbackID: 2093
-Title: "Soru Sorma Merkezi Açıldı!"
-date: "2008-6-15"
-EntryID: Soru_Sorma_Merkezi_Acildi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: c59d09ed-29b6-4eff-a1e9-cfb29deadb87
----
 # Soru Sorma Merkezi Açıldı!
 Son birkaç haftadır üzerinde çalıştığım minik bir projem vardı.
 twitter'dan beni takip edenler "sinsi projem"i hatırlayacaklardır :)

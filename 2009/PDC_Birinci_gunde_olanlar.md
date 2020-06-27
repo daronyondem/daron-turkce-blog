@@ -1,14 +1,3 @@
----
-FallbackID: 2449
-Title: "PDC 1. günde olanlar!"
-date: "2009-11-18"
-EntryID: PDC_Birinci_gunde_olanlar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure, WIF
-old.EntryID: 679b66bb-fbb9-469d-a8a1-14872ab3e1f6
----
 # PDC 1. günde olanlar!
 Bugün PDC'nin ilk günüydü. Birinci güne her zamanki gibi Keynote ile
 başladık. Bugün yazılımcıları ilgilendiren sunucu taraflı ve daha

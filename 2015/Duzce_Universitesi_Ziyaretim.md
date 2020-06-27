@@ -1,13 +1,3 @@
----
-FallbackID: 2975
-Title: "Düzce Üniversitesi Ziyaretim"
-date: "2015-5-6"
-EntryID: Duzce_Universitesi_Ziyaretim
-IsActive: True
-Section: software
-MinutesSpent: 9
-Tags: 
----
 # Düzce Üniversitesi Ziyaretim
 Dün Düzce Üniversitesi’ndeydim :) BTFest etkinliğinde “Boş Durma Boşa Çalış” adındaki :) artık herkesın yavaş yavaş merak etmeye başladığını farkında olduğum oturumumu sundum.
 

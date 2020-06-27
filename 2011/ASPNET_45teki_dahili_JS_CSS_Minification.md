@@ -1,13 +1,3 @@
----
-FallbackID: 2701
-Title: "ASP.NET 4.5'teki dahili JS/CSS Minification"
-date: "2011-9-18"
-EntryID: ASPNET_45teki_dahili_JS_CSS_Minification
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 4.5, ASP.NET, ASP.NET 4.5, CSS, JavaScript
----
 # ASP.NET 4.5'teki dahili JS/CSS Minification
 Build ikinci gün keynote'undan en çok hoşuma giden şeyler biri ASP.NET
 4.5'teki JavaScript ve CSS minification özelliğiydi. Biliyorsunuz artık

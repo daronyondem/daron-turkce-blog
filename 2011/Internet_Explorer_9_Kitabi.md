@@ -1,14 +1,3 @@
----
-FallbackID: 2576
-Title: "Internet Explorer 9 Kitabı"
-date: "2011-5-2"
-EntryID: Internet_Explorer_9_Kitabi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 9, Internet Explorer
-old.EntryID: 8bc05d24-951d-4603-8cd7-f995ef52fd61
----
 # Internet Explorer 9 Kitabı
 Geçen sene hatırlarsanız Internet Explorer 8'in çıkış zamanlarında
 tasarımcı ve yazılımcılar için update niteliğinde bir

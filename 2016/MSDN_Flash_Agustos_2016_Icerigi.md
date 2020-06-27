@@ -1,13 +1,3 @@
----
-FallbackID: 3026
-Title: "MSDN Flash Ağustos 2016 İçeriği"
-date: "2016-8-22"
-EntryID: MSDN_Flash_Agustos_2016_Icerigi
-IsActive: True
-Section: software
-MinutesSpent: 45
-Tags: .NET Core, Linux, PowerShell, TFS, TypeScript, Visual Studio 2015
----
 # MSDN Flash Ağustos 2016 İçeriği
 MSDN Flash's üyeyseniz size bir müjdem var. Artık bülteni her ay ben yazıyorum :) Ağustos sayısını da biraz önce Microsoft'a gönderdim. Beni takip edenlere kıyak geçmek adına da buradan paylaşıyorum :)
 

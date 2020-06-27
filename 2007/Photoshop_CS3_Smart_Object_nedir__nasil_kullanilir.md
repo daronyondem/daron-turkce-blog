@@ -1,14 +1,3 @@
----
-FallbackID: 1733
-Title: "Photoshop CS3 Smart Object nedir? nasıl kullanılır?"
-date: "2007-4-26"
-EntryID: Photoshop_CS3_Smart_Object_nedir__nasil_kullanilir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Photoshop
-old.EntryID: ee138710-828a-44ea-9e78-e9501b5556e6
----
 # Photoshop CS3 Smart Object nedir? nasıl kullanılır?
 Adobe Photoshop CS3 lansmanı yapılalı kısa bir süre geçmesine rağmen
 yazılımla ilgili özellikle yabancı kaynaklarda çok sayıda makale

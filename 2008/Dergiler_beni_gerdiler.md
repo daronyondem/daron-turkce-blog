@@ -1,14 +1,3 @@
----
-FallbackID: 2018
-Title: "Dergiler beni gerdiler!"
-date: "2008-4-11"
-EntryID: Dergiler_beni_gerdiler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: f70da0be-69a1-4117-b261-bbc1eaee925b
----
 # Dergiler beni gerdiler!
 Neden dergi alıyorsunuz? Aslında keşke cevabınızı duyabilsem. Bu aralar
 bu soruyu etrafımda kimse sorsam çok ilginç cevaplar aldım. En ilginci

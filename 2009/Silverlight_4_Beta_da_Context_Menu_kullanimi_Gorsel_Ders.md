@@ -1,14 +1,3 @@
----
-FallbackID: 2467
-Title: "Silverlight 4 Beta'da Context Menu kullanımı - Görsel Ders"
-date: "2009-12-5"
-EntryID: Silverlight_4_Beta_da_Context_Menu_kullanimi_Gorsel_Ders
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: a93233e9-a60a-4764-bcd1-2be27298af9b
----
 # Silverlight 4 Beta'da Context Menu kullanımı - Görsel Ders
 Bu görsel dersimizde Silverligh 4 Beta ile beraber gelen farenin sağ
 tuşunu yakalama özelliği ile normal Silverlight menüsünü devre dışı

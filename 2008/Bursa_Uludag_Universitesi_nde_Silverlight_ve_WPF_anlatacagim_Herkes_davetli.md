@@ -1,14 +1,3 @@
----
-FallbackID: 2243
-Title: "Bursa, Uludağ Üniversitesi'nde Silverlight ve WPF anlatacağım! Herkes davetli!"
-date: "2008-11-11"
-EntryID: Bursa_Uludag_Universitesi_nde_Silverlight_ve_WPF_anlatacagim_Herkes_davetli
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, Silverlight 2.0, WPF
-old.EntryID: 2bc0edc4-9ee9-4ddf-929c-e2924c002f12
----
 # Bursa, Uludağ Üniversitesi'nde Silverlight ve WPF anlatacağım! Herkes davetli!
 **14 Kasım**'da **Bursa**, Uludağ Üniversitesi'nde **Silverlight** ve
 **WPF** anlatıyor olacağım. Aktivite tamamen halka açık ve ücretsiz.

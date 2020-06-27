@@ -1,13 +1,3 @@
----
-FallbackID: 2983
-Title: "Akdeniz Bilişim Zirvesi Azure Oturumum"
-date: "2015-10-16"
-EntryID: Akdeniz_Bilisim_Zirvesi_Azure_Oturumum
-IsActive: True
-Section: software
-MinutesSpent: 16
-Tags: Windows Azure
----
 # Akdeniz Bilişim Zirvesi Azure Oturumum
 Dün **Akdeniz Bilişim Zirvesi** için Antalya'daydım. Hafta içi, günübirlik inanılmaz hızlı bir ziyaret gerçekleştirdim. Sanırım toplam beş saat kalmışımdır Antalya'da. Bu sürede de zirvede Azure ve genel olarak Cloud anlattım.
 

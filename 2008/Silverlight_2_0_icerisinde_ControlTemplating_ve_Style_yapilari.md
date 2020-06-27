@@ -1,14 +1,3 @@
----
-FallbackID: 2047
-Title: "Silverlight 2.0 içerisinde ControlTemplating ve Style yapıları."
-date: "2008-5-6"
-EntryID: Silverlight_2_0_icerisinde_ControlTemplating_ve_Style_yapilari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 64891675-eba7-4cad-88a5-70cb3d148993
----
 # Silverlight 2.0 içerisinde ControlTemplating ve Style yapıları.
 **Silverlight 2.0 Beta 1** ile beraber gelen görsel özellikler
 içerisinde özellikle tasarımcıların en çok beğenecekleri ve bildiğimiz

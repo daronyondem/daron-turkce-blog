@@ -1,14 +1,3 @@
----
-FallbackID: 1865
-Title: "Silverlight 1.1 Tools Alpha ve Visual Studio 2008"
-date: "2007-11-29"
-EntryID: Silverlight_1_1_Tools_Alpha_ve_Visual_Studio_2008
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Visual Studio 2008
-old.EntryID: 116ce1b1-74ec-497d-8157-7f7f7b16d8e7
----
 # Silverlight 1.1 Tools Alpha ve Visual Studio 2008
 **Visual Studio 2008**'in çıkması ile artık eski **Silverlight 1.1
 Tools** paketini kullanma şansınız yok. **Visual Studio 2008 Beta 2**

@@ -1,13 +1,3 @@
----
-FallbackID: 2759
-Title: "Azure'da bir ASP.NET Projesinin Anatomisi"
-date: "2012-4-3"
-EntryID: Azure_da_bir_ASP_NET_Projesinin_Anatomisi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure'da bir ASP.NET Projesinin Anatomisi
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

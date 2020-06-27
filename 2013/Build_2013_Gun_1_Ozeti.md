@@ -1,13 +1,3 @@
----
-FallbackID: 2849
-Title: "Build 2013 Gün 1 Özeti"
-date: "2013-6-27"
-EntryID: Build_2013_Gun_1_Ozeti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Studio 2013, Windows 8, Windows 8.1, Windows Azure, Windows Phone
----
 # Build 2013 Gün 1 Özeti
 Son birkaç gündür Build 2013 konferansı için San Francisco'dayım.
 Moscone Center adında bir konferans alanında gerçekleşen konferansın

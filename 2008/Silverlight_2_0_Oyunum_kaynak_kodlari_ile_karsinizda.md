@@ -1,14 +1,3 @@
----
-FallbackID: 2249
-Title: "Silverlight 2.0 Oyunum kaynak kodları ile karşınızda!":)
-date: "2008-11-17"
-EntryID: Silverlight_2_0_Oyunum_kaynak_kodlari_ile_karsinizda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 926c5a5a-d4d4-4ff6-a4d7-3001e0e682c5
----
 # Silverlight 2.0 Oyunum kaynak kodları ile karşınızda!
 Dünkü oyun günündeki katılımcılar bilirler :) Beni de Silverlight 2.0
 ile Oyun Programlama alanında ekstra bir heyecan sarmıştık. Tabi bu

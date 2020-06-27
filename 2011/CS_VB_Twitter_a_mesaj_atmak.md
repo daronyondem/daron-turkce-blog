@@ -1,13 +1,3 @@
----
-FallbackID: 2736
-Title: ".NET'ten Twitter'a mesaj atmak"
-date: "2011-12-1"
-EntryID: CS_VB_Twitter_a_mesaj_atmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET, C#, Visual Basic .NET
----
 # .NET'ten Twitter'a mesaj atmak
 Son günlerde minik birkaç araştırma ile bloguma Facebook ve Twitter
 entegrasyonu ekledim. Entegrasyondan kastım nedir ilk önce onu açıkliyim

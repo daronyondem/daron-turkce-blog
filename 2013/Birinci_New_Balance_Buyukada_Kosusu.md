@@ -1,13 +1,3 @@
----
-FallbackID: 2855
-Title: "1. New Balance Büyükada Koşusu"
-date: "2013-9-17"
-EntryID: Birinci_New_Balance_Buyukada_Kosusu
-IsActive: True
-Section: fitness
-MinutesSpent: 0
-Tags: Koşu, Spor
----
 # 1. New Balance Büyükada Koşusu
 Bir süredir koşu olayı ile ilgilendiğimi duymuş olabilirsiniz :) hatta
 en son [giik.fm

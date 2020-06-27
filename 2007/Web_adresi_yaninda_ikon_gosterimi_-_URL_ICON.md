@@ -1,14 +1,3 @@
----
-FallbackID: 1723
-Title: "Web adresi yanında ikon gösterimi - URL ICON"
-date: "2007-4-8"
-EntryID: Web_adresi_yaninda_ikon_gosterimi_-_URL_ICON
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML
-old.EntryID: e4fb9d4e-2d54-408d-9ec2-59a1e491fc75
----
 # Web adresi yanında ikon gösterimi - URL ICON
 Web'de gezerken girdiğiniz her siteye göre farklı ikonların adres
 çubuğunda gösterildiğini farkına varmışsınızdır. Söz konusu adres

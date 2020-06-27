@@ -1,13 +1,3 @@
----
-FallbackID: 2792
-Title: "Qatar Microsoft OpenDoor 2012"
-date: "2012-2-12"
-EntryID: Qatarda_Microsoft_OpenDoor_2012
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML5, IE 10, Kinect, Windows 8, Windows Phone, Windows Phone 7.5
----
 # Qatar Microsoft OpenDoor 2012
 Yeni bir senenin başladığının mesajlarından biri de OpenDoor serilerinin
 başlaması. Önümüzdeki iki ayda dört OpenDoor konferansında konuşacağım

@@ -1,14 +1,3 @@
----
-FallbackID: 2565
-Title: "Silverlight 5 Beta TrickPlay"
-date: "2011-4-22"
-EntryID: Silverlight_5_Beta_TrickPlay
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 5
-old.EntryID: 0a2038f1-db35-4009-9e22-50313a68cfe8
----
 # Silverlight 5 Beta TrickPlay
 Süper kısa bir posta hoş geldiniz :) Bu aralar böyle birkaç tane süper
 kısa yazılarım olacak. Silverlight 5 Beta ile beraber gelen ve önemli

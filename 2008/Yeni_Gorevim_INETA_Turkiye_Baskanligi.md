@@ -1,14 +1,3 @@
----
-FallbackID: 1979
-Title: "Yeni Görevim": INETA Türkiye Başkanlığı
-date: "2008-3-5"
-EntryID: Yeni_Gorevim_INETA_Turkiye_Baskanligi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 3411a3af-2850-40d6-8faa-1e8fa698330c
----
 # Yeni Görevim
 ![INETA
 Logo](media/Yeni_Gorevim_INETA_Turkiye_Baskanligi/05032008_1.png)Sanırım

@@ -1,14 +1,3 @@
----
-FallbackID: 2130
-Title: "RIAtalks Konferansı'nda Silverlight sunumum."
-date: "2008-7-22"
-EntryID: RIAtalks_Konferansinda_Silverlight_sunumum
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 5f68eec3-802c-4458-a535-2a94e588f0d8
----
 # RIAtalks Konferansı'nda Silverlight sunumum.
 Bizim **INETA Summer Hit**'ten bir hafta sonra 8-9 Ağustos
 (Cuma-Cumartesi) tarihlerinde [riatalks.com](http://www.riatalks.com)

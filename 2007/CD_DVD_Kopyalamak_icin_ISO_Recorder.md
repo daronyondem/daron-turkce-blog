@@ -1,14 +1,3 @@
----
-FallbackID: 1844
-Title: "CD, DVD Kopyalamak için ISO Recorder"
-date: "2007-11-10"
-EntryID: CD_DVD_Kopyalamak_icin_ISO_Recorder
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 351debde-e76b-48ff-ba6d-87c507c89782
----
 # CD, DVD Kopyalamak için ISO Recorder
 CD ve DVD yaratmak için ek bir program olmaksınız Windows'un kendi
 sistemlerini kullanabiliyoruz. Fakat maalesef CD veya DVD'lerin image

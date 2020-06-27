@@ -1,13 +1,3 @@
----
-FallbackID: 2780
-Title: "BlockBlob ve PageBlob Detayları"
-date: "2012-7-24"
-EntryID: BlockBlob_ve_PageBlob_Detaylari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # BlockBlob ve PageBlob Detayları
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

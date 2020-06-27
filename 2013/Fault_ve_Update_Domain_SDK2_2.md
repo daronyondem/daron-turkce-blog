@@ -1,13 +1,3 @@
----
-FallbackID: 2880
-Title: "Azure da Fault Update Domain Nedir ve Nasil Ayarlanir (SDK2.2)"
-date: "2013-11-30"
-EntryID: Fault_ve_Update_Domain_SDK2_2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure da Fault Update Domain Nedir ve Nasil Ayarlanir (SDK2.2)
 Azure ortamında yayınlayabileceğimiz role'lerin instance count ve
 instance size gibi özellikleri olduklarını daha önceki yazılarda

@@ -1,14 +1,3 @@
----
-FallbackID: 1815
-Title: "Windows Vista DreamScene"
-date: "2007-10-18"
-EntryID: Windows_Vista_DreamScene
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Vista
-old.EntryID: 129aa10e-70a2-425a-b6ad-acb958de85a2
----
 # Windows Vista DreamScene
 Windows Vista'yı uzun zamandır (çıktığından bu yana) kullanan birçok
 kişi ile yaptığım konuşmalarda kimsenin **DreamScene** özelliğinden

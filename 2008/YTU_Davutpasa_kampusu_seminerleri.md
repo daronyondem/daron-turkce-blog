@@ -1,14 +1,3 @@
----
-FallbackID: 2258
-Title: "YTÜ, Davutpaşa kampüsü seminerleri."
-date: "2008-11-26"
-EntryID: YTU_Davutpasa_kampusu_seminerleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: LINQ, Seminer, Silverlight 2.0, WPF
-old.EntryID: 84738ec2-71bf-46d7-b282-4062491d297d
----
 # YTÜ, Davutpaşa kampüsü seminerleri.
 Bugün **YTÜ, Davutpaşa Kampüsü**'ndeydim. Güne ağır bir **LINQ** oturumu
 ile başladık :) Biraz herkesi sıkıntı bastı :) Sonra yemek molası ile

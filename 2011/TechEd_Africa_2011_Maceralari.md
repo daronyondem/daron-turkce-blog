@@ -1,13 +1,3 @@
----
-FallbackID: 2717
-Title: "TechEd Africa 2011 Maceraları"
-date: "2011-10-20"
-EntryID: TechEd_Africa_2011_Maceralari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 9, Silverlight 4, TechEd, Visual Studio 11, Windows 8, Windows Phone, Windows Phone 7.5, Windows Server 8
----
 # TechEd Africa 2011 Maceraları
 Muhteşem bir konferans geride kaldı! **TechEd Africa 2011**! Bugüne
 kadar üç ayrı kıtada TechEd konferanslarına katıldım ama bu kıtalar

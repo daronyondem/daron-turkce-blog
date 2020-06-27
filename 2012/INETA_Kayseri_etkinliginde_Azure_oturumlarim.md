@@ -1,13 +1,3 @@
----
-FallbackID: 2803
-Title: "INETA Kayseri etkinliğinde Azure oturumlarım."
-date: "2012-3-19"
-EntryID: INETA_Kayseri_etkinliginde_Azure_oturumlarim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # INETA Kayseri etkinliğinde Azure oturumlarım.
 INETA Kayseri etkinliği de geldi geçti :) Geçen hafta sonunu 5 konuşmacı
 ile Kayseri'de geçirdik. Ben de iki günde iki Azure oturumu ile sahne

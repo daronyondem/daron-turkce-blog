@@ -1,14 +1,3 @@
----
-FallbackID: 2453
-Title: "Silverlight 4 Beta içerisinde Implicit Style kullanımı"
-date: "2009-11-21"
-EntryID: Silverlight_4_Beta_icerisinde_Implicit_Style_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 138d7aa7-feeb-497c-8bac-881d9d9d8d0f
----
 # Silverlight 4 Beta içerisinde Implicit Style kullanımı
 Silverlight içerisinde bir uygulamanın arayüzünü temalaştırmak için
 bugüne kadar uyguladığımız yöntem hazır bir temayı harici bir Resource

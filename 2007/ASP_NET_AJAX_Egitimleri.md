@@ -1,14 +1,3 @@
----
-FallbackID: 1746
-Title: "ASP.NET AJAX Eğitimleri"
-date: "2007-7-5"
-EntryID: ASP_NET_AJAX_Egitimleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Eğitimler
-old.EntryID: 9fb323f7-996a-4cbd-b025-ce7e5a35e80c
----
 # ASP.NET AJAX Eğitimleri
 Uzun süredir gerçekleştirmeyi istediğim AJAX eğitimlerinin tarihlerini
 sonunda belirleyebildik. **MayaSoft Bilişim Akademisi’**nde

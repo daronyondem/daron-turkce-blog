@@ -1,13 +1,3 @@
----
-FallbackID: 2751
-Title: "2011 Yılı İlgi Alanlarım"
-date: "2012-1-16"
-EntryID: 2011_Yili_Ilgi_Alanlarim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 4.0, .NET Framework 4.5, ASP.NET, ASP.NET 4.0, ASP.NET 4.5, Windows Azure, HTML5, IE 10, Metro UI, Seminer, Silverlight 5, SQL Server 2008, SQL Server 2012, Windows 8, Windows Phone, Windows Phone 7, Windows Phone 7.5, WinRT, WPF
----
 # 2011 Yılı İlgi Alanlarım
 Geçen gün son bir yıldır yaptıklarımla ilgili MVP nominasyonu için rapor
 hazırlıyordum. Evet, tabi bilmeyenler için ufak bir açıklama yapiyim

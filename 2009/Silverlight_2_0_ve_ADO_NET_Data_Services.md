@@ -1,14 +1,3 @@
----
-FallbackID: 2303
-Title: "Silverlight 2.0 ve ADO.NET Data Services"
-date: "2009-1-10"
-EntryID: Silverlight_2_0_ve_ADO_NET_Data_Services
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0, ADO.NET Data Services
-old.EntryID: 5d3bd419-4128-4f41-9c4f-a3cb6273b4a8
----
 # Silverlight 2.0 ve ADO.NET Data Services
 Silverlight 2.0 tarafında veritabanı erişimi için mecburen web
 servisleri kullanmak zorundayız. Durum böyle olunca tek tek

@@ -1,14 +1,3 @@
----
-FallbackID: 2076
-Title: "Edirne M.P. Anadolu Ticaret Meslek ve Ticaret Meslek Lisesi Seminerleri"
-date: "2008-6-4"
-EntryID: Edirne_M_P_Anadolu_Ticaret_Meslek_ve_Ticaret_Meslek_Lisesi_Seminerleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET 3.5, LINQ, Silverlight, WPF, ASP.NET
-old.EntryID: 451a57c6-36ea-4649-b87a-8df9bc0712d7
----
 # Edirne M.P. Anadolu Ticaret Meslek ve Ticaret Meslek Lisesi Seminerleri
 Bugün Edirne **M.P. Anadolu Ticaret Meslek ve  Ticaret Meslek
 Lisesi**'nin organizasyonunu üstlendiği Edirne'deki meslek liseleri'nin

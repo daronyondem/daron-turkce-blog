@@ -1,13 +1,3 @@
----
-FallbackID: 2859
-Title: "Geçmiş ve gelecekle ilgili sizin değerlendirmeleriniz."
-date: "2013-10-21"
-EntryID: anket_2013
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Geçmiş ve gelecekle ilgili sizin değerlendirmeleriniz.
 Biraz önce bir bakiyim dedim de en son 2009'da [böyle bir
 anket](http://daron.yondem.com/tr/post/d13fee74-fe21-4eb5-8645-1782e7b8e21b)

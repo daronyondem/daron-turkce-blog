@@ -1,14 +1,3 @@
----
-FallbackID: 1872
-Title: "Silverlight 1.0 ve HTML Kontrolleri"
-date: "2007-12-3"
-EntryID: Silverlight_1_0_ve_HTML_Kontrolleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: c6b76702-1333-4aa8-8cca-2e42083d473a
----
 # Silverlight 1.0 ve HTML Kontrolleri
 Bolca **Silverlight 1.0** uygulamaları hazırladığımız :) bugünlerde
 maalesef Silverlight 1.0 ile beraber gelen hazır kontrollerin azlığı

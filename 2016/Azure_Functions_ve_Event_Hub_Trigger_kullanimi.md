@@ -1,13 +1,3 @@
----
-FallbackID: 3043
-Title: "Azure Functions ve Event Hub Trigger kullanımı"
-date: "2016-12-8"
-EntryID: Azure_Functions_ve_Event_Hub_Trigger_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 110
-Tags: Azure Functions
----
 # Azure Functions ve Event Hub Trigger kullanımı
 Eğer IoT taraflarıyla uğraştıysanız Azure Event Hub ile de karşılaşmış olmanız olası. Ben bu yazıda Event Hub'ın detaylarını ileriki bir yazıya bırarak Event Hub deneyimizin olduğunu varsayarak Azure Functions entegrasyonundan bahsedeceğim. Azure Functions ile beraber Event Hub ile entegre olabilmek adına hem **eventHubTrigger** geliyor hem de input ve output binding özellikleri geliyor. 
 

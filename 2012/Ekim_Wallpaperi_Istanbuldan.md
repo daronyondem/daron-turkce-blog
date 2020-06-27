@@ -1,13 +1,3 @@
----
-FallbackID: 2821
-Title: "Ekim Wallpaper'ı İstanbul'dan!"
-date: "2012-10-5"
-EntryID: Ekim_Wallpaperi_Istanbuldan
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Wallpaper
----
 # Ekim Wallpaper'ı İstanbul'dan!
 Geçen ay başladığım wallpaper serisine devam! :) Kendi çektiğim
 fotoğraflardan oluşan bu wallpaper serisinin yıl sonunda güzel bir arşiv

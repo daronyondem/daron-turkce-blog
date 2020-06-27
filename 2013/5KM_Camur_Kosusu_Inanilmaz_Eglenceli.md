@@ -1,13 +1,3 @@
----
-FallbackID: 2856
-Title: "5KM Çamur Koşusu İnanılmaz Eğlenceli"
-date: "2013-10-4"
-EntryID: 5KM_Camur_Kosusu_Inanilmaz_Eglenceli
-IsActive: True
-Section: fitness
-MinutesSpent: 0
-Tags: Spor
----
 # 5KM Çamur Koşusu İnanılmaz Eğlenceli
 Koşu maceralarım devam ediyor :) Merak etmeyin bloğu spor bloğuna
 çevirme niyetim yok, aynı şekilde her koşuyu da videoya kaydetmiyorum :D

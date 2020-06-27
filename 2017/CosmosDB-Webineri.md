@@ -1,11 +1,3 @@
----
-Title: "Microsoft için sunduğum CosmosDB Webineri"
-date: "2017-6-16"
-IsActive: True
-Section: software
-MinutesSpent: 13
-Tags: Azure Cosmos DB, Azure DocumentDB
----
 # Microsoft için sunduğum CosmosDB Webineri
 
 Dün Microsoft için iş ortaklarına özel bir **Cosmos DB** webineri sundum. Build 2017'de duyurulan Cosmos DB aslında bizim şirket olarak da daha önce [global lansmanında](http://www.informationweek.com/cloud/software-as-a-service/microsoft-azure-documentdb-customer-test-drive/d/d-id/1316138) olduğumuz Document DB'nin evrim geçirmiş hali :) Hatta DocumentDB kullananlarınız varsa, farkında olmayabilirsiniz fakat tüm DocumentDB hesaplarınız çoktan Cosmos DB'ye dönüştürüldü bile. 

@@ -1,13 +1,3 @@
----
-FallbackID: 2800
-Title: "Veri kaybını hayatımdan silen servis": DropBox
-date: "2012-2-21"
-EntryID: Veri_kaybini_hayatimdan_silen_servis_DropBox
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel, Servisler
----
 # Veri kaybını hayatımdan silen servis
 Çok uzun zamandır yazmak istediğim bir yazı hatta yazı türlerine bir
 giriş olur umarım bu blogpostum. Kullandığım ve herkese de tavsiye

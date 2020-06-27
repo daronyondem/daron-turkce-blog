@@ -1,14 +1,3 @@
----
-FallbackID: 2087
-Title: "Silverlight 2.0 Beta 2 ile gelen DataGrid yenilikleri"
-date: "2008-6-10"
-EntryID: Silverlight_2_0_Beta_2_ile_gelen_DataGrid_yenilikleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: fdba63c3-cf68-4f61-9527-aef452123c3b
----
 # Silverlight 2.0 Beta 2 ile gelen DataGrid yenilikleri
 Silverlight 2.0 Beta 1 ile beraber gelen DataGrid kontrolünün ana
 yapılarını daha

@@ -1,14 +1,3 @@
----
-FallbackID: 2050
-Title: "Silverlight 2.0 içerisinde ScrollViewer kullanımı."
-date: "2008-5-9"
-EntryID: Silverlight_2_0_icerisinde_ScrollViewer_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 3ef70f3d-f174-4b43-bc69-3f39c0bf22a6
----
 # Silverlight 2.0 içerisinde ScrollViewer kullanımı.
 Herhangi bir içeriği Silverlight 2.0 arayüzlerinde göstermek
 istediğinizde özellikle veri bağlanabilir çoğu kontrolün kendi

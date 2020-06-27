@@ -1,14 +1,3 @@
----
-FallbackID: 2556
-Title: "MSDays 2011 Sofya geldi geçti":)
-date: "2011-4-4"
-EntryID: MSDays_2011_Sofya_geldi_gecti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML5, Silverlight 4, Windows Phone 7, Windows Phone
-old.EntryID: dfc841d0-3f39-4831-a96c-92881d4ef6b1
----
 # MSDays 2011 Sofya geldi geçti
 Geçen sene yine bu zamanlarda [Sofya'da
 MSDays2010](http://daron.yondem.com/tr/post/cf847935-b068-4007-96af-66a3a7da2933)

@@ -1,14 +1,3 @@
----
-FallbackID: 2004
-Title: "Silverlight 2.0 Uygulamalarında farklı XAML dosyaları kullanmak."
-date: "2008-3-29"
-EntryID: Silverlight_2_0_Uygulamalarinda_farkli_XAML_dosyalari_kullanmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 9f42770f-889d-4173-acc4-5b9ddc02da33
----
 # Silverlight 2.0 Uygulamalarında farklı XAML dosyaları kullanmak.
 Bir Silverlight uygulamasında birden çok XAML dosyası kullanarak
 dosyalar arasında geçiş yapmak isteyebilirsiniz. Fakat bu noktada

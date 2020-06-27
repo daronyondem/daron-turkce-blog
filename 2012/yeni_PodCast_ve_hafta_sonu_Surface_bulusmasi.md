@@ -1,13 +1,3 @@
----
-FallbackID: 2829
-Title: "giik.FM'den haberler; yeni PodCast ve hafta sonu Surface buluşması!"
-date: "2012-11-15"
-EntryID: yeni_PodCast_ve_hafta_sonu_Surface_bulusmasi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Podcast, Windows 8, Windows Phone 8
----
 # giik.FM'den haberler; yeni PodCast ve hafta sonu Surface buluşması!
 Genelde böyle salt duyuru postları çıkmam bloga biliyorsunuz :) ama
 sanırım bir süre yapmam gerekecek :) en azından

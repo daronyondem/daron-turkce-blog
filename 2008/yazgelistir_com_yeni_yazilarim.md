@@ -1,14 +1,3 @@
----
-FallbackID: 2027
-Title: "yazgelistir.com'daki yeni yazılarım."
-date: "2008-4-18"
-EntryID: yazgelistir_com_yeni_yazilarim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0, WPF
-old.EntryID: 50118247-bc60-42b5-a394-2ee57c63dadd
----
 # yazgelistir.com'daki yeni yazılarım.
 Bir
 [yazgelistir.com](http://www.yazgelistir.com/Hakkinda/YazarDetay.aspx?UyeId=1000073305)

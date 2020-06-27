@@ -1,13 +1,3 @@
----
-FallbackID: 2851
-Title: "Haftanın Özeti; Acer Iconia, Surface Pro ve Azure AutoScaling"
-date: "2013-7-13"
-EntryID: Acer_Iconia_Surface_Pro_ve_Azure_AutoScaling
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Teknolot.TV, Unboxing, Windows Azure
----
 # Haftanın Özeti; Acer Iconia, Surface Pro ve Azure AutoScaling
 Bu aralar epey kendimi video olaylarına verdim :) Malum
 [AzureShow.com](http://www.azureshow.com)'un açılışı ile beraber

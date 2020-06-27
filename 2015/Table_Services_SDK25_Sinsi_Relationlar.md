@@ -1,13 +1,3 @@
----
-FallbackID: 2954
-Title: "Table Services (SDK2.5)": Sinsi Relationlar
-date: "2015-2-14"
-EntryID: Table_Services_SDK25_Sinsi_Relationlar
-IsActive: True
-Section: software
-MinutesSpent: 61
-Tags: Azure Storage Services, NOSQL, Windows Azure
----
 # Table Services (SDK2.5)
 Konuyla ilgili bir önceki yazı; [Azure Storage Table
 Services](http://daron.yondem.com/software/post/Azure_Storage_Table_Services_SDK2_5)

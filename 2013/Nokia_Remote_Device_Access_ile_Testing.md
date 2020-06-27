@@ -1,13 +1,3 @@
----
-FallbackID: 2863
-Title: "Nokia Remote Device Access ile Testing"
-date: "2013-10-24"
-EntryID: Nokia_Remote_Device_Access_ile_Testing
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Nokia, Windows 8, Windows 8.1, Windows Phone 8
----
 # Nokia Remote Device Access ile Testing
 Nokia tarafında yeni cihazlar çıktıkça cihaz çeşitliliği gün geçtikçe
 artıyor. Durum böyle olunca uygulamalarınızı da bu farklı cihazlarda

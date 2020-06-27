@@ -1,14 +1,3 @@
----
-FallbackID: 2192
-Title: "INETA CETURK seminerini gerçekleştirdik."
-date: "2008-9-21"
-EntryID: INETA_CETURK_seminerini_gerceklestirdik
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 3.5, Seminer, Visual Studio 2008, WPF
-old.EntryID: f91c070d-a3ed-4ca4-972b-dfe44090f222
----
 # INETA CETURK seminerini gerçekleştirdik.
 Bugün **Microsoft** Türkiye binasında **INETA** üyelerinden
 **CETURK'ün** tam gün yazılım seminerleri etkinliğini gerçekleştirdik.

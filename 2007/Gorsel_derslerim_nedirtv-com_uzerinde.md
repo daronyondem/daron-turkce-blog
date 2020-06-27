@@ -1,14 +1,3 @@
----
-FallbackID: 1760
-Title: "Görsel derslerim nedirtv?com üzerinde!"
-date: "2007-8-24"
-EntryID: Gorsel_derslerim_nedirtv-com_uzerinde
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET, Görsel Ders
-old.EntryID: 10bc527f-299d-4804-900e-966103880a72
----
 # Görsel derslerim nedirtv?com üzerinde!
 Uzun süredir görsel dersler hazırlamayı düşünüyordum. Esas sorun bu
 dersleri nasıl blog üzerinden paylaşacağımdı. Terzi kendi söküğünü

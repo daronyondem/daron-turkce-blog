@@ -1,14 +1,3 @@
----
-FallbackID: 2210
-Title: "WPF 3.5 SP1 ve Pixel Shader efektlerinin kullanımı..."
-date: "2008-10-9"
-EntryID: WPF_3_5_SP1_ve_Pixel_Shader_efektlerinin_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WPF
-old.EntryID: 9c4b31d1-b7d5-4b39-a636-be1b53029f53
----
 # WPF 3.5 SP1 ve Pixel Shader efektlerinin kullanımı...
 .NET Framework 3.5 SP1 ile beraber gelen en büyük yeniliklerden biri de
 **PixelShader** kullanımının artık WPF uygulamalarında rahat bir şekilde

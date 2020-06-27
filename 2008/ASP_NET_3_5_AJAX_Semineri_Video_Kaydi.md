@@ -1,14 +1,3 @@
----
-FallbackID: 2291
-Title: "ASP.NET 3.5 AJAX Semineri Video Kaydı"
-date: "2008-12-30"
-EntryID: ASP_NET_3_5_AJAX_Semineri_Video_Kaydi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET 3.5, ASP.NET
-old.EntryID: 1ffe5b40-8f49-4801-bf5f-dfc2891cf5b3
----
 # ASP.NET 3.5 AJAX Semineri Video Kaydı
 Bu aralar birçok yazıma "gelen maillerde de sürekli istediğiniz gibi"
 şeklinde cümlelerle başladığımı görünce aslında bir süredir sizden gelen

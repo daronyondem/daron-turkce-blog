@@ -1,14 +1,3 @@
----
-FallbackID: 1866
-Title: "Acil İş İlanı"
-date: "2007-11-29"
-EntryID: Acil_Is_Ilani
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: İş İlanı
-old.EntryID: 552598e1-6fe2-4f27-9cb8-b242a06c1c8e
----
 # Acil İş İlanı
 Bugün acil bir telefon ile "süper bir programcı" siparişi aldım :)
 Genelde böyle sipariş çok geliyor ama bu seferki sanırım cidden acil :)

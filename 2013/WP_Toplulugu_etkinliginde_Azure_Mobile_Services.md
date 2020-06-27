@@ -1,13 +1,3 @@
----
-FallbackID: 2846
-Title: "WP Topluluğu etkinliğinde Azure Mobile Services"
-date: "2013-6-12"
-EntryID: WP_Toplulugu_etkinliginde_Azure_Mobile_Services
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Windows Azure
----
 # WP Topluluğu etkinliğinde Azure Mobile Services
 Geçen hafta sonu Ankara'daydım. Baktım İstanbul'da eylemler yumuşadı,
 "*Nerede hareket orada bereket*" diyerek... Sanırım ağlanacak halimizle

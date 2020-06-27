@@ -1,14 +1,3 @@
----
-FallbackID: 1860
-Title: "nedirtv?com'da Devir Teslim"
-date: "2007-11-22"
-EntryID: nedirtv_com_da_Devir_Teslim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Görsel Ders
-old.EntryID: 5ba966db-41de-4891-b36e-59e34f9fb9ed
----
 # nedirtv?com'da Devir Teslim
 ![](media/nedirtv_com_da_Devir_Teslim/nedirtv_logo.png)Uzun
 süredir görsel derslerimi yayınladığım VB.NET, WPF ve Silverlight

@@ -1,14 +1,3 @@
----
-FallbackID: 2074
-Title: "Gördüğüm ilk Silverlight Şapkalı'ya hediyem var":)
-date: "2008-6-2"
-EntryID: Gordugum_ilk_Silverlight_Sapkali_ya_hediyem_var
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Silverlight 2.0
-old.EntryID: 388be2a5-d4ed-4c89-bd86-976fb65a19f8
----
 # Gördüğüm ilk Silverlight Şapkalı'ya hediyem var
 Haziran'ın bu ilk gününde yazı karşılarken size yeni bir sürprizim var
 :)

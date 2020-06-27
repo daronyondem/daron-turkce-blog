@@ -1,13 +1,3 @@
----
-FallbackID: 2828
-Title: "Microsoft Surface RT Unboxing Videosu"
-date: "2012-11-9"
-EntryID: Microsoft_Surface_RT_Unboxing_Videosu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Unboxing, Windows 8
----
 # Microsoft Surface RT Unboxing Videosu
 Hatırlayanlarınız olacaktır geçenlerde [Windows Phone 8 Lumia 920 ile
 ilgili bir "unboxing"

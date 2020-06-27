@@ -1,13 +1,3 @@
----
-FallbackID: 2911
-Title: "Web Sitelerinde Azure Mobile Services"
-date: "2014-7-23"
-EntryID: Web_Sitelerinde_Azure_Mobile_Services
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET, Azure Mobile Services, HTML, HTML5, JavaScript, Windows Azure
----
 # Web Sitelerinde Azure Mobile Services
 Azure Mobile Services konusunda bundan önce sizlerle [bazı videolar
 paylaştım, webcastler

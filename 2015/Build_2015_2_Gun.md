@@ -1,13 +1,3 @@
----
-FallbackID: 2969
-Title: "Build 2015 2. Gün"
-date: "2015-4-30"
-EntryID: Build_2015_2_Gun
-IsActive: True
-Section: software
-MinutesSpent: 15
-Tags: 
----
 # Build 2015 2. Gün
 Dünkü Gün 1 özetinden sonra ikinci gün ile karşınızdayım -) İkinci günden de iki tane video var
 Dünkü Gün 1 özetinden sonra ikinci gün ile karşınızdayım :) İkinci günden de iki tane video var elimde. Keynote öncesi ve sonrası :)

@@ -1,13 +1,3 @@
----
-FallbackID: 2950
-Title: "Konya Karatay Üniversitesi, Boş Durma Boşa Çalış":)
-date: "2014-12-12"
-EntryID: Konya_Karatay_Universitesi_Bos_Durma_Bosa_Calis
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Kişisel Gelişim
----
 # Konya Karatay Üniversitesi, Boş Durma Boşa Çalış
 Bu hafta içi (dün) Konya, Karatay Üniversitesi'ndeydim. Her zamankinden farklı olarak teknik bir oturum yerine ilk defa aylar önce yine Konya'da sunduğum **"Boş durma, boşa çalış."** adındaki oturumumu sundum. Bu oturum özellikle benim "[Uykudan Önce Bir Doz](www.leanpub.com/uykudan_once_bir_doz)" ile paylaşmaya çalıştıklarımla aynı yönde bir paylaşım diyebiliriz.
 

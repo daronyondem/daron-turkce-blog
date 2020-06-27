@@ -1,14 +1,3 @@
----
-FallbackID: 2225
-Title: "MSDN Labs'dan geleceğin programcılarına "Small Basic""
-date: "2008-10-24"
-EntryID: MSDN_Labs_dan_gelecegin_programcilarina_Small_Basic
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: fc4efdfa-8cfe-49f7-b75d-a1f4aa197493
----
 # MSDN Labs'dan geleceğin programcılarına Small Basic
 Microsoft'un **Photosynth** gibi birçok yeni projesinin aslında ayrı
 araştırma ekiplerinin projeleri olduğunu ve sonradan

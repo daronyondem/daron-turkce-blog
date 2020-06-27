@@ -1,14 +1,3 @@
----
-FallbackID: 2205
-Title: "INETA Capital Hit için Çankaya Üniversitesi'ne nasıl ulaşılır?"
-date: "2008-10-4"
-EntryID: INETA_Capital_Hit_icin_Cankaya_Universitesi_ne_nasil_ulasilir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer
-old.EntryID: 4aa1f2bb-bfa2-486b-81e2-c83db7cb1c96
----
 # INETA Capital Hit için Çankaya Üniversitesi'ne nasıl ulaşılır?
 Bugünlerde [INETA Capital
 Hit](http://daron.yondem.com/tr/post/e7784945-391f-4e80-af92-2e8499d13592)

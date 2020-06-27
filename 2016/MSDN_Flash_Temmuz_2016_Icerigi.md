@@ -1,13 +1,3 @@
----
-FallbackID: 3023
-Title: "MSDN Flash Temmuz 2016 İçeriği"
-date: "2016-6-8"
-EntryID: MSDN_Flash_Temmuz_2016_Icerigi
-IsActive: True
-Section: software
-MinutesSpent: 37
-Tags: .NET Core, MSDN Flash, Nano Server, Node.JS, SQL Server 2016, Visual Studio 2015, Visual Studio Code, Windows Azure
----
 # MSDN Flash Temmuz 2016 İçeriği
 MSDN Flash's üyeyseniz iki ayda bir fotoğrafımı görüyorsunuz :) Temmuz sayısını da biraz önce Microsoft'ta gönderdim. Beni takip edenlere kıyak geçmek adına da buradan paylaşıyorum :)
 

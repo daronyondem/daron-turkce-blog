@@ -1,13 +1,3 @@
----
-FallbackID: 2951
-Title: "Microsoft Türkiye Cloud DevCamp Istanbul"
-date: "2014-12-17"
-EntryID: Microsoft_Turkiye_Cloud_DevCamp_Istanbul
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Windows Azure
----
 # Microsoft Türkiye Cloud DevCamp Istanbul
 ![](media/Microsoft_Turkiye_Cloud_DevCamp_Istanbul/devcamp.jpg)
 

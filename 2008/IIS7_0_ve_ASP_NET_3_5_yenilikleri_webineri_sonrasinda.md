@@ -1,14 +1,3 @@
----
-FallbackID: 1919
-Title: "IIS7.0 ve ASP.NET 3.5 yenilikleri webineri sonrasında..."
-date: "2008-1-15"
-EntryID: IIS7_0_ve_ASP_NET_3_5_yenilikleri_webineri_sonrasinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IIS 7.0, Webiner
-old.EntryID: f198b9e9-fc52-4995-bf92-4b1aaecb83ee
----
 # IIS7.0 ve ASP.NET 3.5 yenilikleri webineri sonrasında...
 Bugün **40** kişilik bir katılım ile **IIS7.0 ve ASP.NET 3.5**
 **Yenilikleri** webinerimizi gerçekleştirdik. Webiner boyunca IIS 7.0

@@ -1,13 +1,3 @@
----
-FallbackID: 2907
-Title: "Konya Selçuk Üniversitesi Girişimcilik ve Ekonomi Zirvesi"
-date: "2014-5-9"
-EntryID: Selcuk_Universitesi_Girisimcilik_Ekonomi_Zirvesi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Kişisel Gelişim, Seminer
----
 # Konya Selçuk Üniversitesi Girişimcilik ve Ekonomi Zirvesi
 Dün Konya yollarındaydım. Selçuk Üniversitesi'ndeki "**Girişimcilik ve
 Ekonomi Zirvesi**" için Endüstri Mühendisliği Topluluğu tarafından davet

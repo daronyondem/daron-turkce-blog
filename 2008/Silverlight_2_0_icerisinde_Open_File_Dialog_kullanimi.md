@@ -1,14 +1,3 @@
----
-FallbackID: 2118
-Title: "Silverlight 2.0 içerisinde Open File Dialog kullanımı"
-date: "2008-7-10"
-EntryID: Silverlight_2_0_icerisinde_Open_File_Dialog_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 127a5e83-590f-44e1-8cdb-b69603944fc1
----
 # Silverlight 2.0 içerisinde Open File Dialog kullanımı
 **Silverlight 2.0 Beta 2** içerisinden normal şartlarda uygulamanın
 çalıştığı bilgisayardaki dosyalara ulaşma şansınız olmaz. Bu durum

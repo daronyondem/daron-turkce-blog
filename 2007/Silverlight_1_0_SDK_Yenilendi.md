@@ -1,14 +1,3 @@
----
-FallbackID: 1854
-Title: "Silverlight 1.0 SDK Yenilendi"
-date: "2007-11-19"
-EntryID: Silverlight_1_0_SDK_Yenilendi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 6b37ced4-945c-4e54-bac6-fe3120630f11
----
 # Silverlight 1.0 SDK Yenilendi
 Silverlight 1.0'a ait SDK paketi yenilendi. Hemen aşağıdaki adresten
 bilgisayarınıza indirerek yükleyebilirsiniz. Özellikle hali hazırda

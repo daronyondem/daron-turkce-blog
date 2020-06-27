@@ -1,14 +1,3 @@
----
-FallbackID: 2126
-Title: "Silverlight 2.0 Beta 2 ve PHP ile mailform uygulaması"
-date: "2008-7-18"
-EntryID: Silverlight_2_0_Beta_2_ve_PHP_ile_mailform_uygulamasi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: b133a50e-9d51-47bc-a552-fd2dcf871c00
----
 # Silverlight 2.0 Beta 2 ve PHP ile mailform uygulaması
 İster PHP olsun ister farklı sunucu taraflı programlama dilleri olsun
 hepsi de "adı üzerinde" sunucu tarafında çalışıyorlar. Biz ise

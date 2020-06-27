@@ -1,14 +1,3 @@
----
-FallbackID: 2338
-Title: "MIX 2009 yollarında..."
-date: "2009-3-17"
-EntryID: MIX_2009_yollarinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Silverlight 3.0, Internet Explorer
-old.EntryID: 037a9654-6f5b-42dd-a6ce-daf5197b05ed
----
 # MIX 2009 yollarında...
 Bu hafta çok hareketli bir hafta olacak ve bundan sonraki günler de aynı
 şekilde :) Şu anda sizlere Atatürk Hava Limanı StarBucks'tan yazıyorum.

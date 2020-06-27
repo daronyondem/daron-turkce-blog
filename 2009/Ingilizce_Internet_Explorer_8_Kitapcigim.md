@@ -1,14 +1,3 @@
----
-FallbackID: 2423
-Title: "İngilizce Internet Explorer 8 Kitapçığım"
-date: "2009-10-10"
-EntryID: Ingilizce_Internet_Explorer_8_Kitapcigim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Internet Explorer
-old.EntryID: d8e0b765-c485-4b24-9d39-9dd541c6ad87
----
 # İngilizce Internet Explorer 8 Kitapçığım
 Bir hayallim daha kısmen gerçek oldu :) Şimdi bu da ne demek? değil mi
 :) Hayallerimden biri de bir gün İngilizce bir kitap yazmaktı. Kitap

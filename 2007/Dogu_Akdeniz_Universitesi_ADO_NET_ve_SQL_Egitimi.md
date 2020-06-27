@@ -1,14 +1,3 @@
----
-FallbackID: 1880
-Title: "Doğu Akdeniz Üniversitesi ADO.NET ve SQL Eğitimi"
-date: "2007-12-10"
-EntryID: Dogu_Akdeniz_Universitesi_ADO_NET_ve_SQL_Egitimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler
-old.EntryID: 8738565d-aa29-4a4e-9798-b44ad488bb1c
----
 # Doğu Akdeniz Üniversitesi ADO.NET ve SQL Eğitimi
 Son 10 gündür KKTC'de **Doğu Akdeniz Üniversitesi**'nde ADO.NET ve SQL
 eğitimindeydim. Her zamanki gibi muhteşem bir eğitim geçirdik. Özellikle

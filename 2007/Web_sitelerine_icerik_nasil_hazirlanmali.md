@@ -1,14 +1,3 @@
----
-FallbackID: 1787
-Title: "Web sitelerine içerik nasıl hazırlanmalı?"
-date: "2007-9-19"
-EntryID: Web_sitelerine_icerik_nasil_hazirlanmali
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler
-old.EntryID: 14110645-0ab6-4a7a-9df7-917f46b82b95
----
 # Web sitelerine içerik nasıl hazırlanmalı?
 Artık "çok uzun yıllar" diyebileceğim kadar uzun bir süredir içerik
 yönetim sistemleri üzerine çalışıyorum. Özellikle [**DEVELOAD

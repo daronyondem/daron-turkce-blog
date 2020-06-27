@@ -1,13 +1,3 @@
----
-FallbackID: 2875
-Title: "Blogumu Azure'a taşıdıktan sonraki maliyetler."
-date: "2014-1-31"
-EntryID: blogumu_azure_a_tasidiktan_sonraki_maliyetler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Haberler, Windows Azure
----
 # Blogumu Azure'a taşıdıktan sonraki maliyetler.
 Bir süre önce yıllardır kullandığım VPS'den kurtulma kararım
 çerçevesinde elimdeki herşeyi Azure'a taşımaya karar verdim :) Bu

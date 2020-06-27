@@ -1,13 +1,3 @@
----
-FallbackID: 2842
-Title: "Mobilist Mobil Uygulama Geliştirme Konferansı"
-date: "2013-4-22"
-EntryID: Mobilist_Mobil_Uygulama_Gelistirme_Konferansi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Windows Azure
----
 # Mobilist Mobil Uygulama Geliştirme Konferansı
 Geçen cumartesi sabahı İstanbul Bahçeşehir Üniversitesi'nde gerçekleşen
 "Mobilist Mobil Uygulama Geliştirme Konferansı"ndaydım. Konferasın

@@ -1,13 +1,3 @@
----
-FallbackID: 2727
-Title: "Internet Explorer 10 ve HTML5 (Video)"
-date: "2011-11-16"
-EntryID: Internet_Explorer_10_ve_HTML5_Video
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML5, IE 10
----
 # Internet Explorer 10 ve HTML5 (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"

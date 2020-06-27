@@ -1,13 +1,3 @@
----
-FallbackID: 2895
-Title: "İstanbul'da MEA MVP Open Day 2014"
-date: "2014-3-23"
-EntryID: Istanbul_da_MEA_MVP_Open_Day_2014
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MVP, MVP Summit
----
 # İstanbul'da MEA MVP Open Day 2014
 [2008 yılından beridir MVP
 Programı'ndayım](http://daron.yondem.com/tr/post/2013_icin_de_RD__MVP_ve_NDC_unvanlarini_aldim).

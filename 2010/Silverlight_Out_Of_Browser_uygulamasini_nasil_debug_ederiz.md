@@ -1,14 +1,3 @@
----
-FallbackID: 2530
-Title: "Silverlight Out Of Browser uygulamasını nasıl debug ederiz?"
-date: "2010-7-20"
-EntryID: Silverlight_Out_Of_Browser_uygulamasini_nasil_debug_ederiz
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0, Silverlight 4, Visual Studio 2010
-old.EntryID: 9da5e764-b6bd-4779-b8ed-67197b97417f
----
 # Silverlight Out Of Browser uygulamasını nasıl debug ederiz?
 Sanırım aradan epey zaman geçti fakat :) geçenlerde misafir olarak
 bulunduğum bir şirkette aşağıdaki ipucunu paylaştığımda "Neden bloga

@@ -1,13 +1,3 @@
----
-FallbackID: 2991
-Title: "Adana Yazılım ve Teknoloji Zirvesi"
-date: "2015-12-3"
-EntryID: Adana_Yazilim_ve_Teknoloji_Zirvesi
-IsActive: True
-Section: software
-MinutesSpent: 12
-Tags: Seminer
----
 # Adana Yazılım ve Teknoloji Zirvesi
 Dün **Adana Yazılım ve Teknoloji Zirvesi** için Çukurova Üniversitesi'ni ziyaret ettim. Azure, AWS, GoogleCloud ile ortaya karışık bir Cloud oturumu yaptık. Benim için süper zevkli bir gündü. 
 

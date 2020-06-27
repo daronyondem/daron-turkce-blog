@@ -1,14 +1,3 @@
----
-FallbackID: 2275
-Title: "Expression Studio 2 ve Visual Studio 2008 Standart beraber sadece 350$"
-date: "2008-12-14"
-EntryID: Expression_Studio_2_ve_Visual_Studio_2008_Standart_beraber_sadece_350USD
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Visual Studio 2008
-old.EntryID: 2c484ab6-00ac-4c08-8a5a-2041f01e0cf8
----
 # Expression Studio 2 ve Visual Studio 2008 Standart beraber sadece 350$
 Sizlere şaşıracağını düşündüğüm bir haberim var :) Genelde neredeyse tüm
 seminerlerimde Microsoft'un yazılım geliştirici ve tasarımcı araçlarının

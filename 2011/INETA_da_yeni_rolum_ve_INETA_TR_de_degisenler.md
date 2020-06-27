@@ -1,13 +1,3 @@
----
-FallbackID: 2745
-Title: "INETA'da yeni rolüm ve INETA TR'de değişenler!"
-date: "2011-12-25"
-EntryID: INETA_da_yeni_rolum_ve_INETA_TR_de_degisenler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # INETA'da yeni rolüm ve INETA TR'de değişenler!
 Her yılbaşı bir anlamda yeni bir başlangıca vesile olma potansiyeli
 taşır :) İşte bu yılbaşında bu potansiyeli kinetiğe çevirip :) INETA

@@ -1,14 +1,3 @@
----
-FallbackID: 2070
-Title: "Silverlight 2.0 içerisinde fare roller'ını kullanmak..."
-date: "2008-5-28"
-EntryID: Silverlight_2_0_icerisinde_fare_roller_ini_kullanmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 6c65ffd8-1d62-45c8-a591-555380135504
----
 # Silverlight 2.0 içerisinde fare roller'ını kullanmak...
 Silverlight 2.0 içerisinde .NET programlama dillerini kullanırken
 istemci tarafında bir tarayıcıda olduğumuzu sürekli hatırlamak gerek. Bu

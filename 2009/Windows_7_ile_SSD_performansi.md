@@ -1,14 +1,3 @@
----
-FallbackID: 2420
-Title: "Windows 7 ile SSD performansı!"
-date: "2009-10-3"
-EntryID: Windows_7_ile_SSD_performansi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7
-old.EntryID: dae35c7f-573a-41b1-83d4-987a51947944
----
 # Windows 7 ile SSD performansı!
 Bugün sizlerle ilginç bir yazı paylaşacağım. Bundan yıllar önce :)
 darkhardware.com'da [donanım

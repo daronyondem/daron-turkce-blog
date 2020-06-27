@@ -1,13 +1,3 @@
----
-FallbackID: 3034
-Title: "MSDN Flash Kasım 2016 İçeriği"
-date: "2016-11-30"
-EntryID: MSDN_Flash_Kasim_2016_Icerigi
-IsActive: True
-Section: software
-MinutesSpent: 42
-Tags: .NET Core, Azure App Insights, Azure App Services, Azure Bot Services, Azure Container Services, Azure Data Lake, Azure DocumentDB, Azure Functions, Azure Storage Services, DocumentDB, Unity, Visual Studio 2017, Visual Studio for Mac, Xamarin
----
 # MSDN Flash Kasım 2016 İçeriği
 
 Hatırlarsanız geçen ay epey sakin geçmişti. Bu ay ise tam tersine, inanılmaz yoğun bir ay oldu. Özellikle Microsoft Connect etkinliği ile beraber duyuruların sonu gelmedi. Her zamanki gibi yine hızlı bir liste yapalım, sonra da birkaç tane duyurunun detaylarına göz atarız.

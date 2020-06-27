@@ -1,14 +1,3 @@
----
-FallbackID: 2513
-Title: "Yazgeliştir Zirvesi Geliyor..."
-date: "2010-4-23"
-EntryID: Yazgelistir_Zirvesi_Geliyor
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 47cfe917-61b2-4ebe-9424-e4cc4fc37d53
----
 # Yazgeliştir Zirvesi Geliyor...
 Daha dün yazdığım yazı sonrasında birçok mail aldım, hatta bloga da
 yorumlar geldi. Blogumda zaten kendi konuştuğum ve genel blog

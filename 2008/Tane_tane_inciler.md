@@ -1,14 +1,3 @@
----
-FallbackID: 1962
-Title: "Tane tane inciler..."
-date: "2008-2-18"
-EntryID: Tane_tane_inciler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 1cd9179f-0993-4e98-9b8e-2f91007c7173
----
 # Tane tane inciler...
 Bazı şeyleri tekrar etmek istiyorum. Çünkü eminim ki blogumu ziyaret
 edenler, yeni ziyaret etmeye başlayanlar eski yazılarımda bu noktaların

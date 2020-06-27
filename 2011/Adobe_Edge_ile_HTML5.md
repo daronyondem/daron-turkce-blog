@@ -1,13 +1,3 @@
----
-FallbackID: 2730
-Title: "Adobe Edge ile HTML5'e erken bir bakış"
-date: "2011-11-22"
-EntryID: Adobe_Edge_ile_HTML5
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Edge, HTML5
----
 # Adobe Edge ile HTML5'e erken bir bakış
 Son zamanların ciddi popüler konularından biri HTML5 :) Aslında bu
 konuda konuşacak çok şey var. Danışmanlıklarımın %90'ında HTML5 soruları

@@ -1,13 +1,3 @@
----
-FallbackID: 2823
-Title: "Kasım 2012 Çekiliş Kitapları"
-date: "2012-11-6"
-EntryID: Kasim_2012_Cekilis_Kitaplari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Kasım 2012 Çekiliş Kitapları
 Çekilişlere devam! :) Kasım ayı İngilizce kitabımız bu sefer Windows
 Azure üzerine! Packt'in Microsoft Azure üzerine Enterprise Application

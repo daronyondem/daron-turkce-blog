@@ -1,13 +1,3 @@
----
-FallbackID: 3012
-Title: "Imagine Cup 2016 Türkiye Finali"
-date: "2016-4-15"
-EntryID: Imagine_Cup_2016_Turkiye_Finali
-IsActive: True
-Section: software
-MinutesSpent: 16
-Tags: Seminer
----
 # Imagine Cup 2016 Türkiye Finali
 Dün **Imagine Cup 2016 Türkiye Finali**'ndeydim. Tüm finali Periscope'dan canlı olarak yayınladım, kaydını da sonrasında [Youtube](http://daron.tv) üzerinden paylaştım. Merak edenler final sunumlarını, jürinin sunumlar esnasında yorumlarını ve nihai değerlendirmeyi aşağıdaki videodan izleyebilirler.
 

@@ -1,14 +1,3 @@
----
-FallbackID: 2541
-Title: "WebMatrix ile Razor Syntax'ına Giriş"
-date: "2011-1-3"
-EntryID: WebMatrix_ile_Razor_Syntaxina_Giris
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WebMatrix
-old.EntryID: ee938be5-fe8b-46e7-af6d-23db812911ac
----
 # WebMatrix ile Razor Syntax'ına Giriş
 Dün WebMatrix dünyasına hızlı bir giriş yapmış ve yeni bir proje
 yarattıktan sonra ne tip dosyalar ekleyebileceğimize bakarak elde

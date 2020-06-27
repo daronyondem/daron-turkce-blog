@@ -1,14 +1,3 @@
----
-FallbackID: 2035
-Title: "Silverlgiht 2.0 ve WCF Servisleri"
-date: "2008-4-25"
-EntryID: Silverlgiht_2_0_ve_WCF_Servisleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0, WCF
-old.EntryID: ec53a760-d6fd-414d-aa78-22e0c04dcc19
----
 # Silverlgiht 2.0 ve WCF Servisleri
 .NET Framework 3.0 ile beraber karşımıza çıkan WCF servisleri aslında
 çoktan klasik web servislerinin yerini de almış durumda. Tabi ki

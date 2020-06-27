@@ -1,14 +1,3 @@
----
-FallbackID: 1725
-Title: "SWOT Analizi nedir, nasıl yapılır?"
-date: "2007-4-12"
-EntryID: SWOT_Analizi_nedir_nasil_yapilir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Stratejik Planlama
-old.EntryID: 9b36c7fd-8b36-4e57-a8f1-2e6877a79c9b
----
 # SWOT Analizi nedir, nasıl yapılır?
 **SWOT** Analizi, diğer adı ile **TOWS Matrisi** önceden belirlenmiş bir
 konu dahilinde karar alma aşamasında yardımcı bir araç olarak

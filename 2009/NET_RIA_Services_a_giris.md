@@ -1,14 +1,3 @@
----
-FallbackID: 2421
-Title: ".NET RIA Services'a giriş."
-date: "2009-10-9"
-EntryID: NET_RIA_Services_a_giris
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 235a0c4a-d1e4-44ad-80a4-55aca3526c21
----
 # .NET RIA Services'a giriş.
 Günümüzde artık tarayıcı içi iş uygulamalarında uygulama geliştirme
 platformu olarak Silverlight dışında pek birşey düşünülemiyor. Fakat bu

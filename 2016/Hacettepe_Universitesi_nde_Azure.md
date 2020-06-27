@@ -1,13 +1,3 @@
----
-FallbackID: 3013
-Title: "Hacettepe Üniversitesi'nde Azure"
-date: "2016-4-12"
-EntryID: Hacettepe_Universitesi_nde_Azure
-IsActive: True
-Section: software
-MinutesSpent: 9
-Tags: Seminer, Windows Azure
----
 # Hacettepe Üniversitesi'nde Azure
 Dün Ankara'da **Hacettepe Üniversitesi**'ndeydim. **Microsoft Tech Tour** çerçevesinde tahmin edebileceğiniz üzere **Azure, Cloud ve IoT** derken ortaya karışık bir oturum yaptım. Oturum sonrasında da gençlerle bol bol sohbet etme şansımız oldu.
 

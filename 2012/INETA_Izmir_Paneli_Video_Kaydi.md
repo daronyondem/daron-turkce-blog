@@ -1,13 +1,3 @@
----
-FallbackID: 2749
-Title: "INETA İzmir Paneli Kaydı (Video)"
-date: "2012-1-10"
-EntryID: INETA_Izmir_Paneli_Video_Kaydi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # INETA İzmir Paneli Kaydı (Video)
 Hatırlayacaksınız :) geçenlerde INETA Türkiye[İzmir'de güzel bir
 etkinliğe](http://daron.yondem.com/tr/post/INETA_Izmir_Etkinligi_Geldi_Gecti)

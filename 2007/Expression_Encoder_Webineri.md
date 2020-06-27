@@ -1,14 +1,3 @@
----
-FallbackID: 1862
-Title: "Expression Encoder Webineri"
-date: "2007-11-25"
-EntryID: Expression_Encoder_Webineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Encoder, Webiner
-old.EntryID: ff7523bf-582c-44f1-962f-9bca5f4b630d
----
 # Expression Encoder Webineri
 **26 Kasım, Pazartesi** günü saat **15.15-16.00** arasında **Expression
 Encoder** webineri ile tekrar karşınızda olacağım. Webiner süresince

@@ -1,14 +1,3 @@
----
-FallbackID: 2551
-Title: "MVP Summit 2011 de geldi geçiyor!"
-date: "2011-3-2"
-EntryID: MVP_Summit_2011_de_geldi_geciyor
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MVP, MVP Summit
-old.EntryID: 4ab4f834-7754-42a3-ad17-5109254740b8
----
 # MVP Summit 2011 de geldi geçiyor!
 Son iki haftadır uzaklardayım :) Esas nedeni her sene gerçekleşen **MVP
 Summit** için **Seattle'a** gidiyor olmam. Bugün özellikle **Steve

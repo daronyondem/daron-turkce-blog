@@ -1,14 +1,3 @@
----
-FallbackID: 2021
-Title: "Silverlight 1.0 ile Mayın Tarlası"
-date: "2008-4-13"
-EntryID: Silverlight_1_ile_Mayin_Tarlasi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 590b9184-d245-4358-b9b9-1cb1bcb0e709
----
 # Silverlight 1.0 ile Mayın Tarlası
 Öğrencilerimle gurur duyuyorum :) "Öğrencilerim" dedikçe kendimi biraz
 yaşlandırdığımın farkındayım ama gerçekten çok gurur verici bir tablo

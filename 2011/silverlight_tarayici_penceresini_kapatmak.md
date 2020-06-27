@@ -1,13 +1,3 @@
----
-FallbackID: 2677
-Title: "Silverlight'tan tarayıcı penceresini kapatmak"
-date: "2011-8-31"
-EntryID: silverlight_tarayici_penceresini_kapatmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Silverlight 2.0, Silverlight 3.0, Silverlight 4, Silverlight 5
----
 # Silverlight'tan tarayıcı penceresini kapatmak
 Geçenlerde mail ile gelen sorulardan birinde Silverlight ile tarayıcıyı
 kapatmanın mümkün olup olmadığı vardı. Cevaben soruyu soran arkadaşa

@@ -1,13 +1,3 @@
----
-FallbackID: 2848
-Title: "Teknolot.TV, Daron.TV ve AzureShow.com":)
-date: "2013-6-25"
-EntryID: TeknolotTV_DaronTV_ve_AzureShowCom
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Haberler, Teknolot.TV, Windows Azure
----
 # Teknolot.TV, Daron.TV ve AzureShow.com
 Bu aralar çok yoğun bir tempo var :) Söylemedi demeyin... Haber haber
 üzerine, paylaşım paylaşım üzerine takılacağız önümüzdeki bir hafta. İlk

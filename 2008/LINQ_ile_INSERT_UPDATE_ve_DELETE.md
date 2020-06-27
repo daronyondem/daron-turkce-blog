@@ -1,14 +1,3 @@
----
-FallbackID: 1905
-Title: "LINQ ile INSERT, UPDATE ve DELETE"
-date: "2008-1-2"
-EntryID: LINQ_ile_INSERT_UPDATE_ve_DELETE
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: LINQ
-old.EntryID: 39bda292-3e08-499c-8824-b17f81fdaf50
----
 # LINQ ile INSERT, UPDATE ve DELETE
 **LINQ** ile veritabanına sorgu göndererek istediğimiz verileri
 alabileceğimiz örneklere blogumda eski yazılarımda bolca yer verdim.

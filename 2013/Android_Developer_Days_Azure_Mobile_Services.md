@@ -1,13 +1,3 @@
----
-FallbackID: 2847
-Title: "Android Developer Days'de Azure Mobile Services"
-date: "2013-6-15"
-EntryID: Android_Developer_Days_Azure_Mobile_Services
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Windows Azure
----
 # Android Developer Days'de Azure Mobile Services
 Bugün Ankara'daydım ve çoğunuza ilginç geleceğinizi tahmin ettiğim bir
 etkinlikteydim; ["Android Developer

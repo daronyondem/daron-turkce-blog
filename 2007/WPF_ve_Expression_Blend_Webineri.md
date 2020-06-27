@@ -1,14 +1,3 @@
----
-FallbackID: 1873
-Title: "WPF ve Expression Blend Webineri"
-date: "2007-12-4"
-EntryID: WPF_ve_Expression_Blend_Webineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Webiner, WPF
-old.EntryID: ba98e187-14c2-4c8b-a1d7-8fd848a00e63
----
 # WPF ve Expression Blend Webineri
 **7 Aralık, Cuma** günü saat **15.15-16.00** arasında **WPF ve
 Expression Blend** webineri ile tekrar karşınızda olacağım. Webiner

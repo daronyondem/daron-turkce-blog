@@ -1,13 +1,3 @@
----
-FallbackID: 2705
-Title: "Windows 8 Metro UI'da AppBar Kullanımı"
-date: "2011-9-22"
-EntryID: Windows_8_Metro_UI_da_AppBar_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Metro UI, Visual Studio 11, Windows 8
----
 # Windows 8 Metro UI'da AppBar Kullanımı
 Windows 8 ile beraber Metro UI'da gelen uygulamalarda ekranı
 olabildiğince temiz tutabilmek adına uygulama komutlarının ciddi bir

@@ -1,14 +1,3 @@
----
-FallbackID: 2034
-Title: "Microsoft Yaz Okulu 2008"
-date: "2008-4-23"
-EntryID: Microsoft_Yaz_Okulu_2008
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 4614247d-7535-4339-a0e9-d5ef651ebb7d
----
 # Microsoft Yaz Okulu 2008
 **Microsoft Yaz Okulu** tamamen ücretsiz olup 20 gün süreyle
 katılımcılara yoğun bir programın aktarılmasını öngörüyor. Bu yıl 12.

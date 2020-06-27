@@ -1,14 +1,3 @@
----
-FallbackID: 2507
-Title: "Silverlight 4'te desktop (Out-Of-Browser) uygulamalarının pencere tasarımını değiştirmek"
-date: "2010-4-7"
-EntryID: Silverlight_4te_desktop_Out-Of-Browser_uygulamalarinin_pencere_tasarimini_degistirmek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 4d585208-997a-463e-beee-1aed4b2b4077
----
 # Silverlight 4'te desktop (Out-Of-Browser) uygulamalarının pencere tasarımını değiştirmek
 Silverlight 4 ile beraber gelen "Full Trust Out Of Browser" modunun
 getirdiği ek özelliklerden biri de tarayıcı dışına alınan bir

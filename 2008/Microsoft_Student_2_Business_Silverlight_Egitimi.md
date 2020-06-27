@@ -1,14 +1,3 @@
----
-FallbackID: 1932
-Title: "Microsoft Student 2 Business Silverlight Eğitimi"
-date: "2008-1-26"
-EntryID: Microsoft_Student_2_Business_Silverlight_Egitimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler, Silverlight
-old.EntryID: 451e3a2c-c312-4de6-ad88-59744afc4def
----
 # Microsoft Student 2 Business Silverlight Eğitimi
 Son üç gündür Microsoft İstanbul ofislerinde **Students 2 Business**
 programı çerçevesinde bir Silverlight eğitimi sunuyordum. Eğitim sanırım

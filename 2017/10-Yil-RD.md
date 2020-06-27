@@ -1,11 +1,3 @@
----
-Title: "İki yıl daha Microsoft RD Programı'ndayım."
-date: "2017-5-3"
-IsActive: True
-Section: software
-MinutesSpent: 7
-Tags: RD
----
 # İki yıl daha Microsoft RD Programı'ndayım.
 
 2009 yılında başladı benim **Microsoft Regional Director** programı ile olan maceram. Programa ilk girdiğimde iki senelik aralıklala yeniden nominasyon gerekiyorda. Sonra bu süre bir seneye indirildi ve son dönemde tekrar iki seneye çekildi :) Microsoft'un RD programı ile ilgili merak ettiğiniz soruların çoğunu aslında yıllar önce (2012'de) sevgili **Baki Okutucu**'nun benimle yaptığı röportajda bulabilirsiniz.

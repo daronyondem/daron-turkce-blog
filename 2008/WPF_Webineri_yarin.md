@@ -1,14 +1,3 @@
----
-FallbackID: 1986
-Title: "WPF Webineri yarın!"
-date: "2008-3-11"
-EntryID: WPF_Webineri_yarin
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WPF
-old.EntryID: 3fd1a56b-251b-4398-b967-0e675643be9b
----
 # WPF Webineri yarın!
 **11 Mart,** Salı günü saat **15.15-16.00** arasında WPF webineri ile
 karşınızda olacağım. Windows uygulamalarında kullanıcı deneyimini üst

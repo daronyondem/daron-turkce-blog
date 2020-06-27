@@ -1,13 +1,3 @@
----
-FallbackID: 2919
-Title: "Urbanathlon 2014"
-date: "2014-10-13"
-EntryID: Urbanathlon_2014
-IsActive: True
-Section: fitness
-MinutesSpent: 0
-Tags: Koşu, Spor
----
 # Urbanathlon 2014
 Hafta sonu İstanbul'da bir diğer konsept koşu organizasyonu daha gerçekleşti. Bu sefer koşumuzun adı **Urbanathlon**. Koşunun konsepti
 koşu olmanın ötesinde şehrin içinde şehre dair engellerin de parkurun

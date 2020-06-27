@@ -1,14 +1,3 @@
----
-FallbackID: 2536
-Title: "PathListBox'a giriş."
-date: "2010-9-6"
-EntryID: PathListBoxa_giris
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Silverlight 4
-old.EntryID: 6da235ad-bdcd-46dc-a328-0428eb447d65
----
 # PathListBox'a giriş.
 Silverlight tarafında en sık ihtiyaç duyduğumuz ve benim de en çok
 karşılaştığım sorulardan biri eldeki nesnelerin bir yol üzerinde

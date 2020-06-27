@@ -1,13 +1,3 @@
----
-FallbackID: 2814
-Title: "2012 için Nokia Developer Champion seçildim."
-date: "2012-5-23"
-EntryID: 2012_icin_Nokia_Developer_Champion_secildim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7, Windows Phone 7.5
----
 # 2012 için Nokia Developer Champion seçildim.
 Nokia'nın Windows Phone'a olan yatırımını sanırım artık herkes
 biliyordur :) Bu vesile ile ben de bir süre önce "[Nokia Developer

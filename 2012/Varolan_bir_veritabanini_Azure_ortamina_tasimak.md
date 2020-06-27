@@ -1,13 +1,3 @@
----
-FallbackID: 2773
-Title: "Varolan bir veritabanını Azure ortamına taşımak!"
-date: "2012-6-5"
-EntryID: Varolan_bir_veritabanini_Azure_ortamina_tasimak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: SQL Azure, Windows Azure
----
 # Varolan bir veritabanını Azure ortamına taşımak!
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

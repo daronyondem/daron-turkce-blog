@@ -1,14 +1,3 @@
----
-FallbackID: 2517
-Title: "Windows Phone 7'de Navigation API ve uygulama yapısı."
-date: "2010-5-4"
-EntryID: Windows_Phone_7_de_Navigation_API_ve_uygulama_yapisi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4, Windows Phone 7, Windows Phone
-old.EntryID: 0a36608a-7227-4374-aea3-6e7e31061a4a
----
 # Windows Phone 7'de Navigation API ve uygulama yapısı.
 Bu makalemizde Windows Phone 7 içerisinde uygulama geliştirirken
 kullanabileceğimiz hazır gelen navigasyon sistemine göz atacağız. Fakat

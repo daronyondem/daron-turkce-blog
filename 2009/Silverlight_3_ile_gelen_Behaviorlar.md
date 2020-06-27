@@ -1,14 +1,3 @@
----
-FallbackID: 2393
-Title: "Silverlight 3 ile gelen Behaviorlar"
-date: "2009-8-21"
-EntryID: Silverlight_3_ile_gelen_Behaviorlar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: eb385093-86eb-4cb3-96f3-668c036596d7
----
 # Silverlight 3 ile gelen Behaviorlar
 Silverlight 3 ile beraber gelen en güzel özelliklerden biri de
 **Behavior** yapısı. Behavior'lar bize normalde programatik olarak

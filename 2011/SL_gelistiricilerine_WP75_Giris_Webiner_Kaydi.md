@@ -1,13 +1,3 @@
----
-FallbackID: 2723
-Title: "Silverlight geliştiricileri için WP7.5'e Giriş Webineri Kaydı Hazır"
-date: "2011-11-3"
-EntryID: SL_gelistiricilerine_WP75_Giris_Webiner_Kaydi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Windows Phone, Windows Phone 7.5
----
 # Silverlight geliştiricileri için WP7.5'e Giriş Webineri Kaydı Hazır
 Dün akşam "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"in

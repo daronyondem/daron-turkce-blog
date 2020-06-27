@@ -1,14 +1,3 @@
----
-FallbackID: 2326
-Title: "Kocaeli Üniversitesi'ndeydim..."
-date: "2009-2-21"
-EntryID: Kocaeli_Universitesindeydim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 58bfb60e-fcdf-457f-a59b-a6fbc653d211
----
 # Kocaeli Üniversitesi'ndeydim...
 Bugün Kocaeli Üniversitesi'ndeki yazgelistir.com seminer serisinin
 ikincisini gerçekleştirdik. Sevgili [Burak

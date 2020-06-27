@@ -1,14 +1,3 @@
----
-FallbackID: 2335
-Title: "NedirTV.com Etkinliğinde MultiPoint Seminerim"
-date: "2009-3-14"
-EntryID: NedirTV_com_Etkinliginde_MultiPoint_Seminerim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, MultiPoint SDK, SQL Server 2008, Windows 7, ASP.NET
-old.EntryID: 90f99e43-551d-425c-8f41-f288bebd4578
----
 # NedirTV.com Etkinliğinde MultiPoint Seminerim
 Bugün tam günlük
 [NedirTv.com](http://www.nedirtv.com/haber/nedirtvcom-Seminerleri---Istanbul-14-Mart-2009.aspx)

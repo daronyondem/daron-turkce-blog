@@ -1,13 +1,3 @@
----
-FallbackID: 3049
-Title: "Yaşar Üniversitesi'nde Boş Durma Boşa Çalış"
-date: "2017-2-19"
-EntryID: Yasar_Universitesi_Bos_Durma_Bosa_Calis
-IsActive: True
-Section: software
-MinutesSpent: 8
-Tags: Seminer
----
 # Yaşar Üniversitesi'nde Boş Durma Boşa Çalış
 Dün Yaşar Üniversitesi'nde konuşmak için İzmir'deydim. Yine teknik olmayan bir oturum olarak "Boş Durma Boşa Çalış" oturumunu sundum. Nedense kimse teknik oturum istemiyor artık :) "Serverless" diyorum, "Microservices" diyorum :) satmıyor :)
 

@@ -1,13 +1,3 @@
----
-FallbackID: 2754
-Title: "2012'deki ilk Ankara WebCamp"
-date: "2012-1-27"
-EntryID: 2012_deki_ilk_Ankara_WebCamp
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure, CSS, HTML, HTML5, IE 10, IE 9, Internet Explorer, JavaScript, Seminer, WebSockets, Windows Phone, Windows Phone 7
----
 # 2012'deki ilk Ankara WebCamp
 Sonunda Ankara WebCamp'i de yaptık! :) Neden "Sonunda" diyorum çünkü bu
 ikinci denememiz oldu. İlkinde uçak havaalanına inemeyip Samsun'a

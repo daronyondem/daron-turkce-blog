@@ -1,14 +1,3 @@
----
-FallbackID: 1931
-Title: "Visual Studio 2008 ve JavaScript Intellisense kullanımı"
-date: "2008-1-26"
-EntryID: Visual_Studio_2008_ve_JavaScript_Intellisense_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Silverlight, Visual Studio 2008
-old.EntryID: 8815455f-e9ee-4e12-971d-8ce5a17cdf36
----
 # Visual Studio 2008 ve JavaScript Intellisense kullanımı
 **Visual Studio 2008** ile beraber **JavaScript** Intellisense
 geldiğinden her yerde bahsediliyor ama kimse bunun nasıl

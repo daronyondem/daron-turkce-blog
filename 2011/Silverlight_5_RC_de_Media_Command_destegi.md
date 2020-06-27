@@ -1,13 +1,3 @@
----
-FallbackID: 2695
-Title: "Silverlight 5 RC'de Media Command desteği."
-date: "2011-9-12"
-EntryID: Silverlight_5_RC_de_Media_Command_destegi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 5
----
 # Silverlight 5 RC'de Media Command desteği.
 Silverlight 5 RC ile beraber gelen bir diğer özellik ise **Media
 Command** desteği. Bunu ister klavyeler üzerinde bulunan özel tuşlarla

@@ -1,13 +1,3 @@
----
-FallbackID: 2770
-Title: "Windows Azure'da Local Storage kullanımı"
-date: "2012-5-15"
-EntryID: Windows_Azure_da_Local_Storage_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Windows Azure'da Local Storage kullanımı
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

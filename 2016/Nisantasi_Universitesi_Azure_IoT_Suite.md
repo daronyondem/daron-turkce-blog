@@ -1,13 +1,3 @@
----
-FallbackID: 3002
-Title: "Nışantaşı Üniversitesi'nde Azure IoT Suite"
-date: "2016-3-11"
-EntryID: Nisantasi_Universitesi_Azure_IoT_Suite
-IsActive: True
-Section: software
-MinutesSpent: 7
-Tags: Azure IoT Hub, Seminer, Windows Azure
----
 # Nışantaşı Üniversitesi'nde Azure IoT Suite
 Dün Nışantaşı Üniversitesi'ndeydim. **Azure IoT Suite** üzerine bir oturumum vardı. Oturumda IoT Suite içerisindeki iki projeden bahsederken IoT Hub'ın da biraz detaylarına girdik. Sunum dosyasına isteyenler [buradan](http://j.mp/darondecks) ulaşabilirler.
 

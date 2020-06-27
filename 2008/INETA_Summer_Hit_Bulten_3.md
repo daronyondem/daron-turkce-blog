@@ -1,14 +1,3 @@
----
-FallbackID: 2139
-Title: "INETA Summer Hit Bülten 3"
-date: "2008-7-30"
-EntryID: INETA_Summer_Hit_Bulten_3
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: e60b4ef7-4c20-4f2b-af6a-cd73c18019ea
----
 # INETA Summer Hit Bülten 3
 Ve karşınızda aktivite öncesi son bültenimiz... Cuma günü gönderimi
 yapılacak ;)

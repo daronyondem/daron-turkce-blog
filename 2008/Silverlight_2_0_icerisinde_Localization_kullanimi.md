@@ -1,14 +1,3 @@
----
-FallbackID: 2108
-Title: "Silverlight 2.0 içerisinde Localization kullanımı"
-date: "2008-6-30"
-EntryID: Silverlight_2_0_icerisinde_Localization_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 784f5f9e-f824-4e96-adcb-6ff415b9d8ae
----
 # Silverlight 2.0 içerisinde Localization kullanımı
 Birden çok dil kullanılan projelerde .NET ile beraber gelen dahili
 Localization özellikleri hızlı çözümler yaratmak adına ciddi birer

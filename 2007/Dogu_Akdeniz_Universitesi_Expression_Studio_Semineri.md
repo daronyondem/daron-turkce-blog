@@ -1,14 +1,3 @@
----
-FallbackID: 1902
-Title: "Doğu Akdeniz Üniversitesi Expression Studio Semineri"
-date: "2007-12-30"
-EntryID: Dogu_Akdeniz_Universitesi_Expression_Studio_Semineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Seminer, WPF
-old.EntryID: 0d02b69a-0558-4820-951f-eaf6bb175269
----
 # Doğu Akdeniz Üniversitesi Expression Studio Semineri
 **KKTC, Doğu Akdeniz Üniversitesi**'ndeki Silverlight seminerinden sonra
 dün bir de **Expression Studio** semineri yaptık. Özellikle WPF ile iki

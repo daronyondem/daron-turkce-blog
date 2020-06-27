@@ -1,14 +1,3 @@
----
-FallbackID: 2017
-Title: "Sahtekar CSS"
-date: "2008-4-9"
-EntryID: Sahtekar_CSS
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 32597b4b-2cd7-4375-b47d-4dc676b2290a
----
 # Sahtekar CSS
 Sanırım şöyle bir genelleme yapsam hiç de yanlış olmaz; yazılım
 geliştiriciler pazarlamacıları sevmez. Bunun nedeni aslında yazılım

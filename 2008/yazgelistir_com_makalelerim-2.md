@@ -1,14 +1,3 @@
----
-FallbackID: 2085
-Title: "yazgelistir.com makalelerim"
-date: "2008-6-10"
-EntryID: yazgelistir_com_makalelerim-2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, Silverlight 2.0, WPF, ASP.NET
-old.EntryID: dbecb016-894a-4639-bcb6-8cdbd518bcf5
----
 # yazgelistir.com makalelerim
 yazgelistir.com'daki yeni makalelerime oyları bekliyorum :) Bu vesile
 ile son dönemdeki Silverlight makalelerimin bir listesini de kısmen

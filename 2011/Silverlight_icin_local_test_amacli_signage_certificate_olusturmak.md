@@ -1,14 +1,3 @@
----
-FallbackID: 2572
-Title: "Silverlight için local, test amaçlı signage certificate oluşturmak."
-date: "2011-4-29"
-EntryID: Silverlight_icin_local_test_amacli_signage_certificate_olusturmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0, Silverlight 4, Silverlight 5
-old.EntryID: 7e4d829c-fd50-480d-9617-7ac207ebf752
----
 # Silverlight için local, test amaçlı signage certificate oluşturmak.
 Arada sırada inbox'ıma düşen sorulardan belki de en popülerleri genelde
 code signage sertifikaları ile ilgili oluyor. Özellikle lokalde test

@@ -1,14 +1,3 @@
----
-FallbackID: 2558
-Title: "MIX 2011 2. Gün Raporu"
-date: "2011-4-15"
-EntryID: MIX_2011_2_Gun_Raporu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone 7, Silverlight 5, Kinect, Surface, Windows Phone
-old.EntryID: 99736c98-eba4-4182-a4f9-0a108b0782a5
----
 # MIX 2011 2. Gün Raporu
 Dün MIX2011'in lk gün duyurularını sizlerle paylaşmıştım. Şimdi de geldi
 sıra ikinci güne. Tahmin ettiğim üzere ikinci gün KeyNote çok daha

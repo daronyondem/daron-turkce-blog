@@ -1,14 +1,3 @@
----
-FallbackID: 1807
-Title: "Üç adımda 1$'a web sitesi..."
-date: "2007-10-9"
-EntryID: Uc_adimda_1-Dolara_web_sitesi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel
-old.EntryID: da627840-74e9-43c1-a8bd-34a2fba101ca
----
 # Üç adımda 1$'a web sitesi...
 ![](media/Uc_adimda_1-Dolara_web_sitesi/08102007_1.jpg)"Yahu bizim
 yigen de web sitesi yapii yani nolcak!"

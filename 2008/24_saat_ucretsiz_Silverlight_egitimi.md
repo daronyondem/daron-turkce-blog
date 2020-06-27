@@ -1,14 +1,3 @@
----
-FallbackID: 1971
-Title: "24 saat ücretsiz Silverlight eğitimi!"
-date: "2008-2-27"
-EntryID: 24_saat_ucretsiz_Silverlight_egitimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: e52a84f7-3c2c-4ae5-8fd1-2b998eb25378
----
 # 24 saat ücretsiz Silverlight eğitimi!
 Uzun süredir planladığım WorkShop'lardan ilk seriyi sizlere duyuruyorum.
 Seminerlerden farklı olarak WorkShop'larda herkes bilgisayar başında

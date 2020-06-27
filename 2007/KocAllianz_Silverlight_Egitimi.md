@@ -1,14 +1,3 @@
----
-FallbackID: 1852
-Title: "KoçAllianz Silverlight Eğitimi"
-date: "2007-11-18"
-EntryID: KocAllianz_Silverlight_Egitimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: b438a1ce-4357-4eb9-a9cf-628455e5998c
----
 # KoçAllianz Silverlight Eğitimi
 Dün akşam son dersimizle beraber **KoçAllianz IT** ekibiyle
 **Silverlight** safarimizi noktaladık :) Özellikle "safari" olarak

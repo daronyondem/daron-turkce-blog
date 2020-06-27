@@ -1,14 +1,3 @@
----
-FallbackID: 2266
-Title: "Silverlight 2.0 ve Adaptive Streaming"
-date: "2008-12-5"
-EntryID: Silverlight_2_0_ve_Adaptive_Streaming
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 01ff6ad5-3fc2-42ec-bd7d-1149b3ce29fe
----
 # Silverlight 2.0 ve Adaptive Streaming
 Silverlight dünyasında 1.0 sürümü ile başlayan video uygulamalarındaki
 yüksek performans gibi avantajların yenileri 2.0 sürümünde de tabi ki

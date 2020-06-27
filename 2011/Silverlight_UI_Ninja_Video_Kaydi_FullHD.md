@@ -1,14 +1,3 @@
----
-FallbackID: 2575
-Title: "Silverlight UI Ninja Video Kaydı (FullHD)"
-date: "2011-5-2"
-EntryID: Silverlight_UI_Ninja_Video_Kaydi_FullHD
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0, Silverlight 4, Silverlight 5
-old.EntryID: 210f8b34-c4c4-4eb8-b6f4-bb13fe722910
----
 # Silverlight UI Ninja Video Kaydı (FullHD)
 Geçenlerde hatırlarsanız [Silverlight UI Ninja
 eğitimden](http://daron.yondem.com/tr/post/a0de2036-d62f-4d8c-85f1-ebd868044dbc)

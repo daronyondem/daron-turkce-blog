@@ -1,13 +1,3 @@
----
-FallbackID: 2784
-Title: "Table Services Round 3": Continuation Token
-date: "2012-8-21"
-EntryID: Table_Services_Round_3_Continuation_Token
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Table Services Round 3
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

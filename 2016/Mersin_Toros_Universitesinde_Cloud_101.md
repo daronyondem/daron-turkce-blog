@@ -1,13 +1,3 @@
----
-FallbackID: 3019
-Title: "Mersin Toros Üniversitesi'nde Cloud 101"
-date: "2016-4-29"
-EntryID: Mersin_Toros_Universitesinde_Cloud_101
-IsActive: True
-Section: software
-MinutesSpent: 6
-Tags: Seminer, Windows Azure
----
 # Mersin Toros Üniversitesi'nde Cloud 101
 Dün Mersin'deydim. Toros Üniversitesi'nde Cloud 101 oturumumu gerçekletirdim. Eğlenceli bir gündü. Çıkışta da tabi ki Tantuni yemeyi unutmadık :) 
 

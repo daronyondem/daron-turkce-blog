@@ -1,13 +1,3 @@
----
-FallbackID: 2713
-Title: "Windows Phone 7 Performans İpuçları"
-date: "2011-9-27"
-EntryID: Windows_Phone_7_Performans_Ipuclari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7
----
 # Windows Phone 7 Performans İpuçları
 Dün[Windows Phone 7'de performans
 metriklerinden](http://daron.yondem.com/tr/post/Windows_Phone_7_Performans_Metrikleri)

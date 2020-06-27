@@ -1,14 +1,3 @@
----
-FallbackID: 1998
-Title: "4 Gün 4 Konu Eğitimi Talihlileri"
-date: "2008-3-23"
-EntryID: 4_Gun_4_Konu_Egitimi_Talihlileri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: c22ed138-4760-4b86-8e94-f4c56fdd5c95
----
 # 4 Gün 4 Konu Eğitimi Talihlileri
 **TBD** ve **INETA** sponsorluğunda düzenlenen ve sizlere daha önce
 [buradan](http://daron.yondem.com/tr/post/bfb7add2-9b32-462a-b833-99047fd31ffc)

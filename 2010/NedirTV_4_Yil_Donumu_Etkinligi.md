@@ -1,14 +1,3 @@
----
-FallbackID: 2509
-Title: "NedirTV 4. Yıl Dönümü Etkinliği"
-date: "2010-4-8"
-EntryID: NedirTV_4_Yil_Donumu_Etkinligi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 9, HTML5, Internet Explorer
-old.EntryID: 3554f8b7-23d3-426f-bc10-b9f6f3075fa2
----
 # NedirTV 4. Yıl Dönümü Etkinliği
 ![](media/NedirTV_4_Yil_Donumu_Etkinligi/nedirtv_logo.png)Bu hafta
 sonu benim de editörü olduğum nedirtv.com'un kuruluşunun 4. yılını

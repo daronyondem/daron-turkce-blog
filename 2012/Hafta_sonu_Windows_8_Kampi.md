@@ -1,13 +1,3 @@
----
-FallbackID: 2810
-Title: "Hafta sonu Windows 8 Kampı"
-date: "2012-4-21"
-EntryID: Hafta_sonu_Windows_8_Kampi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 8
----
 # Hafta sonu Windows 8 Kampı
 İşte çoğunuzun beklediğini tahmin ettiğim etkinlikle karşınızdayım!!! :)
 İki tam gün Windows 8 Metro development etkinliği ve tabi ki her zamanki

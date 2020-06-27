@@ -1,14 +1,3 @@
----
-FallbackID: 1920
-Title: "Silverlight Semineri"
-date: "2008-1-16"
-EntryID: Silverlight_Semineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, Silverlight
-old.EntryID: 15a9f5c2-5253-4f43-9412-8c23e5bacec7
----
 # Silverlight Semineri
 Bu hafta sonu **Cumartesi** günü saat **14.00-17.00** arasında [Genç
 Girişimciler

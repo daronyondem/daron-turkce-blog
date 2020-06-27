@@ -1,14 +1,3 @@
----
-FallbackID: 2089
-Title: "Silverlight 2.0 içerisinde VisualStateManager kullanımı."
-date: "2008-6-13"
-EntryID: Silverlight_2_0_icerisinde_VisualStateManager_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 83f0f77b-78ba-4c01-9ca9-e271ad615547
----
 # Silverlight 2.0 içerisinde VisualStateManager kullanımı.
 Bugüne kadar Silverlight içerisinde herhangi bir düğme veya farklı bir
 kontrolün değişik durumlarında ayrı şekiller alması için maalesef

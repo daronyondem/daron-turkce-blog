@@ -1,13 +1,3 @@
----
-FallbackID: 2683
-Title: "Türkiye'de artık bir LINQ kitabı var."
-date: "2011-9-3"
-EntryID: Turkiyede_artik_bir_LINQ_kitabi_var
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: LINQ
----
 # Türkiye'de artık bir LINQ kitabı var.
 Bundan sanırım 2 yıl önce falandı :) "LINQ kitabı yazmalısın" dedim.
 Kime mi? Aşağıdaki kitabın yazarına, sevgili [Cihan

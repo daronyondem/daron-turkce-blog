@@ -1,14 +1,3 @@
----
-FallbackID: 2190
-Title: "WPF ve ASP.NET ile video dosyalarından kare (thumbnail) almak."
-date: "2008-9-19"
-EntryID: WPF_ve_ASP_NET_ile_video_dosyalarindan_kare_thumbnail_almak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, WPF, ASP.NET
-old.EntryID: 1dcd7116-409b-4f4e-8444-3cf7d4b3a6e2
----
 # WPF ve ASP.NET ile video dosyalarından kare (thumbnail) almak.
 WPF ile beraber özellikle video uygulamalarının programlanmasındaki
 kolaylık sonucunda artık Multimedya alanında da sıkça .NET ile

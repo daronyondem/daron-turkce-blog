@@ -1,14 +1,3 @@
----
-FallbackID: 1761
-Title: "AJAX Web Sitelerinde Tarayıcıda Geri/İleri Düğmesi Sorunu"
-date: "2007-8-25"
-EntryID: AJAX_Web_Sitelerinde_Tarayicida_Geri-Ileri_Dugmesi_Sorunu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET
-old.EntryID: 1e6b22ff-cf0b-4927-a396-4eb5446daaa4
----
 # AJAX Web Sitelerinde Tarayıcıda Geri/İleri Düğmesi Sorunu
 İnternet tarayıcılarındaki **Geri** ve **İleri** düğmelerinin ne kadar
 çok kişi tarafından kullanıldığını ilk AJAX web projelerinin

@@ -1,13 +1,3 @@
----
-FallbackID: 2904
-Title: "WebJobs Giriş ve Bloblarla Kullanımı"
-date: "2014-4-21"
-EntryID: WebJobs_Giris_ve_Bloblarla_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # WebJobs Giriş ve Bloblarla Kullanımı
 Azure tarafında uzun yıllardır en sıkıntılı konulardan biri
 ScheduledService'ler. Aslında sıkıntı da zaten bu gibi zamanlanmış

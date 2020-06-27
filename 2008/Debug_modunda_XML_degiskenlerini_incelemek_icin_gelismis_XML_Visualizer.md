@@ -1,14 +1,3 @@
----
-FallbackID: 2202
-Title: "Debug modunda XML değişkenlerini incelemek için gelişmiş XML Visualizer"
-date: "2008-10-1"
-EntryID: Debug_modunda_XML_degiskenlerini_incelemek_icin_gelismis_XML_Visualizer
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Studio 2008
-old.EntryID: 00cede9d-d2a7-40ce-979a-dcd23a57fd02
----
 # Debug modunda XML değişkenlerini incelemek için gelişmiş XML Visualizer
 Özellikle XLINQ ile beraber XML kullanımının daha da arttığını itiraf
 etmem gerek. XPATH yerine XML veriyi LINQ ile sorgulayabiliyor olmak

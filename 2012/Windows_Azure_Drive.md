@@ -1,13 +1,3 @@
----
-FallbackID: 2779
-Title: "Windows Azure Drive"
-date: "2012-7-17"
-EntryID: Windows_Azure_Drive
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Windows Azure Drive
 **Azure Drive 2015 yılı itibari ile Microsoft tarafından
 sonlandırılıyor. Onun yerine Azure Files adında bir hizmet devreye

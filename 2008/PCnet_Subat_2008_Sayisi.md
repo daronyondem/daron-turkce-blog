@@ -1,14 +1,3 @@
----
-FallbackID: 1946
-Title: "PCnet Şubat 2008 Sayısı"
-date: "2008-2-5"
-EntryID: PCnet_Subat_2008_Sayisi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET 3.5, Expression Blend, LINQ, Silverlight, ASP.NET
-old.EntryID: ed1e56b2-6a83-4d9f-9b8a-3608fe9e118a
----
 # PCnet Şubat 2008 Sayısı
 ![](media/PCnet_Subat_2008_Sayisi/pcnet.png)PCnet'in Şubat
 sayısındaki yazılarımı her ay olduğu gibi yine buradan sizlere duyurmak

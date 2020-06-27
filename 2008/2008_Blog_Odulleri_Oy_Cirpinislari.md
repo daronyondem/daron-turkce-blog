@@ -1,14 +1,3 @@
----
-FallbackID: 2031
-Title: "2008 Blog Ödülleri "Oy Çırpınışları""
-date: "2008-4-22"
-EntryID: 2008_Blog_Odulleri_Oy_Cirpinislari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: e1e8c3dc-68d6-42b8-953f-3347ffbe0aa6
----
 # 2008 Blog Ödülleri Oy Çırpınışları
 Popülist yarışmaları aslında pek sevmem ama birinciliği severim :) O
 nedenle blogumu takip eden sizlerin de bu popülistliğe katılmayacağınızı

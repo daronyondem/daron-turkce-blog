@@ -1,14 +1,3 @@
----
-FallbackID: 1893
-Title: "Silverlight Plug-In Yükleme Seçenekleri"
-date: "2007-12-22"
-EntryID: Silverlight_Plug-In_Yukleme_Secenekleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: bb671a89-eebd-4b81-88aa-0f0009eee180
----
 # Silverlight Plug-In Yükleme Seçenekleri
 Silverlight ile yaptığımız projelerde istemci tarafında eğer
 **Silverlight Plug-In** yüklü değilse projemiz dahilinde

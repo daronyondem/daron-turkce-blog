@@ -1,14 +1,3 @@
----
-FallbackID: 1984
-Title: "Internet Explorer 8.0 Beta 1 yayında."
-date: "2008-3-8"
-EntryID: Internet_Explorer_8_0_Beta_1_yayinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Internet Explorer
-old.EntryID: cd4bb9a8-f890-4ba4-a62e-73d9b49e8b6d
----
 # Internet Explorer 8.0 Beta 1 yayında.
 **Internet Explorer** için benim tanımım "*belki de Microsoft'un en
 başarısız ürünü*" şeklindeydi. IE 7.0 ile bu durum biraz toparlandı ve

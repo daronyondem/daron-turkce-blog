@@ -1,14 +1,3 @@
----
-FallbackID: 1874
-Title: "Kurumların çalışanlarının bloglarının kurumların kendi sitelerinden daha popüler olduğunu biliyor muydunuz?"
-date: "2007-12-5"
-EntryID: Kurumlarin_calisanlarinin_bloglari_ve_kurumlarin_kendi_siteleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 9334431f-c6dc-480b-8823-ed261ace530d
----
 # Kurumların çalışanlarının bloglarının kurumların kendi sitelerinden daha popüler olduğunu biliyor muydunuz?
 Aslında başlıkta tanımladığım durum çok doğal, çünkü karşılaştırdığımız
 bu iki konseptten biri, yani kurumun sitesi ilk olarak ticari amacı

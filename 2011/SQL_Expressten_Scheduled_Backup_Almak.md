@@ -1,13 +1,3 @@
----
-FallbackID: 2693
-Title: "SQL Express'ten Scheduled Backup Almak"
-date: "2011-9-10"
-EntryID: SQL_Expressten_Scheduled_Backup_Almak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: SQL Server 2008
----
 # SQL Express'ten Scheduled Backup Almak
 Blogu yazarkenki hikayalerim bitmiyor değil mi? :) Eh uzun süredir rahat
 rahat her noktasındaki taktiklerden bahsedebileceğim kendimce özgür bir

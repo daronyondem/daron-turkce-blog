@@ -1,13 +1,3 @@
----
-FallbackID: 2740
-Title: "Kıbrıs Windows Phone 7 Gece Kampı ve Windows Azure BootCamp!"
-date: "2011-12-4"
-EntryID: Kibris_WP7_Kampi_ve_Windows_Azure_BootCamp
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure, Windows Phone 7.5
----
 # Kıbrıs Windows Phone 7 Gece Kampı ve Windows Azure BootCamp!
 Bu hafta sonu çılgın bir haftasonuydu :) **Doğu Akdeniz
 Üniversitesi**'nin davetlisi olarak Kıbrıs'taydım. Şu meşhur

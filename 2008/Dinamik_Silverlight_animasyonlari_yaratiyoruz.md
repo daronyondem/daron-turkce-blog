@@ -1,14 +1,3 @@
----
-FallbackID: 1968
-Title: "Dinamik Silverlight animasyonları yaratıyoruz."
-date: "2008-2-25"
-EntryID: Dinamik_Silverlight_animasyonlari_yaratiyoruz
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 58b36757-8e6d-45f7-a2be-f43c426983c7
----
 # Dinamik Silverlight animasyonları yaratıyoruz.
 Silverlight uygulamalarında bazı durumlarda animasyonları dinamik olarak
 yaratmak gerekebilir. Bu durum genelde söz konusu animasyonla ilgili

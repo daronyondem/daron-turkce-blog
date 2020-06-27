@@ -1,14 +1,3 @@
----
-FallbackID: 2059
-Title: "Yeni Kitap": ASP.NET 3.5 AJAX
-date: "2008-5-18"
-EntryID: Yeni_Kitap_ASP_NET_3-5_AJAX
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX
-old.EntryID: 15adba9f-e264-45ac-a318-b5038c24f488
----
 # Yeni Kitap
 Tam bir yıl olmuş; ASP.NET AJAX kitabım basılalı üzerinden bir yıl
 geçmiş. Oysa ilk altı ayda kitap tükenmişti ve Pusula Yayıncılıktan "*2.

@@ -1,13 +1,3 @@
----
-FallbackID: 2945
-Title: "Blob Storage'da Snapshot Kullanımı (SDK2.5)"
-date: "2014-12-7"
-EntryID: Blob_Storage_da_Snapshot_Kullanimi_SDK2_5
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Blob Storage'da Snapshot Kullanımı (SDK2.5)
 Blobların en sevdiğim özelliklerinden biri blob başına snapshot
 alabiliyor olmamız :) Sınır yok, istediğiniz kadar snapshot

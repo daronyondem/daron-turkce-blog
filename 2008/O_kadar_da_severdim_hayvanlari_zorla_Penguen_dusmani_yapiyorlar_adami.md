@@ -1,14 +1,3 @@
----
-FallbackID: 2254
-Title: "O kadar da severdim hayvanları, zorla Penguen düşmanı yapıyorlar adamı!"
-date: "2008-11-21"
-EntryID: O_kadar_da_severdim_hayvanlari_zorla_Penguen_dusmani_yapiyorlar_adami
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Dertli Kerem
-old.EntryID: 0dc7cfe4-de95-4cfc-b89d-493d942c37f4
----
 # O kadar da severdim hayvanları, zorla Penguen düşmanı yapıyorlar adamı!
 Ahh ahh :) Pireler berber iken ben demiştim ki "*Dünyada hiçbir kurum
 istemci tarafında Linux'e kurumsal destek vermiyor*". Herkes istemci

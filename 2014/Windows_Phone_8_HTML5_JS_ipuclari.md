@@ -1,13 +1,3 @@
----
-FallbackID: 2885
-Title: "Windows Phone 8 için HTML5-JS ile uygulama geliştirenlere ipuçları"
-date: "2014-2-26"
-EntryID: Windows_Phone_8_HTML5_JS_ipuclari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML5, JavaScript, Windows Phone 8
----
 # Windows Phone 8 için HTML5-JS ile uygulama geliştirenlere ipuçları
 Windows Phone 8'de HTML/JS uygulamalar Windows 8'de olduğu gibi native
 olmaktan çok uzak. Fakat hala çoğu developer ve firma mobile

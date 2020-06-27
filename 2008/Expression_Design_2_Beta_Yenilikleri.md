@@ -1,14 +1,3 @@
----
-FallbackID: 1997
-Title: "Expression Design 2 Beta Yenilikleri"
-date: "2008-3-21"
-EntryID: Expression_Design_2_Beta_Yenilikleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Design
-old.EntryID: eb52af92-3369-4e26-a519-61fc18518097
----
 # Expression Design 2 Beta Yenilikleri
 Expression Studio ürün ailesinin ikinci sürümüne adım adım yaklaştığımız
 bu günlerde fırsatını buldukça Expression Studio 2 ile ilgili de gelen

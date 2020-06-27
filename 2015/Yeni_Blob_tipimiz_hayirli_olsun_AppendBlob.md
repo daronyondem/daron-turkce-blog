@@ -1,13 +1,3 @@
----
-FallbackID: 2979
-Title: "Yeni Blob tipimiz hayırlı olsun": AppendBlob
-date: "2015-9-2"
-EntryID: Yeni_Blob_tipimiz_hayirli_olsun_AppendBlob
-IsActive: True
-Section: software
-MinutesSpent: 112
-Tags: Azure Storage Services, Windows Azure
----
 # Yeni Blob tipimiz hayırlı olsun
 Daha önceleri Azure Storage altındaki [Blob servisleri](http://daron.yondem.com/software/search/blob) ile ilgili birçok yazı yazmıştım. Bu yazılarda bahsettiğim üzere Azure'da bir süre öncesine kadar iki farklı bir Blob söz konusuydu [Block ve PageBlob](http://daron.yondem.com/software/post/BlockBlob_ve_PageBlob_Detaylari_SDK2_5). Şubat ayında Azure Storage API'larındaki yeni bir güncelleme (v2015-02-21) ile yeni bir blob tipi daha Preview olarak kendini gösterdi. Geçen Ağustos'ta da nihai hali ile AppendBlob'lar yayına alındı ve Preview'dan çıktı.
 

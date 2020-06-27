@@ -1,14 +1,3 @@
----
-FallbackID: 1941
-Title: "ARANIYOR": AJAX Örnek Siteler
-date: "2008-2-2"
-EntryID: ARANIYOR_AJAX_Ornek_Siteler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX
-old.EntryID: 83708802-c6f6-4bb3-a1c9-f8acecccf7e1
----
 # ARANIYOR
 Artık hali hazırda ASP.NET AJAX kitabımın stokları tek haneli rakamlara
 düştüğüne göre :) rahatlıkla yenisinin (2. baskı değil) yolda olduğuna

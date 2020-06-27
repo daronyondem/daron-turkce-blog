@@ -1,13 +1,3 @@
----
-FallbackID: 2897
-Title: "Azure Web Sites, Kudu ve Custom Site Extensions"
-date: "2014-3-25"
-EntryID: Azure_Web_Sites_Kudu_ve_Custom_Site_Extensions
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure Web Sites, Kudu ve Custom Site Extensions
 Azure Web Sites üzerinde bir siteniz varsa doğrudan o sitenin bulunduğu
 donanıma erişiminiz olmadığını da bilirsiniz. Siteniz seçtiğiniz profile

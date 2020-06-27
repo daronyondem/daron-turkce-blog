@@ -1,14 +1,3 @@
----
-FallbackID: 2540
-Title: "WebMatrix"
-date: "2011-1-2"
-EntryID: WebMatrix
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WebMatrix
-old.EntryID: b116578a-f766-4ccc-ae0a-0b64dfcca612
----
 # WebMatrix
 Kod yazmanın bin türlü yolu var :) Bir yazıya da böyle başlanır mı? Eh
 başladık artık. Şimdi ne demek istediğimi biraz daha anlatmaya

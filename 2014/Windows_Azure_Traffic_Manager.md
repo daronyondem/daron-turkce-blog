@@ -1,13 +1,3 @@
----
-FallbackID: 2889
-Title: "Windows Azure Traffic Manager"
-date: "2014-3-4"
-EntryID: Windows_Azure_Traffic_Manager
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Video, Windows Azure
----
 # Windows Azure Traffic Manager
 Windows Azure'da PAAS ortamında transparan olarak çalışan NLB'nin yanı
 sıra bir de daha yüksek seviyeli "Traffic Manager" hizmeti var. Bu

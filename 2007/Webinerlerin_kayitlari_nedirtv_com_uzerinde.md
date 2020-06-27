@@ -1,14 +1,3 @@
----
-FallbackID: 1851
-Title: "Webinerlerin kayıtları nedirtv?com üzerinde."
-date: "2007-11-16"
-EntryID: Webinerlerin_kayitlari_nedirtv_com_uzerinde
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Expression Encoder, Expression Studio, Silverlight, Webiner
-old.EntryID: a477b533-3882-4f1a-a5e7-c55907276d54
----
 # Webinerlerin kayıtları nedirtv?com üzerinde.
 Sevgili dostum [Mehmet Nuri Çankaya](http://www.nuricankaya.com/) ile
 beraber sunduğumuz Expression Blend, Expression Media ve Encoder

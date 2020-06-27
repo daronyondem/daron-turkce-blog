@@ -1,14 +1,3 @@
----
-FallbackID: 1747
-Title: "Web Tasarım Eğitimi - İlk Kur Sonlandı"
-date: "2007-7-6"
-EntryID: Web_Tasarim_Egitimi_-_Ilk_Kur_Sonlandi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler
-old.EntryID: 1601ade4-e9c2-43ac-b36d-4be0f14711ea
----
 # Web Tasarım Eğitimi - İlk Kur Sonlandı
 **MayaSoft Bilişim Akademisi’**nde vermekte olduğu **Web Tasarım**
 eğitiminin ilk kurunu dün sonlandırdık. Katılım belgelerini alan

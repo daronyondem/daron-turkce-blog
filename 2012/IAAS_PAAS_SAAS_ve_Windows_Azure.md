@@ -1,13 +1,3 @@
----
-FallbackID: 2753
-Title: "IAAS, PAAS, SAAS ve Windows Azure"
-date: "2012-3-13"
-EntryID: IAAS_PAAS_SAAS_ve_Windows_Azure
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # IAAS, PAAS, SAAS ve Windows Azure
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

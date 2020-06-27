@@ -1,14 +1,3 @@
----
-FallbackID: 1883
-Title: "İstanbul Teknik Üniversitesi Silverlight Semineri"
-date: "2007-12-13"
-EntryID: Istanbul_Teknik_Universitesi_Silverlight_Semineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, Silverlight
-old.EntryID: 2fc0aca2-f96e-49a3-a1b7-11f8a60854c3
----
 # İstanbul Teknik Üniversitesi Silverlight Semineri
 Seminer veya eğitimlerin faydalı olduğunu hissettiğimde ne kadar mutlu
 olduğumu anlatamam :) Bugün **İstanbul Teknik Üniversitesi'nde**

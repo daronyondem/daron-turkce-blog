@@ -1,13 +1,3 @@
----
-FallbackID: 2715
-Title: "T-Mobile Samsung Omnia 7 ile Mango"
-date: "2011-9-29"
-EntryID: TMobile_Samsung_Omnia_7_ile_Mango
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7.5
----
 # T-Mobile Samsung Omnia 7 ile Mango
 [Dün Mango update
 serüvenimden](http://daron.yondem.com/tr/post/Windows_Phone_Mango_ve_benim_ilk_WP_uygulamam)

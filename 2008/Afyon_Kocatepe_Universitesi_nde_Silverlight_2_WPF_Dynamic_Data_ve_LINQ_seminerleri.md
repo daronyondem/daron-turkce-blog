@@ -1,14 +1,3 @@
----
-FallbackID: 2241
-Title: "Afyon Kocatepe Üniversitesi'nde Silverlight 2, WPF, Dynamic Data ve LINQ seminerleri."
-date: "2008-11-9"
-EntryID: Afyon_Kocatepe_Universitesi_nde_Silverlight_2_WPF_Dynamic_Data_ve_LINQ_seminerleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, LINQ, Silverlight 2.0, WPF, ASP.NET
-old.EntryID: 93725fe3-b0d5-40a3-abb3-303edd2b0ee7
----
 # Afyon Kocatepe Üniversitesi'nde Silverlight 2, WPF, Dynamic Data ve LINQ seminerleri.
 Bugün **Afyon Kocatepe Üniversitesi**'ndeydim. Sabahtan başlayarak
 **Silverlight 2.0, WPF, LINQ** ve **ASP.NET Dynamic Data** konularına

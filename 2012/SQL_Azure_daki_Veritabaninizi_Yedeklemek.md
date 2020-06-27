@@ -1,13 +1,3 @@
----
-FallbackID: 2819
-Title: "SQL Azure'daki Veritabanınızı Yedeklemek"
-date: "2012-10-2"
-EntryID: SQL_Azure_daki_Veritabaninizi_Yedeklemek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: SQL Azure, Windows Azure
----
 # SQL Azure'daki Veritabanınızı Yedeklemek
 Daha [önceki yazılarda](http://daron.yondem.com/tr/tag/SQL_Azure) SQL
 Azure konusuna göz atmış ve geçişin kısmen de olsa ne kadar kolay

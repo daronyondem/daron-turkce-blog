@@ -1,14 +1,3 @@
----
-FallbackID: 1751
-Title: "Gelişim Platformu Seminerimizi Tamamladık"
-date: "2007-7-31"
-EntryID: Gelisim_Platformu_Seminerimizi_Tamamladik
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Eğitimler
-old.EntryID: d43226c0-79d1-464d-80e5-2c8ecc39006e
----
 # Gelişim Platformu Seminerimizi Tamamladık
 Dün akşam bazıları evlerinde televizyon izleyip belki de uyuklarken biz
 [Gelişim Platformu](http://www.gelisimplaformu.org) çatısında **ASP.NET

@@ -1,11 +1,3 @@
----
-Title: "Manisa Celal Bayar Üniversitesi'nde Hackathon"
-date: "2017-4-23"
-IsActive: True
-Section: software
-MinutesSpent: 16
-Tags: Seminer, Azure
----
 # Manisa Celal Bayar Üniversitesi'nde Hackathon
 Dün Manisa'daydım. **Celal Bayar Üniversitesi**'nde hafta sonu gerçekleşecek olan **Hack with MVPs** adındaki Hackathon'da yarım gün Azure anlattım gençlere :) 
 

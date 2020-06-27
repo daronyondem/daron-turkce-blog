@@ -1,14 +1,3 @@
----
-FallbackID: 1909
-Title: "Silverlight ile istemci tarafına ZIP arşivi yükleyerek içeriğini kullanmak ve Preloader uygulaması"
-date: "2008-1-5"
-EntryID: Silverlight_ile_istemci_tarafina_ZIP_arsivi_yukleyerek_icerigini_kullanmak_ve_Preloader_uygulamasi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 6f5dbc20-6cd3-453e-a621-444ffed417cd
----
 # Silverlight ile istemci tarafına ZIP arşivi yükleyerek içeriğini kullanmak ve Preloader uygulaması
 Silverlight ile beraber gelen belki de en güzel özelliklerden biri
 Silverlight animasyonlarında kullanabileceğiniz harici içeriği sunucudan

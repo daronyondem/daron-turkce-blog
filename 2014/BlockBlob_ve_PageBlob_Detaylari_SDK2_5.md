@@ -1,13 +1,3 @@
----
-FallbackID: 2947
-Title: "BlockBlob ve PageBlob Detayları (SDK2.5)"
-date: "2014-12-9"
-EntryID: BlockBlob_ve_PageBlob_Detaylari_SDK2_5
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # BlockBlob ve PageBlob Detayları (SDK2.5)
 Bloblarla ilgili birçok detayı daha önceki yazılarda inceledik. Hatta
 PageBlob ile BlockBlob arasındaki farklılığa da değinmiştik. Şu ana

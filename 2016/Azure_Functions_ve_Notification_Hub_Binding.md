@@ -1,13 +1,3 @@
----
-FallbackID: 3045
-Title: "Azure Functions ve Notification Hub Binding"
-date: "2016-12-10"
-EntryID: Azure_Functions_ve_Notification_Hub_Binding
-IsActive: True
-Section: software
-MinutesSpent: 105
-Tags: Azure Functions, Azure Notification Hub
----
 # Azure Functions ve Notification Hub Binding
 Mobil uygulamaların back-end tarafı ile ilgili bana gelen en popüler sorular push notificationlar ile ilgili oluyor. Belirli aralıklarla bazı şeyleri kontrol edip notification yollamak bunların arasında en popüleri. Azure Functions ile beraber gelen Azure Notification Hub Output Binding desteği aslında bu tarz senaryolar için biçilmiş kaftan. 
 

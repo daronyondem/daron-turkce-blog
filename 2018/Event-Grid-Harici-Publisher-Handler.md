@@ -1,10 +1,3 @@
----
-Title: "Azure Event Grid için Kendi Publisher ve Handler'ınızı Yazın"
-date: "2018-2-16"
-IsActive: True
-MinutesSpent: 158
-Tags: Azure Event Grid, Eventing
----
 # Azure Event Grid için Kendi Publisher ve Handler'ınızı Yazın
 
 [Dünkü yazıda](Azure-Event-Grid-Nedir) Azure Event Grid'e hızlı bir giriş sonrasında Azure içerisindeki **Publisher** ve **Handler**'lar ile nasıl kullanabileceğimize dair bir örnek yapmıştık. Bu yazıda ise kendi Publisher ve Handler'ımızı yazacak olsak karşımıza neler çıkar sorusunu cevaplayacağız. 

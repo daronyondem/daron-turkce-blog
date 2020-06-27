@@ -1,13 +1,3 @@
----
-FallbackID: 3033
-Title: "Visual Studio 2017 RC ile Docker Entegrasyonu"
-date: "2016-11-23"
-EntryID: Visual_Studio_2017_RC_ile_Docker_Entegrasyonu
-IsActive: True
-Section: software
-MinutesSpent: 64
-Tags: Docker, Visual Studio 2017
----
 # Visual Studio 2017 RC ile Docker Entegrasyonu
 Visual Studio 2017 RC ile beraber local Docker development yapabilmek için kolaylıklar geldi desem sanırım şaşırmazsınız. Her ne kadar işler kolaylaşmaya başlasa da hala birkaç şeye dikkat etmek gerekiyor. Eğer siz de bir VM yaratıp Docker testleri yapmayı planlıyorsanız aşağıda paylaşacaklarım işinize yarayabilir.
 

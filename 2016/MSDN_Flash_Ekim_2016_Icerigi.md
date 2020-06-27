@@ -1,13 +1,3 @@
----
-FallbackID: 3028
-Title: "MSDN Flash Ekim 2016 İçeriği"
-date: "2016-10-27"
-EntryID: MSDN_Flash_Ekim_2016_Icerigi
-IsActive: True
-Section: software
-MinutesSpent: 44
-Tags: Visual Studio 15, Windows 10 Insiders, Windows Server 2016
----
 # MSDN Flash Ekim 2016 İçeriği
 Yine bir MSDN Bülten içeriği ile karşınızdayım. Haberleri toparlarken farkına vardım da, sakin bir ayı geride bırakmışız. Ekim ayı da geldi, geçti. İki ay sonra koca bir yılı da yiyip bitirmiş olacağız. [Mihaly Csikszentmihalyi, Flow](http://amzn.to/2dOTlU6) adlı kitabında zamanın algımızdaki geçiş hızı ve mutluluk hissiyatımız ile ilişkisinden bahseder. Mihaly’ye göre zamanın hızlı geçtiğini düşünüyorsanız mutlusunuz demektir. Mutlu olduğunu düşünmeyenler için umarım aşağıdaki haberler işe yarar :) 
 

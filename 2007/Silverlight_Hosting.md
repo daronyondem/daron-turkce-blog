@@ -1,14 +1,3 @@
----
-FallbackID: 1791
-Title: "Silverlight Hosting!!!"
-date: "2007-9-24"
-EntryID: Silverlight_Hosting
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 3754d829-39bc-468e-9336-6d0fb3295188
----
 # Silverlight Hosting!!!
 Yok böyle birşey! Biraz agresif bir giriş olduğunun farkındayım fakat
 insanları kısmen aptal yerine koyan ticari mantıktan artık bıkkınlık

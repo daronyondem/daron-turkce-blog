@@ -1,13 +1,3 @@
----
-FallbackID: 3036
-Title: "Azure Functions ile ilk Serverless Maceramız"
-date: "2016-12-1"
-EntryID: Azure_Functions_ile_ilk_Serverless_Maceramiz
-IsActive: True
-Section: software
-MinutesSpent: 100
-Tags: Azure Functions
----
 # Azure Functions ile ilk Serverless Maceramız
 Azure Functions konusunda uzun süredir yazı yazmak istiyordum. Geri durmamın nedeni ise Visual Studio içerisindeki Tooling'inin rezalet olması, veya başka bir deyişle aslında Tooling'inin olmamasıydı :) Azure Functions kullanımı için bugüne kadar tavsiye edilen kullanım yöntemi tamamen Azure Portalı'ndaki araçlarla kısıtlıydı. Bugün Azure Functions için Tooling'in Preview sürümü duyurulunca ben de hemen hızlıca bir yazı yazmak istedim.
 

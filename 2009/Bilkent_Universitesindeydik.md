@@ -1,14 +1,3 @@
----
-FallbackID: 2327
-Title: "Bilkent Üniversitesi'ndeydik..."
-date: "2009-2-23"
-EntryID: Bilkent_Universitesindeydik
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, LINQ, Silverlight 2.0, WCF, WPF, ASP.NET
-old.EntryID: 31293885-6c15-4e9d-a354-2a3fe29b2d7d
----
 # Bilkent Üniversitesi'ndeydik...
 Son iki gündür sevgili [Uğur Umutluoğlu](http://www.umutluoglu.com/) ile
 Ankara, Bilkent Üniversitesi'ndeyiz. Toplam iki gün süren ve 6 oturumdan

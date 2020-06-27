@@ -1,14 +1,3 @@
----
-FallbackID: 1859
-Title: "Expression Web ve rakipler"
-date: "2007-11-21"
-EntryID: Expression_Web_ve_rakipler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Web
-old.EntryID: 5ee7ec45-f6f5-4a98-9902-0e8fe2bc2016
----
 # Expression Web ve rakipler
 Expression Web Microsoft'un Office paketi dahilinde yer alan Frontpage
 ürünün yeni nesil temsilcisi olarak Expression Studio içerisinde yerini

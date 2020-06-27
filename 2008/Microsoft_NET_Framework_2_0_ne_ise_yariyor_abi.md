@@ -1,14 +1,3 @@
----
-FallbackID: 1914
-Title: "Microsoft .NET Framework 2.0 ne işe yarıyor abi?"
-date: "2008-1-10"
-EntryID: Microsoft_NET_Framework_2_0_ne_ise_yariyor_abi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 58530399-a71c-404c-abde-322dd8f75901
----
 # Microsoft .NET Framework 2.0 ne işe yarıyor abi?
 Arama motorlarını günde kaç defa kullandığımız gibi bir geyiğe
 girmeyeceğim :) Sanırım bilgisayarlarımızda yüklü olan programlardan

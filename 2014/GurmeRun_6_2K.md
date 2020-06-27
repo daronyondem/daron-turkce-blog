@@ -1,13 +1,3 @@
----
-FallbackID: 2918
-Title: "GurmeRun 6.2K"
-date: "2014-9-29"
-EntryID: GurmeRun_6_2K
-IsActive: True
-Section: fitness
-MinutesSpent: 0
-Tags: Koşu, Spor
----
 # GurmeRun 6.2K
 Geçen pazar günü İstanbul'da ilginç bir koşu vardı. Koşunun ilginç
 tarafı şehrin tam göbeğinde olması. Harbiye Cumhuriyet parkında başlayan

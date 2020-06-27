@@ -1,14 +1,3 @@
----
-FallbackID: 1922
-Title: ".NET Framework 3.5 açık kaynak kodları karşınızda!"
-date: "2008-1-18"
-EntryID: NET_Framework_3_5_acik_kaynak_kodlari_karsinizda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 3.5, ASP.NET 3.5, Visual Studio 2008, ASP.NET
-old.EntryID: d23bbb25-5fdf-4599-824a-cb8f8931fa3d
----
 # .NET Framework 3.5 açık kaynak kodları karşınızda!
 Bundan bir süre önce **.NET Framework 3.5**'in açık kaynak kodlarının
 Microsoft tarafından dağıtılacağını sizlere duyurmuştum. Bu gibi bir

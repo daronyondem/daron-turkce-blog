@@ -1,14 +1,3 @@
----
-FallbackID: 1819
-Title: "Silverlight Uygulamalarında Performans"
-date: "2007-10-22"
-EntryID: Silverlight_Uygulamalarinda_Performans
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 8c2d5f22-af61-4d0d-94e4-dfde28f58027
----
 # Silverlight Uygulamalarında Performans
 *"Ne zaman Silverlight uygulamaları hazırlamaya başladık da sıra
 performansa geldi?"* diyenleriniz olabilir :) Haklısınız, umarım yakında

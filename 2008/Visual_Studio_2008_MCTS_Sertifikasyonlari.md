@@ -1,14 +1,3 @@
----
-FallbackID: 1930
-Title: "Visual Studio 2008 MCTS Sertifikasyonları"
-date: "2008-1-25"
-EntryID: Visual_Studio_2008_MCTS_Sertifikasyonlari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 3.5, ASP.NET 3.5, Visual Basic 2008, Visual Studio 2008, WCF, WPF, Visual Basic .NET, ASP.NET
-old.EntryID: de24186d-dc36-452f-b421-75a767703c4f
----
 # Visual Studio 2008 MCTS Sertifikasyonları
 Budan bir süre önce [Windows Server
 2008](http://daron.yondem.com/tr/post/1ad17d05-0f1c-4cea-affc-01b15cde28a2)

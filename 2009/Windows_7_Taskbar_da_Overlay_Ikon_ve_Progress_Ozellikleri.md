@@ -1,14 +1,3 @@
----
-FallbackID: 2384
-Title: "Windows 7 Taskbar'da Overlay İkon ve Progress Özellikleri"
-date: "2009-8-10"
-EntryID: Windows_7_Taskbar_da_Overlay_Ikon_ve_Progress_Ozellikleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7, WPF
-old.EntryID: ad1f6284-0ca4-4652-879d-b34bd9626d18
----
 # Windows 7 Taskbar'da Overlay İkon ve Progress Özellikleri
 *Windows 7'nin RTM olduğu bugünlerde artık yeni hazırladığımız
 uygulamalarda da Windows7'nin özelliklerinden faydalanmanın zamanı

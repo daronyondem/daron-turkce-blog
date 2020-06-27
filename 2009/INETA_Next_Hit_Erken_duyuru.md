@@ -1,14 +1,3 @@
----
-FallbackID: 2313
-Title: "INETA Next Hit! Erken duyuru!"
-date: "2009-1-24"
-EntryID: INETA_Next_Hit_Erken_duyuru
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: f7e4c07b-9773-44e0-8e38-74d60e175a9d
----
 # INETA Next Hit! Erken duyuru!
 Hepinize tekrar selamlar, bugün epey yoğun bir trafik var blogumda
 farkındayım :)

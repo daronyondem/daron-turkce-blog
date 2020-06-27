@@ -1,14 +1,3 @@
----
-FallbackID: 1894
-Title: "İstediğiniz alan adına 500 E-Mail mail.live.com altyapısı ile..."
-date: "2007-12-23"
-EntryID: Istediginiz_alan_adina_500_E-Mail_mail_live_com_altyapisi_ile
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: live.com
-old.EntryID: 9b8ae27a-fec2-457d-811b-31028a9c1d38
----
 # İstediğiniz alan adına 500 E-Mail mail.live.com altyapısı ile...
 Sizlere bir süredir yayında olan bir Windows Live hizmetinden bahsetmek
 istiyorum. Bu hizmetten maalesef özellikle Türkiye'de kimsenin haberi

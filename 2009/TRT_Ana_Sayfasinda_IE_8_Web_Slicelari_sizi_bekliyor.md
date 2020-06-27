@@ -1,14 +1,3 @@
----
-FallbackID: 2319
-Title: "TRT Ana Sayfasında IE 8 Web Slice'ları sizi bekliyor!"
-date: "2009-2-5"
-EntryID: TRT_Ana_Sayfasinda_IE_8_Web_Slicelari_sizi_bekliyor
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Internet Explorer
-old.EntryID: 2d7a63c8-6b70-403f-8761-eab873c78dbe
----
 # TRT Ana Sayfasında IE 8 Web Slice'ları sizi bekliyor!
 Internet Explorer 8 ile ilgili sanırım bugüne kadar 10'a yakın seminer
 verdim ve bu seminerlerin hepsinde de doğal olarak "*Ne anlatacak ki bu

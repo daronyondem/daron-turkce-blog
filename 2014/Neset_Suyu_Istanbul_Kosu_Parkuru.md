@@ -1,13 +1,3 @@
----
-FallbackID: 2914
-Title: "Neşet Suyu İstanbul Koşu Parkuru"
-date: "2014-8-2"
-EntryID: Neset_Suyu_Istanbul_Kosu_Parkuru
-IsActive: True
-Section: fitness
-MinutesSpent: 0
-Tags: 
----
 # Neşet Suyu İstanbul Koşu Parkuru
 İstanbul'da çokça koşmama rağmen bir türlü Neşet Suyu'nda koşma şansım
 olmamıştı. Sevgili dostum Cengiz Han sağolsun bu hafta sonu onun teklifi

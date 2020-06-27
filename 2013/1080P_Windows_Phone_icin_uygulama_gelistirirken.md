@@ -1,13 +1,3 @@
----
-FallbackID: 2864
-Title: "1080P Windows Phone'lar için uygulama geliştirirken dikkat edilmesi gerekenler."
-date: "2013-10-25"
-EntryID: 1080P_Windows_Phone_icin_uygulama_gelistirirken
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Nokia, Windows Phone, Windows Phone 8
----
 # 1080P Windows Phone'lar için uygulama geliştirirken dikkat edilmesi gerekenler.
 1080P çözünürlükteki Windows Phone'ların gelmesi ile beraber
 uygulamalarda da ne gibi değişiklikler yapmak gerekiyor soruları akla

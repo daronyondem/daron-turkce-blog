@@ -1,14 +1,3 @@
----
-FallbackID: 2211
-Title: "Silverlight 2.0 RC0 Offline Dokümantasyon"
-date: "2008-10-10"
-EntryID: Silverlight_2_0_RC0_Offline_Dokumantasyon
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 373368a4-232e-4e39-a691-edd641bc96a8
----
 # Silverlight 2.0 RC0 Offline Dokümantasyon
 Silverlight 2.0'ın RC0 olması ile beraber tabi ki her şey yenilendi. ve
 bu yenilikleri takiben "**Offline Documentation**" paketinin de

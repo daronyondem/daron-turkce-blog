@@ -1,14 +1,3 @@
----
-FallbackID: 1887
-Title: "Galatasaray Üniversitesi Silverlight Semineri ardından"
-date: "2007-12-15"
-EntryID: Galatasaray_Universitesi_Silverlight_Semineri_ardindan
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, Silverlight
-old.EntryID: a0698a5e-ea8b-45b9-99a6-c48401e9fe9d
----
 # Galatasaray Üniversitesi Silverlight Semineri ardından
 Dün **Galatasaray Üniversitesi'**nde **Bilişim Kulübü**'nun katkıları
 ile süper bir **Silverlight** semineri yaptık. Her zamanki gibi tüm gün

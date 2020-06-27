@@ -1,14 +1,3 @@
----
-FallbackID: 1772
-Title: "ASP.NET ile Web Sitelerinin Ekran Görüntüsünü Almak"
-date: "2007-9-4"
-EntryID: ASP_NET_ile_Web_Sitelerinin_Ekran_Goruntusunu_Almak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET
-old.EntryID: 9adde894-3f7f-4728-98a3-05a1906d1a44
----
 # ASP.NET ile Web Sitelerinin Ekran Görüntüsünü Almak
 Web sitelerinin ekran görüntülerini (screenshot) alarak kullanıma sunan
 hizmetler internet üzerinde mevcut. Bu makalemizde ASP.NET tarafında

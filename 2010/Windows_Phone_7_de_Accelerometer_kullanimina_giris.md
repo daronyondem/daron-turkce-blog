@@ -1,14 +1,3 @@
----
-FallbackID: 2524
-Title: "Windows Phone 7'de Accelerometer kullanımına giriş."
-date: "2010-5-10"
-EntryID: Windows_Phone_7_de_Accelerometer_kullanimina_giris
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone 7, Windows Phone
-old.EntryID: d20d192f-4ce2-459f-8573-7b867eef73ec
----
 # Windows Phone 7'de Accelerometer kullanımına giriş.
 Bugün neredeyse her cep telefonunda bir Accelerometer mevcut. Böylece en
 basit işlevsellik olarak telefonumuzu yana çevirdiğimizde algılamasını

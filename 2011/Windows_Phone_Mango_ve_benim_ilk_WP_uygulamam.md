@@ -1,13 +1,3 @@
----
-FallbackID: 2714
-Title: "Windows Phone 7.5 ve benim ilk WP uygulamam çıktı":)
-date: "2011-9-28"
-EntryID: Windows_Phone_Mango_ve_benim_ilk_WP_uygulamam
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7.5
----
 # Windows Phone 7.5 ve benim ilk WP uygulamam çıktı
 Haberi olmayanlar için hemen duyuralım buradan da; dün **Windows Phone
 7.5** çıktı! WP7 üzerine bir update olarak gelen yeni işletim sisteminin

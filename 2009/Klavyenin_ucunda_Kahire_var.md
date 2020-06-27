@@ -1,14 +1,3 @@
----
-FallbackID: 2344
-Title: "Klavyenin ucunda Kahire var..."
-date: "2009-4-3"
-EntryID: Klavyenin_ucunda_Kahire_var
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 01786b18-a1eb-485f-a203-fe9917f2297d
----
 # Klavyenin ucunda Kahire var...
 Microsoft'un Imagine Cup yarışmasını çoğunuz duymuşsunuzdur. Duymayanlar
 en alt paragraftaki copy-past bilgiye başvurabilirler :) Gelelim esas

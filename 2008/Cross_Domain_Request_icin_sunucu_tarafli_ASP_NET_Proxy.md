@@ -1,14 +1,3 @@
----
-FallbackID: 2061
-Title: "Cross Domain Request için sunucu taraflı ASP.NET Proxy"
-date: "2008-5-19"
-EntryID: Cross_Domain_Request_icin_sunucu_tarafli_ASP_NET_Proxy
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Silverlight, Silverlight 2.0
-old.EntryID: 40f51ce0-3ca2-4f47-815a-5071386cd640
----
 # Cross Domain Request için sunucu taraflı ASP.NET Proxy
 İstemci taraflı programlama sistemleri AJAX ile karşımıza çıkmıştı,
 Silverlight ile beraber ise artık istemci taraflı programlama neredeyse

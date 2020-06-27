@@ -1,14 +1,3 @@
----
-FallbackID: 1792
-Title: "WPF Uygulamalari ve Expression Blend Videosu"
-date: "2007-9-26"
-EntryID: WPF_Uygulamalari_ve_Expression_Blend_Videosu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Görsel Ders, WPF
-old.EntryID: 2f746102-2354-4cfd-baa1-aa9f193a9067
----
 # WPF Uygulamalari ve Expression Blend Videosu
 ![](media/WPF_Uygulamalari_ve_Expression_Blend_Videosu/nedirtv_logo.png) WPF ile
 Windows uygulamaları hazırlarken bir taraftan XAML kodları ile tasarımı

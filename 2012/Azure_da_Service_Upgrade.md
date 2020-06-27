@@ -1,13 +1,3 @@
----
-FallbackID: 2763
-Title: "Azure'da Service Upgrade"
-date: "2012-5-1"
-EntryID: Azure_da_Service_Upgrade
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure'da Service Upgrade
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

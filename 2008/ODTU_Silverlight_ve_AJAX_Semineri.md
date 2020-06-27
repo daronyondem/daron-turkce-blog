@@ -1,14 +1,3 @@
----
-FallbackID: 2009
-Title: "ODTÜ Silverlight ve AJAX Semineri"
-date: "2008-4-1"
-EntryID: ODTU_Silverlight_ve_AJAX_Semineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, Silverlight
-old.EntryID: b4652e87-5b92-4789-9860-0899c6de53dc
----
 # ODTÜ Silverlight ve AJAX Semineri
 Bugün **ODTÜ Bilgisayar Mühendisliği Bölümü**'nde uzun soluklu bir
 **Silverlight ve AJAX** semineri düzenledik. Seminer boyunca gerçekten

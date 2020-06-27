@@ -1,14 +1,3 @@
----
-FallbackID: 2191
-Title: ".NET için De-Compile işlemleri ve Obfuscation"
-date: "2008-9-20"
-EntryID: NET_icin_De-Compile_islemleri_ve_Obfuscation
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 3.0, .NET Framework 3.5, ASP.NET 3.5, Silverlight 2.0, Visual Basic 2005, Visual Basic 2008, Visual Studio 2005, Visual Studio 2008, Visual Basic .NET, ASP.NET
-old.EntryID: 72068eed-b6a9-4557-b1c6-260786e24e50
----
 # .NET için De-Compile işlemleri ve Obfuscation
 İster VB olsun ister C\#, ister web ister Windows uygulaması olsun
 yazdığımız tüm kodların derlenerek (Compile) bir EXE veya DLL haline

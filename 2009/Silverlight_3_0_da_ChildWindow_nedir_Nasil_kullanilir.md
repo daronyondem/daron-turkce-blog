@@ -1,14 +1,3 @@
----
-FallbackID: 2367
-Title: "Silverlight 3.0'da ChildWindow nedir? Nasıl kullanılır?"
-date: "2009-6-4"
-EntryID: Silverlight_3_0_da_ChildWindow_nedir_Nasil_kullanilir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 03d90758-dffd-4c98-a2d9-e5d232fe8abb
----
 # Silverlight 3.0'da ChildWindow nedir? Nasıl kullanılır?
 Web uygulamalarında olsun Windows uygulamalarında olsun belki de en sık
 başvurduğumzu şey MessageBox'tır :) Sürekli bir yerlerde uyarılar

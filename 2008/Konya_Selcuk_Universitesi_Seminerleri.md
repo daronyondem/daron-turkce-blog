@@ -1,14 +1,3 @@
----
-FallbackID: 2055
-Title: "Konya, Selçuk Üniversitesi Seminerleri"
-date: "2008-5-14"
-EntryID: Konya_Selcuk_Universitesi_Seminerleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, LINQ, Seminer, Silverlight, Silverlight 2.0, WPF
-old.EntryID: 4dda503c-ba5e-4981-a1e6-df723d7469c6
----
 # Konya, Selçuk Üniversitesi Seminerleri
 Bugün **Konya, Selçuk Üniversitesin**'deydim. Sabah 10.00'da başlayarak
 19.00'a kadar **WPF, AJAX, Silverlight** ve **LINQ** konularını

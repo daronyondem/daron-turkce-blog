@@ -1,13 +1,3 @@
----
-FallbackID: 3037
-Title: "Azure Functions ile Debugging ve Logging"
-date: "2016-12-2"
-EntryID: Azure_Functions_ile_Debugging_ve_Logging
-IsActive: True
-Section: software
-MinutesSpent: 68
-Tags: Azure Functions
----
 # Azure Functions ile Debugging ve Logging
 Dünkü [Azure Functions giriş yazısı](http://daron.yondem.com/software/post/Azure_Functions_ile_ilk_Serverless_Maceramiz)ndan sonra Azure Functions ortamında Debugging için ne gibi özellikler bulunduğundan bahsetmek istiyorum. Hatırlarsanız local debugging özelliğinden zaten bahsetmiştik. Hatta doğrudan projemiz açıkken F5'e basıp local Azure Functions CLI'ı indirerek projeyi localde çalıştırabilmiştik. Fakat yine hatırlarsanız :) her trigger tipinin bu şekilde çalışmayacağından da bahsetmiştim. O neden deployment yapıp test ediyor olmak bazı senaryolarda tek seçenek oluyor. Tabi, bunun haricinde, genel bir strateji olarak da ne olursa olsun son bir testi cloud ortamında, en azından staging gibi bir ortamda yapmanızda fayda var.
 

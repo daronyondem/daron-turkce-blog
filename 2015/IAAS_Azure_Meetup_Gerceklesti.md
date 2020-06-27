@@ -1,13 +1,3 @@
----
-FallbackID: 2970
-Title: "IAAS Azure Meetup Gerçekleşti"
-date: "2015-4-13"
-EntryID: IAAS_Azure_Meetup_Gerceklesti
-IsActive: True
-Section: software
-MinutesSpent: 8
-Tags: Windows Azure
----
 # IAAS Azure Meetup Gerçekleşti
 Azure Meetup’larımız devam ediyor. Bu ay yaptığımız Azure Meetup’ın konusu IAAS Altyapı Hizmetleriydi. Sevgili Ertan Gülen bize katılarak IAAS tarafına güzel bir bakış atmamızı sağladı. Ertan deneyimlerini paylaşırken ben de bir değişiklik yapıp Periscope yayını denemesi yaptım :) Özetle, şans eseri olarak meetup’ımızı canlı yayınlamış oldu. Yayının kaydını da almayı unutmadım. Aşağıda izleyebilirsiniz.
 

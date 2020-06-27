@@ -1,14 +1,3 @@
----
-FallbackID: 1763
-Title: "İstemci Taraflı AJAX Yüklemelerini JavaScript ile İptal Etmek"
-date: "2007-8-27"
-EntryID: Istemci_Tarafli_AJAX_Yuklemelerini_JavaScript_ile_Iptal_Etmek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET
-old.EntryID: fe2e906e-af31-4f8f-93f6-705c34a24e05
----
 # İstemci Taraflı AJAX Yüklemelerini JavaScript ile İptal Etmek
 Farklı web sitelerinde AJAX ile sunucudan istemciye veri yükleme
 teknikleri kullanmak performans açısından ciddi faydalar sağlarken bazen

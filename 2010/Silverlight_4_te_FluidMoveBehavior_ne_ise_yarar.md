@@ -1,14 +1,3 @@
----
-FallbackID: 2534
-Title: "Silverlight 4'te FluidMoveBehavior ne işe yarar?"
-date: "2010-9-4"
-EntryID: Silverlight_4_te_FluidMoveBehavior_ne_ise_yarar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 024c6816-2639-4db7-8cdd-1ea688e6925d
----
 # Silverlight 4'te FluidMoveBehavior ne işe yarar?
 Silverlight 3 ile beraber Behavior yapılarına alışmış hatta bunları
 nasıl geliştirebileceğimize de [eski

@@ -1,13 +1,3 @@
----
-FallbackID: 2708
-Title: "Live Connect ile SkyDrive'a programatik file upload"
-date: "2011-9-24"
-EntryID: Live_Connect_ile_SkyDrivea_programatik_fileupload
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: live.com, SkyDrive, WPF
----
 # Live Connect ile SkyDrive'a programatik file upload
 Build konferansında SkyDrive'a ait yeni API'lerin açılacağı ve Beta
 olarak sunulduğu duyurusunun yapıldığı anda hemen aklımda kenara not

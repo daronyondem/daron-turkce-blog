@@ -1,13 +1,3 @@
----
-FallbackID: 2816
-Title: "Eylül'ün Çekiliş Kitabı Server AppFabric üzerine!"
-date: "2012-9-1"
-EntryID: Eylul_un_Cekilis_Kitabi_Server_AppFabric
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Eylül'ün Çekiliş Kitabı Server AppFabric üzerine!
 Hadi başlayalım :) Bir süre önce Twitter'dan post atarak takipçilerimden
 bir linke tıklamalarını istemiştim. Eğer 1500 kişi tıklarsa bana 300\$

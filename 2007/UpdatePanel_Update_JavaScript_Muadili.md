@@ -1,14 +1,3 @@
----
-FallbackID: 1774
-Title: "UpdatePanel.Update JavaScript Muadili"
-date: "2007-9-5"
-EntryID: UpdatePanel_Update_JavaScript_Muadili
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX
-old.EntryID: 8353a00e-5035-4f21-a13d-56aa8c0e6419
----
 # UpdatePanel.Update JavaScript Muadili
 ASP.NET AJAX Extension 1.0 ile beraber gelen **UpdatePanel** sunucu
 kontrolü biz yazılım geliştiricilerin hayatını ciddi şekilde

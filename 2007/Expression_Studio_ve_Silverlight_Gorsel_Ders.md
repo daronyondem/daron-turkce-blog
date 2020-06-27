@@ -1,14 +1,3 @@
----
-FallbackID: 1824
-Title: "Expression Studio ve Silverlight Görsel Ders"
-date: "2007-10-25"
-EntryID: Expression_Studio_ve_Silverlight_Gorsel_Ders
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Studio, Silverlight, Webiner
-old.EntryID: 1bbf70f5-cd3d-4150-a381-5a30f4b420b3
----
 # Expression Studio ve Silverlight Görsel Ders
 ![](media/Expression_Studio_ve_Silverlight_Gorsel_Ders/nedirtv_logo.png)Silverlight
 uygulamaları geliştirirken **Expression Studio** içerisinde yer alan,

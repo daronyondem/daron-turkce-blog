@@ -1,14 +1,3 @@
----
-FallbackID: 2125
-Title: "Expression Web 2 ve PHP desteğine dair ayarlar."
-date: "2008-7-17"
-EntryID: Expression_Web_2_ve_PHP_destegine_dair_ayarlar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Web
-old.EntryID: 11907d24-0da8-4f9c-8f86-6c0dce6b24e8
----
 # Expression Web 2 ve PHP desteğine dair ayarlar.
 Expression Web 2 ile beraber gelen belki de en ilginç ve güzel
 yeniliklerden biri de PHP desteğinin gelmesi. Microsoft'un Windows

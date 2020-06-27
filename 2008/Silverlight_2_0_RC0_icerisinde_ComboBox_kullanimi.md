@@ -1,14 +1,3 @@
----
-FallbackID: 2204
-Title: "Silverlight 2.0 RC0 içerisinde ComboBox kullanımı."
-date: "2008-10-3"
-EntryID: Silverlight_2_0_RC0_icerisinde_ComboBox_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 494df829-6d32-4a2b-956f-b4bd5851c024
----
 # Silverlight 2.0 RC0 içerisinde ComboBox kullanımı.
 Silverlight 2.0 RC0 ile gelen yeni kontrollerden biri de ComboBox
 kontrolü. Bu yazımızda Combobox'ın kullanımına, görsel düzenlemelerin

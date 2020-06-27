@@ -1,14 +1,3 @@
----
-FallbackID: 2447
-Title: "TechEd Online Röportajım"
-date: "2009-11-15"
-EntryID: TechEd_Online_Roportajim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 14cc9b66-5b59-414d-894a-f96af83a4eaa
----
 # TechEd Online Röportajım
 Hatırlarsanız Berlin, TechEd Europe ziyaretimi sizlerle blogumdan
 paylaşırken TechEd Online için de bir "[Multitouch in

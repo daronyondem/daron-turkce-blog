@@ -1,13 +1,3 @@
----
-FallbackID: 2887
-Title: "Windows Phone'da XAML Transformasyonları"
-date: "2014-3-1"
-EntryID: Windows_Phone_XAML_Transformasyonlari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Video, Windows Phone
----
 # Windows Phone'da XAML Transformasyonları
 Windows Phone uygulamaları geliştiren bir çok yazılımcıdan e-mailler
 alıyorum ve genel olarak gelen sorulara baktığımda aslında çok yapısal

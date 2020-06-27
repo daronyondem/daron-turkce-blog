@@ -1,13 +1,3 @@
----
-FallbackID: 2752
-Title: "INETA Ankara Etkinliği 2012"
-date: "2012-1-19"
-EntryID: INETA_Ankara_Etkinligi_2012
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # INETA Ankara Etkinliği 2012
 İzmir'den sonra INETA Türkiye büyük etkinliklerine Ankara ile devam
 ediyor :) Bilgileri aşağıda ;)

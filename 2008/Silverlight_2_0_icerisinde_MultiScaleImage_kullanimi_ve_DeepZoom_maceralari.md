@@ -1,14 +1,3 @@
----
-FallbackID: 2132
-Title: "Silverlight 2.0 içerisinde MultiScaleImage kullanımı ve DeepZoom maceraları"
-date: "2008-7-24"
-EntryID: Silverlight_2_0_icerisinde_MultiScaleImage_kullanimi_ve_DeepZoom_maceralari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 84a4bed5-dcdf-48a6-8cc7-2b193eeda808
----
 # Silverlight 2.0 içerisinde MultiScaleImage kullanımı ve DeepZoom maceraları
 Silverlight 2.0 ile beraber gelen kontrollerden biri de
 **MultiScaleImage** kontrolü. Bu kontrolün yapabildikleri arasında

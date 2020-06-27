@@ -1,13 +1,3 @@
----
-FallbackID: 2861
-Title: "Nike Fuelband İnceleme ve API Wrapper Source Code"
-date: "2013-10-18"
-EntryID: Nike_Fuelband_Inceleme_ve_API_Wrapper_Source_Code
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Gadget
----
 # Nike Fuelband İnceleme ve API Wrapper Source Code
 Hatırlarsanız geçenlerde sporla alakalı donanım olarak [Jawbone Up
 incelemesi](http://daron.yondem.com/tr/post/Jawbone_UP_Inceleme_ve_API_Kullanimi)

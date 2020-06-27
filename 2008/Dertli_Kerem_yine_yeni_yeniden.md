@@ -1,14 +1,3 @@
----
-FallbackID: 2083
-Title: "Dertli Kerem yine, yeni, yeniden..."
-date: "2008-6-10"
-EntryID: Dertli_Kerem_yine_yeni_yeniden
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Dertli Kerem
-old.EntryID: f703b412-dd36-47e7-a8a7-6b4f57168bc7
----
 # Dertli Kerem yine, yeni, yeniden...
 Yazılım sektöründe beraber çalıştığım, içerisinde çalıştığım,
 dışarısında, yanında, arkasında çalıştığım kurumlardan gördüğüm

@@ -1,14 +1,3 @@
----
-FallbackID: 1955
-Title: "URL Mapping veya ReWriting"
-date: "2008-2-12"
-EntryID: URL_Mapping_veya_ReWriting
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, ASP.NET
-old.EntryID: 7d7a31e7-5427-4186-bf42-7797634fb037
----
 # URL Mapping veya ReWriting
 Bu aralar karşılaştığım ilginç sorulardan biri de URL Mapping hakkında.
 İnternette gezerken dikkatinizi çekmiştir, bazı sitelerde

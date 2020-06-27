@@ -1,13 +1,3 @@
----
-FallbackID: 2812
-Title: "Üretkenliğinizi arttırmak için": RescueTime!
-date: "2012-5-23"
-EntryID: Uretkenliginizi_arttirmak_icin_RescueTime
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel, Servisler
----
 # Üretkenliğinizi arttırmak için
 Genelde mail ile aldığım sorular nasıl bu kadar çok işi beraber
 götürebildiğim veya nasıl olup da bu kadar üretken olabildiğim gibi

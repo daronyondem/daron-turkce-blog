@@ -1,14 +1,3 @@
----
-FallbackID: 2096
-Title: "Silverlight 2.0 kontrollerinin varsayılan görselliklerine ait XAML kodları"
-date: "2008-6-18"
-EntryID: Silverlight_2_0_kontrollerinin_varsayilan_gorselliklerine_ait_XAML_kodlari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 197733a7-da3c-4764-957f-7367c5a50524
----
 # Silverlight 2.0 kontrollerinin varsayılan görselliklerine ait XAML kodları
 Silverlight 2.0 ile ilgili "Control Templating" yazılarımda Silverlight
 kontrollerinin bazılarının tasarımlarının nasıl değiştirilebileceğini

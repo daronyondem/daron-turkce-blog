@@ -1,13 +1,3 @@
----
-FallbackID: 2987
-Title: "COMPEC Garage Hackathon"
-date: "2015-11-16"
-EntryID: COMPEC_Garage_Hackathon
-IsActive: True
-Section: software
-MinutesSpent: 8
-Tags: Hackathon
----
 # COMPEC Garage Hackathon
 Bu hafta sonu [Boğaziçi Üniversitesi COMPEC Bilişim Kulübü](http://compec.boun.edu.tr/site/)'nün gerçekleştirdiği Garage Hackathon'da jüri koltuğundaydım. Her zamanki gibi [Periscope](https://www.periscope.tv/daronyondem) üzerinden finalin canlı yayınını da yaptım :) Bu arada aldığım final kaydını da sizler ile paylaşıyorum.
 

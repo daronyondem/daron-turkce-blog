@@ -1,14 +1,3 @@
----
-FallbackID: 2120
-Title: "BlogEngine Türkiye sitesi açıldı"
-date: "2008-7-11"
-EntryID: BlogEngine_Turkiye_sitesi_acildi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 5426d5c6-0eee-486c-82d9-fab301cb196f
----
 # BlogEngine Türkiye sitesi açıldı
 Hazır yazılım kullanmak ile kullanmamak arasında çizgi aslında biz
 yazılımcılar için çok tehlikeli bir kararı temsil eder. Alıp kullanmaya

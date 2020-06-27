@@ -1,14 +1,3 @@
----
-FallbackID: 2407
-Title: "Silverlight ile sıfırdan SlideShow uygulaması geliştirmek."
-date: "2009-9-11"
-EntryID: Silverlight_ile_sifirdan_SlideShow_uygulamasi_gelistirmek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Görsel Ders, Silverlight 3.0
-old.EntryID: 42427a1e-a30a-461f-a2fc-259128e56185
----
 # Silverlight ile sıfırdan SlideShow uygulaması geliştirmek.
 Bir süre önce aldığım bir mail beni biraz şaşırtmıştı. Aldığım mailde
 Silverlight ile basit bir SlideShow uygulamasının nasıl yapılabileceği

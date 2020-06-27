@@ -1,13 +1,3 @@
----
-FallbackID: 2685
-Title: "Feedburner'ı değişikliklerde pinglemek"
-date: "2011-9-3"
-EntryID: Feedburneri_degisikliklerde_pinglemek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET, ASP.NET 2.0, ASP.NET 3.5, ASP.NET 4.0, ASP.NET MVC 3
----
 # Feedburner'ı değişikliklerde pinglemek
 Blog yazmak ciddi ciddi apayrı bir işmiz :) Örneğin ben hiç
 düşünmemiştim ki bloguma yazı eklediğimizde nasıl hemen FeedBurner bunu

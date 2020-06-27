@@ -1,14 +1,3 @@
----
-FallbackID: 2019
-Title: "Uluslararası Kıbrıs Üniversitesi Silverlight ve WPF Seminerleri"
-date: "2008-4-10"
-EntryID: Uluslararasi_Kibris_Universitesi_Silverlight_ve_WPF_Seminerleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, WPF
-old.EntryID: ac59d348-18d2-45b3-9fdf-3476d26b90af
----
 # Uluslararası Kıbrıs Üniversitesi Silverlight ve WPF Seminerleri
 Son iki gündür KKTC'de **Uluslararsı Kıbrıs Üniversitesi**'ndeydim. İlk
 gün güzel bir **WPF** semineri yaptık, ikinci gün de **Silverlight** ile

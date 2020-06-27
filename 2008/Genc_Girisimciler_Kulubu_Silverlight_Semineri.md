@@ -1,14 +1,3 @@
----
-FallbackID: 1925
-Title: "Genç Girişimciler Kulübü Silverlight Semineri"
-date: "2008-1-20"
-EntryID: Genc_Girisimciler_Kulubu_Silverlight_Semineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, Silverlight
-old.EntryID: 4257287e-d5fe-4d70-a71c-64adc28471a8
----
 # Genç Girişimciler Kulübü Silverlight Semineri
 Dün **[Genç Girişimciler Kulübü](http://www.gencgirisimciler.org/)**
 çatısında çok verimli bir **Silverlight** semineri gerçekleştirdik.

@@ -1,14 +1,3 @@
----
-FallbackID: 1985
-Title: "Silverlight Workshop birinci günü."
-date: "2008-3-10"
-EntryID: Silverlight_Workshop_birinci_gunu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 7de735c4-67bf-4411-8cba-711f1994b9d9
----
 # Silverlight Workshop birinci günü.
 Bugün **INETA** ve **NETRON** sponsorluğunda [Silverlight
 Workshop](http://daron.yondem.com/tr/post/e52a84f7-3c2c-4ae5-8fd1-2b998eb25378)

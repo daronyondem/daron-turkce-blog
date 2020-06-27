@@ -1,14 +1,3 @@
----
-FallbackID: 2343
-Title: "2009 yılında Silverlight MVP'liği!"
-date: "2009-4-2"
-EntryID: 2009_yilinda_Silverlight_MVPligi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Silverlight 2.0, Silverlight 3.0
-old.EntryID: 5b7dfc26-5c34-45fc-8d83-1e719a2af128
----
 # 2009 yılında Silverlight MVP'liği!
 ![2009 Silverlight
 MVP'liği!](media/2009_yilinda_Silverlight_MVPligi/01042009_1.jpg)Geçen

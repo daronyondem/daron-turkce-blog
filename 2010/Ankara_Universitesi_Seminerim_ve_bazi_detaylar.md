@@ -1,14 +1,3 @@
----
-FallbackID: 2512
-Title: "Ankara Üniversitesi Seminerim ve bazı detaylar":)
-date: "2010-4-21"
-EntryID: Ankara_Universitesi_Seminerim_ve_bazi_detaylar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 1b29ea69-ad48-45fd-a600-1516e91f31b5
----
 # Ankara Üniversitesi Seminerim ve bazı detaylar
 Bugün Ankara'da Ankara Üniversitesi'ndeydim. Son dönemde bolca "Neden
 Ankara'ya gelmiyorsunuz" mesajları aldığım için özellikle bu ziyaretimi

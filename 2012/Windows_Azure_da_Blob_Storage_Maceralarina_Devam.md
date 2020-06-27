@@ -1,13 +1,3 @@
----
-FallbackID: 2775
-Title: "Windows Azure'da Blob Storage Maceralarına Devam"
-date: "2012-6-19"
-EntryID: Windows_Azure_da_Blob_Storage_Maceralarina_Devam
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Windows Azure'da Blob Storage Maceralarına Devam
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

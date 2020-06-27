@@ -1,14 +1,3 @@
----
-FallbackID: 2091
-Title: "Last.Fm Silverlight Widget!"
-date: "2008-6-14"
-EntryID: Last_Fm_Silverlight_Widget
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 3f829c71-b593-4d0b-93f2-0782e0e905b1
----
 # Last.Fm Silverlight Widget!
 Yaklaşık 2 saat kadar önce
 [last.fm](http://www.lastfm.com.tr/user/daronyondem/) üyesi oldum :)

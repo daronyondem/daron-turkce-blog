@@ -1,14 +1,3 @@
----
-FallbackID: 2116
-Title: "Silverlight 2.0 Beta 2 ile ASP.NET Forms Authentication kullanımı"
-date: "2008-7-8"
-EntryID: Silverlight_2_0_Beta_2_ile_ASP_NET_Forms_Authentication_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 8ee754ae-1acb-444d-ab0a-39c40f771aae
----
 # Silverlight 2.0 Beta 2 ile ASP.NET Forms Authentication kullanımı
 ASP.NET Authentication mekanizmaları neredeyse tüm ASP.NET projelerinde
 kullandığımız pratik çözümlerden. Özellikle Forms Authentication belki

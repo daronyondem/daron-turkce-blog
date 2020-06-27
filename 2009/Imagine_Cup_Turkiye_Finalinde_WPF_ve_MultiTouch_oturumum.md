@@ -1,14 +1,3 @@
----
-FallbackID: 2352
-Title: "Imagine Cup Türkiye Finali'nde WPF ve MultiTouch oturumum."
-date: "2009-4-18"
-EntryID: Imagine_Cup_Turkiye_Finalinde_WPF_ve_MultiTouch_oturumum
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: WPF, MultiTouch
-old.EntryID: 7be5f55f-130b-4149-ae6b-9e643b362f38
----
 # Imagine Cup Türkiye Finali'nde WPF ve MultiTouch oturumum.
 Bugün **Imagine Cup 2009** Türkiye Final'inin günüydü. Microsoft
 Istanbul ofisindeki etkinlik dün twitter üzerinden de duyurduğum üzere

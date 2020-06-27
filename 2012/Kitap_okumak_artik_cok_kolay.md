@@ -1,13 +1,3 @@
----
-FallbackID: 2832
-Title: "Kitap okumak artık çok kolay!"
-date: "2012-12-4"
-EntryID: Kitap_okumak_artik_cok_kolay
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Kitap okumak artık çok kolay!
 Kitap okumak bazıları için hala korkulu bir "edinilemeyen alışkanlık"
 olarak durur. Ben bunu biraz da "çalışkanlık" ve "tembellik" arasındaki

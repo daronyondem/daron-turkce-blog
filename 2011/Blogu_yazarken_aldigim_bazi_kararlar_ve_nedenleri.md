@@ -1,13 +1,3 @@
----
-FallbackID: 2681
-Title: "Blogu yazarken aldığım bazı kararlar ve nedenleri..."
-date: "2011-9-2"
-EntryID: Blogu_yazarken_aldigim_bazi_kararlar_ve_nedenleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 4.0, ASP.NET MVC 3, Genel, MVC, Silverlight 4
----
 # Blogu yazarken aldığım bazı kararlar ve nedenleri...
 Malum yeni blogu yazarken karşılaştığım bazı şeyleri ve bulduğum
 çözümleri sizlerle paylaşacağımdan bahsetmiştim. Ondan önce bana gelen

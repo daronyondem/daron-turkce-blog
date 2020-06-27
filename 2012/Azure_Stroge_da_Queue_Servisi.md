@@ -1,13 +1,3 @@
----
-FallbackID: 2785
-Title: "Azure Stroge'da Queue Servisi"
-date: "2012-8-28"
-EntryID: Azure_Stroge_da_Queue_Servisi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Azure Stroge'da Queue Servisi
 Azure Storage Account'larda gelen blob ve table'dan sonra son servis
 olan queue (kuyruk) servisi veri saklama açısından diğer servisler kadar

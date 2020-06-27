@@ -1,14 +1,3 @@
----
-FallbackID: 2128
-Title: "Silverlight 2.0 içerisinden Download penceresi açtırmak."
-date: "2008-7-20"
-EntryID: Silverlight_2_0_icerisinden_Download_penceresi_actirmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 58677c9b-1b1e-424d-a8c8-862ac5e296ac
----
 # Silverlight 2.0 içerisinden Download penceresi açtırmak.
 Silverlight 2.0 Beta 2 içerisinde istemci makinedeki herhangi bir
 dosyaya ulaşmakla ilgili örneklerimizde **Open File Dialog** nesnesini

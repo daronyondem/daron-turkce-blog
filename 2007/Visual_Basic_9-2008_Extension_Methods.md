@@ -1,14 +1,3 @@
----
-FallbackID: 1879
-Title: "Visual Basic 9.0 (2008) Extension Methods"
-date: "2007-12-10"
-EntryID: Visual_Basic_9-2008_Extension_Methods
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Basic 2008, Visual Basic .NET
-old.EntryID: d0410ea6-2365-49b1-9452-8591d1af27ec
----
 # Visual Basic 9.0 (2008) Extension Methods
 Bu yazımda **VB 9.0** sürümü, yani **Visual Studio 2008** ile beraber
 gelen **Extension Methods** yapısından bahsedeceğim. Extension metodlar

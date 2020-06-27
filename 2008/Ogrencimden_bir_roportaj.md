@@ -1,14 +1,3 @@
----
-FallbackID: 2015
-Title: "Öğrencimden bir röportaj..."
-date: "2008-4-8"
-EntryID: Ogrencimden_bir_roportaj
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: abeb4c0c-6880-4c74-9d4f-41c9cfadb7cf
----
 # Öğrencimden bir röportaj...
 Geçenlerde sonlandırdığımız **INETA** ve **NETRON** işbirliğindeki üç
 günlük ücretsiz Silverlight eğitiminden bahsetmiştim. Eğitim boyunca her

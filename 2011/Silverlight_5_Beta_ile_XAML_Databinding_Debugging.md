@@ -1,14 +1,3 @@
----
-FallbackID: 2559
-Title: "Silverlight 5 Beta ile XAML / Databinding Debugging"
-date: "2011-4-16"
-EntryID: Silverlight_5_Beta_ile_XAML_Databinding_Debugging
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 5
-old.EntryID: 1fb13798-77cb-4673-91f6-e64f26c94561
----
 # Silverlight 5 Beta ile XAML / Databinding Debugging
 [Silverlight 5 Beta](http://www.microsoft.com/silverlight/future/)'nın
 duyurulması ile beraber [birçok yeni

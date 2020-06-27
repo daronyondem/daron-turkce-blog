@@ -1,14 +1,3 @@
----
-FallbackID: 1759
-Title: "İstemci Taraflı MD5 ile Yüksek Güvenlik"
-date: "2007-8-23"
-EntryID: Istemci_Tarafli_MD5_ile_Yuksek_Guvenlik
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET, JavaScript
-old.EntryID: dec6ac02-4f06-4cb5-986d-02907794fd74
----
 # İstemci Taraflı MD5 ile Yüksek Güvenlik
 Herhangi bir web sitesi ile kullanıcı (istemci) arasındaki web trafiği
 normal şartlarda şifrelenmemiş (enkript edilmemiş) olarak aktarılır. Bu

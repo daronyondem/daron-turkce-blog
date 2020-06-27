@@ -1,13 +1,3 @@
----
-FallbackID: 2742
-Title: "INETA İzmir Etkinliği Geldi Geçti..":)
-date: "2011-12-13"
-EntryID: INETA_Izmir_Etkinligi_Geldi_Gecti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 4.5, Windows Azure, HTML5, WCF, WF, Windows 8, Windows Phone, Windows Phone 7.5, Windows Server 8
----
 # INETA İzmir Etkinliği Geldi Geçti..
 Vuuhuuu :) Uzun süre olmuştu INETA tarafında hafta sonu iki günlük
 etkinlikler yapmayalı. Eski efsane aynı tadı ile geliyor desem yeridir.

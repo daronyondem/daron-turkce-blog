@@ -1,13 +1,3 @@
----
-FallbackID: 2852
-Title: "Leap Motion'a ilk bakış, ilk dokunuş"
-date: "2013-8-20"
-EntryID: Leap_Motion_ilk_bakis_ilk_dokunus
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Gadget
----
 # Leap Motion'a ilk bakış, ilk dokunuş
 Kaç ay oldu hatırlamıyorum ama epey zaman oldu [Leap
 Motion'ın](https://www.leapmotion.com/) Leap cihazı ile ilgili ilk

@@ -1,14 +1,3 @@
----
-FallbackID: 2342
-Title: "INETA NEXT HIT !"
-date: "2009-3-31"
-EntryID: INETA_NEXT_HIT
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0, WCF, WF, Windows 7, WPF, ASP.NET 4.0, ASP.NET
-old.EntryID: ef6e7202-e461-430f-85ad-a06d4242a98c
----
 # INETA NEXT HIT !
 Uzun bir aradan sonra tekrar güzel bir etkinlik ile karşınızdayız.
 Bundan yaklaşık [iki ay

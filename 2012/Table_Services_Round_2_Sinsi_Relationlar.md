@@ -1,13 +1,3 @@
----
-FallbackID: 2783
-Title: "Table Services Round 2": Sinsi Relationlar :)
-date: "2012-8-14"
-EntryID: Table_Services_Round_2_Sinsi_Relationlar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Table Services Round 2
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

@@ -1,14 +1,3 @@
----
-FallbackID: 2201
-Title: "CETURK etkinliğindeki WPF seminerimin videosu karşınızda."
-date: "2008-9-30"
-EntryID: CETURK_etkinligindeki_WPF_seminerimin_videosu_karsinizda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, WPF
-old.EntryID: 553d0dba-607c-4d70-aa6a-f780e88a565e
----
 # CETURK etkinliğindeki WPF seminerimin videosu karşınızda.
 **CETURK** ile düzenlediğimiz "[Microsoft
 Teknolojileri](http://daron.yondem.com/tr/post/f91c070d-a3ed-4ca4-972b-dfe44090f222)"

@@ -1,14 +1,3 @@
----
-FallbackID: 2090
-Title: "Ekşi Sözlük'te ben":)
-date: "2008-6-13"
-EntryID: Eksi_Sozlukte_ben
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 54398059-9605-4396-af42-9bae71f9e144
----
 # Ekşi Sözlük'te ben
 Geçenlerde kim söyledi tam olarak hatırlamıyorum ama "hocam ekşisözlükte
 sana " + *birseyler* + " yazmislar" dedi :) Tam bu noktadaki *birseyler*

@@ -1,14 +1,3 @@
----
-FallbackID: 2282
-Title: "Imagine Cup Lansmanı'ndaki Expression Studio oturumum."
-date: "2008-12-20"
-EntryID: Imagine_Cup_Lansmanindaki_Expression_Studio_oturumum
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Expression Design, Expression Encoder, Expression Media, Expression Studio, Expression Web, Seminer, Silverlight 2.0, WPF
-old.EntryID: ee0e099b-7050-49a8-8185-5f0f55e54b0d
----
 # Imagine Cup Lansmanı'ndaki Expression Studio oturumum.
 Bugün **Imagine Cup Türkiye Lansmanı**'nda "**Expression Studio ile
 Tasarım**" oturumunu sundum. Oturuma katılan arkadaşların çoğu hali

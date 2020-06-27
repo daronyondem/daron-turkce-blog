@@ -1,13 +1,3 @@
----
-FallbackID: 2862
-Title: "Nokia Glance Background"
-date: "2013-10-19"
-EntryID: Nokia_Glance_Background
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Nokia, Windows Phone 8
----
 # Nokia Glance Background
 Son update'ler ile beraber AMOLED ekranlara sahip Lumia'lara Glance
 özelliğinin geldiğini tüm Lumia sahipleri farkına varmıştır. Amber

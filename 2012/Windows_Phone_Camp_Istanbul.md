@@ -1,13 +1,3 @@
----
-FallbackID: 2796
-Title: "Windows Phone Camp Istanbul"
-date: "2012-2-15"
-EntryID: Windows_Phone_Camp_Istanbul
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Phone, Windows Phone 7.5
----
 # Windows Phone Camp Istanbul
 Microsoft'un organize ettiği Windows Phone Camp'lerden biri de
 önümüzdeki hafta 22-23 Şubat tarihlerde gerçekleşecek. Bu sefer iki gün

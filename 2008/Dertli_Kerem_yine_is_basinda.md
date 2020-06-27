@@ -1,14 +1,3 @@
----
-FallbackID: 2049
-Title: "Dertli Kerem yine iş başında!"
-date: "2008-5-8"
-EntryID: Dertli_Kerem_yine_is_basinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Dertli Kerem
-old.EntryID: dd6a497e-3225-4175-84cb-34081ca5d5ef
----
 # Dertli Kerem yine iş başında!
 Yazmadan edemeyeceğim :) Son dört gündür bilgisayar başında olup insan
 yüzü görmediğim için artık sadece blogum aracılığı ile bir sosyalleşme

@@ -1,14 +1,3 @@
----
-FallbackID: 2227
-Title: "Silverlight 2.0 Eğitimi BTAkademi'de."
-date: "2008-10-26"
-EntryID: Silverlight_2_0_Egitimi_BTAkademi_de
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 8e4a2523-45b8-42ad-87a2-aca65394ef0e
----
 # Silverlight 2.0 Eğitimi BTAkademi'de.
 Uzun bir süredir Silverlight anlatıyorum, 1.0 , 1.1 Alpha, 2.0 Beta 1,
 2.0 Beta 2 derken RC ve RTW ile bugünlere kadar geldik. Bu süreçte

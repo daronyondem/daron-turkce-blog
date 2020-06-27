@@ -1,14 +1,3 @@
----
-FallbackID: 1935
-Title: "yazgelistir.com toplantısı sonrasında..."
-date: "2008-1-29"
-EntryID: yazgelistir_com_toplantisi_sonrasinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 965eb599-aede-4568-8303-260c69972b9f
----
 # yazgelistir.com toplantısı sonrasında...
 ![yazgelistir.com
 ödülüm!](media/yazgelistir_com_toplantisi_sonrasinda/29012008_1.jpg)Dün

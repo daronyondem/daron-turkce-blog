@@ -1,13 +1,3 @@
----
-FallbackID: 2892
-Title: "Windows Azure'da Local Storage kullanımı (SDK2.2)"
-date: "2014-3-10"
-EntryID: Windows_Azure_Local_Storage_kullanimi_SDK2_2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Windows Azure'da Local Storage kullanımı (SDK2.2)
 Azure ortamı ile ilgilendiğimizden beridir :) sürekli olarak her bir
 role instance'ın aslında kendi kalıcı veri saklama ortamının

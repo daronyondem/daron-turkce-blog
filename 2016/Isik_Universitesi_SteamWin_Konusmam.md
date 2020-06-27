@@ -1,13 +1,3 @@
----
-FallbackID: 3029
-Title: "Işık Üniversitesi SteamWin Konuşmam"
-date: "2016-11-4"
-EntryID: Isik_Universitesi_SteamWin_Konusmam
-IsActive: True
-Section: software
-MinutesSpent: 9
-Tags: Seminer
----
 # Işık Üniversitesi SteamWin Konuşmam
 Dün kısa bir oturum için Işık Üniveristesi'ndeydim. **SteamWin** ve **TurkishWIN**'in (Turkish Women's Internation Network) düzenlediği networking etkinliklerinden birinde bana söylenene göre ilk erkek konuşmacı oldum :) İtiraf etmek gerekirse ilk defa bayan oranını bu kadar yüksek olduğu bir gruba konuştum :) Malum genel mühendislik bölümleri manzarasını hepimiz biliyoruz :) 
 

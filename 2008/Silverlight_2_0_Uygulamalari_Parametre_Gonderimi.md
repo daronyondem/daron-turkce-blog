@@ -1,14 +1,3 @@
----
-FallbackID: 2040
-Title: "Silverlight 2.0 Uygulamaları Parametre Gönderimi"
-date: "2008-4-29"
-EntryID: Silverlight_2_0_Uygulamalari_Parametre_Gonderimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 4834596e-b5ec-450f-8e3c-cfba929d958e
----
 # Silverlight 2.0 Uygulamaları Parametre Gönderimi
 Silverlight 2.0 uygulamalarını web sayfalarımıza **OBJECT** tagları ile
 koyacağımızı biliyoruz. Artık Silverlight 1.0'daki gibi JavaScript ile

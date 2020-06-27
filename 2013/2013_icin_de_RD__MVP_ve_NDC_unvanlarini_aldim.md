@@ -1,13 +1,3 @@
----
-FallbackID: 2839
-Title: "2013 için de RD, MVP ve NDC ünvanlarını aldım."
-date: "2013-4-2"
-EntryID: 2013_icin_de_RD__MVP_ve_NDC_unvanlarini_aldim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MVP, Nokia, Windows Azure, Windows Phone, Windows Phone 8
----
 # 2013 için de RD, MVP ve NDC ünvanlarını aldım.
 Yılın yenilenme zamanı :) İlginç bir şekilde yıllık bazda aldığım tüm
 ödüller 1 Nisan'a denk geliyor :) Acaba toplu olarak herkes bana şaka mı

@@ -1,13 +1,3 @@
----
-FallbackID: 2837
-Title: "Sitenize Windows 8 ve Internet Explorer 10 için Flip Ahead Ekleyin"
-date: "2013-3-16"
-EntryID: Sitenize_Flip_Ahead_Ekleyin
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML, HTML5, IE 10, Internet Explorer, Metro UI, Windows 8
----
 # Sitenize Windows 8 ve Internet Explorer 10 için Flip Ahead Ekleyin
 Windows 8 ile beraber gelen METRO demekte ısrar ettiğim :) ekranı herkes
 biliyordur. Doğru ismi "Start Screen" :) Neyse, şimdi o ekranda

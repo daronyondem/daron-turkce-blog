@@ -1,14 +1,3 @@
----
-FallbackID: 2308
-Title: "INETA Professional Hit"
-date: "2009-1-15"
-EntryID: INETA_Professional_Hit
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ADO.NET Data Services, AJAX, ASP.NET 3.5, SharePoint, Silverlight 2.0, ASP.NET
-old.EntryID: bc58623d-15b5-4438-868c-70ea78835787
----
 # INETA Professional Hit
 Uzun bir aradan sonra tekrar İstanbul'da güzel bir etkinlik ile
 karşınızdayız. Ankara ve İzmir derken biraz İstanbul'u boşladığımızı

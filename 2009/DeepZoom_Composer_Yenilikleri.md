@@ -1,14 +1,3 @@
----
-FallbackID: 2392
-Title: "DeepZoom Composer Yenilikleri!"
-date: "2009-8-17"
-EntryID: DeepZoom_Composer_Yenilikleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 3ed50072-e910-4448-a8dd-270c681b6de5
----
 # DeepZoom Composer Yenilikleri!
 DeepZoom uygulamalar Silverlight 2.0 yayınlandığından bu yana en ilgi
 çeken popülar uygulamalardan biri. DeepZoom ile beraber çok büyük

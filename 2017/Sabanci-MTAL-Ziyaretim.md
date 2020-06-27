@@ -1,12 +1,3 @@
----
-Title: "Sabancı Mesleki ve Teknik Anadolu Lisesi Ziyaretim"
-EntryID: Sabanci-MTAL-Ziyaretim
-date: "2017-4-6"
-IsActive: True
-Section: software
-MinutesSpent: 8
-Tags: Seminer
----
 # Sabancı Mesleki ve Teknik Anadolu Lisesi Ziyaretim
 Dün İzmit'te **Sabancı Mesleki ve Teknik Anadolu Lisesi**'ni ziyaret ettim. Yaklaşık iki yıldır liseli kardeşim :) **Sercan Denoğlu** tabiri caiz ise bu etkinliğin gerçekleşmesi için büyük çaba sarfetti. Defalarca tarih uymadı, denk getiremedik vs derken sonunda dün gittim.
 

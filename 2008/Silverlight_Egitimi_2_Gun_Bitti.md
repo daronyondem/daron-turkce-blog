@@ -1,14 +1,3 @@
----
-FallbackID: 2046
-Title: "Silverlight Eğitimi 2. Gün Bitti"
-date: "2008-5-5"
-EntryID: Silverlight_Egitimi_2_Gun_Bitti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler, Silverlight, Silverlight 2.0
-old.EntryID: 645bee48-b097-44b5-96ec-5b42784160fd
----
 # Silverlight Eğitimi 2. Gün Bitti
 Bugün **INETA** ve **BilgeAdam** işbirliğinde "**Silverlight**"
 eğitiminin ikinci gününü zevkli bir şekilde sonlandırdık. Eğitim

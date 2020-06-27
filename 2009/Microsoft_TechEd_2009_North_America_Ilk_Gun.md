@@ -1,14 +1,3 @@
----
-FallbackID: 2363
-Title: "Microsoft TechEd 2009 North America İlk Gün"
-date: "2009-5-11"
-EntryID: Microsoft_TechEd_2009_North_America_Ilk_Gun
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7
-old.EntryID: 1e187b7c-c9f7-4214-a9fd-4b21a42d50cc
----
 # Microsoft TechEd 2009 North America İlk Gün
 Bugün Microsoft **TechEd 2009** North America'nın ilk günündeydim.
 TechEd konferansı adından anlaşıldığı gibi Technology Education olarak

@@ -1,13 +1,3 @@
----
-FallbackID: 3057
-Title: "IEEE CSCON için İzmirdeydim."
-date: "2017-3-26"
-EntryID: IEEE_CSCON_icin_Izmirdeydim
-IsActive: True
-Section: software
-MinutesSpent: 3
-Tags: Seminer, Windows Azure
----
 # IEEE CSCON için İzmirdeydim.
 Dün yine İzmir'deydim :) Bu sefer IEEE Türkiye'nin **CSCON 2017** konferansı için Dokuz Eylül Üniversitesi'ndeydim. Tam günlük bir Azure eğitimi yaptık :)
 

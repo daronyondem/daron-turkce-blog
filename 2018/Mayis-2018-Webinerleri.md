@@ -1,10 +1,3 @@
----
-Title: "Mayıs 2018 Webinerleri"
-date: "2018-5-11"
-IsActive: True
-MinutesSpent: 18
-Tags: IaC, Visual Studio App Center, Cognitive Services, Azure Functions
----
 # Mayıs 2018 Webinerleri
 
 Hani etkinlik yaptığımızda sürekli soruyorsunuz ya :) "Kaydı alınacak mı?" diye :) Çoğu zaman kayıt almak ciddi iş yükü oluyor. Diğer yandan itiraf etmek gerekirse kendi YouTube kanalıma da baktığımda teknik etkinlik kayıtları pek de izlenmiyor. :) Suç sizin valla, izlense çekerdik. Şaka bir yana... tabi ki herkesin etkinliklere gelme olanağı olamayacağının farkındayım. O nedenle kayıt değil de biraz daha interaktif bir şey yapmak istedim. Bir süredir aklımda olan webiner konusunu sahneye alıyorum. Mayıs ayı için sevgili [Yiğit Özaksüt](http://ozaksut.com/) ile beraber 4 tane webiner planladık. 

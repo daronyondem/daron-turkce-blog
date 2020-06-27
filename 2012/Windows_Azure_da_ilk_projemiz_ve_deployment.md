@@ -1,13 +1,3 @@
----
-FallbackID: 2766
-Title: "Windows Azure'da ilk projemiz ve deployment"
-date: "2012-4-24"
-EntryID: Windows_Azure_da_ilk_projemiz_ve_deployment
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Windows Azure'da ilk projemiz ve deployment
 **[Aşağıdaki makalenin SDK2.2 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

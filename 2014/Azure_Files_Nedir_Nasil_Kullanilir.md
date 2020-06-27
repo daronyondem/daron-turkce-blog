@@ -1,13 +1,3 @@
----
-FallbackID: 2912
-Title: "Azure Files Nedir? Nasıl Kullanılır?"
-date: "2014-7-29"
-EntryID: Azure_Files_Nedir_Nasil_Kullanilir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Azure Files Nedir? Nasıl Kullanılır?
 Bundan yaklaşık iki sene önce [Azure
 Drives](http://daron.yondem.com/software/post/Windows_Azure_Drive) ile

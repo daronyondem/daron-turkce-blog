@@ -1,13 +1,3 @@
----
-FallbackID: 2824
-Title: "giik.fm YAYINDA!!"
-date: "2012-10-24"
-EntryID: giik_fm_YAYINDA
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # giik.fm YAYINDA!!
 Süper bir haberle karşınızdayım :) Sevgili [İlkay
 İlknur](http://www.ilkayilknur.com/) ile beraber yeni projemiz

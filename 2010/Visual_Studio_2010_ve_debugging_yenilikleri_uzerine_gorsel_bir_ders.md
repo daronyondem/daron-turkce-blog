@@ -1,14 +1,3 @@
----
-FallbackID: 2483
-Title: "Visual Studio 2010 ve debugging yenilikleri üzerine görsel bir ders."
-date: "2010-1-19"
-EntryID: Visual_Studio_2010_ve_debugging_yenilikleri_uzerine_gorsel_bir_ders
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Visual Studio 2010
-old.EntryID: 315f99f6-8d58-4490-960e-aad3c6ba3295
----
 # Visual Studio 2010 ve debugging yenilikleri üzerine görsel bir ders.
 Bu görsel dersimizde Visual Studio 2010 ile beraber gelen Debugging
 özelliklerine genel bir bakış atıyoruz. Özellikle Intellitrace debugging

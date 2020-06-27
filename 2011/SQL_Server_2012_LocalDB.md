@@ -1,13 +1,3 @@
----
-FallbackID: 2731
-Title: "SQL Server 2012 ve LocalDB"
-date: "2011-11-29"
-EntryID: SQL_Server_2012_LocalDB
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: SQL Server 2012
----
 # SQL Server 2012 ve LocalDB
 Her zaman hayal etmişimdir :) Şu SQL Express Windows'la yüklü gelse diye
 :) Ne kadar kolaylaşırdı her tür uygulamada direk SQL DB'leri kullanmak

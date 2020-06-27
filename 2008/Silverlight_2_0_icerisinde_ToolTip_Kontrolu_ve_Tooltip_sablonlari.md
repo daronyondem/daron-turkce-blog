@@ -1,14 +1,3 @@
----
-FallbackID: 2088
-Title: "Silverlight 2.0 içerisinde ToolTip Kontrolü ve Tooltip şablonları"
-date: "2008-6-12"
-EntryID: Silverlight_2_0_icerisinde_ToolTip_Kontrolu_ve_Tooltip_sablonlari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 1f7edf25-88c4-4640-85bc-99a231a80ed4
----
 # Silverlight 2.0 içerisinde ToolTip Kontrolü ve Tooltip şablonları
 Özellikle Windows uygulamalarında "erişilebilirlik" açısından çok önemli
 olan noktalardan biri de "İpucu" balonlarıdır. "Tooltip" olarak geçen bu

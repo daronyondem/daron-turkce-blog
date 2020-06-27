@@ -1,14 +1,3 @@
----
-FallbackID: 1757
-Title: "AJAX Control Toolkit Animation Extender"
-date: "2007-8-17"
-EntryID: AJAX_Control_Toolkit_Animation_Extender
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET, JavaScript
-old.EntryID: 331a9086-f67c-4338-987b-afa32a682c61
----
 # AJAX Control Toolkit Animation Extender
 ASP.NET AJAX kitabımda detaylıca bahsettiğim AJAX Control Toolkit benim
 en çok ilgimi çeken kontrollerden biri olan <span>**Animation**</span>

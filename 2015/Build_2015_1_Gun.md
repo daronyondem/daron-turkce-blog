@@ -1,13 +1,3 @@
----
-FallbackID: 2968
-Title: "Build 2015 1. Gün"
-date: "2015-4-29"
-EntryID: Build_2015_1_Gun
-IsActive: True
-Section: software
-MinutesSpent: 20
-Tags: Visual Studio 2015, Visual Studio Code, Windows Azure
----
 # Build 2015 1. Gün
 [2011'den beridir her yıl](http://daron.yondem.com/software/search/build) canlı canlı Build konferansından haberleri sizlere blogumda aktarmaya çalışıyorum. Bu sene biraz farklılık yaparak haberleri yazılı bir blog post yerine video olarak paylaşmak istedim. Birinci günün başında Keynote öncesi konferans ortamını yansıtabilmek adına eğlenceli bir canlı yayın yaptım. Periscope üzerinden yaptığım bu yayına sevgili [İlkay İlknur](http://www.ilkayilknur.com) da katıldı. Yayının kaydını aşağıda bulabilirsiniz.
 

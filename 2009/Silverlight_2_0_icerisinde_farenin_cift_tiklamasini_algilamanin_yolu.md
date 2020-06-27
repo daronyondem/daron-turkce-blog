@@ -1,14 +1,3 @@
----
-FallbackID: 2299
-Title: "Silverlight 2.0 içerisinde farenin çift tıklamasını algılamanın yolu."
-date: "2009-1-6"
-EntryID: Silverlight_2_0_icerisinde_farenin_cift_tiklamasini_algilamanin_yolu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: 15fd122a-d6c9-4b81-b716-1470ca32abe1
----
 # Silverlight 2.0 içerisinde farenin çift tıklamasını algılamanın yolu.
 Silverlight içerisinde otomatik olarak farenin çift tıklamasını
 algılayacak bir sistem bulunmuyor. Çok ciddi bir eksik gibi gözükmese de

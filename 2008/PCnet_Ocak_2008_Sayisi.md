@@ -1,14 +1,3 @@
----
-FallbackID: 1907
-Title: "PCnet Ocak 2008 Sayısı"
-date: "2008-1-4"
-EntryID: PCnet_Ocak_2008_Sayisi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET 3.5, Expression Blend, Expression Design, Expression Web, Silverlight, Visual Studio 2008, ASP.NET
-old.EntryID: 977d47bc-a526-4594-b7a7-4ed1fd325466
----
 # PCnet Ocak 2008 Sayısı
 ![](media/PCnet_Ocak_2008_Sayisi/pcnet.png)PCnet'in Ocak
 sayısındaki yazılarımı her ay olduğu gibi yine buradan sizlere duyurmak

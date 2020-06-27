@@ -1,13 +1,3 @@
----
-FallbackID: 2774
-Title: "Windows Azure'da Blob Storage'a giriş"
-date: "2012-6-12"
-EntryID: Windows_Azure_da_Blob_Storage_a_giris
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Windows Azure'da Blob Storage'a giriş
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

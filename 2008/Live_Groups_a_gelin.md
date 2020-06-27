@@ -1,14 +1,3 @@
----
-FallbackID: 2278
-Title: "Live Groups'a gelin!"
-date: "2008-12-16"
-EntryID: Live_Groups_a_gelin
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: live.com, Silverlight 2.0, WPF
-old.EntryID: 2d73cf4a-a22e-429a-9e75-ed20b8044837
----
 # Live Groups'a gelin!
 Dün detaylarından bahsettiğim Windows Live yeni sürüm hizmetlerinden
 Live Groups'ta yeni bir grup açtım. Bugün sizlere onu duyurmak istiyorum

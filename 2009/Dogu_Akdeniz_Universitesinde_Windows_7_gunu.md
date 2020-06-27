@@ -1,14 +1,3 @@
----
-FallbackID: 2441
-Title: "Doğu Akdeniz Üniversitesinde Windows 7 günü!"
-date: "2009-11-7"
-EntryID: Dogu_Akdeniz_Universitesinde_Windows_7_gunu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: MultiTouch, Windows 7, WPF
-old.EntryID: ad40863e-5a6c-4319-a943-345e25af7299
----
 # Doğu Akdeniz Üniversitesinde Windows 7 günü!
 Bugün Kıbrıs, Doğu Akdeniz Üniversitesi'nde yine her zamanki gibi güzel
 bir gün geçirdim. Aslında maceramız dün başladı :) Dün Microsoft'u

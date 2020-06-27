@@ -1,11 +1,3 @@
----
-Title: "Azure Functions ile Linux'te Pyhton"
-date: "2018-12-10"
-IsActive: True
-IsListed: True
-MinutesSpent: 125
-Tags: Serverless, Azure Functions, Microsoft Connect
----
 # Azure Functions ile Linux'te Pyhton
 
 Geçenlerde Microsoft'un Connect adındaki online etkinliği gerçekleşti. Her Microsoft konferansında olduğu gibi bu etkinlikte de birçok yenilik duyuruldu. Bu yeniliklerden biri de Azure Functions tarafında **Consumption Plan** için Linux desteği oldu. 

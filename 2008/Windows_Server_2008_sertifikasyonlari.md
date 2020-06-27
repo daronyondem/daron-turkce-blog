@@ -1,14 +1,3 @@
----
-FallbackID: 1924
-Title: "Windows Server 2008 sertifikasyonları."
-date: "2008-1-19"
-EntryID: Windows_Server_2008_sertifikasyonlari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 1ad17d05-0f1c-4cea-affc-01b15cde28a2
----
 # Windows Server 2008 sertifikasyonları.
 Windows Server 2008 lansmanının yaklaştığı bugünlerde yavaş yavaş yeni
 sertifikasyonlar da kendini göstermeye başladı. Microsoft Server ürün

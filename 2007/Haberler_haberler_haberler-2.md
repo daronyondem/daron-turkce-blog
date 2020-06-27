@@ -1,14 +1,3 @@
----
-FallbackID: 1838
-Title: "Haberler... haberler... haberler..."
-date: "2007-11-6"
-EntryID: Haberler_haberler_haberler-2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Haberler, Silverlight
-old.EntryID: 1dc4a798-a8bd-4a53-8645-1cdaa818777b
----
 # Haberler... haberler... haberler...
 Sektörle ilgili haberleri tek tek bloga eklemektense biraz biriktirip
 toplu eklemeyi daha uygun buluyorum. Özellikle bu serideki bir haberin

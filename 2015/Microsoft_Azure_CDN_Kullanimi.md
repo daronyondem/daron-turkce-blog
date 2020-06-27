@@ -1,13 +1,3 @@
----
-FallbackID: 2981
-Title: "Microsoft Azure CDN Kullanımı"
-date: "2015-10-9"
-EntryID: Microsoft_Azure_CDN_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 46
-Tags: Azure CDN, Windows Azure
----
 # Microsoft Azure CDN Kullanımı
 CDN (Content Delivery Network)'leri tüm dünyaya yayılmış bir static
 içerik cacheleme servisi olarak düşünebilirsiniz. Uygulamanıza veya

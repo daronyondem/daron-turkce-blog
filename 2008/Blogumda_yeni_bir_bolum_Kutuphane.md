@@ -1,14 +1,3 @@
----
-FallbackID: 2084
-Title: "Blogumda yeni bir bölüm": Kütüphane!
-date: "2008-6-10"
-EntryID: Blogumda_yeni_bir_bolum_Kutuphane
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 93a0d616-54c2-4ec7-9c4d-62721eeaf2bb
----
 # Blogumda yeni bir bölüm
 Bundan birkaç ay önce seminer vermeye gittiğim birkaç üniversitede
 sürekli aynı yorum ile karşılaşmaya başladım; "*Blogunuz çok karışık*".

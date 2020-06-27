@@ -1,14 +1,3 @@
----
-FallbackID: 1768
-Title: "Visual Studio Code Name Rosario"
-date: "2007-8-30"
-EntryID: Visual_Studio_Code_Name_Rosario
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Rosario
-old.EntryID: 7e6e68d8-92b5-46c8-8fd1-170b746e9403
----
 # Visual Studio Code Name Rosario
 Önümüzdeki yıl karşımıza çıkacak olan Visual Studio 2008 ve .NET
 Framework 3.5 sonrasında tabi ki bir sonraki Visual Studio sürümüne

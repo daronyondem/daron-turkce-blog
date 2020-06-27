@@ -1,13 +1,3 @@
----
-FallbackID: 2692
-Title: "Build Konferansı yollarında..."
-date: "2011-9-9"
-EntryID: Build_Konferansi_yollarinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Build Konferansı yollarında...
 Birazdan uçağa biniyorum :) Başıma bir iş gelmez ise yarın akşam
 saatlerinde California, Anaheim'de olacağım. Neden mi? Unutanlarınız

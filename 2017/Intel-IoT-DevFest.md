@@ -1,11 +1,3 @@
----
-Title: "Intel IoT DevFest'de XOGO'daki deneyimlerimizi paylaştım."
-date: "2017-6-3"
-IsActive: True
-Section: software
-MinutesSpent: 9
-Tags: Azure IoT Hub, Windows IoT Core
----
 # Intel IoT DevFest'de XOGO'daki deneyimlerimizi paylaştım.
 Dün [Intel'in Global IoT DevFest](http://inteliotfest.withthebest.com/)'inde konuştum. Oturumumda, bundan 1.5 yıl kadar önce ilk sürümünü çıkardığımız yeni ürünümüz [XOGO](http://www.xogo.io)'yu geliştirirken edindiğimiz deneyimlerden bahsettim. Konularımız kabaca Windows IoT Enterprise, IoT Core ve tabi ki Azure IoT Hub oldu. 
 

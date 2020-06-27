@@ -1,14 +1,3 @@
----
-FallbackID: 2535
-Title: "FluidMoveBehavior ve FluidMoveSetTagBehavior ile efsanevi hareketler."
-date: "2010-9-5"
-EntryID: FluidMoveBehavior_ve_FluidMoveSetTagBehavior_ile_efsanevi_hareketler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: 0353ed49-03f5-4533-9cf9-c0abd644d71d
----
 # FluidMoveBehavior ve FluidMoveSetTagBehavior ile efsanevi hareketler.
 Daha önce
 [FluidMoveBehavior'a](http://daron.yondem.com/tr/post/024c6816-2639-4db7-8cdd-1ea688e6925d)

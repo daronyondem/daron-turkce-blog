@@ -1,14 +1,3 @@
----
-FallbackID: 1802
-Title: "Silverlight Webineri sonrası..."
-date: "2007-10-5"
-EntryID: Silverlight_Webineri_sonrasi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Webiner
-old.EntryID: 96f2c801-247e-4d0d-92c8-d0bbec3b44e0
----
 # Silverlight Webineri sonrası...
 Türkiye'nin ilk Silverlight webinerini daha önce de duyurduğum üzere
 bugün gerçekleştirdik. Silverlight webinerimizi özellikle Expression

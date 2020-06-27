@@ -1,13 +1,3 @@
----
-FallbackID: 2700
-Title: "Windows 8 Metro Uygulamarında Suspend/Resume İşlemleri"
-date: "2011-9-17"
-EntryID: Windows_8_Metro_Suspend_Resume_islemleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: C#, JavaScript, Metro UI, Windows 8, WinRT
----
 # Windows 8 Metro Uygulamarında Suspend/Resume İşlemleri
 Windows 8 ile beraber gelen MetroUI içerisindeki uygulamalar arası
 geçişler için Windows Phone 7.5'dekine benzer bir yapı düşünülmüş.

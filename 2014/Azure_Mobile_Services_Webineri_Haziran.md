@@ -1,13 +1,3 @@
----
-FallbackID: 2910
-Title: "Azure Mobile Services Webineri Haziran"
-date: "2014-6-4"
-EntryID: Azure_Mobile_Services_Webineri_Haziran
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Mobile Services, Windows Azure
----
 # Azure Mobile Services Webineri Haziran
 "Körün istediği bir göz allah verdi iki göz" şeklinde esasen uygunsuz
 bir örnek vererek başlangıç yapıyorum. Blogumu sürekli takip edenler

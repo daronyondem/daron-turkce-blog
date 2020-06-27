@@ -1,13 +1,3 @@
----
-FallbackID: 2746
-Title: "HTML5'te her tarayıcı ile uyumluluk yolunda audio tag kullanımı deneyimlerim"
-date: "2011-12-30"
-EntryID: HTML5_ve_audio_tag_hikayesi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML5, Silverlight 5
----
 # HTML5'te her tarayıcı ile uyumluluk yolunda audio tag kullanımı deneyimlerim
 HTML5 hikayelerinde her zaman en ön planda olanlar özelliklerden,
 konulardan biri audio ve video olur :) Eh HTML5 yeni birşey ve

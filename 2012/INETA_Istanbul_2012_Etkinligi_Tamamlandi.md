@@ -1,13 +1,3 @@
----
-FallbackID: 2799
-Title: "INETA İstanbul 2012 Etkinliği Tamamlandı"
-date: "2012-2-20"
-EntryID: INETA_Istanbul_2012_Etkinligi_Tamamlandi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # INETA İstanbul 2012 Etkinliği Tamamlandı
 Özlemişim, yine özlemişim :) İki yılı bulmuş sanırım İstanbul'da
 INETA'nın büyük bir etkinliği olmayalı. Bu hafta sonu İstanbul etkinliği

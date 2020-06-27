@@ -1,13 +1,3 @@
----
-FallbackID: 2988
-Title: "Konya Bilişim'de Kariyer Paneli"
-date: "2015-11-18"
-EntryID: Konya_Bilisimde_Kariyer_Paneli
-IsActive: True
-Section: software
-MinutesSpent: 7
-Tags: Seminer
----
 # Konya Bilişim'de Kariyer Paneli
 Dün Konya'daydım. Selçuk Üniversitesi'ni "**Bilişim'de Kariyer**" konulu bir sohbet için ziyaret ettim. Panel'de etkinlik sponsoru [Coder Akademi](http://www.coder.com.tr) kurucusu **Ahmet Bircan** ile soru-cevap şeklinde hoş bir sohbet yaptık. 
 

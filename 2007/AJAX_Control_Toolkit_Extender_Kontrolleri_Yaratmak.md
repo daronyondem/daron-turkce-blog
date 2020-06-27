@@ -1,14 +1,3 @@
----
-FallbackID: 1769
-Title: "AJAX Control Toolkit Extender Kontrolleri Yaratmak"
-date: "2007-8-31"
-EntryID: AJAX_Control_Toolkit_Extender_Kontrolleri_Yaratmak
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX
-old.EntryID: a0f4e711-88be-49d1-aaed-957b844b78ae
----
 # AJAX Control Toolkit Extender Kontrolleri Yaratmak
 ASP.NET AJAX Extension kullandığımız web sitelerinde bize büyük kolaylık
 sağlayan **AJAX Control Toolkit** içerisindeki kontroller gibi

@@ -1,14 +1,3 @@
----
-FallbackID: 1799
-Title: "Türkiye'nin ilk Silverlight Webineri"
-date: "2007-10-4"
-EntryID: Turkiyenin_ilk_Silverlight_Webineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Webiner
-old.EntryID: 5b72bf4f-0e3d-4705-a016-e9377759ecea
----
 # Türkiye'nin ilk Silverlight Webineri
 Türkiye'nin ilk Silverlight webinerini Microsoft'dan [Nuri
 Çankaya](http://www.nuricankaya.com) ile beraber yarın gerçekleştiriyor

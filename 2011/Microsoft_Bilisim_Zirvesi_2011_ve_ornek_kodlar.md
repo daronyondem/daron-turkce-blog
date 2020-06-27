@@ -1,14 +1,3 @@
----
-FallbackID: 2554
-Title: "Microsoft Bilişim Zirvesi 2011 ve örnek kodlar"
-date: "2011-3-11"
-EntryID: Microsoft_Bilisim_Zirvesi_2011_ve_ornek_kodlar
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: HTML5, Silverlight 4
-old.EntryID: d613f216-f2dd-40f3-9c9c-033fb35d8a34
----
 # Microsoft Bilişim Zirvesi 2011 ve örnek kodlar
 Bugün efsanevi bir etkinlik geçti İstanbul'dan! [Microsoft Bilişim
 Zirvesi](http://www.microsoft.com/turkiye/cloud/localevents.aspx) :)

@@ -1,14 +1,3 @@
----
-FallbackID: 2430
-Title: "Windows 7 İstanbul Akademik Lansman"
-date: "2009-10-23"
-EntryID: Windows_7_Istanbul_Akademik_Lansman
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7
-old.EntryID: c510d635-addb-4452-a83f-f347ebfbd717
----
 # Windows 7 İstanbul Akademik Lansman
 Bugün Windows 7'nin ilk Akademik Lansmanı'nı İstanbul 7Tepe
 Üniversitesi'nde yaptık. İlgi gerçekten muhteşemdi! Windows 7'nin ciddi

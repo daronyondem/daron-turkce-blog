@@ -1,14 +1,3 @@
----
-FallbackID: 1842
-Title: "Silverlight ve ASP.NET AJAX ile Uygulama Geliştirme Webineri Sonrasında"
-date: "2007-11-8"
-EntryID: Silverlight_ve_ASP_NET_AJAX_ile_Uygulama_Gelistirme_Webineri_Sonrasinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Blend, Expression Studio, Silverlight, Webiner
-old.EntryID: 8b565c36-b033-41b1-8e39-ce6170bee9d5
----
 # Silverlight ve ASP.NET AJAX ile Uygulama Geliştirme Webineri Sonrasında
 Bugün **Microsoft Kurumsal Webiner** serisinin ilk webinerini
 "**Silverlight ve ASP.NET AJAX ile Uygulama Geliştirme**" konusunda

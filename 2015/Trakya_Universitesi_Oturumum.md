@@ -1,13 +1,3 @@
----
-FallbackID: 2973
-Title: "Trakya Üniversitesi Oturumum"
-date: "2015-4-21"
-EntryID: Trakya_Universitesi_Oturumum
-IsActive: True
-Section: software
-MinutesSpent: 8
-Tags: Windows Azure
----
 # Trakya Üniversitesi Oturumum
 Bugün Keşan, Trakya Üniversitesi’ndeydim. Cloud 101 oturumunda Microsoft, Amazon ve Google’ın Bulut Bilişimde yaptıklarına göz attık. 
 

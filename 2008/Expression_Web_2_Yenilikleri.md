@@ -1,14 +1,3 @@
----
-FallbackID: 2062
-Title: "Expression Web 2 Yenilikleri"
-date: "2008-5-21"
-EntryID: Expression_Web_2_Yenilikleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Web
-old.EntryID: 2dd554cc-1e0e-4bb6-8d63-93f9ba875d70
----
 # Expression Web 2 Yenilikleri
 Expression Studio'nun ikinci sürümünün Nisan başında yayınlandığını daha
 önce sizlere duyurmuştum. Yavaş yavaş bu paket içerisindeki

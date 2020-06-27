@@ -1,13 +1,3 @@
----
-FallbackID: 2841
-Title: "Global Windows Azure Bootcamp İstanbul Ayağı"
-date: "2013-4-18"
-EntryID: Global_Windows_Azure_Bootcamp_Istanbul_Ayagi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Global Windows Azure Bootcamp İstanbul Ayağı
 Bundan birkaç ay önce tarihini duyurduğum ve hatta kayıt sayfasını da
 twitter ve facebook üzerinden sizlerle paylaştığımız [Global Windows

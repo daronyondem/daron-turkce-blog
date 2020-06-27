@@ -1,13 +1,3 @@
----
-FallbackID: 2750
-Title: "Silverlight ile DRM Kontrolü"
-date: "2012-1-15"
-EntryID: Silverlight_ile_DRM_Kontrolu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 5
----
 # Silverlight ile DRM Kontrolü
 Diyelim ki Silverlight tarafında kullanıcıdan bir müzik dosyası
 alıyorsunuz. Aldığınız bir dosyanın DRM ile telif haklarının korunup

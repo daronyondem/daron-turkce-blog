@@ -1,14 +1,3 @@
----
-FallbackID: 1773
-Title: "nedirtv?com'da Visual Basic.NET Bölüm Editörlüğü"
-date: "2007-9-4"
-EntryID: nedirtv_com_da_Visual_Basic_NET_Bolum_Editorlugu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel, Görsel Ders
-old.EntryID: 294473e2-f037-4233-9ab5-c3b4ead4ff37
----
 # nedirtv?com'da Visual Basic.NET Bölüm Editörlüğü
 ![](media/nedirtv_com_da_Visual_Basic_NET_Bolum_Editorlugu/nedirtv_logo.png)Bir süredir
 görsel dersler hazırlayarak [nedirtv?.com](http://www.nedirtv.com)

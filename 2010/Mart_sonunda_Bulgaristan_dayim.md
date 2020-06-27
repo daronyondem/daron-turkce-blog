@@ -1,14 +1,3 @@
----
-FallbackID: 2488
-Title: "Mart sonunda Bulgaristan'dayım!"
-date: "2010-2-7"
-EntryID: Mart_sonunda_Bulgaristan_dayim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0, Silverlight 4
-old.EntryID: 45624dfb-764a-447f-b48c-dd065018e378
----
 # Mart sonunda Bulgaristan'dayım!
 ![MS Days
 Bulgaria](media/Mart_sonunda_Bulgaristan_dayim/05022010_1.jpg)Herkese

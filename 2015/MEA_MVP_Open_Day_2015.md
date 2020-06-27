@@ -1,13 +1,3 @@
----
-FallbackID: 2961
-Title: "MEA MVP Open Day 2015"
-date: "2015-3-15"
-EntryID: MEA_MVP_Open_Day_2015
-IsActive: True
-Section: software
-MinutesSpent: 11
-Tags: MVP
----
 # MEA MVP Open Day 2015
 There we go! Another year has past and it's time to write that annual "MVP MEA Open Day" blog post to keep a historical record of what an amazing week-end it was.
 

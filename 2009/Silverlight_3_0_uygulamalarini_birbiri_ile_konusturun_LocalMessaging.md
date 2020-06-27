@@ -1,14 +1,3 @@
----
-FallbackID: 2368
-Title: "Silverlight 3.0 uygulamalarını birbiri ile konuşturun": LocalMessaging
-date: "2009-6-5"
-EntryID: Silverlight_3_0_uygulamalarini_birbiri_ile_konusturun_LocalMessaging
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 1526fe49-66cf-44d9-85a7-6ce6cee81a90
----
 # Silverlight 3.0 uygulamalarını birbiri ile konuşturun
 Bir web sitesi içerisinde birden çok Silverlight uygulamasını beraber
 kullanıyor olabilirsiniz veya belki de aynı web sitesinde sizin

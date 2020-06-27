@@ -1,13 +1,3 @@
----
-FallbackID: 2777
-Title: "Blob Storage'da Snapshot Kullanımı"
-date: "2012-7-3"
-EntryID: Blob_Storage_da_Snapshot_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Azure Storage Services, Windows Azure
----
 # Blob Storage'da Snapshot Kullanımı
 **[Aşağıdaki makalenin SDK2.5 ile beraber yeni Azure özelliklerine uygun
 şekilde güncellenmiş halini

@@ -1,13 +1,3 @@
----
-FallbackID: 2921
-Title: "Azure API Management Policy Kullanımı"
-date: "2014-10-28"
-EntryID: Azure_API_Management_Policy_Kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: API Management, Windows Azure
----
 # Azure API Management Policy Kullanımı
 Bir önceki
 [yazıda](http://daron.yondem.com/software/post/Azure_API_Management_Giris)

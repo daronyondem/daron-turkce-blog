@@ -1,14 +1,3 @@
----
-FallbackID: 2228
-Title: "Dertli Kerem'den "Geleneksel Sidik Yarışları Olimpiyatı" Protestosu!"
-date: "2008-10-27"
-EntryID: Dertli_Keremden_Geleneksel_Sidik_Yarislari_Olimpiyati_Protestosu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Dertli Kerem
-old.EntryID: c3ded2b5-62ff-4827-894b-de8f24140a26
----
 # Dertli Kerem'den Geleneksel Sidik Yarışları Olimpiyatı Protestosu!
 Web ortamında herhangi bir şeyin yayınını yapanlar arasında ilginç bir
 sidik yarışı var :) Yok efendim senin siten alexa.com'da kaçıncı sırada,

@@ -1,14 +1,3 @@
----
-FallbackID: 2143
-Title: "Cesur ve samimi bir mail..."
-date: "2008-8-4"
-EntryID: Cesur_ve_samimi_bir_mail
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: 9040103e-d206-4a6e-a477-e857d02ed79c
----
 # Cesur ve samimi bir mail...
 **INETA Summer Hit** sonrası ilginç bir mail aldım :) Mail ile ilgili
 çok yorum yapmayacağım çünkü zaten mail kendisini çok net anlatıyor.

@@ -1,14 +1,3 @@
----
-FallbackID: 2388
-Title: "Windows 7 içerisinde Taskbar Thumbnail'leri yönetmek."
-date: "2009-8-12"
-EntryID: Windows_7_icerisinde_Taskbar_Thumbnailleri_yonetmek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7
-old.EntryID: eab076d7-acf7-494c-85a1-046736d571e0
----
 # Windows 7 içerisinde Taskbar Thumbnail'leri yönetmek.
 Bir uygulama içerisinden birden çok pencerenin olduğu yılları
 hatırlarsınız dersem belki de "O yıllar geride mi kaldı?"

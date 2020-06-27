@@ -1,13 +1,3 @@
----
-FallbackID: 2878
-Title: "PushOver implementasyonu ile bloga yorum geldiğinde push notification"
-date: "2014-2-1"
-EntryID: bloga_yorum_geldiginde_push_notification
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Genel, Visual Basic .NET, Visual Studio 2013
----
 # PushOver implementasyonu ile bloga yorum geldiğinde push notification
 Push Notificationlar malumunuz artık epey popüler :) Ben de bir süredir
 [IFTTT](https://ifttt.com/p/daronyondem) ile beraber

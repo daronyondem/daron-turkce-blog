@@ -1,14 +1,3 @@
----
-FallbackID: 1777
-Title: "Silverlight 1.0 Çıktı!"
-date: "2007-9-5"
-EntryID: Silverlight_1_Cikti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: fa89e55d-49ec-4660-8b33-958ba7f165c5
----
 # Silverlight 1.0 Çıktı!
 WPF/E (WPF For Everywhere) kod adı ile tanıştığımız Silverlight'ın 1.0
 sürümü Microsoft tarafından yayınlandı. Silverlight 1.0 ile beraber

@@ -1,13 +1,3 @@
----
-FallbackID: 3008
-Title: "Sakarya Üniversitesi'nde IEEE Talks"
-date: "2016-3-18"
-EntryID: Sakarya_Universitesi_nde_IEEE_Talks
-IsActive: True
-Section: software
-MinutesSpent: 26
-Tags: Kişisel Gelişim, Seminer
----
 # Sakarya Üniversitesi'nde IEEE Talks
 Dün Sakarya Üniversitesi'ndeydim. IEEE ekibinin organizasyonunda "**Boş Durma Boşa Çalış**" adlı oturumumu sundum. Gün boyunca VLOG çekmeye de devam ettim :)
 

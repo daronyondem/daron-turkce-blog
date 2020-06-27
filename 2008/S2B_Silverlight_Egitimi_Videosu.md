@@ -1,14 +1,3 @@
----
-FallbackID: 1966
-Title: "S2B Silverlight Eğitimi Videosu"
-date: "2008-2-22"
-EntryID: S2B_Silverlight_Egitimi_Videosu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler, Silverlight
-old.EntryID: f17aa305-cb49-478e-ad05-8455e5410ad0
----
 # S2B Silverlight Eğitimi Videosu
 Bundan bir süre önce Microsoft'un **Students 2 Business** programı
 çerçevesinde [bir Silverlight

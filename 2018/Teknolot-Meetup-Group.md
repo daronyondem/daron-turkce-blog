@@ -1,10 +1,3 @@
----
-Title: "Teknolot Meetup Grubu"
-date: "2018-10-11"
-IsActive: True
-MinutesSpent: 27
-Tags: Meetup, Teknolot
----
 # Teknolot Meetup Grubu
 
 Bir süredir, sağolsun [Yiğit](https://twitter.com/ozaksuty)'in daveti, ile [Xamarin Istanbul Development Meetup](https://www.meetup.com/Xamarin-Istanbul-Development-Meetup/) grubunda aslında pek de Xamarin ile alakası olmayan konularda konuştuğumuzu fark etmiş olabilirsiniz :D Meetup grupları ile ilgili olarak genel iki sıkıntı hissediyorum. Birincisi *"teknoloji veya ürün odaklı"* meetup grupları. Aslında bu gruplar meetup.com'un doğasına çok uygun ve meetup dediğin özünde böyle olur. Fakat bence ciddi bir satürasyona neden oluyor. Kimsenin seksen farklı grubu takip edecek zamanı olmadığı gibi, seksen farklı gruba yetecek bir yazılım community'si de yok. Diğer yandan kimse sadece tek bir ürün de kullanmıyor. Ülkemizdeki yazılımcı profili arz-talep çemberinde *"her şeyi yapmak zorunda kalan"* yazılımcı şeklinde şekilleniyor. İkinci problem ise grupları çoğrafik bölgelere adanması. Bence bu kadar bölünecek bir boyuta sahip ne çoğrafyaya, ne de popülasyona sahibiz. En uzun iç uçuşumuz 1 saat, yazılımcı nüfusumuz da atla deve değil. Zaten etkinlikler hep İstanbul'da olmuyor mu? :) Güldüğüme bakmayın, canım sıkkın. Neyse... bir diğer dert ise benim şahsi derdim. Anlatabileceğimiz bir konu olduğunu düşündüğümde "Yahu hangi meetup grubu uygun acaba buna?" diye sorgulamaktan sıkıldım. Bazen yer de bulamıyorum açıkçası. 

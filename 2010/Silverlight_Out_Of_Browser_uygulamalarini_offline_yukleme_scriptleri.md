@@ -1,14 +1,3 @@
----
-FallbackID: 2531
-Title: "Silverlight Out Of Browser uygulamalarını offline yükleme scriptleri"
-date: "2010-7-21"
-EntryID: Silverlight_Out_Of_Browser_uygulamalarini_offline_yukleme_scriptleri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4
-old.EntryID: f8d69b56-449b-491b-83b6-09aaad12973f
----
 # Silverlight Out Of Browser uygulamalarını offline yükleme scriptleri
 Silverlight ile OOB (Out-Of-Browser) modunda uygulamalar geliştirirken
 bir diğer hissedilebilen ihtiyaç da bu uygulamaları bazen ayrı bir

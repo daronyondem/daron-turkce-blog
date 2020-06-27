@@ -1,14 +1,3 @@
----
-FallbackID: 2397
-Title: "Windows 7'de VHD'den boot etmek!"
-date: "2009-9-2"
-EntryID: Windows_7_de_VHD_den_boot_etmek
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows 7
-old.EntryID: a8587e2e-11e7-4f93-9f96-ab17b5a3cad8
----
 # Windows 7'de VHD'den boot etmek!
 Windows 7 ile beraber gelen ve biz yazılımcıların özellikle yeni
 teknolojileri test ederken kullanabileceğimiz en güzel özellik VHD'den

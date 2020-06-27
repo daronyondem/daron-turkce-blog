@@ -1,14 +1,3 @@
----
-FallbackID: 2183
-Title: "Internet Explorer 8.0 ile beraber gelen Developer Tools'u inceleyelim."
-date: "2008-9-12"
-EntryID: Internet_Explorer_8_0_ile_beraber_gelen_Developer_Tools_u_inceleyelim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: IE 8.0, Internet Explorer
-old.EntryID: 349de328-1866-4210-bd2c-409c01121ff5
----
 # Internet Explorer 8.0 ile beraber gelen Developer Tools'u inceleyelim.
 Internet Explorer içerisinde en büyük eksikliklerden biri de biz yazılım
 geliştiriciler için gerekli profilleme de hata bulma araçlarına sahip

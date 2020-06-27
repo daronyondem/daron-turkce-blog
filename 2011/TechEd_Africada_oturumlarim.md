@@ -1,13 +1,3 @@
----
-FallbackID: 2690
-Title: "TechEd Africa'da oturumlarım."
-date: "2011-9-7"
-EntryID: TechEd_Africada_oturumlarim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Seminer, TechEd
----
 # TechEd Africa'da oturumlarım.
 Yine bir TechEd haberi ile karşınızdayım :) Ama bu sefer TechEd Africa!
 17-20 Ekim'de Durban'da yapılacak TechEd Africa'da üç oturumla konuşmacı

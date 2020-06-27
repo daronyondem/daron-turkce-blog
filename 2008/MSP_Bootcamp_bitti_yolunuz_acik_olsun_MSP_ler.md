@@ -1,14 +1,3 @@
----
-FallbackID: 2188
-Title: "MSP Bootcamp bitti, yolunuz açık olsun MSP'ler":)
-date: "2008-9-17"
-EntryID: MSP_Bootcamp_bitti_yolunuz_acik_olsun_MSP_ler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: e349c6b2-3f51-47a0-a104-97f3f1876f83
----
 # MSP Bootcamp bitti, yolunuz açık olsun MSP'ler
 Bugün 2008-2009 yılı MSP'lerinin ilk buluştukları **MSP Bootcamp**'ın
 ikinci gününde ben de tüm MSP'lerle buluşma ve tanışma şansına sahip

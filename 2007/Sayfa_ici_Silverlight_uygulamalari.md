@@ -1,14 +1,3 @@
----
-FallbackID: 1886
-Title: "Sayfa içi Silverlight uygulamaları"
-date: "2007-12-14"
-EntryID: Sayfa_ici_Silverlight_uygulamalari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: eaab8a38-7f8c-4d67-86f6-1456dcf9e90d
----
 # Sayfa içi Silverlight uygulamaları
 Sayfa içi Silverlight kullanımı özellikle Silverlight animasyonlarını ve
 görsellerini oluşturan XAML kodunu sunucu tarafında oluşturuyorsanız

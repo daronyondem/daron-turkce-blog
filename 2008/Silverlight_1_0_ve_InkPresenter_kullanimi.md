@@ -1,14 +1,3 @@
----
-FallbackID: 1933
-Title: "Silverlight 1.0 ve InkPresenter kullanımı"
-date: "2008-1-28"
-EntryID: Silverlight_1_0_ve_InkPresenter_kullanimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 8d45130d-a7b2-4ce4-a4ad-f550eeea494f
----
 # Silverlight 1.0 ve InkPresenter kullanımı
 Silverlight 1.0 ile beraber gelen ve hakkında belki de en az bahsedilen
 kontrollerden biri de **InkPresenter** kontrolüdür. InkPresenter

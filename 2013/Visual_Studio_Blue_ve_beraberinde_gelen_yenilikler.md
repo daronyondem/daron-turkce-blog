@@ -1,13 +1,3 @@
----
-FallbackID: 2838
-Title: "Visual Studio Blue ve beraberinde gelen yenilikler..."
-date: "2013-4-1"
-EntryID: Visual_Studio_Blue_ve_beraberinde_gelen_yenilikler
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Visual Studio Blue ve beraberinde gelen yenilikler...
 Biliyorsunuz son zamanlarda "Windows Blue" üzerine bolca dedikodular
 geziyor. Hatta bunların çoğu dedikodu da olmaktan çıktı ve bazı kaçaklar

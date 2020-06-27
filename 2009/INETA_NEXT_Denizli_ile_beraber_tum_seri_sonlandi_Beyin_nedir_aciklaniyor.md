@@ -1,14 +1,3 @@
----
-FallbackID: 2480
-Title: "INETA NEXT Denizli ile beraber tüm seri sonlandı! Beyin nedir açıklanıyor!":)
-date: "2009-12-27"
-EntryID: INETA_NEXT_Denizli_ile_beraber_tum_seri_sonlandi_Beyin_nedir_aciklaniyor
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 4.0, ASP.NET 4.0, C#, Expression Blend, Expression Studio, IE 8.0, IIS 7.0, LINQ, PLINQ, Silverlight 4, Visual Basic 2010, Visual Studio 2010, WCF, Windows 7, WPF, Visual Basic .NET, Internet Explorer, ASP.NET
-old.EntryID: f0b2607e-0c7d-4f9e-873b-b1d8bf96dda1
----
 # INETA NEXT Denizli ile beraber tüm seri sonlandı! Beyin nedir açıklanıyor!
 Koca bir INETA NEXT serisi bitti! :) Bu hafta sonu gerçekleştirdiğimiz
 Denizli etkinliği ile beraber 2009'ın NEXT serisine son vermiş olduk.

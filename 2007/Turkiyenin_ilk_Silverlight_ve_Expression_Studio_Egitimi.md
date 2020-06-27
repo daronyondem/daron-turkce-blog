@@ -1,14 +1,3 @@
----
-FallbackID: 1826
-Title: "Türkiye'nin ilk Silverlight ve Expression Studio Eğitimi"
-date: "2007-10-26"
-EntryID: Turkiyenin_ilk_Silverlight_ve_Expression_Studio_Egitimi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler, Expression Studio, Silverlight
-old.EntryID: c599684d-04ea-4aca-a7cb-971c384ba71a
----
 # Türkiye'nin ilk Silverlight ve Expression Studio Eğitimi
 Türkiye'nin ilk **Silverlight** ve **Expression Studio** eğitimini
 Microsoft İstanbul ofislerinde bugün sonlandırdık. Üç günlük yoğun bir

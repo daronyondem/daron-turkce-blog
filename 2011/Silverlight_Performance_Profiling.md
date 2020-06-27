@@ -1,14 +1,3 @@
----
-FallbackID: 2570
-Title: "Silverlight Performance Profiling"
-date: "2011-4-26"
-EntryID: Silverlight_Performance_Profiling
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 4, Silverlight 5, Visual Studio 2010
-old.EntryID: 96723672-c174-4480-b7a6-fd462fe3eeda
----
 # Silverlight Performance Profiling
 Silverlight uygulamalarında ihtiyaç duyulan Visual Studio
 özelliklerinden biri de performans metriklerini analiz edebilmek ve

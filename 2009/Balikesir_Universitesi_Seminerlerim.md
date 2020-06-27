@@ -1,14 +1,3 @@
----
-FallbackID: 2474
-Title: "Balıkesir Üniversitesi Seminerlerim"
-date: "2009-12-12"
-EntryID: Balikesir_Universitesi_Seminerlerim
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: C#, Silverlight 4, WPF
-old.EntryID: cf97c876-02ec-46bb-aa52-d5b20fe9a033
----
 # Balıkesir Üniversitesi Seminerlerim
 Bugün Balıkesir'deydik! Balıkesir Üniversitesi'nden sevgili MSP'miz
 **Armağan Semih Göçmen**'ın organizasyonu ile bir günlük hızlandırılmış

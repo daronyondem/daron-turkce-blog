@@ -1,14 +1,3 @@
----
-FallbackID: 2377
-Title: "Silverlight 3.0 içerisinde şeffaf videolar (Chrome Key Efekti)"
-date: "2009-7-3"
-EntryID: Silverlight_3_0_icerisinde_seffaf_videolar_Chrome_Key_Efekti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 84d6a965-6c16-453f-be33-d89fd49fad1d
----
 # Silverlight 3.0 içerisinde şeffaf videolar (Chrome Key Efekti)
 Silverlight içerisinde herhangi bir nesneye şeffaf fon vermek veya bir
 renk seçerken Alpha kanalını da ayarlamak mümkün fakat elinizde hali

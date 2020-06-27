@@ -1,14 +1,3 @@
----
-FallbackID: 2198
-Title: "INETA Capital Hit"
-date: "2008-9-26"
-EntryID: INETA_Capital_Hit
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: .NET Framework 3.5, ASP.NET 3.5, Expression Blend, IIS 7.0, LINQ, Seminer, Silverlight 2.0, Visual Basic 2008, Visual Studio 2008, WCF, WPF, Visual Basic .NET, ASP.NET
-old.EntryID: e7784945-391f-4e80-af92-2e8499d13592
----
 # INETA Capital Hit
 [INETA Summer
 Hit](http://daron.yondem.com/tr/post/7a13b13a-ce73-4ca0-b106-5da96c78a08c)

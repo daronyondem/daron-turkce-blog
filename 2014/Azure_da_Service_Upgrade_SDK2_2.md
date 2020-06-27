@@ -1,13 +1,3 @@
----
-FallbackID: 2884
-Title: "Azure'da Service Upgrade (SDK2.2)"
-date: "2014-2-24"
-EntryID: Azure_da_Service_Upgrade_SDK2_2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure'da Service Upgrade (SDK2.2)
 Azure ortamına bir servisi deploy ettikten sonra doğal olarak bir gün
 onu upgrade de etmemiz gerekecek :) İşte gibi bir senaryoda

@@ -1,13 +1,3 @@
----
-FallbackID: 2709
-Title: "Microsoft Student Partner Programı 2011-12 Kick Off Toplantısı"
-date: "2011-9-25"
-EntryID: MSP_Programi_2011-12_Kick_Off_Toplantisi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
----
 # Microsoft Student Partner Programı 2011-12 Kick Off Toplantısı
 Bugün Microsoft'ta **Microsoft Student Partner** programı 2011-12 yılı
 Kick Off toplantısı vardı. Aslında toplantı şu anda devam ediyor :)

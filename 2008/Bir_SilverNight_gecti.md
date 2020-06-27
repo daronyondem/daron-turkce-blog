@@ -1,14 +1,3 @@
----
-FallbackID: 2283
-Title: "Bir SilverNight geçti..."
-date: "2008-12-21"
-EntryID: Bir_SilverNight_gecti
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 2.0
-old.EntryID: e7544005-c501-4854-a453-21ee571f1cb4
----
 # Bir SilverNight geçti...
 Süper bir geceydi. Neden mi? :) Tabi ki SilverNight yüzünden. Talihliler
 arasında yer alamayanların unuttuğunu tahmin ettiğim **SilverNight**

@@ -1,13 +1,3 @@
----
-FallbackID: 3056
-Title: "İstanbul Ticaret Üniversitesi'nde Azure anlattım."
-date: "2017-3-25"
-EntryID: Istanbul_Ticaret_Universitesinde_Azure_anlattim
-IsActive: True
-Section: software
-MinutesSpent: 6
-Tags: Seminer, Windows Azure
----
 # İstanbul Ticaret Üniversitesi'nde Azure anlattım.
 Dün **İstanbul Ticaret Üniversitesi**'ndeydim. Her zamanki **Cloud 101** oturumunu sundum. Benden sonra da sevgili **Yiğit Özaksüt** Xamarin anlattı :) 
 

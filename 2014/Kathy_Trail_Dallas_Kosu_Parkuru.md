@@ -1,13 +1,3 @@
----
-FallbackID: 2913
-Title: "Kathy Trail Dallas Koşu Parkuru"
-date: "2014-8-1"
-EntryID: Kathy_Trail_Dallas_Kosu_Parkuru
-IsActive: True
-Section: fitness
-MinutesSpent: 0
-Tags: 
----
 # Kathy Trail Dallas Koşu Parkuru
 Geçen haftalarda bir iş gezisi için Dallas'a gitmem gerekti. Tüm hafta
 boyunca Dallas'ta müşteri toplantıları vs derken sonunda bir günümü boşa

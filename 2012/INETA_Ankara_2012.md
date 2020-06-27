@@ -1,13 +1,3 @@
----
-FallbackID: 2789
-Title: "INETA Ankara'daydı..."
-date: "2012-2-6"
-EntryID: INETA_Ankara_2012
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # INETA Ankara'daydı...
 INETA serisi devam ediyor. Laf aramızda yeni
 görevinde[Muammer](http://www.muammerbenzes.com/) gerçekten süper bir iş

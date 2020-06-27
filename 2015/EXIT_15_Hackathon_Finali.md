@@ -1,13 +1,3 @@
----
-FallbackID: 2971
-Title: "EXIT 15 Hackathon Finali"
-date: "2015-4-14"
-EntryID: EXIT_15_Hackathon_Finali
-IsActive: True
-Section: software
-MinutesSpent: 13
-Tags: 
----
 # EXIT 15 Hackathon Finali
 Hafta sonu Boğaziçi Üniversitesi’nde düzenlenen EXIT 15 Etkinliğinde bir Azure oturumum vardı. Sonrasında da jüri koltuğuna oturup Hackathon boyunca depreşip bir şeyler yapmaya çalışan grupları değerlendirdik :)
 

@@ -1,13 +1,3 @@
----
-FallbackID: 2704
-Title: "Windows 8 Metro UI'da Accelerometer desteği"
-date: "2011-9-21"
-EntryID: Windows_8_Metro_UI_da_Accelerometer_destegi
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Metro UI, Visual Studio 11, Windows 8
----
 # Windows 8 Metro UI'da Accelerometer desteği
 Tabletlerde Accelerometer kullanımı epey popülar. Bu fikirle yola
 çıkarsak tabi ki Windows 8 Metro UI tarafında da Accelerometer

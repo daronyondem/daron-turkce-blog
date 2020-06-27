@@ -1,14 +1,3 @@
----
-FallbackID: 2419
-Title: "AJAX Control Toolkit'te yeni AsyncFileUpload Kontrolü"
-date: "2009-10-2"
-EntryID: AJAX_Control_Toolkit_te_yeni_AsyncFileUpload_Kontrolu
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: AJAX, ASP.NET 3.5, ASP.NET
-old.EntryID: df55edd7-8189-4708-9c32-7b9896e29760
----
 # AJAX Control Toolkit'te yeni AsyncFileUpload Kontrolü
 AJAX'tan ilk bahsetmeye başladığımız yıllarda en çok aldığım sorulardan
 biri asenkron File Upload işlemi ile ilgiliydi. Asenkron işlem

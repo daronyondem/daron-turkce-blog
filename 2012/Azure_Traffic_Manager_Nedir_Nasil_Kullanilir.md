@@ -1,13 +1,3 @@
----
-FallbackID: 2822
-Title: "Azure Traffic Manager Nedir? Nasıl Kullanılır?"
-date: "2012-10-9"
-EntryID: Azure_Traffic_Manager_Nedir_Nasil_Kullanilir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Azure Traffic Manager Nedir? Nasıl Kullanılır?
 Biliyorsunuz Azure datacenter'ları tüm dünyada farklı noktalara
 konumlanmış durumda. Hatta bir servis deploy ederken hangi datacenter'a

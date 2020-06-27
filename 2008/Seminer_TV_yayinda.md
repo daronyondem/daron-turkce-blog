@@ -1,14 +1,3 @@
----
-FallbackID: 2176
-Title: "Seminer TV yayında":)
-date: "2008-9-5"
-EntryID: Seminer_TV_yayinda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: 
-old.EntryID: cec638f6-329d-40f3-9fd8-edb00a4f006f
----
 # Seminer TV yayında
 Özellikle Doğu ve Güneydoğu Anadolu'dan çok fazla seminerlerle ilgili
 mail geliyor. Haklı olarak İstanbul'da çok fazla aktivite olduğundan

@@ -1,14 +1,3 @@
----
-FallbackID: 1848
-Title: "Expression Design Webineri"
-date: "2007-11-14"
-EntryID: Expression_Design_Webineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Design, Webiner
-old.EntryID: e23aa671-1d9d-4ad2-8030-3fad8a2a7746
----
 # Expression Design Webineri
 **![](media/Expression_Design_Webineri/expression_design_logo.png)16
 Kasım, Cuma** günü saat **15.15-16.00** arasında **Expression Design**

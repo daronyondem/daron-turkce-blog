@@ -1,14 +1,3 @@
----
-FallbackID: 2122
-Title: "3 saatlik Silverlight 1.0 Seminerinin videosu karşınızda!"
-date: "2008-7-14"
-EntryID: 3_saatlik_Silverlight_1_0_Seminerinin_videosu_karsinizda
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight
-old.EntryID: 1ac88fb9-146e-4f96-ba4d-45e58dfb0897
----
 # 3 saatlik Silverlight 1.0 Seminerinin videosu karşınızda!
 Bundan yaklaşık 6 ay önceydi sanırım
 [GGK](http://www.gencgirisimciler.org/) organizasyonunda bir Silverlight

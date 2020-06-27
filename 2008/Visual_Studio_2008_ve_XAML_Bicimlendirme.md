@@ -1,14 +1,3 @@
----
-FallbackID: 1937
-Title: "Visual Studio 2008 ve XAML Biçimlendirme"
-date: "2008-1-30"
-EntryID: Visual_Studio_2008_ve_XAML_Bicimlendirme
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight, Visual Studio 2008, WPF
-old.EntryID: 30b195f4-8146-47e9-aad3-f7f9665f04e4
----
 # Visual Studio 2008 ve XAML Biçimlendirme
 XAML kodlarını yazarken hangi elementin ne özelliğe sahip olduğunu
 bulmak bazen karışık kodlarda iyice içinden çıkılmaz bir hal alabiliyor.

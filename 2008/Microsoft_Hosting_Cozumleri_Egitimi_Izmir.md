@@ -1,14 +1,3 @@
----
-FallbackID: 2161
-Title: "Microsoft Hosting Çözümleri Eğitimi, İzmir"
-date: "2008-8-21"
-EntryID: Microsoft_Hosting_Cozumleri_Egitimi_Izmir
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: ASP.NET 3.5, IIS 7.0, Silverlight, Silverlight 2.0, ASP.NET
-old.EntryID: 24d28427-b3f9-47e0-834b-c643c305d2ab
----
 # Microsoft Hosting Çözümleri Eğitimi, İzmir
 Bugün İzmir'de hosting sağlayıcılar ile bir bir eğitimimiz oldu. Benim
 için çok güzel bir fırsattı :) çünkü zaten hali hazırda Türkiye'deki

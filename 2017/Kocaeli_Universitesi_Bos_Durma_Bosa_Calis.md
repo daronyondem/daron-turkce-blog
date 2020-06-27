@@ -1,13 +1,3 @@
----
-FallbackID: 3051
-Title: "Kocaeli Üniversitesi'nde Boş Durma Boşa Çalış"
-date: "2017-3-7"
-EntryID: Kocaeli_Universitesi_Bos_Durma_Bosa_Calis
-IsActive: True
-Section: software
-MinutesSpent: 7
-Tags: 
----
 # Kocaeli Üniversitesi'nde Boş Durma Boşa Çalış
 Dün Kocaeli Üniversitesi'ndeydim. Hızlı bir ziyaret yaparak **"Boş Durma Boşa Çalış"** oturumumu sundum. Her zamanki gibi eğlenceli bir gün oldu :) 
 

@@ -1,14 +1,3 @@
----
-FallbackID: 1726
-Title: "Mayasoft Ders Uygulama Dosyaları"
-date: "2007-4-12"
-EntryID: Mayasoft_Ders_Uygulama_Dosyalari
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Eğitimler
-old.EntryID: 586bbb2e-890d-4f4c-aa81-f5c75332aa6b
----
 # Mayasoft Ders Uygulama Dosyaları
 **Mayasoft Bilişim Akademisi**'nde sürdüğümüz **Web Tasarım** kursunun
 **11.04.2007** tarihli dersine ait uygulama dosyalarını aşağıdaki

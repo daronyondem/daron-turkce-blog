@@ -1,13 +1,3 @@
----
-FallbackID: 2815
-Title: "Outlook.com IN, hotmail.com OUT"
-date: "2012-8-1"
-EntryID: Outlook_com_IN__hotmail_com_OUT
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Haberler
----
 # Outlook.com IN, hotmail.com OUT
 Uzun zaman oldu böyle popüler haberler yazmayalı bloga :) İtiraf etmek
 gerekirse twitter çoğu zaman bu popüler haberlerin ışık hızı ile

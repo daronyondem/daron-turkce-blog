@@ -1,13 +1,3 @@
----
-FallbackID: 2729
-Title: "Windows 8 Tablet Development Giriş (Video)"
-date: "2011-11-19"
-EntryID: Win8_Tablet_Development_Giris_Video
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: C#, HTML5, Metro UI, Windows 8, WinRT
----
 # Windows 8 Tablet Development Giriş (Video)
 "[Kasım Webiner
 serimiz](http://daron.yondem.com/tr/post/Kasim_Ayi_Webinerleri_SL_WP7_Win8_IE10_Azure)"

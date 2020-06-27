@@ -1,13 +1,3 @@
----
-FallbackID: 2881
-Title: "Windows Azure'da ilk projemiz ve deployment (SDK2.2)"
-date: "2013-12-1"
-EntryID: Windows_Azure_da_ilk_projemiz_ve_deployment_SDK2_2
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Windows Azure
----
 # Windows Azure'da ilk projemiz ve deployment (SDK2.2)
 Artık yavaş yavaş birşeyleri Azure ortamında görmenin zamanı geldi :)
 Hemen Visual Studio'yu açıp "File / New Project" üzerinden "Cloud"'u

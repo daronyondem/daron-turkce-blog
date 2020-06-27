@@ -1,14 +1,3 @@
----
-FallbackID: 2391
-Title: "Silverlight 3.0 ile Assembly Caching"
-date: "2009-8-16"
-EntryID: Silverlight_3_0_ile_Assembly_Caching
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Silverlight 3.0
-old.EntryID: 888ba0d1-8df1-43e0-af96-0e0b2cbfacdb
----
 # Silverlight 3.0 ile Assembly Caching
 Silverlight uygulamalarınızda harici kontroller kullanmamak elde değil.
 Bugün ister Silverlight SDK ile beraber gelen kontroller olsun ister

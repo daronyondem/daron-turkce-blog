@@ -1,14 +1,3 @@
----
-FallbackID: 1806
-Title: "Expression Media ve Expression Encoder Webineri"
-date: "2007-10-9"
-EntryID: Expression_Media_ve_Expression_Encoder_Webineri
-IsActive: True
-Section: software
-MinutesSpent: 0
-Tags: Expression Studio, Webiner
-old.EntryID: bc14d41d-95cc-4459-bc64-de71fd3e312c
----
 # Expression Media ve Expression Encoder Webineri
 Türkiye’nin ilk Expression webinerini 11 Ekim 2007 Perşembe günü
 gerçekleştiriyoruz. Microsoft’tan Mehmet Nuri Çankaya ile konuşmacı
