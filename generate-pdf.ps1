@@ -1,0 +1,1 @@
+﻿pandoc -s "markdown.md" --toc --pdf-engine=xelatex --include-in-header chapter_break.tex -o "notemplatemarkdown.pdf" --variable=toc-title:"İçindekiler" -V linkcolor:blue -V geometry:a4paper -V geometry:margin=2cm -V mainfont="Helvetica Neue" -V monofont="Consolas" -V fontsize=12pt
