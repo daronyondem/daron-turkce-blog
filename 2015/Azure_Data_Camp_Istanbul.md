@@ -1,8 +1,0 @@
-# Azure Data Camp Istanbul
-Dün Microsoft tarafından müşteriler için organize edilmiş Azure Data Camp vardı. Data Camp içerisinde Azure'daki PAAS seviyesinde neredeyse tüm Data Storage ürünlerini inceledik diyebilirim.
-
-![](media/Azure_Data_Camp_Istanbul/datacamp.jpg)
-
-Güne klasik SQL Database ile başkadık. Sonrasında Azure Storage içerisinde Blobs, Table Services, Queue, Files derken DocumentDB, Azure Search, Redis Cache ve hafiften SQL Data Warehouse'a da değinerek epey yoğun bir gün geçirdik. Gün boyunca kullandığım örnekleri biraz daha derleyip, toparlayıp yakında blogda da paylaşacağım :) Takip etmeye devam edin. Görüşmek üzere.
-
-*Bu yazi http://daron.yondem.com adresinde, 2015-10-28 tarihinde yayinlanmistir.*
