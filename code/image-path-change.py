@@ -2,9 +2,9 @@ import os
 import re
 
 def update_image_paths(directory):
-    # Define the pattern to match all markdown image syntax, capturing the alt text and the path
-    # The pattern now accounts for line breaks and spaces within the markdown syntax
-    img_pattern = re.compile(r'!\[(.*?)\]\(\s*(media/.+?)\s*\)', re.DOTALL)
+    # Define the pattern to match all markdown image syntax, including those with line breaks and trailing backslashes
+    # This pattern accounts for line breaks within the alt text and optional backslashes at the end
+    img_pattern = re.compile(r'!\[(.*?)\]\(\s*(media/.+?)\s*\)(\\)?', re.DOTALL)
     
     # Iterate over each markdown file in the directory
     for filename in os.listdir(directory):
@@ -15,9 +15,8 @@ def update_image_paths(directory):
             with open(file_path, 'r', encoding='utf-8') as file:
                 content = file.read()
             
-            # Replace the image paths while preserving the alt text
-            # The substitution pattern remains the same
-            updated_content = img_pattern.sub(r'![\1](../\2)', content)
+            # Replace the image paths while preserving the alt text and handling trailing backslashes
+            updated_content = img_pattern.sub(lambda match: f'![{match.group(1)}](../{match.group(2)})' + ('\\' if match.group(3) else ''), content)
             
             # Write the updated content back to the file
             with open(file_path, 'w', encoding='utf-8') as file:
