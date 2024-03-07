@@ -3,7 +3,8 @@ import re
 
 def update_image_paths(directory):
     # Define the pattern to match all markdown image syntax, capturing the alt text and the path
-    img_pattern = re.compile(r'!\[(.*?)\]\((media/.+?)\)')
+    # The pattern now accounts for line breaks and spaces within the markdown syntax
+    img_pattern = re.compile(r'!\[(.*?)\]\(\s*(media/.+?)\s*\)', re.DOTALL)
     
     # Iterate over each markdown file in the directory
     for filename in os.listdir(directory):
@@ -15,6 +16,7 @@ def update_image_paths(directory):
                 content = file.read()
             
             # Replace the image paths while preserving the alt text
+            # The substitution pattern remains the same
             updated_content = img_pattern.sub(r'![\1](../\2)', content)
             
             # Write the updated content back to the file
